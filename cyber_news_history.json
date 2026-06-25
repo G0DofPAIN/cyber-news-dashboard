@@ -1,7 +1,7 @@
 [
   {
     "id": "794f23442ceae8b5",
-    "date": "2026-06-25T19:02:54.329484+00:00",
+    "date": "2026-06-25T21:23:31.323296+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "f496b791f9835a2c",
-    "date": "2026-06-25T19:02:54.329362+00:00",
+    "date": "2026-06-25T21:23:31.323190+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "448442a09ff165d0",
-    "date": "2026-06-25T19:02:54.329241+00:00",
+    "date": "2026-06-25T21:23:31.323085+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "578d537535603837",
-    "date": "2026-06-25T19:02:54.329115+00:00",
+    "date": "2026-06-25T21:23:31.322974+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "a2b5b04350b4250c",
-    "date": "2026-06-25T19:02:54.328988+00:00",
+    "date": "2026-06-25T21:23:31.322861+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "a224a1ea9aed66d6",
-    "date": "2026-06-25T19:02:54.328858+00:00",
+    "date": "2026-06-25T21:23:31.322746+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -170,6 +170,1941 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/adobe-reader-patch-now-for-cve-2026-27278-rce-via-pdf"
+      }
+    ]
+  },
+  {
+    "id": "179136883d54efb3",
+    "date": "2026-06-25T21:23:31.322638+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Fuji Electric Tellus: Kernel Driver Bug Enables SYSTEM Privilege Escalation CYBERSEC ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/fuji-electric-tellus-kernel-driver-bug-enables-system-privilege-escalation",
+    "target": "Fuji Electric Tellus",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/fuji-electric-tellus-kernel-driver-bug-enables-system-privilege-escalation"
+      }
+    ]
+  },
+  {
+    "id": "636fe8d1c80f2a44",
+    "date": "2026-06-25T21:23:31.322342+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ZDI-26-376: RCE in Quest NetVault Backup with Authentication Bypass CYBERSEC CRITICAL",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Quest NetVault Backup. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed. The ZDI has assigned a CVSS rating of 8.8. The following CVEs are assigned: CVE-2026-9787.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/zdi-26-376-rce-in-quest-netvault-backup-with-authentication-bypass",
+    "target": "ZDI-26-376",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/zdi-26-376-rce-in-quest-netvault-backup-with-authentication-bypass"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-376/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-375/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-374/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-373/"
+      }
+    ]
+  },
+  {
+    "id": "3d890557d7f1a08c",
+    "date": "2026-06-25T21:23:31.322159+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Docker MCP Plugin: RCE via OCI Label, Urgent Patch CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/docker-mcp-plugin-rce-via-oci-label-urgent-patch",
+    "target": "Docker MCP Plugin",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/docker-mcp-plugin-rce-via-oci-label-urgent-patch"
+      }
+    ]
+  },
+  {
+    "id": "74dfdff6fbedac9b",
+    "date": "2026-06-25T21:23:31.321928+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Edgecution: Malicious Edge Extension Bypasses Sandbox via Native Messaging malware",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/malware/edgecution-malicious-edge-extension-bypasses-sandbox-via-native-messaging",
+    "target": "Edgecution",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/malware/edgecution-malicious-edge-extension-bypasses-sandbox-via-native-messaging"
+      }
+    ]
+  },
+  {
+    "id": "3f9dda972081b595",
+    "date": "2026-06-25T21:23:31.321819+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Adobe Reader: Patch Now for CVE-2026-27278, RCE via PDF CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/adobe-reader-patch-now-for-cve-2026-27278-rce-via-pdf",
+    "target": "Adobe Reader",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/adobe-reader-patch-now-for-cve-2026-27278-rce-via-pdf"
+      }
+    ]
+  },
+  {
+    "id": "ef1a3df98c2f12ea",
+    "date": "2026-06-25T21:23:31.321709+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Europe Overtakes US: 684 Ransomware Attacks in Four Months ransomware",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://deafnews.it/en/news/ransomware/europe-overtakes-us-684-ransomware-attacks-in-four-months",
+    "target": "Europe Overtakes",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ransomware/europe-overtakes-us-684-ransomware-attacks-in-four-months"
+      }
+    ]
+  },
+  {
+    "id": "d3393539097767f3",
+    "date": "2026-06-25T21:23:31.321595+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "malware Gaslight: macOS Malware Tricks AI Analyzers with Prompt Injection Jun 25, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/malware/gaslight-macos-malware-tricks-ai-analyzers-with-prompt-injection",
+    "target": "Gaslight",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/malware/gaslight-macos-malware-tricks-ai-analyzers-with-prompt-injection"
+      }
+    ]
+  },
+  {
+    "id": "d79d58a981159543",
+    "date": "2026-06-25T21:23:31.321473+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC ThreatsDay June 2026: Miasma Toolkit Leaked, Claude Code Patched, AI Agent Phishing Jun 25, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/threatsday-june-2026-miasma-toolkit-leaked-claude-code-patched-ai-agent-phishing",
+    "target": "CYBERSEC ThreatsDay June 2026",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/threatsday-june-2026-miasma-toolkit-leaked-claude-code-patched-ai-agent-phishing"
+      }
+    ]
+  },
+  {
+    "id": "db2d1a1d040d7485",
+    "date": "2026-06-25T21:23:31.321324+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC 'Snoopy' Sentenced: 18 Months for the Massive DraftKings Hack Jun 25, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/snoopy-sentenced-18-months-for-the-massive-draftkings-hack",
+    "target": "CYBERSEC Snoopy Sentenced",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/snoopy-sentenced-18-months-for-the-massive-draftkings-hack"
+      }
+    ]
+  },
+  {
+    "id": "028e8e61934f9756",
+    "date": "2026-06-25T21:23:31.321191+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ransomware Ransomware: Europe Overtakes US as Top Target With 55% Surge in Attacks Jun 25, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://deafnews.it/en/news/ransomware/ransomware-europe-overtakes-us-as-top-target-with-55-surge-in-attacks",
+    "target": "Ransomware",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ransomware/ransomware-europe-overtakes-us-as-top-target-with-55-surge-in-attacks"
+      }
+    ]
+  },
+  {
+    "id": "f943252cb957d429",
+    "date": "2026-06-25T21:23:31.321060+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Beyond IOCs: Talos Unveils Vision for LLMs in Threat Intelligence",
+    "summary": "In this week’s newsletter, Martin considers how AI will help threat intelligence by creating an easily queryable data source of intelligence reports.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/beyond-iocs-talos-unveils-vision-for-llms-in-threat-intelligence",
+    "target": "Beyond IOCs",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "Cisco Talos"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/beyond-iocs-talos-unveils-vision-for-llms-in-threat-intelligence"
+      },
+      {
+        "source": "Cisco Talos",
+        "url": "https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/"
+      }
+    ]
+  },
+  {
+    "id": "3ddb3eaee7aec34c",
+    "date": "2026-06-25T21:23:31.320894+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 ZERO-DAY · 6 CVE · 5 EXPLOIT IN THE LAST 24H →",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/threats",
+    "target": "ZERO-DAY CVE EXPLOIT",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/threats"
+      }
+    ]
+  },
+  {
+    "id": "17accc742eadcd41",
+    "date": "2026-06-25T21:23:30.394970+00:00",
+    "source": "InfoStealers Weekly Reports",
+    "quality": "High",
+    "scope": "Weekly",
+    "category": "Weekly Infostealer Report",
+    "title": "Report Infostealers Weekly Report: 2026-05-11 – 2026-05-18 InfoStealers Weekly Report - In this comprehensive report, we provide you with valuable insights into the most pressing threats facing organizations today. As cyberattacks continue to… May 18, 2026 13 min read",
+    "summary": "Weekly intelligence briefing tracking infostealer activity, compromised domains and breached organizations.",
+    "article_text": "",
+    "quick_summary": [
+      "Weekly intelligence briefing tracking infostealer activity, compromised domains and breached organizations.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.infostealers.com/report/infostealers-weekly-report-2026-05-11-2026-05-18/",
+    "target": "Infostealers Weekly",
+    "type": "Weekly Threat Intel",
+    "severity": "High",
+    "sources": [
+      "InfoStealers Weekly Reports"
+    ],
+    "links": [
+      {
+        "source": "InfoStealers Weekly Reports",
+        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-05-11-2026-05-18/"
+      },
+      {
+        "source": "InfoStealers Weekly Reports",
+        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-05-18-2026-05-25/"
+      },
+      {
+        "source": "InfoStealers Weekly Reports",
+        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-05-25-2026-06-01/"
+      },
+      {
+        "source": "InfoStealers Weekly Reports",
+        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-06-01-2026-06-08/"
+      },
+      {
+        "source": "InfoStealers Weekly Reports",
+        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-06-08-2026-06-15/"
+      },
+      {
+        "source": "InfoStealers Weekly Reports",
+        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-06-15-2026-06-22/"
+      }
+    ]
+  },
+  {
+    "id": "9ca7b5538ab6f9e6",
+    "date": "2026-06-25T21:23:29.587179+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Tata Electronics Confirms Data Breach Affecting Apple, Tesla Supplier",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/tata-electronics-confirms-data-breach-affecting-apple-tesla-supplier/629797/",
+    "target": "Tata Electronics Confirms Data",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/tata-electronics-confirms-data-breach-affecting-apple-tesla-supplier/629797/"
+      }
+    ]
+  },
+  {
+    "id": "66498a0e4473da09",
+    "date": "2026-06-25T21:23:29.587047+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "WhatsApp VBScript Campaign Installs ManageEngine RMM, Kaspersky Warns",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/whatsapp-vbscript-campaign-installs-manageengine-rmm-kaspersky-warns/629801/",
+    "target": "WhatsApp VBScript Campaign Installs",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/whatsapp-vbscript-campaign-installs-manageengine-rmm-kaspersky-warns/629801/"
+      }
+    ]
+  },
+  {
+    "id": "ff1a1100bedec9be",
+    "date": "2026-06-25T21:23:29.586870+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Usbliter8 Exploit Targets Apple SecureROM in Older iPhones, iPhone XS–11",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/usbliter8-exploit-targets-apple-securerom-in-older-iphones-iphone-xs-11/629815/",
+    "target": "Usbliter8 Exploit Targets Apple",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/usbliter8-exploit-targets-apple-securerom-in-older-iphones-iphone-xs-11/629815/"
+      }
+    ]
+  },
+  {
+    "id": "fd2f2202a24ac186",
+    "date": "2026-06-25T21:23:29.586710+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "India's Temporary Telegram Restrictions Trigger One of 2026's Biggest VPN Download Surges",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/telegram-restrictions-in-india-trigger-vpn-download-surge/629820/",
+    "target": "Indias Temporary Telegram Restrictions",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/telegram-restrictions-in-india-trigger-vpn-download-surge/629820/"
+      }
+    ]
+  },
+  {
+    "id": "cc12d578497278f4",
+    "date": "2026-06-25T21:23:29.586567+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Fantasy Sports and Betting Website Hacker Sentenced for Credential Stuffing Attack Compromising 60,000 Accounts",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.technadu.com/fantasy-sports-and-betting-website-hacker-sentenced-for-credential-stuffing-attack-compromising-60000-accounts/629843/",
+    "target": "Fantasy Sports Betting Website",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/fantasy-sports-and-betting-website-hacker-sentenced-for-credential-stuffing-attack-compromising-60000-accounts/629843/"
+      }
+    ]
+  },
+  {
+    "id": "67de110e66a33118",
+    "date": "2026-06-25T21:23:29.586429+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "KDDI Data Breach Exposes 14.2 Million Managed Email Credentials",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.technadu.com/kddi-data-breach-exposes-14-2-million-managed-email-credentials/629846/",
+    "target": "KDDI Data Breach Exposes",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/kddi-data-breach-exposes-14-2-million-managed-email-credentials/629846/"
+      }
+    ]
+  },
+  {
+    "id": "b6693f045c7e95cc",
+    "date": "2026-06-25T21:23:29.586284+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "NordVPN Launches Dedicated Server Feature With Private Resources, Static IPs, and Port Forwarding",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.technadu.com/nordvpn-dedicated-server-introduces-private-vpn-resources/629871/",
+    "target": "NordVPN Launches Dedicated Server",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/nordvpn-dedicated-server-introduces-private-vpn-resources/629871/"
+      }
+    ]
+  },
+  {
+    "id": "13b518da52552e2c",
+    "date": "2026-06-25T21:23:29.586143+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Operation Endgame Disrupts SocGholish, Amadey, and StealC Malware, Recovers 27 Million Stolen Login Credentials",
+    "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions we deprive cybercriminals of access to infected computer systems,\" Maikel Rollman of the Netherlands National High Tech Crime Unit said. \"This prevents",
+    "article_text": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions we deprive cybercriminals of access to infected computer systems,\" Maikel Rollman of the Netherlands National High Tech Crime Unit said . \"This prevents further damage to the digital systems of citizens, businesses and organizations worldwide and limits the spread of malware. It also reduces the risk that these systems are used for cyber attacks on critical infrastructure and other essential societal processes. This marks the beginning of further action against SocGholish.\" The takedown is part of Operation Endgame , an ongoing international law enforcement initiative to combat botnets and associated criminal infrastructures. It was launched in 2024. As part of the effort, 106 servers linked to SocGholish have been taken down and 14,971 WordPress sites have been rid of the infections. Website owners have been notified to update their content management system (CMS), change their credentials, and delete any suspicious accounts. Active since 2017 and also known as FakeUpdates, SocGholish is a JavaScript (JS)-based downloader malware that typically serves as a conduit for next-stage malware from various threat actors like Evil Corp (aka DEV-0243, Indrik Spider, and UNC2165), LockBit, RansomHub, Dridex, and Raspberry Robin (aka Roshtyak). \"The malware establishes an initial foothold into victim computers, collectively known as a botnet, and is then used by threat actors for further targeting with ransomware campaigns and espionage,\" the U.S. Federal Bureau of Investigation's (FBI) Cyber Division said in a post shared on LinkedIn. It's distributed via compromised websites by masquerading as deceptive updates for web browsers like Google Chrome or Mozilla Firefox, and other popular software. The operators of the malware have been tracked under various aliases, such as Gold Prelude, Mustard Tempest, Purple Vallhund, TA569 and UNC1543. \"SocGholish infections typically originate from compromised websites that have been infected in multiple different ways,\" Silent Push noted in an analysis of the malware last year. \"Website infections can involve direct injections, where the SocGholish payload delivery injects JS directly loaded from an infected webpage or via a version of the direct injection that uses an intermediate JS file to load the related injection.\" In November 2025, Arctic Wolf revealed that SocGholish was being used by the RomCom threat actors to deliver the Mythic Agent, highlighting the use of the initial access broker's services by a broad range of actors with varied motivations. Orange Cyberdefense said it has observed SocGholish infections delivering loaders like Gholoader (another JavaScript-based loader) and MintsLoader , which, in turn, lead to the deployment of additional payloads like GhostWeaver, LockBit, AsyncRAT, and NetSupport RAT. \"SocGholish uses a layered delivery model and has been observed enabling multiple categories of follow-on payloads,\" the cybersecurity company said , adding the threat actor also collaborates with traffic distribution system (TDS) operators like TA2726. TDS is a technology used to route site visitors to different destinations based on different factors. This can range from compromised or fake login websites hosting phishing pages to bogus sites that prompt users to download software updates containing malware, which can then obtain access to victim networks for ransomware or other financial scams. \"Cybercriminals use TDS to bypass traditional firewall rules that would otherwise block connections to malicious websites, and to analyze potential victims for targeting by collecting their IP address, operating system, location, device, and browser information,\" the FBI said . \"After driving users to a TDS, often through various social engineering techniques, cybercriminals can exploit users' devices at the end of the TDS redirection chain by delivering phishing pages, financial scams, and other malware.\" Many of the compromised WordPress instances have been modified to include criminal infrastructure operated by SocGholish, according to the Shadowserver Foundation. The vast majority of the hacked sites were located in the U.S., followed by Germany, France, India, Brazil, Singapore, Italy, Indonesia, Canada, and Vietnam. \"The abuse also include",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.technadu.com/operation-endgame-disrupts-socgholish-amadey-and-stealc-malware-recovers-27-million-stolen-login-credentials/629888/",
+    "target": "Operation Endgame Disrupts SocGholish",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/operation-endgame-disrupts-socgholish-amadey-and-stealc-malware-recovers-27-million-stolen-login-credentials/629888/"
+      },
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html"
+      }
+    ]
+  },
+  {
+    "id": "191256ce0155a788",
+    "date": "2026-06-25T21:23:29.585922+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Why Security Teams Should Expect Failure Before They Expect Prevention",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/why-security-teams-should-expect-failure-before-they-expect-prevention/629012/",
+    "target": "Teams Should Expect Failure",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/why-security-teams-should-expect-failure-before-they-expect-prevention/629012/"
+      }
+    ]
+  },
+  {
+    "id": "d4e76d122f9dd789",
+    "date": "2026-06-25T21:23:29.585739+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "AI Scaling is Outpacing Enterprise Identity Controls: Why Companies Need AI-Level Monitoring",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/ai-scaling-is-outpacing-enterprise-identity-controls-why-companies-need-ai-level-monitoring/628021/",
+    "target": "Scaling Outpacing Enterprise Identity",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/ai-scaling-is-outpacing-enterprise-identity-controls-why-companies-need-ai-level-monitoring/628021/"
+      }
+    ]
+  },
+  {
+    "id": "7748a5e101447fc1",
+    "date": "2026-06-25T21:23:29.585593+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "External Bug Hunters are a Critical Human Layer in AI-Accelerated Security Operations",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/external-bug-hunters-are-a-critical-human-layer-in-ai-accelerated-security-operations/628538/",
+    "target": "External Hunters Critical Human",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/external-bug-hunters-are-a-critical-human-layer-in-ai-accelerated-security-operations/628538/"
+      }
+    ]
+  },
+  {
+    "id": "a80ccfde5e04c5d0",
+    "date": "2026-06-25T21:23:29.585402+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Give to Gain: Women Cybersecurity Professionals Reflect on Building Security on International Women's Day 2026",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/give-to-gain-women-cybersecurity-professionals-reflect-on-building-security-on-international-womens-day-2026/622407/",
+    "target": "Give Gain",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/give-to-gain-women-cybersecurity-professionals-reflect-on-building-security-on-international-womens-day-2026/622407/"
+      }
+    ]
+  },
+  {
+    "id": "0c69e9f5a96d4e72",
+    "date": "2026-06-25T21:23:29.585240+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Why Attackers Understand Supply Chains Better Than Companies",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/why-attackers-understand-supply-chains-better-than-companies/628246/",
+    "target": "Attackers Understand Supply Chains",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/why-attackers-understand-supply-chains-better-than-companies/628246/"
+      }
+    ]
+  },
+  {
+    "id": "742c29cc1bce27d9",
+    "date": "2026-06-25T21:23:29.585087+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Addressing Employee Threat Reporting Gaps, Static Training Limitations, and AI-Driven Approaches to Reducing Human Risk",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/addressing-employee-threat-reporting-gaps-static-training-limitations-and-ai-driven-approaches-to-reducing-human-risk/629215/",
+    "target": "Addressing Employee Threat Reporting",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/addressing-employee-threat-reporting-gaps-static-training-limitations-and-ai-driven-approaches-to-reducing-human-risk/629215/"
+      }
+    ]
+  },
+  {
+    "id": "550396760e8a1cad",
+    "date": "2026-06-25T21:23:29.584899+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "The Same Traits That Make AI More Human Also Make It Easier to Socially Engineer",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/the-same-traits-that-make-ai-more-human-also-make-it-easier-to-socially-engineer/629405/",
+    "target": "Same Traits That Make",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/the-same-traits-that-make-ai-more-human-also-make-it-easier-to-socially-engineer/629405/"
+      }
+    ]
+  },
+  {
+    "id": "2bb8626a98c55525",
+    "date": "2026-06-25T21:23:29.584746+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Cyber Job Moves: New Executive Hires Signal Growth in Cloud, Identity, and AI Security | Week of June 7-13",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/cyber-job-moves-new-executive-hires-signal-growth-in-cloud-identity-and-ai-security-week-of-june-7-13/629083/",
+    "target": "Job Moves",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/cyber-job-moves-new-executive-hires-signal-growth-in-cloud-identity-and-ai-security-week-of-june-7-13/629083/"
+      },
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/cyber-job-moves-from-boardroom-shifts-to-ai-security-bets-cyber-firms-reshape-leadership-week-of-june-14-20/629320/"
+      }
+    ]
+  },
+  {
+    "id": "bb8916c8c73a39b4",
+    "date": "2026-06-25T21:23:29.584366+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Anthropic Accuses Alibaba of Largest Claude AI Distillation Attack",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/anthropic-accuses-alibaba-of-largest-claude-ai-distillation-attack/629899/",
+    "target": "Anthropic Accuses Alibaba Largest",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/anthropic-accuses-alibaba-of-largest-claude-ai-distillation-attack/629899/"
+      }
+    ]
+  },
+  {
+    "id": "620d989dd6c1a9d9",
+    "date": "2026-06-25T21:23:29.584232+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "ASIO Reveals Nation-State Hack of Australian Critical Infrastructure",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/asio-reveals-nation-state-hack-of-australian-critical-infrastructure/629908/",
+    "target": "ASIO Reveals Nation-State Hack",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/asio-reveals-nation-state-hack-of-australian-critical-infrastructure/629908/"
+      }
+    ]
+  },
+  {
+    "id": "a42f40cf0ed3edc5",
+    "date": "2026-06-25T21:23:29.584099+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Cellebrite UFED Used by Russia Against Activist Andrey Pivovarov Despite 2021 Cutoff",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/cellebrite-ufed-used-by-russia-against-activist-andrey-pivovarov-despite-2021-cutoff/629911/",
+    "target": "Cellebrite UFED Russia Against",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/cellebrite-ufed-used-by-russia-against-activist-andrey-pivovarov-despite-2021-cutoff/629911/"
+      }
+    ]
+  },
+  {
+    "id": "242740e3e888189b",
+    "date": "2026-06-25T21:23:29.583955+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Vulnerability Prioritization is Not Just About Severity, But Exploitability in Context",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.technadu.com/vulnerability-prioritization-is-not-just-about-severity-but-exploitability-in-context/629915/",
+    "target": "Vulnerability Prioritization Not Just",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/vulnerability-prioritization-is-not-just-about-severity-but-exploitability-in-context/629915/"
+      }
+    ]
+  },
+  {
+    "id": "aa73a6bfaaf4d238",
+    "date": "2026-06-25T21:23:29.583809+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Kaspersky 2026 SMB Threat Report: Fake AI Tools Used in 33,000+ Attacks",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/kaspersky-2026-smb-threat-report-fake-ai-tools-used-in-33000-attacks/629918/",
+    "target": "Kaspersky 2026 SMB Threat",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/kaspersky-2026-smb-threat-report-fake-ai-tools-used-in-33000-attacks/629918/"
+      }
+    ]
+  },
+  {
+    "id": "c1d7cb8b13b377a7",
+    "date": "2026-06-25T21:23:29.580314+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "VPN Infrastructure & Servers",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/tag/vpn-infrastructure/",
+    "target": "VPN Infrastructure Servers",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/tag/vpn-infrastructure/"
+      }
+    ]
+  },
+  {
+    "id": "63b6979b15074c26",
+    "date": "2026-06-25T21:23:29.579419+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Remote Code Execution (RCE)",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.technadu.com/tag/rce/",
+    "target": "Remote Code Execution RCE",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/tag/rce/"
+      }
+    ]
+  },
+  {
+    "id": "e3a9691a2b44ce1f",
+    "date": "2026-06-25T21:23:29.579147+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Business Email Compromise (BEC)",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/tag/business-email-compromise/",
+    "target": "Business Email Compromise BEC",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/tag/business-email-compromise/"
+      }
+    ]
+  },
+  {
+    "id": "3a692fa2c893bd36",
+    "date": "2026-06-25T21:23:29.390601+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "MeshCentral: From XSS to RCE",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "MeshCentral: From XSS to RCE",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u51f9t/meshcentral_from_xss_to_rce/",
+    "target": "MeshCentral",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u51f9t/meshcentral_from_xss_to_rce/"
+      }
+    ]
+  },
+  {
+    "id": "b916db2e324e2186",
+    "date": "2026-06-25T21:23:29.390466+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "PromptSnatcher: AdBlocker stealing Ai Chats - 90k installs",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "PromptSnatcher: AdBlocker stealing Ai Chats - 90k installs",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u53o6l/promptsnatcher_adblocker_stealing_ai_chats_90k/",
+    "target": "PromptSnatcher",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u53o6l/promptsnatcher_adblocker_stealing_ai_chats_90k/"
+      }
+    ]
+  },
+  {
+    "id": "105e8be22a4a342b",
+    "date": "2026-06-25T21:23:29.390300+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Researcher accidentally gained access to a threat actor-controlled phishing website",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Researcher accidentally gained access to a threat actor-controlled phishing website",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u5dzz8/researcher_accidentally_gained_access_to_a_threat/",
+    "target": "Researcher",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u5dzz8/researcher_accidentally_gained_access_to_a_threat/"
+      }
+    ]
+  },
+  {
+    "id": "91f510eeea5e9fe8",
+    "date": "2026-06-25T21:23:29.390163+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Chaining Security Bugs in Discuz! X5.0: from Race Condition to Pre-Auth RCE",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Chaining Security Bugs in Discuz! X5.0: from Race Condition to Pre-Auth RCE",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u6nolk/chaining_security_bugs_in_discuz_x50_from_race/",
+    "target": "Chaining Discuz X5.0",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u6nolk/chaining_security_bugs_in_discuz_x50_from_race/"
+      }
+    ]
+  },
+  {
+    "id": "fe21591b3841acd7",
+    "date": "2026-06-25T21:23:29.390024+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Empty-ciphertext panic in aws-encryption-provider (CVD with AWS)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Empty-ciphertext panic in aws-encryption-provider (CVD with AWS)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u6smzb/emptyciphertext_panic_in_awsencryptionprovider/",
+    "target": "Empty-ciphertext CVD AWS",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u6smzb/emptyciphertext_panic_in_awsencryptionprovider/"
+      }
+    ]
+  },
+  {
+    "id": "8aeac81b7e3cfa7d",
+    "date": "2026-06-25T21:23:29.389893+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "SearchLeak: How We Turned M365 Copilot Into a One-Click Data Exfiltration Weapon",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "SearchLeak: How We Turned M365 Copilot Into a One-Click Data Exfiltration Weapon",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u6gzs7/searchleak_how_we_turned_m365_copilot_into_a/",
+    "target": "SearchLeak",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u6gzs7/searchleak_how_we_turned_m365_copilot_into_a/"
+      }
+    ]
+  },
+  {
+    "id": "a593d34173feb16d",
+    "date": "2026-06-25T21:23:29.389759+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Getting a CVE Without Shipping Slop",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Getting a CVE Without Shipping Slop",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u7za1g/getting_a_cve_without_shipping_slop/",
+    "target": "Getting CVE Without Shipping",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u7za1g/getting_a_cve_without_shipping_slop/"
+      }
+    ]
+  },
+  {
+    "id": "9c1af3790819c4e0",
+    "date": "2026-06-25T21:23:29.389619+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "QoS Policies to Restrict EDR Traffic and Detection Strategies",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "QoS Policies to Restrict EDR Traffic and Detection Strategies",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u85hnb/qos_policies_to_restrict_edr_traffic_and/",
+    "target": "QoS Policies Restrict EDR",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u85hnb/qos_policies_to_restrict_edr_traffic_and/"
+      }
+    ]
+  },
+  {
+    "id": "71c11d2682ec211e",
+    "date": "2026-06-25T21:23:29.389476+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "27 Years in the Dark: OpenBSD Fixes Ancient Remote Kernel Auth Bypass",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "27 Years in the Dark: OpenBSD Fixes Ancient Remote Kernel Auth Bypass",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u7p4rj/27_years_in_the_dark_openbsd_fixes_ancient_remote/",
+    "target": "Years Dark",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u7p4rj/27_years_in_the_dark_openbsd_fixes_ancient_remote/"
+      }
+    ]
+  },
+  {
+    "id": "f37fb13c9ff2e771",
+    "date": "2026-06-25T21:23:29.389303+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Worth a MalExt Report? A 2 Million-User Chrome Extension Added Give Freely/Wildlink in a 5-Day Update",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Worth a MalExt Report? A 2 Million-User Chrome Extension Added Give Freely/Wildlink in a 5-Day Update",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u8l66d/worth_a_malext_report_a_2_millionuser_chrome/",
+    "target": "Worth MalExt Million-User Chrome",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u8l66d/worth_a_malext_report_a_2_millionuser_chrome/"
+      }
+    ]
+  },
+  {
+    "id": "a202c9d92d86c67e",
+    "date": "2026-06-25T21:23:29.389159+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Would you like some malware served at the very top of DuckDuckGo?",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Would you like some malware served at the very top of DuckDuckGo?",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u93j1m/would_you_like_some_malware_served_at_the_very/",
+    "target": "Would",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u93j1m/would_you_like_some_malware_served_at_the_very/"
+      }
+    ]
+  },
+  {
+    "id": "da21281a99212f25",
+    "date": "2026-06-25T21:23:29.389023+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CVE-2026-5667: Unauthenticated Remote Control of Mitsubishi MAC-577IF-2E WiFi Adapters via Probe Request Reconnaissance",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2026-5667: Unauthenticated Remote Control of Mitsubishi MAC-577IF-2E WiFi Adapters via Probe Request Reconnaissance",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u9dncq/cve20265667_unauthenticated_remote_control_of/",
+    "target": "CVE-2026-5667",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u9dncq/cve20265667_unauthenticated_remote_control_of/"
+      }
+    ]
+  },
+  {
+    "id": "77b14d4835cf48d2",
+    "date": "2026-06-25T21:23:29.388883+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "OpenBSD MPLS kernel stack leaks remotely (CVE-2026-56099)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "OpenBSD MPLS kernel stack leaks remotely (CVE-2026-56099)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ua20fg/openbsd_mpls_kernel_stack_leaks_remotely/",
+    "target": "OpenBSD MPLS CVE-2026-56099",
+    "type": "Data Leak / Breach",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ua20fg/openbsd_mpls_kernel_stack_leaks_remotely/"
+      }
+    ]
+  },
+  {
+    "id": "de9b0e26d1478525",
+    "date": "2026-06-25T21:23:29.388730+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Squidbleed (CVE-2026-47729) - Heartbleed-style vulnerability that leaks internal memory from every version of Squid Proxy, in its default configuration",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Squidbleed (CVE-2026-47729) - Heartbleed-style vulnerability that leaks internal memory from every version of Squid Proxy, in its default configuration",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1u9y7yw/squidbleed_cve202647729_heartbleedstyle/",
+    "target": "Squidbleed CVE-2026-47729 Heartbleed-style",
+    "type": "Data Leak / Breach",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1u9y7yw/squidbleed_cve202647729_heartbleedstyle/"
+      }
+    ]
+  },
+  {
+    "id": "eb45d5170de8c781",
+    "date": "2026-06-25T21:23:29.388583+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Use-after-free in the QPACK encoder of nginx HTTP/3 - CVE-2026-42530",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Use-after-free in the QPACK encoder of nginx HTTP/3 - CVE-2026-42530",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uab0j6/useafterfree_in_the_qpack_encoder_of_nginx_http3/",
+    "target": "Use-after-free QPACK HTTP3",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uab0j6/useafterfree_in_the_qpack_encoder_of_nginx_http3/"
+      }
+    ]
+  },
+  {
+    "id": "a557ad9b3c09f181",
+    "date": "2026-06-25T21:23:29.388426+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Scanning malicious websites with 'infinite' number of VPN tunnels (Part 1)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Scanning malicious websites with 'infinite' number of VPN tunnels (Part 1)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ubvd13/scanning_malicious_websites_with_infinite_number/",
+    "target": "Scanning VPN",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ubvd13/scanning_malicious_websites_with_infinite_number/"
+      }
+    ]
+  },
+  {
+    "id": "110730c136b84bcb",
+    "date": "2026-06-25T21:23:29.388262+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Exploiting Auth0 Defaults in XSS Attacks - elttam",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Exploiting Auth0 Defaults in XSS Attacks - elttam",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uccgi1/exploiting_auth0_defaults_in_xss_attacks_elttam/",
+    "target": "Exploiting Auth0 Defaults XSS",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uccgi1/exploiting_auth0_defaults_in_xss_attacks_elttam/"
+      }
+    ]
+  },
+  {
+    "id": "6a80c04c2a2c1689",
+    "date": "2026-06-25T21:23:29.388127+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CVE-2026-25860 turn XSS to RCE",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2026-25860 turn XSS to RCE",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ucsrw0/cve202625860_turn_xss_to_rce/",
+    "target": "CVE-2026-25860 XSS RCE",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ucsrw0/cve202625860_turn_xss_to_rce/"
+      }
+    ]
+  },
+  {
+    "id": "64f5b75430491c1d",
+    "date": "2026-06-25T21:23:29.387998+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "New Cisco RCE was fixed",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "New Cisco RCE was fixed",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1udcrb8/new_cisco_rce_was_fixed/",
+    "target": "Cisco RCE",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1udcrb8/new_cisco_rce_was_fixed/"
+      }
+    ]
+  },
+  {
+    "id": "6fd48412946bf137",
+    "date": "2026-06-25T21:23:29.387854+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Cloudflare patches Copy-Fail across every server in two days",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Cloudflare patches Copy-Fail across every server in two days",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1udd811/cloudflare_patches_copyfail_across_every_server/",
+    "target": "Cloudflare Copy-Fail",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1udd811/cloudflare_patches_copyfail_across_every_server/"
+      }
+    ]
+  },
+  {
+    "id": "240b5dda4cc4081a",
+    "date": "2026-06-25T21:23:29.387709+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Exploiting vulnerabilities in Johnson & Johnson web apps",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Exploiting vulnerabilities in Johnson & Johnson web apps",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ueiif9/exploiting_vulnerabilities_in_johnson_johnson_web/",
+    "target": "Exploiting Johnson Johnson",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ueiif9/exploiting_vulnerabilities_in_johnson_johnson_web/"
+      }
+    ]
+  },
+  {
+    "id": "531a4816056da14a",
+    "date": "2026-06-25T21:23:29.387558+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CargoWise WebTracker - The keys were in the cargo",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CargoWise WebTracker - The keys were in the cargo",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uf7h8g/cargowise_webtracker_the_keys_were_in_the_cargo/",
+    "target": "CargoWise WebTracker",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uf7h8g/cargowise_webtracker_the_keys_were_in_the_cargo/"
+      }
+    ]
+  },
+  {
+    "id": "4260e172fbf800b9",
+    "date": "2026-06-25T21:23:29.387362+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CVE-2025-52465 geoserver arbitrary file write vulnerability",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2025-52465 geoserver arbitrary file write vulnerability",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ufdc3k/cve202552465_geoserver_arbitrary_file_write/",
+    "target": "CVE-2025-52465",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ufdc3k/cve202552465_geoserver_arbitrary_file_write/"
+      }
+    ]
+  },
+  {
+    "id": "d29a549c775ffe8f",
+    "date": "2026-06-25T21:23:29.387203+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "r/netsec monthly discussion & tool thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "r/netsec monthly discussion & tool thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/",
+    "target": "Unknown",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
+      }
+    ]
+  },
+  {
+    "id": "46631edb097f535e",
+    "date": "2026-06-25T21:23:29.386984+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "/r/netsec's Q1 2026 Information Security Hiring Thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "/r/netsec's Q1 2026 Information Security Hiring Thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/",
+    "target": "2026 Information Hiring Thread",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "3ad3ca3c3c357a97",
+    "date": "2026-06-25T20:34:14+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "EdTech Attackers Shift From Schools to Their Software Suppliers",
+    "summary": "Educational institutions, the edtech companies they rely on, and, more concerningly, the challenges they pose for schools are the focus of the latest Reporters' Notebook video series.",
+    "article_text": "",
+    "quick_summary": [
+      "Educational institutions, the edtech companies they rely on, and, more concerningly, the challenges they pose for schools are the focus of the latest Reporters' Notebook video series.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers",
+    "target": "EdTech Attackers Shift Schools",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers"
+      }
+    ]
+  },
+  {
+    "id": "1d09910fed000527",
+    "date": "2026-06-25T19:45:48+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Order-tracking app Shop abused to push callback phishing attacks",
+    "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
+    "article_text": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. The Shop digital shopping assistant serves as a centralized platform where users can track orders from multiple online retailers, access receipts and shipping updates, and discover and purchase products from merchants that use Shopify. The app is very popular in North America, where support and purchasing options are more substantial. It has 50 million downloads on Google Play and 7 million ratings in Apple's App Store. According to cybersecurity company Gen Digital , scammers are inserting fake orders that appear alongside legitimate purchases, impersonating brands such as Norton, McAfee, Apple, and PayPal. The threat actor also listed a phone number in the digital receipts that users can call to dispute purchases. However, at the other end is a scammer posing as a support agent. Using social engineering tactics, the fraudster tries to convince the victim to disclose account credentials, payment card details, and temporary authentication codes (OTPs). In some cases, the researchers say that victims are tricked into installing software that grants remote access to the device. Gen Digital researchers note that inserting the fake receipts in the Shop app is a more effective method than using email to deliver fraudulent purchase notifications , a more common technique known as callback phishing . Shop is a legitimate shopping app, and users inherently trust it, so orders that appear there are far more likely to prompt responses from unsuspecting users. However, the researchers say that many of the false receipts contain poor grammar, which is an obvious red flag. Nevertheless, users may miss the mistakes when they see an invoice for a large purchase. Despite the observed wave of fraudulent invoices, it is unclear how they are inserted into the Shop app. The researchers say that Shop can populate orders from multiple sources, including email parsing, account association, and order workflows, but no particular one could be confirmed as the delivery channel for the fraudulent notifications. Gen Digital underlines that they found no evidence that Shop, Shopify, or any of the impersonated companies were compromised. BleepingComputer has reached out to Shopify with related questions, but we have not received a response as of publishing. Until the situation clears up, users who see receipts for orders they didn’t place on Shop are advised not to call the phone number listed on them, but instead to verify any alleged charge directly with their bank. Those who have already contacted the scammers and disclosed sensitive information should immediately reset their account passwords and contact their card issuer for cancellation. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Telegram Mini Apps abused for crypto scams, Android malware delivery Bluekit phishing kit adopts browser-in-the-middle for login theft FBI disrupts massive AI-powered phishing service using a million URLs Healthtech firm Xolis suffers data breach impacting 1.4 million people CISA warns of max severity Ubiquiti flaws exploited in attacks Windows 11 KB5095093 update rolls out new Point-in-Time restore feature Prove any CVE is exploitable without firing an exploit. Read the TTP-chaining guide. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access softwar",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+    "target": "Order-tracking Shop",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/"
+      }
+    ]
+  },
+  {
+    "id": "a204936eae71b8b7",
+    "date": "2026-06-25T19:07:41+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Local Police Collusion Hampers Crackdown on Asian Scam Centers",
+    "summary": "With tens of billions of dollars flowing into regional economies from cybercrime, scam centers continue to flourish, despite international and law-enforcement efforts.",
+    "article_text": "",
+    "quick_summary": [
+      "With tens of billions of dollars flowing into regional economies from cybercrime, scam centers continue to flourish, despite international and law-enforcement efforts.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers",
+    "target": "Local Police Collusion Hampers",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers"
       }
     ]
   },
@@ -237,139 +2172,6 @@
     ]
   },
   {
-    "id": "179136883d54efb3",
-    "date": "2026-06-25T19:02:54.328461+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Fuji Electric Tellus: Kernel Driver Bug Enables SYSTEM Privilege Escalation CYBERSEC ZERO-DAY",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/fuji-electric-tellus-kernel-driver-bug-enables-system-privilege-escalation",
-    "target": "Fuji Electric Tellus",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/fuji-electric-tellus-kernel-driver-bug-enables-system-privilege-escalation"
-      }
-    ]
-  },
-  {
-    "id": "636fe8d1c80f2a44",
-    "date": "2026-06-25T19:02:54.328209+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZDI-26-376: RCE in Quest NetVault Backup with Authentication Bypass CYBERSEC CRITICAL",
-    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Quest NetVault Backup. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed. The ZDI has assigned a CVSS rating of 8.8. The following CVEs are assigned: CVE-2026-9787.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/zdi-26-376-rce-in-quest-netvault-backup-with-authentication-bypass",
-    "target": "ZDI-26-376",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews",
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/zdi-26-376-rce-in-quest-netvault-backup-with-authentication-bypass"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-376/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-375/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-374/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-373/"
-      }
-    ]
-  },
-  {
-    "id": "3d890557d7f1a08c",
-    "date": "2026-06-25T19:02:54.328077+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Docker MCP Plugin: RCE via OCI Label, Urgent Patch CYBERSEC CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/docker-mcp-plugin-rce-via-oci-label-urgent-patch",
-    "target": "Docker MCP Plugin",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/docker-mcp-plugin-rce-via-oci-label-urgent-patch"
-      }
-    ]
-  },
-  {
-    "id": "74dfdff6fbedac9b",
-    "date": "2026-06-25T19:02:54.327796+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Edgecution: Malicious Edge Extension Bypasses Sandbox via Native Messaging malware",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/malware/edgecution-malicious-edge-extension-bypasses-sandbox-via-native-messaging",
-    "target": "Edgecution",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/edgecution-malicious-edge-extension-bypasses-sandbox-via-native-messaging"
-      }
-    ]
-  },
-  {
     "id": "fd0297f9601fb313",
     "date": "2026-06-25T19:02:54.327663+00:00",
     "source": "DeafNews",
@@ -395,93 +2197,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/adobe-reader-patch-now-for-cve-2026-27278-rce-via-pdf"
-      }
-    ]
-  },
-  {
-    "id": "4c3219f8307e159a",
-    "date": "2026-06-25T19:02:54.327518+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ransomware Europe Overtakes US: 684 Ransomware Attacks in Four Months Jun 25, 2026",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://deafnews.it/en/news/ransomware/europe-overtakes-us-684-ransomware-attacks-in-four-months",
-    "target": "Europe Overtakes",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ransomware/europe-overtakes-us-684-ransomware-attacks-in-four-months"
-      }
-    ]
-  },
-  {
-    "id": "d3393539097767f3",
-    "date": "2026-06-25T19:02:54.327384+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "malware Gaslight: macOS Malware Tricks AI Analyzers with Prompt Injection Jun 25, 2026",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/malware/gaslight-macos-malware-tricks-ai-analyzers-with-prompt-injection",
-    "target": "Gaslight",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/gaslight-macos-malware-tricks-ai-analyzers-with-prompt-injection"
-      }
-    ]
-  },
-  {
-    "id": "d79d58a981159543",
-    "date": "2026-06-25T19:02:54.327243+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CYBERSEC ThreatsDay June 2026: Miasma Toolkit Leaked, Claude Code Patched, AI Agent Phishing Jun 25, 2026",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/threatsday-june-2026-miasma-toolkit-leaked-claude-code-patched-ai-agent-phishing",
-    "target": "CYBERSEC ThreatsDay June 2026",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/threatsday-june-2026-miasma-toolkit-leaked-claude-code-patched-ai-agent-phishing"
       }
     ]
   },
@@ -515,1513 +2230,6 @@
     ]
   },
   {
-    "id": "3ddb3eaee7aec34c",
-    "date": "2026-06-25T19:02:54.326865+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "// 2 ZERO-DAY · 7 CVE · 7 EXPLOIT IN THE LAST 24H →",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/threats",
-    "target": "ZERO-DAY CVE EXPLOIT",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/threats"
-      }
-    ]
-  },
-  {
-    "id": "17accc742eadcd41",
-    "date": "2026-06-25T19:02:53.302660+00:00",
-    "source": "InfoStealers Weekly Reports",
-    "quality": "High",
-    "scope": "Weekly",
-    "category": "Weekly Infostealer Report",
-    "title": "Report Infostealers Weekly Report: 2026-05-11 – 2026-05-18 InfoStealers Weekly Report - In this comprehensive report, we provide you with valuable insights into the most pressing threats facing organizations today. As cyberattacks continue to… May 18, 2026 13 min read",
-    "summary": "Weekly intelligence briefing tracking infostealer activity, compromised domains and breached organizations.",
-    "article_text": "",
-    "quick_summary": [
-      "Weekly intelligence briefing tracking infostealer activity, compromised domains and breached organizations.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.infostealers.com/report/infostealers-weekly-report-2026-05-11-2026-05-18/",
-    "target": "Infostealers Weekly",
-    "type": "Weekly Threat Intel",
-    "severity": "High",
-    "sources": [
-      "InfoStealers Weekly Reports"
-    ],
-    "links": [
-      {
-        "source": "InfoStealers Weekly Reports",
-        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-05-11-2026-05-18/"
-      },
-      {
-        "source": "InfoStealers Weekly Reports",
-        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-05-18-2026-05-25/"
-      },
-      {
-        "source": "InfoStealers Weekly Reports",
-        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-05-25-2026-06-01/"
-      },
-      {
-        "source": "InfoStealers Weekly Reports",
-        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-06-01-2026-06-08/"
-      },
-      {
-        "source": "InfoStealers Weekly Reports",
-        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-06-08-2026-06-15/"
-      },
-      {
-        "source": "InfoStealers Weekly Reports",
-        "url": "https://www.infostealers.com/report/infostealers-weekly-report-2026-06-15-2026-06-22/"
-      }
-    ]
-  },
-  {
-    "id": "9ca7b5538ab6f9e6",
-    "date": "2026-06-25T19:02:51.985804+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Tata Electronics Confirms Data Breach Affecting Apple, Tesla Supplier",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/tata-electronics-confirms-data-breach-affecting-apple-tesla-supplier/629797/",
-    "target": "Tata Electronics Confirms Data",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/tata-electronics-confirms-data-breach-affecting-apple-tesla-supplier/629797/"
-      }
-    ]
-  },
-  {
-    "id": "66498a0e4473da09",
-    "date": "2026-06-25T19:02:51.985681+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "WhatsApp VBScript Campaign Installs ManageEngine RMM, Kaspersky Warns",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/whatsapp-vbscript-campaign-installs-manageengine-rmm-kaspersky-warns/629801/",
-    "target": "WhatsApp VBScript Campaign Installs",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/whatsapp-vbscript-campaign-installs-manageengine-rmm-kaspersky-warns/629801/"
-      }
-    ]
-  },
-  {
-    "id": "ff1a1100bedec9be",
-    "date": "2026-06-25T19:02:51.985510+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Usbliter8 Exploit Targets Apple SecureROM in Older iPhones, iPhone XS–11",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/usbliter8-exploit-targets-apple-securerom-in-older-iphones-iphone-xs-11/629815/",
-    "target": "Usbliter8 Exploit Targets Apple",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/usbliter8-exploit-targets-apple-securerom-in-older-iphones-iphone-xs-11/629815/"
-      }
-    ]
-  },
-  {
-    "id": "fd2f2202a24ac186",
-    "date": "2026-06-25T19:02:51.985358+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "India's Temporary Telegram Restrictions Trigger One of 2026's Biggest VPN Download Surges",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/telegram-restrictions-in-india-trigger-vpn-download-surge/629820/",
-    "target": "Indias Temporary Telegram Restrictions",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/telegram-restrictions-in-india-trigger-vpn-download-surge/629820/"
-      }
-    ]
-  },
-  {
-    "id": "cc12d578497278f4",
-    "date": "2026-06-25T19:02:51.985228+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Fantasy Sports and Betting Website Hacker Sentenced for Credential Stuffing Attack Compromising 60,000 Accounts",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.technadu.com/fantasy-sports-and-betting-website-hacker-sentenced-for-credential-stuffing-attack-compromising-60000-accounts/629843/",
-    "target": "Fantasy Sports Betting Website",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/fantasy-sports-and-betting-website-hacker-sentenced-for-credential-stuffing-attack-compromising-60000-accounts/629843/"
-      }
-    ]
-  },
-  {
-    "id": "67de110e66a33118",
-    "date": "2026-06-25T19:02:51.985108+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "KDDI Data Breach Exposes 14.2 Million Managed Email Credentials",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.technadu.com/kddi-data-breach-exposes-14-2-million-managed-email-credentials/629846/",
-    "target": "KDDI Data Breach Exposes",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/kddi-data-breach-exposes-14-2-million-managed-email-credentials/629846/"
-      }
-    ]
-  },
-  {
-    "id": "b6693f045c7e95cc",
-    "date": "2026-06-25T19:02:51.984996+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "NordVPN Launches Dedicated Server Feature With Private Resources, Static IPs, and Port Forwarding",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.technadu.com/nordvpn-dedicated-server-introduces-private-vpn-resources/629871/",
-    "target": "NordVPN Launches Dedicated Server",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/nordvpn-dedicated-server-introduces-private-vpn-resources/629871/"
-      }
-    ]
-  },
-  {
-    "id": "13b518da52552e2c",
-    "date": "2026-06-25T19:02:51.984867+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Operation Endgame Disrupts SocGholish, Amadey, and StealC Malware, Recovers 27 Million Stolen Login Credentials",
-    "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions we deprive cybercriminals of access to infected computer systems,\" Maikel Rollman of the Netherlands National High Tech Crime Unit said. \"This prevents",
-    "article_text": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions we deprive cybercriminals of access to infected computer systems,\" Maikel Rollman of the Netherlands National High Tech Crime Unit said . \"This prevents further damage to the digital systems of citizens, businesses and organizations worldwide and limits the spread of malware. It also reduces the risk that these systems are used for cyber attacks on critical infrastructure and other essential societal processes. This marks the beginning of further action against SocGholish.\" The takedown is part of Operation Endgame , an ongoing international law enforcement initiative to combat botnets and associated criminal infrastructures. It was launched in 2024. As part of the effort, 106 servers linked to SocGholish have been taken down and 14,971 WordPress sites have been rid of the infections. Website owners have been notified to update their content management system (CMS), change their credentials, and delete any suspicious accounts. Active since 2017 and also known as FakeUpdates, SocGholish is a JavaScript (JS)-based downloader malware that typically serves as a conduit for next-stage malware from various threat actors like Evil Corp (aka DEV-0243, Indrik Spider, and UNC2165), LockBit, RansomHub, Dridex, and Raspberry Robin (aka Roshtyak). \"The malware establishes an initial foothold into victim computers, collectively known as a botnet, and is then used by threat actors for further targeting with ransomware campaigns and espionage,\" the U.S. Federal Bureau of Investigation's (FBI) Cyber Division said in a post shared on LinkedIn. It's distributed via compromised websites by masquerading as deceptive updates for web browsers like Google Chrome or Mozilla Firefox, and other popular software. The operators of the malware have been tracked under various aliases, such as Gold Prelude, Mustard Tempest, Purple Vallhund, TA569 and UNC1543. \"SocGholish infections typically originate from compromised websites that have been infected in multiple different ways,\" Silent Push noted in an analysis of the malware last year. \"Website infections can involve direct injections, where the SocGholish payload delivery injects JS directly loaded from an infected webpage or via a version of the direct injection that uses an intermediate JS file to load the related injection.\" In November 2025, Arctic Wolf revealed that SocGholish was being used by the RomCom threat actors to deliver the Mythic Agent, highlighting the use of the initial access broker's services by a broad range of actors with varied motivations. Orange Cyberdefense said it has observed SocGholish infections delivering loaders like Gholoader (another JavaScript-based loader) and MintsLoader , which, in turn, lead to the deployment of additional payloads like GhostWeaver, LockBit, AsyncRAT, and NetSupport RAT. \"SocGholish uses a layered delivery model and has been observed enabling multiple categories of follow-on payloads,\" the cybersecurity company said , adding the threat actor also collaborates with traffic distribution system (TDS) operators like TA2726. TDS is a technology used to route site visitors to different destinations based on different factors. This can range from compromised or fake login websites hosting phishing pages to bogus sites that prompt users to download software updates containing malware, which can then obtain access to victim networks for ransomware or other financial scams. \"Cybercriminals use TDS to bypass traditional firewall rules that would otherwise block connections to malicious websites, and to analyze potential victims for targeting by collecting their IP address, operating system, location, device, and browser information,\" the FBI said . \"After driving users to a TDS, often through various social engineering techniques, cybercriminals can exploit users' devices at the end of the TDS redirection chain by delivering phishing pages, financial scams, and other malware.\" Many of the compromised WordPress instances have been modified to include criminal infrastructure operated by SocGholish, according to the Shadowserver Foundation. The vast majority of the hacked sites were located in the U.S., followed by Germany, France, India, Brazil, Singapore, Italy, Indonesia, Canada, and Vietnam. \"The abuse also include",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.technadu.com/operation-endgame-disrupts-socgholish-amadey-and-stealc-malware-recovers-27-million-stolen-login-credentials/629888/",
-    "target": "Operation Endgame Disrupts SocGholish",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/operation-endgame-disrupts-socgholish-amadey-and-stealc-malware-recovers-27-million-stolen-login-credentials/629888/"
-      },
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html"
-      }
-    ]
-  },
-  {
-    "id": "191256ce0155a788",
-    "date": "2026-06-25T19:02:51.984663+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Why Security Teams Should Expect Failure Before They Expect Prevention",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/why-security-teams-should-expect-failure-before-they-expect-prevention/629012/",
-    "target": "Teams Should Expect Failure",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/why-security-teams-should-expect-failure-before-they-expect-prevention/629012/"
-      }
-    ]
-  },
-  {
-    "id": "d4e76d122f9dd789",
-    "date": "2026-06-25T19:02:51.984483+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "AI Scaling is Outpacing Enterprise Identity Controls: Why Companies Need AI-Level Monitoring",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/ai-scaling-is-outpacing-enterprise-identity-controls-why-companies-need-ai-level-monitoring/628021/",
-    "target": "Scaling Outpacing Enterprise Identity",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/ai-scaling-is-outpacing-enterprise-identity-controls-why-companies-need-ai-level-monitoring/628021/"
-      }
-    ]
-  },
-  {
-    "id": "7748a5e101447fc1",
-    "date": "2026-06-25T19:02:51.984348+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "External Bug Hunters are a Critical Human Layer in AI-Accelerated Security Operations",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/external-bug-hunters-are-a-critical-human-layer-in-ai-accelerated-security-operations/628538/",
-    "target": "External Hunters Critical Human",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/external-bug-hunters-are-a-critical-human-layer-in-ai-accelerated-security-operations/628538/"
-      }
-    ]
-  },
-  {
-    "id": "a80ccfde5e04c5d0",
-    "date": "2026-06-25T19:02:51.984177+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Give to Gain: Women Cybersecurity Professionals Reflect on Building Security on International Women's Day 2026",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/give-to-gain-women-cybersecurity-professionals-reflect-on-building-security-on-international-womens-day-2026/622407/",
-    "target": "Give Gain",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/give-to-gain-women-cybersecurity-professionals-reflect-on-building-security-on-international-womens-day-2026/622407/"
-      }
-    ]
-  },
-  {
-    "id": "0c69e9f5a96d4e72",
-    "date": "2026-06-25T19:02:51.984042+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Why Attackers Understand Supply Chains Better Than Companies",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/why-attackers-understand-supply-chains-better-than-companies/628246/",
-    "target": "Attackers Understand Supply Chains",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/why-attackers-understand-supply-chains-better-than-companies/628246/"
-      }
-    ]
-  },
-  {
-    "id": "742c29cc1bce27d9",
-    "date": "2026-06-25T19:02:51.983903+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Addressing Employee Threat Reporting Gaps, Static Training Limitations, and AI-Driven Approaches to Reducing Human Risk",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/addressing-employee-threat-reporting-gaps-static-training-limitations-and-ai-driven-approaches-to-reducing-human-risk/629215/",
-    "target": "Addressing Employee Threat Reporting",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/addressing-employee-threat-reporting-gaps-static-training-limitations-and-ai-driven-approaches-to-reducing-human-risk/629215/"
-      }
-    ]
-  },
-  {
-    "id": "550396760e8a1cad",
-    "date": "2026-06-25T19:02:51.983735+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "The Same Traits That Make AI More Human Also Make It Easier to Socially Engineer",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/the-same-traits-that-make-ai-more-human-also-make-it-easier-to-socially-engineer/629405/",
-    "target": "Same Traits That Make",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/the-same-traits-that-make-ai-more-human-also-make-it-easier-to-socially-engineer/629405/"
-      }
-    ]
-  },
-  {
-    "id": "2bb8626a98c55525",
-    "date": "2026-06-25T19:02:51.983595+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Cyber Job Moves: New Executive Hires Signal Growth in Cloud, Identity, and AI Security | Week of June 7-13",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/cyber-job-moves-new-executive-hires-signal-growth-in-cloud-identity-and-ai-security-week-of-june-7-13/629083/",
-    "target": "Job Moves",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/cyber-job-moves-new-executive-hires-signal-growth-in-cloud-identity-and-ai-security-week-of-june-7-13/629083/"
-      },
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/cyber-job-moves-from-boardroom-shifts-to-ai-security-bets-cyber-firms-reshape-leadership-week-of-june-14-20/629320/"
-      }
-    ]
-  },
-  {
-    "id": "bb8916c8c73a39b4",
-    "date": "2026-06-25T19:02:51.983258+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Anthropic Accuses Alibaba of Largest Claude AI Distillation Attack",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/anthropic-accuses-alibaba-of-largest-claude-ai-distillation-attack/629899/",
-    "target": "Anthropic Accuses Alibaba Largest",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/anthropic-accuses-alibaba-of-largest-claude-ai-distillation-attack/629899/"
-      }
-    ]
-  },
-  {
-    "id": "620d989dd6c1a9d9",
-    "date": "2026-06-25T19:02:51.983138+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "ASIO Reveals Nation-State Hack of Australian Critical Infrastructure",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/asio-reveals-nation-state-hack-of-australian-critical-infrastructure/629908/",
-    "target": "ASIO Reveals Nation-State Hack",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/asio-reveals-nation-state-hack-of-australian-critical-infrastructure/629908/"
-      }
-    ]
-  },
-  {
-    "id": "a42f40cf0ed3edc5",
-    "date": "2026-06-25T19:02:51.983015+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Cellebrite UFED Used by Russia Against Activist Andrey Pivovarov Despite 2021 Cutoff",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/cellebrite-ufed-used-by-russia-against-activist-andrey-pivovarov-despite-2021-cutoff/629911/",
-    "target": "Cellebrite UFED Russia Against",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/cellebrite-ufed-used-by-russia-against-activist-andrey-pivovarov-despite-2021-cutoff/629911/"
-      }
-    ]
-  },
-  {
-    "id": "242740e3e888189b",
-    "date": "2026-06-25T19:02:51.982884+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Vulnerability Prioritization is Not Just About Severity, But Exploitability in Context",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.technadu.com/vulnerability-prioritization-is-not-just-about-severity-but-exploitability-in-context/629915/",
-    "target": "Vulnerability Prioritization Not Just",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/vulnerability-prioritization-is-not-just-about-severity-but-exploitability-in-context/629915/"
-      }
-    ]
-  },
-  {
-    "id": "aa73a6bfaaf4d238",
-    "date": "2026-06-25T19:02:51.982743+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Kaspersky 2026 SMB Threat Report: Fake AI Tools Used in 33,000+ Attacks",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/kaspersky-2026-smb-threat-report-fake-ai-tools-used-in-33000-attacks/629918/",
-    "target": "Kaspersky 2026 SMB Threat",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/kaspersky-2026-smb-threat-report-fake-ai-tools-used-in-33000-attacks/629918/"
-      }
-    ]
-  },
-  {
-    "id": "c1d7cb8b13b377a7",
-    "date": "2026-06-25T19:02:51.979545+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "VPN Infrastructure & Servers",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/tag/vpn-infrastructure/",
-    "target": "VPN Infrastructure Servers",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/tag/vpn-infrastructure/"
-      }
-    ]
-  },
-  {
-    "id": "63b6979b15074c26",
-    "date": "2026-06-25T19:02:51.978715+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Remote Code Execution (RCE)",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.technadu.com/tag/rce/",
-    "target": "Remote Code Execution RCE",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/tag/rce/"
-      }
-    ]
-  },
-  {
-    "id": "e3a9691a2b44ce1f",
-    "date": "2026-06-25T19:02:51.978448+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Business Email Compromise (BEC)",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/tag/business-email-compromise/",
-    "target": "Business Email Compromise BEC",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/tag/business-email-compromise/"
-      }
-    ]
-  },
-  {
-    "id": "3a692fa2c893bd36",
-    "date": "2026-06-25T19:02:51.588411+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "MeshCentral: From XSS to RCE",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "MeshCentral: From XSS to RCE",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u51f9t/meshcentral_from_xss_to_rce/",
-    "target": "MeshCentral",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u51f9t/meshcentral_from_xss_to_rce/"
-      }
-    ]
-  },
-  {
-    "id": "b916db2e324e2186",
-    "date": "2026-06-25T19:02:51.588309+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "PromptSnatcher: AdBlocker stealing Ai Chats - 90k installs",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "PromptSnatcher: AdBlocker stealing Ai Chats - 90k installs",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u53o6l/promptsnatcher_adblocker_stealing_ai_chats_90k/",
-    "target": "PromptSnatcher",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u53o6l/promptsnatcher_adblocker_stealing_ai_chats_90k/"
-      }
-    ]
-  },
-  {
-    "id": "105e8be22a4a342b",
-    "date": "2026-06-25T19:02:51.588192+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Researcher accidentally gained access to a threat actor-controlled phishing website",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Researcher accidentally gained access to a threat actor-controlled phishing website",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u5dzz8/researcher_accidentally_gained_access_to_a_threat/",
-    "target": "Researcher",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u5dzz8/researcher_accidentally_gained_access_to_a_threat/"
-      }
-    ]
-  },
-  {
-    "id": "91f510eeea5e9fe8",
-    "date": "2026-06-25T19:02:51.588083+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Chaining Security Bugs in Discuz! X5.0: from Race Condition to Pre-Auth RCE",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Chaining Security Bugs in Discuz! X5.0: from Race Condition to Pre-Auth RCE",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u6nolk/chaining_security_bugs_in_discuz_x50_from_race/",
-    "target": "Chaining Discuz X5.0",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u6nolk/chaining_security_bugs_in_discuz_x50_from_race/"
-      }
-    ]
-  },
-  {
-    "id": "fe21591b3841acd7",
-    "date": "2026-06-25T19:02:51.587970+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Empty-ciphertext panic in aws-encryption-provider (CVD with AWS)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Empty-ciphertext panic in aws-encryption-provider (CVD with AWS)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u6smzb/emptyciphertext_panic_in_awsencryptionprovider/",
-    "target": "Empty-ciphertext CVD AWS",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u6smzb/emptyciphertext_panic_in_awsencryptionprovider/"
-      }
-    ]
-  },
-  {
-    "id": "8aeac81b7e3cfa7d",
-    "date": "2026-06-25T19:02:51.587865+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "SearchLeak: How We Turned M365 Copilot Into a One-Click Data Exfiltration Weapon",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "SearchLeak: How We Turned M365 Copilot Into a One-Click Data Exfiltration Weapon",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u6gzs7/searchleak_how_we_turned_m365_copilot_into_a/",
-    "target": "SearchLeak",
-    "type": "Data Leak / Breach",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u6gzs7/searchleak_how_we_turned_m365_copilot_into_a/"
-      }
-    ]
-  },
-  {
-    "id": "a593d34173feb16d",
-    "date": "2026-06-25T19:02:51.587758+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Getting a CVE Without Shipping Slop",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Getting a CVE Without Shipping Slop",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u7za1g/getting_a_cve_without_shipping_slop/",
-    "target": "Getting CVE Without Shipping",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u7za1g/getting_a_cve_without_shipping_slop/"
-      }
-    ]
-  },
-  {
-    "id": "9c1af3790819c4e0",
-    "date": "2026-06-25T19:02:51.587644+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "QoS Policies to Restrict EDR Traffic and Detection Strategies",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "QoS Policies to Restrict EDR Traffic and Detection Strategies",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u85hnb/qos_policies_to_restrict_edr_traffic_and/",
-    "target": "QoS Policies Restrict EDR",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u85hnb/qos_policies_to_restrict_edr_traffic_and/"
-      }
-    ]
-  },
-  {
-    "id": "71c11d2682ec211e",
-    "date": "2026-06-25T19:02:51.587522+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "27 Years in the Dark: OpenBSD Fixes Ancient Remote Kernel Auth Bypass",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "27 Years in the Dark: OpenBSD Fixes Ancient Remote Kernel Auth Bypass",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u7p4rj/27_years_in_the_dark_openbsd_fixes_ancient_remote/",
-    "target": "Years Dark",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u7p4rj/27_years_in_the_dark_openbsd_fixes_ancient_remote/"
-      }
-    ]
-  },
-  {
-    "id": "f37fb13c9ff2e771",
-    "date": "2026-06-25T19:02:51.587400+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Worth a MalExt Report? A 2 Million-User Chrome Extension Added Give Freely/Wildlink in a 5-Day Update",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Worth a MalExt Report? A 2 Million-User Chrome Extension Added Give Freely/Wildlink in a 5-Day Update",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u8l66d/worth_a_malext_report_a_2_millionuser_chrome/",
-    "target": "Worth MalExt Million-User Chrome",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u8l66d/worth_a_malext_report_a_2_millionuser_chrome/"
-      }
-    ]
-  },
-  {
-    "id": "a202c9d92d86c67e",
-    "date": "2026-06-25T19:02:51.587282+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Would you like some malware served at the very top of DuckDuckGo?",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Would you like some malware served at the very top of DuckDuckGo?",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u93j1m/would_you_like_some_malware_served_at_the_very/",
-    "target": "Would",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u93j1m/would_you_like_some_malware_served_at_the_very/"
-      }
-    ]
-  },
-  {
-    "id": "da21281a99212f25",
-    "date": "2026-06-25T19:02:51.587171+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2026-5667: Unauthenticated Remote Control of Mitsubishi MAC-577IF-2E WiFi Adapters via Probe Request Reconnaissance",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-5667: Unauthenticated Remote Control of Mitsubishi MAC-577IF-2E WiFi Adapters via Probe Request Reconnaissance",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u9dncq/cve20265667_unauthenticated_remote_control_of/",
-    "target": "CVE-2026-5667",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u9dncq/cve20265667_unauthenticated_remote_control_of/"
-      }
-    ]
-  },
-  {
-    "id": "77b14d4835cf48d2",
-    "date": "2026-06-25T19:02:51.587057+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "OpenBSD MPLS kernel stack leaks remotely (CVE-2026-56099)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "OpenBSD MPLS kernel stack leaks remotely (CVE-2026-56099)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ua20fg/openbsd_mpls_kernel_stack_leaks_remotely/",
-    "target": "OpenBSD MPLS CVE-2026-56099",
-    "type": "Data Leak / Breach",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ua20fg/openbsd_mpls_kernel_stack_leaks_remotely/"
-      }
-    ]
-  },
-  {
-    "id": "de9b0e26d1478525",
-    "date": "2026-06-25T19:02:51.586932+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Squidbleed (CVE-2026-47729) - Heartbleed-style vulnerability that leaks internal memory from every version of Squid Proxy, in its default configuration",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Squidbleed (CVE-2026-47729) - Heartbleed-style vulnerability that leaks internal memory from every version of Squid Proxy, in its default configuration",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u9y7yw/squidbleed_cve202647729_heartbleedstyle/",
-    "target": "Squidbleed CVE-2026-47729 Heartbleed-style",
-    "type": "Data Leak / Breach",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u9y7yw/squidbleed_cve202647729_heartbleedstyle/"
-      }
-    ]
-  },
-  {
-    "id": "eb45d5170de8c781",
-    "date": "2026-06-25T19:02:51.586815+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Use-after-free in the QPACK encoder of nginx HTTP/3 - CVE-2026-42530",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Use-after-free in the QPACK encoder of nginx HTTP/3 - CVE-2026-42530",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uab0j6/useafterfree_in_the_qpack_encoder_of_nginx_http3/",
-    "target": "Use-after-free QPACK HTTP3",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uab0j6/useafterfree_in_the_qpack_encoder_of_nginx_http3/"
-      }
-    ]
-  },
-  {
-    "id": "a557ad9b3c09f181",
-    "date": "2026-06-25T19:02:51.586694+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Scanning malicious websites with 'infinite' number of VPN tunnels (Part 1)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Scanning malicious websites with 'infinite' number of VPN tunnels (Part 1)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ubvd13/scanning_malicious_websites_with_infinite_number/",
-    "target": "Scanning VPN",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ubvd13/scanning_malicious_websites_with_infinite_number/"
-      }
-    ]
-  },
-  {
-    "id": "110730c136b84bcb",
-    "date": "2026-06-25T19:02:51.586579+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Exploiting Auth0 Defaults in XSS Attacks - elttam",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Exploiting Auth0 Defaults in XSS Attacks - elttam",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uccgi1/exploiting_auth0_defaults_in_xss_attacks_elttam/",
-    "target": "Exploiting Auth0 Defaults XSS",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uccgi1/exploiting_auth0_defaults_in_xss_attacks_elttam/"
-      }
-    ]
-  },
-  {
-    "id": "6a80c04c2a2c1689",
-    "date": "2026-06-25T19:02:51.586468+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2026-25860 turn XSS to RCE",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-25860 turn XSS to RCE",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ucsrw0/cve202625860_turn_xss_to_rce/",
-    "target": "CVE-2026-25860 XSS RCE",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ucsrw0/cve202625860_turn_xss_to_rce/"
-      }
-    ]
-  },
-  {
-    "id": "64f5b75430491c1d",
-    "date": "2026-06-25T19:02:51.586364+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "New Cisco RCE was fixed",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "New Cisco RCE was fixed",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1udcrb8/new_cisco_rce_was_fixed/",
-    "target": "Cisco RCE",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1udcrb8/new_cisco_rce_was_fixed/"
-      }
-    ]
-  },
-  {
-    "id": "6fd48412946bf137",
-    "date": "2026-06-25T19:02:51.586249+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Cloudflare patches Copy-Fail across every server in two days",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Cloudflare patches Copy-Fail across every server in two days",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1udd811/cloudflare_patches_copyfail_across_every_server/",
-    "target": "Cloudflare Copy-Fail",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1udd811/cloudflare_patches_copyfail_across_every_server/"
-      }
-    ]
-  },
-  {
-    "id": "240b5dda4cc4081a",
-    "date": "2026-06-25T19:02:51.586132+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Exploiting vulnerabilities in Johnson & Johnson web apps",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Exploiting vulnerabilities in Johnson & Johnson web apps",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ueiif9/exploiting_vulnerabilities_in_johnson_johnson_web/",
-    "target": "Exploiting Johnson Johnson",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ueiif9/exploiting_vulnerabilities_in_johnson_johnson_web/"
-      }
-    ]
-  },
-  {
-    "id": "4260e172fbf800b9",
-    "date": "2026-06-25T19:02:51.586019+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2025-52465 geoserver arbitrary file write vulnerability",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2025-52465 geoserver arbitrary file write vulnerability",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ufdc3k/cve202552465_geoserver_arbitrary_file_write/",
-    "target": "CVE-2025-52465",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ufdc3k/cve202552465_geoserver_arbitrary_file_write/"
-      }
-    ]
-  },
-  {
-    "id": "531a4816056da14a",
-    "date": "2026-06-25T19:02:51.585900+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CargoWise WebTracker - The keys were in the cargo",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CargoWise WebTracker - The keys were in the cargo",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uf7h8g/cargowise_webtracker_the_keys_were_in_the_cargo/",
-    "target": "CargoWise WebTracker",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uf7h8g/cargowise_webtracker_the_keys_were_in_the_cargo/"
-      }
-    ]
-  },
-  {
-    "id": "d29a549c775ffe8f",
-    "date": "2026-06-25T19:02:51.585776+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "r/netsec monthly discussion & tool thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "r/netsec monthly discussion & tool thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/",
-    "target": "Unknown",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
-      }
-    ]
-  },
-  {
-    "id": "46631edb097f535e",
-    "date": "2026-06-25T19:02:51.585584+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "/r/netsec's Q1 2026 Information Security Hiring Thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "/r/netsec's Q1 2026 Information Security Hiring Thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/",
-    "target": "2026 Information Hiring Thread",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
-      }
-    ]
-  },
-  {
     "id": "eddbb85c00794287",
     "date": "2026-06-25T18:47:51+00:00",
     "source": "The Record",
@@ -2029,7 +2237,7 @@
     "scope": "General",
     "category": "",
     "title": "DHS chief says president has met with potential CISA nominee; agency plans to hire 600",
-    "summary": "Once a new CISA director is in place, the agency will ramp up hiring efforts, Homeland Security Markwayne Mullin told lawmakers. The White House has not yet announced a nominee.",
+    "summary": "Once a new CISA director is in place, the agency will ramp up hiring efforts, Homeland Security Secretary Markwayne Mullin told lawmakers. The White House has not yet announced a nominee.",
     "article_text": "",
     "quick_summary": [
       "Once a new CISA director is in place, the agency will ramp up hiring efforts, Homeland Security Markwayne Mullin told lawmakers.",
@@ -2076,35 +2284,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/"
-      }
-    ]
-  },
-  {
-    "id": "5760acc3f7b9b432",
-    "date": "2026-06-25T18:00:26+00:00",
-    "source": "Cisco Talos",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Beyond IOCs: AI-enabled threat intelligence",
-    "summary": "In this week’s newsletter, Martin considers how AI will help threat intelligence by creating an easily queryable data source of intelligence reports.",
-    "article_text": "",
-    "quick_summary": [
-      "In this week’s newsletter, Martin considers how AI will help threat intelligence by creating an easily queryable data source of intelligence reports.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/",
-    "target": "Beyond IOCs",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cisco Talos"
-    ],
-    "links": [
-      {
-        "source": "Cisco Talos",
-        "url": "https://blog.talosintelligence.com/beyond-iocs-ai-enabled-threat-intelligence/"
       }
     ]
   },
