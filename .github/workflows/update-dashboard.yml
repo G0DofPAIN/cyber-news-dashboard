@@ -2,7 +2,7 @@ name: Update Cyber News Dashboard
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
