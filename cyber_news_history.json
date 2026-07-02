@@ -1,7 +1,7 @@
 [
   {
     "id": "a067c8c09447afb2",
-    "date": "2026-07-02T18:48:27.554551+00:00",
+    "date": "2026-07-02T20:38:03.124747+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "73bd8f2d0463fe41",
-    "date": "2026-07-02T18:48:27.554440+00:00",
+    "date": "2026-07-02T20:38:03.124639+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "38145cfb18603f71",
-    "date": "2026-07-02T18:48:27.554327+00:00",
+    "date": "2026-07-02T20:38:03.124541+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "12c57fe525fb0a1c",
-    "date": "2026-07-02T18:48:27.554218+00:00",
+    "date": "2026-07-02T20:38:03.124447+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "02220324ec398efb",
-    "date": "2026-07-02T18:48:27.554107+00:00",
+    "date": "2026-07-02T20:38:03.124349+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "46b466a46000b83d",
-    "date": "2026-07-02T18:48:27.553994+00:00",
+    "date": "2026-07-02T20:38:03.124246+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,42 +174,8 @@
     ]
   },
   {
-    "id": "6f9bf07ae334b6c6",
-    "date": "2026-07-02T18:48:27.553874+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Citrix Patches Six NetScaler Flaws: The Trap Is Manual CYBERSEC",
-    "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. The vulnerabilities are listed below - CVE-2026-8451 (CVSS score: 8.8) - An insufficient input validation",
-    "article_text": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. Patches for the security defects have been released in the following versions - As for CVE-2026-13474, customers are also advised to update their configurations by modifying the Http2SmallWndTimeout parameter, which controls the timeout (in seconds) for HTTP/2 small‑window stalled streams - set ns httpProfile -http2SmallWndTimeout Cisco credited Michael Tucker from the XOR team at JPMorgan Chase, Aliz Hammond of watchTowr, and Maxim Suhanov for reporting the vulnerabilities. There is no evidence that the issues have been exploited in the wild. watchTowr Labs, in a technical write-up released alongside Citrix's bulletin, said CVE-2026-8451 was discovered and reported in late March 2026 after attempts to reproduce CVE-2026-3055 (CVSS score: 9.3), a separate insufficient input validation flaw that was disclosed earlier this year. The cybersecurity company said the vulnerability stems from how NetScaler parses SAML authentication requests and shares the same root cause as the March 2026 flaw, resulting in out-of-bounds memory reads when sending malformed SAML requests. \"One thing we're keen to note: in contrast to the original CVE-2026-3055, in which kilobytes of binary data can be leaked, this overread will terminate the out-of-bounds read when various control characters are read, such as NULL (or even >),\" security researcher Hammond said . \"In practice, we found that by varying the request length, we could consistently squeeze a few bytes out of the server.\" \"However, what should be of concern is the bigger picture - the trend, which is very clearly suggesting that memory management continues to appear fragile within Citrix NetScaler appliances, to the extent that even accidentally misconfiguring an appliance can lead to the disclosure of leaked memory.\" In recent years, Citrix appliances have been a lucrative attack target, with multiple flaws in its software exploited by threat actors for ransomware deployment in the past, making it crucial that users apply the patches for optimal protection. Lupovis has disclosed that it's seeing active exploitation of CVE-2026-8451, less than 24 hours after public disclosure. In a series of posts on X, the threat intelligence firm said it observed an IP address originating from Frankfurt (\"146.70.139[.]154\") targeting its sensors over a five-hour window on June 30, dropping the exploit on sensors that returned the 200 OK status message and skipping those that returned a 404 HTTP response. \"What is particularly interesting is the targeting logic we are seeing,\" Xavier Bellekens, CEO and co-founder of Lupovis, said in a statement shared with The Hacker News. \"Attackers appear to validate targets first and only deliver the full payload when the expected response is obtained. This suggests active exploitation rather than generic scanning.\" The payload matches the exploit released by watchTowr Labs, Lupovis added, likely indicating an attempt to replicate the malformed SAML request to yield a successful compromise. The speed of the exploitation activity makes it crucial that organizations apply the fixes as soon as possible. (The story was updated after publication on July 2, 2026, to include details of active exploitation of the Citrix flaw.) Learn how to secure AI agents with practical controls for access, visibility, secrets, and risk containment. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/citrix-patches-six-netscaler-flaws-the-trap-is-manual",
-    "target": "Citrix Patches Six NetScaler",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews",
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/citrix-patches-six-netscaler-flaws-the-trap-is-manual"
-      },
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html"
-      }
-    ]
-  },
-  {
     "id": "93fec6da6126b62e",
-    "date": "2026-07-02T18:48:27.553727+00:00",
+    "date": "2026-07-02T20:38:03.124135+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -238,7 +204,7 @@
   },
   {
     "id": "d519b68bf4496efd",
-    "date": "2026-07-02T18:48:27.553610+00:00",
+    "date": "2026-07-02T20:38:03.124032+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -267,7 +233,7 @@
   },
   {
     "id": "4350c7c95f6de520",
-    "date": "2026-07-02T18:48:27.553492+00:00",
+    "date": "2026-07-02T20:38:03.123927+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -296,7 +262,7 @@
   },
   {
     "id": "b91450cb79772215",
-    "date": "2026-07-02T18:48:27.553375+00:00",
+    "date": "2026-07-02T20:38:03.123821+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -325,7 +291,7 @@
   },
   {
     "id": "678c29d0377fb7a1",
-    "date": "2026-07-02T18:48:27.553256+00:00",
+    "date": "2026-07-02T20:38:03.123711+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -354,7 +320,7 @@
   },
   {
     "id": "a4ca6b90be7e66df",
-    "date": "2026-07-02T18:48:27.553147+00:00",
+    "date": "2026-07-02T20:38:03.123602+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -388,7 +354,7 @@
   },
   {
     "id": "af1c595528952183",
-    "date": "2026-07-02T18:48:27.553023+00:00",
+    "date": "2026-07-02T20:38:03.123493+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -416,13 +382,13 @@
     ]
   },
   {
-    "id": "0728c906ea6d878c",
-    "date": "2026-07-02T18:48:27.552904+00:00",
+    "id": "e614566c8daa7fd9",
+    "date": "2026-07-02T20:38:03.123394+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC FortiBleed, the Missing Link: From 430,000 Targeted Firewalls to INC and Lynx Ransomware Jul 02, 2026",
+    "title": "FortiBleed, the Missing Link: From 430,000 Targeted Firewalls to INC and Lynx Ransomware CYBERSEC",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -431,7 +397,7 @@
       "Action: monitor indicators, backups, remote access, and related vendor exposure."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/fortibleed-the-missing-link-from-430000-targeted-firewalls-to-inc-and-lynx-ransomware",
-    "target": "CYBERSEC FortiBleed Missing Link",
+    "target": "FortiBleed Missing Link",
     "type": "Ransomware",
     "severity": "High",
     "sources": [
@@ -446,7 +412,7 @@
   },
   {
     "id": "673e86f0cefde965",
-    "date": "2026-07-02T18:48:27.552491+00:00",
+    "date": "2026-07-02T20:38:03.123045+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -474,13 +440,13 @@
     ]
   },
   {
-    "id": "9ce345e3d6f73a6d",
-    "date": "2026-07-02T18:48:27.552351+00:00",
+    "id": "289a271c8955eddc",
+    "date": "2026-07-02T20:38:03.122919+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Medtronic Begins Breach Notifications: 369,200+ Confirmed Victims vs. 9 Million Claimed by ShinyHunters",
+    "title": "CYBERSEC Medtronic Begins Breach Notifications: 369,200+ Confirmed Victims vs. 9 Million Claimed by ShinyHunters Jul 02, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -489,7 +455,7 @@
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/medtronic-begins-breach-notifications-369200-confirmed-victims-vs-9-million-claimed-by-shinyhunters",
-    "target": "Medtronic Begins Breach Notifications",
+    "target": "CYBERSEC Medtronic Begins Breach",
     "type": "Data Leak / Breach",
     "severity": "High",
     "sources": [
@@ -503,13 +469,42 @@
     ]
   },
   {
-    "id": "3ddb3eaee7aec34c",
-    "date": "2026-07-02T18:48:27.552179+00:00",
+    "id": "db65f54dc26be6af",
+    "date": "2026-07-02T20:38:03.122784+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 ZERO-DAY · 2 CVE · 3 EXPLOIT IN THE LAST 24H →",
+    "title": "Apple Shifts Patching Model: First Step Toward Faster Security Updates",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/news/apple-shifts-patching-model-first-step-toward-faster-security-updates",
+    "target": "Apple Shifts Patching Model",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/apple-shifts-patching-model-first-step-toward-faster-security-updates"
+      }
+    ]
+  },
+  {
+    "id": "3ddb3eaee7aec34c",
+    "date": "2026-07-02T20:38:03.122578+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 ZERO-DAY · 2 CVE · 2 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -533,7 +528,7 @@
   },
   {
     "id": "56f5b57ae10a6351",
-    "date": "2026-07-02T18:48:26.533969+00:00",
+    "date": "2026-07-02T20:38:02.116063+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -586,7 +581,7 @@
   },
   {
     "id": "c3b55be49983f3fa",
-    "date": "2026-07-02T18:48:25.449665+00:00",
+    "date": "2026-07-02T20:38:00.775462+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -615,7 +610,7 @@
   },
   {
     "id": "65890f7f00463e38",
-    "date": "2026-07-02T18:48:25.449481+00:00",
+    "date": "2026-07-02T20:38:00.775288+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -644,7 +639,7 @@
   },
   {
     "id": "d765db9846734657",
-    "date": "2026-07-02T18:48:25.449344+00:00",
+    "date": "2026-07-02T20:38:00.775167+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -673,7 +668,7 @@
   },
   {
     "id": "b50c3bfea9e481fa",
-    "date": "2026-07-02T18:48:25.449209+00:00",
+    "date": "2026-07-02T20:38:00.775050+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -706,7 +701,7 @@
   },
   {
     "id": "6fc5d3a66fd5d371",
-    "date": "2026-07-02T18:48:25.449086+00:00",
+    "date": "2026-07-02T20:38:00.774941+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -735,7 +730,7 @@
   },
   {
     "id": "bbb974cda85ffb2c",
-    "date": "2026-07-02T18:48:25.448955+00:00",
+    "date": "2026-07-02T20:38:00.774825+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -764,7 +759,7 @@
   },
   {
     "id": "9d245e909d036c51",
-    "date": "2026-07-02T18:48:25.448823+00:00",
+    "date": "2026-07-02T20:38:00.774687+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -793,7 +788,7 @@
   },
   {
     "id": "c684c81e08294d05",
-    "date": "2026-07-02T18:48:25.448648+00:00",
+    "date": "2026-07-02T20:38:00.774563+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -822,7 +817,7 @@
   },
   {
     "id": "548b69be3fd61510",
-    "date": "2026-07-02T18:48:25.448486+00:00",
+    "date": "2026-07-02T20:38:00.774432+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -851,7 +846,7 @@
   },
   {
     "id": "6b14785004424ab4",
-    "date": "2026-07-02T18:48:25.448310+00:00",
+    "date": "2026-07-02T20:38:00.774272+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -880,7 +875,7 @@
   },
   {
     "id": "5e317dbaa649efca",
-    "date": "2026-07-02T18:48:25.448184+00:00",
+    "date": "2026-07-02T20:38:00.774161+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -909,7 +904,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-07-02T18:48:25.447968+00:00",
+    "date": "2026-07-02T20:38:00.773964+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -938,7 +933,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-07-02T18:48:25.447778+00:00",
+    "date": "2026-07-02T20:38:00.773792+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -967,7 +962,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-07-02T18:48:25.447611+00:00",
+    "date": "2026-07-02T20:38:00.773646+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -996,7 +991,7 @@
   },
   {
     "id": "a80ccfde5e04c5d0",
-    "date": "2026-07-02T18:48:25.447421+00:00",
+    "date": "2026-07-02T20:38:00.773473+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1025,7 +1020,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-02T18:48:25.447276+00:00",
+    "date": "2026-07-02T20:38:00.773339+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1054,7 +1049,7 @@
   },
   {
     "id": "742c29cc1bce27d9",
-    "date": "2026-07-02T18:48:25.447122+00:00",
+    "date": "2026-07-02T20:38:00.773199+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1083,7 +1078,7 @@
   },
   {
     "id": "550396760e8a1cad",
-    "date": "2026-07-02T18:48:25.446935+00:00",
+    "date": "2026-07-02T20:38:00.773023+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1112,7 +1107,7 @@
   },
   {
     "id": "cbe0687f4aaf58b9",
-    "date": "2026-07-02T18:48:25.446772+00:00",
+    "date": "2026-07-02T20:38:00.772877+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1145,7 +1140,7 @@
   },
   {
     "id": "721cbed5732e6da5",
-    "date": "2026-07-02T18:48:25.446464+00:00",
+    "date": "2026-07-02T20:38:00.772584+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1174,7 +1169,7 @@
   },
   {
     "id": "0270cb5d7597a651",
-    "date": "2026-07-02T18:48:25.446281+00:00",
+    "date": "2026-07-02T20:38:00.772398+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1203,7 +1198,7 @@
   },
   {
     "id": "cde31e7012be4340",
-    "date": "2026-07-02T18:48:25.446140+00:00",
+    "date": "2026-07-02T20:38:00.772252+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1232,7 +1227,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-02T18:48:25.442598+00:00",
+    "date": "2026-07-02T20:38:00.768459+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1261,7 +1256,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-02T18:48:25.441594+00:00",
+    "date": "2026-07-02T20:38:00.767562+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1290,7 +1285,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-02T18:48:25.441339+00:00",
+    "date": "2026-07-02T20:38:00.767302+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1319,7 +1314,7 @@
   },
   {
     "id": "f37fb13c9ff2e771",
-    "date": "2026-07-02T18:48:25.327983+00:00",
+    "date": "2026-07-02T20:38:00.391482+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1348,7 +1343,7 @@
   },
   {
     "id": "a202c9d92d86c67e",
-    "date": "2026-07-02T18:48:25.327846+00:00",
+    "date": "2026-07-02T20:38:00.391374+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1377,7 +1372,7 @@
   },
   {
     "id": "da21281a99212f25",
-    "date": "2026-07-02T18:48:25.327694+00:00",
+    "date": "2026-07-02T20:38:00.391273+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1406,7 +1401,7 @@
   },
   {
     "id": "77b14d4835cf48d2",
-    "date": "2026-07-02T18:48:25.327563+00:00",
+    "date": "2026-07-02T20:38:00.391170+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1435,7 +1430,7 @@
   },
   {
     "id": "de9b0e26d1478525",
-    "date": "2026-07-02T18:48:25.327420+00:00",
+    "date": "2026-07-02T20:38:00.391054+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1464,7 +1459,7 @@
   },
   {
     "id": "eb45d5170de8c781",
-    "date": "2026-07-02T18:48:25.327284+00:00",
+    "date": "2026-07-02T20:38:00.390946+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1493,7 +1488,7 @@
   },
   {
     "id": "a557ad9b3c09f181",
-    "date": "2026-07-02T18:48:25.327141+00:00",
+    "date": "2026-07-02T20:38:00.390832+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1522,7 +1517,7 @@
   },
   {
     "id": "110730c136b84bcb",
-    "date": "2026-07-02T18:48:25.327010+00:00",
+    "date": "2026-07-02T20:38:00.390724+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1551,7 +1546,7 @@
   },
   {
     "id": "6a80c04c2a2c1689",
-    "date": "2026-07-02T18:48:25.326888+00:00",
+    "date": "2026-07-02T20:38:00.390616+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1580,7 +1575,7 @@
   },
   {
     "id": "64f5b75430491c1d",
-    "date": "2026-07-02T18:48:25.326759+00:00",
+    "date": "2026-07-02T20:38:00.390519+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1609,7 +1604,7 @@
   },
   {
     "id": "6fd48412946bf137",
-    "date": "2026-07-02T18:48:25.326606+00:00",
+    "date": "2026-07-02T20:38:00.390411+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1638,7 +1633,7 @@
   },
   {
     "id": "240b5dda4cc4081a",
-    "date": "2026-07-02T18:48:25.326470+00:00",
+    "date": "2026-07-02T20:38:00.390302+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1667,7 +1662,7 @@
   },
   {
     "id": "531a4816056da14a",
-    "date": "2026-07-02T18:48:25.326332+00:00",
+    "date": "2026-07-02T20:38:00.390188+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1696,7 +1691,7 @@
   },
   {
     "id": "4260e172fbf800b9",
-    "date": "2026-07-02T18:48:25.326203+00:00",
+    "date": "2026-07-02T20:38:00.390085+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1725,7 +1720,7 @@
   },
   {
     "id": "ca58ada0222b714a",
-    "date": "2026-07-02T18:48:25.326072+00:00",
+    "date": "2026-07-02T20:38:00.389978+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1754,7 +1749,7 @@
   },
   {
     "id": "99a356fdf4add554",
-    "date": "2026-07-02T18:48:25.325940+00:00",
+    "date": "2026-07-02T20:38:00.389872+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1783,7 +1778,7 @@
   },
   {
     "id": "ad020ab14f8c8ed0",
-    "date": "2026-07-02T18:48:25.325786+00:00",
+    "date": "2026-07-02T20:38:00.389747+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1812,7 +1807,7 @@
   },
   {
     "id": "5b6d279066a181bc",
-    "date": "2026-07-02T18:48:25.325622+00:00",
+    "date": "2026-07-02T20:38:00.389615+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1841,7 +1836,7 @@
   },
   {
     "id": "85401803f9b3073c",
-    "date": "2026-07-02T18:48:25.325479+00:00",
+    "date": "2026-07-02T20:38:00.389493+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1870,7 +1865,7 @@
   },
   {
     "id": "96395767dedf6d3f",
-    "date": "2026-07-02T18:48:25.325334+00:00",
+    "date": "2026-07-02T20:38:00.389370+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1899,7 +1894,7 @@
   },
   {
     "id": "06e84f7fca3bf506",
-    "date": "2026-07-02T18:48:25.325188+00:00",
+    "date": "2026-07-02T20:38:00.389245+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1928,7 +1923,7 @@
   },
   {
     "id": "e8f6345fa3935ac6",
-    "date": "2026-07-02T18:48:25.325012+00:00",
+    "date": "2026-07-02T20:38:00.389090+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1957,7 +1952,7 @@
   },
   {
     "id": "a418af851b376002",
-    "date": "2026-07-02T18:48:25.324863+00:00",
+    "date": "2026-07-02T20:38:00.388966+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1986,7 +1981,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-07-02T18:48:25.324676+00:00",
+    "date": "2026-07-02T20:38:00.388834+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2019,7 +2014,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-07-02T18:48:25.324472+00:00",
+    "date": "2026-07-02T20:38:00.388604+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2047,6 +2042,214 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "6a1c99b25565ed02",
+    "date": "2026-07-02T19:31:58+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Apple Reverses Age-Old Patch Policy to Keep Up With AI",
+    "summary": "Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.",
+    "article_text": "",
+    "quick_summary": [
+      "Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai",
+    "target": "Apple Reverses Age-Old Patch",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai"
+      }
+    ]
+  },
+  {
+    "id": "81301698485f72d7",
+    "date": "2026-07-02T19:27:33+00:00",
+    "source": "KrebsOnSecurity",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+    "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims.",
+    "article_text": "",
+    "quick_summary": [
+      "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli com",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+    "target": "FBI Seizes NetNut Proxy",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "KrebsOnSecurity"
+    ],
+    "links": [
+      {
+        "source": "KrebsOnSecurity",
+        "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/"
+      }
+    ]
+  },
+  {
+    "id": "d150cf28d6aa9a0e",
+    "date": "2026-07-02T19:11:33+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs",
+    "summary": "After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.",
+    "article_text": "",
+    "quick_summary": [
+      "After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.",
+      "Risk: ransomware/extortion, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs",
+    "target": "FortiBleed Actors Collaborating Inc",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs"
+      }
+    ]
+  },
+  {
+    "id": "faf6961ce72da928",
+    "date": "2026-07-02T18:54:06+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+    "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week it had reduced the network's pool of usable devices by millions. Google identifies NetNut, also tracked as Popa, as a network spread across home",
+    "article_text": "Google has significantly degraded NetNut , one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week it had reduced the network's pool of usable devices by millions. Google identifies NetNut, also tracked as Popa , as a network spread across home devices worldwide, including smart TVs and streaming boxes , and GTIG estimates the network holds at least 2 million devices. If one of those devices is in your home, strangers can route their own traffic through your internet connection, and your address gets the blame for whatever they do with it. A residential proxy network sells access to real home internet addresses. Attackers pay to route their traffic through your connection so it looks like ordinary home browsing, not the datacenter traffic that security tools tend to block. To build that pool, operators need their code running on home devices. Some devices ship with it pre-installed on cheap off-brand hardware; others pick it up when someone installs a free app that hides it. Once it is running, the device becomes an \"exit node,\" a doorway that other people's traffic flows through. Google says an exit node brings outside traffic inside the home network, giving attackers a foothold to reach other devices on it. Some of these home gadgets have also been pulled into large attack botnets such as Mirai and Badbox 2.0 . In a single week in June, GTIG counted 316 distinct threat clusters using suspected NetNut exit nodes, including cybercriminal and espionage groups, to hide their real location and run password-guessing attacks . Unlike most proxy botnets , NetNut traces back to a public company. In June, researchers at Qurium, Synthient, Nokia Deepfield, and Spur tied Popa to NetNut. NetNut is a proxy provider owned by publicly traded Israeli company Alarum Technologies (NASDAQ: ALAR). In a controlled test, Synthient said traffic it sent into NetNut's commercial gateway came out through a device it had enrolled in Popa. Synthient framed that as evidence of the traffic path, not proof of what NetNut knew or intended. Google's own intelligence aligns: it treats NetNut and Popa as the same network, and says the public reporting matches its view of how NetNut builds its botnet. The Hacker News covered the researchers' findings when they were published. Alarum rejects the \"botnet\" label. It calls the research \"demonstrably inaccurate assertions and flawed deductions rather than verified facts,\" and says its software is for consented bandwidth-sharing that does not compromise the devices it runs on. The researchers' testing complicates that defense: Synthient reported that none of the more than 20 apps it examined actually showed users a consent prompt. Cutting off NetNut is messy by design. NetNut runs a reseller program that lets other companies sell its network under their own brand names. Google says it has high confidence that many popular, seemingly separate proxy brands are really reselling the same NetNut pool. So a single takedown ripples across a lot of brands that look independent but are not. That is also why Google calls this degradation, not a kill. It says its earlier action against a similar IPIDEA network showed these networks can look resilient: operators start buying capacity from rivals, in effect becoming resellers themselves. Real, lasting damage, Google says, means going after several connected providers at once. In January, Google and partners disrupted IPIDEA , a China-based network that at its peak was one of the largest of its kind. In July 2025, Google took the operators of Badbox 2.0 to court , the botnet of hijacked Android TV devices whose components overlap with Popa. Each time, the networks proved stubborn. The single clearest warning sign is an app that offers to pay you for your \"unused bandwidth\" or for \"sharing your internet.\" That is one of the main ways these networks grow. The demand for these home addresses does not disappear when a network goes down; it just moves. For defenders and platforms, the next signal to watch is whether NetNut-linked traffic resurfaces under reseller brands. Learn how to secure AI agents with practical controls for access, visibility, secrets, and risk containment. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resour",
+    "quick_summary": [
+      "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+    "target": "Google Disrupts NetNut Residential",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html"
+      }
+    ]
+  },
+  {
+    "id": "6f9bf07ae334b6c6",
+    "date": "2026-07-02T18:48:27.553874+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Citrix Patches Six NetScaler Flaws: The Trap Is Manual CYBERSEC",
+    "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. The vulnerabilities are listed below - CVE-2026-8451 (CVSS score: 8.8) - An insufficient input validation",
+    "article_text": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. Patches for the security defects have been released in the following versions - As for CVE-2026-13474, customers are also advised to update their configurations by modifying the Http2SmallWndTimeout parameter, which controls the timeout (in seconds) for HTTP/2 small‑window stalled streams - set ns httpProfile -http2SmallWndTimeout Cisco credited Michael Tucker from the XOR team at JPMorgan Chase, Aliz Hammond of watchTowr, and Maxim Suhanov for reporting the vulnerabilities. There is no evidence that the issues have been exploited in the wild. watchTowr Labs, in a technical write-up released alongside Citrix's bulletin, said CVE-2026-8451 was discovered and reported in late March 2026 after attempts to reproduce CVE-2026-3055 (CVSS score: 9.3), a separate insufficient input validation flaw that was disclosed earlier this year. The cybersecurity company said the vulnerability stems from how NetScaler parses SAML authentication requests and shares the same root cause as the March 2026 flaw, resulting in out-of-bounds memory reads when sending malformed SAML requests. \"One thing we're keen to note: in contrast to the original CVE-2026-3055, in which kilobytes of binary data can be leaked, this overread will terminate the out-of-bounds read when various control characters are read, such as NULL (or even >),\" security researcher Hammond said . \"In practice, we found that by varying the request length, we could consistently squeeze a few bytes out of the server.\" \"However, what should be of concern is the bigger picture - the trend, which is very clearly suggesting that memory management continues to appear fragile within Citrix NetScaler appliances, to the extent that even accidentally misconfiguring an appliance can lead to the disclosure of leaked memory.\" In recent years, Citrix appliances have been a lucrative attack target, with multiple flaws in its software exploited by threat actors for ransomware deployment in the past, making it crucial that users apply the patches for optimal protection. Lupovis has disclosed that it's seeing active exploitation of CVE-2026-8451, less than 24 hours after public disclosure. In a series of posts on X, the threat intelligence firm said it observed an IP address originating from Frankfurt (\"146.70.139[.]154\") targeting its sensors over a five-hour window on June 30, dropping the exploit on sensors that returned the 200 OK status message and skipping those that returned a 404 HTTP response. \"What is particularly interesting is the targeting logic we are seeing,\" Xavier Bellekens, CEO and co-founder of Lupovis, said in a statement shared with The Hacker News. \"Attackers appear to validate targets first and only deliver the full payload when the expected response is obtained. This suggests active exploitation rather than generic scanning.\" The payload matches the exploit released by watchTowr Labs, Lupovis added, likely indicating an attempt to replicate the malformed SAML request to yield a successful compromise. The speed of the exploitation activity makes it crucial that organizations apply the fixes as soon as possible. (The story was updated after publication on July 2, 2026, to include details of active exploitation of the Citrix flaw.) Learn how to secure AI agents with practical controls for access, visibility, secrets, and risk containment. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/citrix-patches-six-netscaler-flaws-the-trap-is-manual",
+    "target": "Citrix Patches Six NetScaler",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/citrix-patches-six-netscaler-flaws-the-trap-is-manual"
+      },
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html"
+      }
+    ]
+  },
+  {
+    "id": "fb7f218d69b71470",
+    "date": "2026-07-02T18:30:33+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+    "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral",
+    "article_text": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral movement,\" Arctic Wolf said in a report published this week. \"Anubis affiliates repeatedly abused legitimate remote access and administration tools, including ScreenConnect, Zoho Assist, MeshAgent, Remotely, UltraVNC, and Total Software Deployment, to blend in with normal IT activity while maintaining control of victim systems.\" Anubis is a ransomware-as-a-service (RaaS) group that first emerged in late 2024 as a rebrand of Sphinx ransomware. The ransomware operation was formally announced on the Ransomware and Advanced Malware Protection (RAMP) underground forum in February 2025. According to data from Ransomware.Live, the cybercrime crew has claimed 91 victims on its data leak site, with 11 victims reported in June 2026 alone. Some of the prominent sectors targeted include healthcare, business services, manufacturing, technology, and financial services. More than 50% of the victims are located in the U.S., followed by the U.K., Australia, France, and Canada. In a report published in July 2025, Rubrik Zero Labs said Anubis advertises attractive profit splits, offering affiliates 80% of the ransom amounts paid, and pairs it with an irreversible data-wiping feature that ups the pressure on victims to pay up. \"When Anubis's /WIPEMODE module is activated, files remain in directories but are reduced to a 0 KB size regardless of ransom payment,\" Rubrik noted at the time. \"Knowing threat actors can revert victims' environments to this scorched-earth state with a single command significantly increases pressure on victims to pay before the wiper is fully activated.\" The ransomware intrusions, observed this year, involve both valid VPN credential use and the exploitation of CVE-2025-5777 (CVSS score: 9.3), a critical flaw impacting Citrix NetScaler ADC and Gateway that could be abused by an attacker to bypass authentication when the appliance is configured as a Gateway or AAA virtual server. The exact source of VPN credentials used in these intrusions is unknown. However, it's possible they were procured following prior compromise, or through initial access brokers (IABs), credential stuffing, or information stealer activity. \"In addition to CitrixBleed 2 exploitation, valid Cisco AnyConnect VPN logins were observed from several hosting ASNs, including AS20473 — The Constant Company and AS55286 — ServerMania,\" Arctic Wolf explained. \"Malicious VPN authentication was then followed by login activity involving RDP and SMB, leading to credential access, PsExec service creation, RMM deployment, and ultimately invoking cloud-transfer tooling for exfiltration.\" Lateral movement is facilitated via RDP and PsExec, which then leads to the deployment of various legitimate RMM tools for persistent access, granting the attackers the ability to transfer files and remotely execute code, while staying under the radar. Select intrusions also configure a Cloudflare Tunnel (aka cloudflared) to establish tunnels to victim environments. The next phase of the attacks involves gathering credentials to facilitate deeper access to the compromised environment, after which tools like S3 Browser, rclone, s5cmd, WinSCP, and PuTTY are installed for data transfer or exfiltration prior to ransomware deployment. In parallel, steps are taken to impair system defenses and complicate post-incident analysis. \"These techniques included Windows Defender real-time protection disablement, SophosUninstall activity, PCHunter-related artifacts, and log clearing or manipulation across multiple systems,\" the cybersecurity company explained. \"In at least one intrusion, an Anubis encryptor was deleted after execution, reducing the availability of on-disk payload artifacts for later analysis.\" The disclosure comes as Kaspersky detailed The Gentlemen RaaS group's exploitation of known vulnerabilities and stolen or weak login credentials to breach targets and its use of a Go-based backdoor to enable remote command execution after reconnaissance, lateral movement through Group Policy or PsExec, and defense evasion using the bring your own vulnerable driver (BYOVD) technique. The implant is d",
+    "quick_summary": [
+      "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.",
+      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+    "target": "Ransomware Groups Turn Citrix",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html"
+      }
+    ]
+  },
+  {
+    "id": "73c0e149ce358c2e",
+    "date": "2026-07-02T18:10:41+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "AsyncRAT Campaign Uses DLL Sideloading and ScreenConnect for Stealthy Remote Access",
+    "summary": "A stealthy campaign is turning trusted remote access software into a weapon against everyday users and businesses. Attackers have hidden the AsyncRAT trojan inside fake software installers, letting it slip past basic security checks. The campaign relies on DLL sideloading and a legitimate remote tool called ScreenConnect, making it hard for victims to notice anything […] The post AsyncRAT Campaign Uses DLL Sideloading and ScreenConnect for Stealthy Remote Access appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A stealthy campaign is turning trusted remote access software into a weapon against everyday users and businesses.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/asyncrat-campaign-uses-dll-sideloading/",
+    "target": "AsyncRAT Campaign Uses DLL",
+    "type": "Malware",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/asyncrat-campaign-uses-dll-sideloading/"
       }
     ]
   },
@@ -2105,6 +2308,122 @@
       {
         "source": "Cisco Talos",
         "url": "https://blog.talosintelligence.com/catan-and-mouse/"
+      }
+    ]
+  },
+  {
+    "id": "77e152c971f36b9d",
+    "date": "2026-07-02T17:53:31+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft 365 Phishing Panel Uses OAuth Device Code Flow to Capture Tokens and Persist Access",
+    "summary": "A newly uncovered phishing panel called ARToken is giving cybercriminals an easy way to steal Microsoft 365 login sessions without ever touching a password. The tool works by abusing a legitimate Microsoft sign in feature meant for devices without a keyboard or browser, tricking victims into approving a login on the attacker’s behalf. Once that […] The post Microsoft 365 Phishing Panel Uses OAuth Device Code Flow to Capture Tokens and Persist Access appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A newly uncovered phishing panel called ARToken is giving cybercriminals an easy way to steal Microsoft 365 login sessions without ever touching a password.",
+      "Risk: credentials/infostealer risk, ISNET vendor relevance",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/microsoft-365-phishing-panel-uses-oauth-device-code-flow/",
+    "target": "Microsoft 365 Phishing Panel",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/microsoft-365-phishing-panel-uses-oauth-device-code-flow/"
+      }
+    ]
+  },
+  {
+    "id": "4ce6911068750a12",
+    "date": "2026-07-02T17:48:17+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "AsyncRAT Campaign Abuses TryCloudflare Tunnels and Python Scripts for Malware Delivery",
+    "summary": "AsyncRAT is back in the headlines, and the attackers behind it have found a clever way to hide in plain sight. Instead of relying on suspicious servers, they use Dropbox links and TryCloudflare tunnels, both trusted services that most security tools rarely block. The result is a campaign that slips past everyday defenses while quietly […] The post AsyncRAT Campaign Abuses TryCloudflare Tunnels and Python Scripts for Malware Delivery appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "AsyncRAT is back in the headlines, and the attackers behind it have found a clever way to hide in plain sight.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/asyncrat-campaign-abuses-trycloudflare-tunnels/",
+    "target": "AsyncRAT Campaign Abuses TryCloudflare",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/asyncrat-campaign-abuses-trycloudflare-tunnels/"
+      }
+    ]
+  },
+  {
+    "id": "6a383e9a5b4cbde6",
+    "date": "2026-07-02T17:27:07+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Ousaban Malware Uses Phishing PDFs and VBS Downloader to Target Iberian Banking Users",
+    "summary": "A newly documented campaign is quietly hijacking online banking sessions across Spain and Portugal, and it starts with something as ordinary as a broken PDF file. The malware behind it, known as Ousaban, has resurfaced with a fresh set of tricks aimed squarely at Iberian bank customers running Windows machines. The infection begins when a […] The post Ousaban Malware Uses Phishing PDFs and VBS Downloader to Target Iberian Banking Users appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A newly documented campaign is quietly hijacking online banking sessions across Spain and Portugal, and it starts with something as ordinary as a broken PDF file.",
+      "Risk: credentials/infostealer risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/ousaban-malware-uses-phishing-pdfs-and-vbs-downloader/",
+    "target": "Ousaban Malware Uses Phishing",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/ousaban-malware-uses-phishing-pdfs-and-vbs-downloader/"
+      }
+    ]
+  },
+  {
+    "id": "99a466073e75f8a2",
+    "date": "2026-07-02T17:25:59+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Claude Cowork’s Sandbox Vulnerability Allows Attackers to Run Arbitrary Commands as Root",
+    "summary": "A vulnerability chain in Anthropic’s Claude Cowork allows an attacker with local code execution to escalate privileges and run arbitrary commands as root inside the product’s isolated Linux sandbox, bypassing every layer of defense Anthropic built into the environment. Claude Cowork is Anthropic’s product for knowledge workers, designed to let non-technical users leverage Claude Code […] The post Claude Cowork’s Sandbox Vulnerability Allows Attackers to Run Arbitrary Commands as Root appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A vulnerability chain in Anthropic’s Claude Cowork allows an attacker with local code execution to escalate privileges and run arbitrary commands as root inside the product’s isolated Linux sandbox, bypassing every layer",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/claude-coworks-sandbox-vulnerability/",
+    "target": "Claude Coworks Sandbox Vulnerability",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/claude-coworks-sandbox-vulnerability/"
       }
     ]
   },
@@ -25981,346 +26300,6 @@
       "Discover how Iranian and Russian shadow fleets use a vast network of fake maritime websites and fraudulent documents to evade international sanctions",
       "Risk: general cybersecurity update",
       "Action: read full article if the vendor/customer/environment is relevant."
-    ]
-  },
-  {
-    "id": "0c814413ef32f930",
-    "date": "2026-06-10T14:03:44+00:00",
-    "source": "KrebsOnSecurity",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-    "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-    "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-    "target": "Who Runs Ransomware Group",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "KrebsOnSecurity"
-    ],
-    "links": [
-      {
-        "source": "KrebsOnSecurity",
-        "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/"
-      }
-    ],
-    "quick_summary": [
-      "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affi",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ]
-  },
-  {
-    "id": "b1b229d7cc0afcab",
-    "date": "2026-06-10T05:00:00+00:00",
-    "source": "CrowdStrike Blog",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "CrowdStrike Expands Identity Leadership with OpenID and IDPro",
-    "summary": "",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/",
-    "target": "CrowdStrike Expands Identity Leadership",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "CrowdStrike Blog"
-    ],
-    "links": [
-      {
-        "source": "CrowdStrike Blog",
-        "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-identity-leadership-with-openid-and-idpro/"
-      }
-    ],
-    "quick_summary": [
-      "CrowdStrike Expands Identity Leadership with OpenID and IDPro",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ]
-  },
-  {
-    "id": "9980e25325995f1d",
-    "date": "2026-06-10T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-355: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
-    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-27220.",
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-355/",
-    "target": "ZDI-26-355",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-355/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-354/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-353/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-352/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-349/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-348/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-347/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-345/"
-      }
-    ],
-    "quick_summary": [
-      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe Acrobat Reader DC.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ]
-  },
-  {
-    "id": "b5633e7d8f62d36e",
-    "date": "2026-06-10T00:00:00+00:00",
-    "source": "Recorded Future Research",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "China's Noncombatant Evacuation Operations: 2005–2025",
-    "summary": "Explore the Insikt Group study on 37 Chinese noncombatant evacuation operations (NEOs) from 2005–2025, revealing how China leverages SOEs and civilian resources for its overseas interests",
-    "link": "https://www.recordedfuture.com/blog/china-noncombatant-evacuation-operations-2005-2025",
-    "target": "Chinas Noncombatant Evacuation Operations",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Recorded Future Research"
-    ],
-    "links": [
-      {
-        "source": "Recorded Future Research",
-        "url": "https://www.recordedfuture.com/blog/china-noncombatant-evacuation-operations-2005-2025"
-      }
-    ],
-    "quick_summary": [
-      "Explore the Insikt Group study on 37 Chinese noncombatant evacuation operations (NEOs) from 2005–2025, revealing how China leverages SOEs and civilian resources for its overseas interests",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ]
-  },
-  {
-    "id": "7fc90f80592b114e",
-    "date": "2026-06-09T22:07:28+00:00",
-    "source": "KrebsOnSecurity",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "A Record-Breaking Patch Tuesday for June 2026",
-    "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
-    "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-    "target": "Record-Breaking Patch Tuesday June",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "KrebsOnSecurity"
-    ],
-    "links": [
-      {
-        "source": "KrebsOnSecurity",
-        "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/"
-      }
-    ],
-    "quick_summary": [
-      "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ]
-  },
-  {
-    "id": "380b91a9e8609117",
-    "date": "2026-06-09T22:00:21+00:00",
-    "source": "Palo Alto Unit 42",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility",
-    "summary": "Unit 42 research examines attack scenarios targeting cloud logging services. Learn how to defend against log manipulation and defense evasion. The post Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility appeared first on Unit 42 .",
-    "link": "https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/",
-    "target": "Blinding Watchmen",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Palo Alto Unit 42"
-    ],
-    "links": [
-      {
-        "source": "Palo Alto Unit 42",
-        "url": "https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/"
-      }
-    ],
-    "quick_summary": [
-      "Unit 42 research examines attack scenarios targeting cloud logging services.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ]
-  },
-  {
-    "id": "55e1d98807cf3887",
-    "date": "2026-06-09T21:21:00+00:00",
-    "source": "Cisco Talos",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Microsoft Patch Tuesday for June 2026 — Snort rules and prominent vulnerabilities",
-    "summary": "Microsoft Patch Tuesday details for June 2026.",
-    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/",
-    "target": "Microsoft Patch Tuesday June",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cisco Talos"
-    ],
-    "links": [
-      {
-        "source": "Cisco Talos",
-        "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-june-2026-snort-rules-and-prominent-vulnerabilities/"
-      }
-    ],
-    "quick_summary": [
-      "Microsoft Patch Tuesday details for June 2026.",
-      "Risk: ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ]
-  },
-  {
-    "id": "bcf87a66c6d280e7",
-    "date": "2026-06-09T05:00:00+00:00",
-    "source": "CrowdStrike Blog",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "CrowdStrike 2026 Technology Threat Landscape Report: China’s Ambitions Fuel Attacks",
-    "summary": "",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/",
-    "target": "CrowdStrike 2026 Technology Threat",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "CrowdStrike Blog"
-    ],
-    "links": [
-      {
-        "source": "CrowdStrike Blog",
-        "url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/"
-      }
-    ],
-    "quick_summary": [
-      "CrowdStrike 2026 Technology Threat Landscape Report: China’s Ambitions Fuel Attacks",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ]
-  },
-  {
-    "id": "bea85dd3cfc57836",
-    "date": "2026-06-09T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-351: Adobe USD-Fileformat-plugins Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe USD-Fileformat-plugins. Interaction with the USD library is required to exploit this vulnerability but attack vectors may vary depending on the implementation. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-48292.",
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-351/",
-    "target": "ZDI-26-351",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-351/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-350/"
-      }
-    ],
-    "quick_summary": [
-      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adobe USD-Fileformat-plugins.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ]
-  },
-  {
-    "id": "bbc4346f6bf77b6a",
-    "date": "2026-06-09T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-346: Adobe Acrobat Reader DC Annotation Use-After-Free Information Disclosure Vulnerability",
-    "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Adobe Acrobat Reader DC. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 3.3. The following CVEs are assigned: CVE-2026-47924.",
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-346/",
-    "target": "ZDI-26-346",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-346/"
-      }
-    ],
-    "quick_summary": [
-      "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Adobe Acrobat Reader DC.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ]
-  },
-  {
-    "id": "9089b5b446b3b9c9",
-    "date": "2026-06-09T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-344: Adobe Acrobat Reader DC Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability",
-    "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Adobe Acrobat Reader DC. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 3.3. The following CVEs are assigned: CVE-2026-47923.",
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-344/",
-    "target": "ZDI-26-344",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-344/"
-      }
-    ],
-    "quick_summary": [
-      "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Adobe Acrobat Reader DC.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
     ]
   }
 ]
