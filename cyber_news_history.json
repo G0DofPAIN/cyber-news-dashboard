@@ -1,7 +1,7 @@
 [
   {
     "id": "921c608a9b7f6704",
-    "date": "2026-07-16T18:19:19.486201+00:00",
+    "date": "2026-07-16T20:11:40.054537+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "95fdf80dc751b0af",
-    "date": "2026-07-16T18:19:19.486061+00:00",
+    "date": "2026-07-16T20:11:40.054393+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "07e19bc267dc1618",
-    "date": "2026-07-16T18:19:19.485957+00:00",
+    "date": "2026-07-16T20:11:40.054294+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "49cd7073e6f39306",
-    "date": "2026-07-16T18:19:19.485855+00:00",
+    "date": "2026-07-16T20:11:40.054197+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "a11f3e5eff830ec7",
-    "date": "2026-07-16T18:19:19.485754+00:00",
+    "date": "2026-07-16T20:11:40.054090+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "5726da9e4decc78f",
-    "date": "2026-07-16T18:19:19.485617+00:00",
+    "date": "2026-07-16T20:11:40.053960+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,37 +174,8 @@
     ]
   },
   {
-    "id": "88798a5ec4d89c5b",
-    "date": "2026-07-16T18:19:19.485500+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Progress Orders ShareFile Shutdown: Third Critical Incident in Three Years news CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/news/progress-orders-sharefile-shutdown-third-critical-incident-in-three-years",
-    "target": "Progress Orders ShareFile Shutdown",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/progress-orders-sharefile-shutdown-third-critical-incident-in-three-years"
-      }
-    ]
-  },
-  {
     "id": "0f88c3ee53dd5fd6",
-    "date": "2026-07-16T18:19:19.485393+00:00",
+    "date": "2026-07-16T20:11:40.053863+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "6af2d0f1bf605be4",
-    "date": "2026-07-16T18:19:19.485280+00:00",
+    "date": "2026-07-16T20:11:40.053752+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +237,7 @@
   },
   {
     "id": "f328d1e2ab81da82",
-    "date": "2026-07-16T18:19:19.485166+00:00",
+    "date": "2026-07-16T20:11:40.053638+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -300,7 +271,7 @@
   },
   {
     "id": "fc1d29f4422d715e",
-    "date": "2026-07-16T18:19:19.485008+00:00",
+    "date": "2026-07-16T20:11:40.053499+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -329,7 +300,7 @@
   },
   {
     "id": "69be7831d677cbb7",
-    "date": "2026-07-16T18:19:19.484891+00:00",
+    "date": "2026-07-16T20:11:40.053384+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -357,13 +328,47 @@
     ]
   },
   {
-    "id": "3ddb3eaee7aec34c",
-    "date": "2026-07-16T18:19:19.483384+00:00",
+    "id": "0fb0577b9825d241",
+    "date": "2026-07-16T20:11:40.053104+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 6 ZERO-DAY · 5 CVE · 6 EXPLOIT IN THE LAST 24H →",
+    "title": "ZDI-26-438: RCE in Rockwell Arena Simulation via DOE File, Patch Available CYBERSEC CRITICAL",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Rockwell Automation Arena Simulation. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-6071.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/zdi-26-438-rce-in-rockwell-arena-simulation-via-doe-file-patch-available",
+    "target": "ZDI-26-438",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/zdi-26-438-rce-in-rockwell-arena-simulation-via-doe-file-patch-available"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-438/"
+      }
+    ]
+  },
+  {
+    "id": "3ddb3eaee7aec34c",
+    "date": "2026-07-16T20:11:40.051844+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 6 ZERO-DAY · 6 CVE · 6 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -387,7 +392,7 @@
   },
   {
     "id": "f7d57bc507083882",
-    "date": "2026-07-16T18:19:18.701943+00:00",
+    "date": "2026-07-16T20:11:39.232837+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -448,7 +453,7 @@
   },
   {
     "id": "893725222a75d732",
-    "date": "2026-07-16T18:19:17.811999+00:00",
+    "date": "2026-07-16T20:11:38.360553+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -486,7 +491,7 @@
   },
   {
     "id": "3dd7dbe61524cecf",
-    "date": "2026-07-16T18:19:17.811840+00:00",
+    "date": "2026-07-16T20:11:38.360395+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -515,7 +520,7 @@
   },
   {
     "id": "67c6fe94888946e9",
-    "date": "2026-07-16T18:19:17.811574+00:00",
+    "date": "2026-07-16T20:11:38.360121+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -544,7 +549,7 @@
   },
   {
     "id": "c169a1ca3cef4de2",
-    "date": "2026-07-16T18:19:17.811442+00:00",
+    "date": "2026-07-16T20:11:38.360002+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -573,7 +578,7 @@
   },
   {
     "id": "3b7fe9c8a211b227",
-    "date": "2026-07-16T18:19:17.811331+00:00",
+    "date": "2026-07-16T20:11:38.359894+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -602,7 +607,7 @@
   },
   {
     "id": "1ee6fdc9ba7834ee",
-    "date": "2026-07-16T18:19:17.811204+00:00",
+    "date": "2026-07-16T20:11:38.359773+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -631,7 +636,7 @@
   },
   {
     "id": "13a768d02e6f339e",
-    "date": "2026-07-16T18:19:17.811056+00:00",
+    "date": "2026-07-16T20:11:38.359627+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -660,7 +665,7 @@
   },
   {
     "id": "d0dde6e7a52097ee",
-    "date": "2026-07-16T18:19:17.810925+00:00",
+    "date": "2026-07-16T20:11:38.359502+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -689,7 +694,7 @@
   },
   {
     "id": "b38159c181af4f16",
-    "date": "2026-07-16T18:19:17.810751+00:00",
+    "date": "2026-07-16T20:11:38.359335+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -718,7 +723,7 @@
   },
   {
     "id": "0ddf20649bcdbd2b",
-    "date": "2026-07-16T18:19:17.810579+00:00",
+    "date": "2026-07-16T20:11:38.359167+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -747,7 +752,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-07-16T18:19:17.810362+00:00",
+    "date": "2026-07-16T20:11:38.358955+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -776,7 +781,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-07-16T18:19:17.810189+00:00",
+    "date": "2026-07-16T20:11:38.358788+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -805,7 +810,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-07-16T18:19:17.810056+00:00",
+    "date": "2026-07-16T20:11:38.358654+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -834,7 +839,7 @@
   },
   {
     "id": "a80ccfde5e04c5d0",
-    "date": "2026-07-16T18:19:17.809886+00:00",
+    "date": "2026-07-16T20:11:38.358488+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -863,7 +868,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-16T18:19:17.809755+00:00",
+    "date": "2026-07-16T20:11:38.358361+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -892,7 +897,7 @@
   },
   {
     "id": "742c29cc1bce27d9",
-    "date": "2026-07-16T18:19:17.809608+00:00",
+    "date": "2026-07-16T20:11:38.358212+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -921,7 +926,7 @@
   },
   {
     "id": "550396760e8a1cad",
-    "date": "2026-07-16T18:19:17.809418+00:00",
+    "date": "2026-07-16T20:11:38.358028+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -950,7 +955,7 @@
   },
   {
     "id": "bfb93a713df0aeca",
-    "date": "2026-07-16T18:19:17.809117+00:00",
+    "date": "2026-07-16T20:11:38.357727+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -979,7 +984,7 @@
   },
   {
     "id": "b6ad6c0f74784394",
-    "date": "2026-07-16T18:19:17.808961+00:00",
+    "date": "2026-07-16T20:11:38.357576+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1008,7 +1013,7 @@
   },
   {
     "id": "ea596a997d3e9182",
-    "date": "2026-07-16T18:19:17.808820+00:00",
+    "date": "2026-07-16T20:11:38.357437+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1037,7 +1042,7 @@
   },
   {
     "id": "9c9129664e63e824",
-    "date": "2026-07-16T18:19:17.808678+00:00",
+    "date": "2026-07-16T20:11:38.357293+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1066,7 +1071,7 @@
   },
   {
     "id": "9af956bf2f8b0a83",
-    "date": "2026-07-16T18:19:17.808529+00:00",
+    "date": "2026-07-16T20:11:38.357127+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1095,7 +1100,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-16T18:19:17.804730+00:00",
+    "date": "2026-07-16T20:11:38.353368+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1124,7 +1129,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-16T18:19:17.803826+00:00",
+    "date": "2026-07-16T20:11:38.352458+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1153,7 +1158,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-16T18:19:17.803561+00:00",
+    "date": "2026-07-16T20:11:38.352193+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1181,8 +1186,37 @@
     ]
   },
   {
+    "id": "a418af851b376002",
+    "date": "2026-07-16T20:11:38.155645+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "FIFA was saved this time",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "FIFA was saved this time",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ulmoyx/fifa_was_saved_this_time/",
+    "target": "FIFA",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ulmoyx/fifa_was_saved_this_time/"
+      }
+    ]
+  },
+  {
     "id": "cabfc55f0c53029f",
-    "date": "2026-07-16T18:19:17.563524+00:00",
+    "date": "2026-07-16T20:11:38.155545+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1211,7 +1245,7 @@
   },
   {
     "id": "e83c6cb1b6025f2a",
-    "date": "2026-07-16T18:19:17.563403+00:00",
+    "date": "2026-07-16T20:11:38.155438+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1240,7 +1274,7 @@
   },
   {
     "id": "9b53b412b7af4c29",
-    "date": "2026-07-16T18:19:17.563288+00:00",
+    "date": "2026-07-16T20:11:38.155326+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1269,7 +1303,7 @@
   },
   {
     "id": "819a68fdb17cd8cf",
-    "date": "2026-07-16T18:19:17.563185+00:00",
+    "date": "2026-07-16T20:11:38.155223+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1302,7 +1336,7 @@
   },
   {
     "id": "f8f24b90295e005a",
-    "date": "2026-07-16T18:19:17.563066+00:00",
+    "date": "2026-07-16T20:11:38.155093+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1335,7 +1369,7 @@
   },
   {
     "id": "8bddd04c34b61b09",
-    "date": "2026-07-16T18:19:17.562945+00:00",
+    "date": "2026-07-16T20:11:38.154976+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1364,7 +1398,7 @@
   },
   {
     "id": "afc86f97367b7389",
-    "date": "2026-07-16T18:19:17.562841+00:00",
+    "date": "2026-07-16T20:11:38.154876+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1393,7 +1427,7 @@
   },
   {
     "id": "554179b9d623a7a0",
-    "date": "2026-07-16T18:19:17.562733+00:00",
+    "date": "2026-07-16T20:11:38.154767+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1422,7 +1456,7 @@
   },
   {
     "id": "2c98a5a61734ad9d",
-    "date": "2026-07-16T18:19:17.562616+00:00",
+    "date": "2026-07-16T20:11:38.154638+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1451,7 +1485,7 @@
   },
   {
     "id": "852f158bb8361e91",
-    "date": "2026-07-16T18:19:17.562477+00:00",
+    "date": "2026-07-16T20:11:38.154522+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1484,7 +1518,7 @@
   },
   {
     "id": "aef3f447be6b6350",
-    "date": "2026-07-16T18:19:17.562366+00:00",
+    "date": "2026-07-16T20:11:38.154410+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1513,7 +1547,7 @@
   },
   {
     "id": "d6b5bd3f387810a9",
-    "date": "2026-07-16T18:19:17.562245+00:00",
+    "date": "2026-07-16T20:11:38.154286+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1542,7 +1576,7 @@
   },
   {
     "id": "8fea43494c3e39fa",
-    "date": "2026-07-16T18:19:17.562123+00:00",
+    "date": "2026-07-16T20:11:38.154161+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1571,7 +1605,7 @@
   },
   {
     "id": "ef620a5063be82f2",
-    "date": "2026-07-16T18:19:17.562012+00:00",
+    "date": "2026-07-16T20:11:38.154038+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1600,7 +1634,7 @@
   },
   {
     "id": "ce6759e40718ce06",
-    "date": "2026-07-16T18:19:17.561903+00:00",
+    "date": "2026-07-16T20:11:38.153930+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1629,7 +1663,7 @@
   },
   {
     "id": "819d4a0e5b818642",
-    "date": "2026-07-16T18:19:17.561783+00:00",
+    "date": "2026-07-16T20:11:38.153813+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1658,7 +1692,7 @@
   },
   {
     "id": "eba0ed2ff6d3e302",
-    "date": "2026-07-16T18:19:17.561661+00:00",
+    "date": "2026-07-16T20:11:38.153692+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1687,7 +1721,7 @@
   },
   {
     "id": "d41e9a3128a800cd",
-    "date": "2026-07-16T18:19:17.561546+00:00",
+    "date": "2026-07-16T20:11:38.153581+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1716,7 +1750,7 @@
   },
   {
     "id": "dfd2198acdfd6c92",
-    "date": "2026-07-16T18:19:17.561411+00:00",
+    "date": "2026-07-16T20:11:38.153465+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1745,7 +1779,7 @@
   },
   {
     "id": "0bfb5eda01ae4384",
-    "date": "2026-07-16T18:19:17.561298+00:00",
+    "date": "2026-07-16T20:11:38.153354+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1773,37 +1807,8 @@
     ]
   },
   {
-    "id": "7657777ead0ce453",
-    "date": "2026-07-16T18:19:17.561177+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "New Exploitable BOLA Found in Immich (self-hosted media platform)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "New Exploitable BOLA Found in Immich (self-hosted media platform)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uy9f9u/new_exploitable_bola_found_in_immich_selfhosted/",
-    "target": "Exploitable BOLA Found Immich",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uy9f9u/new_exploitable_bola_found_in_immich_selfhosted/"
-      }
-    ]
-  },
-  {
     "id": "f3dd5aa711a35a0a",
-    "date": "2026-07-16T18:19:17.561056+00:00",
+    "date": "2026-07-16T20:11:38.153233+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1832,7 +1837,7 @@
   },
   {
     "id": "28cd7f27f4da4921",
-    "date": "2026-07-16T18:19:17.560939+00:00",
+    "date": "2026-07-16T20:11:38.153100+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1861,7 +1866,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-07-16T18:19:17.560806+00:00",
+    "date": "2026-07-16T20:11:38.152969+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1894,7 +1899,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-07-16T18:19:17.560580+00:00",
+    "date": "2026-07-16T20:11:38.152732+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1922,6 +1927,151 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "12336afb7762bcca",
+    "date": "2026-07-16T19:41:31+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "1M+ Emails Use Hidden Text to Dupe AI Security Filters",
+    "summary": "Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.",
+    "article_text": "",
+    "quick_summary": [
+      "Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
+    "target": "Emails Hidden Text Dupe",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters"
+      }
+    ]
+  },
+  {
+    "id": "58535208bdef3a95",
+    "date": "2026-07-16T19:26:07+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+    "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
+    "article_text": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. The issue was discovered by Ax Sharma of Manifold Security, who says it stems from how the Claude extension determines whether a user intentionally requested one of its built-in tasks. Chrome extensions with permission to run on a website can inject JavaScript into the page, allowing them to read and modify its contents. This includes changing page elements, reading information displayed on a site, and generating click and keyboard events programmatically. According to Manifold's report , the Claude extension listens for click events on a specific page element that launches one of its built-in AI workflows. These workflows are predefined tasks that allow Claude to perform actions in connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. The researchers found the extension accepted JavaScript-generated click events without verifying whether they originated from a real user. When a browser generates an event from a real user action, such as a mouse click or key press, it marks it as trusted by setting the Event.isTrusted property to true . However, if JavaScript is used to generate the event, the browser automatically sets Event.isTrusted to false , allowing webpages and extensions to distinguish between real user interactions and events generated by JavaScript. According to Manifold Security, the Claude browser extension did not verify that a click event originated from a real user by checking the browser's Event.isTrusted property before executing one of its predefined workflows. Instead, a malicious extension with permission to modify content on the 'claude.ai' domain could inject a page element containing one of nine supported task identifiers and generate a synthetic click event. Although the browser correctly marked the event as untrusted, Sharma says the Claude extension treated it as a legitimate user click and executed the requested AI action. The researcher notes that the flaw does not allow arbitrary prompt injection, but instead, the attack is limited to the nine predefined tasks built into the extension. The attack also does not allow a website to compromise the Claude extension directly, but requires an attacker to trick a user into installing a malicious extension that can execute code on claude.ai. That extension could then manipulate the webpage and trigger the Claude extension's workflows. While a malicious browser extension already has broad access to webpages it can run on, the researchers say this flaw allows it to abuse Claude's authenticated access to various connected services. The impact depends on the Claude extension's configuration and whether users choose to approve sensitive actions or have Claude's optional \"Act without asking\" setting enabled, which allows predefined workflows to execute automatically. In a second finding, the researchers found an internal ' skipPermissions=true ' parameter that bypassed certain permission checks when launching the extension. However, they acknowledged that the mechanism was not directly exploitable on its own and would require another vulnerability to create a specially crafted URL. The researchers reported both findings to Anthropic through the company's bug bounty program. Anthropic acknowledged the reports and closed the synthetic-click report, stating they were already tracking it as a broader issue. The second flaw, involving the internal skipPermissions=true parameter, was classified as informational. Manifold says the flaws are still exploitable in the latest version, 1.0.80, of the browser extension, released on July 7. \"Manifold verified July 7 that both findings remain reproducible in 1.0.80. The content script and side-panel handlers we cited are byte-identical to the v1.0.72 source,\" reads the report. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. We built a vulnerability vending machine: AI tokens in, zero-days out Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time Microsoft expects more Windows security updates ",
+    "quick_summary": [
+      "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected servic",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+    "target": "Claude Chrome",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/"
+      }
+    ]
+  },
+  {
+    "id": "9da3eeb159a9be3e",
+    "date": "2026-07-16T19:09:35+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
+    "summary": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
+    "article_text": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. OkoBot reaches victims through ClickFix attacks or malicious GitHub repositories pretending to host legitimate software tools. In one case, a repository claimed to offer SQL Server Management Studio (SSMS) but dropped a trojanized version of the Audacity audio editing tool. Researchers at cybersecurity company Kaspersky say that the OkoBot campaign has been ongoing for more than a year and evolved from the activity that delivered the malicious PowerShell script TookPS. However, the infection chain has been completely changed, with multiple attack stages and TookPS being used in the first phase to install and configure an SSH bot that delivered the other malicious components. Among the 20 modules OkoBot uses in these attacks, the most notable are: It's important to note that a wallet recovery phrase provides full access to a user's cryptocurrency assets. If attackers obtain it, they can transfer the funds to wallets they control, with virtually no possibility of recovery. Kaspersky telemetry shows that the majority of OkoBot's victims are located in Brazil, followed by Vietnam, Canada, Mexico, and Turkey. However, the campaign’s reach is global. OkoBot activity was first observed in January as an evolution of the TookPS campaign that has been running since March 2025. While Kaspersky does not attribute the OkoBot campaign to any threat actor, the researchers shared that access to the servers hosting the PowerShell scripts for the initial stage of the attack is geoblocked. They noticed that payloads are not delivered when using an IP address from Russia or the Commonwealth of Independent States (CIS) space, and the server returns an empty response. Additional clues pointing to a Russian-speaking threat actor include Russian comments present in the source code of the SeedHunter module and the use of an infostealer that is actively promoted on invitation-only Russian cybercrime forums. Kaspersky's report provides a set of indicators of compromise that includes hashes for the malicious plugins, injector payloads, SSH bot utilities, file paths, domains, and IP addresses. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Injective SDK on npm infected with cryptocurrency wallet stealer USB worm spreads crypto-stealing malware via Windows shortcut files Money launderer accused of stealing seized crypto while in prison Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days Microsoft: Some Dell PCs shut down after recent Windows updates Windows 11 KB5101650 & KB5099414 cumulative updates released See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. How Mature Is Your AI Security Program? Take the Free AI Maturity Assessment. AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+    "target": "OkoBot",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/"
+      }
+    ]
+  },
+  {
+    "id": "88798a5ec4d89c5b",
+    "date": "2026-07-16T18:19:19.485500+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Progress Orders ShareFile Shutdown: Third Critical Incident in Three Years news CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/news/progress-orders-sharefile-shutdown-third-critical-incident-in-three-years",
+    "target": "Progress Orders ShareFile Shutdown",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/progress-orders-sharefile-shutdown-third-critical-incident-in-three-years"
+      }
+    ]
+  },
+  {
+    "id": "7657777ead0ce453",
+    "date": "2026-07-16T18:19:17.561177+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "New Exploitable BOLA Found in Immich (self-hosted media platform)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "New Exploitable BOLA Found in Immich (self-hosted media platform)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uy9f9u/new_exploitable_bola_found_in_immich_selfhosted/",
+    "target": "Exploitable BOLA Found Immich",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uy9f9u/new_exploitable_bola_found_in_immich_selfhosted/"
       }
     ]
   },
@@ -2038,35 +2188,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/microsoft-revokes-11-legacy-uefi-shims-secure-boot-bypassed-via-signed-bootloaders"
-      }
-    ]
-  },
-  {
-    "id": "a418af851b376002",
-    "date": "2026-07-16T16:40:57.102183+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "FIFA was saved this time",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "FIFA was saved this time",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ulmoyx/fifa_was_saved_this_time/",
-    "target": "FIFA",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ulmoyx/fifa_was_saved_this_time/"
       }
     ]
   },
@@ -6947,35 +7068,6 @@
       {
         "source": "Zero Day Initiative",
         "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-439/"
-      }
-    ]
-  },
-  {
-    "id": "491d18e11272024d",
-    "date": "2026-07-15T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-438: Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
-    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Rockwell Automation Arena Simulation. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-6071.",
-    "article_text": "",
-    "quick_summary": [
-      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Rockwell Automation Arena Simulation.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-438/",
-    "target": "ZDI-26-438",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-438/"
       }
     ]
   },
@@ -26451,97 +26543,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/malware/busysnake-stealer-the-apt-that-generates-malware-with-ai"
-      }
-    ]
-  },
-  {
-    "id": "aa1da3248b0fad80",
-    "date": "2026-07-06T04:39:04.763680+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CYBERSEC FortiBleed Fuels INC and Lynx: One Operator Serving Two Ransomware Clients Jul 05, 2026",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/fortibleed-fuels-inc-and-lynx-one-operator-serving-two-ransomware-clients",
-    "target": "CYBERSEC FortiBleed Fuels INC",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/fortibleed-fuels-inc-and-lynx-one-operator-serving-two-ransomware-clients"
-      }
-    ]
-  },
-  {
-    "id": "cbe0687f4aaf58b9",
-    "date": "2026-07-06T04:39:02.426749+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Cyber Job Moves: From Boardroom Shifts to AI Security Bets, Cyber Firms Reshape Leadership | Week of June 14-20",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/cyber-job-moves-from-boardroom-shifts-to-ai-security-bets-cyber-firms-reshape-leadership-week-of-june-14-20/629320/",
-    "target": "Job Moves",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/cyber-job-moves-from-boardroom-shifts-to-ai-security-bets-cyber-firms-reshape-leadership-week-of-june-14-20/629320/"
-      },
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/cyber-job-moves-new-executive-hires-signal-growth-in-cloud-identity-and-ai-security-week-of-june-7-13/629083/"
-      }
-    ]
-  },
-  {
-    "id": "f37fb13c9ff2e771",
-    "date": "2026-07-06T04:39:02.075496+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Worth a MalExt Report? A 2 Million-User Chrome Extension Added Give Freely/Wildlink in a 5-Day Update",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Worth a MalExt Report? A 2 Million-User Chrome Extension Added Give Freely/Wildlink in a 5-Day Update",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u8l66d/worth_a_malext_report_a_2_millionuser_chrome/",
-    "target": "Worth MalExt Million-User Chrome",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u8l66d/worth_a_malext_report_a_2_millionuser_chrome/"
       }
     ]
   }
