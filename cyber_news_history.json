@@ -1,7 +1,7 @@
 [
   {
     "id": "95fdf80dc751b0af",
-    "date": "2026-07-17T03:36:38.483514+00:00",
+    "date": "2026-07-17T06:27:16.133137+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "07e19bc267dc1618",
-    "date": "2026-07-17T03:36:38.483398+00:00",
+    "date": "2026-07-17T06:27:16.133022+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "49cd7073e6f39306",
-    "date": "2026-07-17T03:36:38.483284+00:00",
+    "date": "2026-07-17T06:27:16.132909+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "a11f3e5eff830ec7",
-    "date": "2026-07-17T03:36:38.483171+00:00",
+    "date": "2026-07-17T06:27:16.132796+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "5726da9e4decc78f",
-    "date": "2026-07-17T03:36:38.483025+00:00",
+    "date": "2026-07-17T06:27:16.132651+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "47cc57d9d32bcb47",
-    "date": "2026-07-17T03:36:38.482919+00:00",
+    "date": "2026-07-17T06:27:16.132543+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,41 +174,8 @@
     ]
   },
   {
-    "id": "6af2d0f1bf605be4",
-    "date": "2026-07-17T03:36:38.482798+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Microsoft July 2026 Patch Tuesday: Record Vulnerability Volume Forces a Reckoning microsoft ZERO-DAY",
-    "summary": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]",
-    "article_text": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. Patch Tuesday addresses 59 \"Critical\" vulnerabilities, 48 of which are remote code execution, 9 are elevation of privilege, 1 is a security bypass, and 1 is a spoofing. The approximate number of bugs in each vulnerability category is listed below: When BleepingComputer reports on Patch Tuesday security updates, we only count those released by Microsoft today. Therefore, the number of flaws does not include flaws in Mariner, Azure OpenAI, Azure Synapse, M365 Copilot, Microsoft Exchange Online, Microsoft Edge for Android, and Microsoft Entra Provisioning Service that were fixed by Microsoft earlier this month. There were also a massive 468 Microsoft Edge/Chromium flaws that were fixed by Google this month, which were excluded from this Patch Tuesday roundup. As part of last month's June Patch Tuesday , Google fixed 360 flaws that were later ported to Microsoft Edge. Last week, Microsoft warned that there would be an increase in Patch Tuesday security updates as it has begun to use an AI-powered vulnerability discovery system to identify more security flaws across its Windows codebase before attackers can exploit them. To learn more about the non-security updates released today, you can review our dedicated articles on the Windows 11 KB5101650 & KB5099414 cumulative updates . This month's Patch Tuesday fixes three zero-day vulnerabilities, with two exploited in attacks and one publicly disclosed. Microsoft classifies a zero-day flaw as publicly disclosed or actively exploited while no official fix is available. The two actively exploited zero-days addressed during this month's Patch Tuesday are: CVE-2026-56155 - Active Directory Federation Services Elevation of Privilege Vulnerability Microsoft has patched an actively exploited vulnerability in Active Directory Federation Services that grants administrative privileges. \"Insufficient granularity of access control in Active Directory Federation Services (AD FS) allows an authorized attacker to elevate privileges locally,\" warns Microsoft. Microsoft credited the flaw to Jeremy Kingston and Scott Clark of Microsoft Detection and Response Team (DART), Microsoft's incident response unit, indicating it was likely uncovered while investigating active attacks. Microsoft has not disclosed any details as to how the flaw was exploited in attacks. CVE-2026-56164 - Microsoft SharePoint Server Elevation of Privilege Vulnerability Microsoft has patched an actively exploited flaw in Microsoft SharePoint Server that allows a remote attacker to gain elevated privileges. \"Missing authentication for critical function in Microsoft Office SharePoint allows an unauthorized attacker to elevate privileges over a network,\" explains Microsoft. Microsoft says that enabling the Antimalware Scan Interface (AMSI) on the server and setting the Request Body Scan mode to Full can help mitigate this flaw. No details have been released as to how this flaw was exploited in attacks. Microsoft credited the flaw to Jayson Frost with Mandiant Incident Response, Genwei Jiang with Google Cloud, FLARE OTF, and an anonymous researcher. CVE-2026-50661 - Windows BitLocker Security Feature Bypass Vulnerability Microsoft has patched a publicly disclosed Windows BitLocker bypass flaw that could allow attackers to gain access to encrypted data. \"A successful attacker could bypass the BitLocker Device Encryption feature on the system storage device. An attacker with physical access to the target could exploit this vulnerability to gain access to encrypted data,\" explains Microsoft. Other vendors who released updates or advisories in May 2026 include: Below is the complete list of resolved vulnerabilities in the July 2026 Patch Tuesday updates, excluding flaws fixed before today. To access the full description of each vulnerability and the systems it affects, you can view the full report here . Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Microsoft June 2026 Patch Tuesday fixes 6 zero-days, 200 flaws Microsoft expects more Windows security updates from AI-discovered flaws Windows 11 KB5094126 & KB5093998 cumulative updates releas",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/microsoft/microsoft-july-2026-patch-tuesday-record-vulnerability-volume-forces-a-reckoning",
-    "target": "Microsoft July 2026 Patch",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/microsoft/microsoft-july-2026-patch-tuesday-record-vulnerability-volume-forces-a-reckoning"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/"
-      }
-    ]
-  },
-  {
     "id": "f328d1e2ab81da82",
-    "date": "2026-07-17T03:36:38.482649+00:00",
+    "date": "2026-07-17T06:27:16.132400+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -242,7 +209,7 @@
   },
   {
     "id": "fc1d29f4422d715e",
-    "date": "2026-07-17T03:36:38.482496+00:00",
+    "date": "2026-07-17T06:27:16.132250+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -271,7 +238,7 @@
   },
   {
     "id": "69be7831d677cbb7",
-    "date": "2026-07-17T03:36:38.482371+00:00",
+    "date": "2026-07-17T06:27:16.132127+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -300,7 +267,7 @@
   },
   {
     "id": "c79d7e282c57bb4e",
-    "date": "2026-07-17T03:36:38.482250+00:00",
+    "date": "2026-07-17T06:27:16.132008+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -329,7 +296,7 @@
   },
   {
     "id": "0fb0577b9825d241",
-    "date": "2026-07-17T03:36:38.482085+00:00",
+    "date": "2026-07-17T06:27:16.131847+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -363,7 +330,7 @@
   },
   {
     "id": "e42dec06d1da71c6",
-    "date": "2026-07-17T03:36:38.481957+00:00",
+    "date": "2026-07-17T06:27:16.131726+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -391,13 +358,71 @@
     ]
   },
   {
-    "id": "3ddb3eaee7aec34c",
-    "date": "2026-07-17T03:36:38.480791+00:00",
+    "id": "5ea62f51faa897ea",
+    "date": "2026-07-17T06:27:16.131601+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 7 ZERO-DAY · 7 CVE · 6 EXPLOIT IN THE LAST 24H →",
+    "title": "NVIDIA NeMo Framework: RCE Vulnerability in ML Checkpoints VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/nvidia-nemo-framework-rce-vulnerability-in-ml-checkpoints",
+    "target": "NVIDIA NeMo Framework",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/nvidia-nemo-framework-rce-vulnerability-in-ml-checkpoints"
+      }
+    ]
+  },
+  {
+    "id": "536678d8e993d110",
+    "date": "2026-07-17T06:27:16.130489+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Windows WMI: ZDI-26-415 Vulnerability Allows Escalation to SYSTEM",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/windows-wmi-zdi-26-415-vulnerability-allows-escalation-to-system",
+    "target": "Windows WMI",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/windows-wmi-zdi-26-415-vulnerability-allows-escalation-to-system"
+      }
+    ]
+  },
+  {
+    "id": "3ddb3eaee7aec34c",
+    "date": "2026-07-17T06:27:16.130331+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 7 ZERO-DAY · 8 CVE · 6 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -421,7 +446,7 @@
   },
   {
     "id": "f7d57bc507083882",
-    "date": "2026-07-17T03:36:37.566469+00:00",
+    "date": "2026-07-17T06:27:15.001803+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -482,7 +507,7 @@
   },
   {
     "id": "893725222a75d732",
-    "date": "2026-07-17T03:36:36.500937+00:00",
+    "date": "2026-07-17T06:27:14.085149+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -520,7 +545,7 @@
   },
   {
     "id": "3dd7dbe61524cecf",
-    "date": "2026-07-17T03:36:36.500726+00:00",
+    "date": "2026-07-17T06:27:14.084971+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -549,7 +574,7 @@
   },
   {
     "id": "67c6fe94888946e9",
-    "date": "2026-07-17T03:36:36.500412+00:00",
+    "date": "2026-07-17T06:27:14.084678+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -578,7 +603,7 @@
   },
   {
     "id": "c169a1ca3cef4de2",
-    "date": "2026-07-17T03:36:36.500274+00:00",
+    "date": "2026-07-17T06:27:14.084534+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -607,7 +632,7 @@
   },
   {
     "id": "3b7fe9c8a211b227",
-    "date": "2026-07-17T03:36:36.500145+00:00",
+    "date": "2026-07-17T06:27:14.084384+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -636,7 +661,7 @@
   },
   {
     "id": "1ee6fdc9ba7834ee",
-    "date": "2026-07-17T03:36:36.500005+00:00",
+    "date": "2026-07-17T06:27:14.084244+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -665,7 +690,7 @@
   },
   {
     "id": "13a768d02e6f339e",
-    "date": "2026-07-17T03:36:36.499838+00:00",
+    "date": "2026-07-17T06:27:14.084081+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -694,7 +719,7 @@
   },
   {
     "id": "d0dde6e7a52097ee",
-    "date": "2026-07-17T03:36:36.499673+00:00",
+    "date": "2026-07-17T06:27:14.083931+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -723,7 +748,7 @@
   },
   {
     "id": "b38159c181af4f16",
-    "date": "2026-07-17T03:36:36.499488+00:00",
+    "date": "2026-07-17T06:27:14.083744+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -752,7 +777,7 @@
   },
   {
     "id": "0ddf20649bcdbd2b",
-    "date": "2026-07-17T03:36:36.499305+00:00",
+    "date": "2026-07-17T06:27:14.083552+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -781,7 +806,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-07-17T03:36:36.499081+00:00",
+    "date": "2026-07-17T06:27:14.083307+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -810,7 +835,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-07-17T03:36:36.498892+00:00",
+    "date": "2026-07-17T06:27:14.083116+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -839,7 +864,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-07-17T03:36:36.498739+00:00",
+    "date": "2026-07-17T06:27:14.082966+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -868,7 +893,7 @@
   },
   {
     "id": "a80ccfde5e04c5d0",
-    "date": "2026-07-17T03:36:36.498532+00:00",
+    "date": "2026-07-17T06:27:14.082777+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -897,7 +922,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-17T03:36:36.498387+00:00",
+    "date": "2026-07-17T06:27:14.082626+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -926,7 +951,7 @@
   },
   {
     "id": "742c29cc1bce27d9",
-    "date": "2026-07-17T03:36:36.498227+00:00",
+    "date": "2026-07-17T06:27:14.082442+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -955,7 +980,7 @@
   },
   {
     "id": "550396760e8a1cad",
-    "date": "2026-07-17T03:36:36.498038+00:00",
+    "date": "2026-07-17T06:27:14.082244+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -984,7 +1009,7 @@
   },
   {
     "id": "bfb93a713df0aeca",
-    "date": "2026-07-17T03:36:36.497696+00:00",
+    "date": "2026-07-17T06:27:14.081922+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1013,7 +1038,7 @@
   },
   {
     "id": "b6ad6c0f74784394",
-    "date": "2026-07-17T03:36:36.497531+00:00",
+    "date": "2026-07-17T06:27:14.081750+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1042,7 +1067,7 @@
   },
   {
     "id": "ea596a997d3e9182",
-    "date": "2026-07-17T03:36:36.497379+00:00",
+    "date": "2026-07-17T06:27:14.081594+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1071,7 +1096,7 @@
   },
   {
     "id": "9c9129664e63e824",
-    "date": "2026-07-17T03:36:36.497229+00:00",
+    "date": "2026-07-17T06:27:14.081421+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1100,7 +1125,7 @@
   },
   {
     "id": "9af956bf2f8b0a83",
-    "date": "2026-07-17T03:36:36.497082+00:00",
+    "date": "2026-07-17T06:27:14.081272+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1129,7 +1154,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-17T03:36:36.493515+00:00",
+    "date": "2026-07-17T06:27:14.077617+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1158,7 +1183,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-17T03:36:36.492592+00:00",
+    "date": "2026-07-17T06:27:14.076658+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1187,7 +1212,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-17T03:36:36.492343+00:00",
+    "date": "2026-07-17T06:27:14.076348+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1216,7 +1241,7 @@
   },
   {
     "id": "a418af851b376002",
-    "date": "2026-07-17T03:36:36.319322+00:00",
+    "date": "2026-07-17T06:27:13.985810+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1245,7 +1270,7 @@
   },
   {
     "id": "cabfc55f0c53029f",
-    "date": "2026-07-17T03:36:36.319198+00:00",
+    "date": "2026-07-17T06:27:13.985686+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1274,7 +1299,7 @@
   },
   {
     "id": "e83c6cb1b6025f2a",
-    "date": "2026-07-17T03:36:36.319068+00:00",
+    "date": "2026-07-17T06:27:13.985555+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1303,7 +1328,7 @@
   },
   {
     "id": "9b53b412b7af4c29",
-    "date": "2026-07-17T03:36:36.318931+00:00",
+    "date": "2026-07-17T06:27:13.985400+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1332,7 +1357,7 @@
   },
   {
     "id": "819a68fdb17cd8cf",
-    "date": "2026-07-17T03:36:36.318805+00:00",
+    "date": "2026-07-17T06:27:13.985277+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1365,7 +1390,7 @@
   },
   {
     "id": "f8f24b90295e005a",
-    "date": "2026-07-17T03:36:36.318643+00:00",
+    "date": "2026-07-17T06:27:13.985141+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1398,7 +1423,7 @@
   },
   {
     "id": "8bddd04c34b61b09",
-    "date": "2026-07-17T03:36:36.318501+00:00",
+    "date": "2026-07-17T06:27:13.984996+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1427,7 +1452,7 @@
   },
   {
     "id": "afc86f97367b7389",
-    "date": "2026-07-17T03:36:36.318377+00:00",
+    "date": "2026-07-17T06:27:13.984874+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1456,7 +1481,7 @@
   },
   {
     "id": "554179b9d623a7a0",
-    "date": "2026-07-17T03:36:36.318243+00:00",
+    "date": "2026-07-17T06:27:13.984741+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1485,7 +1510,7 @@
   },
   {
     "id": "2c98a5a61734ad9d",
-    "date": "2026-07-17T03:36:36.318098+00:00",
+    "date": "2026-07-17T06:27:13.984595+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1514,7 +1539,7 @@
   },
   {
     "id": "852f158bb8361e91",
-    "date": "2026-07-17T03:36:36.317957+00:00",
+    "date": "2026-07-17T06:27:13.984432+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1547,7 +1572,7 @@
   },
   {
     "id": "aef3f447be6b6350",
-    "date": "2026-07-17T03:36:36.317819+00:00",
+    "date": "2026-07-17T06:27:13.984300+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1576,7 +1601,7 @@
   },
   {
     "id": "d6b5bd3f387810a9",
-    "date": "2026-07-17T03:36:36.317649+00:00",
+    "date": "2026-07-17T06:27:13.984158+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1605,7 +1630,7 @@
   },
   {
     "id": "8fea43494c3e39fa",
-    "date": "2026-07-17T03:36:36.317504+00:00",
+    "date": "2026-07-17T06:27:13.984018+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1634,7 +1659,7 @@
   },
   {
     "id": "ef620a5063be82f2",
-    "date": "2026-07-17T03:36:36.317369+00:00",
+    "date": "2026-07-17T06:27:13.983886+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1663,7 +1688,7 @@
   },
   {
     "id": "ce6759e40718ce06",
-    "date": "2026-07-17T03:36:36.317239+00:00",
+    "date": "2026-07-17T06:27:13.983757+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1692,7 +1717,7 @@
   },
   {
     "id": "819d4a0e5b818642",
-    "date": "2026-07-17T03:36:36.317097+00:00",
+    "date": "2026-07-17T06:27:13.983618+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1721,7 +1746,7 @@
   },
   {
     "id": "eba0ed2ff6d3e302",
-    "date": "2026-07-17T03:36:36.316948+00:00",
+    "date": "2026-07-17T06:27:13.983450+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1750,7 +1775,7 @@
   },
   {
     "id": "d41e9a3128a800cd",
-    "date": "2026-07-17T03:36:36.316777+00:00",
+    "date": "2026-07-17T06:27:13.983316+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1779,7 +1804,7 @@
   },
   {
     "id": "dfd2198acdfd6c92",
-    "date": "2026-07-17T03:36:36.316561+00:00",
+    "date": "2026-07-17T06:27:13.983176+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1808,7 +1833,7 @@
   },
   {
     "id": "0bfb5eda01ae4384",
-    "date": "2026-07-17T03:36:36.316427+00:00",
+    "date": "2026-07-17T06:27:13.983042+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1837,7 +1862,7 @@
   },
   {
     "id": "f3dd5aa711a35a0a",
-    "date": "2026-07-17T03:36:36.316287+00:00",
+    "date": "2026-07-17T06:27:13.982903+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1866,7 +1891,7 @@
   },
   {
     "id": "28cd7f27f4da4921",
-    "date": "2026-07-17T03:36:36.316152+00:00",
+    "date": "2026-07-17T06:27:13.982769+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1895,7 +1920,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-07-17T03:36:36.316001+00:00",
+    "date": "2026-07-17T06:27:13.982619+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1928,7 +1953,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-07-17T03:36:36.315794+00:00",
+    "date": "2026-07-17T06:27:13.982390+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1956,6 +1981,68 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "0fc4008ddb8cbc1b",
+    "date": "2026-07-17T06:23:08+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack",
+    "summary": "The company says the incident has not affected product quality and safety, nor Fairlife’s Canada production. The post Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The company says the incident has not affected product quality and safety, nor Fairlife’s Canada production.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/",
+    "target": "Coca-Cola Suspends Fairlife Production",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/"
+      }
+    ]
+  },
+  {
+    "id": "6af2d0f1bf605be4",
+    "date": "2026-07-17T03:36:38.482798+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Microsoft July 2026 Patch Tuesday: Record Vulnerability Volume Forces a Reckoning microsoft ZERO-DAY",
+    "summary": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]",
+    "article_text": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. Patch Tuesday addresses 59 \"Critical\" vulnerabilities, 48 of which are remote code execution, 9 are elevation of privilege, 1 is a security bypass, and 1 is a spoofing. The approximate number of bugs in each vulnerability category is listed below: When BleepingComputer reports on Patch Tuesday security updates, we only count those released by Microsoft today. Therefore, the number of flaws does not include flaws in Mariner, Azure OpenAI, Azure Synapse, M365 Copilot, Microsoft Exchange Online, Microsoft Edge for Android, and Microsoft Entra Provisioning Service that were fixed by Microsoft earlier this month. There were also a massive 468 Microsoft Edge/Chromium flaws that were fixed by Google this month, which were excluded from this Patch Tuesday roundup. As part of last month's June Patch Tuesday , Google fixed 360 flaws that were later ported to Microsoft Edge. Last week, Microsoft warned that there would be an increase in Patch Tuesday security updates as it has begun to use an AI-powered vulnerability discovery system to identify more security flaws across its Windows codebase before attackers can exploit them. To learn more about the non-security updates released today, you can review our dedicated articles on the Windows 11 KB5101650 & KB5099414 cumulative updates . This month's Patch Tuesday fixes three zero-day vulnerabilities, with two exploited in attacks and one publicly disclosed. Microsoft classifies a zero-day flaw as publicly disclosed or actively exploited while no official fix is available. The two actively exploited zero-days addressed during this month's Patch Tuesday are: CVE-2026-56155 - Active Directory Federation Services Elevation of Privilege Vulnerability Microsoft has patched an actively exploited vulnerability in Active Directory Federation Services that grants administrative privileges. \"Insufficient granularity of access control in Active Directory Federation Services (AD FS) allows an authorized attacker to elevate privileges locally,\" warns Microsoft. Microsoft credited the flaw to Jeremy Kingston and Scott Clark of Microsoft Detection and Response Team (DART), Microsoft's incident response unit, indicating it was likely uncovered while investigating active attacks. Microsoft has not disclosed any details as to how the flaw was exploited in attacks. CVE-2026-56164 - Microsoft SharePoint Server Elevation of Privilege Vulnerability Microsoft has patched an actively exploited flaw in Microsoft SharePoint Server that allows a remote attacker to gain elevated privileges. \"Missing authentication for critical function in Microsoft Office SharePoint allows an unauthorized attacker to elevate privileges over a network,\" explains Microsoft. Microsoft says that enabling the Antimalware Scan Interface (AMSI) on the server and setting the Request Body Scan mode to Full can help mitigate this flaw. No details have been released as to how this flaw was exploited in attacks. Microsoft credited the flaw to Jayson Frost with Mandiant Incident Response, Genwei Jiang with Google Cloud, FLARE OTF, and an anonymous researcher. CVE-2026-50661 - Windows BitLocker Security Feature Bypass Vulnerability Microsoft has patched a publicly disclosed Windows BitLocker bypass flaw that could allow attackers to gain access to encrypted data. \"A successful attacker could bypass the BitLocker Device Encryption feature on the system storage device. An attacker with physical access to the target could exploit this vulnerability to gain access to encrypted data,\" explains Microsoft. Other vendors who released updates or advisories in May 2026 include: Below is the complete list of resolved vulnerabilities in the July 2026 Patch Tuesday updates, excluding flaws fixed before today. To access the full description of each vulnerability and the systems it affects, you can view the full report here . Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Microsoft June 2026 Patch Tuesday fixes 6 zero-days, 200 flaws Microsoft expects more Windows security updates from AI-discovered flaws Windows 11 KB5094126 & KB5093998 cumulative updates releas",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/microsoft/microsoft-july-2026-patch-tuesday-record-vulnerability-volume-forces-a-reckoning",
+    "target": "Microsoft July 2026 Patch",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/microsoft/microsoft-july-2026-patch-tuesday-record-vulnerability-volume-forces-a-reckoning"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/"
       }
     ]
   },
@@ -4406,7 +4493,7 @@
     "category": "",
     "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
     "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom Meeting SDK for Windows. \"Improper Input Validation in Zoom Desktop Client for Windows, Zoom VDI Client for",
-    "article_text": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom Meeting SDK for Windows. \"Improper Input Validation in Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom Meeting SDK for Windows may allow an unauthenticated user to conduct an account takeover via network access,\" Zoom said in an advisory released this week. The latest security fixes also address three high-severity flaws - It's worth noting that CVE-2026-53410 affects the following products - As of writing, there are no indications that any of the flaws are being exploited in real-world attacks. Users can stay protected by applying the latest updates. Learn how to secure AI agents with practical controls for access, visibility, secrets, and risk containment. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "article_text": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Workplace for Windows before version 7.0.0 and Zoom Workplace VDI Client for Windows before version 7.0.10, 6.6.15, and 6.5.18 in their respective branches. \"Improper Input Validation in Zoom Desktop Client for Windows and Zoom VDI Client for Windows may allow an unauthenticated user to conduct an account takeover via network access,\" Zoom said in an advisory released this week. The latest security fixes also address three high-severity flaws - It's worth noting that CVE-2026-53410 affects the following products - As of writing, there are no indications that any of the flaws are being exploited in real-world attacks. Users can stay protected by applying the latest updates. (The story was updated after publication to reflect Zoom's removal of Meeting SDK for Windows as an affected product.) Learn how to secure AI agents with practical controls for access, visibility, secrets, and risk containment. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
     "quick_summary": [
       "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover.",
       "Risk: vulnerability/exploitation risk",
@@ -26456,97 +26543,6 @@
       {
         "source": "HackRead",
         "url": "https://hackread.com/ai-forge-documents-minutes-looks-right-not-enough/"
-      }
-    ]
-  },
-  {
-    "id": "d765db9846734657",
-    "date": "2026-07-06T09:10:39.944627+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Fake Perplexity AI Chromium Extension Hijacks Browser Search via Typosquatted Domain",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/fake-perplexity-ai-chromium-extension-hijacks-browser-search-via-typosquatted-domain/630096/",
-    "target": "Fake Perplexity Chromium Extension",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/fake-perplexity-ai-chromium-extension-hijacks-browser-search-via-typosquatted-domain/630096/"
-      }
-    ]
-  },
-  {
-    "id": "b50c3bfea9e481fa",
-    "date": "2026-07-06T09:10:39.944492+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Nissan Discloses Employee Data Breach Linked to Oracle Zero-Day",
-    "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
-    "article_text": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. In breach notifications filed with the California Attorney General's Office, Oracle says these data theft attacks impacted hundreds of companies and that Nissan was specifically targeted in the campaign. \"Nissan Americas uses Oracle PeopleSoft software to manage employee information, including payroll, tax administration, and other personnel records,\" reads the breach notifications . \"Oracle has informed us that there was a cyber event and that the personnel records of hundreds of companies may have been obtained by so-called threat actors. We have since learned that Nissan was specifically targeted in this attack.\" Nissan says it is still in the early stages of the investigation and has not yet determined the full impact of the breach, but believes attackers accessed personal information that may include employee contact information, banking information, Social Security numbers, Social Insurance Numbers, National Identification Numbers, financial and tax information, and dependent and beneficiary information. The incident is believed to impact current and former Nissan employees in the United States, Canada, Mexico, and Brazil. Nissan says it activated its incident response after learning it had suffered a data breach, engaged external cybersecurity experts, secured affected systems, and is working with Oracle to address the issue. The company says it also took steps to end unauthorized access and prevent further disclosure of employee information and will offer free credit and dark web monitoring services to affected individuals where available. As an additional precaution, Nissan says it is restricting access to employee pay slips and direct deposit changes to company network computers or secured VPN connections while it implements additional identity verification measures before processing payroll requests. The automaker says that employees whose information is ultimately determined to have been exposed will receive additional notifications detailing what data was impacted. The disclosure is believed to stem from the widespread exploitation of Oracle PeopleSoft servers first reported by BleepingComputer earlier this month. As first reported, threat actors exploited a zero-day vulnerability in Oracle PeopleSoft to breach instances and steal data. The ShinyHunters extortion gang claimed responsibility for the attacks, telling BleepingComputer that over 300 PeopleSoft instances across 100 organizations were breached. Soon after, Oracle disclosed a critical vulnerability in Oracle PeopleSoft PeopleTools, tracked as CVE-2026-35273 , and released emergency mitigations . While Oracle has still not publicly confirmed that the flaw was exploited, Mandiant later confirmed that threat actors exploited the Oracle PeopleSoft CVE-2026-35273 vulnerability as a zero-day in data theft attacks between May 27 and June 9. These attacks primarily impacted organizations in the education sector, and Mandiant said it notified over 100 organizations, confirming the information previously shared by ShinyHunters. Since then, ShinyHunters has begun leaking data stolen in these attacks on its data leak site, including for the Nottingham University and the National Association of Insurance Commissioners (NAIC) . The threat actors are a well-known extortion group that commonly targets Salesforce , Snowflake , third-party integration partners , and other cloud SaaS environments for data theft. ShinyHunters recently targeted the education sector in a separate cyberattack on Instructure Canvas , stealing 280 million data records from students, teachers, and staff. Instructure later paid a ransom to prevent the data from being leaked. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Oracle mitigates PeopleSoft zero-day exploited in data theft attacks Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks NAIC says public data stolen in ShinyHunters' PeopleSoft breach Infinite Campus data breach affects 137,000 school staff accounts Charter Communications data breach affects 4.9 million accounts Data breach exposes up ",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.technadu.com/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day/630102/",
-    "target": "Nissan Discloses Employee Data",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day/630102/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/"
-      }
-    ]
-  },
-  {
-    "id": "a202c9d92d86c67e",
-    "date": "2026-07-06T09:10:39.771762+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Would you like some malware served at the very top of DuckDuckGo?",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Would you like some malware served at the very top of DuckDuckGo?",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1u93j1m/would_you_like_some_malware_served_at_the_very/",
-    "target": "Would",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1u93j1m/would_you_like_some_malware_served_at_the_very/"
       }
     ]
   }
