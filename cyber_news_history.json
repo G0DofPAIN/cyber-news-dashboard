@@ -1,7 +1,7 @@
 [
   {
     "id": "e51ed7b02ff8ea97",
-    "date": "2026-07-20T18:19:03.842611+00:00",
+    "date": "2026-07-20T20:40:16.093061+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "610e3432fb7c1586",
-    "date": "2026-07-20T18:19:03.842499+00:00",
+    "date": "2026-07-20T20:40:16.092966+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "3618a67d1f50cdf1",
-    "date": "2026-07-20T18:19:03.842377+00:00",
+    "date": "2026-07-20T20:40:16.092859+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "fa816d3db053069e",
-    "date": "2026-07-20T18:19:03.842249+00:00",
+    "date": "2026-07-20T20:40:16.092747+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "8001fab6a4572ddf",
-    "date": "2026-07-20T18:19:03.842125+00:00",
+    "date": "2026-07-20T20:40:16.092641+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "0b30257b930d716a",
-    "date": "2026-07-20T18:19:03.842013+00:00",
+    "date": "2026-07-20T20:40:16.092544+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,37 +174,8 @@
     ]
   },
   {
-    "id": "ff09ea06454e94c8",
-    "date": "2026-07-20T18:19:03.841884+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Cisco ISE Authenticated Directory Traversal (CVE-2026-20146) Exposes System Files CYBERSEC CVE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cisco-ise-authenticated-directory-traversal-cve-2026-20146-exposes-system-files",
-    "target": "Cisco ISE Authenticated Directory",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cisco-ise-authenticated-directory-traversal-cve-2026-20146-exposes-system-files"
-      }
-    ]
-  },
-  {
     "id": "04a429a76901158e",
-    "date": "2026-07-20T18:19:03.841762+00:00",
+    "date": "2026-07-20T20:40:16.092427+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "af027913936f9c78",
-    "date": "2026-07-20T18:19:03.841607+00:00",
+    "date": "2026-07-20T20:40:16.092330+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +233,7 @@
   },
   {
     "id": "51910031d39b7577",
-    "date": "2026-07-20T18:19:03.841490+00:00",
+    "date": "2026-07-20T20:40:16.092225+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +262,7 @@
   },
   {
     "id": "3c41407fcfecaf29",
-    "date": "2026-07-20T18:19:03.841379+00:00",
+    "date": "2026-07-20T20:40:16.092127+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -320,7 +291,7 @@
   },
   {
     "id": "c09fd71cca3b7e28",
-    "date": "2026-07-20T18:19:03.841259+00:00",
+    "date": "2026-07-20T20:40:16.092021+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -348,22 +319,22 @@
     ]
   },
   {
-    "id": "edb4bcca667e7e4a",
-    "date": "2026-07-20T18:19:03.840265+00:00",
+    "id": "e591d36d18f23300",
+    "date": "2026-07-20T20:40:16.091685+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC AsyncAPI: The Supply Chain That Trusted Its Own Signatures Jul 20, 2026",
-    "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
-    "article_text": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. The threat actor exploited a misconfigured GitHub Actions workflow and pushed trojanized packages in the @asyncapi namespace that had a cummulative weekly download count of more than 2.25 million. Multiple security companies confirmed that on July 14, an attacker compromised two AsyncAPI GitHub repositories and injected malware into project files. “Both attacks are CI/CD pipeline compromises, not stolen npm tokens or malicious maintainers,” reads a report from Step Security . The researchers explain that \"the attacker pushed commits under a placeholder git identity and let each repository's real release workflow do the publishing via npm's GitHub OIDC trusted-publisher integration.\" In doing so, the attacker ensured that the resulting packages had the legitimate SLSA provenance attestations, indicating that they originated from an authorized workflow. Application security company Socket notes that the first-stage implant in the published packages is an obfuscated JavaScript statement that ultimately triggers a downloader when the infected file is imported. A second-stage script, which contains configuration details and the main runtime, is retrieved from the IPFS peer-to-peer content delivery network and launched as a hidden process. Cloud and application security company Wiz says that the third-stage payload \"is a 92,000-line malware framework with modular architecture,\" which establishes persistence on the system and communicates with the command-and-control (C2) server over several channels: HTTP, Nostr relays, Ethereum smart contracts, and a libp2p mesh network. Although the final payload uses artifact names and configuration files pointing to the Miasma backdoor seen in past supply-chain attacks [ 1 , 2 ], SafeDep researchers believe that the malware is \"either a private, parallel build by the same operators or a separate group that adopted the Miasma brand after the source was published .\" Its purpose appears to be stealing secrets, which include credentials, authentication keys, tokens, browser data, sensitive info from CI/CD systems and AI developer tools, cryptocurrency wallets, and databases. Additionally, the malware code allows it to download the Gitleaks and HackBrowserData tools to help with collecting sensitive info. However, a report from cybersecurity company Aikido notes that all these functions do not work and the data harvesting tool exits before collecting anything. Nevertheless, the researchers say that all this can be achieved manually using the shell. Ox Security also noted that the malware performs a local check for Russia, and if there’s a match, it terminates its process. As of writing, all five versions of the four malicious packages have been removed from npm, but developers should note that existing installations and lock files created during the exposure window may still contain the malicious releases. The exposure window extends to approximately four hours and seven minutes, between 07:10 and 11:18 UTC on July 14. The recommended action is to pin to known-good files, regenerate lock files, remove the hidden ‘NodeJS/sync.js’ payload, terminate all malicious processes, and rotate credentials on the impacted systems. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. GitHub announces npm security changes to tackle supply-chain attacks GitHub disables Microsoft repos pushing password-stealing malware New IronWorm malware hits 36 packages in npm supply-chain attack Shai Hulud attack ships signed malicious TanStack, Mistral npm packages Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time #1 MSP Benchmark report 2026: Insights from 1,000+ MSPs on growth, security, artificial intelligence, and key 2026 trends. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. How Mature Is Your AI Security Program? Take the Free AI Maturity Assessment. Read our posting guidelinese to learn what content is pro",
+    "title": "AsyncAPI: The Supply Chain That Trusted Its Own Signatures CYBERSEC",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: general cybersecurity update",
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/asyncapi-the-supply-chain-that-trusted-its-own-signatures",
-    "target": "CYBERSEC AsyncAPI",
+    "target": "AsyncAPI",
     "type": "General Cybersecurity",
     "severity": "Critical",
     "sources": [
@@ -373,16 +344,12 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/asyncapi-the-supply-chain-that-trusted-its-own-signatures"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/"
       }
     ]
   },
   {
     "id": "4ae8959902bb9afb",
-    "date": "2026-07-20T18:19:03.839863+00:00",
+    "date": "2026-07-20T20:40:16.090815+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -410,8 +377,37 @@
     ]
   },
   {
+    "id": "bb71d856e583e52c",
+    "date": "2026-07-20T20:40:16.090567+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Misconfigured Server Exposes Three Evilginx Phishing Campaigns",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/news/misconfigured-server-exposes-three-evilginx-phishing-campaigns",
+    "target": "Misconfigured Server Exposes Three",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/misconfigured-server-exposes-three-evilginx-phishing-campaigns"
+      }
+    ]
+  },
+  {
     "id": "2f8d3975edbdd1db",
-    "date": "2026-07-20T18:19:03.839522+00:00",
+    "date": "2026-07-20T20:40:16.090390+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -440,7 +436,7 @@
   },
   {
     "id": "98742b3dc4fc77d6",
-    "date": "2026-07-20T18:19:03.027102+00:00",
+    "date": "2026-07-20T20:40:15.271600+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -505,7 +501,7 @@
   },
   {
     "id": "13a768d02e6f339e",
-    "date": "2026-07-20T18:19:02.262878+00:00",
+    "date": "2026-07-20T20:40:14.500507+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -534,7 +530,7 @@
   },
   {
     "id": "d0dde6e7a52097ee",
-    "date": "2026-07-20T18:19:02.262731+00:00",
+    "date": "2026-07-20T20:40:14.500381+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -563,7 +559,7 @@
   },
   {
     "id": "b38159c181af4f16",
-    "date": "2026-07-20T18:19:02.262522+00:00",
+    "date": "2026-07-20T20:40:14.500219+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -592,7 +588,7 @@
   },
   {
     "id": "bfb93a713df0aeca",
-    "date": "2026-07-20T18:19:02.262324+00:00",
+    "date": "2026-07-20T20:40:14.500044+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -621,7 +617,7 @@
   },
   {
     "id": "b6ad6c0f74784394",
-    "date": "2026-07-20T18:19:02.262158+00:00",
+    "date": "2026-07-20T20:40:14.499897+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -650,7 +646,7 @@
   },
   {
     "id": "ea596a997d3e9182",
-    "date": "2026-07-20T18:19:02.262008+00:00",
+    "date": "2026-07-20T20:40:14.499765+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -679,7 +675,7 @@
   },
   {
     "id": "9c9129664e63e824",
-    "date": "2026-07-20T18:19:02.261861+00:00",
+    "date": "2026-07-20T20:40:14.499635+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -708,7 +704,7 @@
   },
   {
     "id": "9af956bf2f8b0a83",
-    "date": "2026-07-20T18:19:02.261718+00:00",
+    "date": "2026-07-20T20:40:14.499505+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -737,7 +733,7 @@
   },
   {
     "id": "0ddf20649bcdbd2b",
-    "date": "2026-07-20T18:19:02.261556+00:00",
+    "date": "2026-07-20T20:40:14.499381+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -766,7 +762,7 @@
   },
   {
     "id": "0a58ca18da9f5a25",
-    "date": "2026-07-20T18:19:02.261410+00:00",
+    "date": "2026-07-20T20:40:14.499253+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -795,7 +791,7 @@
   },
   {
     "id": "ce010fcde98939ec",
-    "date": "2026-07-20T18:19:02.261251+00:00",
+    "date": "2026-07-20T20:40:14.499118+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -824,7 +820,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-07-20T18:19:02.261025+00:00",
+    "date": "2026-07-20T20:40:14.498921+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -853,7 +849,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-07-20T18:19:02.260836+00:00",
+    "date": "2026-07-20T20:40:14.498756+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -882,7 +878,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-07-20T18:19:02.260661+00:00",
+    "date": "2026-07-20T20:40:14.498625+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -911,7 +907,7 @@
   },
   {
     "id": "a80ccfde5e04c5d0",
-    "date": "2026-07-20T18:19:02.260464+00:00",
+    "date": "2026-07-20T20:40:14.498437+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -940,7 +936,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-20T18:19:02.260316+00:00",
+    "date": "2026-07-20T20:40:14.498309+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -969,7 +965,7 @@
   },
   {
     "id": "550396760e8a1cad",
-    "date": "2026-07-20T18:19:02.260124+00:00",
+    "date": "2026-07-20T20:40:14.498140+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -998,7 +994,7 @@
   },
   {
     "id": "02220f09df8df84c",
-    "date": "2026-07-20T18:19:02.259975+00:00",
+    "date": "2026-07-20T20:40:14.498012+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1027,7 +1023,7 @@
   },
   {
     "id": "44371af7d85105b5",
-    "date": "2026-07-20T18:19:02.259607+00:00",
+    "date": "2026-07-20T20:40:14.497691+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1056,7 +1052,7 @@
   },
   {
     "id": "2876b15cd337ae80",
-    "date": "2026-07-20T18:19:02.259467+00:00",
+    "date": "2026-07-20T20:40:14.497568+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1090,7 +1086,7 @@
   },
   {
     "id": "abd131ad860e3611",
-    "date": "2026-07-20T18:19:02.259328+00:00",
+    "date": "2026-07-20T20:40:14.497433+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1119,7 +1115,7 @@
   },
   {
     "id": "05cceba9b212ac7e",
-    "date": "2026-07-20T18:19:02.259184+00:00",
+    "date": "2026-07-20T20:40:14.497303+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1157,7 +1153,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-20T18:19:02.255608+00:00",
+    "date": "2026-07-20T20:40:14.493892+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1186,7 +1182,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-20T18:19:02.254654+00:00",
+    "date": "2026-07-20T20:40:14.493015+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1215,7 +1211,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-20T18:19:02.254385+00:00",
+    "date": "2026-07-20T20:40:14.492765+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1244,7 +1240,7 @@
   },
   {
     "id": "8fea43494c3e39fa",
-    "date": "2026-07-20T18:19:02.140794+00:00",
+    "date": "2026-07-20T20:40:14.336661+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1273,7 +1269,7 @@
   },
   {
     "id": "ef620a5063be82f2",
-    "date": "2026-07-20T18:19:02.140630+00:00",
+    "date": "2026-07-20T20:40:14.336554+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1302,7 +1298,7 @@
   },
   {
     "id": "ce6759e40718ce06",
-    "date": "2026-07-20T18:19:02.140501+00:00",
+    "date": "2026-07-20T20:40:14.336437+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1331,7 +1327,7 @@
   },
   {
     "id": "819d4a0e5b818642",
-    "date": "2026-07-20T18:19:02.140363+00:00",
+    "date": "2026-07-20T20:40:14.336326+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1360,7 +1356,7 @@
   },
   {
     "id": "eba0ed2ff6d3e302",
-    "date": "2026-07-20T18:19:02.140223+00:00",
+    "date": "2026-07-20T20:40:14.336211+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1389,7 +1385,7 @@
   },
   {
     "id": "d41e9a3128a800cd",
-    "date": "2026-07-20T18:19:02.140088+00:00",
+    "date": "2026-07-20T20:40:14.336102+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1418,7 +1414,7 @@
   },
   {
     "id": "dfd2198acdfd6c92",
-    "date": "2026-07-20T18:19:02.139951+00:00",
+    "date": "2026-07-20T20:40:14.335992+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1447,7 +1443,7 @@
   },
   {
     "id": "0bfb5eda01ae4384",
-    "date": "2026-07-20T18:19:02.139818+00:00",
+    "date": "2026-07-20T20:40:14.335888+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1476,7 +1472,7 @@
   },
   {
     "id": "f3dd5aa711a35a0a",
-    "date": "2026-07-20T18:19:02.139655+00:00",
+    "date": "2026-07-20T20:40:14.335778+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1505,7 +1501,7 @@
   },
   {
     "id": "65465371ee428bec",
-    "date": "2026-07-20T18:19:02.139504+00:00",
+    "date": "2026-07-20T20:40:14.335655+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1534,7 +1530,7 @@
   },
   {
     "id": "28cd7f27f4da4921",
-    "date": "2026-07-20T18:19:02.139375+00:00",
+    "date": "2026-07-20T20:40:14.335548+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1563,7 +1559,7 @@
   },
   {
     "id": "c5d90de6138494e2",
-    "date": "2026-07-20T18:19:02.139245+00:00",
+    "date": "2026-07-20T20:40:14.335432+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1592,7 +1588,7 @@
   },
   {
     "id": "a4520d23b3d992a3",
-    "date": "2026-07-20T18:19:02.139114+00:00",
+    "date": "2026-07-20T20:40:14.335329+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1621,7 +1617,7 @@
   },
   {
     "id": "d80e25a1ee4f5eac",
-    "date": "2026-07-20T18:19:02.138979+00:00",
+    "date": "2026-07-20T20:40:14.335223+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1650,7 +1646,7 @@
   },
   {
     "id": "8fa57d9fcc2cae76",
-    "date": "2026-07-20T18:19:02.138716+00:00",
+    "date": "2026-07-20T20:40:14.335017+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1679,7 +1675,7 @@
   },
   {
     "id": "731a4807a8099aaa",
-    "date": "2026-07-20T18:19:02.138563+00:00",
+    "date": "2026-07-20T20:40:14.334911+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1712,7 +1708,7 @@
   },
   {
     "id": "451b1bb5012b7430",
-    "date": "2026-07-20T18:19:02.138416+00:00",
+    "date": "2026-07-20T20:40:14.334787+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1741,7 +1737,7 @@
   },
   {
     "id": "6f2bdf8ffbf98fc6",
-    "date": "2026-07-20T18:19:02.138283+00:00",
+    "date": "2026-07-20T20:40:14.334677+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1769,8 +1765,37 @@
     ]
   },
   {
+    "id": "f6ed439b216cb228",
+    "date": "2026-07-20T20:40:14.334543+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/",
+    "target": "Escalating All Privileges Foxit",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/"
+      }
+    ]
+  },
+  {
     "id": "b64c9cb77e430403",
-    "date": "2026-07-20T18:19:02.138146+00:00",
+    "date": "2026-07-20T20:40:14.334412+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1799,7 +1824,7 @@
   },
   {
     "id": "b6d466d344d51153",
-    "date": "2026-07-20T18:19:02.138007+00:00",
+    "date": "2026-07-20T20:40:14.334291+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1827,37 +1852,8 @@
     ]
   },
   {
-    "id": "f6ed439b216cb228",
-    "date": "2026-07-20T18:19:02.137847+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/",
-    "target": "Escalating All Privileges Foxit",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/"
-      }
-    ]
-  },
-  {
     "id": "3e3cbd0b558843bb",
-    "date": "2026-07-20T18:19:02.137648+00:00",
+    "date": "2026-07-20T20:40:14.334163+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1886,7 +1882,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-07-20T18:19:02.137495+00:00",
+    "date": "2026-07-20T20:40:14.334032+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1919,7 +1915,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-07-20T18:19:02.137285+00:00",
+    "date": "2026-07-20T20:40:14.333827+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1947,6 +1943,242 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "476cff73b9d389ef",
+    "date": "2026-07-20T19:55:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Flock Safety kills acoustic system designed to detect 'human distress'",
+    "summary": "\"Community consultation\" is one of the reasons automated license plate reader (ALPR) company Flock Safety cited in its decision to drop voice-oriented tech from a gunshot detection system.",
+    "article_text": "",
+    "quick_summary": [
+      "\"Community consultation\" is one of the reasons automated license plate reader (ALPR) company Flock Safety cited in its decision to drop voice-oriented tech from a gunshot detection system.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/flock-safety-kills-audio-detection-system-human-distress",
+    "target": "Flock Safety",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/flock-safety-kills-audio-detection-system-human-distress"
+      }
+    ]
+  },
+  {
+    "id": "2559d198d41273eb",
+    "date": "2026-07-20T19:07:01+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "CISOs Feel the Heat Over AI Risk",
+    "summary": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
+    "article_text": "",
+    "quick_summary": [
+      "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
+    "target": "CISOs Feel Heat Risk",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk"
+      }
+    ]
+  },
+  {
+    "id": "105533ca44da5ae0",
+    "date": "2026-07-20T18:41:24+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
+    "summary": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress plugin vulnerabilities are never assigned CVE numbers. But wp2shell is different. It is a SQL injection vulnerability in WordPress Core, not a plugin, and can lead to unauthenticated remote code execution. Shortly after being announced, the vulnerability started to be exploited.",
+    "article_text": "",
+    "quick_summary": [
+      "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\".",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33168",
+    "target": "WordPress Exploitation Underway CVE-2026-63030",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33168"
+      }
+    ]
+  },
+  {
+    "id": "23ea375b787b1567",
+    "date": "2026-07-20T18:30:22+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
+    "summary": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+    "article_text": "",
+    "quick_summary": [
+      "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
+    "target": "Attackers Combo Evasion Tactics",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing"
+      }
+    ]
+  },
+  {
+    "id": "5eac7f95a0f13283",
+    "date": "2026-07-20T18:23:03+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+    "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit. \"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP",
+    "article_text": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit . \"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP files to deliver SmartLoader malware,\" Oleg Zaytsev, lead security researcher at Island, said in a report shared with The Hacker News. The end goal of these attacks is to leverage the access afforded by SmartLoader to establish persistence and push secondary payloads, such as StealC, an information stealer capable of harvesting a wide range of data from compromised systems. It's worth mentioning here that the use of trojanized MCP servers to distribute SmartLoader and StealC was flagged earlier this year by Straiker AI and subsequently by Derp.ca . But a concerning aspect of FakeGit is an AI-powered evolution dubbed AgentBaiting . This occurs when an AI agent searching for a skill or an MCP server ends up inadvertently discovering one of these bogus GitHub repositories, causing it to do the attacker's bidding on its own without any intervention from a human user. Island said its tests revealed Anthropic Claude Code, Google Gemini, and OpenAI ChatGPT to be susceptible to this trickery, allowing the models to surface malicious campaign repositories without even being shown a link. In other words, a technique set up with an original intent to socially engineer humans now has the capability to equally deceive an AI agent acting on their behalf. Of the 7,600 malicious GitHub repositories created by about 6,600 profiles, 800 posed as Skills or MCP servers for individual and enterprise use, from Gmail and WhatsApp integrations to Databricks, Jenkins, and Docker tooling. As of July 2026, the FakeGit operation has recorded more than 14 million downloads across GitHub Release assets in about 200 campaign repositories. \"The repositories were designed to meet demand already forming around AI capabilities, borrowing the names and workflows of familiar consumer and enterprise tools,\" Zaytsev explained. \"That familiarity gave the malicious ZIP files a credible reason to be downloaded, while the README guided users or agents from what appeared to be routine setup into the SmartLoader attack chain.\" The counterfeit repositories, either completely fabricated or copied from legitimate projects, serve as a conduit for a ZIP archive, which is then used to trigger a LuaJIT loader chain, leading to the execution of an obfuscated Lua script responsible for dropping SmartLoader. Then the loader proceeds to deploy StealC. AgentBaiting escalates this threat further, as it opens the door to a scenario where an AI agent can be baited to discover a FakeGit repository without having to supply a malicious link by providing a prompt like this: \"Find free claude cinematic prompt skill, and give me the installation instructions\" or \"give me a free walmart MCP server link.\" \"While trying to complete a task, it can discover a FakeGit repository on its own, treat the README as legitimate documentation, and pass the attacker's instructions to the user,\" Island said. \"FakeGit built its AI lures around this path.\" The technique once again demonstrates how routine AI-assisted discovery operations can be turned into an alley for malicious code execution, a problem that gets exacerbated when the malicious skills or MCP servers are listed on public registries like LobeHub, Glama, MCP.so, and MCP Market, giving them a false sense of legitimacy. More than 600 campaign listings have been flagged across public MCP and Skill registries. To counter the threat, it's advised to build a catalog of reviewed Skills, MCP servers, and agent plugins, evaluate new agent capabilities in a sandboxed environment first before broader rollout, verify both the publisher and the project to ensure credibility, and monitor agentic pathways. \"FakeGit did not need to breach anything. It published convincing repositories, borrowed real developers' identities, spread its listings across public registries, and let discovery do the rest,\" Island said. \"With AgentBaiting, that discovery no longer requires a person at all: an agent searching for a Skill or MCP server can find the lure, read the attacker's README, and carry its instructions forward. The defenses that matter are the ones that interrupt thi",
+    "quick_summary": [
+      "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware fa",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+    "target": "FakeGit Campaign Uses 7600",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html"
+      }
+    ]
+  },
+  {
+    "id": "a0f077304d2bad98",
+    "date": "2026-07-20T18:20:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "India says allegedly leaked nuclear plant files pose no safety risk",
+    "summary": "Documents that the World Leaks cybercrime group claimed to leak from the Kudankulam Nuclear Power Plant do not contain information pertaining to safety or security, Indian officials said.",
+    "article_text": "",
+    "quick_summary": [
+      "Documents that the World Leaks cybercrime group claimed to leak from the Kudankulam Nuclear Power Plant do not contain information pertaining to safety or security, Indian officials said.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/india-nuclear-plant-kudankulam-world-leaks-documents",
+    "target": "India",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/india-nuclear-plant-kudankulam-world-leaks-documents"
+      }
+    ]
+  },
+  {
+    "id": "ff09ea06454e94c8",
+    "date": "2026-07-20T18:19:03.841884+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Cisco ISE Authenticated Directory Traversal (CVE-2026-20146) Exposes System Files CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cisco-ise-authenticated-directory-traversal-cve-2026-20146-exposes-system-files",
+    "target": "Cisco ISE Authenticated Directory",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cisco-ise-authenticated-directory-traversal-cve-2026-20146-exposes-system-files"
+      }
+    ]
+  },
+  {
+    "id": "edb4bcca667e7e4a",
+    "date": "2026-07-20T18:19:03.840265+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC AsyncAPI: The Supply Chain That Trusted Its Own Signatures Jul 20, 2026",
+    "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
+    "article_text": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. The threat actor exploited a misconfigured GitHub Actions workflow and pushed trojanized packages in the @asyncapi namespace that had a cummulative weekly download count of more than 2.25 million. Multiple security companies confirmed that on July 14, an attacker compromised two AsyncAPI GitHub repositories and injected malware into project files. “Both attacks are CI/CD pipeline compromises, not stolen npm tokens or malicious maintainers,” reads a report from Step Security . The researchers explain that \"the attacker pushed commits under a placeholder git identity and let each repository's real release workflow do the publishing via npm's GitHub OIDC trusted-publisher integration.\" In doing so, the attacker ensured that the resulting packages had the legitimate SLSA provenance attestations, indicating that they originated from an authorized workflow. Application security company Socket notes that the first-stage implant in the published packages is an obfuscated JavaScript statement that ultimately triggers a downloader when the infected file is imported. A second-stage script, which contains configuration details and the main runtime, is retrieved from the IPFS peer-to-peer content delivery network and launched as a hidden process. Cloud and application security company Wiz says that the third-stage payload \"is a 92,000-line malware framework with modular architecture,\" which establishes persistence on the system and communicates with the command-and-control (C2) server over several channels: HTTP, Nostr relays, Ethereum smart contracts, and a libp2p mesh network. Although the final payload uses artifact names and configuration files pointing to the Miasma backdoor seen in past supply-chain attacks [ 1 , 2 ], SafeDep researchers believe that the malware is \"either a private, parallel build by the same operators or a separate group that adopted the Miasma brand after the source was published .\" Its purpose appears to be stealing secrets, which include credentials, authentication keys, tokens, browser data, sensitive info from CI/CD systems and AI developer tools, cryptocurrency wallets, and databases. Additionally, the malware code allows it to download the Gitleaks and HackBrowserData tools to help with collecting sensitive info. However, a report from cybersecurity company Aikido notes that all these functions do not work and the data harvesting tool exits before collecting anything. Nevertheless, the researchers say that all this can be achieved manually using the shell. Ox Security also noted that the malware performs a local check for Russia, and if there’s a match, it terminates its process. As of writing, all five versions of the four malicious packages have been removed from npm, but developers should note that existing installations and lock files created during the exposure window may still contain the malicious releases. The exposure window extends to approximately four hours and seven minutes, between 07:10 and 11:18 UTC on July 14. The recommended action is to pin to known-good files, regenerate lock files, remove the hidden ‘NodeJS/sync.js’ payload, terminate all malicious processes, and rotate credentials on the impacted systems. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. GitHub announces npm security changes to tackle supply-chain attacks GitHub disables Microsoft repos pushing password-stealing malware New IronWorm malware hits 36 packages in npm supply-chain attack Shai Hulud attack ships signed malicious TanStack, Mistral npm packages Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time #1 MSP Benchmark report 2026: Insights from 1,000+ MSPs on growth, security, artificial intelligence, and key 2026 trends. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. How Mature Is Your AI Security Program? Take the Free AI Maturity Assessment. Read our posting guidelinese to learn what content is pro",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/asyncapi-the-supply-chain-that-trusted-its-own-signatures",
+    "target": "CYBERSEC AsyncAPI",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/asyncapi-the-supply-chain-that-trusted-its-own-signatures"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/"
       }
     ]
   },
@@ -3287,7 +3519,7 @@
     "category": "",
     "title": "Critical ServiceNow code execution flaw now exploited in attacks",
     "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
-    "article_text": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. Formerly known as the Now Platform, ServiceNow AI Platform is an enterprise-grade Platform-as-a-Service (PaaS) that helps businesses integrate AI into core enterprise workflows. Cybersecurity company Searchlight Cyber, which found this critical vulnerability and reported it on April 1st, says that it allows unauthenticated threat actors to escape the sandbox and execute code remotely within the ServiceNow platform in high-complexity attacks. ServiceNow addressed the flaw across hosted instances and released CVE-2026-6875 security updates for self-hosted instances one week ago, on July 13th . Over the weekend, Defused security researchers confirmed that attackers have begun exploiting the vulnerability in the wild, with the first attempts being observed on Friday, days after ServiceNow issued patches. \"We are observing in-the-wild exploitation of the ServiceNow pre-auth sandbox-escape RCE (CVE-2026-6875),\" Defused warned in a Saturday tweet. \"The payloads hit the same pre-auth sink @SLCyberSec documented (/assessment_thanks.do), but the sandbox-escape gadget reaches the same code-execution primitive by a different route than their published PoC.\" ServiceNow has yet to flag this security as actively abused and, in the official advisory, still states that it is \"not currently aware of exploitation against ServiceNow instances.\" However, the company advises all customers who have not already done so to secure their systems against attacks by upgrading to a patched release as soon as possible. A ServiceNow spokesperson was not immediately available for comment when BleepingComputer reached out to confirm Defused's report that CVE-2026-6875 is now actively exploited. Last month, ServiceNow also privately disclosed a security incident in which attackers queried data from customer instances by exploiting an unauthenticated access flaw via a vulnerable API endpoint. In a subsequent advisory, it tied the incident to security researchers or customer-led research linked to bug bounty submissions rather than to malicious threat actors. ServiceNow says that its AI Platform runs more than 100 billion workflows each year and powers over 100,000 enterprise AI apps at 85% of all Fortune 500 companies. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. CISA sets urgent deadline to fix Cisco flaw exploited in attacks Critical Fortinet FortiSandbox flaws now exploited in attacks Ernst & Young discloses data breach after support system hack New Windows LegacyHive zero-day gives hackers admin privileges Update now: 7-Zip fixes RCE flaw exploitable with malicious archives Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. Formerly known as the Now Platform, ServiceNow AI Platform is an enterprise-grade Platform-as-a-Service (PaaS) that helps businesses integrate AI into core enterprise workflows. Cybersecurity company Searchlight Cyber, which found this critical vulnerability and reported it on April 1st, says that it allows unauthenticated threat actors to escape the sandbox and execute code remotely within the ServiceNow platform in high-complexity attacks. ServiceNow addressed the flaw across hosted instances starting in April and released CVE-2026-6875 security updates for self-hosted instances one week ago, on July 13th . Over the weekend, Defused security researchers confirmed that attackers have begun exploiting the vulnerability in the wild, with the first attempts being observed on Friday. \"We are observing in-the-wild exploitation of the ServiceNow pre-auth sandbox-escape RCE (CVE-2026-6875),\" Defused warned in a Saturday tweet. \"The payloads hit the same pre-auth sink @SLCyberSec documented (/assessment_thanks.do), but the sandbox-escape gadget reaches the same code-execution primitive by a different route than their published PoC.\" ServiceNow has yet to flag this security as actively abused and, in the official advisory, still states that it is \"not currently aware of exploitation against ServiceNow instances.\" However, the company advises all customers who have not already done so to secure their systems against attacks by upgrading to a patched release as soon as possible. \"ServiceNow is aware of a cybersecurity company’s recent publication regarding exploitation activity associated with a previously disclosed security vulnerability, identified as CVE-2026-6875. Based on our investigation to date, we have not observed evidence that this activity is related to instances that ServiceNow hosts,\" a ServiceNow spokesperson told BleepingComputer. \"We have provided updates and patches designed to address this issue, and we encourage our self-hosted and ServiceNow-hosted customers to apply the relevant patches if they have not already done so. In addition, we will continue to work directly with customers who need assistance in applying the patches.\" Last month, ServiceNow also privately disclosed a security incident in which attackers queried data from customer instances by exploiting an unauthenticated access flaw via a vulnerable API endpoint. In a subsequent advisory, it tied the incident to security researchers or customer-led research linked to bug bounty submissions rather than to malicious threat actors. ServiceNow says that its AI Platform runs more than 100 billion workflows each year and powers over 100,000 enterprise AI apps at 85% of all Fortune 500 companies. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. CISA sets urgent deadline to fix Cisco flaw exploited in attacks Critical Fortinet FortiSandbox flaws now exploited in attacks Ernst & Young discloses data breach after support system hack New Windows LegacyHive zero-day gives hackers admin privileges Update now: 7-Zip fixes RCE flaw exploitable with malicious archives AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused.",
       "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
@@ -6990,6 +7222,10 @@
       {
         "source": "Palo Alto Unit 42",
         "url": "https://unit42.paloaltonetworks.com/ai-incident-response-report/"
+      },
+      {
+        "source": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/ai-insights-incident-response-report/"
       }
     ]
   },
@@ -26335,238 +26571,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/"
-      }
-    ]
-  },
-  {
-    "id": "b3e9997114ff1385",
-    "date": "2026-07-08T09:43:28+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "70% of WordPress Sites Running Outdated PHP Versions Exposed to Cyberattacks",
-    "summary": "A recent study has revealed that more than 70% of publicly accessible WordPress websites are running outdated versions of PHP, significantly increasing their exposure to cyberattacks. The findings highlight a growing security gap in the global web ecosystem, where millions of sites rely on aging backend technologies despite the availability of regular security updates. WordPress, […] The post 70% of WordPress Sites Running Outdated PHP Versions Exposed to Cyberattacks appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A recent study has revealed that more than 70% of publicly accessible WordPress websites are running outdated versions of PHP, significantly increasing their exposure to cyberattacks.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/wordpress-sites-running-outdated-php-versions-exposed/",
-    "target": "WordPress Sites Running Outdated",
-    "type": "Data Leak / Breach",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/wordpress-sites-running-outdated-php-versions-exposed/"
-      }
-    ]
-  },
-  {
-    "id": "5e317dbaa649efca",
-    "date": "2026-07-08T09:36:45.363676+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Musashino University Confirms Ransomware Attack, Qilin Claims Theft",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://www.technadu.com/musashino-university-confirms-ransomware-attack-qilin-claims-theft/630181/",
-    "target": "Musashino University Confirms Ransomware",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/musashino-university-confirms-ransomware-attack-qilin-claims-theft/630181/"
-      }
-    ]
-  },
-  {
-    "id": "721cbed5732e6da5",
-    "date": "2026-07-08T09:36:45.363518+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "VPN Super Launches Beta Apps for Apple TV and Android TV, Bringing VPN Protection to Smart TVs",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/vpn-super-apple-tv-app-beta-expands-to-smart-tvs/630192/",
-    "target": "VPN Super Launches Beta",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/vpn-super-apple-tv-app-beta-expands-to-smart-tvs/630192/"
-      }
-    ]
-  },
-  {
-    "id": "0270cb5d7597a651",
-    "date": "2026-07-08T09:36:45.363335+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Claude Desktop Hijacked for Remote Code Execution, DeepSeek Generates In-Browser Ransomware",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://www.technadu.com/claude-desktop-hijacked-for-remote-code-execution-deepseek-generates-in-browser-ransomware/630204/",
-    "target": "Claude Desktop Hijacked Remote",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/claude-desktop-hijacked-for-remote-code-execution-deepseek-generates-in-browser-ransomware/630204/"
-      }
-    ]
-  },
-  {
-    "id": "5c3643e6a4eb3fae",
-    "date": "2026-07-08T09:04:33+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-    "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is an advanced persistent threat (APT) actor that's responsible for maintaining and proliferating LapDogs, an ORB network that first came to light in June 2025.",
-    "article_text": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is an advanced persistent threat (APT) actor that's responsible for maintaining and proliferating LapDogs , an ORB network that first came to light in June 2025. \"UAT-7810 is most likely tasked with establishing Operational Relay Box (ORB) networks that can then be leveraged by associated secondary threat actors to conduct their own malicious attacks against high value targets,\" researchers Jungsoo An, Asheer Malhotra, Vanja Svajcer, and Brandon White said . One such China-nexus threat actor that has leveraged the infrastructure in its own attacks is UAT-5918 , which has been linked to cyber attacks targeting critical infrastructure entities in Taiwan since at least 2023 with an aim to establish persistent access within victim environments. The latest findings indicate that UAT-7810 has continued to develop their custom malware dubbed ShortLeash with a newer version that's codenamed LONGLEASH. Also put to use by the threat actor are two other previously unreported tools - \"UAT-7810 used at least four new servers to host a variety of minor variations of DOGLEASH to deploy against compromised targets,\" the researchers added. \"An additional Java-based (JAR package) backdoor that we track as 'JARLEASH' was also deployed by UAT-7810 on at least one of the three servers for administration purposes, including file management, FTP, SFTP, and Netcat.\" Attack chains mounted by the hacking crew are known to weaponize known vulnerabilities in unpatched Ruckus wireless routers, such as CVE-2020-22653 , CVE-2020-22658 , and CVE-2023-25717 . Campaigns observed earlier this year have also singled out ASUS AiCloud Routers susceptible to CVE-2025-2492 , indicating potential attempts to broaden the ORB network. ShortLeash incorporates a backdoor capable of contacting an external server, hosting a web server, and acting as both a command-and-control (C2) server and client. Its successor, LONGLEASH, packs in additional functionality, pointing to an active development cycle. Some of the newer features are listed below - \"The development and use of LEASHTEST signifies that even though they have developed LONGLEASH, a full-fledged backdoor framework, UAT-7810 is still actively testing functionality on MIPS platforms and may not be completely confident of its behavior on MIPS devices,\" Talos said. Learn how to secure AI agents with practical controls for access, visibility, secrets, and risk containment. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-    "target": "China-Linked UAT-7810 Expands ORB",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html"
-      }
-    ]
-  },
-  {
-    "id": "927511c898772be2",
-    "date": "2026-07-08T08:56:07+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Exploit Roundcube N-Day Flaws to Steal Credentials and Deploy VShell",
-    "summary": "A newly identified hacking campaign is targeting university mail servers by exploiting known but unpatched flaws in Roundcube webmail software. The attackers are using these gaps to quietly steal login credentials and plant a powerful backdoor called VShell deep inside compromised systems. The campaign, tracked under the name UNK_MassTraction, has been active since May 2026 […] The post Hackers Exploit Roundcube N-Day Flaws to Steal Credentials and Deploy VShell appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A newly identified hacking campaign is targeting university mail servers by exploiting known but unpatched flaws in Roundcube webmail software.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/hackers-exploit-roundcube-n-day-flaws/",
-    "target": "Exploit Roundcube N-Day Steal",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/hackers-exploit-roundcube-n-day-flaws/"
-      }
-    ]
-  },
-  {
-    "id": "ecce7bd427980eb8",
-    "date": "2026-07-08T08:15:20+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Ubiquiti warns of new max severity UniFi OS vulnerability",
-    "summary": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
-    "article_text": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw tracked as CVE-2026-50746 that can be exploited in command injection attacks. The CVE-2026-50746 vulnerability affects UniFi Connect Application (versions 3.4.16 and earlier), a management software suite that Ubiquiti customers can use to automate and manage commercial building operations (including smart LED lighting systems and electric vehicle chargers) via a single interface. \"A malicious actor with access to the network could exploit an Improper Access Control vulnerability found in UniFi Connect Application to execute a Command Injection on the host device,\" Ubiquiti explained. The company advised users to update the impacted UniFi Connect app to version 3.4.20 or later to secure their systems against potential attacks. On Thursday, Ubiquiti patched six more critical-severity security issues (CVE-2026-50747, CVE-2026-50748, CVE-2026-54400, CVE-2026-54402, CVE-2026-55115, CVE-2026-55116) in the UniFi Talk, UniFi Access, and UniFi Protect applications, in the company's UniFi OS Server, and across a wide range of Ubiquiti routers, gateways, NAS, and surveillance systems. Ubiquiti has yet to disclose whether any of these vulnerabilities were exploited in the wild before being addressed, but shared that six of them can be exploited in low-complexity attacks that don't require user interaction. Threat intelligence company Censys now tracks over 100,000 UniFi OS instances exposed online, most of them (nearly 50,000 IP addresses) found in the United States. However, there are no details on how many have already been secured against these security flaws or are honeypots. ​Additionally, Censys data also includes historical scan results and may not accurately reflect the number of systems currently exposed on the Internet. State-sponsored threat groups and cybercrime hacking groups have often targeted Ubiquiti products in recent years, hijacking them to build botnets designed to conceal malicious activity. For instance, in February 2024, the FBI dismantled Moobot , a botnet of Ubiquiti Edge OS routers used by Russia's Main Intelligence Directorate of the General Staff (GRU) to proxy malicious traffic in cyberespionage attacks. Four years earlier, in April 2022, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) also added a critical command injection flaw (CVE-2010-5330) in Ubiquiti AirOS to its catalog of actively exploited flaws and ordered government agencies to patch their devices within three weeks. More recently, in June, CISA warned that hackers were actively exploiting three max-severity UniFi OS flaws that had been patched one month earlier and mandated that agencies secure their systems within three days. Bishop Fox later demonstrated that the vulnerabilities could be chained to achieve remote code execution with elevated privileges and released a free detection script to help defenders discover vulnerable instances in their environments. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. CISA warns of max severity Ubiquiti flaws exploited in attacks Ubiquiti patches three max severity UniFi OS vulnerabilities Critical UniFi OS bug lets hackers gain root without authentication Hackers exploit Roundcube flaw to spy on academic researchers CISA orders feds to prioritize patching Langflow auth bypass flaw Accenture confirms breach after hacker offers stolen data for sale Flipper Zero firmware development continues with community help Vietnam arrests suspects behind HiAnime anime piracy service Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Software is moving at the speed of thought. Is your security keeping up? Overdue a password health-check? Audit your Active Directory for free Your Scanners Are Green. Your Pipeline Might Not Be. Here's How to Close the Gap. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-    "target": "Ubiquiti UniFi",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "1822c8a9e6b6ffb5",
-    "date": "2026-07-08T08:01:00+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "State IDs for AI Agents: Will Estonia Set a Precedent?",
-    "summary": "The world's digital testing ground plans to help people use AI agents for government purposes.",
-    "article_text": "",
-    "quick_summary": [
-      "The world's digital testing ground plans to help people use AI agents for government purposes.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia",
-    "target": "State IDs Agents",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia"
       }
     ]
   }
