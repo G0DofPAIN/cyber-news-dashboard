@@ -1,36 +1,7 @@
 [
   {
-    "id": "cd4669d61f889cf4",
-    "date": "2026-07-20T15:22:26.588574+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE CVE-2026-40400: RCE in PowerShell via Help File, Patch Available",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-40400-rce-in-powershell-via-help-file-patch-available",
-    "target": "CVE CVE-2026-40400",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-40400-rce-in-powershell-via-help-file-patch-available"
-      }
-    ]
-  },
-  {
     "id": "e51ed7b02ff8ea97",
-    "date": "2026-07-20T15:22:26.588462+00:00",
+    "date": "2026-07-20T18:19:03.842611+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "610e3432fb7c1586",
-    "date": "2026-07-20T15:22:26.588349+00:00",
+    "date": "2026-07-20T18:19:03.842499+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "3618a67d1f50cdf1",
-    "date": "2026-07-20T15:22:26.588206+00:00",
+    "date": "2026-07-20T18:19:03.842377+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "fa816d3db053069e",
-    "date": "2026-07-20T15:22:26.588081+00:00",
+    "date": "2026-07-20T18:19:03.842249+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "8001fab6a4572ddf",
-    "date": "2026-07-20T15:22:26.587958+00:00",
+    "date": "2026-07-20T18:19:03.842125+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,37 +145,37 @@
     ]
   },
   {
-    "id": "f15df8f99fc09529",
-    "date": "2026-07-20T15:22:26.587840+00:00",
+    "id": "0b30257b930d716a",
+    "date": "2026-07-20T18:19:03.842013+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "SharePoint Critical RCE via Cryptographic Signature Flaw: The Token Danger VULN CRITICAL",
+    "title": "EXPLOIT DarkSword: JavaScript iOS Exploit Kit Strikes via Compromised Legitimate Sites",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
+      "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/sharepoint-critical-rce-via-cryptographic-signature-flaw-the-token-danger",
-    "target": "SharePoint Critical RCE Cryptographic",
-    "type": "Vulnerability",
-    "severity": "Critical",
+    "link": "https://deafnews.it/en/news/cybersecurity/darksword-javascript-ios-exploit-kit-strikes-via-compromised-legitimate-sites",
+    "target": "EXPLOIT DarkSword",
+    "type": "Data Leak / Breach",
+    "severity": "High",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/sharepoint-critical-rce-via-cryptographic-signature-flaw-the-token-danger"
+        "url": "https://deafnews.it/en/news/cybersecurity/darksword-javascript-ios-exploit-kit-strikes-via-compromised-legitimate-sites"
       }
     ]
   },
   {
     "id": "ff09ea06454e94c8",
-    "date": "2026-07-20T15:22:26.587712+00:00",
+    "date": "2026-07-20T18:19:03.841884+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "04a429a76901158e",
-    "date": "2026-07-20T15:22:26.587598+00:00",
+    "date": "2026-07-20T18:19:03.841762+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +233,7 @@
   },
   {
     "id": "af027913936f9c78",
-    "date": "2026-07-20T15:22:26.587483+00:00",
+    "date": "2026-07-20T18:19:03.841607+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +262,7 @@
   },
   {
     "id": "51910031d39b7577",
-    "date": "2026-07-20T15:22:26.587367+00:00",
+    "date": "2026-07-20T18:19:03.841490+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -319,8 +290,37 @@
     ]
   },
   {
+    "id": "3c41407fcfecaf29",
+    "date": "2026-07-20T18:19:03.841379+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE-2026-40400: RCE in PowerShell via Help File, Patch Available CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-40400-rce-in-powershell-via-help-file-patch-available",
+    "target": "CVE-2026-40400",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-40400-rce-in-powershell-via-help-file-patch-available"
+      }
+    ]
+  },
+  {
     "id": "c09fd71cca3b7e28",
-    "date": "2026-07-20T15:22:26.587108+00:00",
+    "date": "2026-07-20T18:19:03.841259+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -349,7 +349,7 @@
   },
   {
     "id": "edb4bcca667e7e4a",
-    "date": "2026-07-20T15:22:26.586241+00:00",
+    "date": "2026-07-20T18:19:03.840265+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -381,13 +381,13 @@
     ]
   },
   {
-    "id": "80681682fafbd968",
-    "date": "2026-07-20T15:22:26.585822+00:00",
+    "id": "4ae8959902bb9afb",
+    "date": "2026-07-20T18:19:03.839863+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Vietnam's Ransomware Dip Masks an Underestimated Threat",
+    "title": "news Vietnam's Ransomware Dip Masks an Underestimated Threat Jul 20, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -411,12 +411,12 @@
   },
   {
     "id": "2f8d3975edbdd1db",
-    "date": "2026-07-20T15:22:26.585656+00:00",
+    "date": "2026-07-20T18:19:03.839522+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 CRITICAL · 3 ZERO-DAY · 9 CVE · 5 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
+    "title": "// 2 CRITICAL · 4 ZERO-DAY · 9 CVE · 6 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -440,7 +440,7 @@
   },
   {
     "id": "98742b3dc4fc77d6",
-    "date": "2026-07-20T15:22:25.314969+00:00",
+    "date": "2026-07-20T18:19:03.027102+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -505,7 +505,7 @@
   },
   {
     "id": "13a768d02e6f339e",
-    "date": "2026-07-20T15:22:24.059166+00:00",
+    "date": "2026-07-20T18:19:02.262878+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -534,7 +534,7 @@
   },
   {
     "id": "d0dde6e7a52097ee",
-    "date": "2026-07-20T15:22:24.059022+00:00",
+    "date": "2026-07-20T18:19:02.262731+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -563,7 +563,7 @@
   },
   {
     "id": "b38159c181af4f16",
-    "date": "2026-07-20T15:22:24.058836+00:00",
+    "date": "2026-07-20T18:19:02.262522+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -592,7 +592,7 @@
   },
   {
     "id": "bfb93a713df0aeca",
-    "date": "2026-07-20T15:22:24.058641+00:00",
+    "date": "2026-07-20T18:19:02.262324+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -621,7 +621,7 @@
   },
   {
     "id": "b6ad6c0f74784394",
-    "date": "2026-07-20T15:22:24.058477+00:00",
+    "date": "2026-07-20T18:19:02.262158+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -650,7 +650,7 @@
   },
   {
     "id": "ea596a997d3e9182",
-    "date": "2026-07-20T15:22:24.058326+00:00",
+    "date": "2026-07-20T18:19:02.262008+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -679,7 +679,7 @@
   },
   {
     "id": "9c9129664e63e824",
-    "date": "2026-07-20T15:22:24.058161+00:00",
+    "date": "2026-07-20T18:19:02.261861+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -708,7 +708,7 @@
   },
   {
     "id": "9af956bf2f8b0a83",
-    "date": "2026-07-20T15:22:24.058027+00:00",
+    "date": "2026-07-20T18:19:02.261718+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -737,7 +737,7 @@
   },
   {
     "id": "0ddf20649bcdbd2b",
-    "date": "2026-07-20T15:22:24.057893+00:00",
+    "date": "2026-07-20T18:19:02.261556+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -766,7 +766,7 @@
   },
   {
     "id": "0a58ca18da9f5a25",
-    "date": "2026-07-20T15:22:24.057752+00:00",
+    "date": "2026-07-20T18:19:02.261410+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -795,7 +795,7 @@
   },
   {
     "id": "ce010fcde98939ec",
-    "date": "2026-07-20T15:22:24.057605+00:00",
+    "date": "2026-07-20T18:19:02.261251+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -824,7 +824,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-07-20T15:22:24.057383+00:00",
+    "date": "2026-07-20T18:19:02.261025+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -853,7 +853,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-07-20T15:22:24.057174+00:00",
+    "date": "2026-07-20T18:19:02.260836+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -882,7 +882,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-07-20T15:22:24.057022+00:00",
+    "date": "2026-07-20T18:19:02.260661+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -911,7 +911,7 @@
   },
   {
     "id": "a80ccfde5e04c5d0",
-    "date": "2026-07-20T15:22:24.056829+00:00",
+    "date": "2026-07-20T18:19:02.260464+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -940,7 +940,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-20T15:22:24.056685+00:00",
+    "date": "2026-07-20T18:19:02.260316+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -969,7 +969,7 @@
   },
   {
     "id": "550396760e8a1cad",
-    "date": "2026-07-20T15:22:24.056500+00:00",
+    "date": "2026-07-20T18:19:02.260124+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -998,7 +998,7 @@
   },
   {
     "id": "02220f09df8df84c",
-    "date": "2026-07-20T15:22:24.056354+00:00",
+    "date": "2026-07-20T18:19:02.259975+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1027,7 +1027,7 @@
   },
   {
     "id": "44371af7d85105b5",
-    "date": "2026-07-20T15:22:24.055992+00:00",
+    "date": "2026-07-20T18:19:02.259607+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1056,7 +1056,7 @@
   },
   {
     "id": "2876b15cd337ae80",
-    "date": "2026-07-20T15:22:24.055851+00:00",
+    "date": "2026-07-20T18:19:02.259467+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1090,7 +1090,7 @@
   },
   {
     "id": "abd131ad860e3611",
-    "date": "2026-07-20T15:22:24.055715+00:00",
+    "date": "2026-07-20T18:19:02.259328+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1119,7 +1119,7 @@
   },
   {
     "id": "05cceba9b212ac7e",
-    "date": "2026-07-20T15:22:24.055575+00:00",
+    "date": "2026-07-20T18:19:02.259184+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1157,7 +1157,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-20T15:22:24.052059+00:00",
+    "date": "2026-07-20T18:19:02.255608+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1186,7 +1186,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-20T15:22:24.051109+00:00",
+    "date": "2026-07-20T18:19:02.254654+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1215,7 +1215,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-20T15:22:24.050841+00:00",
+    "date": "2026-07-20T18:19:02.254385+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1239,6 +1239,917 @@
       {
         "source": "TechNadu",
         "url": "https://www.technadu.com/tag/business-email-compromise/"
+      }
+    ]
+  },
+  {
+    "id": "8fea43494c3e39fa",
+    "date": "2026-07-20T18:19:02.140794+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CET-Compliant Callstack Spoofing via Thread Pool & Enum Callback Trampolining (Rust PoC)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CET-Compliant Callstack Spoofing via Thread Pool & Enum Callback Trampolining (Rust PoC)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uvnbim/cetcompliant_callstack_spoofing_via_thread_pool/",
+    "target": "CET-Compliant Callstack Spoofing Thread",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uvnbim/cetcompliant_callstack_spoofing_via_thread_pool/"
+      }
+    ]
+  },
+  {
+    "id": "ef620a5063be82f2",
+    "date": "2026-07-20T18:19:02.140630+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Dell BIOS Passwords: Weak XOR Encryption Allows Recovery from SPI Flash (CVE-2026-40639)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Dell BIOS Passwords: Weak XOR Encryption Allows Recovery from SPI Flash (CVE-2026-40639)",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uv6qbn/dell_bios_passwords_weak_xor_encryption_allows/",
+    "target": "Dell BIOS Passwords",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uv6qbn/dell_bios_passwords_weak_xor_encryption_allows/"
+      }
+    ]
+  },
+  {
+    "id": "ce6759e40718ce06",
+    "date": "2026-07-20T18:19:02.140501+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Context Bombs: Using AI Guardrails as a defensive mechanism",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Context Bombs: Using AI Guardrails as a defensive mechanism",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uvqpri/context_bombs_using_ai_guardrails_as_a_defensive/",
+    "target": "Context Bombs",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uvqpri/context_bombs_using_ai_guardrails_as_a_defensive/"
+      }
+    ]
+  },
+  {
+    "id": "819d4a0e5b818642",
+    "date": "2026-07-20T18:19:02.140363+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Smashing the ServiceNow Sandbox – Pre Authentication RCE",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Smashing the ServiceNow Sandbox – Pre Authentication RCE",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uw5msa/smashing_the_servicenow_sandbox_pre/",
+    "target": "Smashing ServiceNow Sandbox",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uw5msa/smashing_the_servicenow_sandbox_pre/"
+      }
+    ]
+  },
+  {
+    "id": "eba0ed2ff6d3e302",
+    "date": "2026-07-20T18:19:02.140223+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "HN Security - My Semgrep C/C++ ruleset is ready for prime time again",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "HN Security - My Semgrep C/C++ ruleset is ready for prime time again",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ux0sqt/hn_security_my_semgrep_cc_ruleset_is_ready_for/",
+    "target": "Semgrep",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ux0sqt/hn_security_my_semgrep_cc_ruleset_is_ready_for/"
+      }
+    ]
+  },
+  {
+    "id": "d41e9a3128a800cd",
+    "date": "2026-07-20T18:19:02.140088+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "(More) Unauthenticated Arbitrary Code Execution in ServiceNow",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "(More) Unauthenticated Arbitrary Code Execution in ServiceNow",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uwzsix/more_unauthenticated_arbitrary_code_execution_in/",
+    "target": "More Unauthenticated Arbitrary Code",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uwzsix/more_unauthenticated_arbitrary_code_execution_in/"
+      }
+    ]
+  },
+  {
+    "id": "dfd2198acdfd6c92",
+    "date": "2026-07-20T18:19:02.139951+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "The Memory Heist - How I tricked Claude into leaking your deepest, darkest secrets",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "The Memory Heist - How I tricked Claude into leaking your deepest, darkest secrets",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ux00pn/the_memory_heist_how_i_tricked_claude_into/",
+    "target": "Memory Heist Claude",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ux00pn/the_memory_heist_how_i_tricked_claude_into/"
+      }
+    ]
+  },
+  {
+    "id": "0bfb5eda01ae4384",
+    "date": "2026-07-20T18:19:02.139818+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ASUS bsitf.sys (CVE-2026-13585): Arbitrary Physical Memory Mapping via Unvalidated IOCTL",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ASUS bsitf.sys (CVE-2026-13585): Arbitrary Physical Memory Mapping via Unvalidated IOCTL",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uxuqyg/asus_bsitfsys_cve202613585_arbitrary_physical/",
+    "target": "ASUS CVE-2026-13585",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uxuqyg/asus_bsitfsys_cve202613585_arbitrary_physical/"
+      }
+    ]
+  },
+  {
+    "id": "f3dd5aa711a35a0a",
+    "date": "2026-07-20T18:19:02.139655+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "[$13337] Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "[$13337] Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uy44c4/13337_confused_deputy_google_idp_universal/",
+    "target": "13337 Confused Deputy",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uy44c4/13337_confused_deputy_google_idp_universal/"
+      }
+    ]
+  },
+  {
+    "id": "65465371ee428bec",
+    "date": "2026-07-20T18:19:02.139504+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "White House launches AI-driven \"Gold Eagle\" clearinghouse to centralize public-private vulnerability coordination",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "White House launches AI-driven \"Gold Eagle\" clearinghouse to centralize public-private vulnerability coordination",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uzllm1/white_house_launches_aidriven_gold_eagle/",
+    "target": "White House AI-driven Gold",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uzllm1/white_house_launches_aidriven_gold_eagle/"
+      }
+    ]
+  },
+  {
+    "id": "28cd7f27f4da4921",
+    "date": "2026-07-20T18:19:02.139375+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uy4iyq/no_shark_is_safe_millions_of_shark_vacuums_are/",
+    "target": "Shark Safe",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uy4iyq/no_shark_is_safe_millions_of_shark_vacuums_are/"
+      }
+    ]
+  },
+  {
+    "id": "c5d90de6138494e2",
+    "date": "2026-07-20T18:19:02.139245+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Windows AppResolver LPE: From AppContainer to SYSTEM. PoC linked to CVE-2026-50454",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Windows AppResolver LPE: From AppContainer to SYSTEM. PoC linked to CVE-2026-50454",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uyzhy8/windows_appresolver_lpe_from_appcontainer_to/",
+    "target": "Windows AppResolver LPE",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uyzhy8/windows_appresolver_lpe_from_appcontainer_to/"
+      }
+    ]
+  },
+  {
+    "id": "a4520d23b3d992a3",
+    "date": "2026-07-20T18:19:02.139114+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Openwrt pre-auth remote root exploit",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Openwrt pre-auth remote root exploit",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uz8qh3/openwrt_preauth_remote_root_exploit/",
+    "target": "Openwrt",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uz8qh3/openwrt_preauth_remote_root_exploit/"
+      }
+    ]
+  },
+  {
+    "id": "d80e25a1ee4f5eac",
+    "date": "2026-07-20T18:19:02.138979+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Keeping private namespaces private - Quad9 blog",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Keeping private namespaces private - Quad9 blog",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uzhprd/keeping_private_namespaces_private_quad9_blog/",
+    "target": "Keeping Quad9",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uzhprd/keeping_private_namespaces_private_quad9_blog/"
+      }
+    ]
+  },
+  {
+    "id": "8fa57d9fcc2cae76",
+    "date": "2026-07-20T18:19:02.138716+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Pixels to Payload: Dissecting a Four-Stage Bitmap-Steganography Dropper Delivering AsyncRAT :: Rhys Downing",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Pixels to Payload: Dissecting a Four-Stage Bitmap-Steganography Dropper Delivering AsyncRAT :: Rhys Downing",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v01uhq/pixels_to_payload_dissecting_a_fourstage/",
+    "target": "Pixels Payload",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v01uhq/pixels_to_payload_dissecting_a_fourstage/"
+      }
+    ]
+  },
+  {
+    "id": "731a4807a8099aaa",
+    "date": "2026-07-20T18:19:02.138563+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "wp2shell (CVE-2026-63030): Pre-Auth RCE Chain in WordPress Core - Analysis and Open-Source Scanner",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "wp2shell (CVE-2026-63030): Pre-Auth RCE Chain in WordPress Core - Analysis and Open-Source Scanner",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v07npi/wp2shell_cve202663030_preauth_rce_chain_in/",
+    "target": "wp2shell CVE-2026-63030",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v07npi/wp2shell_cve202663030_preauth_rce_chain_in/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v0kvve/wp2shell_cve202663030_update_public_working/"
+      }
+    ]
+  },
+  {
+    "id": "451b1bb5012b7430",
+    "date": "2026-07-20T18:19:02.138416+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Multiple Chinese civic apps share one reward/lottery backend whose signing secret is recoverable",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Multiple Chinese civic apps share one reward/lottery backend whose signing secret is recoverable",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v09pze/multiple_chinese_civic_apps_share_one/",
+    "target": "Multiple Chinese",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v09pze/multiple_chinese_civic_apps_share_one/"
+      }
+    ]
+  },
+  {
+    "id": "6f2bdf8ffbf98fc6",
+    "date": "2026-07-20T18:19:02.138283+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Interstitial Risk: When Two Correct Systems Make One Vulnerable One",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Interstitial Risk: When Two Correct Systems Make One Vulnerable One",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v1p5k7/interstitial_risk_when_two_correct_systems_make/",
+    "target": "Interstitial Risk",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v1p5k7/interstitial_risk_when_two_correct_systems_make/"
+      }
+    ]
+  },
+  {
+    "id": "b64c9cb77e430403",
+    "date": "2026-07-20T18:19:02.138146+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Crawling the Complete IPv4 Reverse DNS Space",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Crawling the Complete IPv4 Reverse DNS Space",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v1o8ci/crawling_the_complete_ipv4_reverse_dns_space/",
+    "target": "Crawling Complete IPv4 Reverse",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v1o8ci/crawling_the_complete_ipv4_reverse_dns_space/"
+      }
+    ]
+  },
+  {
+    "id": "b6d466d344d51153",
+    "date": "2026-07-20T18:19:02.138007+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Post-Compilation Obfuscation Is Outdated: Moving Polymorphism Directly into CMake",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Post-Compilation Obfuscation Is Outdated: Moving Polymorphism Directly into CMake",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v1ql9a/postcompilation_obfuscation_is_outdated_moving/",
+    "target": "Post-Compilation Obfuscation Outdated",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v1ql9a/postcompilation_obfuscation_is_outdated_moving/"
+      }
+    ]
+  },
+  {
+    "id": "f6ed439b216cb228",
+    "date": "2026-07-20T18:19:02.137847+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/",
+    "target": "Escalating All Privileges Foxit",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/"
+      }
+    ]
+  },
+  {
+    "id": "3e3cbd0b558843bb",
+    "date": "2026-07-20T18:19:02.137648+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Exploit brokers pay $500,000 for a WordPress RCE. I found one with GPT5.6 Sol Ultra and $25",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Exploit brokers pay $500,000 for a WordPress RCE. I found one with GPT5.6 Sol Ultra and $25",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v1fbe1/exploit_brokers_pay_500000_for_a_wordpress_rce_i/",
+    "target": "Exploit 500000 WordPress RCE.",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v1fbe1/exploit_brokers_pay_500000_for_a_wordpress_rce_i/"
+      }
+    ]
+  },
+  {
+    "id": "d29a549c775ffe8f",
+    "date": "2026-07-20T18:19:02.137495+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "r/netsec monthly discussion & tool thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "r/netsec monthly discussion & tool thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/",
+    "target": "Unknown",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
+      }
+    ]
+  },
+  {
+    "id": "46631edb097f535e",
+    "date": "2026-07-20T18:19:02.137285+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "/r/netsec's Q3 2026 Information Security Hiring Thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
+    "target": "2026 Information Hiring Thread",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "68ba00d7ae3bcdc5",
+    "date": "2026-07-20T17:43:01+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
+    "summary": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [...]",
+    "article_text": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. Researchers analysing the module believe it is part of the Cavern command-and-control framework that has been previously linked to an Iranian threat actor targeting entities in Israel. At least 12 systems have been infected with HollowGraph, three of them actively communicating with the threat actor between June 3 and July 9. The collected indicators suggest that the threat actor is focused on organizations in Israel, pointing to a targeted attack for espionage purposes. In a report from cybersecurity company Group-IB, researchers say that HollowGraph uses hardcoded details to authenticate to the Microsoft Graph API via a compromised Microsoft 365 account. The configuration file is stored as logAzure.txt to appear as a regular log file, and \"includes the Microsoft Entra ID tenant ID, application (client) ID, client secret, target mailbox address, command-and-control (C2) domain, and two RSA keys.\" The two cryptographic keys are used to encrypt files before delivery to the attacker and to decrypt incoming tasks. To remain under the radar, the threat actor creates calendar events dated May 13, 2050, with the title in specific formats. Commands and exfiltrated data are concealed within files attached to these calendar entries. According to Group-IB's analysis, HollowGraph supports only two commands that let it create calendar entries with stolen files in encrypted form and search for new ones with instructions from the threat actor: The researchers describe the mailbox calendar as a “covert dead-drop,” with HollowGraph retrieving commands from events scheduled within a fixed one-hour window between 22:00 and 23:00 UTC on May 13, 2050. Group-IB explains that the threat actor uses a hybrid encryption scheme that mixes RSA and AES-256-GCM algorithms to secure the communication over Microsoft Graph, keeping inbound and outbound channels cryptographically separated. HollowGraph has a second, unencrypted communication channel through DNS tunnelling, which is used to receive new Microsoft Entra ID details (Entra ID: tenantId, clientId, clientSecret, and mailbox) to authenticate to Microsoft Graph. It retrieves the values through IPv6 AAAA record queries to the attacker-controlled domain cloudlanecdn[.]com, and updates the configuration files stored as logAzure.txt. “Each returned IPv6 address (16 bytes) yields 14 usable payload bytes,” Group-IB explains. The malware assembles the payload from these 14-byte chunks, decodes it as UTF-8 text, and stores the result according to the corresponding configuration field. \"HOLLOWGRAPH demonstrates a high level of technical sophistication. Its use of trusted cloud infrastructure for command-and-control, hybrid encryption, DNS tunneling for credential refresh, and highly selective victim targeting collectively suggest that the threat actor possesses significant technical capabilities and operational maturity,\" - Group-IB While the researchers cannot attribute HollowGraph to a known threat actor, their \"analysis identified several technical similarities with the Iranian-nexus threat actor Lyceum.\" However, the available evidence is insufficient to attribute the activity to the threat actor with high confidence. By contrast, the researchers assess with high confidence that HollowGraph is linked to the Cavern framework. Group-IB suggests that organizations monitor Microsoft Graph and Microsoft 365 audit logs for suspicious application-driven calendar activity, particularly events in the far future, and unusual subjects and attachments. It is also recommended to look for indicators such as the ‘cloudlanecdn[.]com’ domain and the ‘logAzure.txt’ file, enforce Conditional Access, restrict and audit OAuth client-credential applications, and monitor outbound DNS for tunneling patterns. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Microsoft warns of surge in ACR Stealer attacks on customers New ClickLock macOS malware traps users into revealing login password Russian hackers trojanize WebEx, Zoom apps to push Starland malware AsyncAPI npm packages infected with credential-stealing malware Ernst & Young disclose",
+    "quick_summary": [
+      "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+    "target": "HollowGraph Microsoft Graph",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/"
+      }
+    ]
+  },
+  {
+    "id": "30b9e82f9aa1c8b5",
+    "date": "2026-07-20T17:30:02+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Are Turning Microsoft 365 Calendar Invites Into Secret Malware Command Channels",
+    "summary": "A stealthy new malware strain called HOLLOWGRAPH that hijacks Microsoft 365 calendars to secretly communicate with hackers, disguising malicious commands as ordinary calendar invites. HOLLOWGRAPH is a .NET-compiled malware component that abuses the Microsoft Graph API through a compromised Microsoft 365 account, turning the mailbox’s calendar into a covert two-way “dead drop” for hackers. The […] The post Hackers Are Turning Microsoft 365 Calendar Invites Into Secret Malware Command Channels appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A stealthy new malware strain called HOLLOWGRAPH that hijacks Microsoft 365 calendars to secretly communicate with hackers, disguising malicious commands as ordinary calendar invites.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/microsoft-365-calendar-invites-into-malware/",
+    "target": "Turning Microsoft 365 Calendar",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/microsoft-365-calendar-invites-into-malware/"
+      }
+    ]
+  },
+  {
+    "id": "21645d214c753831",
+    "date": "2026-07-20T17:29:50+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+    "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV. What makes it more than a",
+    "article_text": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV. What makes it more than a payload dump: it caught the operation mid-build. Testing notes, failed experiments, documentation, and live delivery logs sat in one place, the kind of complete development trail defenders rarely see. Rapid7 reads the artifacts, down to a hardcoded path pointing at an open-source AI coding tool, as an operator using generative AI to produce, test, and document phishing delivery at speed. The most developed test set focused on CVE-2025-33053 (CVSS 8.8, now in CISA's KEV catalog ), the WebDAV working-directory hijack Check Point documented last year in its Stealth Falcon reporting. The operator appeared to be reproducing it. The technique abuses a .url shortcut to launch a legitimate signed Windows binary while pointing its working directory at an attacker-controlled WebDAV share. In the original attack, the shortcut launched iediagcmd.exe , an Internet Explorer diagnostics tool that starts helpers like route.exe by bare filename; with the working directory pointed at the remote share, Windows loads the attacker's route.exe from WebDAV instead of the real one in System32 . The operator's own README claims this runs with no SmartScreen or Mark-of-the-Web warning, \"WITHOUT any security warnings. Zero alerts!\" Microsoft patched the flaw in June 2025. The notes mirror Check Point's writeup closely enough that one recovered README preserved the exact summerartcamp[.]net@ssl@443\\DavWWWRoot\\OSYxaOjr example path from the original report. Then the operator scaled the testing. One \"comprehensive test kit\" expanded the single technique into 59 .url files aimed at other signed binaries: .NET tools like InstallUtil and RegAsm , LOLBAS entries, even UAC-bypass candidates, each with a written theory of why the hijack should work and a tiered testing order. The notes treat these as candidates to probe one by one, not confirmed hijacks, and the operator built the set for a concrete reason: the original trick breaks on Windows 11 24H2, where Internet Explorer, and so iediagcmd.exe , is gone. The directory also held smaller test sets for two other file-handling flaws, the MSHTML bypass CVE-2026-21513 and the NTLM-leak CVE-2025-24054 , but the WebDAV hijack was the main event. The tell is in the paperwork. Rapid7 says the READMEs, lure-generation guides, matrix-style test write-ups, and a _MAPPING.csv tying each test file to its target binary carry the templated formatting, verbosity, and emoji-heavy structure it associates with LLM output. It reads the phishing site's emoji-laden JavaScript the same way. The Russian comments and folder names, one called testik (a diminutive of \"test\"), place the operator in a Russian-speaking context but don't identify them. Rapid7 attributes the operation to an LLM-assisted workflow, likely built with help from Coderrr , which it renders \"CodeRRR.\" The Hacker News confirmed the repository is public as of July 20, 2026: a general-purpose, open-source AI coding agent inspired by Claude Code, GitHub Copilot CLI, and Cursor, not attacker-specific tooling. Rapid7's summary is blunt: \"the attacker used LLMs to operate more like a modern software product team.\" The operator even left the delivery panel, an admin tool called Simba Service, sitting on the same server with its default port and credentials unchanged. The MDR alert traced back to gobf[.]mx , a typosquat of the government's CURP national-ID lookup, which served victims a fake record-retrieval page whose download button fired a search-ms: query. That opened the operator's WebDAV share as a Windows Explorer search filtered to .scr files. The most-delivered lure looked like a CURP PDF report but was a .scr executable, its filename flipped with a right-to-left override to read as a PDF. It was an Inno Setup installer that unpacked a loader and ran a .NET infostealer entirely in memory, hollowed into a signed Qihoo 360 process. Over roughly 5.5 days (June 20 to 26, 2026 UTC), the delivery panel logged 77,098 requests from 3,892 unique IPs across 101 countries, with Mexico alone driving 82.5% of traffic and 96.9% of launch activity. A single CURP lure accounted for 2,38",
+    "quick_summary": [
+      "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campa",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+    "target": "Exposed Server Reveals AI-Assisted",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html"
+      }
+    ]
+  },
+  {
+    "id": "ca87d3596a0b9ee4",
+    "date": "2026-07-20T17:15:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "More than 1,000 domains illegally streaming World Cup games seized, DOJ says",
+    "summary": "Over the course of the World Cup tournament, the Department of Justice seized more than 1,000 domains for illegally streaming games.",
+    "article_text": "",
+    "quick_summary": [
+      "Over the course of the World Cup tournament, the Department of Justice seized more than 1,000 domains for illegally streaming games.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/world-cup-illegal-streams-doj",
+    "target": "More 1000 World Cup",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/world-cup-illegal-streams-doj"
+      }
+    ]
+  },
+  {
+    "id": "4b9b6229cfc715eb",
+    "date": "2026-07-20T15:29:16+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Windows Bind Link Abuse Lets Attackers Blind EDR and Bypass AMSI, AppLocker, and Sysmon",
+    "summary": "Windows defenders are facing a new way for attackers to hide activity after gaining administrator access. The technique abuses Windows bind links, a legitimate feature that redirects one file path to another without changing the original file on disk. Rather than dropping a visible replacement file or modifying security software, an attacker can make a […] The post Windows Bind Link Abuse Lets Attackers Blind EDR and Bypass AMSI, AppLocker, and Sysmon appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Windows defenders are facing a new way for attackers to hide activity after gaining administrator access.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/windows-bind-link-abuse-lets/",
+    "target": "Windows Bind Link Abuse",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/windows-bind-link-abuse-lets/"
+      }
+    ]
+  },
+  {
+    "id": "51e9146e826f9aae",
+    "date": "2026-07-20T15:23:10+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Critical wp2shell RCE Vulnerability – Complete Coverage Including PoC and Active Exploitation Details",
+    "summary": "Overview A critical pre-authentication remote code execution (RCE) vulnerability chain nicknamed “wp2shell” has been disclosed in WordPress Core, putting an estimated 500 million-plus websites at risk of full takeover by completely unauthenticated attackers. The chain combines two separately tracked flaws CVE-2026-63030, a REST API batch-route confusion issue, and CVE-2026-60137, a SQL injection vulnerability in the […] The post Critical wp2shell RCE Vulnerability – Complete Coverage Including PoC and Active Exploitation Details appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Overview A critical pre-authentication remote code execution (RCE) vulnerability chain nicknamed “wp2shell” has been disclosed in WordPress Core, putting an estimated 500 million-plus websites at risk of full takeover by",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/critical-wp2shell-rce-vulnerability/",
+    "target": "Critical wp2shell RCE Vulnerability",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/critical-wp2shell-rce-vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "f15df8f99fc09529",
+    "date": "2026-07-20T15:22:26.587840+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "SharePoint Critical RCE via Cryptographic Signature Flaw: The Token Danger VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/sharepoint-critical-rce-via-cryptographic-signature-flaw-the-token-danger",
+    "target": "SharePoint Critical RCE Cryptographic",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/sharepoint-critical-rce-via-cryptographic-signature-flaw-the-token-danger"
       }
     ]
   },
@@ -1297,656 +2208,6 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1uuquzx/vulnerability_in_realtek_driver_allows_dma/"
-      }
-    ]
-  },
-  {
-    "id": "8fea43494c3e39fa",
-    "date": "2026-07-20T15:22:23.837127+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CET-Compliant Callstack Spoofing via Thread Pool & Enum Callback Trampolining (Rust PoC)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CET-Compliant Callstack Spoofing via Thread Pool & Enum Callback Trampolining (Rust PoC)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uvnbim/cetcompliant_callstack_spoofing_via_thread_pool/",
-    "target": "CET-Compliant Callstack Spoofing Thread",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uvnbim/cetcompliant_callstack_spoofing_via_thread_pool/"
-      }
-    ]
-  },
-  {
-    "id": "ef620a5063be82f2",
-    "date": "2026-07-20T15:22:23.836997+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Dell BIOS Passwords: Weak XOR Encryption Allows Recovery from SPI Flash (CVE-2026-40639)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Dell BIOS Passwords: Weak XOR Encryption Allows Recovery from SPI Flash (CVE-2026-40639)",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uv6qbn/dell_bios_passwords_weak_xor_encryption_allows/",
-    "target": "Dell BIOS Passwords",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uv6qbn/dell_bios_passwords_weak_xor_encryption_allows/"
-      }
-    ]
-  },
-  {
-    "id": "ce6759e40718ce06",
-    "date": "2026-07-20T15:22:23.836869+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Context Bombs: Using AI Guardrails as a defensive mechanism",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Context Bombs: Using AI Guardrails as a defensive mechanism",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uvqpri/context_bombs_using_ai_guardrails_as_a_defensive/",
-    "target": "Context Bombs",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uvqpri/context_bombs_using_ai_guardrails_as_a_defensive/"
-      }
-    ]
-  },
-  {
-    "id": "819d4a0e5b818642",
-    "date": "2026-07-20T15:22:23.836732+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Smashing the ServiceNow Sandbox – Pre Authentication RCE",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Smashing the ServiceNow Sandbox – Pre Authentication RCE",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uw5msa/smashing_the_servicenow_sandbox_pre/",
-    "target": "Smashing ServiceNow Sandbox",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uw5msa/smashing_the_servicenow_sandbox_pre/"
-      }
-    ]
-  },
-  {
-    "id": "eba0ed2ff6d3e302",
-    "date": "2026-07-20T15:22:23.836593+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "HN Security - My Semgrep C/C++ ruleset is ready for prime time again",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "HN Security - My Semgrep C/C++ ruleset is ready for prime time again",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ux0sqt/hn_security_my_semgrep_cc_ruleset_is_ready_for/",
-    "target": "Semgrep",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ux0sqt/hn_security_my_semgrep_cc_ruleset_is_ready_for/"
-      }
-    ]
-  },
-  {
-    "id": "d41e9a3128a800cd",
-    "date": "2026-07-20T15:22:23.836459+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "(More) Unauthenticated Arbitrary Code Execution in ServiceNow",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "(More) Unauthenticated Arbitrary Code Execution in ServiceNow",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uwzsix/more_unauthenticated_arbitrary_code_execution_in/",
-    "target": "More Unauthenticated Arbitrary Code",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uwzsix/more_unauthenticated_arbitrary_code_execution_in/"
-      }
-    ]
-  },
-  {
-    "id": "dfd2198acdfd6c92",
-    "date": "2026-07-20T15:22:23.836318+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "The Memory Heist - How I tricked Claude into leaking your deepest, darkest secrets",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "The Memory Heist - How I tricked Claude into leaking your deepest, darkest secrets",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ux00pn/the_memory_heist_how_i_tricked_claude_into/",
-    "target": "Memory Heist Claude",
-    "type": "Data Leak / Breach",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ux00pn/the_memory_heist_how_i_tricked_claude_into/"
-      }
-    ]
-  },
-  {
-    "id": "0bfb5eda01ae4384",
-    "date": "2026-07-20T15:22:23.836156+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ASUS bsitf.sys (CVE-2026-13585): Arbitrary Physical Memory Mapping via Unvalidated IOCTL",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ASUS bsitf.sys (CVE-2026-13585): Arbitrary Physical Memory Mapping via Unvalidated IOCTL",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uxuqyg/asus_bsitfsys_cve202613585_arbitrary_physical/",
-    "target": "ASUS CVE-2026-13585",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uxuqyg/asus_bsitfsys_cve202613585_arbitrary_physical/"
-      }
-    ]
-  },
-  {
-    "id": "f3dd5aa711a35a0a",
-    "date": "2026-07-20T15:22:23.836020+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "[$13337] Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "[$13337] Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uy44c4/13337_confused_deputy_google_idp_universal/",
-    "target": "13337 Confused Deputy",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uy44c4/13337_confused_deputy_google_idp_universal/"
-      }
-    ]
-  },
-  {
-    "id": "65465371ee428bec",
-    "date": "2026-07-20T15:22:23.835876+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "White House launches AI-driven \"Gold Eagle\" clearinghouse to centralize public-private vulnerability coordination",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "White House launches AI-driven \"Gold Eagle\" clearinghouse to centralize public-private vulnerability coordination",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uzllm1/white_house_launches_aidriven_gold_eagle/",
-    "target": "White House AI-driven Gold",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uzllm1/white_house_launches_aidriven_gold_eagle/"
-      }
-    ]
-  },
-  {
-    "id": "28cd7f27f4da4921",
-    "date": "2026-07-20T15:22:23.835747+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "No Shark is Safe: Millions of Shark Vacuums are Vulnerable to RCE",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uy4iyq/no_shark_is_safe_millions_of_shark_vacuums_are/",
-    "target": "Shark Safe",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uy4iyq/no_shark_is_safe_millions_of_shark_vacuums_are/"
-      }
-    ]
-  },
-  {
-    "id": "c5d90de6138494e2",
-    "date": "2026-07-20T15:22:23.835621+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Windows AppResolver LPE: From AppContainer to SYSTEM. PoC linked to CVE-2026-50454",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Windows AppResolver LPE: From AppContainer to SYSTEM. PoC linked to CVE-2026-50454",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uyzhy8/windows_appresolver_lpe_from_appcontainer_to/",
-    "target": "Windows AppResolver LPE",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uyzhy8/windows_appresolver_lpe_from_appcontainer_to/"
-      }
-    ]
-  },
-  {
-    "id": "a4520d23b3d992a3",
-    "date": "2026-07-20T15:22:23.835493+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Openwrt pre-auth remote root exploit",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Openwrt pre-auth remote root exploit",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uz8qh3/openwrt_preauth_remote_root_exploit/",
-    "target": "Openwrt",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uz8qh3/openwrt_preauth_remote_root_exploit/"
-      }
-    ]
-  },
-  {
-    "id": "d80e25a1ee4f5eac",
-    "date": "2026-07-20T15:22:23.835359+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Keeping private namespaces private - Quad9 blog",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Keeping private namespaces private - Quad9 blog",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uzhprd/keeping_private_namespaces_private_quad9_blog/",
-    "target": "Keeping Quad9",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uzhprd/keeping_private_namespaces_private_quad9_blog/"
-      }
-    ]
-  },
-  {
-    "id": "8fa57d9fcc2cae76",
-    "date": "2026-07-20T15:22:23.835077+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Pixels to Payload: Dissecting a Four-Stage Bitmap-Steganography Dropper Delivering AsyncRAT :: Rhys Downing",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Pixels to Payload: Dissecting a Four-Stage Bitmap-Steganography Dropper Delivering AsyncRAT :: Rhys Downing",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v01uhq/pixels_to_payload_dissecting_a_fourstage/",
-    "target": "Pixels Payload",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v01uhq/pixels_to_payload_dissecting_a_fourstage/"
-      }
-    ]
-  },
-  {
-    "id": "731a4807a8099aaa",
-    "date": "2026-07-20T15:22:23.834945+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "wp2shell (CVE-2026-63030): Pre-Auth RCE Chain in WordPress Core - Analysis and Open-Source Scanner",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "wp2shell (CVE-2026-63030): Pre-Auth RCE Chain in WordPress Core - Analysis and Open-Source Scanner",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v07npi/wp2shell_cve202663030_preauth_rce_chain_in/",
-    "target": "wp2shell CVE-2026-63030",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v07npi/wp2shell_cve202663030_preauth_rce_chain_in/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v0kvve/wp2shell_cve202663030_update_public_working/"
-      }
-    ]
-  },
-  {
-    "id": "451b1bb5012b7430",
-    "date": "2026-07-20T15:22:23.834797+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Multiple Chinese civic apps share one reward/lottery backend whose signing secret is recoverable",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Multiple Chinese civic apps share one reward/lottery backend whose signing secret is recoverable",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v09pze/multiple_chinese_civic_apps_share_one/",
-    "target": "Multiple Chinese",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v09pze/multiple_chinese_civic_apps_share_one/"
-      }
-    ]
-  },
-  {
-    "id": "b64c9cb77e430403",
-    "date": "2026-07-20T15:22:23.834660+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Crawling the Complete IPv4 Reverse DNS Space",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Crawling the Complete IPv4 Reverse DNS Space",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v1o8ci/crawling_the_complete_ipv4_reverse_dns_space/",
-    "target": "Crawling Complete IPv4 Reverse",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v1o8ci/crawling_the_complete_ipv4_reverse_dns_space/"
-      }
-    ]
-  },
-  {
-    "id": "f6ed439b216cb228",
-    "date": "2026-07-20T15:22:23.834508+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/",
-    "target": "Escalating All Privileges Foxit",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/"
-      }
-    ]
-  },
-  {
-    "id": "3e3cbd0b558843bb",
-    "date": "2026-07-20T15:22:23.834351+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Exploit brokers pay $500,000 for a WordPress RCE. I found one with GPT5.6 Sol Ultra and $25",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Exploit brokers pay $500,000 for a WordPress RCE. I found one with GPT5.6 Sol Ultra and $25",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v1fbe1/exploit_brokers_pay_500000_for_a_wordpress_rce_i/",
-    "target": "Exploit 500000 WordPress RCE.",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v1fbe1/exploit_brokers_pay_500000_for_a_wordpress_rce_i/"
-      }
-    ]
-  },
-  {
-    "id": "d29a549c775ffe8f",
-    "date": "2026-07-20T15:22:23.834175+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "r/netsec monthly discussion & tool thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "r/netsec monthly discussion & tool thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/",
-    "target": "Unknown",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
-      }
-    ]
-  },
-  {
-    "id": "46631edb097f535e",
-    "date": "2026-07-20T15:22:23.833958+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "/r/netsec's Q3 2026 Information Security Hiring Thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
-    "target": "2026 Information Hiring Thread",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
       }
     ]
   },
@@ -2620,7 +2881,7 @@
     "category": "",
     "title": "Hugging Face warns an autonomous AI agent hacked its network",
     "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
-    "article_text": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. Hugging Face is an open-source AI and machine learning platform that provides access to over 45,000 models from leading AI providers and is used by more than 50,000 organizations. The company is still investigating whether partner or customer data was affected and said it would contact any affected parties directly. Hugging Face said it has found no evidence of tampering with public-facing models, datasets, or Spaces to date, and that its software supply chain has been \"verified clean.\" The intrusion began in Hugging Face's data-processing pipeline, with the attackers using a malicious dataset to exploit two code-execution vulnerabilities and run code on a processing worker. This allowed them to steal cloud and cluster credentials and move laterally across several internal clusters. \"The campaign was run by an autonomous agent framework (appearing to be built on an agentic security-research harness - used LLM still not known) executing many thousands of individual actions across a swarm of short-lived sandboxes, with self-migrating command-and-control staged on public services,\" Hugging Face said in an incident disclosure published Thursday. \"This matches the 'agentic attacker' scenario the industry has been forecasting.\" In response to the breach, Hugging Face has closed the vulnerable code execution paths (a template injection in a dataset configuration and a remote code dataset loader), evicted the attacker, rebuilt the compromised nodes, and revoked and rotated all affected credentials. It also deployed improved malicious activity detection systems, reported the incident to law enforcement, and is now working with external forensic experts to assess the breach's impact. \"We do not know which model powered the attacker's agents, whether a jailbroken hosted model or an unrestricted open-weight one; either way, the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails of the hosted models we first tried,\" Hugging Face added. \"The practical lesson for defenders: have a capable model you can run on your own infrastructure vetted and ready before an incident, both to avoid guardrail lockout and to keep attacker data and credentials from leaving your environment.\" Hugging Face advised users to rotate access tokens and review recent account activity for signs of suspicious behavior and said it would continue sharing findings on defending against AI-driven attacks. While this is the first security incident affecting the platform that has been linked to an AI agent, it's not the first breach disclosed by Hugging Face in recent years. The company also revoked some members' authentication secrets and advised them to switch to fine-grained access tokens two years ago after hackers breached its Spaces platform . Threat actors have also been abusing the platform in recent years to push malicious AI/ML models and infostealer malware , and to spread thousands of Android malware variants . Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Over 20,000 Instagram accounts stolen in Meta AI support hack Lidl discloses online shop breach after service provider hack Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time Ernst & Young discloses data breach after support system hack New Windows LegacyHive zero-day gives hackers admin privileges CISA urges immediate action on actively exploited Fortinet flaws AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. Hugging Face is an open-source AI and machine learning platform that provides access to over 45,000 models from leading AI providers and is used by more than 50,000 organizations. The company is still investigating whether partner or customer data was affected and said it would contact any affected parties directly. Hugging Face said it has found no evidence of tampering with public-facing models, datasets, or Spaces to date, and that its software supply chain has been \"verified clean.\" The intrusion began in Hugging Face's data-processing pipeline, with the attackers using a malicious dataset to exploit two code-execution vulnerabilities and run code on a processing worker. This allowed them to steal cloud and cluster credentials and move laterally across several internal clusters. \"The campaign was run by an autonomous agent framework (appearing to be built on an agentic security-research harness - used LLM still not known) executing many thousands of individual actions across a swarm of short-lived sandboxes, with self-migrating command-and-control staged on public services,\" Hugging Face said in an incident disclosure published Thursday. \"This matches the 'agentic attacker' scenario the industry has been forecasting.\" In response to the breach, Hugging Face has closed the vulnerable code execution paths (a template injection in a dataset configuration and a remote code dataset loader), evicted the attacker, rebuilt the compromised nodes, and revoked and rotated all affected credentials. It also deployed improved malicious activity detection systems, reported the incident to law enforcement, and is now working with external forensic experts to assess the breach's impact. \"We do not know which model powered the attacker's agents, whether a jailbroken hosted model or an unrestricted open-weight one; either way, the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails of the hosted models we first tried,\" Hugging Face added. \"The practical lesson for defenders: have a capable model you can run on your own infrastructure vetted and ready before an incident, both to avoid guardrail lockout and to keep attacker data and credentials from leaving your environment.\" Hugging Face advised users to rotate access tokens and review recent account activity for signs of suspicious behavior and said it would continue sharing findings on defending against AI-driven attacks. While this is the first security incident affecting the platform that has been linked to an AI agent, it's not the first breach disclosed by Hugging Face in recent years. The company also revoked some members' authentication secrets and advised them to switch to fine-grained access tokens two years ago after hackers breached its Spaces platform . Threat actors have also been abusing the platform in recent years to push malicious AI/ML models and infostealer malware , and to spread thousands of Android malware variants . Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Over 20,000 Instagram accounts stolen in Meta AI support hack JadePuffer ransomware used AI agent to automate entire attack Lidl discloses online shop breach after service provider hack Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time Ernst & Young discloses data breach after support system hack New Windows LegacyHive zero-day gives hackers admin privileges Update now: 7-Zip fixes RCE flaw exploitable with malicious archives Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -2881,7 +3142,7 @@
     "category": "",
     "title": "Microsoft confirms Windows Server Update Services sync delays",
     "summary": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]",
-    "article_text": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. WSUS was introduced almost twenty years ago to help IT administrators schedule updates for Microsoft products on enterprise networks from a single local update server, rather than updating each endpoint directly from Redmond's servers. By default, WSUS syncs with Microsoft Update servers once a day to download the latest metadata for available Windows updates. However, on servers affected by this issue, synchronization is broken, and admins will not be able to deploy the latest Windows updates via WSUS or Configuration Manager. According to Microsoft, the WSUS sync issues affect both client (Windows 10, version 1607 and later) and server (Windows Server 2012 and later) platforms. \"Organizations might experience increased synchronization times or sync operation timeouts on WSUS servers. This issue began in recent days, with heightened impact observed starting July 13, 2026,\" Microsoft said in a Windows health dashboard update. Microsoft has rolled out mitigation measures on Saturday to prevent WSUS sync times and operation issues from affecting newly installed or rebuilt WSUS servers. However, it is still working on additional mitigations for previously affected WSUS servers that continue to experience WSUS synchronization issues. \"Synchronization times and sync operations on WSUS servers have been restored and are operating normally for new WSUS installations and rebuilds,\" it added. \"For WSUS servers that were previously affected, Microsoft is working on mitigation steps to help customers safely remove the affected metadata from their environments.\" One year ago, in May, Microsoft fixed another similar issue after enterprise customers reported being plagued by WSUS errors when trying to update Windows 11 22H2/23H2 systems. Microsoft addressed another WSUS issue in July 2025 that prevented organizations from syncing with Microsoft Update to deploy the latest Windows updates. One month later, Microsoft resolved one more issue that blocked the August 2025 security update from being delivered via Windows Server Update Services (WSUS). Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Microsoft fixes Windows update failures linked to WUSA installer Microsoft: Some Windows PCs fail to install latest monthly updates Microsoft fixes KB5089549 Windows security update install issues Windows KB5121767 OOB update fixes shutdowns on some Dell PCs Microsoft: Some Dell PCs shut down after recent Windows updates Ernst & Young discloses data breach after support system hack New Windows LegacyHive zero-day gives hackers admin privileges CISA urges immediate action on actively exploited Fortinet flaws Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. WSUS was introduced almost twenty years ago to help IT administrators schedule updates for Microsoft products on enterprise networks from a single local update server, rather than updating each endpoint directly from Redmond's servers. By default, WSUS syncs with Microsoft Update servers once a day to download the latest metadata for available Windows updates. However, on servers affected by this issue, synchronization is broken, and admins will not be able to deploy the latest Windows updates via WSUS or Configuration Manager. According to Microsoft, the WSUS sync issues affect both client (Windows 10, version 1607 and later) and server (Windows Server 2012 and later) platforms. \"Organizations might experience increased synchronization times or sync operation timeouts on WSUS servers. This issue began in recent days, with heightened impact observed starting July 13, 2026,\" Microsoft said in a Windows health dashboard update. Microsoft has rolled out mitigation measures on Saturday to prevent WSUS sync times and operation issues from affecting newly installed or rebuilt WSUS servers. However, it is still working on additional mitigations for previously affected WSUS servers that continue to experience WSUS synchronization issues. \"Synchronization times and sync operations on WSUS servers have been restored and are operating normally for new WSUS installations and rebuilds,\" it added. \"For WSUS servers that were previously affected, Microsoft is working on mitigation steps to help customers safely remove the affected metadata from their environments.\" One year ago, in May, Microsoft fixed another similar issue after enterprise customers reported being plagued by WSUS errors when trying to update Windows 11 22H2/23H2 systems. Microsoft addressed another WSUS issue in July 2025 that prevented organizations from syncing with Microsoft Update to deploy the latest Windows updates. One month later, Microsoft resolved one more issue that blocked the August 2025 security update from being delivered via Windows Server Update Services (WSUS). Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Microsoft fixes Windows update failures linked to WUSA installer Microsoft: Some Windows PCs fail to install latest monthly updates Microsoft fixes KB5089549 Windows security update install issues Windows KB5121767 OOB update fixes shutdowns on some Dell PCs Microsoft: Some Dell PCs shut down after recent Windows updates Reminds me of Rocky and Bulwinkle: \"Hey, Rocky. Watch me pull a flawless Windows update out of my hat.\" \"Again?! But that trick never works...\" Ernst & Young discloses data breach after support system hack New Windows LegacyHive zero-day gives hackers admin privileges Update now: 7-Zip fixes RCE flaw exploitable with malicious archives See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week.",
       "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
@@ -2968,7 +3229,7 @@
     "category": "",
     "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
     "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
-    "article_text": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to experience performance issues or shut down after installing the July 2026 Windows 11 security updates. As detailed when Microsoft acknowledged the issue on Tuesday , it affects only Dell systems that have installed the KB5101650 cumulative update on Windows 11 25H2 and 24H2 devices. However, the root cause is a change introduced in the June 2026 KB5095093 preview cumulative update that triggers a conflict between the new Windows USB-C Connection Manager interface and the Intel Innovation Platform Framework (IPF) Processor Participant driver (a core system-level hardware driver that manages system power and thermals). Because of this incompatibility, on affected devices, Windows displays a yellow exclamation mark in Device Manager next to the Processor Participant driver. \"After installing the June 23, 2026, Windows preview update (KB5095093), a limited number of Dell devices might display a yellow exclamation point in Device Manager next to the Intel Innovation Platform Framework Processor Participant driver. These devices can potentially experience unexpected shutdowns, poor performance, increased heat, and battery drain,\" Microsoft said. \"This issue was reported by Dell during testing and identified as an incompatibility between the Intel driver and the new Windows USB-C Connection Manager interface introduced in the June 23, 2026, Windows preview update (KB5095093).\" To prevent these issues, Microsoft blocked the update on affected Dell systems until a fix was available. On Saturday, three days after confirming this known issue, Microsoft released two emergency updates that fix it on Dell PCs running Windows 11 25H2 and 24H2 ( KB5121767 ) and Windows 11 Enterprise LTSC 2024 ( KB5121768 ). \"This update addresses an issue affecting a limited number of devices with an Intel Innovation Platform Framework (Intel IPF) driver that could cause changes in performance, power consumption, or system behavior after installing recent Windows updates,\" Microsoft said . \"A limited number of Dell devices that were temporarily prevented from receiving the July 2026 security update KB5101650 can now install this OOB update. This OOB update is only recommended for devices affected by this issue. If your device is not affected, no action is required. Devices managed by Windows Autopatch with hotpatch updates enabled will receive this emergency update automatically, while IT admins who use Microsoft Intune can speed up its deployment using the guidance available here . Windows users who have not yet installed the July 2026 security update will also be required to restart their devices. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Microsoft: Some Dell PCs shut down after recent Windows updates April KB5083769 Windows 11 update causes backup software failures Microsoft: Some Windows PCs fail to install latest monthly updates Microsoft fixes KB5089549 Windows security update install issues Windows 11 KB5089573 update released with performance improvements Dell is a bad company that forces its employees to train their AI tools and then lays them all off. Michael Dell F I into bed with Trump and he thinks that is going to save him dim the backlash of the destructive nature of AI Datacenters. It won’t work. People who put their profit over people will die by the people. Dell must go under. Ernst & Young discloses data breach after support system hack New Windows LegacyHive zero-day gives hackers admin privileges AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to experience performance issues or shut down after installing the July 2026 Windows 11 security updates. As detailed when Microsoft acknowledged the issue on Tuesday , it affects only Dell systems that have installed the KB5101650 cumulative update on Windows 11 25H2 and 24H2 devices. However, the root cause is a change introduced in the June 2026 KB5095093 preview cumulative update that triggers a conflict between the new Windows USB-C Connection Manager interface and the Intel Innovation Platform Framework (IPF) Processor Participant driver (a core system-level hardware driver that manages system power and thermals). Because of this incompatibility, on affected devices, Windows displays a yellow exclamation mark in Device Manager next to the Processor Participant driver. \"After installing the June 23, 2026, Windows preview update (KB5095093), a limited number of Dell devices might display a yellow exclamation point in Device Manager next to the Intel Innovation Platform Framework Processor Participant driver. These devices can potentially experience unexpected shutdowns, poor performance, increased heat, and battery drain,\" Microsoft said. \"This issue was reported by Dell during testing and identified as an incompatibility between the Intel driver and the new Windows USB-C Connection Manager interface introduced in the June 23, 2026, Windows preview update (KB5095093).\" To prevent these issues, Microsoft blocked the update on affected Dell systems until a fix was available. On Saturday, three days after confirming this known issue, Microsoft released two emergency updates that fix it on Dell PCs running Windows 11 25H2 and 24H2 ( KB5121767 ) and Windows 11 Enterprise LTSC 2024 ( KB5121768 ). \"This update addresses an issue affecting a limited number of devices with an Intel Innovation Platform Framework (Intel IPF) driver that could cause changes in performance, power consumption, or system behavior after installing recent Windows updates,\" Microsoft said . \"A limited number of Dell devices that were temporarily prevented from receiving the July 2026 security update KB5101650 can now install this OOB update. This OOB update is only recommended for devices affected by this issue. If your device is not affected, no action is required. Devices managed by Windows Autopatch with hotpatch updates enabled will receive this emergency update automatically, while IT admins who use Microsoft Intune can speed up its deployment using the guidance available here . Windows users who have not yet installed the July 2026 security update will also be required to restart their devices. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Microsoft: Some Dell PCs shut down after recent Windows updates April KB5083769 Windows 11 update causes backup software failures Microsoft: Some Windows PCs fail to install latest monthly updates Microsoft fixes KB5089549 Windows security update install issues Windows 11 KB5089573 update released with performance improvements Dell is a bad company that forces its employees to train their AI tools and then lays them all off. Michael Dell F I into bed with Trump and he thinks that is going to save him dim the backlash of the destructive nature of AI Datacenters. It won’t work. People who put their profit over people will die by the people. Dell must go under. Ernst & Young discloses data breach after support system hack New Windows LegacyHive zero-day gives hackers admin privileges Update now: 7-Zip fixes RCE flaw exploitable with malicious archives AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates.",
       "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
@@ -3026,7 +3287,7 @@
     "category": "",
     "title": "Critical ServiceNow code execution flaw now exploited in attacks",
     "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
-    "article_text": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. Formerly known as the Now Platform, ServiceNow AI Platform is an enterprise-grade Platform-as-a-Service (PaaS) that helps businesses integrate AI into core enterprise workflows. Cybersecurity company Searchlight Cyber, which found this critical vulnerability and reported it on April 1st, says that it allows unauthenticated threat actors to escape the sandbox and execute code remotely within the ServiceNow platform in high-complexity attacks. ServiceNow addressed the flaw across hosted instances and released CVE-2026-6875 security updates for self-hosted instances one week ago, on July 13th . Over the weekend, Defused security researchers confirmed that attackers have begun exploiting the vulnerability in the wild, with the first attempts being observed on Friday, days after ServiceNow issued patches. \"We are observing in-the-wild exploitation of the ServiceNow pre-auth sandbox-escape RCE (CVE-2026-6875),\" Defused warned in a Saturday tweet. \"The payloads hit the same pre-auth sink @SLCyberSec documented (/assessment_thanks.do), but the sandbox-escape gadget reaches the same code-execution primitive by a different route than their published PoC.\" ServiceNow has yet to flag this security as actively abused and, in the official advisory, still states that it is \"not currently aware of exploitation against ServiceNow instances.\" However, the company advises all customers who have not already done so to secure their systems against attacks by upgrading to a patched release as soon as possible. A ServiceNow spokesperson was not immediately available for comment when BleepingComputer reached out to confirm Defused's report that CVE-2026-6875 is now actively exploited. Last month, ServiceNow also privately disclosed a security incident in which attackers queried data from customer instances by exploiting an unauthenticated access flaw via a vulnerable API endpoint. In a subsequent advisory, it tied the incident to security researchers or customer-led research linked to bug bounty submissions rather than to malicious threat actors. ServiceNow says that its AI Platform runs more than 100 billion workflows each year and powers over 100,000 enterprise AI apps at 85% of all Fortune 500 companies. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. CISA sets urgent deadline to fix Cisco flaw exploited in attacks Critical Fortinet FortiSandbox flaws now exploited in attacks Ernst & Young discloses data breach after support system hack New Windows LegacyHive zero-day gives hackers admin privileges CISA urges immediate action on actively exploited Fortinet flaws Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. Formerly known as the Now Platform, ServiceNow AI Platform is an enterprise-grade Platform-as-a-Service (PaaS) that helps businesses integrate AI into core enterprise workflows. Cybersecurity company Searchlight Cyber, which found this critical vulnerability and reported it on April 1st, says that it allows unauthenticated threat actors to escape the sandbox and execute code remotely within the ServiceNow platform in high-complexity attacks. ServiceNow addressed the flaw across hosted instances and released CVE-2026-6875 security updates for self-hosted instances one week ago, on July 13th . Over the weekend, Defused security researchers confirmed that attackers have begun exploiting the vulnerability in the wild, with the first attempts being observed on Friday, days after ServiceNow issued patches. \"We are observing in-the-wild exploitation of the ServiceNow pre-auth sandbox-escape RCE (CVE-2026-6875),\" Defused warned in a Saturday tweet. \"The payloads hit the same pre-auth sink @SLCyberSec documented (/assessment_thanks.do), but the sandbox-escape gadget reaches the same code-execution primitive by a different route than their published PoC.\" ServiceNow has yet to flag this security as actively abused and, in the official advisory, still states that it is \"not currently aware of exploitation against ServiceNow instances.\" However, the company advises all customers who have not already done so to secure their systems against attacks by upgrading to a patched release as soon as possible. A ServiceNow spokesperson was not immediately available for comment when BleepingComputer reached out to confirm Defused's report that CVE-2026-6875 is now actively exploited. Last month, ServiceNow also privately disclosed a security incident in which attackers queried data from customer instances by exploiting an unauthenticated access flaw via a vulnerable API endpoint. In a subsequent advisory, it tied the incident to security researchers or customer-led research linked to bug bounty submissions rather than to malicious threat actors. ServiceNow says that its AI Platform runs more than 100 billion workflows each year and powers over 100,000 enterprise AI apps at 85% of all Fortune 500 companies. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. CISA sets urgent deadline to fix Cisco flaw exploited in attacks Critical Fortinet FortiSandbox flaws now exploited in attacks Ernst & Young discloses data breach after support system hack New Windows LegacyHive zero-day gives hackers admin privileges Update now: 7-Zip fixes RCE flaw exploitable with malicious archives Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused.",
       "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
@@ -3998,6 +4259,35 @@
     ]
   },
   {
+    "id": "ef9b660d22e524b0",
+    "date": "2026-07-20T00:00:00+00:00",
+    "source": "Recorded Future Research",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Threat Hunting: A Guide | Recorded Future",
+    "summary": "Master modern cyber threat hunting by embracing real-time threat intelligence. Discover the elite tools, steps, and frameworks to expose hidden adversaries.",
+    "article_text": "",
+    "quick_summary": [
+      "Master modern cyber threat hunting by embracing real-time threat intelligence.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.recordedfuture.com/blog/cyber-threat-hunting",
+    "target": "Threat Hunting",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Recorded Future Research"
+    ],
+    "links": [
+      {
+        "source": "Recorded Future Research",
+        "url": "https://www.recordedfuture.com/blog/cyber-threat-hunting"
+      }
+    ]
+  },
+  {
     "id": "a11f3e5eff830ec7",
     "date": "2026-07-19T23:11:14.643662+00:00",
     "source": "DeafNews",
@@ -4209,7 +4499,7 @@
     "category": "",
     "title": "Hackers abuse ViPNet software to target Russian govt agencies",
     "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
-    "article_text": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. Dubbed HelloNet, the campaign has been active since at least May, deploying a malicious payload that acts as a proxy and loader for additional malware. According to Kaspersky researchers, HelloNet has impacted organizations in the government, energy, transport, education, and logistics sectors. ViPNet is a family of Russian information-security products developed by InfoTeCS, providing VPN, endpoint, and network access protection, firewall, certificate management, centralized administration, and secure messaging and file transfer. The tool is commonly used in Russia, where it is certified by the authorities for use in government and other regulated environments. Due to its market reach in Russia, especially among high-value organizations, it has been targeted often by hackers. In April, 2025, Kaspersky reported that threat actors impersonated a ViPNet update in attacks. In the latest campaign, attackers placed a malicious file (wtsapi32.dll, dubbed HelloInjector) inside the local ViPNet Update System directory to be sideloaded at system startup via the legitimate itcsrvup64.exe. This DLL is the first-stage loader that injects into the svchost.exe process, granting next-stage payloads elevated privileges on Windows and persistence across reboots. Kaspersky does not describe exactly how the attackers gained initial access to perform this file change, nor do they claim that ViPNet’s update infrastructure itself was compromised. HelloInjector runs its embedded payload, which Kaspersky named HelloProxy, in memory and contacts the command-and-control (C2) server to receive additional modules. One of these modules is HelloExecutor, a backdoor that can execute commands and conduct network reconnaissance on the host. A second one is HelloCleaner, a tool that removes ViPNet log data to hide the malicious activity. Another implant called HelloBackdoor is Rust-based and supports uploading and downloading files, as well as command execution. Kaspersky has tentatively attributed the campaign to an unidentified Chinese-speaking advanced persistent threat (APT) group. However, the researchers stressed that the evidence is weak, relying primarily on an unused string referencing the Chinese website sina.com and a malware download mirror hosted by the University of Science and Technology of China. As a result, they assign the attribution low confidence and do not rule out the possibility of a false flag operation. The cybersecurity firm recommends thorough monitoring of systems running ViPNet software, particularly traffic passing through ports 5003, 5060 (HelloProxy), and 443 (HelloBackdoor). Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. U.S. offers $10 million for hackers targeting WhatsApp, Signal users Russian hackers trojanize WebEx, Zoom apps to push Starland malware Google Gemini CLI abused as a hacking agent, malware botnet operator US charges alleged operators of Russian bulletproof hosting service Ernst & Young discloses data breach after support system hack Coca-Cola says Fairlife ransomware attack halts US dairy production New Windows LegacyHive zero-day gives hackers admin privileges Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. Dubbed HelloNet, the campaign has been active since at least May, deploying a malicious payload that acts as a proxy and loader for additional malware. According to Kaspersky researchers, HelloNet has impacted organizations in the government, energy, transport, education, and logistics sectors. ViPNet is a family of Russian information-security products developed by InfoTeCS, providing VPN, endpoint, and network access protection, firewall, certificate management, centralized administration, and secure messaging and file transfer. The tool is commonly used in Russia, where it is certified by the authorities for use in government and other regulated environments. Due to its market reach in Russia, especially among high-value organizations, it has been targeted often by hackers. In April, 2025, Kaspersky reported that threat actors impersonated a ViPNet update in attacks. In the latest campaign, attackers placed a malicious file (wtsapi32.dll, dubbed HelloInjector) inside the local ViPNet Update System directory to be sideloaded at system startup via the legitimate itcsrvup64.exe. This DLL is the first-stage loader that injects into the svchost.exe process, granting next-stage payloads elevated privileges on Windows and persistence across reboots. Kaspersky does not describe exactly how the attackers gained initial access to perform this file change, nor do they claim that ViPNet’s update infrastructure itself was compromised. HelloInjector runs its embedded payload, which Kaspersky named HelloProxy, in memory and contacts the command-and-control (C2) server to receive additional modules. One of these modules is HelloExecutor, a backdoor that can execute commands and conduct network reconnaissance on the host. A second one is HelloCleaner, a tool that removes ViPNet log data to hide the malicious activity. Another implant called HelloBackdoor is Rust-based and supports uploading and downloading files, as well as command execution. Kaspersky has tentatively attributed the campaign to an unidentified Chinese-speaking advanced persistent threat (APT) group. However, the researchers stressed that the evidence is weak, relying primarily on an unused string referencing the Chinese website sina.com and a malware download mirror hosted by the University of Science and Technology of China. As a result, they assign the attribution low confidence and do not rule out the possibility of a false flag operation. The cybersecurity firm recommends thorough monitoring of systems running ViPNet software, particularly traffic passing through ports 5003, 5060 (HelloProxy), and 443 (HelloBackdoor). Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. U.S. offers $10 million for hackers targeting WhatsApp, Signal users Russian hackers trojanize WebEx, Zoom apps to push Starland malware Google Gemini CLI abused as a hacking agent, malware botnet operator US charges alleged operators of Russian bulletproof hosting service Ernst & Young discloses data breach after support system hack New Windows LegacyHive zero-day gives hackers admin privileges Update now: 7-Zip fixes RCE flaw exploitable with malicious archives AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies.",
       "Risk: ransomware/extortion, vulnerability/exploitation risk",
@@ -26277,296 +26567,6 @@
       {
         "source": "Dark Reading",
         "url": "https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia"
-      }
-    ]
-  },
-  {
-    "id": "e4fffaca40fdf8bf",
-    "date": "2026-07-08T07:51:58+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "China-Nexus Hackers Exploit Ruckus Routers to Build Operational Relay Box Networks",
-    "summary": "UAT-7810, a China-nexus hacking group, is expanding a global network of hijacked internet devices by exploiting security flaws in Ruckus wireless routers and rolling out new custom malware. This activity feeds into what researchers call an Operational Relay Box network, a chain of compromised devices used to hide the true origin of cyberattacks. The tactic […] The post China-Nexus Hackers Exploit Ruckus Routers to Build Operational Relay Box Networks appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "UAT-7810, a China-nexus hacking group, is expanding a global network of hijacked internet devices by exploiting security flaws in Ruckus wireless routers and rolling out new custom malware.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/china-nexus-hackers-exploit-ruckus-routers/",
-    "target": "China-Nexus Exploit Ruckus Routers",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/china-nexus-hackers-exploit-ruckus-routers/"
-      }
-    ]
-  },
-  {
-    "id": "9cc3521885b6ae7d",
-    "date": "2026-07-08T07:36:43+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Discord’s Security Systems Mistakenly Banned 8,000+ Accounts Since May 2026",
-    "summary": "Discord has confirmed that a bug in its automated security systems led to the wrongful suspension of more than 8,000 user accounts between May 2026 and early July 2026. The company disclosed the issue via its official support account on X, clarifying both the root cause and the scope of impact. According to Discord Support, […] The post Discord’s Security Systems Mistakenly Banned 8,000+ Accounts Since May 2026 appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Discord has confirmed that a bug in its automated security systems led to the wrongful suspension of more than 8,000 user accounts between May 2026 and early July 2026.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/discords-systems-users-banned/",
-    "target": "Discords Systems Mistakenly Banned",
-    "type": "General Cybersecurity",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/discords-systems-users-banned/"
-      }
-    ]
-  },
-  {
-    "id": "ed36bd699b560f44",
-    "date": "2026-07-08T07:16:55+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday. [...]",
-    "article_text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday. The vulnerability ( CVE-2026-48282 ) affects ColdFusion versions 2025.9, 2023.20, and earlier, and can be exploited by remote threat actors without privileges in low-complexity attacks to gain code execution on unpatched systems. Adobe released security updates one week ago to address the security flaw and urged admins to deploy patches immediately, saying that it posed a high risk of exploitation. \"This update resolves vulnerabilities being targeted, or which have a higher risk of being targeted, by exploit(s) in the wild for a given product version and platform,\" the company said. \"Adobe recommends administrators install the update as soon as possible. (for example, within 72 hours).\" KEVIntel founder Ryan Dewhurst warned two days after Adobe issued patches that attackers had begun exploiting CVE-2026-48282 within two hours of Adobe's disclosure, while the Canadian Center for Cyber Security (CCCS) encouraged network defenders to secure their systems against these ongoing attacks. Internet security watchdog group Shadowserver currently tracks nearly 800 Adobe ColdFusion instances exposed online, but there is no information on how many are honeypots or have been secured against attacks targeting the CVE-2026-48282 flaw. On Tuesday, CISA added CVE-2026-48282 to its list of vulnerabilities actively exploited in attacks and ordered U.S. Federal Civilian Executive Branch (FCEB) agencies to patch their systems by Friday, June 10, as required by Binding Operational Directive (BOD) 26-04. BOD 26-04, which was published last month , requires federal agencies to prioritize patching based on whether flaws are included in CISA's KEV catalog, whether their exploitation can be automated for large-scale attacks, whether vulnerable assets are exposed online, and whether successful exploitation grants the attackers partial or total control of the targeted device. Last week, Adobe also patched six other maximum-severity flaws in the ColdFusion web app development and Campaign Classic marketing automation platforms, all of which were tagged as high risk of being targeted. However, the company has yet to flag any of them as exploited in the wild, saying that it \"is not aware of any exploits in the wild for any of the issues addressed in these updates.\" In early April, Adobe also released emergency updates for an Acrobat Reader vulnerability (CVE-2026-34621) that had been exploited as a zero-day since December 2025 . Since November 2021, CISA has added 80 vulnerabilities in Adobe products to its list of actively exploited security flaws, 10 of which have also been abused in ransomware attacks. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. CISA: Windows BlueHammer flaw now exploited by ransomware gangs CISA orders feds to patch BlueHammer flaw exploited as zero-day Flipper Zero firmware development continues with community help Vietnam arrests suspects behind HiAnime anime piracy service Phishing poses as big-brand job interview to steal Google accounts Turn Indicators into Actionable Intelligence in OpenCTI with Criminal IP Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Software is moving at the speed of thought. Is your security keeping up? Your Scanners Are Green. Your Pipeline Might Not Be. Here's How to Close the Gap. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
-    "target": "CISA ColdFusion",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/"
-      }
-    ]
-  },
-  {
-    "id": "0188b45e9536240e",
-    "date": "2026-07-08T06:59:17+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "15-year-old GhostLock Kernel Flaw Enables Privilege Escalation in Major Linux Distributions",
-    "summary": "A critical Linux kernel vulnerability, tracked as CVE-2026-43499 and dubbed “GhostLock,” has been disclosed by security researchers at VEGA, exposing a privilege escalation flaw that has silently affected major Linux distributions for over a decade. GhostLock originates from a logic error in the kernel’s real-time mutex (rtmutex) subsystem, introduced in Linux version 2.6.39 in 2011. […] The post 15-year-old GhostLock Kernel Flaw Enables Privilege Escalation in Major Linux Distributions appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A critical Linux kernel vulnerability, tracked as CVE-2026-43499 and dubbed “GhostLock,” has been disclosed by security researchers at VEGA, exposing a privilege escalation flaw that has silently affected major Linux dis",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/15-year-old-ghostlock-linux-kernel-vulnerability/",
-    "target": "15-year-old GhostLock Kernel Enables",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/15-year-old-ghostlock-linux-kernel-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "0acbed08b8106d26",
-    "date": "2026-07-08T06:38:40.395915+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT Exploitarium: The Speed Paradox — Public Exploits for Already-Patched Flaws",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/zero/exploitarium-the-speed-paradox-public-exploits-for-already-patched-flaws",
-    "target": "EXPLOIT Exploitarium",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/zero/exploitarium-the-speed-paradox-public-exploits-for-already-patched-flaws"
-      }
-    ]
-  },
-  {
-    "id": "12899beee8d9095b",
-    "date": "2026-07-08T06:38:40.395778+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY Nissan Employees in Four Countries Exposed by Oracle PeopleSoft Zero-Day",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/nissan-employees-in-four-countries-exposed-by-oracle-peoplesoft-zero-day",
-    "target": "ZERO-DAY Nissan Employees Four",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/nissan-employees-in-four-countries-exposed-by-oracle-peoplesoft-zero-day"
-      }
-    ]
-  },
-  {
-    "id": "4b25cdef395d0cf3",
-    "date": "2026-07-08T06:38:40.395120+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "DeepSeek Generates Browser-Only Ransomware From a Prompt: Proof-of-Concept news",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://deafnews.it/en/news/news/deepseek-generates-browser-only-ransomware-from-a-prompt-proof-of-concept",
-    "target": "DeepSeek Generates Browser-Only Ransomware",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/deepseek-generates-browser-only-ransomware-from-a-prompt-proof-of-concept"
-      }
-    ]
-  },
-  {
-    "id": "548b69be3fd61510",
-    "date": "2026-07-08T06:38:38.533678+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Model Context Protocol (MCP) Tool Poisoning Hijacks AI Agents to Steal Data",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/model-context-protocol-mcp-tool-poisoning-hijacks-ai-agents-to-steal-data/630151/",
-    "target": "Model Context Protocol MCP",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/model-context-protocol-mcp-tool-poisoning-hijacks-ai-agents-to-steal-data/630151/"
-      }
-    ]
-  },
-  {
-    "id": "6b14785004424ab4",
-    "date": "2026-07-08T06:38:38.533495+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "BumbleBee and AdaptixC2 Deliver Akira Ransomware via Bing SEO",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://www.technadu.com/bumblebee-and-adaptixc2-deliver-akira-ransomware-via-bing-seo/630178/",
-    "target": "BumbleBee AdaptixC2 Deliver Akira",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/bumblebee-and-adaptixc2-deliver-akira-ransomware-via-bing-seo/630178/"
-      }
-    ]
-  },
-  {
-    "id": "88b24a00989c2910",
-    "date": "2026-07-08T06:16:44+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-    "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched. The vulnerable code has shipped by default in essentially every mainstream distribution since 2011. The flaw needs no special permission, no unusual settings, and no network",
-    "article_text": "Researchers at Nebula Security have disclosed GhostLock ( CVE-2026-43499 ), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched. The vulnerable code has shipped by default in essentially every mainstream distribution since 2011. The flaw needs no special permission, no unusual settings, and no network access; ordinary threading calls from any local program are enough. Nebula turned it into a working root exploit that is 97% reliable in its testing and also escapes containers, and says Google awarded the team $92,337 through its kernelCTF bug-bounty program. No one is known to be exploiting it in the wild, but Nebula has published working exploit code , so anyone can now run it. Patching is the priority. The kernel has a system for keeping an urgent task from getting stuck behind a trivial one. Part of it is a cleanup step that tidies up after a task once it stops waiting. Normally, that works fine. But in one rare case, where a lock operation hits a dead end and has to back out, the cleanup runs at the wrong moment and wipes the wrong task's record. That mistake leaves the kernel holding a \"note\" that points at a scrap of memory it has already thrown away and reused. Trusting that stale pointer is the whole bug, the kind of slip known as a use-after-free. From there, Nebula's team chained a few clever steps to turn that small mistake into full control, ending by tricking the kernel into running their own code as the all-powerful \"root\" user. On their test machine, it took about five seconds. The flaw has been in Linux since 2011 and was fixed in April, with distributions now rolling out the patch ( 3bfdc63936dd ). It affects nearly every Linux build and scores 7.8 out of 10 (high, not critical) because an attacker needs to already be logged in to the machine. Nebula found it with VEGA, its AI-driven bug-hunting tool. Install your distribution's current kernel, not just the first patched build. The original fix introduced a separate crash bug (CVE-2026-53166), and the cleanup for that was still settling upstream in early July, so early builds may lack the final version. There is no complete workaround, since the operations that trigger it are routine for any local process. Availability is uneven so far. Ubuntu, for example, had patched its newest release and some cloud kernels, but as of early July still listed 24.04, 22.04, and 20.04 LTS as vulnerable or in progress. Check your distribution's advisory and confirm the fixed package version rather than assuming one is waiting. Two build options, RANDOMIZE_KSTACK_OFFSET and STATIC_USERMODE_HELPER, make this exploit harder, but they are mitigations, not fixes. Patch shared and multi-tenant machines first, cloud servers, containers, and CI runners, where an attacker is most likely to find the local foothold this bug needs. GhostLock joins a run of 2026 Linux privilege-escalation bugs, several of which share a detail: an automated tool found them. VEGA found GhostLock; days earlier, researchers disclosed Bad Epoll (CVE-2026-46242), a close cousin that also turns an unprivileged user into root. It was proven through kernelCTF and, unusually for this class of bug, works on Android. Bad Epoll sits in the same stretch of code where Anthropic's Mythos model was credited with a related flaw. What they share is old, heavily used kernel machinery that few had reread in years, until automated tools started combing it. Futex priority inheritance dates to 2011. The class is not theoretical: another 2026 bug, Copy Fail (CVE-2026-31431), is already on CISA's list of vulnerabilities seen in real-world attacks. GhostLock is also the second half of a chain Nebula calls IonStack . The first half, CVE-2026-10702, is a Firefox flaw that runs code inside the browser and escapes its sandbox; GhostLock carries it the rest of the way to root. Nebula has already demonstrated the full chain, from a single tap on a malicious link to full control, against Firefox on Android. That is why a \"local only\" kernel bug still matters: on its own, it needs a foothold, but bolted onto a browser exploit, it becomes a remote compromise. Nebula says a full write-up of the Android exploit is coming next. Learn how to secure AI agents with practical controls for access, visibility, secrets, and risk containment. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, exper",
-    "quick_summary": [
-      "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-    "target": "15-Year-Old GhostLock Enables Root",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html"
       }
     ]
   }
