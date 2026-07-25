@@ -1,65 +1,7 @@
 [
   {
-    "id": "12545370ac1c0068",
-    "date": "2026-07-25T10:44:03.809748+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL ZDI-26-447: Critical RCE in Heimdall Data Database Proxy Grants Root via CRLF Injection",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/news/zdi-26-447-critical-rce-in-heimdall-data-database-proxy-grants-root-via-crlf-injection",
-    "target": "CRITICAL ZDI-26-447",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/zdi-26-447-critical-rce-in-heimdall-data-database-proxy-grants-root-via-crlf-injection"
-      }
-    ]
-  },
-  {
-    "id": "1a48ee8a45463037",
-    "date": "2026-07-25T10:44:03.809629+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE CVE-2026-6875: Active Attacks on Self-Hosted ServiceNow; Cloud Protected Since April",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-6875-active-attacks-on-self-hosted-servicenow-cloud-protected-since-april",
-    "target": "CVE CVE-2026-6875",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-6875-active-attacks-on-self-hosted-servicenow-cloud-protected-since-april"
-      }
-    ]
-  },
-  {
     "id": "bf2934e63f2dfa5e",
-    "date": "2026-07-25T10:44:03.809516+00:00",
+    "date": "2026-07-25T12:09:44.159224+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "6539ee60a1fa4bf7",
-    "date": "2026-07-25T10:44:03.809407+00:00",
+    "date": "2026-07-25T12:09:44.159117+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +59,7 @@
   },
   {
     "id": "49a433ec1ad6c57e",
-    "date": "2026-07-25T10:44:03.809296+00:00",
+    "date": "2026-07-25T12:09:44.159009+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +88,7 @@
   },
   {
     "id": "34849f8376199ea2",
-    "date": "2026-07-25T10:44:03.809176+00:00",
+    "date": "2026-07-25T12:09:44.158898+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,37 +116,66 @@
     ]
   },
   {
-    "id": "96337f9d488f01d1",
-    "date": "2026-07-25T10:44:03.808936+00:00",
+    "id": "39f9b3ff1b6b0088",
+    "date": "2026-07-25T12:09:44.158783+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "EncForge: JadePuffer Hits Irrecoverable AI Models With Agentic Ransomware ransomware",
+    "title": "EXPLOIT DarkSword: The iOS Kit That Armed Three Spy Groups With Six Flaws",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://deafnews.it/en/news/ransomware/encforge-jadepuffer-hits-irrecoverable-ai-models-with-agentic-ransomware",
-    "target": "EncForge",
-    "type": "Ransomware",
-    "severity": "High",
+    "link": "https://deafnews.it/en/news/cybersecurity/darksword-the-ios-kit-that-armed-three-spy-groups-with-six-flaws",
+    "target": "EXPLOIT DarkSword",
+    "type": "Vulnerability",
+    "severity": "Medium",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ransomware/encforge-jadepuffer-hits-irrecoverable-ai-models-with-agentic-ransomware"
+        "url": "https://deafnews.it/en/news/cybersecurity/darksword-the-ios-kit-that-armed-three-spy-groups-with-six-flaws"
+      }
+    ]
+  },
+  {
+    "id": "2ba58fb2104f5dff",
+    "date": "2026-07-25T12:09:44.158671+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE Twenty-Day Gap: 7-Zip Patch for CVE-2026-14266 Exists, But No Auto-Update Means It Stays Unapplied",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/twenty-day-gap-7-zip-patch-for-cve-2026-14266-exists-but-no-auto-update-means-it-stays-unapplied",
+    "target": "CVE Twenty-Day Gap",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/twenty-day-gap-7-zip-patch-for-cve-2026-14266-exists-but-no-auto-update-means-it-stays-unapplied"
       }
     ]
   },
   {
     "id": "7fd328039d4b7767",
-    "date": "2026-07-25T10:44:03.808821+00:00",
+    "date": "2026-07-25T12:09:44.158560+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "6bbe58d042e3fcb8",
-    "date": "2026-07-25T10:44:03.808681+00:00",
+    "date": "2026-07-25T12:09:44.158444+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -267,7 +238,7 @@
   },
   {
     "id": "3735bf3a310f2841",
-    "date": "2026-07-25T10:44:03.808568+00:00",
+    "date": "2026-07-25T12:09:44.158299+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -296,7 +267,7 @@
   },
   {
     "id": "6a9ec58458399f91",
-    "date": "2026-07-25T10:44:03.808321+00:00",
+    "date": "2026-07-25T12:09:44.158064+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -324,13 +295,13 @@
     ]
   },
   {
-    "id": "cc65b716ef2fa58a",
-    "date": "2026-07-25T10:44:03.807661+00:00",
+    "id": "eceb6efdeebdc745",
+    "date": "2026-07-25T12:09:44.157917+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "ai Google Sues 'Outsider Enterprise': Gemini Weaponized as PhaaS Engine Jul 25, 2026",
+    "title": "Google Sues 'Outsider Enterprise': Gemini Weaponized as PhaaS Engine ai",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -353,13 +324,13 @@
     ]
   },
   {
-    "id": "b90f557de7f5f7f3",
-    "date": "2026-07-25T10:44:03.807529+00:00",
+    "id": "4a0bfdf1e376c633",
+    "date": "2026-07-25T12:09:44.157789+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "news TELEPUZ: Modular MaaS Malware Spread via ClickFix Since July 16, 2026 Jul 25, 2026",
+    "title": "TELEPUZ: Modular MaaS Malware Spread via ClickFix Since July 16, 2026 news",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -387,7 +358,7 @@
   },
   {
     "id": "0eaecbf5fc6bac11",
-    "date": "2026-07-25T10:44:03.807390+00:00",
+    "date": "2026-07-25T12:09:44.157146+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -416,7 +387,7 @@
   },
   {
     "id": "88561cba1aea1259",
-    "date": "2026-07-25T10:44:03.807244+00:00",
+    "date": "2026-07-25T12:09:44.157014+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -444,19 +415,19 @@
     ]
   },
   {
-    "id": "99315dc9746af7c6",
-    "date": "2026-07-25T10:44:03.807073+00:00",
+    "id": "20f48a5eba082a39",
+    "date": "2026-07-25T12:09:44.156855+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Microsoft Dismantles StealC C2 Network, But Stolen Logs Keep Fueling Breaches",
+    "title": "infostealer Microsoft Dismantles StealC C2 Network, But Stolen Logs Keep Fueling Breaches Jul 25, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Risk: credentials/infostealer risk, ISNET vendor relevance",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
     ],
     "link": "https://deafnews.it/en/news/infostealer/microsoft-dismantles-stealc-c2-network-but-stolen-logs-keep-fueling-breaches",
     "target": "Microsoft Dismantles StealC Network",
@@ -474,12 +445,12 @@
   },
   {
     "id": "458b6d1593c06573",
-    "date": "2026-07-25T10:44:03.806906+00:00",
+    "date": "2026-07-25T12:09:44.156425+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 ZERO-DAY · 2 CVE · 1 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
+    "title": "// 2 ZERO-DAY · 3 CVE · 3 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -503,7 +474,7 @@
   },
   {
     "id": "98742b3dc4fc77d6",
-    "date": "2026-07-25T10:44:02.813915+00:00",
+    "date": "2026-07-25T12:09:43.704441+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -568,7 +539,7 @@
   },
   {
     "id": "0d07b1fef91c8d5e",
-    "date": "2026-07-25T10:44:01.802902+00:00",
+    "date": "2026-07-25T12:09:43.078130+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -597,7 +568,7 @@
   },
   {
     "id": "5e58ac06e905f6ff",
-    "date": "2026-07-25T10:44:01.802712+00:00",
+    "date": "2026-07-25T12:09:43.077969+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -626,7 +597,7 @@
   },
   {
     "id": "094431c440d4658a",
-    "date": "2026-07-25T10:44:01.802537+00:00",
+    "date": "2026-07-25T12:09:43.077799+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -655,7 +626,7 @@
   },
   {
     "id": "11a34b333a2bbf9d",
-    "date": "2026-07-25T10:44:01.802394+00:00",
+    "date": "2026-07-25T12:09:43.077658+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -684,7 +655,7 @@
   },
   {
     "id": "e3f0ea12bc81a478",
-    "date": "2026-07-25T10:44:01.802261+00:00",
+    "date": "2026-07-25T12:09:43.077520+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -713,7 +684,7 @@
   },
   {
     "id": "9a40cd959a5783df",
-    "date": "2026-07-25T10:44:01.802120+00:00",
+    "date": "2026-07-25T12:09:43.077380+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -742,7 +713,7 @@
   },
   {
     "id": "db755cd0f502e63b",
-    "date": "2026-07-25T10:44:01.801984+00:00",
+    "date": "2026-07-25T12:09:43.077221+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -771,7 +742,7 @@
   },
   {
     "id": "9d06822acbacfb99",
-    "date": "2026-07-25T10:44:01.801848+00:00",
+    "date": "2026-07-25T12:09:43.077084+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -805,7 +776,7 @@
   },
   {
     "id": "72dfbb783aa1a131",
-    "date": "2026-07-25T10:44:01.801682+00:00",
+    "date": "2026-07-25T12:09:43.076942+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -834,7 +805,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-07-25T10:44:01.801455+00:00",
+    "date": "2026-07-25T12:09:43.076719+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -863,7 +834,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-07-25T10:44:01.801265+00:00",
+    "date": "2026-07-25T12:09:43.076533+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -892,7 +863,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-07-25T10:44:01.801112+00:00",
+    "date": "2026-07-25T12:09:43.076382+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -921,7 +892,7 @@
   },
   {
     "id": "a80ccfde5e04c5d0",
-    "date": "2026-07-25T10:44:01.800963+00:00",
+    "date": "2026-07-25T12:09:43.076212+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -950,7 +921,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-25T10:44:01.800814+00:00",
+    "date": "2026-07-25T12:09:43.076070+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -979,7 +950,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-07-25T10:44:01.800659+00:00",
+    "date": "2026-07-25T12:09:43.075933+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1008,7 +979,7 @@
   },
   {
     "id": "550396760e8a1cad",
-    "date": "2026-07-25T10:44:01.800459+00:00",
+    "date": "2026-07-25T12:09:43.075735+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1037,7 +1008,7 @@
   },
   {
     "id": "02220f09df8df84c",
-    "date": "2026-07-25T10:44:01.800315+00:00",
+    "date": "2026-07-25T12:09:43.075588+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1066,7 +1037,7 @@
   },
   {
     "id": "5d144d963622d317",
-    "date": "2026-07-25T10:44:01.800010+00:00",
+    "date": "2026-07-25T12:09:43.075259+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1095,7 +1066,7 @@
   },
   {
     "id": "759cb11a8163cd99",
-    "date": "2026-07-25T10:44:01.799862+00:00",
+    "date": "2026-07-25T12:09:43.075115+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1124,7 +1095,7 @@
   },
   {
     "id": "b8ff236aad951635",
-    "date": "2026-07-25T10:44:01.799703+00:00",
+    "date": "2026-07-25T12:09:43.074977+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1153,7 +1124,7 @@
   },
   {
     "id": "666a0d6bf326717c",
-    "date": "2026-07-25T10:44:01.799563+00:00",
+    "date": "2026-07-25T12:09:43.074837+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1182,7 +1153,7 @@
   },
   {
     "id": "bc1bdf11a37f7ab1",
-    "date": "2026-07-25T10:44:01.799403+00:00",
+    "date": "2026-07-25T12:09:43.074687+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1211,7 +1182,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-25T10:44:01.795925+00:00",
+    "date": "2026-07-25T12:09:43.071105+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1240,7 +1211,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-25T10:44:01.794985+00:00",
+    "date": "2026-07-25T12:09:43.070152+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1269,7 +1240,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-25T10:44:01.794708+00:00",
+    "date": "2026-07-25T12:09:43.069880+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1298,7 +1269,7 @@
   },
   {
     "id": "d80e25a1ee4f5eac",
-    "date": "2026-07-25T10:44:01.606533+00:00",
+    "date": "2026-07-25T12:09:42.998705+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1327,7 +1298,7 @@
   },
   {
     "id": "aa6fc0449a76e756",
-    "date": "2026-07-25T10:44:01.606415+00:00",
+    "date": "2026-07-25T12:09:42.998587+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1372,7 +1343,7 @@
   },
   {
     "id": "8fa57d9fcc2cae76",
-    "date": "2026-07-25T10:44:01.606285+00:00",
+    "date": "2026-07-25T12:09:42.998457+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1401,7 +1372,7 @@
   },
   {
     "id": "731a4807a8099aaa",
-    "date": "2026-07-25T10:44:01.606160+00:00",
+    "date": "2026-07-25T12:09:42.998305+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1434,7 +1405,7 @@
   },
   {
     "id": "451b1bb5012b7430",
-    "date": "2026-07-25T10:44:01.606017+00:00",
+    "date": "2026-07-25T12:09:42.998163+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1463,7 +1434,7 @@
   },
   {
     "id": "f6ed439b216cb228",
-    "date": "2026-07-25T10:44:01.605871+00:00",
+    "date": "2026-07-25T12:09:42.998019+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1492,7 +1463,7 @@
   },
   {
     "id": "b64c9cb77e430403",
-    "date": "2026-07-25T10:44:01.605715+00:00",
+    "date": "2026-07-25T12:09:42.997889+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1521,7 +1492,7 @@
   },
   {
     "id": "3e3cbd0b558843bb",
-    "date": "2026-07-25T10:44:01.605582+00:00",
+    "date": "2026-07-25T12:09:42.997755+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1550,7 +1521,7 @@
   },
   {
     "id": "8cd1db9e003932e1",
-    "date": "2026-07-25T10:44:01.605453+00:00",
+    "date": "2026-07-25T12:09:42.997625+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1579,7 +1550,7 @@
   },
   {
     "id": "ee5f0612a8b4969f",
-    "date": "2026-07-25T10:44:01.605329+00:00",
+    "date": "2026-07-25T12:09:42.997502+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1608,7 +1579,7 @@
   },
   {
     "id": "208f4c2ee1635e3a",
-    "date": "2026-07-25T10:44:01.605197+00:00",
+    "date": "2026-07-25T12:09:42.997365+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1637,7 +1608,7 @@
   },
   {
     "id": "c1ec3a993f09ca92",
-    "date": "2026-07-25T10:44:01.605075+00:00",
+    "date": "2026-07-25T12:09:42.997204+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1666,7 +1637,7 @@
   },
   {
     "id": "f2a6d48a010a14bc",
-    "date": "2026-07-25T10:44:01.604934+00:00",
+    "date": "2026-07-25T12:09:42.997072+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1695,7 +1666,7 @@
   },
   {
     "id": "93c02c19e74026b5",
-    "date": "2026-07-25T10:44:01.604791+00:00",
+    "date": "2026-07-25T12:09:42.996935+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1724,7 +1695,7 @@
   },
   {
     "id": "e4f962b2c4e6f866",
-    "date": "2026-07-25T10:44:01.604512+00:00",
+    "date": "2026-07-25T12:09:42.996674+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1753,7 +1724,7 @@
   },
   {
     "id": "c782711ca5125268",
-    "date": "2026-07-25T10:44:01.604371+00:00",
+    "date": "2026-07-25T12:09:42.996532+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1782,7 +1753,7 @@
   },
   {
     "id": "21bb59857864ae9c",
-    "date": "2026-07-25T10:44:01.604239+00:00",
+    "date": "2026-07-25T12:09:42.996394+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1811,7 +1782,7 @@
   },
   {
     "id": "8f656f8c214e92cd",
-    "date": "2026-07-25T10:44:01.604105+00:00",
+    "date": "2026-07-25T12:09:42.996220+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1840,7 +1811,7 @@
   },
   {
     "id": "27de402d36342255",
-    "date": "2026-07-25T10:44:01.603961+00:00",
+    "date": "2026-07-25T12:09:42.996075+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1869,7 +1840,7 @@
   },
   {
     "id": "6518a1df8d61b19d",
-    "date": "2026-07-25T10:44:01.603800+00:00",
+    "date": "2026-07-25T12:09:42.995930+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1898,7 +1869,7 @@
   },
   {
     "id": "b9fc96dbdac09e97",
-    "date": "2026-07-25T10:44:01.603620+00:00",
+    "date": "2026-07-25T12:09:42.995768+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1927,7 +1898,7 @@
   },
   {
     "id": "288e937e71faa39e",
-    "date": "2026-07-25T10:44:01.603459+00:00",
+    "date": "2026-07-25T12:09:42.995609+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1956,7 +1927,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-07-25T10:44:01.603306+00:00",
+    "date": "2026-07-25T12:09:42.995457+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1989,7 +1960,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-07-25T10:44:01.603095+00:00",
+    "date": "2026-07-25T12:09:42.995213+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2017,6 +1988,209 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "12545370ac1c0068",
+    "date": "2026-07-25T10:44:03.809748+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL ZDI-26-447: Critical RCE in Heimdall Data Database Proxy Grants Root via CRLF Injection",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/news/zdi-26-447-critical-rce-in-heimdall-data-database-proxy-grants-root-via-crlf-injection",
+    "target": "CRITICAL ZDI-26-447",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/zdi-26-447-critical-rce-in-heimdall-data-database-proxy-grants-root-via-crlf-injection"
+      }
+    ]
+  },
+  {
+    "id": "1a48ee8a45463037",
+    "date": "2026-07-25T10:44:03.809629+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE CVE-2026-6875: Active Attacks on Self-Hosted ServiceNow; Cloud Protected Since April",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-6875-active-attacks-on-self-hosted-servicenow-cloud-protected-since-april",
+    "target": "CVE CVE-2026-6875",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-6875-active-attacks-on-self-hosted-servicenow-cloud-protected-since-april"
+      }
+    ]
+  },
+  {
+    "id": "96337f9d488f01d1",
+    "date": "2026-07-25T10:44:03.808936+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EncForge: JadePuffer Hits Irrecoverable AI Models With Agentic Ransomware ransomware",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://deafnews.it/en/news/ransomware/encforge-jadepuffer-hits-irrecoverable-ai-models-with-agentic-ransomware",
+    "target": "EncForge",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ransomware/encforge-jadepuffer-hits-irrecoverable-ai-models-with-agentic-ransomware"
+      }
+    ]
+  },
+  {
+    "id": "c56b5c760f55d4f1",
+    "date": "2026-07-25T10:14:26+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+    "summary": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no administrator rights, continuous integration (CI) runner access, victim interaction",
+    "article_text": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no administrator rights, continuous integration (CI) runner access, victim interaction, or access to another user's project. The public exploit is build-specific to GitLab 18.11.3 on x86-64; the underlying Oj bugs affect broader releases. The affected ranges are GitLab Community Edition (CE) and Enterprise Edition (EE) 15.2.0 through 18.10.7 , 18.11.0 through 18.11.4 , and 19.0.0 through 19.0.1 . The first fixed releases are 18.10.8 , 18.11.5 , and 19.0.2 . Oj is a high-performance JSON parser for Ruby with substantial native C code. Published gems 3.13.0 through 3.17.1 are vulnerable; 3.17.3 is the first published release containing both fixes. The flaws affect Free, Premium, and Ultimate. Ruby itself is not affected. Successful exploitation runs as git . Its effective reach depends on deployment isolation, but may include source code, Rails secrets, service credentials, CI/CD data, and internal services reachable from the application. GitLab.com was patched by June 10. Dedicated customers need no action. Self-managed operators should move to a supported release containing the fix. Helm and Operator users need to check the GitLab version inside the Webservice image, not only the chart or Operator version. depthfirst said it was unaware of in-the-wild exploitation as of July 24. Neither the depthfirst disclosure nor GitLab's June 10 release notes list CVE identifiers or CVSS scores for the two chain bugs. Neither provides a temporary workaround; both direct self-managed operators to upgrade. The Hacker News has asked GitLab about CVE status, classification, and exploitation evidence. It also asked depthfirst about exploit portability and whether a supported temporary mitigation exists. Responses are pending. depthfirst lists nine CVEs for other Oj flaws found in the same review. GitLab's notebook renderer passes repository-controlled .ipynb JSON to Oj::Parser.usual.parse inside a long-lived Puma worker. That sends attacker-controlled notebook data into Oj's native parser state inside GitLab's application process. depthfirst 's technical analysis shows how one bug controls a callback pointer, while the other leaks a heap address needed to narrow the address space layout randomization (ASLR) search. Oj stores nesting state in a fixed 1,024-byte stack but never checks whether the depth exceeds it. Deeply nested arrays can therefore write 0x01 bytes into adjacent parser state. The exploit corrupts buf.head , causing Oj to pass a forged interior pointer to realloc() . A later Ruby Array allocation reclaims the same 3,584-byte jemalloc region and overwrites p->start . Oj allocates a 65,565-byte object key, truncates its length to 29 in a signed 16-bit field, and returns 29 bytes containing the live key-allocation pointer. GitLab carries that pointer into the rendered notebook diff, giving the exploit the address leak needed to narrow the ASLR search. On the profiled two-worker GitLab 18.11.3 installation, the search usually took five to ten minutes. The researchers projected one to two hours across the widest mature-worker range. Two lexically ordered notebook files in one diffs_stream request keep both stages inside the same Puma worker, which reuses the process-global Oj parser. The first file corrupts the callback and raises an error that GitLab catches before continuing the diff. The next parse invokes the overwritten pointer and reaches system() through a build-specific gadget sequence. The public demonstration packages the chain in a local GitLab 18.11.3 x86-64 lab and makes the Puma worker connect back as git . depthfirst reported the Oj bugs on May 21, and the maintainer merged the fixes on May 27. Oj 3.17.3 shipped on June 4. The researchers reported the GitLab chain on June 5; depthfirst said GitLab confirmed it on June 8. GitLab released the fixed versions on June 10 and resolved the report on July 17, according to depthfirst. A review by The Hacker News found GitLab listed the Oj 3.17.3 bump under bug fixes rather than in the security-fix table and did not describe the notebook-diff RCE chain. Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scal",
+    "quick_summary": [
+      "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+    "target": "Researcher Publishes GitLab RCE",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html"
+      }
+    ]
+  },
+  {
+    "id": "9723d12a24709d7f",
+    "date": "2026-07-25T10:14:21+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+    "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting",
+    "article_text": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. Recent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting credentials for later use, attackers now synchronize their activity with victims in real time, authenticating against legitimate insurance portals as victims unknowingly complete the login process. The entire attack can unfold within a single browsing session. This shift highlights a broader trend across the cybersecurity landscape. As phishing campaigns become more sophisticated, simply identifying malicious websites and impersonation domains is no longer enough. Organizations increasingly need to understand the infrastructure, techniques, and operational workflows behind these attacks. Read the full report here : https://www.ctm360.com/reports/insuretrap-fake-insurance-phishing-account-hijacking Insurance providers have rapidly expanded their online services. Customers can now purchase policies, renew coverage, submit claims, manage accounts, update personal information, and complete payments entirely through digital portals. While this improves customer experience, it also creates an attractive environment for threat actors. Unlike traditional banking attacks that primarily target financial transactions, compromised insurance accounts often contain extensive personal information, identity documents, policy records, payment methods, and other sensitive customer data that can support fraud far beyond the initial compromise. During the investigation, a coordinated phishing operation targeting multiple insurance providers across several regions was identified. Rather than impersonating a single organization, the campaign reused the same operational infrastructure across numerous insurance brands, adapting language, branding, and content to match local markets. Saudi Arabia appeared to be the primary target, while additional activity was observed across Europe, the United States, and India. The infrastructure supporting these campaigns was equally disposable. Rather than relying on dedicated malicious hosting, operators frequently leveraged legitimate website builders and free hosting platforms such as GitHub Pages, Netlify, Hostinger, Wix, Lovable, and other cloud services. Randomized domains with little or no resemblance to insurance brands allowed campaigns to rotate rapidly while reducing the effectiveness of conventional brand-monitoring efforts. Phishing campaigns have long been used to steal sensitive information, including personal information, financial details, payment card data, insurance records, and account credentials. In many cases, the objective was to collect as much information as possible and exploit it later through account takeover, identity fraud, or financial abuse. Modern insurance phishing campaigns represent a significant evolution of this model. Rather than functioning as static data collection pages, these phishing portals actively engage with victims throughout the authentication process. As victims submit their information, attackers simultaneously use the collected data to interact with the legitimate insurance portal in real time, turning the phishing page into a live intermediary between the victim and the genuine service. This approach allows attackers to overcome authentication mechanisms that would traditionally limit the usefulness of stolen credentials. When the legitimate insurance provider sends a one-time password (OTP) or other verification challenge, the phishing page immediately prompts the victim to enter the same code under the guise of routine identity verification. The submitted OTP is then relayed to the legitimate portal before it expires, enabling attackers to complete the authentication process while the victim remains unaware. Instead of simply harvesting information for future use, these campaigns synchronize every stage of the login process, allowing attackers to validate credentials, satisfy multi-factor authentication requirements, and establish authenticated sessions in real time. The result is a far more effective form of phishing that transforms what was once a data collection exercise into an active account hijacking operation, significantly reducing the opportunity for victims or defenders to ",
+    "quick_summary": [
+      "For years, phishing campaigns targeting financial institutions followed the same playbook.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+    "target": "CTM360 Research Reveals Insurance",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html"
+      }
+    ]
+  },
+  {
+    "id": "5fd713669ff59a48",
+    "date": "2026-07-25T10:14:03+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+    "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling",
+    "article_text": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling unauthenticated remote code execution and deployment of hex-named JSP web shells under /Windchill/login/,\" according to a new coordinated advisory released by Ransom-ISAC along with eCrime.ch and DEFUSED. Upon gaining an initial foothold, the attackers have been found to conduct file system enumeration, stage engineering/design data, and ultimately carry out double extortion data theft. Targets of the campaign include manufacturing, automotive, aerospace, and retail sectors. It's suspected that threat actors are exploiting CVE-2026-12569 (CVSS score: 9.3), a critical security flaw in PTC Windmill that was added to the U.S. Cybersecurity and Infrastructure Security Agency's (CISA) Known Exploited Vulnerabilities (KEV) catalog late last month. In an advisory, PTC warned customers that it had \"received continued reports of heightened threat activity,\" adding that unknown attackers are exploiting the vulnerability to deploy JSP web shells against susceptible systems. \"In the observed intrusions, this RCE is chained with a separate pre-authentication information-disclosure defect in the FlexPLM WSDL endpoint (CVSS v3.1 7.5) to enable unauthenticated exploitation,\" researchers Brandon Parsons, Corsin Camichel, and Simo Kohonen said. Ransom-ISAC has shared four IP addresses as indicators of compromise (IoCs), all of which match those shared by PTC - The extortion emails appear to originate from previously compromised accounts and are sent to hundreds of users within an impacted organization, along with ways to contact the Cl0p ransomware crew. In a separate post on X, ReliaQuest said it observed threat actors actively exploiting CVE-2026-12569 to facilitate \"unauthenticated remote code execution and JSP web shell deployment for remote command execution and sensitive product data exfiltration.\" \"The actor behind these attacks remains unconfirmed. However, the observed tradecraft shares characteristics with previous Cl0p campaigns targeting enterprise applications and high-value data repositories,\" it added . The Cl0p gang has a storied history of going after security flaws in widely-used enterprise products to break into target organizations for data theft and extortion attacks. Previous campaigns mounted by the group have weaponized file transfer appliances , including those from Accellion FTA, GoAnywhere MFT, SolarWinds Serv-U FTP, Cleo, and MOVEit Transfer, as well as a vulnerability in Oracle E-Business Suite . Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data ext",
+      "Risk: ransomware/extortion, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+    "target": "Cl0p Affiliates Target Internet-Exposed",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html"
+      }
+    ]
+  },
+  {
+    "id": "5ac21664f46e9509",
+    "date": "2026-07-25T09:53:41+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+    "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis. \"The portal combined build generation, finance,",
+    "article_text": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis . \"The portal combined build generation, finance, victim chat, support, victim records, teams, and payout functions,\" the company said in an extensive report shared with The Hacker News. \"The service integrated access brokerage or access distribution with ransomware deployment. Administrators offered country-specific 'networks,' asked whether an affiliate would use personal or program-supplied access, and imposed two-to-three-day completion windows.\" Various analyses show that DevMan first emerged on the scene in April 2025 as an affiliate for Qilin, DragonForce, Apos, and RansomHub, before shifting to their own RaaS operation. The locker's DNA is \"unmistakably DragonForce,\" Vectra AI noted back in October 2025, highlighting the ransomware's shared lineage . In an interview with security researcher Jon DiMaggio published in October 2025, DevMan acknowledged that they worked with Conti and claimed they had developed a \"specialized SCADA locker\" to target an unnamed gas company that was designed to inflict progressive physical damage beyond encryption. Per the threat actor, the malware would \"push industrial control systems beyond their operating parameters, processors, memory, and thermal limits, forcing systems to ramp up and run hot until hardware failed.\" \"The threat actor is operating with a high-profile online presence and updating about developments, updates and general statements mainly in English and sometimes in Russian as well,\" the Israel National Cyber Directorate (INCD) said in a bulletin released last year. \"They often 'brag' about their achievements, to the point where they post write-ups that describe the way they gained access and performed the attack.\" DevMan's operations suffered a hit in June 2025 after a mysterious whistleblower calling themselves GangExposed publicly doxxed operator identities, causing a few affiliates to abandon the operation. DevMan also alleged that GangExposed attempted to extort them for 0.3 to 1 Bitcoin during their Telegram interactions. According to statistics on Ransomware.Live, the group has claimed 184 victims to date, with no new victims reported after February 4, 2026. Nearly 50 victims are located in the U.S., with technology, healthcare, financial services, professional services, and government sectors accounting for the most targeted. The affiliate portal associated with the operation, which originally revolved around builders, finance, victim chat, and help desk functions, has since received an upgrade. The third version (\"v3) of the platform released in January 2026 comes with support for structured victim records, life cycle states, team creation, invitation controls, per-victim build options, deadline tracking, revenue fields, and shared operational access. \"This progression indicates an effort to formalize affiliate workflows and manage multiple intrusions through a common platform rather than relying only on chat-based coordination,\" PRODAFT said. The cybersecurity company has identified five distinct roles within the DevMan operations - \"Affiliates were added to corporate chat after producing a first victim and were assigned an experienced curator,\" PRODAFT said. \"They could be removed after one month without a new victim. Team formation and disclosure of program affiliation required curator approval, which limited independent coordination and public association with the service.\" The core management also reserves the right to take over a conversation if an affiliate behaves inappropriately or fails to adhere to a commitment. The governance model reduces affiliate autonomy, while giving the administrators the power to enforce operational tempo and protect their revenue. The illicit proceeds obtained after successful extortion follow an 80-20% split, allowing the affiliate to earn a chunk of the profits. The v3 platform rules state that the ransom funds are sent to two wallets, one for the affiliate and one linked to the RaaS program. DevMan's stated targeting policy allows affiliates to strike entities outside the CIS countries and Serbia. It also excludes CIS consulates and CIS-linked companies, and lifts a previous re",
+    "quick_summary": [
+      "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to vic",
+      "Risk: ransomware/extortion, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+    "target": "DevMan RaaS Portal Centralizes",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html"
       }
     ]
   },
@@ -2104,35 +2278,6 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1uz8qh3/openwrt_preauth_remote_root_exploit/"
-      }
-    ]
-  },
-  {
-    "id": "c56b5c760f55d4f1",
-    "date": "2026-07-25T08:34:15+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-    "summary": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no administrator rights, continuous integration (CI) runner access, victim interaction",
-    "article_text": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no administrator rights, continuous integration (CI) runner access, victim interaction, or access to another user's project. The public exploit is build-specific to GitLab 18.11.3 on x86-64; the underlying Oj bugs affect broader releases. The affected ranges are GitLab Community Edition (CE) and Enterprise Edition (EE) 15.2.0 through 18.10.7 , 18.11.0 through 18.11.4 , and 19.0.0 through 19.0.1 . The first fixed releases are 18.10.8 , 18.11.5 , and 19.0.2 . Oj is a high-performance JSON parser for Ruby with substantial native C code. Published gems 3.13.0 through 3.17.1 are vulnerable; 3.17.3 is the first published release containing both fixes. The flaws affect Free, Premium, and Ultimate. Ruby itself is not affected. Successful exploitation runs as git . Its effective reach depends on deployment isolation, but may include source code, Rails secrets, service credentials, CI/CD data, and internal services reachable from the application. GitLab.com was patched by June 10. Dedicated customers need no action. Self-managed operators should move to a supported release containing the fix. Helm and Operator users need to check the GitLab version inside the Webservice image, not only the chart or Operator version. depthfirst said it was unaware of in-the-wild exploitation as of July 24. Neither the depthfirst disclosure nor GitLab's June 10 release notes list CVE identifiers or CVSS scores for the two chain bugs. Neither provides a temporary workaround; both direct self-managed operators to upgrade. The Hacker News has asked GitLab about CVE status, classification, and exploitation evidence. It also asked depthfirst about exploit portability and whether a supported temporary mitigation exists. Responses are pending. depthfirst lists nine CVEs for other Oj flaws found in the same review. GitLab's notebook renderer passes repository-controlled .ipynb JSON to Oj::Parser.usual.parse inside a long-lived Puma worker. That sends attacker-controlled notebook data into Oj's native parser state inside GitLab's application process. depthfirst 's technical analysis shows how one bug controls a callback pointer, while the other leaks a heap address needed to narrow the address space layout randomization (ASLR) search. Oj stores nesting state in a fixed 1,024-byte stack but never checks whether the depth exceeds it. Deeply nested arrays can therefore write 0x01 bytes into adjacent parser state. The exploit corrupts buf.head , causing Oj to pass a forged interior pointer to realloc() . A later Ruby Array allocation reclaims the same 3,584-byte jemalloc region and overwrites p->start . Oj allocates a 65,565-byte object key, truncates its length to 29 in a signed 16-bit field, and returns 29 bytes containing the live key-allocation pointer. GitLab carries that pointer into the rendered notebook diff, giving the exploit the address leak needed to narrow the ASLR search. On the profiled two-worker GitLab 18.11.3 installation, the search usually took five to ten minutes. The researchers projected one to two hours across the widest mature-worker range. Two lexically ordered notebook files in one diffs_stream request keep both stages inside the same Puma worker, which reuses the process-global Oj parser. The first file corrupts the callback and raises an error that GitLab catches before continuing the diff. The next parse invokes the overwritten pointer and reaches system() through a build-specific gadget sequence. The public demonstration packages the chain in a local GitLab 18.11.3 x86-64 lab and makes the Puma worker connect back as git . depthfirst reported the Oj bugs on May 21, and the maintainer merged the fixes on May 27. Oj 3.17.3 shipped on June 4. The researchers reported the GitLab chain on June 5; depthfirst said GitLab confirmed it on June 8. GitLab released the fixed versions on June 10 and resolved the report on July 17, according to depthfirst. A review by The Hacker News found GitLab listed the Oj 3.17.3 bump under bug fixes rather than in the security-fix table and did not describe the notebook-diff RCE chain. Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scal",
-    "quick_summary": [
-      "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-    "target": "Researcher Publishes GitLab RCE",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html"
       }
     ]
   },
@@ -26438,151 +26583,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/asyncapi-npm-packages-with-2m-weekly-downloads/"
-      }
-    ]
-  },
-  {
-    "id": "4f03864d542bba62",
-    "date": "2026-07-14T15:11:46+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Miasma Turns Trusted npm Packages Into Persistent Backdoors for Developer Machines",
-    "summary": "Miasma has returned through software packages that many developers would normally trust. Four AsyncAPI packages on npm were altered to deliver a Miasma v3 payload, creating a route for long-term remote access. The campaign does not depend on malware running when a package is installed. Instead, hidden code activates when an application, generator, or build […] The post Miasma Turns Trusted npm Packages Into Persistent Backdoors for Developer Machines appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Miasma has returned through software packages that many developers would normally trust.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/miasma-turns-trusted-npm-packages-into-persistent-backdoors/",
-    "target": "Miasma Turns Trusted Packages",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/miasma-turns-trusted-npm-packages-into-persistent-backdoors/"
-      }
-    ]
-  },
-  {
-    "id": "8366d97a3a939239",
-    "date": "2026-07-14T15:05:30+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Maximizing SOC Efficiency: How to Eliminate Alert Overload and Cut MTTR by 21 Minutes Per Case",
-    "summary": "Security Operations Centers (SOCs) face overwhelming challenges not due to a lack of alerts but because each alert requires a new investigation. Analysts must validate indicators, identify malicious behavior, assess the scope of threats, and determine whether to contain or escalate cases, all while navigating disconnected tools. This fragmented approach wastes time, contributes to alert […] The post Maximizing SOC Efficiency: How to Eliminate Alert Overload and Cut MTTR by 21 Minutes Per Case appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Security Operations Centers (SOCs) face overwhelming challenges not due to a lack of alerts but because each alert requires a new investigation.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/maximizing-soc-efficiency/",
-    "target": "Maximizing SOC Efficiency",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/maximizing-soc-efficiency/"
-      }
-    ]
-  },
-  {
-    "id": "bdc2b784950f15cf",
-    "date": "2026-07-14T15:03:12.841343+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "The Gentlemen Climbs RaaS Rankings: 90% Payout and 580 Victims in One Year ransomware",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://deafnews.it/en/news/ransomware/the-gentlemen-climbs-raas-rankings-90-payout-and-580-victims-in-one-year",
-    "target": "Gentlemen Climbs RaaS Rankings",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ransomware/the-gentlemen-climbs-raas-rankings-90-payout-and-580-victims-in-one-year"
-      }
-    ]
-  },
-  {
-    "id": "30376000a146687e",
-    "date": "2026-07-14T14:48:39+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Turkish Banks Targeted by 8,400 Phishing Domains and 6,600 Social Media Scam Ads",
-    "summary": "Turkey’s banking customers are facing a large fraud campaign built around fake websites and social media advertisements. Criminals are abusing trusted financial brands to draw people into credential theft, fake loan offers, and other scams designed to steal money quickly. The operation is notable for its scale and speed, as more than 8,400 phishing domains […] The post Turkish Banks Targeted by 8,400 Phishing Domains and 6,600 Social Media Scam Ads appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Turkey’s banking customers are facing a large fraud campaign built around fake websites and social media advertisements.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/turkish-banks-targeted-by-8400-phishing-domains/",
-    "target": "Turkish Banks Targeted 8400",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/turkish-banks-targeted-by-8400-phishing-domains/"
-      }
-    ]
-  },
-  {
-    "id": "341666fba24ab4d3",
-    "date": "2026-07-14T14:28:59+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "xAI Grok Build CLI Uploaded Entire Git Repositories and Unredacted .env Secrets to Cloud Storage",
-    "summary": "A wire-level analysis of xAI’s Grok Build CLI revealed that version 0.2.93 transmitted unredacted file contents, including secrets from .env files, and uploaded full Git repositories along with their commit history to cloud storage These findings are based on traffic captured through a proxy from controlled test repositories using fake canary credentials. Security researcher Cereblab […] The post xAI Grok Build CLI Uploaded Entire Git Repositories and Unredacted .env Secrets to Cloud Storage appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A wire-level analysis of xAI’s Grok Build CLI revealed that version 0.2.93 transmitted unredacted file contents, including secrets from .env files, and uploaded full Git repositories along with their commit history to cl",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/xai-grok-build-cloud-storage/",
-    "target": "Grok Build CLI Uploaded",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/xai-grok-build-cloud-storage/"
       }
     ]
   }
