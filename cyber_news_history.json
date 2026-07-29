@@ -1,7 +1,7 @@
 [
   {
     "id": "519c83c44f5078b3",
-    "date": "2026-07-29T09:49:16.517040+00:00",
+    "date": "2026-07-29T12:20:16.357822+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "b628ac901bfd2562",
-    "date": "2026-07-29T09:49:16.516900+00:00",
+    "date": "2026-07-29T12:20:16.357720+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -63,7 +63,7 @@
   },
   {
     "id": "9bd07fa7a29c94f4",
-    "date": "2026-07-29T09:49:16.516780+00:00",
+    "date": "2026-07-29T12:20:16.357601+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -92,7 +92,7 @@
   },
   {
     "id": "da8c0199df20fd50",
-    "date": "2026-07-29T09:49:16.516659+00:00",
+    "date": "2026-07-29T12:20:16.357491+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -121,7 +121,7 @@
   },
   {
     "id": "94364d6c6eb19543",
-    "date": "2026-07-29T09:49:16.516546+00:00",
+    "date": "2026-07-29T12:20:16.357390+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -150,7 +150,7 @@
   },
   {
     "id": "7ac66e1687ea7a81",
-    "date": "2026-07-29T09:49:16.516419+00:00",
+    "date": "2026-07-29T12:20:16.357271+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -179,7 +179,7 @@
   },
   {
     "id": "97d88778a1ffad53",
-    "date": "2026-07-29T09:49:16.516305+00:00",
+    "date": "2026-07-29T12:20:16.357166+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -208,7 +208,7 @@
   },
   {
     "id": "8cd1e3271751f8cb",
-    "date": "2026-07-29T09:49:16.516189+00:00",
+    "date": "2026-07-29T12:20:16.357063+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -237,7 +237,7 @@
   },
   {
     "id": "b780fd0bcb4b3bee",
-    "date": "2026-07-29T09:49:16.516072+00:00",
+    "date": "2026-07-29T12:20:16.356962+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +266,7 @@
   },
   {
     "id": "6c5c6672340c5cc6",
-    "date": "2026-07-29T09:49:16.515925+00:00",
+    "date": "2026-07-29T12:20:16.356851+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,7 +295,7 @@
   },
   {
     "id": "679ef8954834423f",
-    "date": "2026-07-29T09:49:16.515806+00:00",
+    "date": "2026-07-29T12:20:16.356746+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -324,12 +324,12 @@
   },
   {
     "id": "db5ae4d0a95a1fa3",
-    "date": "2026-07-29T09:49:16.514308+00:00",
+    "date": "2026-07-29T12:20:16.355263+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 CRITICAL · 5 ZERO-DAY · 6 CVE · 4 EXPLOIT IN THE LAST 24H →",
+    "title": "// 2 CRITICAL · 4 ZERO-DAY · 5 CVE · 4 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -353,7 +353,7 @@
   },
   {
     "id": "9bfd46b8df533c12",
-    "date": "2026-07-29T09:49:15.779758+00:00",
+    "date": "2026-07-29T12:20:15.898385+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -421,41 +421,8 @@
     ]
   },
   {
-    "id": "9d06822acbacfb99",
-    "date": "2026-07-29T09:49:15.005573+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Dolphin X: New Windows Stealer Uses AI to Rank Which Victims Are Worth Robbing",
-    "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
-    "article_text": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. The malware was analyzed by Varonis Threat Labs researcher Daniel Kelley, who spotted it being advertised on a cybercrime forum by a vendor using the alias \"Kontraktnik,\" promoting it as an all-in-one remote access trojan. According to Varonis, the operator panel lists 329 features across ten categories, including a credential-stealing feature that claims to target more than 300 applications. However, one of its notable features is an \"AI Profiler\" that analyzes information collected from infected computers and assigns each victim a risk score. \"Beyond credential collection, the panel includes a surveillance tab containing the AI Profiler. The seller describes it as an 'AI behavioral profiler with app usage tracking, risk score, and daily summary,'\" explains Varonis. Varonis obtained the Dolphin X operator panel and analyzed it in an isolated lab, noting they examined the malware builder and its network traffic rather than executing a live Dolphin X agent on an infected computer. Credential-stealing malware can allow attackers to steal credentials for hundreds, if not thousands, of online accounts, making it difficult to manually review them all for high-value targets. Dolphin X’s AI Profiler claims to automate this process by acting as a sorting system that scores, categorizes, and ranks infected computers so that the attackers know which are the most high-value to target further. The operator panel claims that the AI Profiler can process victims’ application usage, risk scores and tags, browser domains, and installed software to produce ranked profiles. These scores are given to attackers in daily summaries containing ranked victim profiles, allowing them to prioritize machines that may provide access to valuable accounts, cryptocurrency, corporate networks, cloud environments, or production systems. \"In practice, the feature appears designed to help operators triage victims,\" explains Kelley. Varonis researcher Daniel Kelley confirmed to BleepingComputer that the AI Profiler is present in the operator panel and discovered technical strings supporting the profiling workflow, including Auto-Start AI Profiler , ProfilerStart , ProfilerGetData , risk_score , risk_factors , and categoryusage . The researcher said these strings indicate that the profiling workflow is actually included and that the panel can process the data needed to rank victims. However, Varonis could not determine what artificial intelligence engine is being used to produce the rankings without analyzing a live Dolphin X malware sample. The malware also operates as a credential stealer, with the operator panel showing that it targets more than 300 applications, including 9 Chromium and Gecko browsers, 100 cryptocurrency wallet extensions, 65 desktop crypto wallets, 10 password managers, and more than 30 cloud command-line tools. Dolphin X also claims to steal .env files, SSH keys, cloud access tokens, browser login data, cryptocurrency wallet information, and other developer credentials. As Varonis analyzed the Dolphin X operator panel, builder, and related network traffic rather than a live malware sample executing on an infected machine, the malware’s advertised collection capabilities were not independently confirmed by the researcher. Artificial intelligence has become a popular tool among threat actors, with it being used to launch cybercrime services such as SpamGPT and AI agents conducting autonomous cyberattacks . Dolphin X platform instead uses AI to solve an operational problem by processing large amounts of stolen data and automatically sorting infected users into highest-value victims. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. New macOS malware embeds fake errors to confuse AI analysis tools FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires How enterprise GenAI can amplify ransomware risk — and how to contain it We built a vulnerability vending machine: AI tokens in, zero-days out Microsoft 365 outage affects Teams, SharePoint and other services Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes Hugging Face warns an autonomous AI",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.technadu.com/dolphin-x-new-windows-stealer-uses-ai-to-rank-which-victims-are-worth-robbing/631754/",
-    "target": "Dolphin",
-    "type": "Malware",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/dolphin-x-new-windows-stealer-uses-ai-to-rank-which-victims-are-worth-robbing/631754/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/"
-      }
-    ]
-  },
-  {
     "id": "72dfbb783aa1a131",
-    "date": "2026-07-29T09:49:15.005436+00:00",
+    "date": "2026-07-29T12:20:15.138338+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -484,7 +451,7 @@
   },
   {
     "id": "5d144d963622d317",
-    "date": "2026-07-29T09:49:15.005310+00:00",
+    "date": "2026-07-29T12:20:15.138226+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -513,7 +480,7 @@
   },
   {
     "id": "666a0d6bf326717c",
-    "date": "2026-07-29T09:49:15.005179+00:00",
+    "date": "2026-07-29T12:20:15.138109+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -542,7 +509,7 @@
   },
   {
     "id": "bc1bdf11a37f7ab1",
-    "date": "2026-07-29T09:49:15.005044+00:00",
+    "date": "2026-07-29T12:20:15.137990+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -571,7 +538,7 @@
   },
   {
     "id": "2c3551cc0e259340",
-    "date": "2026-07-29T09:49:15.004886+00:00",
+    "date": "2026-07-29T12:20:15.137867+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -604,7 +571,7 @@
   },
   {
     "id": "b0b4a827efa67c6b",
-    "date": "2026-07-29T09:49:15.004649+00:00",
+    "date": "2026-07-29T12:20:15.137637+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -633,7 +600,7 @@
   },
   {
     "id": "979b49e8969cf04c",
-    "date": "2026-07-29T09:49:15.004515+00:00",
+    "date": "2026-07-29T12:20:15.137508+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -662,7 +629,7 @@
   },
   {
     "id": "908457cb1d1bccf3",
-    "date": "2026-07-29T09:49:15.004368+00:00",
+    "date": "2026-07-29T12:20:15.137375+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -691,7 +658,7 @@
   },
   {
     "id": "7a9776b0260c88f5",
-    "date": "2026-07-29T09:49:15.004226+00:00",
+    "date": "2026-07-29T12:20:15.137244+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -719,8 +686,37 @@
     ]
   },
   {
+    "id": "7bba3c2fa29828ec",
+    "date": "2026-07-29T12:20:15.137078+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Mirage Kitten's New Malware Toolkit Targets Aerospace and Defense Across Middle East and Africa",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/mirage-kittens-new-malware-toolkit-targets-aerospace-and-defense-across-middle-east-and-africa/632036/",
+    "target": "Mirage Kittens Malware Toolkit",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/mirage-kittens-new-malware-toolkit-targets-aerospace-and-defense-across-middle-east-and-africa/632036/"
+      }
+    ]
+  },
+  {
     "id": "191256ce0155a788",
-    "date": "2026-07-29T09:49:15.003937+00:00",
+    "date": "2026-07-29T12:20:15.136873+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -749,7 +745,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-07-29T09:49:15.003787+00:00",
+    "date": "2026-07-29T12:20:15.136729+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -778,7 +774,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-07-29T09:49:15.003644+00:00",
+    "date": "2026-07-29T12:20:15.136586+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -807,7 +803,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-29T09:49:15.003456+00:00",
+    "date": "2026-07-29T12:20:15.136411+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -836,7 +832,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-07-29T09:49:15.003325+00:00",
+    "date": "2026-07-29T12:20:15.136290+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -865,7 +861,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-07-29T09:49:15.003178+00:00",
+    "date": "2026-07-29T12:20:15.136150+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -894,7 +890,7 @@
   },
   {
     "id": "02220f09df8df84c",
-    "date": "2026-07-29T09:49:15.003017+00:00",
+    "date": "2026-07-29T12:20:15.136010+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -923,7 +919,7 @@
   },
   {
     "id": "cfcd7be93d0aa926",
-    "date": "2026-07-29T09:49:15.002843+00:00",
+    "date": "2026-07-29T12:20:15.135875+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -952,7 +948,7 @@
   },
   {
     "id": "a63286e4bf0c078f",
-    "date": "2026-07-29T09:49:15.002699+00:00",
+    "date": "2026-07-29T12:20:15.135739+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -980,37 +976,8 @@
     ]
   },
   {
-    "id": "7bba3c2fa29828ec",
-    "date": "2026-07-29T09:49:15.002391+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Mirage Kitten's New Malware Toolkit Targets Aerospace and Defense Across Middle East and Africa",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/mirage-kittens-new-malware-toolkit-targets-aerospace-and-defense-across-middle-east-and-africa/632036/",
-    "target": "Mirage Kittens Malware Toolkit",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/mirage-kittens-new-malware-toolkit-targets-aerospace-and-defense-across-middle-east-and-africa/632036/"
-      }
-    ]
-  },
-  {
     "id": "47182c9aef963d3a",
-    "date": "2026-07-29T09:49:15.002248+00:00",
+    "date": "2026-07-29T12:20:15.135418+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1039,7 +1006,7 @@
   },
   {
     "id": "351e1cdac53ce066",
-    "date": "2026-07-29T09:49:15.002064+00:00",
+    "date": "2026-07-29T12:20:15.135251+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1067,8 +1034,37 @@
     ]
   },
   {
+    "id": "a2670333e205d47a",
+    "date": "2026-07-29T12:20:15.135060+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Everest Hackers Leak 270,000+ Files Reportedly from Stadler Rail Breach After Swiss Firm Refuses to Pay, Including CCTV Footage, Configurations",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/everest-hackers-leak-270000-files-reportedly-from-stadler-rail-breach-after-swiss-firm-refuses-to-pay-including-cctv-footage-configurations/632103/",
+    "target": "Everest Leak 270000 Files",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/everest-hackers-leak-270000-files-reportedly-from-stadler-rail-breach-after-swiss-firm-refuses-to-pay-including-cctv-footage-configurations/632103/"
+      }
+    ]
+  },
+  {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-29T09:49:14.998671+00:00",
+    "date": "2026-07-29T12:20:15.131142+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1097,7 +1093,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-29T09:49:14.997763+00:00",
+    "date": "2026-07-29T12:20:15.130226+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1126,7 +1122,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-29T09:49:14.997527+00:00",
+    "date": "2026-07-29T12:20:15.129962+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1154,37 +1150,8 @@
     ]
   },
   {
-    "id": "d80e25a1ee4f5eac",
-    "date": "2026-07-29T09:49:14.855208+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Keeping private namespaces private - Quad9 blog",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Keeping private namespaces private - Quad9 blog",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uzhprd/keeping_private_namespaces_private_quad9_blog/",
-    "target": "Keeping Quad9",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uzhprd/keeping_private_namespaces_private_quad9_blog/"
-      }
-    ]
-  },
-  {
     "id": "aa6fc0449a76e756",
-    "date": "2026-07-29T09:49:14.855087+00:00",
+    "date": "2026-07-29T12:20:14.912970+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1229,7 +1196,7 @@
   },
   {
     "id": "8fa57d9fcc2cae76",
-    "date": "2026-07-29T09:49:14.854931+00:00",
+    "date": "2026-07-29T12:20:14.912861+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1258,7 +1225,7 @@
   },
   {
     "id": "731a4807a8099aaa",
-    "date": "2026-07-29T09:49:14.854806+00:00",
+    "date": "2026-07-29T12:20:14.912759+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1291,7 +1258,7 @@
   },
   {
     "id": "451b1bb5012b7430",
-    "date": "2026-07-29T09:49:14.854660+00:00",
+    "date": "2026-07-29T12:20:14.912635+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1320,7 +1287,7 @@
   },
   {
     "id": "f6ed439b216cb228",
-    "date": "2026-07-29T09:49:14.854509+00:00",
+    "date": "2026-07-29T12:20:14.912500+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1349,7 +1316,7 @@
   },
   {
     "id": "b64c9cb77e430403",
-    "date": "2026-07-29T09:49:14.854377+00:00",
+    "date": "2026-07-29T12:20:14.912385+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1378,7 +1345,7 @@
   },
   {
     "id": "3e3cbd0b558843bb",
-    "date": "2026-07-29T09:49:14.854241+00:00",
+    "date": "2026-07-29T12:20:14.912273+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1407,7 +1374,7 @@
   },
   {
     "id": "8cd1db9e003932e1",
-    "date": "2026-07-29T09:49:14.854109+00:00",
+    "date": "2026-07-29T12:20:14.912165+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1436,7 +1403,7 @@
   },
   {
     "id": "ee5f0612a8b4969f",
-    "date": "2026-07-29T09:49:14.853978+00:00",
+    "date": "2026-07-29T12:20:14.912062+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1465,7 +1432,7 @@
   },
   {
     "id": "208f4c2ee1635e3a",
-    "date": "2026-07-29T09:49:14.853826+00:00",
+    "date": "2026-07-29T12:20:14.911954+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1494,7 +1461,7 @@
   },
   {
     "id": "c1ec3a993f09ca92",
-    "date": "2026-07-29T09:49:14.853706+00:00",
+    "date": "2026-07-29T12:20:14.911855+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1523,7 +1490,7 @@
   },
   {
     "id": "f2a6d48a010a14bc",
-    "date": "2026-07-29T09:49:14.853570+00:00",
+    "date": "2026-07-29T12:20:14.911741+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1552,7 +1519,7 @@
   },
   {
     "id": "e4f962b2c4e6f866",
-    "date": "2026-07-29T09:49:14.853437+00:00",
+    "date": "2026-07-29T12:20:14.911616+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1581,7 +1548,7 @@
   },
   {
     "id": "c782711ca5125268",
-    "date": "2026-07-29T09:49:14.853296+00:00",
+    "date": "2026-07-29T12:20:14.911495+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1610,7 +1577,7 @@
   },
   {
     "id": "8f656f8c214e92cd",
-    "date": "2026-07-29T09:49:14.853155+00:00",
+    "date": "2026-07-29T12:20:14.911377+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1639,7 +1606,7 @@
   },
   {
     "id": "b9fc96dbdac09e97",
-    "date": "2026-07-29T09:49:14.853003+00:00",
+    "date": "2026-07-29T12:20:14.911254+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1668,7 +1635,7 @@
   },
   {
     "id": "704d93df7ce3abcf",
-    "date": "2026-07-29T09:49:14.852831+00:00",
+    "date": "2026-07-29T12:20:14.911121+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1697,7 +1664,7 @@
   },
   {
     "id": "69c13ffc63be2662",
-    "date": "2026-07-29T09:49:14.852699+00:00",
+    "date": "2026-07-29T12:20:14.911013+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1726,7 +1693,7 @@
   },
   {
     "id": "644c98cdd749985f",
-    "date": "2026-07-29T09:49:14.852558+00:00",
+    "date": "2026-07-29T12:20:14.910898+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1755,7 +1722,7 @@
   },
   {
     "id": "8792d8d32021afa0",
-    "date": "2026-07-29T09:49:14.852412+00:00",
+    "date": "2026-07-29T12:20:14.910772+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1784,7 +1751,7 @@
   },
   {
     "id": "19ea21b7eb7b5b86",
-    "date": "2026-07-29T09:49:14.852242+00:00",
+    "date": "2026-07-29T12:20:14.910598+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1812,8 +1779,37 @@
     ]
   },
   {
+    "id": "13c169fecc479de5",
+    "date": "2026-07-29T12:20:14.910476+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Your House Has an FFmpeg Problem - elttam",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Your House Has an FFmpeg Problem - elttam",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v9uffn/your_house_has_an_ffmpeg_problem_elttam/",
+    "target": "Your House Has FFmpeg",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v9uffn/your_house_has_an_ffmpeg_problem_elttam/"
+      }
+    ]
+  },
+  {
     "id": "576fd85aff13b062",
-    "date": "2026-07-29T09:49:14.852094+00:00",
+    "date": "2026-07-29T12:20:14.910350+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1842,7 +1838,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-07-29T09:49:14.851920+00:00",
+    "date": "2026-07-29T12:20:14.910219+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1875,7 +1871,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-07-29T09:49:14.851741+00:00",
+    "date": "2026-07-29T12:20:14.910003+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1903,6 +1899,474 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "1550cb04ee21b625",
+    "date": "2026-07-29T12:17:14+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "ThreatLocker Raises $190 Million in Series F Funding",
+    "summary": "The company was previously valued at $1.6 billion, and the latest raise has significantly increased that valuation. The post ThreatLocker Raises $190 Million in Series F Funding appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The company was previously valued at $1.6 billion, and the latest raise has significantly increased that valuation.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/",
+    "target": "ThreatLocker Raises 190 Million",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/"
+      }
+    ]
+  },
+  {
+    "id": "d88dc0a73e62ad2e",
+    "date": "2026-07-29T12:05:36+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Fake Recruiters Target Web3 Developers Through Trusted Bitbucket and npm Workflows",
+    "summary": "A new wave of job scams is hitting Web3 developers who are simply looking for their next role. Attackers pose as recruiters, start friendly chats about interviews, and then steer candidates toward a fake meeting tool that feels completely normal for remote hiring. The lure looks polished. Victims are told to install “Relay,” billed as […] The post Fake Recruiters Target Web3 Developers Through Trusted Bitbucket and npm Workflows appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A new wave of job scams is hitting Web3 developers who are simply looking for their next role.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/fake-recruiter-web3-developers/",
+    "target": "Fake Recruiters Target Web3",
+    "type": "Phishing / Scam",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/fake-recruiter-web3-developers/"
+      }
+    ]
+  },
+  {
+    "id": "95ad963677c26f1c",
+    "date": "2026-07-29T11:42:38+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
+    "summary": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion. The post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
+    "target": "Critical Escape Vulnerability Patched",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/"
+      }
+    ]
+  },
+  {
+    "id": "722ef2070c66aa5e",
+    "date": "2026-07-29T11:27:46+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "AsyncAPI Malware Contains Modules to Steal GitHub, npm, Cloud and AI API Credentials",
+    "summary": "A dangerous supply chain attack struck the AsyncAPI project on the npm registry, putting developers and automated build systems at risk. Attackers republished five package versions in about ninety minutes on July 14, 2026. Each version carried the same hidden loader that runs as soon as the code is imported. The malware does not rely […] The post AsyncAPI Malware Contains Modules to Steal GitHub, npm, Cloud and AI API Credentials appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A dangerous supply chain attack struck the AsyncAPI project on the npm registry, putting developers and automated build systems at risk.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/asyncapi-malware-contains-modules/",
+    "target": "AsyncAPI Malware Contains Modules",
+    "type": "Malware",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/asyncapi-malware-contains-modules/"
+      }
+    ]
+  },
+  {
+    "id": "1b47beeab7fc05c4",
+    "date": "2026-07-29T11:16:14+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
+    "summary": "Broadcom has released a critical security advisory, VMSA-2026-0006, addressing multiple high-impact vulnerabilities across core VMware virtualization platforms, including vCenter, ESX, Workstation, Fusion, Cloud Foundation, and several Telco Cloud offerings. The flaws range from authentication bypass and directory traversal in vCenter to host-level code execution and insufficient logging issues in ESX, with CVSSv3 scores spanning 2.7 […] The post Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Broadcom has released a critical security advisory, VMSA-2026-0006, addressing multiple high-impact vulnerabilities across core VMware virtualization platforms, including vCenter, ESX, Workstation, Fusion, Cloud Foundati",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/",
+    "target": "Critical VMware Allow Attackers",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/"
+      }
+    ]
+  },
+  {
+    "id": "83a9a26f4103c17d",
+    "date": "2026-07-29T11:12:19+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "These near-mint ASUS Chromebook refurbs are only $145",
+    "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade \"A\" rating, but it still only costs $144.97 (reg. $369.99) on sale. [...]",
+    "article_text": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade “A” rating, but it still only costs $144.97 (reg. $369.99) on sale. This is a Grade “A” refurbished Chromebook, so it arrives in near-mint shape with minimal to no scuffing on the case. The screen is a 10.5-inch WUXGA touchscreen at 1920×1200, and it hits 400 nits with 118% sRGB coverage, so text stays sharp, and colors hold up in a bright room. Inside, there’s a MediaTek Kompanio 520 with 8GB of RAM. Storage is a 128GB eMMC drive. That combination handles Chrome OS, a stack of browser tabs, and streaming without stalling. It’s a great machine for lightweight tasks and portability, but that’s not all it can do. The detachable keyboard and magnetic stand cover let you drop the screen off and use it as a tablet in seconds. A push-pop stylus charges fast and stores right in the body, so you’re not hunting for it or leaving it behind on accident. Dual 5MP cameras cover video calls and quick captures. The chassis is military-grade aluminum made with 30% recycled material, and it meets MIL-STD 810H durability standards. Battery life runs up to 12 hours, so a full workday or a long flight won’t leave you chasing an outlet. Wi-Fi 6 and Bluetooth 5.3 keep connections quick, and you get a USB-C port plus a headphone jack. A 90-day parts and labor warranty from a third party is included. Get a 2-in-1 computer that works on the couch and at the desk without paying new-hardware prices. Until August 9 at 11:59 p.m. PT, get a grade “A” refurbished ASUS Chromebook CM30 on sale for $144.97. Disclosure: This is a StackCommerce deal in partnership with BleepingComputer.com. In order to participate in this deal or giveaway you are required to register an account in our StackCommerce store. To learn more about how StackCommerce handles your registration information please see the StackCommerce Privacy Policy . Furthermore, BleepingComputer.com earns a commission for every sale made through StackCommerce. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. This refurbished 2-in-1 Chromebook with stylus is only $145 through 7/19 This open-box ASUS detachable Chromebook is $150 in this deal A Refurbished Lenovo Chromebook built to take a beating — $55 GitHub, PyPI add time-based defenses against supply chain attacks Ernst & Young data breach claimed by ShinyHunters extortion gang Rev5 is ending. See what your FedRAMP 20x transition really requires Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Your Scanners Are Green. Your Pipeline Might Not Be. Here's How to Close the Gap. AI agents can speed up ransomware attacks. See how Acronis helps reduce the risk. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Buying a new computer in 2026 is a unique experience.",
+      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+    "target": "These ASUS Chromebook 145",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/"
+      }
+    ]
+  },
+  {
+    "id": "7795eb75dde516fc",
+    "date": "2026-07-29T11:04:33+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "VulnGym Uses AI-Trained APT Attackers to Stress-Test Enterprise Patching Strategies",
+    "summary": "A new cybersecurity research tool called VulnGym utilizes reinforcement learning to simulate AI-trained advanced persistent threat (APT) attackers targeting enterprise patching programs. This platform enables security teams to assess whether their vulnerability prioritization strategies can effectively counter realistic multi-stage attacks, rather than merely reducing the number of unpatched Common Vulnerabilities and Exposures (CVEs). VulnGym was […] The post VulnGym Uses AI-Trained APT Attackers to Stress-Test Enterprise Patching Strategies appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A new cybersecurity research tool called VulnGym utilizes reinforcement learning to simulate AI-trained advanced persistent threat (APT) attackers targeting enterprise patching programs.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/vulngym-uses-ai-apt-attackers/",
+    "target": "VulnGym Uses AI-Trained APT",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/vulngym-uses-ai-apt-attackers/"
+      }
+    ]
+  },
+  {
+    "id": "c00ee5e9f1d599ef",
+    "date": "2026-07-29T11:00:00+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
+    "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law. The principal security agency said the instant messaging platform \"failed to remove numerous channels, chats, and bots on the platform that are",
+    "article_text": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law. The principal security agency said the instant messaging platform \"failed to remove numerous channels, chats, and bots on the platform that are actively used by Ukrainian special services and by terrorist and extremist organizations to plan and coordinate acts of sabotage and terrorism, mass killings, and cyber-fraud operations within the Russian Federation.\" These actions have resulted in numerous casualties, including among women and children, as well as significant damage amounting to billions, it added. Durov has been charged in connection with an ongoing criminal investigation under Part 1.1 of Article 205.1 of the Criminal Code of the Russian Federation for aiding terrorist activity. He has also been placed on the international wanted list. The FSB said it also found numerous instances where Ukrainian special services employed a Telegram chatbot named \"Daivinchik/Leo-Dating, Chatting, and New Friends\" to recruit Russian citizens for sabotage and terrorist activities through what it said were deception and psychological manipulation. Per joint operations conducted with the Ministry of Internal Affairs and the Investigative Committee of Russia, 46 Russian citizens aged 12 to 22 were allegedly detained between July 2025 and the present. These individuals carried out armed attacks on law enforcement officers and acts of arson targeting transport, energy, communications, and financial infrastructure, it said. \"Additionally, they acted as couriers, transporting funds obtained from defrauded citizens to cryptocurrency exchange points for deposit into accounts controlled by the adversary,\" the agency said in a statement. Furthermore, it accused Ukrainian intelligence agents of using the \"Daivinchik\" Telegram dating service to masquerade as young women and initiate online contact with young Russian men. Upon building romantic relationships, the men are said to have sent the geolocation of a desired meeting place, such as a large shopping mall or an area near a critical facility, and pay for movie tickets, concert tickets, or gifts via phishing links shared by the agents. In the next phase, representatives of Ukrainian intelligence services posing as Russian law enforcement authorities or officials from Rosfinmonitoring, the Federal Financial Monitoring Service, would contact the men through foreign messaging apps. \"These impostors claimed that the funds sent by the men had ended up in the accounts of the Armed Forces of Ukraine and that the coordinates they had shared were being used by the enemy to plan missile strikes and drone attacks,\" the FSB alleged. \"The deceived and intimidated citizens - rendered unable to critically assess the situation due to psychological pressure - were then coerced under threat of criminal prosecution into carrying out armed attacks and acts of arson. These actions were ostensibly framed as checks on the counter-terrorism security of the targeted facilities or as participation in other 'pseudo-operational activities.'\" In response, Telegram's official account on X posted a photo of the Telegram founder giving the middle finger. Durov, who lives in Dubai, has not publicly commented on the development. The charges come as Russia introduced a number of restrictions on Telegram, including throttling its use at the start of the year followed by a near-complete blockade in April 2026. Almost two years ago, Durov was also arrested and charged in France for failing to tackle illicit activity on the popular messaging platform. Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in v",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
+    "target": "Russia Charges Telegram Founder",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html"
+      }
+    ]
+  },
+  {
+    "id": "1824ed55d7f369e5",
+    "date": "2026-07-29T10:59:33+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "A Leaked Android RAT Is Powering 170 Servers and Its Successor Is Already Online",
+    "summary": "A leaked Android remote access trojan called Flying Eagle is being used across a large and growing criminal network. The toolkit lets operators create fake Android apps, take control of infected phones, and steal information that can lead to financial fraud. The campaign used apps disguised as Chinese Public Security Bureau services to reach potential […] The post A Leaked Android RAT Is Powering 170 Servers and Its Successor Is Already Online appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A leaked Android remote access trojan called Flying Eagle is being used across a large and growing criminal network.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/a-leaked-android-rat/",
+    "target": "Leaked Android RAT Powering",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/a-leaked-android-rat/"
+      }
+    ]
+  },
+  {
+    "id": "168a94ee50bdc9e4",
+    "date": "2026-07-29T10:58:44+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "US, Australia Release OT Isolation Guidance for Critical Infrastructure",
+    "summary": "The guidance details steps organizations can take to isolate vital OT and supporting systems, and operate in isolation for an extended period. The post US, Australia Release OT Isolation Guidance for Critical Infrastructure appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The guidance details steps organizations can take to isolate vital OT and supporting systems, and operate in isolation for an extended period.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/",
+    "target": "Australia Release Isolation Guidance",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/"
+      }
+    ]
+  },
+  {
+    "id": "5d4d667943284c7d",
+    "date": "2026-07-29T10:42:05+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "CISA Releases Checklist for Critical Infrastructure Organizations to Isolate Vital Systems",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Australian Signals Directorate’s Australian Cyber Security Center (ASD’s ACSC), the Federal Bureau of Investigation (FBI), and international partners, has released new joint guidance to strengthen the resilience of critical infrastructure (CI) organizations. The official CI Fortify guidance provides actionable recommendations to help organizations rapidly […] The post CISA Releases Checklist for Critical Infrastructure Organizations to Isolate Vital Systems appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "The Cybersecurity and Infrastructure Security Agency (CISA), in collaboration with the Australian Signals Directorate’s Australian Cyber Security Center (ASD’s ACSC), the Federal Bureau of Investigation (FBI), and intern",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/cisa-and-partners-release-checklist/",
+    "target": "CISA Releases Checklist Critical",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/cisa-and-partners-release-checklist/"
+      }
+    ]
+  },
+  {
+    "id": "6a5c4816747c68c2",
+    "date": "2026-07-29T10:10:09+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI’s Rogue AI Ventured Beyond Hugging Face",
+    "summary": "Hugging Face has published an anatomy of the attack and OpenAI has shared additional information from its investigation. The post OpenAI’s Rogue AI Ventured Beyond Hugging Face appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "Hugging Face has published an anatomy of the attack and OpenAI has shared additional information from its investigation.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
+    "target": "OpenAIs Rogue Ventured Beyond",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/"
+      }
+    ]
+  },
+  {
+    "id": "33a7b033a6f3b870",
+    "date": "2026-07-29T10:01:30+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "20-Year-Old Vulnerability Enables Takeover of Thousands of Data Centers in Minutes",
+    "summary": "A two-decade-old vulnerability in the Intelligent Platform Management Interface (IPMI) protocol could allow attackers to gain control of thousands of publicly exposed data center servers in just minutes, researchers have warned. The issue affects Baseboard Management Controllers (BMCs), which are privileged processors that enable administrators to manage physical servers remotely, even when the operating system […] The post 20-Year-Old Vulnerability Enables Takeover of Thousands of Data Centers in Minutes appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A two-decade-old vulnerability in the Intelligent Platform Management Interface (IPMI) protocol could allow attackers to gain control of thousands of publicly exposed data center servers in just minutes, researchers have",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/20-year-old-vulnerability-takeover-data-centres/",
+    "target": "20-Year-Old Vulnerability Enables Takeover",
+    "type": "Data Leak / Breach",
+    "severity": "Medium",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/20-year-old-vulnerability-takeover-data-centres/"
+      }
+    ]
+  },
+  {
+    "id": "16e5ccce3905da4c",
+    "date": "2026-07-29T09:53:24+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "WhatsApp Adds End-to-End Encryption for Voice and Video Calls",
+    "summary": "WhatsApp has introduced a new set of calling features alongside expanded end-to-end encryption for voice and video communications, emphasizing its commitment to secure, cross-platform communication. This update now allows users to make encrypted calls on WhatsApp Web, enabling them to initiate and receive calls directly from a browser without needing to install the desktop application. […] The post WhatsApp Adds End-to-End Encryption for Voice and Video Calls appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "WhatsApp has introduced a new set of calling features alongside expanded end-to-end encryption for voice and video communications, emphasizing its commitment to secure, cross-platform communication.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/whatsapp-end-to-end-encryption-for-calls/",
+    "target": "WhatsApp Adds End-to-End Encryption",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/whatsapp-end-to-end-encryption-for-calls/"
+      }
+    ]
+  },
+  {
+    "id": "9d06822acbacfb99",
+    "date": "2026-07-29T09:49:15.005573+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Dolphin X: New Windows Stealer Uses AI to Rank Which Victims Are Worth Robbing",
+    "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
+    "article_text": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. The malware was analyzed by Varonis Threat Labs researcher Daniel Kelley, who spotted it being advertised on a cybercrime forum by a vendor using the alias \"Kontraktnik,\" promoting it as an all-in-one remote access trojan. According to Varonis, the operator panel lists 329 features across ten categories, including a credential-stealing feature that claims to target more than 300 applications. However, one of its notable features is an \"AI Profiler\" that analyzes information collected from infected computers and assigns each victim a risk score. \"Beyond credential collection, the panel includes a surveillance tab containing the AI Profiler. The seller describes it as an 'AI behavioral profiler with app usage tracking, risk score, and daily summary,'\" explains Varonis. Varonis obtained the Dolphin X operator panel and analyzed it in an isolated lab, noting they examined the malware builder and its network traffic rather than executing a live Dolphin X agent on an infected computer. Credential-stealing malware can allow attackers to steal credentials for hundreds, if not thousands, of online accounts, making it difficult to manually review them all for high-value targets. Dolphin X’s AI Profiler claims to automate this process by acting as a sorting system that scores, categorizes, and ranks infected computers so that the attackers know which are the most high-value to target further. The operator panel claims that the AI Profiler can process victims’ application usage, risk scores and tags, browser domains, and installed software to produce ranked profiles. These scores are given to attackers in daily summaries containing ranked victim profiles, allowing them to prioritize machines that may provide access to valuable accounts, cryptocurrency, corporate networks, cloud environments, or production systems. \"In practice, the feature appears designed to help operators triage victims,\" explains Kelley. Varonis researcher Daniel Kelley confirmed to BleepingComputer that the AI Profiler is present in the operator panel and discovered technical strings supporting the profiling workflow, including Auto-Start AI Profiler , ProfilerStart , ProfilerGetData , risk_score , risk_factors , and categoryusage . The researcher said these strings indicate that the profiling workflow is actually included and that the panel can process the data needed to rank victims. However, Varonis could not determine what artificial intelligence engine is being used to produce the rankings without analyzing a live Dolphin X malware sample. The malware also operates as a credential stealer, with the operator panel showing that it targets more than 300 applications, including 9 Chromium and Gecko browsers, 100 cryptocurrency wallet extensions, 65 desktop crypto wallets, 10 password managers, and more than 30 cloud command-line tools. Dolphin X also claims to steal .env files, SSH keys, cloud access tokens, browser login data, cryptocurrency wallet information, and other developer credentials. As Varonis analyzed the Dolphin X operator panel, builder, and related network traffic rather than a live malware sample executing on an infected machine, the malware’s advertised collection capabilities were not independently confirmed by the researcher. Artificial intelligence has become a popular tool among threat actors, with it being used to launch cybercrime services such as SpamGPT and AI agents conducting autonomous cyberattacks . Dolphin X platform instead uses AI to solve an operational problem by processing large amounts of stolen data and automatically sorting infected users into highest-value victims. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. New macOS malware embeds fake errors to confuse AI analysis tools FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires How enterprise GenAI can amplify ransomware risk — and how to contain it We built a vulnerability vending machine: AI tokens in, zero-days out Microsoft 365 outage affects Teams, SharePoint and other services Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes Hugging Face warns an autonomous AI",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.technadu.com/dolphin-x-new-windows-stealer-uses-ai-to-rank-which-victims-are-worth-robbing/631754/",
+    "target": "Dolphin",
+    "type": "Malware",
+    "severity": "Critical",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/dolphin-x-new-windows-stealer-uses-ai-to-rank-which-victims-are-worth-robbing/631754/"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/"
+      }
+    ]
+  },
+  {
+    "id": "d80e25a1ee4f5eac",
+    "date": "2026-07-29T09:49:14.855208+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Keeping private namespaces private - Quad9 blog",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Keeping private namespaces private - Quad9 blog",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1uzhprd/keeping_private_namespaces_private_quad9_blog/",
+    "target": "Keeping Quad9",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uzhprd/keeping_private_namespaces_private_quad9_blog/"
       }
     ]
   },
@@ -26086,470 +26550,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/"
-      }
-    ]
-  },
-  {
-    "id": "25dd1a190d53a85d",
-    "date": "2026-07-17T17:53:52+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Ransomware Attack on Coca-Cola-Owned Fairlife Halts Production Across the United States",
-    "summary": "Coca-Cola has reported a ransomware attack affecting its dairy subsidiary, Fairlife, resulting in a temporary shutdown of production operations across the United States. This incident was disclosed in a Form 8-K filing submitted to the U.S. Securities and Exchange Commission on July 16, 2026. The filing confirmed that unauthorized access was gained to parts of […] The post Ransomware Attack on Coca-Cola-Owned Fairlife Halts Production Across the United States appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Coca-Cola has reported a ransomware attack affecting its dairy subsidiary, Fairlife, resulting in a temporary shutdown of production operations across the United States.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://cybersecuritynews.com/coca-cola-owned-fairlife-cyberattack/",
-    "target": "Ransomware Coca-Cola-Owned Fairlife Halts",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/coca-cola-owned-fairlife-cyberattack/"
-      }
-    ]
-  },
-  {
-    "id": "cabfc55f0c53029f",
-    "date": "2026-07-17T17:30:41.622813+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Playing Around With ADIDNS RPC Internals",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Playing Around With ADIDNS RPC Internals",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1uosc1r/playing_around_with_adidns_rpc_internals/",
-    "target": "Playing Around ADIDNS RPC",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uosc1r/playing_around_with_adidns_rpc_internals/"
-      }
-    ]
-  },
-  {
-    "id": "6256ebbde82f5ee1",
-    "date": "2026-07-17T17:28:40+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "EY Data Breach – Hackers Gain Access to IT Support System and Download Documents",
-    "summary": "Ernst & Young LLP (EY) is notifying clients that an unauthorized third party breached a support ticket platform used by its IT staff, downloading documents containing client tax data during a roughly two-week window this spring. The Big Four accounting and consulting giant filed breach notifications with the California Attorney General’s office on July 15, […] The post EY Data Breach – Hackers Gain Access to IT Support System and Download Documents appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Ernst & Young LLP (EY) is notifying clients that an unauthorized third party breached a support ticket platform used by its IT staff, downloading documents containing client tax data during a roughly two-week window this",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/ey-data-breach/",
-    "target": "Data Breach",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/ey-data-breach/"
-      }
-    ]
-  },
-  {
-    "id": "c3f4f57f177655f7",
-    "date": "2026-07-17T17:12:23+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-    "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late. The intel feed behind that counter",
-    "article_text": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama , n8n , Open WebUI , Langflow , and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late. The intel feed behind that counter shows 47 credential hauls and 41 model inventories in its last 100 records. Those inventories carry DeepSeek, GLM, and Kimi identifiers tagged :cloud, which suggests that what the bots catalogue reaches past the box itself. QiAnXin's XLab published a report on Friday, named the malware after the \"n4d mesh controller\" string in its source, and screenshotted the panel. The figures on it are the operator's own, captured July 10, and they do not agree with each other. A counter reading 17,700 total deploys sits above a funnel claiming 95,700 in the past 24 hours. One tile says 16 active bots; the next says 12. The credential number is at least the one it states twice. XLab's own sensors give an outside measure, and it is not a bot count either: distinct source IPs pushing NadMesh sat near zero through late June, then went vertical in the first week of July to around 139 a day. What a bot ships home is cloud keys pulled out of environment variables, k8s service account tokens, and the contents of ~/.aws/config, .env, and ~/.docker/config.json. The researchers put it plainly: the operator is after \"not the host itself, but the cloud credentials, Kubernetes cluster privileges\" on it. Model access and callable MCP tools round out the list. MCP heads the controller's priority order for exploitation, above Kubernetes, Docker API, and Redis , and the vector XLab records beside it is a JSON-RPC tools/call to execute_command. No CVE is attached to that line, and the report does not claim one. MCP's first specification put authentication outside the core protocol entirely, and the authorization flow added in March 2025 is still optional in the spec's own words. Plenty of deployments skip it. Censys counted 12,520 reachable MCP services across 8,758 IP addresses as of April 28, more than 21,000 by May 6, and roughly 90 advertising a tool that runs commands. On 39 of those, the tool was named execute_command, the exact call at the top of NadMesh's table. The botnet's own MCP counters do not reconcile: 12,100 MCP services listed as exploitable, 21 MCP vulnerabilities overall, and none at all among the 100 intel records on screen. Then there is what XLab actually watched it throw. The firm charted the exploit traffic it observed, and docker_containers_api_rce takes 30.31% of it, jenkins_scripttext_rce another 22.28%. Telnet weak passwords take 10.36%, Redis 8.29%. mcp_cmd_execute is on the chart, so the vector is in XLab's observed traffic, but it sits in the unlabeled tail below the smallest slice anyone bothered to label, at 0.78%. The chart's labels do not match the controller's own status strings, so it is XLab's sensor view of attempts, not the operator's success ledger. So the AI targeting is real at the intake and in the loot, and most of the exploit traffic still goes to Docker sockets and Jenkins consoles. The scanning feeds itself. Subnets that produce hits get resampled more densely every five minutes; IPs flagged dangerous in the last 24 hours come back every quarter hour as /32 rescans with the AI ports first; a full sweep drags everything marked dangerous in the last seven days back to the top. Any target that absorbs ten deployment attempts without ever returning a result is auto-blacklisted as a suspected honeypot. XLab takes that as a sign the author knows researchers are watching. If the queue runs dry, bots generate a random /24 and keep going. Five build versions run concurrently, eleven bots on 33.8-GO-TITAN, and the stragglers back on 30.0. A canary endpoint stages new builds to a slice of the fleet, 5,448 responses served, and 84,024 null. A funnel tracks tasks down through deploys to live hosts. The panel's own footnote is the tell: success is scored on an outcome allowlist that explicitly excludes the Ollama and AWS harvest. The operator's scoreboard does not count the thing the operator is taking. Removal is built to fail. The agent persists in three ways at once, so pulling one leaves the others to bring it back. Every build goes through Garble obfuscation, UPX -9 packing, and random padding, which means no two agen",
-    "quick_summary": [
-      "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-    "target": "NadMesh Botnet Hunts Exposed",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html"
-      }
-    ]
-  },
-  {
-    "id": "d59d93f430b962d6",
-    "date": "2026-07-17T17:00:08+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "PentestCode – New AI Agent That Automates Penetration Testing with 18 Specialized Tools",
-    "summary": "A new open-source tool is bringing autonomous AI agents into offensive security workflows. PentestCode, a hard fork of OpenCode rebuilt specifically for penetration testing, runs security tools, analyzes their output, and makes tactical decisions all from a terminal interface, with minimal human intervention required. The tool’s core pitch is methodology automation. A tester can input […] The post PentestCode – New AI Agent That Automates Penetration Testing with 18 Specialized Tools appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A new open-source tool is bringing autonomous AI agents into offensive security workflows.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/pentestcode-ai-agent/",
-    "target": "PentestCode",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/pentestcode-ai-agent/"
-      }
-    ]
-  },
-  {
-    "id": "1a19a80b0549b63a",
-    "date": "2026-07-17T16:43:13+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "The Real AI Threat Is Blind Trust",
-    "summary": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
-    "article_text": "",
-    "quick_summary": [
-      "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
-    "target": "Real Threat Blind Trust",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust"
-      }
-    ]
-  },
-  {
-    "id": "6742f842501dc1ca",
-    "date": "2026-07-17T16:39:16+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-    "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using",
-    "article_text": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine . Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using counterfeit websites to push malware-laced software. It's known to be active since at least 2015. \"In April 2026, GoldenEyeDog used their malware to access a support member's device at DigiCert, a code-signing certificate provider, and leveraged their access to steal certificates intended for DigiCert customers,\" Expel security researcher Aaron Walton said in an analysis. \"This attack highlighted the capability of the malware and operators.\" Central to the threat actor's operations is a modified version of Gh0st RAT (aka Farfli), a remote access trojan (RAT) widely used by Chinese hacking groups, including another prolific Chinese cybercrime group tracked as Silver Fox . The modular malware, referred to as Golden Gh0st RAT, is delivered by means of Golden Gh0st Loader. In a report published in November 2025, Elastic Security Labs detailed the adversary's use of a multi-stage loader codenamed RONINGLOADER to distribute a Gh0st RAT variant through NSIS installers masquerading as legitimate programs like Google Chrome and Microsoft Teams. Earlier this year, another campaign linked to the hacking group was observed orchestrating a multi-stage attack directed at customer support staff working for Web3 companies, using suspicious links sent via customer support chat to deliver Gh0st RAT. \"These actors are using malware and targeting victims consistent with other Chinese cybercrime activity, including targeting finance organizations in the Asia-Pacific region,\" Expel said. \"The malware targets finance organizations in the Asia-Pacific region.\" Golden Gh0st RAT shares behavioral and tactical overlaps with a payload detected by Chinese security vendor QiAnXin back in 2020 in connection with an attack campaign aimed at the gambling industry since 2019. It also overlaps with a malware documented by ANY.RUN in February 2025 as Zhong Stealer . What's more, CylindricalCanine has been observed abusing code-signing certificates, gaining unauthorized access to DigiCert to intercept code-signing certificates intended for DigiCert customers, and then using them to sign their own malware to avoid detection. In April 2026, the certificate authority (CA) revealed it revoked certificates fraudulently obtained from its internal support portal after gaining access to two support analyst workstations by executing a malicious payload delivered via a customer chat channel. \"On 2026-04-02, a threat actor contacted DigiCert's support team via a customer chat channel and delivered a ZIP file disguised as a customer screenshot,\" DigiCert explained at the time. \"The file contained a .scr executable with a malicious payload.\" \"The threat actor used a limited function within the customer-support portal, which allows authenticated DigiCert support analysts to access customer accounts from the customer's perspective to facilitate support tasks. The threat actor was able to use this function to access initialization codes for orders that were approved but pending delivery for EV Code Signing certificate orders across a finite set of customer accounts.\" The fatal oversight here was that the possession of an initialization code, coupled with an approved order, was \"functionally sufficient\" to obtain EV Code Signing certificates across a set of customer accounts and CAs. The company said it revoked 60 certificates issued by the following CAs - Of these, 27 are said to have been explicitly linked to the threat actor, with the exploited certificates weaponized to sign Zhong Stealer malware artifacts. \"The threat model did not account for the scenario in which initialization codes stored within DigiCert's internal support portal could be viewed by a compromised DigiCert analyst account operating through the portal function,\" the company explained, adding it has since deployed a code change to mask initialization codes from proxied users on both E.U. and U.S. platforms using either the UI or API. Expel said the primary tactic of CylindricalCanine is to distribute files disguised as screenshots in phishing emails. The files are embedded within the messages in the form of a link ",
-    "quick_summary": [
-      "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-    "target": "GoldenEyeDog Subgroup Linked DigiCert",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html"
-      }
-    ]
-  },
-  {
-    "id": "4e688f7ff0243639",
-    "date": "2026-07-17T16:00:00+00:00",
-    "source": "Microsoft Security Blog",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
-    "summary": "Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception. The post Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks appeared first on Microsoft Security Blog .",
-    "article_text": "",
-    "quick_summary": [
-      "Join Microsoft Security at Black Hat USA 2026 for supply chain research, hands-on security experiences, expert conversations, and our reception.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/",
-    "target": "Microsoft Black Hat USA",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "Microsoft Security Blog"
-    ],
-    "links": [
-      {
-        "source": "Microsoft Security Blog",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/17/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/"
-      }
-    ]
-  },
-  {
-    "id": "d1c51ffd33ddf28f",
-    "date": "2026-07-17T14:55:28+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Ernst & Young discloses data breach after support system hack",
-    "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
-    "article_text": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. According to the company, support tickets submitted through the platform may have included documents containing client tax information. Ernst & Young (EY) is among the world’s four largest auditing and professional services providers, offering auditing, tax, consulting, and transaction advisory services to major organizations in more than 150 countries. The company employs 406,000 people and reported a global revenue of $53.2 billion last year. The breach notification to affected clients states that Ernst & Young detected anomalous activity on its networks on April 23 and initiated an investigation. With help from external cybersecurity experts, the company determined that an unauthorized third party had accessed the said platform between March 28 and April 12 and downloaded multiple documents. The affected information included certain personal and financial data contained in or used to prepare tax filings. Since the notification sample features a placeholder for the specific data types, the type of the information exposed remains unclear. Also, the company has not shared exactly how many customers were affected or whether the incident impacts only its U.S. customer base or other countries as well. Ernst & Young says it secured its systems and notified federal law enforcement authorities, while it has assured that the unauthorized access has been removed. The company also states that it is not aware of any misuse or further exposure of the stolen files and has no indication that particular individuals were targeted by the threat actors. To mitigate the risks arising from this exposure, EY offers affected clients 24 months of identity monitoring and restoration service through Experian and urges letter recipients to enroll by October 31, 2026. At the time of writing, no data extortion or ransomware groups have taken responsibility for the attack on Ernst & Young. BleepingComputer has contacted EY to learn more about the incident, but we have not yet received a response at the time of publication. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Healthtech firm Xolis suffers data breach impacting 1.4 million people SoFi confirms third-party data breach at Hong Kong subsidiary Medtronic notifies customers impacted by ShinyHunters data breach Texas govt data breach exposes over 3 million driver’s licenses So these jokers not disclosing what ticketing system got them hacked? that sounds like they want others to be affected. Is this related to their \"cloud migration error\"? Since they did specifically say unauthorized party accessed the platform, not breached, hacked, or a variety of other words. https://www.sdxcentral.com/news/ey-subject-of-whopping-4tb-data-breach-following-cloud-migration-error/ Some other fun bits... \"On April 23, 2026, EY identified anomalous activity within that platform.\" but the attacker was active \"between March 28 and April 12.\" Better late than waiting for a ransom notice, i guess. Maybe they were running Atlassian and don't want to finger the vendor because we will all immediately know that they were not up to date. My two cents would be that it was their internal ticket system from ServiceNow (They are a partner and customer).After reading the notification sample it gives you a few hints. Third party service management solution, internal it supporting staff. Probably got in through breached AD. Coca-Cola says Fairlife ransomware attack halts US dairy production New Windows LegacyHive zero-day gives hackers admin privileges CISA urges immediate action on actively exploited Fortinet flaws Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-    "target": "Ernst Young",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/"
-      }
-    ]
-  },
-  {
-    "id": "9c540f2da3d90240",
-    "date": "2026-07-17T14:00:10+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-    "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profiles, and other identity signals to evade modern fraud detection. [...]",
-    "article_text": "Together, they show that residential IP addresses remain important to carders but are no longer viewed as a reliable bypass on their own. Instead, actors repeatedly describe a market in which proxy pools become overused, addresses accumulate poor reputations, location data is inaccurate, and financial services block entire ranges. As a result, carders are becoming more selective, attempting to match IP geography with stolen identity data while combining proxies with antidetect browsers and other techniques designed to create a convincing digital identity. The findings suggest that residential proxies remain a key part of the carding ecosystem, but also one of its increasingly fragile components. Carders increasingly judge a proxy by its history, not merely whether it belongs to a residential internet provider. Geographic consistency now extends beyond country matching to city, ZIP code, time zone, browser language, and billing information. Residential IPs are rarely considered sufficient alone and are frequently paired with antidetect browsers and fingerprint manipulation. Provider restrictions are creating a secondary market for supposedly “clean” residential IPs capable of reaching financial services. Defenders should treat residential traffic as context—not evidence that a user is legitimate. A residential proxy routes traffic through an IP address assigned by an internet service provider to a household or consumer device. To a website, the connection may resemble that of an ordinary home user rather than traffic originating from a hosting provider or commercial VPN. Residential proxies have legitimate uses, including localization testing, advertising verification, and brand protection. Criminal actors value them because they can make fraudulent sessions appear closer to normal consumer traffic. One of the clearest findings from the dataset is that carders no longer speak about residential proxies as a single trusted category. Instead, they divide them into “clean” and “dirty” pools. A widely reposted underground guide titled “Getting the Cleanest Possible IPs for Carding” (see screenshot below) argues that even residential pools deteriorate as addresses are repeatedly used for abuse. Another guide claimed that the important question was not simply whether an IP was residential, but whether it had previously been used against banks, payment processors, or other fraud-sensitive services. This thinking also appears in troubleshooting discussions. Users compare fraud-score services, complain that the same address receives dramatically different reputational ratings, and report that an IP initially considered clean can become high-risk after a short period of activity. The underlying assumption is significant: carders increasingly believe that proxy reputation is dynamic and influenced by every other customer using the same infrastructure. From \"clean\" residential proxies to antidetect browser setups, fraud actors are openly discussing how to build convincing digital identities on criminal forums. Flare monitors these conversations, so your team is on top of their emerging techniques. Older carding advice is often focused on selecting an IP in the same country as the stolen card. Recent posts describe a far narrower standard. A January 2026 thread about “geoconsistency” (see screenshot below) discussed matching an IP’s approximate location with the billing ZIP code, device time zone, operating-system language, and browser characteristics. In another discussion, a user complained that major residential-proxy providers had removed ZIP-code targeting and now offered only country, state, and city selection. The actor feared that city-level targeting would no longer provide enough precision to avoid fraud controls. Not every technical claim made in underground forums is necessarily accurate. However, the discussions clearly demonstrate the actors’ operational mindset: they are trying to construct a coherent digital identity rather than merely concealing their real IP address. One April 2026 guide warned that a “perfect residential proxy” would still fail if the browser profile exposed contradictory information. Another setup guide argued that copying a fixed configuration was ineffective because the device, proxy, account history, payment information, and target merchant must all be evaluated together. This reflects the direction of modern fraud detection. Stripe’s documentation describes controls that combine transaction,",
-    "quick_summary": [
-      "Residential proxies are no longer the silver bullet they once were for carding.",
-      "Risk: credentials/infostealer risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-    "target": "Inside Search Clean Residential",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/"
-      }
-    ]
-  },
-  {
-    "id": "54ad4eee3db0c0cd",
-    "date": "2026-07-17T13:51:42+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "“TTF Trap” Phishing Emails Use Fake Font Files to Deliver Windows Malware",
-    "summary": "An email that appears to contain a shipping document, payment request, or business proposal can infect a Windows…",
-    "article_text": "",
-    "quick_summary": [
-      "An email that appears to contain a shipping document, payment request, or business proposal can infect a Windows…",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/ttf-trap-phishing-fake-font-files-windows-malware/",
-    "target": "TTF Trap Phishing Emails",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/ttf-trap-phishing-fake-font-files-windows-malware/"
-      }
-    ]
-  },
-  {
-    "id": "a651bea37a1cb233",
-    "date": "2026-07-17T13:48:56+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-    "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OTTERCOOKIE: a browser credential and crypto wallet stealer, a file stealer, a",
-    "article_text": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. The findings once again highlight the continued targeting of software developers by state-sponsored hackers aligned with the Democratic People's Republic of Korea (DPRK) with an aim to steal sensitive data and plunder cryptocurrency wallets. The activity is being tracked under the moniker REF9403. The cybersecurity arm of the Dutch enterprise search and observability platform said it discovered the campaign after the threat actors targeted members of its community Slack workspace with social engineering lures for purported job offers, highlighting a new initial access avenue not previously documented in attacks associated with Contagious Interview, a sophisticated social engineering operation ongoing since at least December 2022. That said, this is not the first time North Korean adversaries have relied on Slack for impersonation and social-engineering purposes. Earlier this year, the threat actors were observed creating a Slack workspace and inviting the maintainer of the Axios npm package to schedule a bogus meeting that led to the compromise of the package. The activity was subsequently attributed to UNC1069. \"Our team has personally seen DPRK use a public Discord server that was for the blockchain engineering community then deploy malware to victims,\" Daniel Stepanic, threat researcher engineer at Elastic, told The Hacker News. \"This is part of their social engineering workflow, picking public social media platforms (GitHub, Slack, Discord, LinkedIn, Telegram), impersonating users/brands, then trying to infect users once they have built up a credible reputation with the user.\" Stepanic that the attacks are effective and likely working. \"We don't have visibility into the volume, but we have seen a user run the challenge and come back saying something felt off, and the job/project recruiter disappeared,\" the researcher added. \"We have seen a couple repos published in GitHub by possible victims, we believe the users aren't aware of the backdoor. Ultimately, since this social engineering approach has persisted with minimal adjustment is itself evidence of its effectiveness.\" The messages, posted by a user named Maxwell on the #jobs Slack channel in late May 2026, sought an experienced developer to help with upgrading their e-commerce platform to a \"modern, scalable architecture using Next.js (v14), NestJS, PostgreSQL, and Auth.js\" along with Stripe integration. Those who expressed interest in the opportunity were moved into direct messages that instructed them to complete a coding assessment as part of the job offer, a standard ploy observed in Contagious Interview campaigns. The assignment involved executing a trojanized repository containing malware designed to exfiltrate valuable data and configuring a Socket.IO backdoor. Specifically, the repositories distributed as part of the scheme incorporate fully functional code but also embed malicious code in the form of SVG images to sidestep detection. \"While these legitimate-looking projects run perfectly fine, the malicious code is triggered silently behind-the-scenes,\" Elastic said. \"The payloads are split into base64 fragments inside HTML comments across every SVG flag image inside an assets directory. These files appear to be normal images of country flags (AE.svg, AF.svg), but each file contains an injected comment block with Base64-encoded data.\" The malware incorporates four distinct modules that allow it to harvest data from web browsers and cryptocurrency wallets, collect files matching a specific list of extensions, facilitate persistent remote control using a Socket.IO-based trojan that can execute shell commands, capture clipboard content, and drop Windows executables. It's worth noting that the malware also exhibits some functional overlaps with a data stealer and trojan distributed via bogus npm packages masquerading as Rollup polyfill tooling, suggesting the threat actors are pursuing multiple vectors for propagation. \"This campaign reinforces that developers remain a prime target, where the compromise of a single individual can provide the initial access needed to enable far-reaching supply chain attacks against downstream organizations,\" Elastic said. \"The success of these operations underscores how compromising an individua",
-    "quick_summary": [
-      "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding ",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-    "target": "Fake Coding Tests Deliver",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html"
-      }
-    ]
-  },
-  {
-    "id": "a454bc51be372a86",
-    "date": "2026-07-17T13:40:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Dairy company Fairlife suspends production in US after cyber incident",
-    "summary": "Fairlife’s U.S. operation includes plants in Michigan, New York and Arizona, and the company's retail sales passed $1 billion in 2022.",
-    "article_text": "",
-    "quick_summary": [
-      "operation includes plants in Michigan, New York and Arizona, and the company's retail sales passed $1 billion in 2022.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/dairy-company-fairlife-suspends-production-us-cyber-incident",
-    "target": "Dairy Fairlife",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/dairy-company-fairlife-suspends-production-us-cyber-incident"
-      }
-    ]
-  },
-  {
-    "id": "53ae3cc63bed5930",
-    "date": "2026-07-17T13:26:21+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New Windows LegacyHive 0-Day Vulnerability Allows Hackers to Gain Admin Access",
-    "summary": "A Windows zero-day vulnerability, dubbed LegacyHive (MSNightmare), abuses the User Profile Service to enable local privilege escalation, tampering with administrator accounts, and admin-level code execution. LegacyHive targets the Windows User Profile Service (ProfSvc), which is responsible for loading and unloading user profiles and their registry hives during logon and logoff. The public proof‑of‑concept (PoC) from the […] The post New Windows LegacyHive 0-Day Vulnerability Allows Hackers to Gain Admin Access appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A Windows zero-day vulnerability, dubbed LegacyHive (MSNightmare), abuses the User Profile Service to enable local privilege escalation, tampering with administrator accounts, and admin-level code execution.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/windows-legacyhive-0-day-vulnerability/",
-    "target": "Windows LegacyHive 0-Day Vulnerability",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/windows-legacyhive-0-day-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "cc1ae3a6eb40453e",
-    "date": "2026-07-17T13:00:00+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
-    "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
-    "article_text": "",
-    "quick_summary": [
-      "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
-    "target": "Gold Eagle Clearinghouse Targets",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap"
-      }
-    ]
-  },
-  {
-    "id": "a5aa59579d8dca2a",
-    "date": "2026-07-17T12:50:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Zelensky appoints Ukraine's acting security service chief as acting defense minister",
-    "summary": "Yevhenii Khmara, a major general with deep experience in intelligence, counterterrorism and long-range strikes against Russia, is Ukraine's new acting defense minister.",
-    "article_text": "",
-    "quick_summary": [
-      "Yevhenii Khmara, a major general with deep experience in intelligence, counterterrorism and long-range strikes against Russia, is Ukraine's new acting defense minister.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/ukraine-acting-defense-minister-yevhenii-khmara",
-    "target": "Zelensky Ukraines",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/ukraine-acting-defense-minister-yevhenii-khmara"
       }
     ]
   }
