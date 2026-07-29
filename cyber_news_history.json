@@ -1,36 +1,7 @@
 [
   {
-    "id": "94364d6c6eb19543",
-    "date": "2026-07-29T19:42:17.640647+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL OpenWrt: A '90s-Era Buffer Overflow Opens Routers to Remote Takeover",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/openwrt-a-90s-era-buffer-overflow-opens-routers-to-remote-takeover",
-    "target": "CRITICAL OpenWrt",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/openwrt-a-90s-era-buffer-overflow-opens-routers-to-remote-takeover"
-      }
-    ]
-  },
-  {
     "id": "7ac66e1687ea7a81",
-    "date": "2026-07-29T19:42:17.640532+00:00",
+    "date": "2026-07-29T21:12:14.388895+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "b381163f9d9a4e60",
-    "date": "2026-07-29T19:42:17.640436+00:00",
+    "date": "2026-07-29T21:12:14.388799+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "415a1bbf2b09b2fc",
-    "date": "2026-07-29T19:42:17.640340+00:00",
+    "date": "2026-07-29T21:12:14.388701+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "696fda8ffb5a295f",
-    "date": "2026-07-29T19:42:17.640239+00:00",
+    "date": "2026-07-29T21:12:14.388598+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "10a3aadcd5a28d10",
-    "date": "2026-07-29T19:42:17.640111+00:00",
+    "date": "2026-07-29T21:12:14.388469+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,8 +145,37 @@
     ]
   },
   {
+    "id": "d41d8c31545721d5",
+    "date": "2026-07-29T21:12:14.388364+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE CVE-2026-16723: FastJson 1.x Under Active RCE Zero-Day Attack, Patch Unlikely",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-16723-fastjson-1x-under-active-rce-zero-day-attack-patch-unlikely",
+    "target": "CVE CVE-2026-16723",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-16723-fastjson-1x-under-active-rce-zero-day-attack-patch-unlikely"
+      }
+    ]
+  },
+  {
     "id": "8b7b6c86a8c5a48f",
-    "date": "2026-07-29T19:42:17.639973+00:00",
+    "date": "2026-07-29T21:12:14.388263+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -204,7 +204,7 @@
   },
   {
     "id": "dda9d5125736a746",
-    "date": "2026-07-29T19:42:17.639844+00:00",
+    "date": "2026-07-29T21:12:14.388134+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -237,7 +237,7 @@
   },
   {
     "id": "49e13946c156d6ca",
-    "date": "2026-07-29T19:42:17.639735+00:00",
+    "date": "2026-07-29T21:12:14.388007+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +266,7 @@
   },
   {
     "id": "a99926fd806fafb7",
-    "date": "2026-07-29T19:42:17.639607+00:00",
+    "date": "2026-07-29T21:12:14.387891+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,7 +295,7 @@
   },
   {
     "id": "5d5b4d70adaf3cdc",
-    "date": "2026-07-29T19:42:17.639501+00:00",
+    "date": "2026-07-29T21:12:14.387784+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -313,8 +313,7 @@
     "type": "General Cybersecurity",
     "severity": "Critical",
     "sources": [
-      "DeafNews",
-      "Reddit r/netsec"
+      "DeafNews"
     ],
     "links": [
       {
@@ -329,7 +328,7 @@
   },
   {
     "id": "50aee635ddd1e540",
-    "date": "2026-07-29T19:42:17.639380+00:00",
+    "date": "2026-07-29T21:12:14.387663+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -358,12 +357,12 @@
   },
   {
     "id": "3ddb3eaee7aec34c",
-    "date": "2026-07-29T19:42:17.638157+00:00",
+    "date": "2026-07-29T21:12:14.386335+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 4 ZERO-DAY · 8 CVE · 8 EXPLOIT IN THE LAST 24H →",
+    "title": "// 5 ZERO-DAY · 9 CVE · 9 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -387,7 +386,7 @@
   },
   {
     "id": "9bfd46b8df533c12",
-    "date": "2026-07-29T19:42:16.869592+00:00",
+    "date": "2026-07-29T21:12:13.558237+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -456,7 +455,7 @@
   },
   {
     "id": "72dfbb783aa1a131",
-    "date": "2026-07-29T19:42:16.057403+00:00",
+    "date": "2026-07-29T21:12:12.821562+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -485,7 +484,7 @@
   },
   {
     "id": "5d144d963622d317",
-    "date": "2026-07-29T19:42:16.057295+00:00",
+    "date": "2026-07-29T21:12:12.821449+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -514,7 +513,7 @@
   },
   {
     "id": "666a0d6bf326717c",
-    "date": "2026-07-29T19:42:16.057181+00:00",
+    "date": "2026-07-29T21:12:12.821326+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -543,7 +542,7 @@
   },
   {
     "id": "bc1bdf11a37f7ab1",
-    "date": "2026-07-29T19:42:16.057065+00:00",
+    "date": "2026-07-29T21:12:12.821173+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -572,7 +571,7 @@
   },
   {
     "id": "2c3551cc0e259340",
-    "date": "2026-07-29T19:42:16.056943+00:00",
+    "date": "2026-07-29T21:12:12.820948+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -605,7 +604,7 @@
   },
   {
     "id": "b0b4a827efa67c6b",
-    "date": "2026-07-29T19:42:16.056721+00:00",
+    "date": "2026-07-29T21:12:12.820668+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -634,7 +633,7 @@
   },
   {
     "id": "979b49e8969cf04c",
-    "date": "2026-07-29T19:42:16.056588+00:00",
+    "date": "2026-07-29T21:12:12.820529+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -663,7 +662,7 @@
   },
   {
     "id": "908457cb1d1bccf3",
-    "date": "2026-07-29T19:42:16.056457+00:00",
+    "date": "2026-07-29T21:12:12.820365+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -692,7 +691,7 @@
   },
   {
     "id": "7a9776b0260c88f5",
-    "date": "2026-07-29T19:42:16.056334+00:00",
+    "date": "2026-07-29T21:12:12.820095+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -721,7 +720,7 @@
   },
   {
     "id": "7bba3c2fa29828ec",
-    "date": "2026-07-29T19:42:16.056177+00:00",
+    "date": "2026-07-29T21:12:12.819898+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -750,7 +749,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-07-29T19:42:16.055979+00:00",
+    "date": "2026-07-29T21:12:12.819641+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -779,7 +778,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-07-29T19:42:16.055848+00:00",
+    "date": "2026-07-29T21:12:12.819471+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -808,7 +807,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-07-29T19:42:16.055722+00:00",
+    "date": "2026-07-29T21:12:12.819331+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -837,7 +836,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-29T19:42:16.055544+00:00",
+    "date": "2026-07-29T21:12:12.818993+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -866,7 +865,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-07-29T19:42:16.055427+00:00",
+    "date": "2026-07-29T21:12:12.818842+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -895,7 +894,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-07-29T19:42:16.055291+00:00",
+    "date": "2026-07-29T21:12:12.818666+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -924,7 +923,7 @@
   },
   {
     "id": "02220f09df8df84c",
-    "date": "2026-07-29T19:42:16.055157+00:00",
+    "date": "2026-07-29T21:12:12.818517+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -953,7 +952,7 @@
   },
   {
     "id": "cfcd7be93d0aa926",
-    "date": "2026-07-29T19:42:16.055029+00:00",
+    "date": "2026-07-29T21:12:12.818361+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -982,7 +981,7 @@
   },
   {
     "id": "a63286e4bf0c078f",
-    "date": "2026-07-29T19:42:16.054900+00:00",
+    "date": "2026-07-29T21:12:12.818064+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1011,7 +1010,7 @@
   },
   {
     "id": "47182c9aef963d3a",
-    "date": "2026-07-29T19:42:16.054602+00:00",
+    "date": "2026-07-29T21:12:12.817739+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1040,7 +1039,7 @@
   },
   {
     "id": "351e1cdac53ce066",
-    "date": "2026-07-29T19:42:16.054440+00:00",
+    "date": "2026-07-29T21:12:12.817541+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1069,7 +1068,7 @@
   },
   {
     "id": "a2670333e205d47a",
-    "date": "2026-07-29T19:42:16.054259+00:00",
+    "date": "2026-07-29T21:12:12.817316+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1098,7 +1097,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-29T19:42:16.050752+00:00",
+    "date": "2026-07-29T21:12:12.812370+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1127,7 +1126,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-29T19:42:16.049900+00:00",
+    "date": "2026-07-29T21:12:12.811303+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1156,7 +1155,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-29T19:42:16.049648+00:00",
+    "date": "2026-07-29T21:12:12.810881+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1184,37 +1183,8 @@
     ]
   },
   {
-    "id": "451b1bb5012b7430",
-    "date": "2026-07-29T19:42:15.925414+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Multiple Chinese civic apps share one reward/lottery backend whose signing secret is recoverable",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Multiple Chinese civic apps share one reward/lottery backend whose signing secret is recoverable",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v09pze/multiple_chinese_civic_apps_share_one/",
-    "target": "Multiple Chinese",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v09pze/multiple_chinese_civic_apps_share_one/"
-      }
-    ]
-  },
-  {
     "id": "f6ed439b216cb228",
-    "date": "2026-07-29T19:42:15.925294+00:00",
+    "date": "2026-07-29T21:12:12.740631+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1243,7 +1213,7 @@
   },
   {
     "id": "b64c9cb77e430403",
-    "date": "2026-07-29T19:42:15.925184+00:00",
+    "date": "2026-07-29T21:12:12.740524+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1272,7 +1242,7 @@
   },
   {
     "id": "3e3cbd0b558843bb",
-    "date": "2026-07-29T19:42:15.925074+00:00",
+    "date": "2026-07-29T21:12:12.740414+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1301,7 +1271,7 @@
   },
   {
     "id": "8cd1db9e003932e1",
-    "date": "2026-07-29T19:42:15.924967+00:00",
+    "date": "2026-07-29T21:12:12.740308+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1330,7 +1300,7 @@
   },
   {
     "id": "ee5f0612a8b4969f",
-    "date": "2026-07-29T19:42:15.924858+00:00",
+    "date": "2026-07-29T21:12:12.740207+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1359,7 +1329,7 @@
   },
   {
     "id": "208f4c2ee1635e3a",
-    "date": "2026-07-29T19:42:15.924750+00:00",
+    "date": "2026-07-29T21:12:12.740079+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1388,7 +1358,7 @@
   },
   {
     "id": "c1ec3a993f09ca92",
-    "date": "2026-07-29T19:42:15.924650+00:00",
+    "date": "2026-07-29T21:12:12.739983+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1417,7 +1387,7 @@
   },
   {
     "id": "f2a6d48a010a14bc",
-    "date": "2026-07-29T19:42:15.924526+00:00",
+    "date": "2026-07-29T21:12:12.739873+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1446,7 +1416,7 @@
   },
   {
     "id": "e4f962b2c4e6f866",
-    "date": "2026-07-29T19:42:15.924419+00:00",
+    "date": "2026-07-29T21:12:12.739764+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1475,7 +1445,7 @@
   },
   {
     "id": "c782711ca5125268",
-    "date": "2026-07-29T19:42:15.924299+00:00",
+    "date": "2026-07-29T21:12:12.739649+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1504,7 +1474,7 @@
   },
   {
     "id": "8f656f8c214e92cd",
-    "date": "2026-07-29T19:42:15.924187+00:00",
+    "date": "2026-07-29T21:12:12.739537+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1533,7 +1503,7 @@
   },
   {
     "id": "b9fc96dbdac09e97",
-    "date": "2026-07-29T19:42:15.924066+00:00",
+    "date": "2026-07-29T21:12:12.739418+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1562,7 +1532,7 @@
   },
   {
     "id": "704d93df7ce3abcf",
-    "date": "2026-07-29T19:42:15.923940+00:00",
+    "date": "2026-07-29T21:12:12.739292+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1591,7 +1561,7 @@
   },
   {
     "id": "69c13ffc63be2662",
-    "date": "2026-07-29T19:42:15.923836+00:00",
+    "date": "2026-07-29T21:12:12.739185+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1620,7 +1590,7 @@
   },
   {
     "id": "644c98cdd749985f",
-    "date": "2026-07-29T19:42:15.923724+00:00",
+    "date": "2026-07-29T21:12:12.739054+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1649,7 +1619,7 @@
   },
   {
     "id": "8792d8d32021afa0",
-    "date": "2026-07-29T19:42:15.923588+00:00",
+    "date": "2026-07-29T21:12:12.738934+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1678,7 +1648,7 @@
   },
   {
     "id": "19ea21b7eb7b5b86",
-    "date": "2026-07-29T19:42:15.923449+00:00",
+    "date": "2026-07-29T21:12:12.738792+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1707,7 +1677,7 @@
   },
   {
     "id": "6ef403b68fedfb1c",
-    "date": "2026-07-29T19:42:15.923342+00:00",
+    "date": "2026-07-29T21:12:12.738681+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1736,7 +1706,7 @@
   },
   {
     "id": "576fd85aff13b062",
-    "date": "2026-07-29T19:42:15.923232+00:00",
+    "date": "2026-07-29T21:12:12.738568+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1764,22 +1734,22 @@
     ]
   },
   {
-    "id": "f7d770c306e7e868",
-    "date": "2026-07-29T19:42:15.923112+00:00",
+    "id": "41c0f469a5ffbd84",
+    "date": "2026-07-29T21:12:12.738454+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
     "category": "",
-    "title": "Reversing of Eufy Security Video Doorbell sync protocol and wifi creds decryption from flash memory",
+    "title": "Sixteen strangers and a shared obfuscator: mapping the wool scene",
     "summary": "",
     "article_text": "",
     "quick_summary": [
-      "Reversing of Eufy Security Video Doorbell sync protocol and wifi creds decryption from flash memory",
+      "Sixteen strangers and a shared obfuscator: mapping the wool scene",
       "Risk: general cybersecurity update",
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://www.reddit.com/r/netsec/comments/1va5h8n/reversing_of_eufy_security_video_doorbell_sync/",
-    "target": "Reversing Eufy Video Doorbell",
+    "link": "https://www.reddit.com/r/netsec/comments/1va7x2g/sixteen_strangers_and_a_shared_obfuscator_mapping/",
+    "target": "Sixteen",
     "type": "General Cybersecurity",
     "severity": "Low",
     "sources": [
@@ -1788,13 +1758,13 @@
     "links": [
       {
         "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1va5h8n/reversing_of_eufy_security_video_doorbell_sync/"
+        "url": "https://www.reddit.com/r/netsec/comments/1va7x2g/sixteen_strangers_and_a_shared_obfuscator_mapping/"
       }
     ]
   },
   {
     "id": "c16e9c5732385456",
-    "date": "2026-07-29T19:42:15.922994+00:00",
+    "date": "2026-07-29T21:12:12.738336+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1822,8 +1792,37 @@
     ]
   },
   {
+    "id": "f7d770c306e7e868",
+    "date": "2026-07-29T21:12:12.738208+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Reversing of Eufy Security Video Doorbell sync protocol and wifi creds decryption from flash memory",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Reversing of Eufy Security Video Doorbell sync protocol and wifi creds decryption from flash memory",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1va5h8n/reversing_of_eufy_security_video_doorbell_sync/",
+    "target": "Reversing Eufy Video Doorbell",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1va5h8n/reversing_of_eufy_security_video_doorbell_sync/"
+      }
+    ]
+  },
+  {
     "id": "13c169fecc479de5",
-    "date": "2026-07-29T19:42:15.922876+00:00",
+    "date": "2026-07-29T21:12:12.738063+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1852,7 +1851,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-07-29T19:42:15.922745+00:00",
+    "date": "2026-07-29T21:12:12.737929+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1885,7 +1884,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-07-29T19:42:15.922509+00:00",
+    "date": "2026-07-29T21:12:12.737721+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1913,6 +1912,151 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "82b7f88c5e4f5ce7",
+    "date": "2026-07-29T20:59:32+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Anthropic confirms Claude is down worldwide",
+    "summary": "[...]",
+    "article_text": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models The disruption is causing requests to fail with a “529 Overloaded” message, including in Claude and tools that rely on its API. Anthropic began investigating the outage at 7:49 p.m. UTC on July 29. At 8:33 p.m. UTC, the company said it had identified the issue and was working to resolve it, but did not reveal the underlying cause or provide a recovery timeline. During the outage, I repeatedly encountered the following message: “API Error: 529 Overloaded. This is a server-side issue, usually temporary — try again in a moment.” The outage appears to affect all services hosted by Anthropic, and refreshing the page doesn't help. For those unaware, error 529 means Claude’s servers are unable to handle the current volume of requests Thankfully, Anthropic is aware of the root cause and is working on a fix. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. ChatGPT share links abused to host fake outage pages to deliver malware Use Claude AI to become an Excel pro with this $20 course bundle Microsoft blames massive Microsoft 365 outage on maintenance bug Microsoft 365 outage affects Teams, SharePoint and other services Ernst & Young data breach claimed by ShinyHunters extortion gang GitHub, PyPI add time-based defenses against supply chain attacks Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Rev5 is ending. See what your FedRAMP 20x transition really requires Your Scanners Are Green. Your Pipeline Might Not Be. Here's How to Close the Gap. Overdue a password health-check? Audit your Active Directory for free Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "[...] Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models The disruption is causing requests to fail with a “529 Overloaded” message, including in Claude and tools that rely",
+      "Risk: credentials/infostealer risk, ISNET vendor relevance",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+    "target": "Anthropic Claude",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/"
+      }
+    ]
+  },
+  {
+    "id": "3fa03ecdf22782e5",
+    "date": "2026-07-29T19:48:12+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
+    "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+    "article_text": "",
+    "quick_summary": [
+      "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
+    "target": "OpenAIs Rogue Model Claims",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face"
+      }
+    ]
+  },
+  {
+    "id": "e057649e47e1ede4",
+    "date": "2026-07-29T19:46:20+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+    "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
+    "article_text": "",
+    "quick_summary": [
+      "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
+    "target": "Red Agents Blue Agents",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense"
+      }
+    ]
+  },
+  {
+    "id": "94364d6c6eb19543",
+    "date": "2026-07-29T19:42:17.640647+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL OpenWrt: A '90s-Era Buffer Overflow Opens Routers to Remote Takeover",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/openwrt-a-90s-era-buffer-overflow-opens-routers-to-remote-takeover",
+    "target": "CRITICAL OpenWrt",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/openwrt-a-90s-era-buffer-overflow-opens-routers-to-remote-takeover"
+      }
+    ]
+  },
+  {
+    "id": "451b1bb5012b7430",
+    "date": "2026-07-29T19:42:15.925414+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Multiple Chinese civic apps share one reward/lottery backend whose signing secret is recoverable",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Multiple Chinese civic apps share one reward/lottery backend whose signing secret is recoverable",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v09pze/multiple_chinese_civic_apps_share_one/",
+    "target": "Multiple Chinese",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v09pze/multiple_chinese_civic_apps_share_one/"
       }
     ]
   },
@@ -4409,6 +4553,35 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html"
+      }
+    ]
+  },
+  {
+    "id": "0c3aaef1493cab96",
+    "date": "2026-07-29T04:00:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
+    "summary": "Popular telehealth provider Hims & Hers \"shared consumers’ sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy,\" the federal government alleges.",
+    "article_text": "",
+    "quick_summary": [
+      "Popular telehealth provider Hims & Hers \"shared consumers’ sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy,\" the federal government a",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
+    "target": "FTC Hims Hers",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/hims-hers-privacy-lawsuit-ftc"
       }
     ]
   },
@@ -26385,180 +26558,6 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/"
-      }
-    ]
-  },
-  {
-    "id": "9ca8d9445e0d16e1",
-    "date": "2026-07-20T05:15:39+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-    "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are listed below - git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026 Dendreo (versions 1.1.3, 1.1.4) -",
-    "article_text": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. \"Each malicious release is a loader,\" StepSecurity said in an analysis. \"It fetches a second stage from an attacker controlled Forgejo host, checks whether it is running in a build system and skips if it is, and on a developer machine it drops a native daemon and installs persistence.\" One aspect of the attack that immediately stands out is that \"git_credential_manager\" impersonates the official Microsoft Git Credential Manager, while the other two had been dormant for years before receiving the malicious updates. \"Dendreo\" was last updated on October 24, 2020, and \"fastlane-plugin-run_tests_firebase_testlab\" stayed inactive since March 9, 2019, prior to the new versions. Another defining trait of the activity is that the releases were published directly to the registry without any matching commit or tag in the source projects. Interestingly, \"git_credential_manager\" has been added as a dependency to five packages, including \"Dendreo\" and \"fastlane-plugin-run_tests_firebase_testlab,\" effectively allowing the malicious payload to spread to existing users of the packages - All the aforementioned packages, with the exception of \"fastlane-plugin-run_tests_firebase_testlab,\" are maintained by the same account (\" LR-DEV \"). The fact that the gem belongs to a different maintainer (\" pinkroom \") indicates that more than one account was likely compromised to push the rogue versions to RubyGems. Once installed, the malware embedded in these packages scans the infected system for about 30 environment variables, including those related to GitHub Actions, GitLab, CircleCI, Travis, Jenkins, and Vercel. If any of those are identified, it promptly exits. The check is assessed to be an intentional attempt to avoid running on ephemeral CI runners and ensure it's executed on a developer machine. In the case of \"git_credential_manager,\" the malicious code is fired when the library is required, causing it to download two payloads from a public Forgejo instance (\"git.disroot[.]org/git-ecosystem\"): a shell script (\"deploy.sh\") and a native binary that carries the same name as the tool the gem masquerades as. On Windows, the retrieved payload is executed via PowerShell. While version 2.8.2 merely stages the payloads, version 2.8.3 of the gem moves to the next phase of the attack. This involves using the install script to launch the binary as a background daemon, after which it establishes persistence using a cron entry and as a systemd user service and queries the sudo and wheel groups. \"If the user can run sudo without a password, the script re-runs itself as root, and when it runs as root it plants a setuid root copy of the system shell at a path chosen to mimic a networking utility,\" StepSecurity said. Users who have installed any of the aforementioned gems are advised to treat the machines and associated secrets as compromised. It's also recommended to remove the dropped daemon at \"~/.local/share/gcm/,\" erase the persistence methods, check for a setuid shell at \"/usr/local/sbin/ping6,\" and rotate all credentials. \"A RubyGems account that has gone quiet for six or seven years doesn't look risky to anyone,\" Aikido Security researcher Charlie Eriksen said . \"That's exactly the profile worth taking over. That's where the SleeperGem name comes from: not a planted, long-game attacker asset, but a real, ordinary account that had simply gone dormant, and looked harmless enough to hijack without anyone noticing.\" The disclosure comes more than two months after RubyGems briefly paused account sign-ups after bad actors pushed dozens of malicious packages as part of a coordinated spam-publishing campaign. Around the same time, Socket researchers flagged a parallel campaign that flooded the registry with 150 gems that abused them as a data exfiltration channel. Earlier this month, Mend.io disclosed details of an undocumented software supply chain attack that employed another set of 14 RubyGems packages to store stolen credential data. Specifically, a malicious browser extension was found to have harvested credentials through a locally accessible API, packaged the information into valid .gem files entirely within the browser using JavaScript and standard Web APIs, and uploaded those packages directly to RubyGems.org using a ha",
-    "quick_summary": [
-      "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional pa",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-    "target": "SleeperGem Uses Three Malicious",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html"
-      }
-    ]
-  },
-  {
-    "id": "8e4c56c12b2f213a",
-    "date": "2026-07-20T05:00:00+00:00",
-    "source": "CrowdStrike Blog",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Beyond the Model: Harnessing Frontier AI for Stronger Cyber Defense",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/",
-    "target": "Beyond Model",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "CrowdStrike Blog"
-    ],
-    "links": [
-      {
-        "source": "CrowdStrike Blog",
-        "url": "https://www.crowdstrike.com/en-us/blog/harnessing-frontier-ai-for-stronger-defense/"
-      }
-    ]
-  },
-  {
-    "id": "e16f43fc872b78f7",
-    "date": "2026-07-20T04:04:00.318047+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL SharePoint On-Premises Under Attack: Three Days to Patch Actively Exploited RCE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/sharepoint-on-premises-under-attack-three-days-to-patch-actively-exploited-rce",
-    "target": "CRITICAL SharePoint On-Premises",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/sharepoint-on-premises-under-attack-three-days-to-patch-actively-exploited-rce"
-      }
-    ]
-  },
-  {
-    "id": "3c25c7b4d1b9011d",
-    "date": "2026-07-20T04:04:00.317941+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL SharePoint Critical RCE via Cryptographic Signature Flaw: The Token Danger",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/sharepoint-critical-rce-via-cryptographic-signature-flaw-the-token-danger",
-    "target": "CRITICAL SharePoint Critical RCE",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/sharepoint-critical-rce-via-cryptographic-signature-flaw-the-token-danger"
-      }
-    ]
-  },
-  {
-    "id": "b8964c4bbf0b02bf",
-    "date": "2026-07-20T04:04:00.317278+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "MSI Center: LPE Vulnerability in NTIOLib_X64.sys Kernel Driver CYBERSEC ZERO-DAY",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/msi-center-lpe-vulnerability-in-ntiolibx64sys-kernel-driver",
-    "target": "MSI Center",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/msi-center-lpe-vulnerability-in-ntiolibx64sys-kernel-driver"
-      }
-    ]
-  },
-  {
-    "id": "c169a1ca3cef4de2",
-    "date": "2026-07-20T04:03:58.702700+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Nihon Kotsu Confirms Malware Infection, Taxi Dispatch Systems Disrupted",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.technadu.com/nihon-kotsu-confirms-malware-infection-taxi-dispatch-systems-disrupted/630850/",
-    "target": "Nihon Kotsu Confirms Malware",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/nihon-kotsu-confirms-malware-infection-taxi-dispatch-systems-disrupted/630850/"
       }
     ]
   }
