@@ -1,65 +1,7 @@
 [
   {
-    "id": "7111622af0f11d6f",
-    "date": "2026-07-30T00:00:00+00:00",
-    "source": "Recorded Future Research",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Dealing with AI-Generated Extortion",
-    "summary": "Combat AI-generated extortion and fake ransomware leaks. Learn how organizations can verify data authenticity using robust governance and threat intelligence.",
-    "article_text": "",
-    "quick_summary": [
-      "Combat AI-generated extortion and fake ransomware leaks.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://www.recordedfuture.com/blog/ai-generated-extortion",
-    "target": "Dealing AI-Generated Extortion",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "Recorded Future Research"
-    ],
-    "links": [
-      {
-        "source": "Recorded Future Research",
-        "url": "https://www.recordedfuture.com/blog/ai-generated-extortion"
-      }
-    ]
-  },
-  {
-    "id": "415a1bbf2b09b2fc",
-    "date": "2026-07-29T23:13:33.096511+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Broadcom Patches Five VMware Flaws: Full vCenter Bypass and VM Escape",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/broadcom-patches-five-vmware-flaws-full-vcenter-bypass-and-vm-escape",
-    "target": "CRITICAL Broadcom Patches Five",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/broadcom-patches-five-vmware-flaws-full-vcenter-bypass-and-vm-escape"
-      }
-    ]
-  },
-  {
     "id": "696fda8ffb5a295f",
-    "date": "2026-07-29T23:13:33.096373+00:00",
+    "date": "2026-07-30T00:11:23.419534+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "10a3aadcd5a28d10",
-    "date": "2026-07-29T23:13:33.096229+00:00",
+    "date": "2026-07-30T00:11:23.419392+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +59,7 @@
   },
   {
     "id": "d41d8c31545721d5",
-    "date": "2026-07-29T23:13:33.096109+00:00",
+    "date": "2026-07-30T00:11:23.419270+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +88,7 @@
   },
   {
     "id": "2425dbe8a58d87b2",
-    "date": "2026-07-29T23:13:33.095994+00:00",
+    "date": "2026-07-30T00:11:23.419156+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -175,7 +117,7 @@
   },
   {
     "id": "5700d031353b005a",
-    "date": "2026-07-29T23:13:33.095877+00:00",
+    "date": "2026-07-30T00:11:23.419040+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -203,23 +145,23 @@
     ]
   },
   {
-    "id": "dda9d5125736a746",
-    "date": "2026-07-29T23:13:33.095755+00:00",
+    "id": "b1604384f4a8e390",
+    "date": "2026-07-30T00:11:23.418917+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Samsung rlottie: RCE Bug in Lottie Animations, Patch Available Since July 3 VULN CRITICAL",
+    "title": "CRITICAL WatchGuard FireWare OS Buffer Overflow Turns Firewall Into a Backdoor",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/samsung-rlottie-rce-bug-in-lottie-animations-patch-available-since-july-3",
-    "target": "Samsung",
-    "type": "Vulnerability",
+    "link": "https://deafnews.it/en/news/cybersecurity/watchguard-fireware-os-buffer-overflow-turns-firewall-into-a-backdoor",
+    "target": "CRITICAL WatchGuard FireWare Buffer",
+    "type": "Malware",
     "severity": "Critical",
     "sources": [
       "DeafNews"
@@ -227,17 +169,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/samsung-rlottie-rce-bug-in-lottie-animations-patch-available-since-july-3"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/samsung-rlottie-rce-bug-in-lottie-files-masked-by-a-medium-cvss"
+        "url": "https://deafnews.it/en/news/cybersecurity/watchguard-fireware-os-buffer-overflow-turns-firewall-into-a-backdoor"
       }
     ]
   },
   {
     "id": "49e13946c156d6ca",
-    "date": "2026-07-29T23:13:33.095632+00:00",
+    "date": "2026-07-30T00:11:23.418774+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +204,7 @@
   },
   {
     "id": "a99926fd806fafb7",
-    "date": "2026-07-29T23:13:33.095506+00:00",
+    "date": "2026-07-30T00:11:23.418649+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,7 +233,7 @@
   },
   {
     "id": "5d5b4d70adaf3cdc",
-    "date": "2026-07-29T23:13:33.095368+00:00",
+    "date": "2026-07-30T00:11:23.418530+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -328,7 +266,7 @@
   },
   {
     "id": "50aee635ddd1e540",
-    "date": "2026-07-29T23:13:33.095240+00:00",
+    "date": "2026-07-30T00:11:23.418401+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -357,7 +295,7 @@
   },
   {
     "id": "2aa6c764cd46bb3e",
-    "date": "2026-07-29T23:13:33.095124+00:00",
+    "date": "2026-07-30T00:11:23.418287+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -386,7 +324,7 @@
   },
   {
     "id": "5b516f6490c72fab",
-    "date": "2026-07-29T23:13:33.094982+00:00",
+    "date": "2026-07-30T00:11:23.418145+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -415,12 +353,12 @@
   },
   {
     "id": "3ddb3eaee7aec34c",
-    "date": "2026-07-29T23:13:33.093644+00:00",
+    "date": "2026-07-30T00:11:23.416617+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 5 ZERO-DAY · 11 CVE · 11 EXPLOIT IN THE LAST 24H →",
+    "title": "// 5 ZERO-DAY · 12 CVE · 12 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -444,7 +382,7 @@
   },
   {
     "id": "9bfd46b8df533c12",
-    "date": "2026-07-29T23:13:31.920446+00:00",
+    "date": "2026-07-30T00:11:22.679314+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -513,7 +451,7 @@
   },
   {
     "id": "72dfbb783aa1a131",
-    "date": "2026-07-29T23:13:30.896425+00:00",
+    "date": "2026-07-30T00:11:21.816354+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -542,7 +480,7 @@
   },
   {
     "id": "5d144d963622d317",
-    "date": "2026-07-29T23:13:30.896279+00:00",
+    "date": "2026-07-30T00:11:21.816225+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -571,7 +509,7 @@
   },
   {
     "id": "666a0d6bf326717c",
-    "date": "2026-07-29T23:13:30.896138+00:00",
+    "date": "2026-07-30T00:11:21.816090+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -600,7 +538,7 @@
   },
   {
     "id": "bc1bdf11a37f7ab1",
-    "date": "2026-07-29T23:13:30.896002+00:00",
+    "date": "2026-07-30T00:11:21.815950+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -629,7 +567,7 @@
   },
   {
     "id": "2c3551cc0e259340",
-    "date": "2026-07-29T23:13:30.895863+00:00",
+    "date": "2026-07-30T00:11:21.815781+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -662,7 +600,7 @@
   },
   {
     "id": "b0b4a827efa67c6b",
-    "date": "2026-07-29T23:13:30.895620+00:00",
+    "date": "2026-07-30T00:11:21.815537+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -691,7 +629,7 @@
   },
   {
     "id": "979b49e8969cf04c",
-    "date": "2026-07-29T23:13:30.895481+00:00",
+    "date": "2026-07-30T00:11:21.815392+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -720,7 +658,7 @@
   },
   {
     "id": "908457cb1d1bccf3",
-    "date": "2026-07-29T23:13:30.895314+00:00",
+    "date": "2026-07-30T00:11:21.815240+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -749,7 +687,7 @@
   },
   {
     "id": "7a9776b0260c88f5",
-    "date": "2026-07-29T23:13:30.895173+00:00",
+    "date": "2026-07-30T00:11:21.815094+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -778,7 +716,7 @@
   },
   {
     "id": "7bba3c2fa29828ec",
-    "date": "2026-07-29T23:13:30.894994+00:00",
+    "date": "2026-07-30T00:11:21.814912+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -807,7 +745,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-07-29T23:13:30.894769+00:00",
+    "date": "2026-07-30T00:11:21.814651+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -836,7 +774,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-07-29T23:13:30.894621+00:00",
+    "date": "2026-07-30T00:11:21.814499+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -865,7 +803,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-07-29T23:13:30.894469+00:00",
+    "date": "2026-07-30T00:11:21.814338+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -894,7 +832,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-29T23:13:30.894261+00:00",
+    "date": "2026-07-30T00:11:21.814148+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -923,7 +861,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-07-29T23:13:30.894112+00:00",
+    "date": "2026-07-30T00:11:21.814012+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -952,7 +890,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-07-29T23:13:30.893960+00:00",
+    "date": "2026-07-30T00:11:21.813858+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -981,7 +919,7 @@
   },
   {
     "id": "02220f09df8df84c",
-    "date": "2026-07-29T23:13:30.893806+00:00",
+    "date": "2026-07-30T00:11:21.813682+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1010,7 +948,7 @@
   },
   {
     "id": "cfcd7be93d0aa926",
-    "date": "2026-07-29T23:13:30.893658+00:00",
+    "date": "2026-07-30T00:11:21.813533+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1039,7 +977,7 @@
   },
   {
     "id": "a63286e4bf0c078f",
-    "date": "2026-07-29T23:13:30.893507+00:00",
+    "date": "2026-07-30T00:11:21.813384+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1068,7 +1006,7 @@
   },
   {
     "id": "47182c9aef963d3a",
-    "date": "2026-07-29T23:13:30.893172+00:00",
+    "date": "2026-07-30T00:11:21.813068+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1097,7 +1035,7 @@
   },
   {
     "id": "351e1cdac53ce066",
-    "date": "2026-07-29T23:13:30.892996+00:00",
+    "date": "2026-07-30T00:11:21.812888+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1126,7 +1064,7 @@
   },
   {
     "id": "a2670333e205d47a",
-    "date": "2026-07-29T23:13:30.892805+00:00",
+    "date": "2026-07-30T00:11:21.812675+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1155,7 +1093,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-29T23:13:30.889490+00:00",
+    "date": "2026-07-30T00:11:21.809039+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1184,7 +1122,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-29T23:13:30.888554+00:00",
+    "date": "2026-07-30T00:11:21.808080+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1213,7 +1151,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-29T23:13:30.888278+00:00",
+    "date": "2026-07-30T00:11:21.807813+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1242,7 +1180,7 @@
   },
   {
     "id": "f6ed439b216cb228",
-    "date": "2026-07-29T23:13:30.714573+00:00",
+    "date": "2026-07-30T00:11:21.713161+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1271,7 +1209,7 @@
   },
   {
     "id": "b64c9cb77e430403",
-    "date": "2026-07-29T23:13:30.714436+00:00",
+    "date": "2026-07-30T00:11:21.713030+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1300,7 +1238,7 @@
   },
   {
     "id": "3e3cbd0b558843bb",
-    "date": "2026-07-29T23:13:30.714281+00:00",
+    "date": "2026-07-30T00:11:21.712892+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1329,7 +1267,7 @@
   },
   {
     "id": "8cd1db9e003932e1",
-    "date": "2026-07-29T23:13:30.714148+00:00",
+    "date": "2026-07-30T00:11:21.712733+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1358,7 +1296,7 @@
   },
   {
     "id": "ee5f0612a8b4969f",
-    "date": "2026-07-29T23:13:30.714022+00:00",
+    "date": "2026-07-30T00:11:21.712611+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1387,7 +1325,7 @@
   },
   {
     "id": "208f4c2ee1635e3a",
-    "date": "2026-07-29T23:13:30.713888+00:00",
+    "date": "2026-07-30T00:11:21.712480+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1416,7 +1354,7 @@
   },
   {
     "id": "c1ec3a993f09ca92",
-    "date": "2026-07-29T23:13:30.713762+00:00",
+    "date": "2026-07-30T00:11:21.712356+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1445,7 +1383,7 @@
   },
   {
     "id": "f2a6d48a010a14bc",
-    "date": "2026-07-29T23:13:30.713628+00:00",
+    "date": "2026-07-30T00:11:21.712224+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1474,7 +1412,7 @@
   },
   {
     "id": "e4f962b2c4e6f866",
-    "date": "2026-07-29T23:13:30.713493+00:00",
+    "date": "2026-07-30T00:11:21.712091+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1503,7 +1441,7 @@
   },
   {
     "id": "c782711ca5125268",
-    "date": "2026-07-29T23:13:30.713329+00:00",
+    "date": "2026-07-30T00:11:21.711952+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1532,7 +1470,7 @@
   },
   {
     "id": "8f656f8c214e92cd",
-    "date": "2026-07-29T23:13:30.713193+00:00",
+    "date": "2026-07-30T00:11:21.711806+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1561,7 +1499,7 @@
   },
   {
     "id": "b9fc96dbdac09e97",
-    "date": "2026-07-29T23:13:30.713049+00:00",
+    "date": "2026-07-30T00:11:21.711644+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1590,7 +1528,7 @@
   },
   {
     "id": "704d93df7ce3abcf",
-    "date": "2026-07-29T23:13:30.712903+00:00",
+    "date": "2026-07-30T00:11:21.711498+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1619,7 +1557,7 @@
   },
   {
     "id": "69c13ffc63be2662",
-    "date": "2026-07-29T23:13:30.712777+00:00",
+    "date": "2026-07-30T00:11:21.711371+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1648,7 +1586,7 @@
   },
   {
     "id": "644c98cdd749985f",
-    "date": "2026-07-29T23:13:30.712640+00:00",
+    "date": "2026-07-30T00:11:21.711236+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1677,7 +1615,7 @@
   },
   {
     "id": "8792d8d32021afa0",
-    "date": "2026-07-29T23:13:30.712493+00:00",
+    "date": "2026-07-30T00:11:21.711095+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1706,7 +1644,7 @@
   },
   {
     "id": "19ea21b7eb7b5b86",
-    "date": "2026-07-29T23:13:30.712307+00:00",
+    "date": "2026-07-30T00:11:21.710930+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1735,7 +1673,7 @@
   },
   {
     "id": "576fd85aff13b062",
-    "date": "2026-07-29T23:13:30.712169+00:00",
+    "date": "2026-07-30T00:11:21.710763+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1764,7 +1702,7 @@
   },
   {
     "id": "6ef403b68fedfb1c",
-    "date": "2026-07-29T23:13:30.712044+00:00",
+    "date": "2026-07-30T00:11:21.710637+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1793,7 +1731,7 @@
   },
   {
     "id": "c16e9c5732385456",
-    "date": "2026-07-29T23:13:30.711907+00:00",
+    "date": "2026-07-30T00:11:21.710501+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1822,7 +1760,7 @@
   },
   {
     "id": "41c0f469a5ffbd84",
-    "date": "2026-07-29T23:13:30.711769+00:00",
+    "date": "2026-07-30T00:11:21.710364+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1851,7 +1789,7 @@
   },
   {
     "id": "f7d770c306e7e868",
-    "date": "2026-07-29T23:13:30.711621+00:00",
+    "date": "2026-07-30T00:11:21.710219+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1880,7 +1818,7 @@
   },
   {
     "id": "13c169fecc479de5",
-    "date": "2026-07-29T23:13:30.711477+00:00",
+    "date": "2026-07-30T00:11:21.710080+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1909,7 +1847,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-07-29T23:13:30.711296+00:00",
+    "date": "2026-07-30T00:11:21.709933+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1942,7 +1880,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-07-29T23:13:30.711091+00:00",
+    "date": "2026-07-30T00:11:21.709695+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1970,6 +1908,126 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "7111622af0f11d6f",
+    "date": "2026-07-30T00:00:00+00:00",
+    "source": "Recorded Future Research",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Dealing with AI-Generated Extortion",
+    "summary": "Combat AI-generated extortion and fake ransomware leaks. Learn how organizations can verify data authenticity using robust governance and threat intelligence.",
+    "article_text": "",
+    "quick_summary": [
+      "Combat AI-generated extortion and fake ransomware leaks.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://www.recordedfuture.com/blog/ai-generated-extortion",
+    "target": "Dealing AI-Generated Extortion",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "Recorded Future Research"
+    ],
+    "links": [
+      {
+        "source": "Recorded Future Research",
+        "url": "https://www.recordedfuture.com/blog/ai-generated-extortion"
+      }
+    ]
+  },
+  {
+    "id": "654c4f2e42352382",
+    "date": "2026-07-29T23:44:07+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+    "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
+    "article_text": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. Email security company Proofpoint spotted the activity a week ago targeting various organizations, including government entities in the U.S. and Europe, and companies in the telecommunications, financial, hospitality, and aerospace sectors. Laundry Bear exploited CVE-2026-42897, a cross-site scripting (XSS) vulnerability that allows executing arbitrary JavaScript in the browser context when users open a specially crafted email in the Outlook Web Access (OWA) app. Previously, the same hackers leveraged another XSS vulnerability (CVE-2025-66376) as a zero-day in Zimbra email servers to deliver malware ZimReaper that steals email communication, two-factor authentication (2FA) codes, application passcodes, and passwords. Proofpoint researchers refer to this sort of XSS activity on webmail platforms as a “half-click exploit” because users only need to open the malicious email to trigger the exploited vulnerability. In a new report today, Proofpoint describes Laundry Bear’s new half-click exploit campaign as a significant “improvement in the group’s tradecraft and capability.” Based on Microsoft’s advisory on May 14 for the CVE-2026-42897 flaw in OWA, the threat actor was already exploiting it as a zero-day . The security issue causes the server to improperly sanitize the HTML code in the message body, which could be leveraged to run JavaScript when opening the email. According to Proofpoint, Laundry Bear, which the company tracks as TA488, had created the attack infrastructure for the OWAReaper campaign in March, almost two months before Microsoft’s warning. In the latest observed activity, the threat actor used messages on topics of interest to the target, such as supply-chain analyses, research updates, and performance indicators for tourism and gas markets. “The subject lines and lures are banal, likely so the targeted user opens and skims the message, but dismisses the message as junk without reporting it, especially given that there are no suspicious URLs or attachments present.” Proofpoint explains that the attacker leverages the improper sanitization issue to include malicious code in the messages to add HTML and JavaScript in the malicious messages. Emails contained a JavaScript loader and Base64-encoded payload blobs embedded in social media icon URLs after the ‘#’ character. The exploit delivers a backdoor that researchers call OWAReaper and describe as “the most sophisticated backdoor delivered via half-click exploits” they saw. Analysis revealed a “suite of subtle persistence mechanisms” and revealed it to be an evolution of the ZimReaper malware observed in the attacks against Zimbra email servers. “OWAReaper is executed entirely in the Outlook Web Access (OWA) reading pane. Upon execution, it uses Outlook APIs to rewrite the email on the Exchange server and remove the exploit content. Simultaneously, it disables OWA pop-ups and right-click ability while it runs,” Proofpoint says . The malware collects the compromised account’s email address, username, and Outlook settings. It also tries to steal the access credentials by creating invisible elements in the Document Object Model (DOM) and waiting for the browser to automatically fill them in. Proofpoint researchers discovered that TA488 (Laundry Bear, Void Blizzard) can maintain access to a target’s mailbox even if their system is restored from a clean image or credentials are rotated. The threat actor achieves this through OWAReaper, which checks for installed Outlook add-ins that have ReadWriteMailbox permissions and uses them to steal OAuth tokens through the GetClientAccessToken operation request . “It then calls UpdateFolder to grant itself Owner-level permissions to the 'Default’ user (a low-permission preset alias in all Microsoft Exchange tenants) on every mail folder,” the researchers explain. This allows attackers to access the mailbox from any authenticated account within the organization. Because mailbox permissions are configured on the server side, changing the compromised user's credentials or reinstalling the affected system does not revoke the attackers' access. OWAReaper implements a second persistence mechanism by enabling caching and injecting a malicious iframe in the HTML of messages stored in OWA's offline IndexedDB. “This i",
+    "quick_summary": [
+      "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+    "target": "Russian Exchange OWA",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/"
+      }
+    ]
+  },
+  {
+    "id": "415a1bbf2b09b2fc",
+    "date": "2026-07-29T23:13:33.096511+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Broadcom Patches Five VMware Flaws: Full vCenter Bypass and VM Escape",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/broadcom-patches-five-vmware-flaws-full-vcenter-bypass-and-vm-escape",
+    "target": "CRITICAL Broadcom Patches Five",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/broadcom-patches-five-vmware-flaws-full-vcenter-bypass-and-vm-escape"
+      }
+    ]
+  },
+  {
+    "id": "dda9d5125736a746",
+    "date": "2026-07-29T23:13:33.095755+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Samsung rlottie: RCE Bug in Lottie Animations, Patch Available Since July 3 VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/samsung-rlottie-rce-bug-in-lottie-animations-patch-available-since-july-3",
+    "target": "Samsung",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/samsung-rlottie-rce-bug-in-lottie-animations-patch-available-since-july-3"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/samsung-rlottie-rce-bug-in-lottie-files-masked-by-a-medium-cvss"
       }
     ]
   },
@@ -5588,6 +5646,93 @@
       {
         "source": "Zero Day Initiative",
         "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-491/"
+      }
+    ]
+  },
+  {
+    "id": "1d43d4d4e42ea190",
+    "date": "2026-07-29T05:00:00+00:00",
+    "source": "CrowdStrike Blog",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Inside Astaroth's New Spambot Component",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Inside Astaroth's New Spambot Component",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/",
+    "target": "Inside Astaroths Spambot Component",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "CrowdStrike Blog"
+    ],
+    "links": [
+      {
+        "source": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/"
+      }
+    ]
+  },
+  {
+    "id": "f16a1568a15e9db4",
+    "date": "2026-07-29T05:00:00+00:00",
+    "source": "CrowdStrike Blog",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/",
+    "target": "Falcon Cloud July 2026",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "CrowdStrike Blog"
+    ],
+    "links": [
+      {
+        "source": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/"
+      }
+    ]
+  },
+  {
+    "id": "a857135dc7778265",
+    "date": "2026-07-29T05:00:00+00:00",
+    "source": "CrowdStrike Blog",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/",
+    "target": "Falcon Platform IOAs Arrive",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "CrowdStrike Blog"
+    ],
+    "links": [
+      {
+        "source": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/"
       }
     ]
   },
@@ -26429,151 +26574,6 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/"
-      }
-    ]
-  },
-  {
-    "id": "183d79c6172ef703",
-    "date": "2026-07-20T14:09:11+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "GPT-5.6 Sol Ultra Found Wp2shell RCE Flaw That Could Be Worth $500,000 for About $25",
-    "summary": "GPT-5.6 Sol Ultra has reportedly uncovered a critical pre-authentication remote code execution (RCE) vulnerability in WordPress after approximately $25 worth of AI usage. This highlights how advanced models could reshape vulnerability research. Researchers at Searchlight Cyber tasked GPT-5.6 Sol Ultra with auditing a local copy of the WordPress source code using four AI agents over […] The post GPT-5.6 Sol Ultra Found Wp2shell RCE Flaw That Could Be Worth $500,000 for About $25 appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "GPT-5.6 Sol Ultra has reportedly uncovered a critical pre-authentication remote code execution (RCE) vulnerability in WordPress after approximately $25 worth of AI usage.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/gpt-5-6-sol-ultra-found-wordpress-rce/",
-    "target": "GPT-5.6 Sol Ultra Found",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/gpt-5-6-sol-ultra-found-wordpress-rce/"
-      }
-    ]
-  },
-  {
-    "id": "3123e39cb4ad7b66",
-    "date": "2026-07-20T14:01:11+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "An AI SOC Evaluation Guide for Security Leaders",
-    "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy, operating models, long-term reliability, and production readiness. [...]",
-    "article_text": "The market for AI in the SOC has moved faster than the methods for evaluating it. Just last year, Gartner placed AI SOC Agents at the Innovation Trigger stage with single-digit adoption. As of a few weeks ago, Gartner’s “Hype Cycle for Security Operations, 2026” put them at the Peak of Inflated Expectations. Most AI SOC vendors have a demo that feels like science fiction. Clean alerts go in, and accurate verdicts come out in seconds. It is a compelling pitch. Accuracy often degrades, though, once these tools leave the curated demo and meet real production conditions. The technology shows promise, and some teams report meaningful gains, but for many organizations the gap between proof of concept and operational reality is still wide. The guide behind this article puts a number on it: between 80% and 95% of enterprise AI projects fail in production. To help security leaders close that gap, Prophet Security, a leading agentic AI SOC platform recognized in Rising in Cyber 2026, worked with former Gartner analysts Oliver Rochford and Prateek Bhajanka on a practical, vendor-agnostic guide for evaluating AI in the SOC. A useful question to ask early: Are you acquiring a tool, a capability, or a new way of organizing security work? Be clear on what you expect a proof of concept to prove before you start one. From Bayesian spam filters to SOAR, automation is nothing new to SecOps. GenAI and large language models are different in scope and reach, applied to everything from detection engineering to evidence gathering and autonomous alert triage , investigation, and response. That breadth is why alignment between a product’s operating model and your team matters more than it used to, and why it belongs at the center of your evaluation. This Gartner report provides cybersecurity leaders with key questions and a pragmatic way to evaluate AI SOC solutions, ensuring they actually improve Threat Detection, Investigation, and Response (TDIR) program efficiency and operational outcomes. Start with the most important question: can the AI produce accurate verdicts across the scenarios and attack surfaces your SOC actually faces? The key insight is counterintuitive. Verdict quality does not improve gradually as you feed the model more data. Below a threshold, no amount of fine-tuning or prompt engineering compensates; above it, the model produces reliable verdicts without additional tuning. The data that pushes quality over that line is usually identity, asset, and organizational context, the information that lets the AI tell an attacker apart from a legitimate administrator. That has a direct consequence for how you test. A phishing alert can be triaged from email metadata and a reputation lookup. Investigating privilege escalation or lateral movement requires identity data, asset inventories, behavioral baselines, and organizational structure. If your proof of concept only covers cases where basic detection and telemetry suffice, you are testing the easy scenario and learning nothing about the hard one. Misalignment between a product's operating model and the team using it is one of the most common reasons AI SOC deployments underperform. A one-person operation leans on AI to do work no one else can, so breadth and cost displacement dominate. A larger team needs AI to amplify human effectiveness, which calls for parallel testing, override telemetry, and deliberate role redesign. The right evaluation is the one built for the team you actually have. The most revealing test here is human-AI parity: run the system in parallel with your analysts for a couple of weeks, capture baselines before the AI is introduced, and treat analyst overrides as first-class data rather than noise. A warning sign is an evaluation where analysts end up ratifying the AI's conclusions instead of independently reaching their own. That points to the subtler risk in this category: every AI SOC platform makes a chain of decisions upstream of the analyst: what to ingest, what to suppress, how to prioritize, what context to assemble, and how to frame the investigation. The further upstream a decision sits, the less visible it is and the harder it is to reverse. If the AI silently frames every investigation, your human in the loop becomes a rubber stamp. This is why explainability and investigation depth matter. Analysts can only trust and audit verdicts when they can see the reasoning behind them. A product that works on day one can quietly degrade. This part of the fr",
-    "quick_summary": [
-      "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-    "target": "SOC Evaluation Guide Leaders",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/"
-      }
-    ]
-  },
-  {
-    "id": "a4e8e31cbc6eb91c",
-    "date": "2026-07-20T14:00:00+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Cybersecurity Keeps Events 'Uneventful'",
-    "summary": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
-    "article_text": "",
-    "quick_summary": [
-      "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
-    "target": "Keeps Events Uneventful",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful"
-      }
-    ]
-  },
-  {
-    "id": "8fe8ccfafbf09dc3",
-    "date": "2026-07-20T13:33:58+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft to End OneDrive Sync App Updates for Windows 10",
-    "summary": "Microsoft will stop delivering OneDrive sync app updates to systems running Windows 10 version 21H2 and earlier on August 15, 2026, creating a new support concern for organizations still operating legacy Windows endpoints. The change was announced in Microsoft 365 Message Center notification MC1426708, published on July 13 and updated on July 17, 2026. After […] The post Microsoft to End OneDrive Sync App Updates for Windows 10 appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Microsoft will stop delivering OneDrive sync app updates to systems running Windows 10 version 21H2 and earlier on August 15, 2026, creating a new support concern for organizations still operating legacy Windows endpoint",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/windows-10-onedrive-updates-ends/",
-    "target": "Microsoft End OneDrive Sync",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/windows-10-onedrive-updates-ends/"
-      }
-    ]
-  },
-  {
-    "id": "1e742cbddac5b817",
-    "date": "2026-07-20T13:17:07.057888+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "SharePoint On-Premises Under Attack: Three Days to Patch Actively Exploited RCE CYBERSEC CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/sharepoint-on-premises-under-attack-three-days-to-patch-actively-exploited-rce",
-    "target": "SharePoint On-Premises",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/sharepoint-on-premises-under-attack-three-days-to-patch-actively-exploited-rce"
       }
     ]
   }
