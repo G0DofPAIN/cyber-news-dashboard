@@ -1,65 +1,7 @@
 [
   {
-    "id": "696fda8ffb5a295f",
-    "date": "2026-07-30T00:11:23.419534+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL RufRoot: The AI Vulnerability That Survives the Patch — 233 Tools Exposed and Persistent Memory Poisoning",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/rufroot-the-ai-vulnerability-that-survives-the-patch-233-tools-exposed-and-persistent-memory-poisoning",
-    "target": "CRITICAL RufRoot",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/rufroot-the-ai-vulnerability-that-survives-the-patch-233-tools-exposed-and-persistent-memory-poisoning"
-      }
-    ]
-  },
-  {
-    "id": "10a3aadcd5a28d10",
-    "date": "2026-07-30T00:11:23.419392+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Rails Active Storage Exposes Arbitrary Files: The 'EOL Window' That Forces the Issue",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/rails-active-storage-exposes-arbitrary-files-the-eol-window-that-forces-the-issue",
-    "target": "CRITICAL Rails Active Storage",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/rails-active-storage-exposes-arbitrary-files-the-eol-window-that-forces-the-issue"
-      }
-    ]
-  },
-  {
     "id": "d41d8c31545721d5",
-    "date": "2026-07-30T00:11:23.419270+00:00",
+    "date": "2026-07-30T03:27:44.486560+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "2425dbe8a58d87b2",
-    "date": "2026-07-30T00:11:23.419156+00:00",
+    "date": "2026-07-30T03:27:44.486457+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +59,7 @@
   },
   {
     "id": "5700d031353b005a",
-    "date": "2026-07-30T00:11:23.419040+00:00",
+    "date": "2026-07-30T03:27:44.486342+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +88,7 @@
   },
   {
     "id": "b1604384f4a8e390",
-    "date": "2026-07-30T00:11:23.418917+00:00",
+    "date": "2026-07-30T03:27:44.486234+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,13 +116,13 @@
     ]
   },
   {
-    "id": "49e13946c156d6ca",
-    "date": "2026-07-30T00:11:23.418774+00:00",
+    "id": "bde8c654177a067c",
+    "date": "2026-07-30T03:27:44.486128+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "USB Heap Overflow in Autel EV Charger Enables Code Execution Without Authentication VULN ZERO-DAY",
+    "title": "CRITICAL NoMachine getstat Command Injection Opens Door to RCE, CVSS 8.8",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -188,8 +130,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/usb-heap-overflow-in-autel-ev-charger-enables-code-execution-without-authentication",
-    "target": "USB Heap Overflow Autel",
+    "link": "https://deafnews.it/en/news/cybersecurity/nomachine-getstat-command-injection-opens-door-to-rce-cvss-88",
+    "target": "CRITICAL NoMachine Command Injection",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -198,18 +140,18 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/usb-heap-overflow-in-autel-ev-charger-enables-code-execution-without-authentication"
+        "url": "https://deafnews.it/en/news/cybersecurity/nomachine-getstat-command-injection-opens-door-to-rce-cvss-88"
       }
     ]
   },
   {
-    "id": "a99926fd806fafb7",
-    "date": "2026-07-30T00:11:23.418649+00:00",
+    "id": "58ba4220d3fd7abf",
+    "date": "2026-07-30T03:27:44.486027+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "OpenAI Models Break Sandbox via Artifactory Zero-Days, Compromise Hugging Face openai ZERO-DAY",
+    "title": "CRITICAL Adminer: A 2021 Patch Bug Returns as RCE — The CVE-2026-15686 Case",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -217,8 +159,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/openai/openai-models-break-sandbox-via-artifactory-zero-days-compromise-hugging-face",
-    "target": "OpenAI Models Break Sandbox",
+    "link": "https://deafnews.it/en/news/vulnerabilities/adminer-a-2021-patch-bug-returns-as-rce-the-cve-2026-15686-case",
+    "target": "CRITICAL Adminer",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -227,13 +169,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/openai/openai-models-break-sandbox-via-artifactory-zero-days-compromise-hugging-face"
+        "url": "https://deafnews.it/en/news/vulnerabilities/adminer-a-2021-patch-bug-returns-as-rce-the-cve-2026-15686-case"
       }
     ]
   },
   {
     "id": "5d5b4d70adaf3cdc",
-    "date": "2026-07-30T00:11:23.418530+00:00",
+    "date": "2026-07-30T03:27:44.485910+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +208,7 @@
   },
   {
     "id": "50aee635ddd1e540",
-    "date": "2026-07-30T00:11:23.418401+00:00",
+    "date": "2026-07-30T03:27:44.485798+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,7 +237,7 @@
   },
   {
     "id": "2aa6c764cd46bb3e",
-    "date": "2026-07-30T00:11:23.418287+00:00",
+    "date": "2026-07-30T03:27:44.485698+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -324,7 +266,7 @@
   },
   {
     "id": "5b516f6490c72fab",
-    "date": "2026-07-30T00:11:23.418145+00:00",
+    "date": "2026-07-30T03:27:44.485569+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -352,13 +294,71 @@
     ]
   },
   {
-    "id": "3ddb3eaee7aec34c",
-    "date": "2026-07-30T00:11:23.416617+00:00",
+    "id": "64187316b72f2b99",
+    "date": "2026-07-30T03:27:44.485447+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 5 ZERO-DAY · 12 CVE · 12 EXPLOIT IN THE LAST 24H →",
+    "title": "RufRoot: The AI Vulnerability That Survives the Patch — 233 Tools Exposed and Persistent Memory Poisoning CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/rufroot-the-ai-vulnerability-that-survives-the-patch-233-tools-exposed-and-persistent-memory-poisoning",
+    "target": "RufRoot",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/rufroot-the-ai-vulnerability-that-survives-the-patch-233-tools-exposed-and-persistent-memory-poisoning"
+      }
+    ]
+  },
+  {
+    "id": "f3cf36120e1e71c9",
+    "date": "2026-07-30T03:27:44.485300+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Rails Active Storage Exposes Arbitrary Files: The 'EOL Window' That Forces the Issue CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/rails-active-storage-exposes-arbitrary-files-the-eol-window-that-forces-the-issue",
+    "target": "Rails Active Storage Exposes",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/rails-active-storage-exposes-arbitrary-files-the-eol-window-that-forces-the-issue"
+      }
+    ]
+  },
+  {
+    "id": "3ddb3eaee7aec34c",
+    "date": "2026-07-30T03:27:44.483893+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 5 ZERO-DAY · 13 CVE · 13 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -382,7 +382,7 @@
   },
   {
     "id": "9bfd46b8df533c12",
-    "date": "2026-07-30T00:11:22.679314+00:00",
+    "date": "2026-07-30T03:27:43.583950+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -451,7 +451,7 @@
   },
   {
     "id": "72dfbb783aa1a131",
-    "date": "2026-07-30T00:11:21.816354+00:00",
+    "date": "2026-07-30T03:27:42.474242+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -480,7 +480,7 @@
   },
   {
     "id": "5d144d963622d317",
-    "date": "2026-07-30T00:11:21.816225+00:00",
+    "date": "2026-07-30T03:27:42.474131+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -509,7 +509,7 @@
   },
   {
     "id": "666a0d6bf326717c",
-    "date": "2026-07-30T00:11:21.816090+00:00",
+    "date": "2026-07-30T03:27:42.474010+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -538,7 +538,7 @@
   },
   {
     "id": "bc1bdf11a37f7ab1",
-    "date": "2026-07-30T00:11:21.815950+00:00",
+    "date": "2026-07-30T03:27:42.473891+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -567,7 +567,7 @@
   },
   {
     "id": "2c3551cc0e259340",
-    "date": "2026-07-30T00:11:21.815781+00:00",
+    "date": "2026-07-30T03:27:42.473767+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -600,7 +600,7 @@
   },
   {
     "id": "b0b4a827efa67c6b",
-    "date": "2026-07-30T00:11:21.815537+00:00",
+    "date": "2026-07-30T03:27:42.473545+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -629,7 +629,7 @@
   },
   {
     "id": "979b49e8969cf04c",
-    "date": "2026-07-30T00:11:21.815392+00:00",
+    "date": "2026-07-30T03:27:42.473421+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -658,7 +658,7 @@
   },
   {
     "id": "908457cb1d1bccf3",
-    "date": "2026-07-30T00:11:21.815240+00:00",
+    "date": "2026-07-30T03:27:42.473278+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -687,7 +687,7 @@
   },
   {
     "id": "7a9776b0260c88f5",
-    "date": "2026-07-30T00:11:21.815094+00:00",
+    "date": "2026-07-30T03:27:42.473151+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -716,7 +716,7 @@
   },
   {
     "id": "7bba3c2fa29828ec",
-    "date": "2026-07-30T00:11:21.814912+00:00",
+    "date": "2026-07-30T03:27:42.472989+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -745,7 +745,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-07-30T00:11:21.814651+00:00",
+    "date": "2026-07-30T03:27:42.472786+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -774,7 +774,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-07-30T00:11:21.814499+00:00",
+    "date": "2026-07-30T03:27:42.472655+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -803,7 +803,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-07-30T00:11:21.814338+00:00",
+    "date": "2026-07-30T03:27:42.472520+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -832,7 +832,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-30T00:11:21.814148+00:00",
+    "date": "2026-07-30T03:27:42.472336+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -861,7 +861,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-07-30T00:11:21.814012+00:00",
+    "date": "2026-07-30T03:27:42.472214+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -890,7 +890,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-07-30T00:11:21.813858+00:00",
+    "date": "2026-07-30T03:27:42.472076+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -919,7 +919,7 @@
   },
   {
     "id": "02220f09df8df84c",
-    "date": "2026-07-30T00:11:21.813682+00:00",
+    "date": "2026-07-30T03:27:42.471939+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -948,7 +948,7 @@
   },
   {
     "id": "cfcd7be93d0aa926",
-    "date": "2026-07-30T00:11:21.813533+00:00",
+    "date": "2026-07-30T03:27:42.471805+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -977,7 +977,7 @@
   },
   {
     "id": "a63286e4bf0c078f",
-    "date": "2026-07-30T00:11:21.813384+00:00",
+    "date": "2026-07-30T03:27:42.471671+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1006,7 +1006,7 @@
   },
   {
     "id": "47182c9aef963d3a",
-    "date": "2026-07-30T00:11:21.813068+00:00",
+    "date": "2026-07-30T03:27:42.471361+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1035,7 +1035,7 @@
   },
   {
     "id": "351e1cdac53ce066",
-    "date": "2026-07-30T00:11:21.812888+00:00",
+    "date": "2026-07-30T03:27:42.471199+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1064,7 +1064,7 @@
   },
   {
     "id": "a2670333e205d47a",
-    "date": "2026-07-30T00:11:21.812675+00:00",
+    "date": "2026-07-30T03:27:42.471016+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-30T00:11:21.809039+00:00",
+    "date": "2026-07-30T03:27:42.467402+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1122,7 +1122,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-30T00:11:21.808080+00:00",
+    "date": "2026-07-30T03:27:42.466526+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1151,7 +1151,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-30T00:11:21.807813+00:00",
+    "date": "2026-07-30T03:27:42.466239+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1179,37 +1179,8 @@
     ]
   },
   {
-    "id": "f6ed439b216cb228",
-    "date": "2026-07-30T00:11:21.713161+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/",
-    "target": "Escalating All Privileges Foxit",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/"
-      }
-    ]
-  },
-  {
     "id": "b64c9cb77e430403",
-    "date": "2026-07-30T00:11:21.713030+00:00",
+    "date": "2026-07-30T03:27:42.275852+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1238,7 +1209,7 @@
   },
   {
     "id": "3e3cbd0b558843bb",
-    "date": "2026-07-30T00:11:21.712892+00:00",
+    "date": "2026-07-30T03:27:42.275744+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1267,7 +1238,7 @@
   },
   {
     "id": "8cd1db9e003932e1",
-    "date": "2026-07-30T00:11:21.712733+00:00",
+    "date": "2026-07-30T03:27:42.275639+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1296,7 +1267,7 @@
   },
   {
     "id": "ee5f0612a8b4969f",
-    "date": "2026-07-30T00:11:21.712611+00:00",
+    "date": "2026-07-30T03:27:42.275541+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1325,7 +1296,7 @@
   },
   {
     "id": "208f4c2ee1635e3a",
-    "date": "2026-07-30T00:11:21.712480+00:00",
+    "date": "2026-07-30T03:27:42.275432+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1354,7 +1325,7 @@
   },
   {
     "id": "c1ec3a993f09ca92",
-    "date": "2026-07-30T00:11:21.712356+00:00",
+    "date": "2026-07-30T03:27:42.275326+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1383,7 +1354,7 @@
   },
   {
     "id": "f2a6d48a010a14bc",
-    "date": "2026-07-30T00:11:21.712224+00:00",
+    "date": "2026-07-30T03:27:42.275219+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1412,7 +1383,7 @@
   },
   {
     "id": "e4f962b2c4e6f866",
-    "date": "2026-07-30T00:11:21.712091+00:00",
+    "date": "2026-07-30T03:27:42.275113+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1441,7 +1412,7 @@
   },
   {
     "id": "c782711ca5125268",
-    "date": "2026-07-30T00:11:21.711952+00:00",
+    "date": "2026-07-30T03:27:42.274999+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1470,7 +1441,7 @@
   },
   {
     "id": "8f656f8c214e92cd",
-    "date": "2026-07-30T00:11:21.711806+00:00",
+    "date": "2026-07-30T03:27:42.274889+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1499,7 +1470,7 @@
   },
   {
     "id": "b9fc96dbdac09e97",
-    "date": "2026-07-30T00:11:21.711644+00:00",
+    "date": "2026-07-30T03:27:42.274772+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1528,7 +1499,7 @@
   },
   {
     "id": "704d93df7ce3abcf",
-    "date": "2026-07-30T00:11:21.711498+00:00",
+    "date": "2026-07-30T03:27:42.274646+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1557,7 +1528,7 @@
   },
   {
     "id": "69c13ffc63be2662",
-    "date": "2026-07-30T00:11:21.711371+00:00",
+    "date": "2026-07-30T03:27:42.274542+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1586,7 +1557,7 @@
   },
   {
     "id": "644c98cdd749985f",
-    "date": "2026-07-30T00:11:21.711236+00:00",
+    "date": "2026-07-30T03:27:42.274429+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1615,7 +1586,7 @@
   },
   {
     "id": "8792d8d32021afa0",
-    "date": "2026-07-30T00:11:21.711095+00:00",
+    "date": "2026-07-30T03:27:42.274297+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1644,7 +1615,7 @@
   },
   {
     "id": "19ea21b7eb7b5b86",
-    "date": "2026-07-30T00:11:21.710930+00:00",
+    "date": "2026-07-30T03:27:42.274160+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1673,7 +1644,7 @@
   },
   {
     "id": "576fd85aff13b062",
-    "date": "2026-07-30T00:11:21.710763+00:00",
+    "date": "2026-07-30T03:27:42.274045+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1702,7 +1673,7 @@
   },
   {
     "id": "6ef403b68fedfb1c",
-    "date": "2026-07-30T00:11:21.710637+00:00",
+    "date": "2026-07-30T03:27:42.273944+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1730,8 +1701,37 @@
     ]
   },
   {
+    "id": "ea5e7928d960bd9a",
+    "date": "2026-07-30T03:27:42.273839+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Detection and Enforcement for Endpoint AI Agents",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Detection and Enforcement for Endpoint AI Agents",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vadzuv/detection_and_enforcement_for_endpoint_ai_agents/",
+    "target": "Detection Enforcement Endpoint Agents",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vadzuv/detection_and_enforcement_for_endpoint_ai_agents/"
+      }
+    ]
+  },
+  {
     "id": "c16e9c5732385456",
-    "date": "2026-07-30T00:11:21.710501+00:00",
+    "date": "2026-07-30T03:27:42.273722+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1759,37 +1759,8 @@
     ]
   },
   {
-    "id": "41c0f469a5ffbd84",
-    "date": "2026-07-30T00:11:21.710364+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Sixteen strangers and a shared obfuscator: mapping the wool scene",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Sixteen strangers and a shared obfuscator: mapping the wool scene",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1va7x2g/sixteen_strangers_and_a_shared_obfuscator_mapping/",
-    "target": "Sixteen",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1va7x2g/sixteen_strangers_and_a_shared_obfuscator_mapping/"
-      }
-    ]
-  },
-  {
     "id": "f7d770c306e7e868",
-    "date": "2026-07-30T00:11:21.710219+00:00",
+    "date": "2026-07-30T03:27:42.273602+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1817,8 +1788,37 @@
     ]
   },
   {
+    "id": "41c0f469a5ffbd84",
+    "date": "2026-07-30T03:27:42.273480+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Sixteen strangers and a shared obfuscator: mapping the wool scene",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Sixteen strangers and a shared obfuscator: mapping the wool scene",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1va7x2g/sixteen_strangers_and_a_shared_obfuscator_mapping/",
+    "target": "Sixteen",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1va7x2g/sixteen_strangers_and_a_shared_obfuscator_mapping/"
+      }
+    ]
+  },
+  {
     "id": "13c169fecc479de5",
-    "date": "2026-07-30T00:11:21.710080+00:00",
+    "date": "2026-07-30T03:27:42.273345+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1847,7 +1847,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-07-30T00:11:21.709933+00:00",
+    "date": "2026-07-30T03:27:42.273215+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1880,7 +1880,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-07-30T00:11:21.709695+00:00",
+    "date": "2026-07-30T03:27:42.273015+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1908,6 +1908,283 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "f352a851e44da9db",
+    "date": "2026-07-30T02:00:03+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33200",
+    "target": "ISC Stormcast Thursday July",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33200"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33190"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33186"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33182"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33178"
+      }
+    ]
+  },
+  {
+    "id": "5549314ad17df66c",
+    "date": "2026-07-30T01:00:00+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
+    "summary": "The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+    "article_text": "",
+    "quick_summary": [
+      "The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
+    "target": "Asian Cybercriminal Syndicates Become",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power"
+      }
+    ]
+  },
+  {
+    "id": "bbd7605ae61489d2",
+    "date": "2026-07-30T00:42:29+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner [Guest Diary], (Thu, Jul 30th)",
+    "summary": "[This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program]",
+    "article_text": "",
+    "quick_summary": [
+      "[This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program]",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33198",
+    "target": "Reconnaissance First",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33198"
+      }
+    ]
+  },
+  {
+    "id": "e6d552dbd469e076",
+    "date": "2026-07-30T00:30:00+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China",
+    "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
+    "article_text": "",
+    "quick_summary": [
+      "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
+    "target": "Flying Eagle Full-Service Mobile",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china"
+      }
+    ]
+  },
+  {
+    "id": "767f82927d41f551",
+    "date": "2026-07-30T00:12:04+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "LeakNet Claims 11TB of Data Stolen in NYC Health + Hospitals Breach",
+    "summary": "LeakNet claims it stole 11TB of NYC Health + Hospitals data containing sensitive medical, financial and biometric records linked to more than 12 million people.",
+    "article_text": "",
+    "quick_summary": [
+      "LeakNet claims it stole 11TB of NYC Health + Hospitals data containing sensitive medical, financial and biometric records linked to more than 12 million people.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://hackread.com/leaknet-11tb-stolen-nyc-health-hospitals-data-breach/",
+    "target": "LeakNet Claims 11TB Data",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/leaknet-11tb-stolen-nyc-health-hospitals-data-breach/"
+      }
+    ]
+  },
+  {
+    "id": "10a3aadcd5a28d10",
+    "date": "2026-07-30T00:11:23.419392+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Rails Active Storage Exposes Arbitrary Files: The 'EOL Window' That Forces the Issue",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/rails-active-storage-exposes-arbitrary-files-the-eol-window-that-forces-the-issue",
+    "target": "CRITICAL Rails Active Storage",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/rails-active-storage-exposes-arbitrary-files-the-eol-window-that-forces-the-issue"
+      }
+    ]
+  },
+  {
+    "id": "49e13946c156d6ca",
+    "date": "2026-07-30T00:11:23.418774+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "USB Heap Overflow in Autel EV Charger Enables Code Execution Without Authentication VULN ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/usb-heap-overflow-in-autel-ev-charger-enables-code-execution-without-authentication",
+    "target": "USB Heap Overflow Autel",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/usb-heap-overflow-in-autel-ev-charger-enables-code-execution-without-authentication"
+      }
+    ]
+  },
+  {
+    "id": "a99926fd806fafb7",
+    "date": "2026-07-30T00:11:23.418649+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "OpenAI Models Break Sandbox via Artifactory Zero-Days, Compromise Hugging Face openai ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/openai/openai-models-break-sandbox-via-artifactory-zero-days-compromise-hugging-face",
+    "target": "OpenAI Models Break Sandbox",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/openai/openai-models-break-sandbox-via-artifactory-zero-days-compromise-hugging-face"
+      }
+    ]
+  },
+  {
+    "id": "f6ed439b216cb228",
+    "date": "2026-07-30T00:11:21.713161+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Escalating All The Privileges With Foxit PDF Reader (CVE-2026–57239)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/",
+    "target": "Escalating All Privileges Foxit",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v1ffuz/escalating_all_the_privileges_with_foxit_pdf/"
       }
     ]
   },
@@ -2040,7 +2317,7 @@
     "category": "",
     "title": "Anthropic confirms Claude is down worldwide",
     "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
-    "article_text": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a “529 Overloaded” message, including in Claude and tools that rely on its API. Anthropic began investigating the outage at 7:49 p.m. UTC on July 29. At 8:33 p.m. UTC, the company said it had identified the issue and was working to resolve it, but did not reveal the underlying cause or provide a recovery timeline. During the outage, I repeatedly encountered the following message: “API Error: 529 Overloaded. This is a server-side issue, usually temporary — try again in a moment.” A 529 error generally means Claude’s servers are unable to handle the current volume of requests. Thankfully, Anthropic is aware of the root cause and is working on a fix. Update 1: As of 17:30 EDT, Anthropic says it's continuing to work to fully resolve issues resulting in elevated requests and latency to Claude models. It has already begun seeing recovery across most models, but some of you could still run into errors. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. ChatGPT share links abused to host fake outage pages to deliver malware Use Claude AI to become an Excel pro with this $20 course bundle Microsoft blames massive Microsoft 365 outage on maintenance bug Microsoft 365 outage affects Teams, SharePoint and other services Ernst & Young data breach claimed by ShinyHunters extortion gang GitHub, PyPI add time-based defenses against supply chain attacks Rev5 is ending. See what your FedRAMP 20x transition really requires Your Scanners Are Green. Your Pipeline Might Not Be. Here's How to Close the Gap. Overdue a password health-check? Audit your Active Directory for free Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a “529 Overloaded” message, including in Claude and tools that rely on its API. Anthropic began investigating the outage at 7:49 p.m. UTC on July 29. At 8:33 p.m. UTC, the company said it had identified the issue and was working to resolve it, but did not reveal the underlying cause or provide a recovery timeline. During the outage, I repeatedly encountered the following message: “API Error: 529 Overloaded. This is a server-side issue, usually temporary — try again in a moment.” A 529 error generally means Claude’s servers are unable to handle the current volume of requests. Thankfully, Anthropic is aware of the root cause and is working on a fix. Update 1: As of 17:30 EDT, Anthropic says it's continuing to work to fully resolve issues resulting in elevated requests and latency to Claude models. It has already begun seeing recovery across most models, but some of you could still run into errors. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says Claude Fable relaunch disappoints users with nerfed performance Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price Ernst & Young data breach claimed by ShinyHunters extortion gang GitHub, PyPI add time-based defenses against supply chain attacks Rev5 is ending. See what your FedRAMP 20x transition really requires Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Overdue a password health-check? Audit your Active Directory for free Your Scanners Are Green. Your Pipeline Might Not Be. Here's How to Close the Gap. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models.",
       "Risk: credentials/infostealer risk, ISNET vendor relevance",
@@ -19381,35 +19658,6 @@
     ]
   },
   {
-    "id": "6ba5220594bf8a60",
-    "date": "2026-07-23T02:00:03+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33178",
-    "target": "ISC Stormcast Thursday July",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33178"
-      }
-    ]
-  },
-  {
     "id": "d76bff7bc33449cf",
     "date": "2026-07-23T01:00:00+00:00",
     "source": "Dark Reading",
@@ -26342,238 +26590,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/critical-wp2shell-rce-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "f15df8f99fc09529",
-    "date": "2026-07-20T15:22:26.587840+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "SharePoint Critical RCE via Cryptographic Signature Flaw: The Token Danger VULN CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/sharepoint-critical-rce-via-cryptographic-signature-flaw-the-token-danger",
-    "target": "SharePoint Critical RCE Cryptographic",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/sharepoint-critical-rce-via-cryptographic-signature-flaw-the-token-danger"
-      }
-    ]
-  },
-  {
-    "id": "c7b301eac8dfedb8",
-    "date": "2026-07-20T15:15:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers were inside South Korea's diplomat training system for 9 months",
-    "summary": "Unidentified hackers compromised an online education system used by South Korea's diplomatic academy, stealing personal information belonging to former and current employees of the country's Ministry of Foreign Affairs.",
-    "article_text": "",
-    "quick_summary": [
-      "Unidentified hackers compromised an online education system used by South Korea's diplomatic academy, stealing personal information belonging to former and current employees of the country's Ministry of Foreign Affairs.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/south-korea-cyberattack-foreign-ministry",
-    "target": "South Koreas",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/south-korea-cyberattack-foreign-ministry"
-      }
-    ]
-  },
-  {
-    "id": "1faca69d18eed7e0",
-    "date": "2026-07-20T14:54:03+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
-    "summary": "Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others. The post Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
-    "target": "Neo Emerges Stealth 100M",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/"
-      }
-    ]
-  },
-  {
-    "id": "3e96ad2c07f5f087",
-    "date": "2026-07-20T14:47:57+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "LG Monitors Spotted Installing Adware-Like App on Windows PCs",
-    "summary": "Connecting certain LG monitors prompts Windows Update to install an LG app without consent, while the software runs at startup and displays McAfee trial adverts.",
-    "article_text": "",
-    "quick_summary": [
-      "Connecting certain LG monitors prompts Windows Update to install an LG app without consent, while the software runs at startup and displays McAfee trial adverts.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/lg-monitors-install-adware-app-windows-pcs/",
-    "target": "Monitors Spotted Installing Adware-Like",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/lg-monitors-install-adware-app-windows-pcs/"
-      }
-    ]
-  },
-  {
-    "id": "94f6ef58e1ac81d2",
-    "date": "2026-07-20T14:45:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Romania races to restore land registry after cyberattack disrupts property market",
-    "summary": "Romania's land registry agency is still recovering from a cyberattack it called \"the most serious technical incident in the institution's history.\"",
-    "article_text": "",
-    "quick_summary": [
-      "Romania's land registry agency is still recovering from a cyberattack it called \"the most serious technical incident in the institution's history.\"",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/romania-cyberattack-land-registry",
-    "target": "Romania",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/romania-cyberattack-land-registry"
-      }
-    ]
-  },
-  {
-    "id": "51552fa8db2a08b9",
-    "date": "2026-07-20T14:33:43+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-    "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which named the malware HollowGraph, says the approach moves tasking and stolen data through legitimate Microsoft Graph API traffic, so the activity looks",
-    "article_text": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB , which named the malware HollowGraph , says the approach moves tasking and stolen data through legitimate Microsoft Graph API traffic, so the activity looks like ordinary Microsoft 365 chatter and network controls keyed to attacker-owned destinations have nothing to flag. The implant is a .NET DLL that supports just two commands, get and send , and it never reaches out to an attacker-owned server for payloads. Instead, it treats the compromised mailbox's calendar as a two-way dead drop. To pull tasking, it queries the calendar for an event the operator has planted, buried at 2050-05-13 , so the mailbox owner is unlikely to ever scroll to it, and reads its instructions from an attached file. To exfiltrate, it does the reverse: encrypts the stolen file, creates its own far-future event, and uploads the data as one or more attachments. Everything moving through the calendar is wrapped in hybrid RSA and AES-256 encryption, with separate key pairs for incoming tasking and outgoing data. A second, cruder channel keeps that Graph access alive. Over DNS, HollowGraph refreshes the app's Entra ID (Azure AD) login details: its tenant ID, client ID, client secret and target mailbox. It decodes those values from IPv6 AAAA records sent back by an attacker domain, cloudlanecdn[.]com , then writes them to logAzure.txt , a file dressed up as a routine log. Those are stored client-credentials, not access tokens, and unlike the calendar traffic this channel runs in the clear. Group-IB ties HollowGraph to Cavern with high confidence, on shared command syntax and matching internal tasking. Cavern is a modular backdoor framework that Check Point documented earlier this month and attributed to an Iranian Ministry of Intelligence and Security-linked actor it calls Cavern Manticore , a cluster it says overlaps with the known Iranian groups MuddyWater and Lyceum. But the firm link is to the code, not the crew. Group-IB will not name the operator behind this campaign: \"Based on the evidence currently available, we cannot confidently attribute this activity to any previously identified threat actor,\" it wrote, noting only a low-confidence overlap with Lyceum, a subgroup of the Iranian actor OilRig. The compromised exfiltration mailbox belongs to an Israeli organization, but Group-IB treats that as victim geography, not attribution. Group-IB found the implant on at least 12 machines, only about three of them actively talking to the attacker during the analysis window, with victim traffic running from 3 June to 9 July 2026. It reads that small, selective footprint as targeted espionage rather than opportunistic crime, even though the technique behind it could be reused far more widely than this one campaign. There is no Microsoft software vulnerability here and no patch to deploy. HollowGraph rides a compromised account and the Graph API's normal functionality, which is exactly why it is hard to spot. The work is on identity and application permissions plus monitoring, not a patch. Group-IB's detection advice leans on the malware's own habits, and the sharpest signals live in the calendar itself. Hunt for events that carry: On the identity side, the firm recommends restricting and auditing the client-credential OAuth apps that can reach Graph and alerting on newly created client secrets, plus the usual Entra ID hygiene of Conditional Access, credential rotation, and anomalous-token detection. For detection, audit Microsoft Graph and mailbox activity for application-driven calendar changes: events created, attachments uploaded, or subjects renamed by an app rather than a person. Watch DNS too, for unusually frequent AAAA queries and long, high-entropy subdomains aimed at a single domain. Hunting for cloudlanecdn[.]com and the logAzure.txt config file is the fast first pass, and the full indicator set, including file hashes, is in Group-IB's report. Hiding command-and-control in trusted Microsoft services is not new ; attackers have already run it through Outlook inboxes, draft folders and OneDrive. Events parked in 2050, out where no one looks, are simply the latest spot defenders had no reason to inspect. The operator still has no name, and victim traffic was flowing as recently as 9 July, which makes those far",
-    "quick_summary": [
-      "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the y",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-    "target": "HollowGraph Malware Hides Stolen",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html"
-      }
-    ]
-  },
-  {
-    "id": "61f5d337fb85dafd",
-    "date": "2026-07-20T14:20:34+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "ClickFix Campaign Delivers Modular TELEPUZ Malware With 36 Remote Commands",
-    "summary": "A new malware operation is using ClickFix pages to trick Windows users into running malicious commands themselves. The campaign delivers TELEPUZ, a lightweight but capable remote-access malware that can receive dozens of instructions from its operators. The attack begins with a fake verification-style page that asks a visitor to copy and execute a command. That […] The post ClickFix Campaign Delivers Modular TELEPUZ Malware With 36 Remote Commands appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A new malware operation is using ClickFix pages to trick Windows users into running malicious commands themselves.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/clickfix-campaign-delivers-telepuz/",
-    "target": "ClickFix Campaign Delivers Modular",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/clickfix-campaign-delivers-telepuz/"
-      }
-    ]
-  },
-  {
-    "id": "d7b38446c1964294",
-    "date": "2026-07-20T14:11:05+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
-    "summary": "The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533. The post SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/",
-    "target": "SonicWall Zero-Days Exploited Deliver",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/"
       }
     ]
   }
