@@ -1,65 +1,7 @@
 [
   {
-    "id": "64969c864607af6c",
-    "date": "2026-07-31T09:59:12.715966+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY Prinz Eugen: The Ransomware That Encrypts Recent Files and Vanishes Without a Trace",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/ransomware/prinz-eugen-the-ransomware-that-encrypts-recent-files-and-vanishes-without-a-trace",
-    "target": "ZERO-DAY Prinz Eugen",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ransomware/prinz-eugen-the-ransomware-that-encrypts-recent-files-and-vanishes-without-a-trace"
-      }
-    ]
-  },
-  {
-    "id": "0e618922a330c815",
-    "date": "2026-07-31T09:59:12.715870+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT AsyncAPI: Five npm Packages Compromised with Valid Provenance",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/asyncapi-five-npm-packages-compromised-with-valid-provenance",
-    "target": "EXPLOIT AsyncAPI",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/asyncapi-five-npm-packages-compromised-with-valid-provenance"
-      }
-    ]
-  },
-  {
     "id": "23facbbca1bfc708",
-    "date": "2026-07-31T09:59:12.715778+00:00",
+    "date": "2026-07-31T12:16:17.216734+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -92,7 +34,7 @@
   },
   {
     "id": "41276265a2ad6d6b",
-    "date": "2026-07-31T09:59:12.715680+00:00",
+    "date": "2026-07-31T12:16:17.216620+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -121,7 +63,7 @@
   },
   {
     "id": "23671fc3c154c2d6",
-    "date": "2026-07-31T09:59:12.715581+00:00",
+    "date": "2026-07-31T12:16:17.216484+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -150,7 +92,7 @@
   },
   {
     "id": "b20bc709588a38e2",
-    "date": "2026-07-31T09:59:12.715480+00:00",
+    "date": "2026-07-31T12:16:17.216370+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -178,42 +120,42 @@
     ]
   },
   {
-    "id": "eb63af2683733463",
-    "date": "2026-07-31T09:59:12.715372+00:00",
+    "id": "a8bebca337c8da70",
+    "date": "2026-07-31T12:16:17.216251+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "GIMP: APNG Integer Overflow Enables Code Execution, Patch Released VULN CRITICAL",
+    "title": "EXPLOIT GitHub Tightens Bug Bounty While Losing Control of Its CI/CD",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/gimp-apng-integer-overflow-enables-code-execution-patch-released",
-    "target": "GIMP",
+    "link": "https://deafnews.it/en/news/cybersecurity/github-tightens-bug-bounty-while-losing-control-of-its-cicd",
+    "target": "EXPLOIT GitHub Tightens Bounty",
     "type": "Vulnerability",
-    "severity": "Critical",
+    "severity": "Medium",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/gimp-apng-integer-overflow-enables-code-execution-patch-released"
+        "url": "https://deafnews.it/en/news/cybersecurity/github-tightens-bug-bounty-while-losing-control-of-its-cicd"
       }
     ]
   },
   {
-    "id": "ccdfba67de5b4bb7",
-    "date": "2026-07-31T09:59:12.715268+00:00",
+    "id": "f9f9f20d614c1ac4",
+    "date": "2026-07-31T12:16:17.216136+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Aeon RCE Flaw in Benchmark Loading: The Risk Lies in the Datasets CYBERSEC CRITICAL",
+    "title": "ZERO-DAY Splunk Enterprise Critical Zero-Day Enables Pre-Auth RCE: When the SIEM Becomes the Entry Point",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -221,8 +163,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/aeon-rce-flaw-in-benchmark-loading-the-risk-lies-in-the-datasets",
-    "target": "Aeon RCE Benchmark Loading",
+    "link": "https://deafnews.it/en/news/cybersecurity/splunk-enterprise-critical-zero-day-enables-pre-auth-rce-when-the-siem-becomes-the-entry-point",
+    "target": "ZERO-DAY Splunk Enterprise Critical",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -231,13 +173,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/aeon-rce-flaw-in-benchmark-loading-the-risk-lies-in-the-datasets"
+        "url": "https://deafnews.it/en/news/cybersecurity/splunk-enterprise-critical-zero-day-enables-pre-auth-rce-when-the-siem-becomes-the-entry-point"
       }
     ]
   },
   {
     "id": "b84d77741d353e0b",
-    "date": "2026-07-31T09:59:12.715168+00:00",
+    "date": "2026-07-31T12:16:17.216023+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +208,7 @@
   },
   {
     "id": "ad00774608c9bc6b",
-    "date": "2026-07-31T09:59:12.715074+00:00",
+    "date": "2026-07-31T12:16:17.215917+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,7 +237,7 @@
   },
   {
     "id": "22dea5eaaf6c59ed",
-    "date": "2026-07-31T09:59:12.714963+00:00",
+    "date": "2026-07-31T12:16:17.215792+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -324,7 +266,7 @@
   },
   {
     "id": "8ba71a1bbcbbc9c3",
-    "date": "2026-07-31T09:59:12.714855+00:00",
+    "date": "2026-07-31T12:16:17.215669+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -353,7 +295,7 @@
   },
   {
     "id": "df0eeb359235efe9",
-    "date": "2026-07-31T09:59:12.714754+00:00",
+    "date": "2026-07-31T12:16:17.215553+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -382,7 +324,7 @@
   },
   {
     "id": "dcf3629d728cbc26",
-    "date": "2026-07-31T09:59:12.714640+00:00",
+    "date": "2026-07-31T12:16:17.215412+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -410,13 +352,42 @@
     ]
   },
   {
-    "id": "2f8d3975edbdd1db",
-    "date": "2026-07-31T09:59:12.713326+00:00",
+    "id": "dc08602fe2010dec",
+    "date": "2026-07-31T12:16:17.215299+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 7 ZERO-DAY · 4 CVE · 6 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
+    "title": "AsyncAPI: Five npm Packages Compromised with Valid Provenance CYBERSEC EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/asyncapi-five-npm-packages-compromised-with-valid-provenance",
+    "target": "AsyncAPI",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/asyncapi-five-npm-packages-compromised-with-valid-provenance"
+      }
+    ]
+  },
+  {
+    "id": "2f8d3975edbdd1db",
+    "date": "2026-07-31T12:16:17.213831+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 2 CRITICAL · 7 ZERO-DAY · 5 CVE · 7 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -440,7 +411,7 @@
   },
   {
     "id": "9bfd46b8df533c12",
-    "date": "2026-07-31T09:59:11.909248+00:00",
+    "date": "2026-07-31T12:16:16.034234+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -508,37 +479,8 @@
     ]
   },
   {
-    "id": "bc1bdf11a37f7ab1",
-    "date": "2026-07-31T09:59:11.091406+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hotel Wi-Fi as New Attack Surface: DNS Poisoning Campaign Steals Microsoft 365 Logins Without a Single Click",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/hotel-wi-fi-as-new-attack-surface-dns-poisoning-campaign-steals-microsoft-365-logins-without-a-single-click/631892/",
-    "target": "Hotel Wi-Fi Surface",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/hotel-wi-fi-as-new-attack-surface-dns-poisoning-campaign-steals-microsoft-365-logins-without-a-single-click/631892/"
-      }
-    ]
-  },
-  {
     "id": "2c3551cc0e259340",
-    "date": "2026-07-31T09:59:11.091283+00:00",
+    "date": "2026-07-31T12:16:15.028070+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -571,7 +513,7 @@
   },
   {
     "id": "b0b4a827efa67c6b",
-    "date": "2026-07-31T09:59:11.091062+00:00",
+    "date": "2026-07-31T12:16:15.027830+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -600,7 +542,7 @@
   },
   {
     "id": "979b49e8969cf04c",
-    "date": "2026-07-31T09:59:11.090944+00:00",
+    "date": "2026-07-31T12:16:15.027695+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -629,7 +571,7 @@
   },
   {
     "id": "908457cb1d1bccf3",
-    "date": "2026-07-31T09:59:11.090813+00:00",
+    "date": "2026-07-31T12:16:15.027538+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -658,7 +600,7 @@
   },
   {
     "id": "7a9776b0260c88f5",
-    "date": "2026-07-31T09:59:11.090688+00:00",
+    "date": "2026-07-31T12:16:15.027373+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -687,7 +629,7 @@
   },
   {
     "id": "7bba3c2fa29828ec",
-    "date": "2026-07-31T09:59:11.090528+00:00",
+    "date": "2026-07-31T12:16:15.027161+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -716,7 +658,7 @@
   },
   {
     "id": "47182c9aef963d3a",
-    "date": "2026-07-31T09:59:11.090391+00:00",
+    "date": "2026-07-31T12:16:15.027019+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -745,7 +687,7 @@
   },
   {
     "id": "351e1cdac53ce066",
-    "date": "2026-07-31T09:59:11.090266+00:00",
+    "date": "2026-07-31T12:16:15.026879+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -774,7 +716,7 @@
   },
   {
     "id": "a2670333e205d47a",
-    "date": "2026-07-31T09:59:11.090104+00:00",
+    "date": "2026-07-31T12:16:15.026698+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -803,7 +745,7 @@
   },
   {
     "id": "86802c9b41a7629b",
-    "date": "2026-07-31T09:59:11.089970+00:00",
+    "date": "2026-07-31T12:16:15.026542+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -832,7 +774,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-07-31T09:59:11.089762+00:00",
+    "date": "2026-07-31T12:16:15.026260+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -861,7 +803,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-07-31T09:59:11.089629+00:00",
+    "date": "2026-07-31T12:16:15.026092+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -890,7 +832,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-07-31T09:59:11.089493+00:00",
+    "date": "2026-07-31T12:16:15.025924+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -919,7 +861,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-07-31T09:59:11.089308+00:00",
+    "date": "2026-07-31T12:16:15.025725+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -948,7 +890,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-07-31T09:59:11.089186+00:00",
+    "date": "2026-07-31T12:16:15.025588+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -977,7 +919,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-07-31T09:59:11.089043+00:00",
+    "date": "2026-07-31T12:16:15.025412+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1006,7 +948,7 @@
   },
   {
     "id": "02220f09df8df84c",
-    "date": "2026-07-31T09:59:11.088905+00:00",
+    "date": "2026-07-31T12:16:15.025259+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1035,7 +977,7 @@
   },
   {
     "id": "cfcd7be93d0aa926",
-    "date": "2026-07-31T09:59:11.088771+00:00",
+    "date": "2026-07-31T12:16:15.025109+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1064,7 +1006,7 @@
   },
   {
     "id": "a63286e4bf0c078f",
-    "date": "2026-07-31T09:59:11.088635+00:00",
+    "date": "2026-07-31T12:16:15.024961+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1093,7 +1035,7 @@
   },
   {
     "id": "1cdf4c090281a791",
-    "date": "2026-07-31T09:59:11.088294+00:00",
+    "date": "2026-07-31T12:16:15.024649+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1122,7 +1064,7 @@
   },
   {
     "id": "bdc41acd9a2db674",
-    "date": "2026-07-31T09:59:11.088105+00:00",
+    "date": "2026-07-31T12:16:15.024440+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1150,8 +1092,37 @@
     ]
   },
   {
+    "id": "485c3e1ddcec76af",
+    "date": "2026-07-31T12:16:15.024245+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "North Korean State Hackers May Be Sharing Tools With a Ransomware Gang Hitting South Korea",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://www.technadu.com/north-korean-state-hackers-may-be-sharing-tools-with-a-ransomware-gang-hitting-south-korea/632404/",
+    "target": "North Korean State May",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/north-korean-state-hackers-may-be-sharing-tools-with-a-ransomware-gang-hitting-south-korea/632404/"
+      }
+    ]
+  },
+  {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-07-31T09:59:11.084366+00:00",
+    "date": "2026-07-31T12:16:15.020655+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1180,7 +1151,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-07-31T09:59:11.083493+00:00",
+    "date": "2026-07-31T12:16:15.019705+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1209,7 +1180,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-07-31T09:59:11.083222+00:00",
+    "date": "2026-07-31T12:16:15.019424+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1237,37 +1208,8 @@
     ]
   },
   {
-    "id": "ee5f0612a8b4969f",
-    "date": "2026-07-31T09:59:10.886851+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Writeup & POC: CVE-2026-49176 Windows WalletService to SYSTEM (LPE)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Writeup & POC: CVE-2026-49176 Windows WalletService to SYSTEM (LPE)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v2kg4q/writeup_poc_cve202649176_windows_walletservice_to/",
-    "target": "Writeup POC",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v2kg4q/writeup_poc_cve202649176_windows_walletservice_to/"
-      }
-    ]
-  },
-  {
     "id": "208f4c2ee1635e3a",
-    "date": "2026-07-31T09:59:10.886744+00:00",
+    "date": "2026-07-31T12:16:14.889347+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1296,7 +1238,7 @@
   },
   {
     "id": "c1ec3a993f09ca92",
-    "date": "2026-07-31T09:59:10.886647+00:00",
+    "date": "2026-07-31T12:16:14.889229+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1325,7 +1267,7 @@
   },
   {
     "id": "f2a6d48a010a14bc",
-    "date": "2026-07-31T09:59:10.886537+00:00",
+    "date": "2026-07-31T12:16:14.889096+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1354,7 +1296,7 @@
   },
   {
     "id": "e4f962b2c4e6f866",
-    "date": "2026-07-31T09:59:10.886414+00:00",
+    "date": "2026-07-31T12:16:14.888963+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1383,7 +1325,7 @@
   },
   {
     "id": "c782711ca5125268",
-    "date": "2026-07-31T09:59:10.886297+00:00",
+    "date": "2026-07-31T12:16:14.888822+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1412,7 +1354,7 @@
   },
   {
     "id": "8f656f8c214e92cd",
-    "date": "2026-07-31T09:59:10.886182+00:00",
+    "date": "2026-07-31T12:16:14.888668+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1441,7 +1383,7 @@
   },
   {
     "id": "b9fc96dbdac09e97",
-    "date": "2026-07-31T09:59:10.886055+00:00",
+    "date": "2026-07-31T12:16:14.888424+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1470,7 +1412,7 @@
   },
   {
     "id": "704d93df7ce3abcf",
-    "date": "2026-07-31T09:59:10.885930+00:00",
+    "date": "2026-07-31T12:16:14.888271+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1499,7 +1441,7 @@
   },
   {
     "id": "69c13ffc63be2662",
-    "date": "2026-07-31T09:59:10.885825+00:00",
+    "date": "2026-07-31T12:16:14.888145+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1528,7 +1470,7 @@
   },
   {
     "id": "644c98cdd749985f",
-    "date": "2026-07-31T09:59:10.885713+00:00",
+    "date": "2026-07-31T12:16:14.888011+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1557,7 +1499,7 @@
   },
   {
     "id": "8792d8d32021afa0",
-    "date": "2026-07-31T09:59:10.885593+00:00",
+    "date": "2026-07-31T12:16:14.887869+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1586,7 +1528,7 @@
   },
   {
     "id": "19ea21b7eb7b5b86",
-    "date": "2026-07-31T09:59:10.885437+00:00",
+    "date": "2026-07-31T12:16:14.887704+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1615,7 +1557,7 @@
   },
   {
     "id": "6ef403b68fedfb1c",
-    "date": "2026-07-31T09:59:10.885331+00:00",
+    "date": "2026-07-31T12:16:14.887564+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1644,7 +1586,7 @@
   },
   {
     "id": "576fd85aff13b062",
-    "date": "2026-07-31T09:59:10.885223+00:00",
+    "date": "2026-07-31T12:16:14.887408+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1673,7 +1615,7 @@
   },
   {
     "id": "c16e9c5732385456",
-    "date": "2026-07-31T09:59:10.885109+00:00",
+    "date": "2026-07-31T12:16:14.887272+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1702,7 +1644,7 @@
   },
   {
     "id": "ea5e7928d960bd9a",
-    "date": "2026-07-31T09:59:10.885005+00:00",
+    "date": "2026-07-31T12:16:14.887143+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1731,7 +1673,7 @@
   },
   {
     "id": "f7d770c306e7e868",
-    "date": "2026-07-31T09:59:10.884884+00:00",
+    "date": "2026-07-31T12:16:14.887000+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1760,7 +1702,7 @@
   },
   {
     "id": "41c0f469a5ffbd84",
-    "date": "2026-07-31T09:59:10.884769+00:00",
+    "date": "2026-07-31T12:16:14.886862+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1789,7 +1731,7 @@
   },
   {
     "id": "13c169fecc479de5",
-    "date": "2026-07-31T09:59:10.884645+00:00",
+    "date": "2026-07-31T12:16:14.886727+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1818,7 +1760,7 @@
   },
   {
     "id": "f2fd3f9c95ece5ad",
-    "date": "2026-07-31T09:59:10.884433+00:00",
+    "date": "2026-07-31T12:16:14.886581+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1847,7 +1789,7 @@
   },
   {
     "id": "d3e476cfbd902e7d",
-    "date": "2026-07-31T09:59:10.884321+00:00",
+    "date": "2026-07-31T12:16:14.886430+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1876,7 +1818,7 @@
   },
   {
     "id": "6d39b100ea3386b5",
-    "date": "2026-07-31T09:59:10.884196+00:00",
+    "date": "2026-07-31T12:16:14.886290+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1904,8 +1846,37 @@
     ]
   },
   {
+    "id": "7c04267f3f171e48",
+    "date": "2026-07-31T12:16:14.886142+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Full Rails RCE technical writeup... KindaRails2Shell: How a MATLAB file reads your secrets and pops a shell on Ruby on Rails | Ethiack",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Full Rails RCE technical writeup... KindaRails2Shell: How a MATLAB file reads your secrets and pops a shell on Ruby on Rails | Ethiack",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vbnvo5/full_rails_rce_technical_writeup_kindarails2shell/",
+    "target": "Full Rails RCE KindaRails2Shell",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vbnvo5/full_rails_rce_technical_writeup_kindarails2shell/"
+      }
+    ]
+  },
+  {
     "id": "d29a549c775ffe8f",
-    "date": "2026-07-31T09:59:10.884064+00:00",
+    "date": "2026-07-31T12:16:14.885990+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1938,7 +1909,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-07-31T09:59:10.883850+00:00",
+    "date": "2026-07-31T12:16:14.885783+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1966,6 +1937,441 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "d7ee83087e190891",
+    "date": "2026-07-31T12:11:43+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "XRP Volatility Surges as Cybersecurity Threats and Market Changes Raise New Concerns",
+    "summary": "XRP volatility drives faster crypto trading as AI tools gain traction, while phishing, exchange attacks and automation risks test digital asset safeguards.",
+    "article_text": "",
+    "quick_summary": [
+      "XRP volatility drives faster crypto trading as AI tools gain traction, while phishing, exchange attacks and automation risks test digital asset safeguards.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://hackread.com/xrp-volatility-cybersecurity-threats-market-changes/",
+    "target": "XRP Volatility Surges Threats",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/xrp-volatility-cybersecurity-threats-market-changes/"
+      }
+    ]
+  },
+  {
+    "id": "032de3ee56b13a42",
+    "date": "2026-07-31T12:05:41+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "North Korean EtherHiding Campaign Targets Crypto Wallets and Developer Credentials",
+    "summary": "A North Korean-linked cyber campaign is using fake macOS update screens to trick victims into installing malware. The operation targets cryptocurrency wallets, browser data, and developer credentials, turning a routine web search into a possible entry point for a serious compromise. The attack begins with a ClickFix-style lure that makes a browser page look like […] The post North Korean EtherHiding Campaign Targets Crypto Wallets and Developer Credentials appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A North Korean-linked cyber campaign is using fake macOS update screens to trick victims into installing malware.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/north-korean-etherhiding-campaign/",
+    "target": "North Korean EtherHiding Campaign",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/north-korean-etherhiding-campaign/"
+      }
+    ]
+  },
+  {
+    "id": "7149cda28d31888a",
+    "date": "2026-07-31T11:50:23+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "BlackTech APT Deploys BlueShell Linux Backdoor Against Japanese Organizations",
+    "summary": "BlackTech has been linked to a newly examined Linux backdoor deployment against organizations in Japan, showing how a familiar remote-access tool can be reshaped for cyberespionage. The malware gives intruders a way to run commands, move files, and route traffic after they have already entered a network, raising the risk to internal systems and sensitive […] The post BlackTech APT Deploys BlueShell Linux Backdoor Against Japanese Organizations appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "BlackTech has been linked to a newly examined Linux backdoor deployment against organizations in Japan, showing how a familiar remote-access tool can be reshaped for cyberespionage.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/blacktech-apt-deploys-blueshell-linux-backdoor/",
+    "target": "BlackTech APT Deploys BlueShell",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/blacktech-apt-deploys-blueshell-linux-backdoor/"
+      }
+    ]
+  },
+  {
+    "id": "ddd7f0eeeec0aec1",
+    "date": "2026-07-31T11:24:59+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+    "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-constrained devices like smart TVs, printers, and so on, the device authorization login flow has been adopted by a wide range of apps and use-cases that it wasn't originally",
+    "article_text": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-constrained devices like smart TVs, printers, and so on, the device authorization login flow has been adopted by a wide range of apps and use-cases that it wasn't originally intended for - most commonly CLI logins. Researchers first described the attack vector in 2020, but it took until 2024 before nation-state actors like Storm-2372 started using it in the wild. By 2025, ShinyHunters was using device code phishing against Salesforce tenants at scale, then in February 2026, the EvilTokens kit arrived and criminal adoption skyrocketed. By April, Microsoft was reporting 10 to 15 entirely new campaigns every 24 hours . Barracuda counted 7 million attacks in four weeks . The FBI issued a standalone advisory on Kali365 , the first US federal agency PSA about a specific phishing-as-a-service kit. Push Security added device code phishing to its Browser & Identity Attacks Matrix back in 2023 and now tracks more than 25 distinct device code phishing kits in the wild and counting. Entering the second half of 2026, there's no sign of the pace slowing. Push recently ran a deep-dive webinar on device code phishing covering the attack mechanics, a live demonstration of a custom-built phishing kit, and what comes next. Here are six takeaways that security teams should have on their radar. Device code phishing doesn't attack the login flow. It attacks what happens after login - the authorization layer. In most cases, the victim is already signed into their Microsoft account when they encounter the phishing page. They copy a short code, enter it on the legitimate Microsoft device login page, pick their account from a dropdown, and click allow. That's the entire attack. Passkeys, hardware security keys, enforced phishing-resistant MFA - none of it makes a difference, because the device code flow is separate from the authentication mechanism. The attack exploits the fact that proving your identity and granting access to an application are two different things, and most security controls only protect the first. Device code phishing is no longer a specialist technique. It's a standard feature in the phishing-as-a-service catalog. Tycoon2FA, which Push previously tracked as the most common AiTM phishing kit in the wild, added device code phishing to its framework in May. Kali365 offers both AiTM and device code phishing in a single platform. Some security firms are reporting that the structural similarities between kits are evidence of the ecosystem forking and fragmenting. But based on what we've seen, kits built independently using similar LLM instructions can look just as alike (more on this below). Regardless, the capabilities these kits offer keep getting better: for example, ARToken ships with PRT persistence, mailbox access, BEC automation, and SharePoint exfiltration packaged as product features for paying operators. The commercialization pattern mirrors what happened with AiTM phishing: a technique moves from a research curiosity to nation-state espionage to a criminal commodity, each stage accelerating faster than the last. But device code phishing completed that entire journey in a matter of months - a compression that reflects both the maturity of the existing PhaaS market and the speed at which AI-assisted development lets new capabilities get built and distributed. Push now tracks more than 25 distinct device code phishing kits in the wild - a number that would have been inconceivable before this year. For context, a brand-new AiTM phishing kit appearing in the wild used to be a significant event that happened once every few months. Having 25+ kit families emerge this year alone reflects a fundamental change in how phishing tools get built. AI-assisted development has collapsed the barrier to entry. Many of the kits Push tracks share structural similarities like similar layout patterns and similar code architecture, because they were generated by LLMs responding to similar prompts. Push VP R&D Luke Jennings spun up his own kit to demonstrate just how easy it is. 99% of the device code phishing Push detects today targets Microsoft, but the webinar demonstrates why that won't last. The OAuth 2.0 device authorization grant is a cross-platform standard, and any application that implements it is a potential target. Na",
+    "quick_summary": [
+      "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
+    "target": "Reasons Device Code Phishing",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html"
+      }
+    ]
+  },
+  {
+    "id": "0b489c296786053e",
+    "date": "2026-07-31T11:21:27+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
+    "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researchers recovered no further operator input in the session. The operator, tracked through the aliases knaithe and KnYuan,",
+    "article_text": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researchers recovered no further operator input in the session. The operator, tracked through the aliases knaithe and KnYuan , launched exploitation attempts against more than 460 targets using autonomous and conventional workflows. Unit 42 described seven exploit tracks. They span eight Common Vulnerabilities and Exposures (CVE) identifiers because the n8n chain combines two vulnerabilities. The DeepSeek-led attacks against Langflow and n8n failed because the exposed systems did not meet the exploits' configuration requirements. In separate manual operations, Unit 42 reported data exfiltration from three organizations through the NetScaler memory-overread flaw CVE-2026-3055 and command execution on 11 Marimo instances through CVE-2026-39987 . Yet it later says it could confirm only three successfully exploited targets across the entire operation. The report does not reconcile the two statements. The Hacker News has contacted Palo Alto Networks for clarification and will update the story with any response. The agent checked versions, downloaded exploits, abandoned an unproductive path, and chose another vulnerability based on severity, deployment scale, and apparent exploitability. Organizations should patch exposed Langflow, n8n and Marimo systems, along with customer-managed NetScaler ADC or Gateway appliances configured as Security Assertion Markup Language (SAML) identity providers. They should also remove unnecessary public access to workflow and notebook interfaces. Hermes Agent exposed the operation by starting python3 -m http.server 8888 from /home/worker. The unintended HTTP server made the actor's model configurations, application programming interface (API) keys, exploit scripts, target lists, shell history, and autonomous-session logs accessible, according to the company's report . DeepSeek was the primary reasoning model inside Hermes Agent , which supplied terminal access, reusable skills and unattended execution. Unit 42 found limited use of Claude Code and Qwen Code. It also found signs of Codex use in exploit-development directories, but could not verify actual use because the chat logs were not preserved. The framework's own documentation confirms that it can operate through Telegram, run commands, and schedule unattended tasks. In a recovered May 2026 session, DeepSeek downloaded a public exploit for the Langflow code-injection flaw CVE-2026-33017 , enumerated 84 instances through FOFA, and found one target running version 1.3.4. Langflow is an artificial intelligence (AI) agent and workflow builder. The attack stopped because the system had neither auto_login enabled nor a usable public flow identifier. The agent then surveyed 10 product families, searched GitHub for recent proof-of-concept repositories and selected n8n, the workflow automation platform. It obtained a chain combining the unauthenticated file-access flaw CVE-2026-21858 with the expression-injection issue CVE-2025-68613 . FOFA returned 25,209 n8n systems in China during the session. DeepSeek sampled about 100, probed roughly 40 and identified three running vulnerable versions. One target exposed three form endpoints, but all required authentication. More than 50 additional targets also lacked a usable public form, so no n8n system was compromised. Langflow fixed CVE-2026-33017 in version 1.9.0. n8n fixed CVE-2026-21858 in version 1.121.0 . It fixed CVE-2025-68613 in versions 1.120.4, 1.121.1, and 1.122.0 . Version 1.121.1 is therefore the earliest release that addresses both flaws used in the attempted chain. Marimo fixed CVE-2026-39987 in version 0.23.0 . Citrix says CVE-2026-3055 affects customer-managed NetScaler ADC and Gateway appliances configured as SAML identity providers. Administrators can check the appliance configuration for add authentication samlIdPProfile .* and install the fixed builds listed in the company's security bulletin . Unit 42 assesses the operator to be based in Zhuhai, China. Public material is consistent with, but does not independently verify, that assessment: the GitHub profile displays the name \"KnYuan Knaithe,\" while an older blog under the same handle describes its author as a binary security researcher in Zhuhai. Those profiles do n",
+    "quick_summary": [
+      "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+    "target": "Chinese Commands DeepSeek Telegram",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html"
+      }
+    ]
+  },
+  {
+    "id": "2540ca0b0760974e",
+    "date": "2026-07-31T10:28:45+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
+    "summary": "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase. The post Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
+    "target": "Google Uncovers 13-Year-Old Chrome",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/"
+      }
+    ]
+  },
+  {
+    "id": "98f8cbabe9f33f18",
+    "date": "2026-07-31T10:00:49+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "CMMC Phase II Is Paused, But Contractors’ Data-Security Obligations Are Not",
+    "summary": "By John Grancarich, EVP, Head of Defense & Intelligence, Fortra The recent pause affecting the implementation of Cybersecurity Maturity Model Certification (CMMC) Phase II has understandably generated questions across the Defense Industrial Base (DIB). For many organizations, the immediate reaction has been to ask whether compliance timelines will shift, whether assessment preparation can be slowed, or whether […] The post CMMC Phase II Is Paused, But Contractors’ Data-Security Obligations Are Not appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "By John Grancarich, EVP, Head of Defense & Intelligence, Fortra The recent pause affecting the implementation of Cybersecurity Maturity Model Certification (CMMC) Phase II has understandably generated questions across th",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/cmmc-phase-ii-is-paused-but-contractors-data-security-obligations-are-not/",
+    "target": "CMMC Phase Paused But",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/cmmc-phase-ii-is-paused-but-contractors-data-security-obligations-are-not/"
+      }
+    ]
+  },
+  {
+    "id": "1191d16065db0c4c",
+    "date": "2026-07-31T10:00:18+00:00",
+    "source": "Palo Alto Unit 42",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version",
+    "summary": "Analysis of XCSSET v40 reveals a macOS malware targeting developers via Xcode. Unit 42 used advanced pattern matching and AI to decode its logic. The post The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version appeared first on Unit 42 .",
+    "article_text": "",
+    "quick_summary": [
+      "Analysis of XCSSET v40 reveals a macOS malware targeting developers via Xcode.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/",
+    "target": "Xcode Assassin Returns",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Palo Alto Unit 42"
+    ],
+    "links": [
+      {
+        "source": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/"
+      }
+    ]
+  },
+  {
+    "id": "7e639868adbdc011",
+    "date": "2026-07-31T10:00:00+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels",
+    "summary": "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI. The post EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
+    "target": "Crack Down Deepfakes Illicit",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/"
+      }
+    ]
+  },
+  {
+    "id": "64969c864607af6c",
+    "date": "2026-07-31T09:59:12.715966+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ZERO-DAY Prinz Eugen: The Ransomware That Encrypts Recent Files and Vanishes Without a Trace",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/ransomware/prinz-eugen-the-ransomware-that-encrypts-recent-files-and-vanishes-without-a-trace",
+    "target": "ZERO-DAY Prinz Eugen",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ransomware/prinz-eugen-the-ransomware-that-encrypts-recent-files-and-vanishes-without-a-trace"
+      }
+    ]
+  },
+  {
+    "id": "0e618922a330c815",
+    "date": "2026-07-31T09:59:12.715870+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT AsyncAPI: Five npm Packages Compromised with Valid Provenance",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/asyncapi-five-npm-packages-compromised-with-valid-provenance",
+    "target": "EXPLOIT AsyncAPI",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/asyncapi-five-npm-packages-compromised-with-valid-provenance"
+      }
+    ]
+  },
+  {
+    "id": "eb63af2683733463",
+    "date": "2026-07-31T09:59:12.715372+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "GIMP: APNG Integer Overflow Enables Code Execution, Patch Released VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/gimp-apng-integer-overflow-enables-code-execution-patch-released",
+    "target": "GIMP",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/gimp-apng-integer-overflow-enables-code-execution-patch-released"
+      }
+    ]
+  },
+  {
+    "id": "ccdfba67de5b4bb7",
+    "date": "2026-07-31T09:59:12.715268+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Aeon RCE Flaw in Benchmark Loading: The Risk Lies in the Datasets CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/aeon-rce-flaw-in-benchmark-loading-the-risk-lies-in-the-datasets",
+    "target": "Aeon RCE Benchmark Loading",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/aeon-rce-flaw-in-benchmark-loading-the-risk-lies-in-the-datasets"
+      }
+    ]
+  },
+  {
+    "id": "bc1bdf11a37f7ab1",
+    "date": "2026-07-31T09:59:11.091406+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hotel Wi-Fi as New Attack Surface: DNS Poisoning Campaign Steals Microsoft 365 Logins Without a Single Click",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/hotel-wi-fi-as-new-attack-surface-dns-poisoning-campaign-steals-microsoft-365-logins-without-a-single-click/631892/",
+    "target": "Hotel Wi-Fi Surface",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/hotel-wi-fi-as-new-attack-surface-dns-poisoning-campaign-steals-microsoft-365-logins-without-a-single-click/631892/"
+      }
+    ]
+  },
+  {
+    "id": "ee5f0612a8b4969f",
+    "date": "2026-07-31T09:59:10.886851+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Writeup & POC: CVE-2026-49176 Windows WalletService to SYSTEM (LPE)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Writeup & POC: CVE-2026-49176 Windows WalletService to SYSTEM (LPE)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v2kg4q/writeup_poc_cve202649176_windows_walletservice_to/",
+    "target": "Writeup POC",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v2kg4q/writeup_poc_cve202649176_windows_walletservice_to/"
       }
     ]
   },
@@ -2347,35 +2753,6 @@
     ]
   },
   {
-    "id": "98f8cbabe9f33f18",
-    "date": "2026-07-31T07:26:06+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "CMMC Phase II Is Paused, But Contractors’ Data-Security Obligations Are Not",
-    "summary": "By John Grancarich, EVP, Head of Defense & Intelligence, Fortra The recent pause affecting the implementation of Cybersecurity Maturity Model Certification (CMMC) Phase II has understandably generated questions across the Defense Industrial Base (DIB). For many organizations, the immediate reaction has been to ask whether compliance timelines will shift, whether assessment preparation can be slowed, or whether […] The post CMMC Phase II Is Paused, But Contractors’ Data-Security Obligations Are Not appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "By John Grancarich, EVP, Head of Defense & Intelligence, Fortra The recent pause affecting the implementation of Cybersecurity Maturity Model Certification (CMMC) Phase II has understandably generated questions across th",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/cmmc-phase-ii-is-paused-but-contractors-data-security-obligations-are-not/",
-    "target": "CMMC Phase Paused But",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/cmmc-phase-ii-is-paused-but-contractors-data-security-obligations-are-not/"
-      }
-    ]
-  },
-  {
     "id": "376b54a1697f0088",
     "date": "2026-07-31T07:13:43.757733+00:00",
     "source": "DeafNews",
@@ -2575,6 +2952,35 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/"
+      }
+    ]
+  },
+  {
+    "id": "73998cf5639d57e3",
+    "date": "2026-07-31T06:41:44+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+    "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecurity testing without its knowledge. The AI firm said the earliest incidents date back to April 2026, adding it made the discoveries after launching a \"",
+    "article_text": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecurity testing without its knowledge. The AI firm said the earliest incidents date back to April 2026, adding it made the discoveries after launching a \"large-scale retrospective review\" in response to a recent disclosure from OpenAI that a combination of its models escaped the sandboxed environment by exploiting a previously unreported zero-day in Artifactory to obtain internet access and break into Hugging Face's production systems with an end goal to cheat on an evaluation. \"After reviewing 141,006 evaluation runs where Claude could have obtained internet access, we identified three incidents in which a model accessed the internet from within or while interacting with the evaluation environment of Irregular, one of our third-party evaluation partners, and then gained unauthorized access to the production infrastructure of three different organizations,\" Anthropic said. In all the identified incidents, Claude is said to have been tasked with a capture-the-flag ( CTF ) challenge to assess the models' capabilities, the intent being to locate a piece of secret information hidden on a different machine on the network by any means whatsoever. Although the evaluation prompt specified to Claude stated that the environment was a simulation and that it had no internet access, Anthropic said a misconfiguration left the machines the model accessed with live internet access due to what it described as a \"misunderstanding\" between the AI lab and evaluation partner Irregular. This, in turn, caused Claude's search to lead it to real systems on the open internet and treat them as in-scope for the exercise, effectively allowing the model to compromise the impacted organizations' infrastructure using basic techniques, including exploiting weak passwords and unauthenticated endpoints. Anthropic emphasized that the model did not find or exploit any complex vulnerabilities, and that in each it continued working to complete only the specific CTF task its evaluation had assigned. \"However, in some cases, our older model continued its attack even after getting evidence it was running on the open internet; our latest model stopped once it recognized it was on the internet,\" it said. \"In none of these situations did Claude exfiltrate itself or deliberately attempt to escape its test environment.\" Like in the case of the OpenAI incident, the models in each of these evaluations are said to have run without the standard guardrails that are deployed when they are made generally available to users. These evaluations were executed from dedicated infrastructure, which it said has no access to Anthropic's sensitive internal systems or customer data. Anthropic also acknowledged that several defense-in-depth measures could have prevented these incidents from taking place, or at the bare minimum, reduced their likelihood. A validation of all internet access paths prior to the evaluations and real-time monitoring of the evaluation logs would have helped surface the issues sooner, it added. The main takeaway from these isolated incidents is that advanced models are responding more appropriately than their predecessors, although more testing is needed to confirm this behavior, it pointed out. \"Opus 4.7, our oldest model, recognized that it had reached production systems but continued its attack,\" it said. \"Mythos 5 correctly intuited that it was accessing the open internet, but reasoned its way back to the conclusion that it was still in a simulation. Our latest model, an internal research test model, also considered whether its targets were in fact real. When evidence emerged that they were, it stopped the exercise.\" OpenAI's models first demonstrated the ability to escape a controlled testing environment and compromise Hugging Face's infrastructure. Anthropic's Claude has now exhibited similar behavior, reinforcing the growing capabilities of state-of-the-art AI systems. For many readers, these announcements no longer resemble neutral security research. Instead, they increasingly read like capability marketing-demonstrations of what the frontier AI models can exploit, bypass, crack, or automate. A few references to responsible disclosure and safety protocols are often enough to frame the findings as research, while the u",
+    "quick_summary": [
+      "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organization",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+    "target": "Anthropic Claude Mistook Open",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html"
       }
     ]
   },
@@ -26197,412 +26603,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/cisa-wordpress-core-sql-injection/"
-      }
-    ]
-  },
-  {
-    "id": "9ca6b5197baae0d0",
-    "date": "2026-07-22T11:09:16+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Stop renting storage space — this lifetime 2TB plan is yours for $59",
-    "summary": "Cloud storage costs tend to creep up over time, since most services charge monthly or annually for as long as you use them. FileJump's Lifetime Plan skips that model entirely, offering 2TB of cloud storage for a single payment of $59 (MSRP $467). [...]",
-    "article_text": "Cloud storage costs tend to creep up over time, since most services charge monthly or annually for as long as you use them. FileJump’s Lifetime Plan skips that model entirely, offering 2TB of cloud storage for a single payment of $59 (MSRP $467). The plan includes zero-knowledge encryption, meaning files are encrypted on your device before upload, so FileJump itself cannot access your data. Uploads work through a drag-and-drop interface, with a 15GB per-file limit and no cap on downloads. Built-in preview support lets you view images, videos, PDFs, spreadsheets, and Word or PowerPoint files without downloading them first, and file version history goes back up to one year. Sharing options include file and folder links, as well as free accounts for collaborators who need direct access. FileJump also supports WebDAV, tested on Windows with CyberDuck, and includes in-browser document editing through OnlyOffice for unencrypted files. The service works through any modern web browser, plus a dedicated app now available on the Google Play Store, in addition to iOS and desktop access. This is a lifetime deal, meaning access does not expire and there are no recurring charges. It’s currently limited to new users, and redemption codes must be activated within 30 days of purchase. However, it should be noted that while this is a lifetime deal, if the company goes out of business then it would not longer be effective. So, only purchase this deal if you're willing to take that risk. Get 2TB of encrypted cloud storage for life with FileJump Cloud Storage for $59 (MSRP $467). Disclosure: This is a StackCommerce deal in partnership with BleepingComputer.com. In order to participate in this deal or giveaway you are required to register an account in our StackCommerce store. To learn more about how StackCommerce handles your registration information please see the StackCommerce Privacy Policy . Furthermore, BleepingComputer.com earns a commission for every sale made through StackCommerce. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Need more storage? Get 2TB of FileJump for life for a one-time $59. Own 2TB of lifetime FileJump storage while it’s only $75 through May A lifetime of Koofr 1TB storage is on sale for one $160 payment Store up to 1TB of files for life with Koofr cloud storage for $130 Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes Hugging Face warns an autonomous AI agent hacked its network Critical ServiceNow code execution flaw now exploited in attacks Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! Overdue a password health-check? Audit your Active Directory for free Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Cloud storage costs tend to creep up over time, since most services charge monthly or annually for as long as you use them.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
-    "target": "Stop",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/"
-      }
-    ]
-  },
-  {
-    "id": "8b6751042c8239a5",
-    "date": "2026-07-22T10:44:52+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
-    "summary": "Microsoft has reminded customers that it will stop shipping security updates for Exchange 2016 and 2019 through the Extended Security Update (ESU) program in October. [...]",
-    "article_text": "Microsoft has reminded customers that it will stop shipping security updates for Exchange 2016 and 2019 through the Extended Security Update (ESU) program in October. This comes after a 6-month extension announced in April 2026 to the original ESU program, which began in October after Exchange Server 2016 and 2019 reached the end of support . Exchange 2016 reached mainstream support in October 2020, while Exchange 2019 mainstream support ended in January 2024. \"Over the last several weeks we have received several questions about possible extension of the Exchange Server 2016/2019 ESU program past October 2026,\" the Exchange Server team said in a Monday blog post . \"After all, in our original Exchange 2016/2019 ESU announcement we said that there would be no extensions, but then we ended up creating a Period 2 Exchange ESU program that is scheduled to end with October 2026. We are just about at the mid-point of Period 2 Exchange ESU now. \"There will be no further extension of Exchange 2016/2019 ESU program timeline. Once October 2026 ends, there will be no further updates for Exchange 2016/2019, even if you currently have a Period 2 ESU.\" Microsoft advised IT admins to upgrade to Exchange Server Subscription Edition (SE), as they can perform in-place upgrades from Exchange Server 2019, a process identical to installing a Cumulative Update (CU). Admins who still have servers running Exchange 2016 or 2013 in production are also advised to directly upgrade to Exchange Server SE or, first, install Exchange 2019. Detailed Microsoft 365 migration guidance is available for global admins on Microsoft's documentation site , which also provides more information on how to migrate to Exchange Online (available as a standalone service or as an Office 365 subscription). In June, Microsoft quietly extended the free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates up until October 2027. Earlier this month, it also announced that Windows Server 2022 and Windows 11 24H2 Home and Pro editions will reach the end of support in 90 days, but will switch to extended support and continue receiving security updates. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Microsoft patches Exchange Server zero-day exploited in attacks Microsoft releases Windows 10 KB5099539 extended security update Microsoft quietly extends free Windows 10 ESU support to October 2027 Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes Hugging Face warns an autonomous AI agent hacked its network Critical ServiceNow code execution flaw now exploited in attacks Do you have what it takes to challenge DARKROOM? Signup for an exclusive DEFCON CTF! Overdue a password health-check? Audit your Active Directory for free See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Pentest your web apps on-demand. Find what humans miss. Scope and launch a pentest in minutes. Privacy by policy or privacy by architecture? See how age checks work when the face never leaves the device. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Microsoft has reminded customers that it will stop shipping security updates for Exchange 2016 and 2019 through the Extended Security Update (ESU) program in October.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
-    "target": "Microsoft Exchange 2016 2019",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/"
-      }
-    ]
-  },
-  {
-    "id": "b5cca9c8ea8abff3",
-    "date": "2026-07-22T10:21:34+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Critical Zimbra Flaw Lets Attackers Inject Commands Through the SNMP Monitoring Service",
-    "summary": "Zimbra fixed a critical Zimbra Collaboration Suite (ZCS) command injection flaw in version 10.1.20 that could allow attackers to abuse the SNMP service and execute arbitrary commands on affected servers. The flaw affects environments where SNMP notifications are enabled, potentially allowing remote attackers to manipulate monitoring data and inject system-level commands, which could lead to […] The post Critical Zimbra Flaw Lets Attackers Inject Commands Through the SNMP Monitoring Service appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Zimbra fixed a critical Zimbra Collaboration Suite (ZCS) command injection flaw in version 10.1.20 that could allow attackers to abuse the SNMP service and execute arbitrary commands on affected servers.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/zimbra-snmp-command-injection-vulnerability/",
-    "target": "Critical Zimbra Lets Attackers",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/zimbra-snmp-command-injection-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "9ce0fca3ce76d9f5",
-    "date": "2026-07-22T10:01:54+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "FBI Warns Scammers Use AI Deepfakes and Fake IC3 Sites to Re-Victimize Fraud Victims",
-    "summary": "The FBI has issued a new Public Service Announcement warning that cybercriminals are increasingly using AI-generated deepfakes and spoofed Internet Crime Complaint Center (IC3) websites to target victims who have already lost money to scams. This advisory, released on July 20, 2026, highlights how threat actors are evolving traditional fraud schemes by combining social engineering, […] The post FBI Warns Scammers Use AI Deepfakes and Fake IC3 Sites to Re-Victimize Fraud Victims appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "The FBI has issued a new Public Service Announcement warning that cybercriminals are increasingly using AI-generated deepfakes and spoofed Internet Crime Complaint Center (IC3) websites to target victims who have already",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/fbi-warns-ai-deepfakes-using-fake-ic3-sites/",
-    "target": "FBI Scammers Deepfakes Fake",
-    "type": "Phishing / Scam",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/fbi-warns-ai-deepfakes-using-fake-ic3-sites/"
-      }
-    ]
-  },
-  {
-    "id": "57748a5062568bf7",
-    "date": "2026-07-22T10:00:00+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
-    "summary": "Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement. The post Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
-    "target": "Endpoint Firm Glow Launches",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/"
-      }
-    ]
-  },
-  {
-    "id": "b51e98b1b8a19f03",
-    "date": "2026-07-22T09:38:33.420259+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "From VPN Bypass to Encrypted Domain: How CVE-2026-0257 Fuels Qilin Ransomware CYBERSEC CVE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/from-vpn-bypass-to-encrypted-domain-how-cve-2026-0257-fuels-qilin-ransomware",
-    "target": "VPN Bypass Encrypted Domain",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/from-vpn-bypass-to-encrypted-domain-how-cve-2026-0257-fuels-qilin-ransomware"
-      }
-    ]
-  },
-  {
-    "id": "0ddf20649bcdbd2b",
-    "date": "2026-07-22T09:38:30.899347+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "UK Government Confirms It Will Not Restrict VPNs Under New Social Media Age Rules",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/uk-government-vpn-decision-no-restrictions-planned-for-users/631212/",
-    "target": "Government Confirms Will Not",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/uk-government-vpn-decision-no-restrictions-planned-for-users/631212/"
-      }
-    ]
-  },
-  {
-    "id": "0a58ca18da9f5a25",
-    "date": "2026-07-22T09:38:30.899226+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Surfshark Expands FastTrack to Over Half of Its Global VPN Network, Promises Up to 70% Faster Speeds on macOS",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/surfshark-fasttrack-expands-across-global-vpn-network-update/631310/",
-    "target": "Surfshark Expands FastTrack Half",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/surfshark-fasttrack-expands-across-global-vpn-network-update/631310/"
-      }
-    ]
-  },
-  {
-    "id": "ce010fcde98939ec",
-    "date": "2026-07-22T09:38:30.899102+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Survey Finds UK Parents Fear Online Strangers More Than Children Using VPNs",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/uk-children-vpn-use-survey-highlights-online-safety-concerns/631355/",
-    "target": "Survey Finds Parents Fear",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/uk-children-vpn-use-survey-highlights-online-safety-concerns/631355/"
-      }
-    ]
-  },
-  {
-    "id": "577a50d5a8cefe51",
-    "date": "2026-07-22T09:23:03+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Anonymous Researcher Dumps 204 0-Day Exploit Files Before Vendors Can Patch Them",
-    "summary": "An anonymous GitHub user has quietly assembled one of the most disruptive exploit collections of the year, dropping 204 zero‑day proof‑of‑concept files for dozens of open‑source projects before vendors had a chance to patch them. The archive, hosted under the name “exploitarium” by a researcher using the handle “bikini,” turned coordinated disclosure on its head […] The post Anonymous Researcher Dumps 204 0-Day Exploit Files Before Vendors Can Patch Them appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "An anonymous GitHub user has quietly assembled one of the most disruptive exploit collections of the year, dropping 204 zero‑day proof‑of‑concept files for dozens of open‑source projects before vendors had a chance to pa",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/researcher-dumps-0-day-exploit-files/",
-    "target": "Anonymous Researcher Dumps 204",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/researcher-dumps-0-day-exploit-files/"
-      }
-    ]
-  },
-  {
-    "id": "9455b1ecc3688bc1",
-    "date": "2026-07-22T09:00:12+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Agents and Steal Data",
-    "summary": "A newly disclosed flaw in Microsoft’s official Azure DevOps MCP server shows how an invisible comment in a pull request can silently hijack a developer’s AI coding assistant and turn it into a data-exfiltration tool. Security researchers at Manifold Security found that the bug lets an attacker with access to just one project steer a […] The post Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Agents and Steal Data appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A newly disclosed flaw in Microsoft’s official Azure DevOps MCP server shows how an invisible comment in a pull request can silently hijack a developer’s AI coding assistant and turn it into a data-exfiltration tool.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/azure-devops-mcp-flaw/",
-    "target": "Azure DevOps MCP Lets",
-    "type": "Data Leak / Breach",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/azure-devops-mcp-flaw/"
-      }
-    ]
-  },
-  {
-    "id": "3f99a008d129fd57",
-    "date": "2026-07-22T08:32:02+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife",
-    "summary": "The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary. The post Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/",
-    "target": "Ransomware Group Threatening Leak",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/"
-      }
-    ]
-  },
-  {
-    "id": "8fce62b67b9fcac4",
-    "date": "2026-07-22T08:30:52+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Spain Fines 23andMe €2.4 Million Over Security Failures Behind 6.9 Million-User Breach",
-    "summary": "Spain’s data protection authority has fined the genetic testing company 23andMe €2.4 million due to security failures linked to a data breach in 2023. This incident exposed highly sensitive information such as genetic, health, ethnicity, and family-related data belonging to over 2,600 individuals in Spain. The penalty follows a significant credential-stuffing attack that compromised data […] The post Spain Fines 23andMe €2.4 Million Over Security Failures Behind 6.9 Million-User Breach appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Spain’s data protection authority has fined the genetic testing company 23andMe €2.4 million due to security failures linked to a data breach in 2023.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/spain-fines-23andme-behind-user-breach/",
-    "target": "Spain Fines 23andMe 2.4",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/spain-fines-23andme-behind-user-breach/"
-      }
-    ]
-  },
-  {
-    "id": "18e93b4b55a21dcd",
-    "date": "2026-07-22T08:17:38+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Abuse Compromised Outlook Accounts to Steal MFA-Protected Microsoft 365 Sessions",
-    "summary": "Attackers are quietly turning trusted Microsoft Outlook mailboxes into launchpads for stealing multi factor authenticated Microsoft 365 sessions, even when users think they are protected. Adversary in the middle phishing has evolved into a reliable tool for hijacking live cloud sessions that organizations depend on for daily work. The activity surfaced in May 2026, when […] The post Hackers Abuse Compromised Outlook Accounts to Steal MFA-Protected Microsoft 365 Sessions appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Attackers are quietly turning trusted Microsoft Outlook mailboxes into launchpads for stealing multi factor authenticated Microsoft 365 sessions, even when users think they are protected.",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/hackers-compromised-outlook-accounts/",
-    "target": "Abuse Compromised Outlook Accounts",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/hackers-compromised-outlook-accounts/"
       }
     ]
   }
