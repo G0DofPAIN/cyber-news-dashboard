@@ -1,36 +1,7 @@
 [
   {
-    "id": "f0834a8b5223f766",
-    "date": "2026-08-02T13:53:27.066723+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Adobe Campaign Classic: Critical CVSS 10.0 Patch for On-Premise Deployments",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/adobe-campaign-classic-critical-cvss-100-patch-for-on-premise-deployments",
-    "target": "CRITICAL Adobe Campaign Classic",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/adobe-campaign-classic-critical-cvss-100-patch-for-on-premise-deployments"
-      }
-    ]
-  },
-  {
     "id": "b121486665032a85",
-    "date": "2026-08-02T13:53:27.066626+00:00",
+    "date": "2026-08-02T15:19:47.254717+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "efc27a5dfa39ff2c",
-    "date": "2026-08-02T13:53:27.066534+00:00",
+    "date": "2026-08-02T15:19:47.254608+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "2a6a1569473ccf80",
-    "date": "2026-08-02T13:53:27.066436+00:00",
+    "date": "2026-08-02T15:19:47.254497+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "d6c5739622d616eb",
-    "date": "2026-08-02T13:53:27.066333+00:00",
+    "date": "2026-08-02T15:19:47.254380+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "5e10f9819d454294",
-    "date": "2026-08-02T13:53:27.066234+00:00",
+    "date": "2026-08-02T15:19:47.254246+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,13 +145,13 @@
     ]
   },
   {
-    "id": "1748995ce563abfd",
-    "date": "2026-08-02T13:53:27.066119+00:00",
+    "id": "52bd381501bd0887",
+    "date": "2026-08-02T15:19:47.254131+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CISA Confirms: CVE-2025-68686 Exploits Pre-Compromised FortiOS for Persistence news CVE",
+    "title": "CRITICAL Heimdall Data Database Proxy: Root RCE via Directory Traversal in uploadJar",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -188,52 +159,27 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/news/cisa-confirms-cve-2025-68686-exploits-pre-compromised-fortios-for-persistence",
-    "target": "CISA Confirms",
-    "type": "Data Leak / Breach",
-    "severity": "High",
+    "link": "https://deafnews.it/en/news/cybersecurity/heimdall-data-database-proxy-root-rce-via-directory-traversal-in-uploadjar",
+    "target": "CRITICAL Heimdall Data Database",
+    "type": "Vulnerability",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/cisa-confirms-cve-2025-68686-exploits-pre-compromised-fortios-for-persistence"
-      }
-    ]
-  },
-  {
-    "id": "afaf97b44660ca0b",
-    "date": "2026-08-02T13:53:27.066012+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit With Agile Dev Workflow news",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/news/exposed-server-reveals-ai-assisted-phishing-toolkit-with-agile-dev-workflow",
-    "target": "Exposed Server Reveals AI-Assisted",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
+        "url": "https://deafnews.it/en/news/cybersecurity/heimdall-data-database-proxy-root-rce-via-directory-traversal-in-uploadjar"
+      },
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/exposed-server-reveals-ai-assisted-phishing-toolkit-with-agile-dev-workflow"
+        "url": "https://deafnews.it/en/news/cybersecurity/heimdall-data-database-proxy-rce-vulnerability-with-root-privileges-discovered"
       }
     ]
   },
   {
     "id": "8f476a93a1d25bf3",
-    "date": "2026-08-02T13:53:27.065917+00:00",
+    "date": "2026-08-02T15:19:47.254018+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +208,7 @@
   },
   {
     "id": "8d4309c446e4b544",
-    "date": "2026-08-02T13:53:27.065814+00:00",
+    "date": "2026-08-02T15:19:47.253905+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -299,7 +245,7 @@
   },
   {
     "id": "b649679770ddb9bc",
-    "date": "2026-08-02T13:53:27.065712+00:00",
+    "date": "2026-08-02T15:19:47.253792+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -328,7 +274,7 @@
   },
   {
     "id": "eab1c47f9d4e7fa1",
-    "date": "2026-08-02T13:53:27.065607+00:00",
+    "date": "2026-08-02T15:19:47.253674+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -357,7 +303,7 @@
   },
   {
     "id": "08a44c94a98a9964",
-    "date": "2026-08-02T13:53:27.065387+00:00",
+    "date": "2026-08-02T15:19:47.253434+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -385,13 +331,42 @@
     ]
   },
   {
-    "id": "37b1439c309cb956",
-    "date": "2026-08-02T13:53:27.064628+00:00",
+    "id": "40173e515ee1095e",
+    "date": "2026-08-02T15:19:47.253241+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC The Great Patching Isn't Enough Anymore: When Attackers Weaponize Your Own Tools Aug 02, 2026",
+    "title": "Apple Patches ImageIO: Parsing Bug Opens Door to RCE Across Eight Operating Systems CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/apple-patches-imageio-parsing-bug-opens-door-to-rce-across-eight-operating-systems",
+    "target": "Apple Patches ImageIO",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/apple-patches-imageio-parsing-bug-opens-door-to-rce-across-eight-operating-systems"
+      }
+    ]
+  },
+  {
+    "id": "7182acd98c12c190",
+    "date": "2026-08-02T15:19:47.253108+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "The Great Patching Isn't Enough Anymore: When Attackers Weaponize Your Own Tools CYBERSEC",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -400,7 +375,7 @@
       "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/the-great-patching-isnt-enough-anymore-when-attackers-weaponize-your-own-tools",
-    "target": "CYBERSEC Great Patching Isnt",
+    "target": "Great Patching Isnt Enough",
     "type": "Vulnerability",
     "severity": "Medium",
     "sources": [
@@ -415,7 +390,7 @@
   },
   {
     "id": "37ee4fed60bda990",
-    "date": "2026-08-02T13:53:27.064496+00:00",
+    "date": "2026-08-02T15:19:47.252488+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -444,12 +419,12 @@
   },
   {
     "id": "db5ae4d0a95a1fa3",
-    "date": "2026-08-02T13:53:27.064036+00:00",
+    "date": "2026-08-02T15:19:47.251815+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 CRITICAL · 3 ZERO-DAY · 4 CVE · 5 EXPLOIT IN THE LAST 24H →",
+    "title": "// 2 CRITICAL · 4 ZERO-DAY · 5 CVE · 6 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -473,7 +448,7 @@
   },
   {
     "id": "9bfd46b8df533c12",
-    "date": "2026-08-02T13:53:26.521282+00:00",
+    "date": "2026-08-02T15:19:46.097465+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -542,7 +517,7 @@
   },
   {
     "id": "979b49e8969cf04c",
-    "date": "2026-08-02T13:53:25.748360+00:00",
+    "date": "2026-08-02T15:19:44.703075+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -571,7 +546,7 @@
   },
   {
     "id": "908457cb1d1bccf3",
-    "date": "2026-08-02T13:53:25.748230+00:00",
+    "date": "2026-08-02T15:19:44.702924+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -600,7 +575,7 @@
   },
   {
     "id": "7a9776b0260c88f5",
-    "date": "2026-08-02T13:53:25.748092+00:00",
+    "date": "2026-08-02T15:19:44.702777+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -629,7 +604,7 @@
   },
   {
     "id": "7bba3c2fa29828ec",
-    "date": "2026-08-02T13:53:25.747934+00:00",
+    "date": "2026-08-02T15:19:44.702594+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -658,7 +633,7 @@
   },
   {
     "id": "47182c9aef963d3a",
-    "date": "2026-08-02T13:53:25.747811+00:00",
+    "date": "2026-08-02T15:19:44.702450+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -687,7 +662,7 @@
   },
   {
     "id": "351e1cdac53ce066",
-    "date": "2026-08-02T13:53:25.747688+00:00",
+    "date": "2026-08-02T15:19:44.702304+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -716,7 +691,7 @@
   },
   {
     "id": "a2670333e205d47a",
-    "date": "2026-08-02T13:53:25.747529+00:00",
+    "date": "2026-08-02T15:19:44.702104+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -745,7 +720,7 @@
   },
   {
     "id": "86802c9b41a7629b",
-    "date": "2026-08-02T13:53:25.747399+00:00",
+    "date": "2026-08-02T15:19:44.701955+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -774,7 +749,7 @@
   },
   {
     "id": "1cdf4c090281a791",
-    "date": "2026-08-02T13:53:25.747246+00:00",
+    "date": "2026-08-02T15:19:44.701778+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -803,7 +778,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-08-02T13:53:25.746999+00:00",
+    "date": "2026-08-02T15:19:44.701514+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -832,7 +807,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-08-02T13:53:25.746868+00:00",
+    "date": "2026-08-02T15:19:44.701360+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -861,7 +836,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-08-02T13:53:25.746740+00:00",
+    "date": "2026-08-02T15:19:44.701190+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -890,7 +865,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-02T13:53:25.746569+00:00",
+    "date": "2026-08-02T15:19:44.700996+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -919,7 +894,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-02T13:53:25.746442+00:00",
+    "date": "2026-08-02T15:19:44.700849+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -948,7 +923,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-02T13:53:25.746306+00:00",
+    "date": "2026-08-02T15:19:44.700692+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -977,7 +952,7 @@
   },
   {
     "id": "02220f09df8df84c",
-    "date": "2026-08-02T13:53:25.746166+00:00",
+    "date": "2026-08-02T15:19:44.700532+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1006,7 +981,7 @@
   },
   {
     "id": "cfcd7be93d0aa926",
-    "date": "2026-08-02T13:53:25.746018+00:00",
+    "date": "2026-08-02T15:19:44.700375+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1035,7 +1010,7 @@
   },
   {
     "id": "a63286e4bf0c078f",
-    "date": "2026-08-02T13:53:25.745881+00:00",
+    "date": "2026-08-02T15:19:44.700202+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1064,7 +1039,7 @@
   },
   {
     "id": "bdc41acd9a2db674",
-    "date": "2026-08-02T13:53:25.745582+00:00",
+    "date": "2026-08-02T15:19:44.699873+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1093,7 +1068,7 @@
   },
   {
     "id": "485c3e1ddcec76af",
-    "date": "2026-08-02T13:53:25.745407+00:00",
+    "date": "2026-08-02T15:19:44.699684+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1122,7 +1097,7 @@
   },
   {
     "id": "4e48df1af8f682f4",
-    "date": "2026-08-02T13:53:25.745271+00:00",
+    "date": "2026-08-02T15:19:44.699531+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1151,7 +1126,7 @@
   },
   {
     "id": "72c00caa5a0f25dc",
-    "date": "2026-08-02T13:53:25.745087+00:00",
+    "date": "2026-08-02T15:19:44.699351+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1180,7 +1155,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-02T13:53:25.741578+00:00",
+    "date": "2026-08-02T15:19:44.695744+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1209,7 +1184,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-02T13:53:25.740677+00:00",
+    "date": "2026-08-02T15:19:44.694771+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1238,7 +1213,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-02T13:53:25.740419+00:00",
+    "date": "2026-08-02T15:19:44.694488+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1267,7 +1242,7 @@
   },
   {
     "id": "f2a6d48a010a14bc",
-    "date": "2026-08-02T13:53:25.663810+00:00",
+    "date": "2026-08-02T15:19:44.536605+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1296,7 +1271,7 @@
   },
   {
     "id": "e4f962b2c4e6f866",
-    "date": "2026-08-02T13:53:25.663704+00:00",
+    "date": "2026-08-02T15:19:44.536471+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1325,7 +1300,7 @@
   },
   {
     "id": "c782711ca5125268",
-    "date": "2026-08-02T13:53:25.663589+00:00",
+    "date": "2026-08-02T15:19:44.536326+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1354,7 +1329,7 @@
   },
   {
     "id": "8f656f8c214e92cd",
-    "date": "2026-08-02T13:53:25.663477+00:00",
+    "date": "2026-08-02T15:19:44.536163+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1383,7 +1358,7 @@
   },
   {
     "id": "b9fc96dbdac09e97",
-    "date": "2026-08-02T13:53:25.663358+00:00",
+    "date": "2026-08-02T15:19:44.536018+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1412,7 +1387,7 @@
   },
   {
     "id": "704d93df7ce3abcf",
-    "date": "2026-08-02T13:53:25.663234+00:00",
+    "date": "2026-08-02T15:19:44.535871+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1441,7 +1416,7 @@
   },
   {
     "id": "69c13ffc63be2662",
-    "date": "2026-08-02T13:53:25.663112+00:00",
+    "date": "2026-08-02T15:19:44.535740+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1470,7 +1445,7 @@
   },
   {
     "id": "644c98cdd749985f",
-    "date": "2026-08-02T13:53:25.662994+00:00",
+    "date": "2026-08-02T15:19:44.535600+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1499,7 +1474,7 @@
   },
   {
     "id": "8792d8d32021afa0",
-    "date": "2026-08-02T13:53:25.662876+00:00",
+    "date": "2026-08-02T15:19:44.535450+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1528,7 +1503,7 @@
   },
   {
     "id": "19ea21b7eb7b5b86",
-    "date": "2026-08-02T13:53:25.662738+00:00",
+    "date": "2026-08-02T15:19:44.535280+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1557,7 +1532,7 @@
   },
   {
     "id": "6ef403b68fedfb1c",
-    "date": "2026-08-02T13:53:25.662631+00:00",
+    "date": "2026-08-02T15:19:44.535130+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1586,7 +1561,7 @@
   },
   {
     "id": "576fd85aff13b062",
-    "date": "2026-08-02T13:53:25.662521+00:00",
+    "date": "2026-08-02T15:19:44.534998+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1615,7 +1590,7 @@
   },
   {
     "id": "c16e9c5732385456",
-    "date": "2026-08-02T13:53:25.662406+00:00",
+    "date": "2026-08-02T15:19:44.534860+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1644,7 +1619,7 @@
   },
   {
     "id": "f7d770c306e7e868",
-    "date": "2026-08-02T13:53:25.662287+00:00",
+    "date": "2026-08-02T15:19:44.534717+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1673,7 +1648,7 @@
   },
   {
     "id": "41c0f469a5ffbd84",
-    "date": "2026-08-02T13:53:25.662170+00:00",
+    "date": "2026-08-02T15:19:44.534579+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1702,7 +1677,7 @@
   },
   {
     "id": "13c169fecc479de5",
-    "date": "2026-08-02T13:53:25.662049+00:00",
+    "date": "2026-08-02T15:19:44.534445+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1731,7 +1706,7 @@
   },
   {
     "id": "f2fd3f9c95ece5ad",
-    "date": "2026-08-02T13:53:25.661934+00:00",
+    "date": "2026-08-02T15:19:44.534297+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1760,7 +1735,7 @@
   },
   {
     "id": "d3e476cfbd902e7d",
-    "date": "2026-08-02T13:53:25.661831+00:00",
+    "date": "2026-08-02T15:19:44.534151+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1789,7 +1764,7 @@
   },
   {
     "id": "6d39b100ea3386b5",
-    "date": "2026-08-02T13:53:25.661716+00:00",
+    "date": "2026-08-02T15:19:44.534012+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1818,7 +1793,7 @@
   },
   {
     "id": "4d9c8cd2fd9deafb",
-    "date": "2026-08-02T13:53:25.661597+00:00",
+    "date": "2026-08-02T15:19:44.533869+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1847,7 +1822,7 @@
   },
   {
     "id": "7c04267f3f171e48",
-    "date": "2026-08-02T13:53:25.661476+00:00",
+    "date": "2026-08-02T15:19:44.533724+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1876,7 +1851,7 @@
   },
   {
     "id": "1a530bd1fbf30198",
-    "date": "2026-08-02T13:53:25.661348+00:00",
+    "date": "2026-08-02T15:19:44.533573+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1905,7 +1880,7 @@
   },
   {
     "id": "c182abcfdc180967",
-    "date": "2026-08-02T13:53:25.661226+00:00",
+    "date": "2026-08-02T15:19:44.533412+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1934,7 +1909,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-02T13:53:25.661077+00:00",
+    "date": "2026-08-02T15:19:44.533227+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1971,7 +1946,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-02T13:53:25.660869+00:00",
+    "date": "2026-08-02T15:19:44.533008+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1999,6 +1974,151 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "4f3af558c4461d60",
+    "date": "2026-08-02T14:17:16+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Google Chrome may soon block New Tab hijacker extensions by default",
+    "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
+    "article_text": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. BleepingComputer spotted the protection in a chain of work-in-progress Chromium Gerrit changes. It has not shipped yet, but Google plans to enable it by default once the changes are approved. \"In low-trust environments (unmanaged consumer devices), enterprise policy force-installs and recommendations are abused to lock in search engine or new tab page hijackers,\" Anunoy Ghosh, who works at Google, wrote in a post. \"This CL enables the kBlockDseNtpOverrideExtensionsOnUnmanagedDevices feature flag by default, activating the end-to-end blocking defense on unmanaged Windows and macOS devices.\" Right now, Chrome allows organizations to use enterprise policies to force-install extensions and control browser settings. It's not exactly bad on properly managed work devices connected to a domain or mobile device management system, but malware has been abusing the same feature on regular consumer PCs. A malicious program can add local Chrome policy keys without your permission and force-install an extension that replaces the New Tab page, changes your search engine, or redirects searches to suspicious websites. Chrome may then believe that the extension was installed by an administrator, which prevents you from removing or disabling it. In some cases, Chrome also displays the confusing “Managed by your organization” message, even though the PC is not actually owned or managed by an organization. Google describes these consumer PCs as “low-trust” environments because Chrome is reading policies stored locally without confirmation from a trusted authority, such as a domain or MDM service. Under the proposed protection, Chrome would block attempts to install policy-controlled extensions that override the New Tab page or default search engine. The installation would be canceled, and Chrome would save the extension ID in a blocked-extension preference. Chrome would also stop trying to download the same blocked extension during future policy checks, which should prevent repeated installation attempts and unnecessary network activity. An extension that you installed manually would no longer be converted into a locked, policy-controlled extension. It would remain under your control, so you could still disable or remove it. If a previously managed device loses its trusted management status but still has local policy keys, Chrome would automatically uninstall affected New Tab and search-engine override extensions. Google is adding metrics to measure how often these policy-based hijackers appear and how frequently Chrome blocks them. Legitimate administrators would also have access to an escape-hatch policy that disables the protection when a required enterprise extension overrides the New Tab page or search engine. The Gerrit changes are still under review, so the feature is not available in stable Chrome yet. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Google says AI helped Chrome fix 1,072 security bugs in two releases Fake Perplexity extension on Chrome Web Store tracked searches Malicious Edge extension abuses Native Messaging as bridge to malware Google patches new Chrome zero-day flaw exploited in the wild Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests Microsoft Teams vishing attacks lead to Chaos ransomware attacks Arch Linux disables AUR package adoption to stop malware flood Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Overdue a password health-check? Audit your Active Directory for free Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine.",
+      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+    "target": "Google Chrome Tab",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/"
+      }
+    ]
+  },
+  {
+    "id": "f0834a8b5223f766",
+    "date": "2026-08-02T13:53:27.066723+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Adobe Campaign Classic: Critical CVSS 10.0 Patch for On-Premise Deployments",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/adobe-campaign-classic-critical-cvss-100-patch-for-on-premise-deployments",
+    "target": "CRITICAL Adobe Campaign Classic",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/adobe-campaign-classic-critical-cvss-100-patch-for-on-premise-deployments"
+      }
+    ]
+  },
+  {
+    "id": "1748995ce563abfd",
+    "date": "2026-08-02T13:53:27.066119+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CISA Confirms: CVE-2025-68686 Exploits Pre-Compromised FortiOS for Persistence news CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/news/cisa-confirms-cve-2025-68686-exploits-pre-compromised-fortios-for-persistence",
+    "target": "CISA Confirms",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/cisa-confirms-cve-2025-68686-exploits-pre-compromised-fortios-for-persistence"
+      }
+    ]
+  },
+  {
+    "id": "afaf97b44660ca0b",
+    "date": "2026-08-02T13:53:27.066012+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit With Agile Dev Workflow news",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/news/exposed-server-reveals-ai-assisted-phishing-toolkit-with-agile-dev-workflow",
+    "target": "Exposed Server Reveals AI-Assisted",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/exposed-server-reveals-ai-assisted-phishing-toolkit-with-agile-dev-workflow"
+      }
+    ]
+  },
+  {
+    "id": "37b1439c309cb956",
+    "date": "2026-08-02T13:53:27.064628+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC The Great Patching Isn't Enough Anymore: When Attackers Weaponize Your Own Tools Aug 02, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/the-great-patching-isnt-enough-anymore-when-attackers-weaponize-your-own-tools",
+    "target": "CYBERSEC Great Patching Isnt",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/the-great-patching-isnt-enough-anymore-when-attackers-weaponize-your-own-tools"
       }
     ]
   },
@@ -15058,35 +15178,6 @@
     ]
   },
   {
-    "id": "6e7fa94dfeb5d7cc",
-    "date": "2026-07-28T12:13:02.806310+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Heimdall Data Database Proxy: RCE Vulnerability with Root Privileges Discovered",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/heimdall-data-database-proxy-rce-vulnerability-with-root-privileges-discovered",
-    "target": "CRITICAL Heimdall Data Database",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/heimdall-data-database-proxy-rce-vulnerability-with-root-privileges-discovered"
-      }
-    ]
-  },
-  {
     "id": "28cd7f27f4da4921",
     "date": "2026-07-28T12:13:01.154351+00:00",
     "source": "Reddit r/netsec",
@@ -26544,93 +26635,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/german-police-dismantle-kratos-the-kit-that-turned-aitm-phishing-into-a-franchise"
-      }
-    ]
-  },
-  {
-    "id": "3a631d272b47abda",
-    "date": "2026-07-23T02:49:36+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Anthropic Launches Claude Security Plugin to Scan Code for Vulnerabilities",
-    "summary": "Anthropic has released the Claude Security plugin in beta, bringing AI-powered vulnerability scanning directly into Claude Code for developers who want to catch high-severity flaws before they ship. The tool lets teams scan recent changes or full repositories from the terminal, using the same Claude inference they already run. The Claude Security plugin works inside […] The post Anthropic Launches Claude Security Plugin to Scan Code for Vulnerabilities appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Anthropic has released the Claude Security plugin in beta, bringing AI-powered vulnerability scanning directly into Claude Code for developers who want to catch high-severity flaws before they ship.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/anthropic-claude-security-plugin/",
-    "target": "Anthropic Launches Claude Plugin",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/anthropic-claude-security-plugin/"
-      }
-    ]
-  },
-  {
-    "id": "d76bff7bc33449cf",
-    "date": "2026-07-23T01:00:00+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain",
-    "summary": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
-    "article_text": "",
-    "quick_summary": [
-      "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
-    "target": "Ransomware Puts Chill Japanese",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain"
-      }
-    ]
-  },
-  {
-    "id": "350c8196782d51e1",
-    "date": "2026-07-23T00:15:10.892033+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY DarkSword and Coruna: Government-Grade Spyware Turns Mass Crime on iOS",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/darksword-and-coruna-government-grade-spyware-turns-mass-crime-on-ios",
-    "target": "ZERO-DAY DarkSword Coruna",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/darksword-and-coruna-government-grade-spyware-turns-mass-crime-on-ios"
       }
     ]
   }
