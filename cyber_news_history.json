@@ -1,65 +1,7 @@
 [
   {
-    "id": "d6c5739622d616eb",
-    "date": "2026-08-03T00:12:03.605051+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY Heap Overflow in Kenwood DNR1007XR: Malicious vCard Grants Root Code Execution",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/heap-overflow-in-kenwood-dnr1007xr-malicious-vcard-grants-root-code-execution",
-    "target": "ZERO-DAY Heap Overflow Kenwood",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/heap-overflow-in-kenwood-dnr1007xr-malicious-vcard-grants-root-code-execution"
-      }
-    ]
-  },
-  {
-    "id": "5e10f9819d454294",
-    "date": "2026-08-03T00:12:03.604939+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL WordPress wp2shell: In-the-Wild RCE Within 24 Hours of AI-Assisted Discovery",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/wordpress-wp2shell-in-the-wild-rce-within-24-hours-of-ai-assisted-discovery",
-    "target": "CRITICAL WordPress wp2shell",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/wordpress-wp2shell-in-the-wild-rce-within-24-hours-of-ai-assisted-discovery"
-      }
-    ]
-  },
-  {
     "id": "52bd381501bd0887",
-    "date": "2026-08-03T00:12:03.604822+00:00",
+    "date": "2026-08-03T03:54:03.878901+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -92,7 +34,7 @@
   },
   {
     "id": "a4de14fabaafdc50",
-    "date": "2026-08-03T00:12:03.604682+00:00",
+    "date": "2026-08-03T03:54:03.878779+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -121,7 +63,7 @@
   },
   {
     "id": "bd5c36d77275a3d2",
-    "date": "2026-08-03T00:12:03.604543+00:00",
+    "date": "2026-08-03T03:54:03.878671+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -150,7 +92,7 @@
   },
   {
     "id": "ea4a2d836dbe4cd3",
-    "date": "2026-08-03T00:12:03.604434+00:00",
+    "date": "2026-08-03T03:54:03.878576+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -178,13 +120,42 @@
     ]
   },
   {
-    "id": "40173e515ee1095e",
-    "date": "2026-08-03T00:12:03.604325+00:00",
+    "id": "fca69a9dd50d62a1",
+    "date": "2026-08-03T03:54:03.878461+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Apple Patches ImageIO: Parsing Bug Opens Door to RCE Across Eight Operating Systems CYBERSEC CRITICAL",
+    "title": "CRITICAL SSRF in Phoenix Contact MQTT Broker: The Assault on EV Chargers Starts Here",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/ssrf-in-phoenix-contact-mqtt-broker-the-assault-on-ev-chargers-starts-here",
+    "target": "CRITICAL SSRF Phoenix Contact",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/ssrf-in-phoenix-contact-mqtt-broker-the-assault-on-ev-chargers-starts-here"
+      }
+    ]
+  },
+  {
+    "id": "951595bc14178518",
+    "date": "2026-08-03T03:54:03.878350+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL GStreamer RCE Flaw in rtpsbcdepay Codec: Patch Available",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -192,8 +163,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/apple-patches-imageio-parsing-bug-opens-door-to-rce-across-eight-operating-systems",
-    "target": "Apple Patches ImageIO",
+    "link": "https://deafnews.it/en/news/vulnerabilities/gstreamer-rce-flaw-in-rtpsbcdepay-codec-patch-available",
+    "target": "CRITICAL GStreamer RCE Codec",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -202,42 +173,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/apple-patches-imageio-parsing-bug-opens-door-to-rce-across-eight-operating-systems"
-      }
-    ]
-  },
-  {
-    "id": "7182acd98c12c190",
-    "date": "2026-08-03T00:12:03.604199+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "The Great Patching Isn't Enough Anymore: When Attackers Weaponize Your Own Tools CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/the-great-patching-isnt-enough-anymore-when-attackers-weaponize-your-own-tools",
-    "target": "Great Patching Isnt Enough",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/the-great-patching-isnt-enough-anymore-when-attackers-weaponize-your-own-tools"
+        "url": "https://deafnews.it/en/news/vulnerabilities/gstreamer-rce-flaw-in-rtpsbcdepay-codec-patch-available"
       }
     ]
   },
   {
     "id": "9d088e226027ba35",
-    "date": "2026-08-03T00:12:03.604066+00:00",
+    "date": "2026-08-03T03:54:03.878240+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +208,7 @@
   },
   {
     "id": "e024b3ef7c2b0efe",
-    "date": "2026-08-03T00:12:03.603955+00:00",
+    "date": "2026-08-03T03:54:03.878139+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,7 +237,7 @@
   },
   {
     "id": "d1a7869367c63e82",
-    "date": "2026-08-03T00:12:03.603837+00:00",
+    "date": "2026-08-03T03:54:03.878034+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -324,7 +266,7 @@
   },
   {
     "id": "e246210e14cf545d",
-    "date": "2026-08-03T00:12:03.603689+00:00",
+    "date": "2026-08-03T03:54:03.877903+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -356,13 +298,42 @@
     ]
   },
   {
-    "id": "e7cd4351165729d4",
-    "date": "2026-08-03T00:12:03.602795+00:00",
+    "id": "325da781b5632fc6",
+    "date": "2026-08-03T03:54:03.877657+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "malware SourTrade: The Browser Becomes an In-Memory Malware Factory Aug 02, 2026",
+    "title": "Aeon RCE via Pickle Dataset: ML Pipeline Risk VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/aeon-rce-via-pickle-dataset-ml-pipeline-risk",
+    "target": "Aeon RCE Pickle Dataset",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/aeon-rce-via-pickle-dataset-ml-pipeline-risk"
+      }
+    ]
+  },
+  {
+    "id": "574a9250142a5527",
+    "date": "2026-08-03T03:54:03.877547+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "SourTrade: The Browser Becomes an In-Memory Malware Factory malware",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -386,7 +357,7 @@
   },
   {
     "id": "e07980469ac8d67d",
-    "date": "2026-08-03T00:12:03.602670+00:00",
+    "date": "2026-08-03T03:54:03.876929+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -414,13 +385,13 @@
     ]
   },
   {
-    "id": "7734f6047c8eef59",
-    "date": "2026-08-03T00:12:03.602362+00:00",
+    "id": "23d31cb14bceb1ae",
+    "date": "2026-08-03T03:54:03.876632+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Estée Lauder's 10-Month Oracle EBS Breach: The Suspected Patch Gap That Let Clop In",
+    "title": "CYBERSEC Estée Lauder's 10-Month Oracle EBS Breach: The Suspected Patch Gap That Let Clop In Aug 02, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -429,7 +400,7 @@
       "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/estee-lauders-10-month-oracle-ebs-breach-the-suspected-patch-gap-that-let-clop-in",
-    "target": "Este Lauders 10-Month Oracle",
+    "target": "CYBERSEC Este Lauders 10-Month",
     "type": "Data Leak / Breach",
     "severity": "High",
     "sources": [
@@ -444,12 +415,12 @@
   },
   {
     "id": "db5ae4d0a95a1fa3",
-    "date": "2026-08-03T00:12:03.602171+00:00",
+    "date": "2026-08-03T03:54:03.876117+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 3 ZERO-DAY · 8 CVE · 5 EXPLOIT IN THE LAST 24H →",
+    "title": "// 1 CRITICAL · 3 ZERO-DAY · 10 CVE · 7 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -473,7 +444,7 @@
   },
   {
     "id": "9bfd46b8df533c12",
-    "date": "2026-08-03T00:12:02.440716+00:00",
+    "date": "2026-08-03T03:54:02.593240+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -542,7 +513,7 @@
   },
   {
     "id": "979b49e8969cf04c",
-    "date": "2026-08-03T00:12:01.338156+00:00",
+    "date": "2026-08-03T03:54:01.132569+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -571,7 +542,7 @@
   },
   {
     "id": "908457cb1d1bccf3",
-    "date": "2026-08-03T00:12:01.338006+00:00",
+    "date": "2026-08-03T03:54:01.132434+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -600,7 +571,7 @@
   },
   {
     "id": "7a9776b0260c88f5",
-    "date": "2026-08-03T00:12:01.337860+00:00",
+    "date": "2026-08-03T03:54:01.132306+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -629,7 +600,7 @@
   },
   {
     "id": "7bba3c2fa29828ec",
-    "date": "2026-08-03T00:12:01.337664+00:00",
+    "date": "2026-08-03T03:54:01.132142+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -658,7 +629,7 @@
   },
   {
     "id": "47182c9aef963d3a",
-    "date": "2026-08-03T00:12:01.337477+00:00",
+    "date": "2026-08-03T03:54:01.132017+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -687,7 +658,7 @@
   },
   {
     "id": "351e1cdac53ce066",
-    "date": "2026-08-03T00:12:01.337337+00:00",
+    "date": "2026-08-03T03:54:01.131889+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -716,7 +687,7 @@
   },
   {
     "id": "a2670333e205d47a",
-    "date": "2026-08-03T00:12:01.337156+00:00",
+    "date": "2026-08-03T03:54:01.131696+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -745,7 +716,7 @@
   },
   {
     "id": "86802c9b41a7629b",
-    "date": "2026-08-03T00:12:01.337006+00:00",
+    "date": "2026-08-03T03:54:01.131564+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -774,7 +745,7 @@
   },
   {
     "id": "1cdf4c090281a791",
-    "date": "2026-08-03T00:12:01.336826+00:00",
+    "date": "2026-08-03T03:54:01.131406+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -803,7 +774,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-08-03T00:12:01.336538+00:00",
+    "date": "2026-08-03T03:54:01.131171+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -832,7 +803,7 @@
   },
   {
     "id": "d4e76d122f9dd789",
-    "date": "2026-08-03T00:12:01.336388+00:00",
+    "date": "2026-08-03T03:54:01.131040+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -861,7 +832,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-08-03T00:12:01.336241+00:00",
+    "date": "2026-08-03T03:54:01.130908+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -890,7 +861,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-03T00:12:01.336048+00:00",
+    "date": "2026-08-03T03:54:01.130731+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -919,7 +890,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-03T00:12:01.335906+00:00",
+    "date": "2026-08-03T03:54:01.130607+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -948,7 +919,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-03T00:12:01.335750+00:00",
+    "date": "2026-08-03T03:54:01.130469+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -977,7 +948,7 @@
   },
   {
     "id": "02220f09df8df84c",
-    "date": "2026-08-03T00:12:01.335584+00:00",
+    "date": "2026-08-03T03:54:01.130330+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1006,7 +977,7 @@
   },
   {
     "id": "cfcd7be93d0aa926",
-    "date": "2026-08-03T00:12:01.335410+00:00",
+    "date": "2026-08-03T03:54:01.130196+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1035,7 +1006,7 @@
   },
   {
     "id": "a63286e4bf0c078f",
-    "date": "2026-08-03T00:12:01.335262+00:00",
+    "date": "2026-08-03T03:54:01.130064+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1064,7 +1035,7 @@
   },
   {
     "id": "bdc41acd9a2db674",
-    "date": "2026-08-03T00:12:01.334939+00:00",
+    "date": "2026-08-03T03:54:01.129765+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1093,7 +1064,7 @@
   },
   {
     "id": "485c3e1ddcec76af",
-    "date": "2026-08-03T00:12:01.334749+00:00",
+    "date": "2026-08-03T03:54:01.129599+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1122,7 +1093,7 @@
   },
   {
     "id": "4e48df1af8f682f4",
-    "date": "2026-08-03T00:12:01.334592+00:00",
+    "date": "2026-08-03T03:54:01.129467+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1151,7 +1122,7 @@
   },
   {
     "id": "72c00caa5a0f25dc",
-    "date": "2026-08-03T00:12:01.334392+00:00",
+    "date": "2026-08-03T03:54:01.129310+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1180,7 +1151,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-03T00:12:01.330819+00:00",
+    "date": "2026-08-03T03:54:01.126246+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1209,7 +1180,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-03T00:12:01.329859+00:00",
+    "date": "2026-08-03T03:54:01.125407+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1238,7 +1209,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-03T00:12:01.329591+00:00",
+    "date": "2026-08-03T03:54:01.125180+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1267,7 +1238,7 @@
   },
   {
     "id": "f2a6d48a010a14bc",
-    "date": "2026-08-03T00:12:01.150604+00:00",
+    "date": "2026-08-03T03:54:00.932376+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1296,7 +1267,7 @@
   },
   {
     "id": "e4f962b2c4e6f866",
-    "date": "2026-08-03T00:12:01.150454+00:00",
+    "date": "2026-08-03T03:54:00.932266+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1325,7 +1296,7 @@
   },
   {
     "id": "c782711ca5125268",
-    "date": "2026-08-03T00:12:01.150317+00:00",
+    "date": "2026-08-03T03:54:00.932147+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1354,7 +1325,7 @@
   },
   {
     "id": "8f656f8c214e92cd",
-    "date": "2026-08-03T00:12:01.150181+00:00",
+    "date": "2026-08-03T03:54:00.932034+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1383,7 +1354,7 @@
   },
   {
     "id": "b9fc96dbdac09e97",
-    "date": "2026-08-03T00:12:01.150039+00:00",
+    "date": "2026-08-03T03:54:00.931914+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1412,7 +1383,7 @@
   },
   {
     "id": "704d93df7ce3abcf",
-    "date": "2026-08-03T00:12:01.149894+00:00",
+    "date": "2026-08-03T03:54:00.931780+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1441,7 +1412,7 @@
   },
   {
     "id": "69c13ffc63be2662",
-    "date": "2026-08-03T00:12:01.149769+00:00",
+    "date": "2026-08-03T03:54:00.931674+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1469,37 +1440,8 @@
     ]
   },
   {
-    "id": "644c98cdd749985f",
-    "date": "2026-08-03T00:12:01.149632+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "How AI is powering business email compromise at scale",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "How AI is powering business email compromise at scale",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v8ym0e/how_ai_is_powering_business_email_compromise_at/",
-    "target": "Unknown",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v8ym0e/how_ai_is_powering_business_email_compromise_at/"
-      }
-    ]
-  },
-  {
     "id": "8792d8d32021afa0",
-    "date": "2026-08-03T00:12:01.149468+00:00",
+    "date": "2026-08-03T03:54:00.931559+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1528,7 +1470,7 @@
   },
   {
     "id": "19ea21b7eb7b5b86",
-    "date": "2026-08-03T00:12:01.149308+00:00",
+    "date": "2026-08-03T03:54:00.931422+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1557,7 +1499,7 @@
   },
   {
     "id": "576fd85aff13b062",
-    "date": "2026-08-03T00:12:01.149170+00:00",
+    "date": "2026-08-03T03:54:00.931305+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1586,7 +1528,7 @@
   },
   {
     "id": "6ef403b68fedfb1c",
-    "date": "2026-08-03T00:12:01.149042+00:00",
+    "date": "2026-08-03T03:54:00.931201+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1615,7 +1557,7 @@
   },
   {
     "id": "c16e9c5732385456",
-    "date": "2026-08-03T00:12:01.148909+00:00",
+    "date": "2026-08-03T03:54:00.931089+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1644,7 +1586,7 @@
   },
   {
     "id": "f7d770c306e7e868",
-    "date": "2026-08-03T00:12:01.148766+00:00",
+    "date": "2026-08-03T03:54:00.930968+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1673,7 +1615,7 @@
   },
   {
     "id": "41c0f469a5ffbd84",
-    "date": "2026-08-03T00:12:01.148624+00:00",
+    "date": "2026-08-03T03:54:00.930852+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1702,7 +1644,7 @@
   },
   {
     "id": "13c169fecc479de5",
-    "date": "2026-08-03T00:12:01.148469+00:00",
+    "date": "2026-08-03T03:54:00.930731+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1731,7 +1673,7 @@
   },
   {
     "id": "d3e476cfbd902e7d",
-    "date": "2026-08-03T00:12:01.148337+00:00",
+    "date": "2026-08-03T03:54:00.930626+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1760,7 +1702,7 @@
   },
   {
     "id": "f2fd3f9c95ece5ad",
-    "date": "2026-08-03T00:12:01.148198+00:00",
+    "date": "2026-08-03T03:54:00.930506+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1789,7 +1731,7 @@
   },
   {
     "id": "6d39b100ea3386b5",
-    "date": "2026-08-03T00:12:01.148058+00:00",
+    "date": "2026-08-03T03:54:00.930391+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1818,7 +1760,7 @@
   },
   {
     "id": "4d9c8cd2fd9deafb",
-    "date": "2026-08-03T00:12:01.147916+00:00",
+    "date": "2026-08-03T03:54:00.930276+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1847,7 +1789,7 @@
   },
   {
     "id": "7c04267f3f171e48",
-    "date": "2026-08-03T00:12:01.147771+00:00",
+    "date": "2026-08-03T03:54:00.930156+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1876,7 +1818,7 @@
   },
   {
     "id": "1a530bd1fbf30198",
-    "date": "2026-08-03T00:12:01.147620+00:00",
+    "date": "2026-08-03T03:54:00.930035+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1904,8 +1846,37 @@
     ]
   },
   {
+    "id": "c1fdc36b13577fee",
+    "date": "2026-08-03T03:54:00.929921+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "L2 Reduction: LLL Algorithm With Quadratic Complexity in Python",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "L2 Reduction: LLL Algorithm With Quadratic Complexity in Python",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ve1t2r/l2_reduction_lll_algorithm_with_quadratic/",
+    "target": "Reduction",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ve1t2r/l2_reduction_lll_algorithm_with_quadratic/"
+      }
+    ]
+  },
+  {
     "id": "88539fde0114febd",
-    "date": "2026-08-03T00:12:01.147442+00:00",
+    "date": "2026-08-03T03:54:00.929757+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1934,7 +1905,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-03T00:12:01.147288+00:00",
+    "date": "2026-08-03T03:54:00.929631+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1971,7 +1942,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-03T00:12:01.147066+00:00",
+    "date": "2026-08-03T03:54:00.929442+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1999,6 +1970,180 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "f9a218e37fe7fbbe",
+    "date": "2026-08-03T02:00:02+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33210",
+    "target": "ISC Stormcast Monday August",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33210"
+      }
+    ]
+  },
+  {
+    "id": "d6c5739622d616eb",
+    "date": "2026-08-03T00:12:03.605051+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ZERO-DAY Heap Overflow in Kenwood DNR1007XR: Malicious vCard Grants Root Code Execution",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/heap-overflow-in-kenwood-dnr1007xr-malicious-vcard-grants-root-code-execution",
+    "target": "ZERO-DAY Heap Overflow Kenwood",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/heap-overflow-in-kenwood-dnr1007xr-malicious-vcard-grants-root-code-execution"
+      }
+    ]
+  },
+  {
+    "id": "5e10f9819d454294",
+    "date": "2026-08-03T00:12:03.604939+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL WordPress wp2shell: In-the-Wild RCE Within 24 Hours of AI-Assisted Discovery",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/wordpress-wp2shell-in-the-wild-rce-within-24-hours-of-ai-assisted-discovery",
+    "target": "CRITICAL WordPress wp2shell",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/wordpress-wp2shell-in-the-wild-rce-within-24-hours-of-ai-assisted-discovery"
+      }
+    ]
+  },
+  {
+    "id": "40173e515ee1095e",
+    "date": "2026-08-03T00:12:03.604325+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Apple Patches ImageIO: Parsing Bug Opens Door to RCE Across Eight Operating Systems CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/apple-patches-imageio-parsing-bug-opens-door-to-rce-across-eight-operating-systems",
+    "target": "Apple Patches ImageIO",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/apple-patches-imageio-parsing-bug-opens-door-to-rce-across-eight-operating-systems"
+      }
+    ]
+  },
+  {
+    "id": "7182acd98c12c190",
+    "date": "2026-08-03T00:12:03.604199+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "The Great Patching Isn't Enough Anymore: When Attackers Weaponize Your Own Tools CYBERSEC",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/the-great-patching-isnt-enough-anymore-when-attackers-weaponize-your-own-tools",
+    "target": "Great Patching Isnt Enough",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/the-great-patching-isnt-enough-anymore-when-attackers-weaponize-your-own-tools"
+      }
+    ]
+  },
+  {
+    "id": "644c98cdd749985f",
+    "date": "2026-08-03T00:12:01.149632+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "How AI is powering business email compromise at scale",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "How AI is powering business email compromise at scale",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v8ym0e/how_ai_is_powering_business_email_compromise_at/",
+    "target": "Unknown",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v8ym0e/how_ai_is_powering_business_email_compromise_at/"
       }
     ]
   },
@@ -3949,7 +4094,7 @@
     "category": "",
     "title": "Arch Linux disables AUR package adoption to stop malware flood",
     "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-    "article_text": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. The decision was announced on the distribution's mailing list by contributor Robin Candau, who said that the situation is temporary until a solution is found. “Due to the current influx of malicious package adoptions and follow-up commits made via the AUR, package adoption is currently disabled while we are handling the situation,” announced Candau . “We will send a follow-up once we're able to. In the meantime, feel free to report suspicious adoption events or commits that haven't been dealt with yet, and stay vigilant!” Independent Federated Intelligence Network (IFIN) conducted a technical analysis of the malware and reported that the campaign began on July 29 with the package ‘openconnect-sso.’ IFIN reports that the campaign bears many similarities to the last campaign, including the use of the Tor network for staging. In June, a separate campaign hit AUR via more than 400 packages , distributing a Linux rootkit and info-stealer malware to unsuspecting users. In the latest attack, the researchers identified a two-stage infection, with the first stage acting as the loader, and the second one being a Linux x86_64 payload described as stealer malware with remote administration (RAT) and SSH worm features. Further analysis showed that the first-stage loader evades detection by checking for debuggers, sandboxes, virtual machines, and CI/CD environments before installing systemd services and cron jobs to ensure persistence. It then downloads and launches a Tor client disguised as dbus-daemon to retrieve the second-stage payload from an ‘.onion’ server. The second stage is a Rust-based infostealer that targets browser credentials, cryptocurrency wallets, password manager data, cloud and developer secrets, AI service API keys, SSH keys, and messaging platform tokens. It also provides the attacker with remote command execution over an encrypted Tor channel and can spread laterally by using stolen SSH keys to copy and execute itself on other systems. A Reddit user tracking the campaign alleges that it has expanded to over 200 AUR packages , either through compromised maintainer accounts or by adopting orphaned packages. According to the same researcher, the campaign has spread to fairly popular AUR packages such as boringssl-git, icloudpd, windscribe-cli-v2-bin, stirling-pdf-desktop-bin, openconnect-sso, arduino-language-server-noclang-bin, and pgadmin4-server. The compromised status of these packages has not been independently confirmed, and a list of all 200 AUR packages believed to be malicious has not been made available as of publication. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Over 400 Arch Linux packages compromised to push rootkit, infostealer Microsoft warns of surge in ACR Stealer attacks on customers New ClickLock macOS malware traps users into revealing login password Nearly 300 GitHub repos pose as legit software to push malware New CrashStealer malware poses as Apple crash reporting tool Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests Microsoft Teams vishing attacks lead to Chaos ransomware attacks VMware fixes three critical flaws allowing auth bypass, VM escapes Overdue a password health-check? Audit your Active Directory for free Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. The decision was announced on the distribution's mailing list by contributor Robin Candau, who said that the situation is temporary until a solution is found. “Due to the current influx of malicious package adoptions and follow-up commits made via the AUR, package adoption is currently disabled while we are handling the situation,” announced Candau . “We will send a follow-up once we're able to. In the meantime, feel free to report suspicious adoption events or commits that haven't been dealt with yet, and stay vigilant!” Independent Federated Intelligence Network (IFIN) conducted a technical analysis of the malware and reported that the campaign began on July 29 with the package ‘openconnect-sso.’ IFIN reports that the campaign bears many similarities to the last campaign, including the use of the Tor network for staging. In June, a separate campaign hit AUR via more than 400 packages , distributing a Linux rootkit and info-stealer malware to unsuspecting users. In the latest attack, the researchers identified a two-stage infection, with the first stage acting as the loader, and the second one being a Linux x86_64 payload described as stealer malware with remote administration (RAT) and SSH worm features. Further analysis showed that the first-stage loader evades detection by checking for debuggers, sandboxes, virtual machines, and CI/CD environments before installing systemd services and cron jobs to ensure persistence. It then downloads and launches a Tor client disguised as dbus-daemon to retrieve the second-stage payload from an ‘.onion’ server. The second stage is a Rust-based infostealer that targets browser credentials, cryptocurrency wallets, password manager data, cloud and developer secrets, AI service API keys, SSH keys, and messaging platform tokens. It also provides the attacker with remote command execution over an encrypted Tor channel and can spread laterally by using stolen SSH keys to copy and execute itself on other systems. A Reddit user tracking the campaign alleges that it has expanded to over 200 AUR packages , either through compromised maintainer accounts or by adopting orphaned packages. According to the same researcher, the campaign has spread to fairly popular AUR packages such as boringssl-git, icloudpd, windscribe-cli-v2-bin, stirling-pdf-desktop-bin, openconnect-sso, arduino-language-server-noclang-bin, and pgadmin4-server. The compromised status of these packages has not been independently confirmed, and a list of all 200 AUR packages believed to be malicious has not been made available as of publication. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Over 400 Arch Linux packages compromised to push rootkit, infostealer Microsoft warns of surge in ACR Stealer attacks on customers New ClickLock macOS malware traps users into revealing login password Nearly 300 GitHub repos pose as legit software to push malware New CrashStealer malware poses as Apple crash reporting tool Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests Microsoft Teams vishing attacks lead to Chaos ransomware attacks Amgen says cloud data breach exposed patient health, proprietary info Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Overdue a password health-check? Audit your Active Directory for free Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -4065,7 +4210,7 @@
     "category": "",
     "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
     "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
-    "article_text": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna’s API price by 80% and Terra’s by 20% as it works to make its models more efficient. As per the updated pricing, GPT-5.6 Luna now costs $0.20 per million input tokens and $1.20 per million output tokens, down from $1 and $6. Likewise, Terra has dropped from $2.50 to $2 per million input tokens and from $15 to $12 per million output tokens. In a post on X, OpenAI also noted that the new prices affect how it counts usage in Codex and ChatGPT Work. For example, if new tasks use these models, they deduct less from customers’ allowances, so you can complete more work under the same quota. OpenAI is also upgrading Auto-review in the ChatGPT app and Codex CLI from GPT-5.4 to GPT-5.6 Luna, which should reduce the cost by approximately ten times. OpenAI has also built a Fast mode for API customers, but there won't be any changes to Sol's standard pricing, at least not now. GPT-5.6 Sol Fast mode is up to 2.5 times faster than standard processing without reducing the model’s intelligence. The extra performance comes at twice the standard API price, which means it's particularly designed for time-sensitive coding, research, and agentic workloads. In all other use cases, you really don't need GPT-5.6 Sol Fast mode. According to the company, GPT-5.6 Sol's recent improvements have allowed it to achieve the efficiency gains behind the Luna and Terra reductions. In its own test results, OpenAI also places Luna at the top of its intelligence index among the compared models, despite its substantially lower cost per task. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models Leak confirms OpenAI is testing a ChatGPT for Science subscription Cybersecurity firms targeted by fraudulent OpenAI organization invites Must be more and more people, like I did, switch to stuff like kimi k3... \"OpenAI also places Luna at the top of its intelligence index\"... and like the diagram in the text above, both declarations made by Mr Altman, who never lies ???? We all know, the panic has already begun..... Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests Microsoft Teams vishing attacks lead to Chaos ransomware attacks VMware fixes three critical flaws allowing auth bypass, VM escapes Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Overdue a password health-check? Audit your Active Directory for free Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna’s API price by 80% and Terra’s by 20% as it works to make its models more efficient. As per the updated pricing, GPT-5.6 Luna now costs $0.20 per million input tokens and $1.20 per million output tokens, down from $1 and $6. Likewise, Terra has dropped from $2.50 to $2 per million input tokens and from $15 to $12 per million output tokens. In a post on X, OpenAI also noted that the new prices affect how it counts usage in Codex and ChatGPT Work. For example, if new tasks use these models, they deduct less from customers’ allowances, so you can complete more work under the same quota. OpenAI is also upgrading Auto-review in the ChatGPT app and Codex CLI from GPT-5.4 to GPT-5.6 Luna, which should reduce the cost by approximately ten times. OpenAI has also built a Fast mode for API customers, but there won't be any changes to Sol's standard pricing, at least not now. GPT-5.6 Sol Fast mode is up to 2.5 times faster than standard processing without reducing the model’s intelligence. The extra performance comes at twice the standard API price, which means it's particularly designed for time-sensitive coding, research, and agentic workloads. In all other use cases, you really don't need GPT-5.6 Sol Fast mode. According to the company, GPT-5.6 Sol's recent improvements have allowed it to achieve the efficiency gains behind the Luna and Terra reductions. In its own test results, OpenAI also places Luna at the top of its intelligence index among the compared models, despite its substantially lower cost per task. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models Leak confirms OpenAI is testing a ChatGPT for Science subscription Must be more and more people, like I did, switch to stuff like kimi k3... \"OpenAI also places Luna at the top of its intelligence index\"... and like the diagram in the text above, both declarations made by Mr Altman, who never lies ???? We all know, the panic has already begun..... Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests Arch Linux disables AUR package adoption to stop malware flood Microsoft Teams vishing attacks lead to Chaos ransomware attacks Overdue a password health-check? Audit your Active Directory for free Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -10089,6 +10234,35 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/"
+      }
+    ]
+  },
+  {
+    "id": "2d3f8754d7bf15c8",
+    "date": "2026-07-29T23:26:46+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Cybersecurity, Then & Now",
+    "summary": "Since 2006, Dark Reading has been at the forefront of covering cybersecurity. The more things change, the more they stay the same.",
+    "article_text": "",
+    "quick_summary": [
+      "Since 2006, Dark Reading has been at the forefront of covering cybersecurity.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyber-risk/cybersecurity-then-now",
+    "target": "Then Now",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyber-risk/cybersecurity-then-now"
       }
     ]
   },
@@ -26466,180 +26640,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/iran-hackers-exploit-rockwell-plcs/"
-      }
-    ]
-  },
-  {
-    "id": "6871448660d1fe04",
-    "date": "2026-07-23T06:39:59.041860+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Autel EV Charger: Remote RCE via OCPP WebSocket, Discovered at Pwn2Own",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/autel-ev-charger-remote-rce-via-ocpp-websocket-discovered-at-pwn2own",
-    "target": "CRITICAL Autel Charger",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/autel-ev-charger-remote-rce-via-ocpp-websocket-discovered-at-pwn2own"
-      }
-    ]
-  },
-  {
-    "id": "0e49cdb5acf9ade9",
-    "date": "2026-07-23T06:39:59.041631+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY WatchGuard FireWare OS: IKEv2 Bug Enables Remote DoS with a Single Packet",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/watchguard-fireware-os-ikev2-bug-enables-remote-dos-with-a-single-packet",
-    "target": "ZERO-DAY WatchGuard FireWare",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/watchguard-fireware-os-ikev2-bug-enables-remote-dos-with-a-single-packet"
-      }
-    ]
-  },
-  {
-    "id": "44f374b0febf3799",
-    "date": "2026-07-23T06:39:59.041165+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "TrapDoor: 34+ Malicious Packages Turn AI Assistants Into Insider Threats CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/trapdoor-34-malicious-packages-turn-ai-assistants-into-insider-threats",
-    "target": "TrapDoor",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/trapdoor-34-malicious-packages-turn-ai-assistants-into-insider-threats"
-      }
-    ]
-  },
-  {
-    "id": "c811300006679c54",
-    "date": "2026-07-23T06:39:59.041031+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Zimbra 10.1.20 Patches Critical Command Injection Among Nine Vulnerabilities CYBERSEC CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/zimbra-10120-patches-critical-command-injection-among-nine-vulnerabilities",
-    "target": "Zimbra 10.1.20 Patches Critical",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/zimbra-10120-patches-critical-command-injection-among-nine-vulnerabilities"
-      }
-    ]
-  },
-  {
-    "id": "f874c1965c7c2d33",
-    "date": "2026-07-23T06:39:59.040885+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CISA Overhauls Vulnerability Management: 72-Hour Deadline for High-Risk KEVs CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cisa-overhauls-vulnerability-management-72-hour-deadline-for-high-risk-kevs",
-    "target": "CISA Overhauls Vulnerability Management",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cisa-overhauls-vulnerability-management-72-hour-deadline-for-high-risk-kevs"
-      }
-    ]
-  },
-  {
-    "id": "abd131ad860e3611",
-    "date": "2026-07-23T06:39:57.864907+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Kenya's Presidential Website Hit by Cyber Incident, Government Says No Data Was Stolen",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/kenyas-presidential-website-hit-by-cyber-incident-government-says-no-data-was-stolen/631463/",
-    "target": "Kenyas Presidential Website Hit",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/kenyas-presidential-website-hit-by-cyber-incident-government-says-no-data-was-stolen/631463/"
       }
     ]
   }
