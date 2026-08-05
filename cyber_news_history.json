@@ -1,36 +1,7 @@
 [
   {
-    "id": "c7699c8c4f407227",
-    "date": "2026-08-05T14:35:56.118200+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL WatchGuard FireWare OS: Directory Traversal in sigd Service Opens Path to Code Execution",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/watchguard-fireware-os-directory-traversal-in-sigd-service-opens-path-to-code-execution",
-    "target": "CRITICAL WatchGuard FireWare",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/watchguard-fireware-os-directory-traversal-in-sigd-service-opens-path-to-code-execution"
-      }
-    ]
-  },
-  {
     "id": "4e96576582181ff2",
-    "date": "2026-08-05T14:35:56.118084+00:00",
+    "date": "2026-08-05T16:52:56.363187+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "85c88587598a78cb",
-    "date": "2026-08-05T14:35:56.117950+00:00",
+    "date": "2026-08-05T16:52:56.363077+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -92,7 +63,7 @@
   },
   {
     "id": "ad01c6e9b2dec0ff",
-    "date": "2026-08-05T14:35:56.117835+00:00",
+    "date": "2026-08-05T16:52:56.362959+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -121,7 +92,7 @@
   },
   {
     "id": "b02acfc8b4e8d070",
-    "date": "2026-08-05T14:35:56.117723+00:00",
+    "date": "2026-08-05T16:52:56.362836+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -150,7 +121,7 @@
   },
   {
     "id": "cdde74b74248135d",
-    "date": "2026-08-05T14:35:56.117613+00:00",
+    "date": "2026-08-05T16:52:56.362682+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -178,23 +149,23 @@
     ]
   },
   {
-    "id": "3d3cc6e53891ce02",
-    "date": "2026-08-05T14:35:56.117504+00:00",
+    "id": "b2c96990704c272b",
+    "date": "2026-08-05T16:52:56.362567+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CVE-2026-66066: Unauthenticated RCE in Rails via Active Storage, Public Metasploit Exploit VULN CVE",
+    "title": "CRITICAL PLCs Exposed, Attacks Underway: Six US Agencies Issue Alert AA26-097A",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-66066-unauthenticated-rce-in-rails-via-active-storage-public-metasploit-exploit",
-    "target": "CVE-2026-66066",
-    "type": "Vulnerability",
+    "link": "https://deafnews.it/en/news/cybersecurity/plcs-exposed-attacks-underway-six-us-agencies-issue-alert-aa26-097a",
+    "target": "CRITICAL PLCs Exposed Underway",
+    "type": "Data Leak / Breach",
     "severity": "Critical",
     "sources": [
       "DeafNews"
@@ -202,13 +173,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-66066-unauthenticated-rce-in-rails-via-active-storage-public-metasploit-exploit"
+        "url": "https://deafnews.it/en/news/cybersecurity/plcs-exposed-attacks-underway-six-us-agencies-issue-alert-aa26-097a"
       }
     ]
   },
   {
     "id": "60320f673dfd50af",
-    "date": "2026-08-05T14:35:56.117385+00:00",
+    "date": "2026-08-05T16:52:56.362450+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -237,7 +208,7 @@
   },
   {
     "id": "6ce98de6e3e504be",
-    "date": "2026-08-05T14:35:56.117259+00:00",
+    "date": "2026-08-05T16:52:56.362325+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -265,13 +236,42 @@
     ]
   },
   {
-    "id": "701cb7b332855943",
-    "date": "2026-08-05T14:35:56.116203+00:00",
+    "id": "ec8dffcadd248443",
+    "date": "2026-08-05T16:52:56.362201+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC ChainDrop: The npm Worm That Compromised 444 Packages in Under Four Hours Aug 05, 2026",
+    "title": "WatchGuard FireWare OS: Directory Traversal in sigd Service Opens Path to Code Execution CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/watchguard-fireware-os-directory-traversal-in-sigd-service-opens-path-to-code-execution",
+    "target": "WatchGuard FireWare",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/watchguard-fireware-os-directory-traversal-in-sigd-service-opens-path-to-code-execution"
+      }
+    ]
+  },
+  {
+    "id": "1fa1ad5aed3a71ea",
+    "date": "2026-08-05T16:52:56.361758+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ChainDrop: The npm Worm That Compromised 444 Packages in Under Four Hours CYBERSEC",
     "summary": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post ChainDrop supply chain compromise: Anatomy of a self-propagating worm appeared first on Microsoft Security Blog .",
     "article_text": "",
     "quick_summary": [
@@ -280,11 +280,12 @@
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/chaindrop-the-npm-worm-that-compromised-444-packages-in-under-four-hours",
-    "target": "CYBERSEC ChainDrop",
+    "target": "ChainDrop",
     "type": "Data Leak / Breach",
     "severity": "Critical",
     "sources": [
-      "DeafNews"
+      "DeafNews",
+      "Microsoft Security Blog"
     ],
     "links": [
       {
@@ -299,12 +300,12 @@
   },
   {
     "id": "db5ae4d0a95a1fa3",
-    "date": "2026-08-05T14:35:56.115583+00:00",
+    "date": "2026-08-05T16:52:56.360439+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 3 ZERO-DAY · 11 CVE · 6 EXPLOIT IN THE LAST 24H →",
+    "title": "// 2 CRITICAL · 3 ZERO-DAY · 11 CVE · 6 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -328,7 +329,7 @@
   },
   {
     "id": "ea5f2c29680b07e8",
-    "date": "2026-08-05T14:35:54.888379+00:00",
+    "date": "2026-08-05T16:52:55.097850+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -401,7 +402,7 @@
   },
   {
     "id": "47182c9aef963d3a",
-    "date": "2026-08-05T14:35:53.563499+00:00",
+    "date": "2026-08-05T16:52:53.853533+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -430,7 +431,7 @@
   },
   {
     "id": "351e1cdac53ce066",
-    "date": "2026-08-05T14:35:53.563363+00:00",
+    "date": "2026-08-05T16:52:53.853392+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -459,7 +460,7 @@
   },
   {
     "id": "a2670333e205d47a",
-    "date": "2026-08-05T14:35:53.563188+00:00",
+    "date": "2026-08-05T16:52:53.853208+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -488,7 +489,7 @@
   },
   {
     "id": "86802c9b41a7629b",
-    "date": "2026-08-05T14:35:53.563039+00:00",
+    "date": "2026-08-05T16:52:53.853062+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -517,7 +518,7 @@
   },
   {
     "id": "1cdf4c090281a791",
-    "date": "2026-08-05T14:35:53.562846+00:00",
+    "date": "2026-08-05T16:52:53.852885+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -546,7 +547,7 @@
   },
   {
     "id": "bdc41acd9a2db674",
-    "date": "2026-08-05T14:35:53.562669+00:00",
+    "date": "2026-08-05T16:52:53.852683+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -575,7 +576,7 @@
   },
   {
     "id": "485c3e1ddcec76af",
-    "date": "2026-08-05T14:35:53.562491+00:00",
+    "date": "2026-08-05T16:52:53.852504+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -604,7 +605,7 @@
   },
   {
     "id": "4e48df1af8f682f4",
-    "date": "2026-08-05T14:35:53.562350+00:00",
+    "date": "2026-08-05T16:52:53.852364+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -633,7 +634,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-08-05T14:35:53.562108+00:00",
+    "date": "2026-08-05T16:52:53.852128+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -662,7 +663,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-08-05T14:35:53.561902+00:00",
+    "date": "2026-08-05T16:52:53.851943+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -691,7 +692,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-08-05T14:35:53.561720+00:00",
+    "date": "2026-08-05T16:52:53.851740+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -720,7 +721,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-05T14:35:53.561571+00:00",
+    "date": "2026-08-05T16:52:53.851591+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -749,7 +750,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-05T14:35:53.561438+00:00",
+    "date": "2026-08-05T16:52:53.851457+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -778,7 +779,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-05T14:35:53.561286+00:00",
+    "date": "2026-08-05T16:52:53.851302+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -807,7 +808,7 @@
   },
   {
     "id": "cfcd7be93d0aa926",
-    "date": "2026-08-05T14:35:53.561131+00:00",
+    "date": "2026-08-05T16:52:53.851147+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -836,7 +837,7 @@
   },
   {
     "id": "a63286e4bf0c078f",
-    "date": "2026-08-05T14:35:53.560977+00:00",
+    "date": "2026-08-05T16:52:53.851001+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -865,7 +866,7 @@
   },
   {
     "id": "e8179d8bd942c282",
-    "date": "2026-08-05T14:35:53.560814+00:00",
+    "date": "2026-08-05T16:52:53.850845+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -894,7 +895,7 @@
   },
   {
     "id": "9ba74d7665e47d23",
-    "date": "2026-08-05T14:35:53.560504+00:00",
+    "date": "2026-08-05T16:52:53.850513+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -923,7 +924,7 @@
   },
   {
     "id": "72b8ce2a8abd71aa",
-    "date": "2026-08-05T14:35:53.560367+00:00",
+    "date": "2026-08-05T16:52:53.850376+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -952,7 +953,7 @@
   },
   {
     "id": "2218e09af1fbf0ca",
-    "date": "2026-08-05T14:35:53.560207+00:00",
+    "date": "2026-08-05T16:52:53.850220+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -981,7 +982,7 @@
   },
   {
     "id": "9f64f4d8c3362d1e",
-    "date": "2026-08-05T14:35:53.560003+00:00",
+    "date": "2026-08-05T16:52:53.850018+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1010,7 +1011,7 @@
   },
   {
     "id": "a49746b8fdeaab97",
-    "date": "2026-08-05T14:35:53.559832+00:00",
+    "date": "2026-08-05T16:52:53.849864+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1039,7 +1040,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-05T14:35:53.556436+00:00",
+    "date": "2026-08-05T16:52:53.846377+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1068,7 +1069,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-05T14:35:53.555504+00:00",
+    "date": "2026-08-05T16:52:53.845427+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1097,7 +1098,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-05T14:35:53.555241+00:00",
+    "date": "2026-08-05T16:52:53.845163+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1121,6 +1122,1142 @@
       {
         "source": "TechNadu",
         "url": "https://www.technadu.com/tag/business-email-compromise/"
+      }
+    ]
+  },
+  {
+    "id": "69c13ffc63be2662",
+    "date": "2026-08-05T16:52:53.623163+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "New vBulletin Vulnerability!",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "New vBulletin Vulnerability!",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v8192k/new_vbulletin_vulnerability/",
+    "target": "Vulnerability",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v8192k/new_vbulletin_vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "8792d8d32021afa0",
+    "date": "2026-08-05T16:52:53.623026+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Simple Job Board ≤ 2.11.0 - Unauthenticated RCE (CVE-2024-1813)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Simple Job Board ≤ 2.11.0 - Unauthenticated RCE (CVE-2024-1813)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v8zh25/simple_job_board_2110_unauthenticated_rce/",
+    "target": "Simple Job Board 2.11.0",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v8zh25/simple_job_board_2110_unauthenticated_rce/"
+      }
+    ]
+  },
+  {
+    "id": "19ea21b7eb7b5b86",
+    "date": "2026-08-05T16:52:53.622866+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v832a6/exploiting_volvoeichers_fleet_management_platform/",
+    "target": "Exploiting VolvoEichers",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v832a6/exploiting_volvoeichers_fleet_management_platform/"
+      }
+    ]
+  },
+  {
+    "id": "576fd85aff13b062",
+    "date": "2026-08-05T16:52:53.622707+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "How We Hacked Thousands of Data Centers in Minutes Using a 20-Year-Old Vulnerability",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "How We Hacked Thousands of Data Centers in Minutes Using a 20-Year-Old Vulnerability",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v8ylt4/how_we_hacked_thousands_of_data_centers_in/",
+    "target": "Hacked Thousands Data Centers",
+    "type": "Vulnerability",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v8ylt4/how_we_hacked_thousands_of_data_centers_in/"
+      }
+    ]
+  },
+  {
+    "id": "6ef403b68fedfb1c",
+    "date": "2026-08-05T16:52:53.622585+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "HTTP Request Smuggling in Hiawatha",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "HTTP Request Smuggling in Hiawatha",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v9ut34/http_request_smuggling_in_hiawatha/",
+    "target": "HTTP Request Smuggling Hiawatha",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v9ut34/http_request_smuggling_in_hiawatha/"
+      }
+    ]
+  },
+  {
+    "id": "c16e9c5732385456",
+    "date": "2026-08-05T16:52:53.622454+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v9yd7p/anatomy_of_a_frontier_lab_agent_intrusion_a/",
+    "target": "Anatomy Frontier Lab Agent",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v9yd7p/anatomy_of_a_frontier_lab_agent_intrusion_a/"
+      }
+    ]
+  },
+  {
+    "id": "f7d770c306e7e868",
+    "date": "2026-08-05T16:52:53.622314+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Reversing of Eufy Security Video Doorbell sync protocol and wifi creds decryption from flash memory",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Reversing of Eufy Security Video Doorbell sync protocol and wifi creds decryption from flash memory",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1va5h8n/reversing_of_eufy_security_video_doorbell_sync/",
+    "target": "Reversing Eufy Video Doorbell",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1va5h8n/reversing_of_eufy_security_video_doorbell_sync/"
+      }
+    ]
+  },
+  {
+    "id": "41c0f469a5ffbd84",
+    "date": "2026-08-05T16:52:53.622181+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Sixteen strangers and a shared obfuscator: mapping the wool scene",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Sixteen strangers and a shared obfuscator: mapping the wool scene",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1va7x2g/sixteen_strangers_and_a_shared_obfuscator_mapping/",
+    "target": "Sixteen",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1va7x2g/sixteen_strangers_and_a_shared_obfuscator_mapping/"
+      }
+    ]
+  },
+  {
+    "id": "13c169fecc479de5",
+    "date": "2026-08-05T16:52:53.622051+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Your House Has an FFmpeg Problem - elttam",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Your House Has an FFmpeg Problem - elttam",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1v9uffn/your_house_has_an_ffmpeg_problem_elttam/",
+    "target": "Your House Has FFmpeg",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1v9uffn/your_house_has_an_ffmpeg_problem_elttam/"
+      }
+    ]
+  },
+  {
+    "id": "6d39b100ea3386b5",
+    "date": "2026-08-05T16:52:53.621918+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "What Every Programmer Should Know About Twists of Elliptic Curves",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "What Every Programmer Should Know About Twists of Elliptic Curves",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vax66g/what_every_programmer_should_know_about_twists_of/",
+    "target": "Every Programmer Should Know",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vax66g/what_every_programmer_should_know_about_twists_of/"
+      }
+    ]
+  },
+  {
+    "id": "4d9c8cd2fd9deafb",
+    "date": "2026-08-05T16:52:53.621754+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vbs8hf/predictable_rng_fallback_and_32bit_reseed_in/",
+    "target": "Predictable RNG Fallback 32-Bit",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vbs8hf/predictable_rng_fallback_and_32bit_reseed_in/"
+      }
+    ]
+  },
+  {
+    "id": "7c04267f3f171e48",
+    "date": "2026-08-05T16:52:53.621615+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Full Rails RCE technical writeup... KindaRails2Shell: How a MATLAB file reads your secrets and pops a shell on Ruby on Rails | Ethiack",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Full Rails RCE technical writeup... KindaRails2Shell: How a MATLAB file reads your secrets and pops a shell on Ruby on Rails | Ethiack",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vbnvo5/full_rails_rce_technical_writeup_kindarails2shell/",
+    "target": "Full Rails RCE KindaRails2Shell",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vbnvo5/full_rails_rce_technical_writeup_kindarails2shell/"
+      }
+    ]
+  },
+  {
+    "id": "1a530bd1fbf30198",
+    "date": "2026-08-05T16:52:53.621474+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Investigating three real-world incidents in Anthropic's evaluations",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Investigating three real-world incidents in Anthropic's evaluations",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vc3djn/investigating_three_realworld_incidents_in/",
+    "target": "Investigating Anthropics",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vc3djn/investigating_three_realworld_incidents_in/"
+      }
+    ]
+  },
+  {
+    "id": "88539fde0114febd",
+    "date": "2026-08-05T16:52:53.621330+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "The Risk of Fine-Tuned Open-Weight Models · MSec Operations Blog",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "The Risk of Fine-Tuned Open-Weight Models · MSec Operations Blog",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vdqe9d/the_risk_of_finetuned_openweight_models_msec/",
+    "target": "Risk Fine-Tuned Open-Weight Models",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vdqe9d/the_risk_of_finetuned_openweight_models_msec/"
+      }
+    ]
+  },
+  {
+    "id": "95fc454ae7c48e5e",
+    "date": "2026-08-05T16:52:53.621195+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Cruising for Shells in Flowise - elttam",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Cruising for Shells in Flowise - elttam",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1veba08/cruising_for_shells_in_flowise_elttam/",
+    "target": "Cruising Shells Flowise",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1veba08/cruising_for_shells_in_flowise_elttam/"
+      }
+    ]
+  },
+  {
+    "id": "3c9263892bcc58aa",
+    "date": "2026-08-05T16:52:53.621070+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "SQLite Critical CVEs or LLM Slop?",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "SQLite Critical CVEs or LLM Slop?",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1veedqw/sqlite_critical_cves_or_llm_slop/",
+    "target": "SQLite Critical CVEs LLM",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1veedqw/sqlite_critical_cves_or_llm_slop/"
+      }
+    ]
+  },
+  {
+    "id": "c69673943063468d",
+    "date": "2026-08-05T16:52:53.620940+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Code Execution via Provisioning Packages",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Code Execution via Provisioning Packages",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vf4kme/code_execution_via_provisioning_packages/",
+    "target": "Code Execution Provisioning Packages",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vf4kme/code_execution_via_provisioning_packages/"
+      }
+    ]
+  },
+  {
+    "id": "48f4a163de2e566e",
+    "date": "2026-08-05T16:52:53.620801+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Jackpot: a browser lab of 10 deliberately vulnerable LLM apps, one per OWASP LLM Top 10 category",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Jackpot: a browser lab of 10 deliberately vulnerable LLM apps, one per OWASP LLM Top 10 category",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vet23a/jackpot_a_browser_lab_of_10_deliberately/",
+    "target": "Jackpot",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vet23a/jackpot_a_browser_lab_of_10_deliberately/"
+      }
+    ]
+  },
+  {
+    "id": "b65943bbfb0600c6",
+    "date": "2026-08-05T16:52:53.620651+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "HEVD: From Stack Overflows to Modern Pool Grooming",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "HEVD: From Stack Overflows to Modern Pool Grooming",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vf5zwc/hevd_from_stack_overflows_to_modern_pool_grooming/",
+    "target": "HEVD",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vf5zwc/hevd_from_stack_overflows_to_modern_pool_grooming/"
+      }
+    ]
+  },
+  {
+    "id": "9dd19a09076d62d1",
+    "date": "2026-08-05T16:52:53.620516+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Hardware Hacking: From zero to a Pre-Auth Stack Buffer Overflow on Amazon's best-selling router",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Hardware Hacking: From zero to a Pre-Auth Stack Buffer Overflow on Amazon's best-selling router",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vfdep6/hardware_hacking_from_zero_to_a_preauth_stack/",
+    "target": "Hardware",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vfdep6/hardware_hacking_from_zero_to_a_preauth_stack/"
+      }
+    ]
+  },
+  {
+    "id": "5660a088a54346e8",
+    "date": "2026-08-05T16:52:53.620379+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Bugtraq is back 🥹",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Bugtraq is back 🥹",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vfpmhg/bugtraq_is_back/",
+    "target": "Bugtraq",
+    "type": "General Cybersecurity",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vfpmhg/bugtraq_is_back/"
+      }
+    ]
+  },
+  {
+    "id": "020b6398d8c64fe8",
+    "date": "2026-08-05T16:52:53.620235+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Stored XSS in Django's admin via an unvalidated URLField display path (CVE-2026-15920)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Stored XSS in Django's admin via an unvalidated URLField display path (CVE-2026-15920)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vg9704/stored_xss_in_djangos_admin_via_an_unvalidated/",
+    "target": "Stored XSS Djangos URLField",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vg9704/stored_xss_in_djangos_admin_via_an_unvalidated/"
+      }
+    ]
+  },
+  {
+    "id": "ab8ddee2f9caf0ef",
+    "date": "2026-08-05T16:52:53.620104+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "New Linux Bridge STP Vulnerability",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "New Linux Bridge STP Vulnerability",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vg20wg/new_linux_bridge_stp_vulnerability/",
+    "target": "Linux Bridge STP Vulnerability",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vg20wg/new_linux_bridge_stp_vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "d29a549c775ffe8f",
+    "date": "2026-08-05T16:52:53.619956+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "r/netsec monthly discussion & tool thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "r/netsec monthly discussion & tool thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/",
+    "target": "Unknown",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
+      }
+    ]
+  },
+  {
+    "id": "46631edb097f535e",
+    "date": "2026-08-05T16:52:53.619699+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "/r/netsec's Q3 2026 Information Security Hiring Thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
+    "target": "2026 Information Hiring Thread",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "40637e948fc3945a",
+    "date": "2026-08-05T16:37:31+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Poison Claude is Selling Cheap AI Tokens Built on Fake Accounts and Free Credits",
+    "summary": "A shadowy online service called Poison Claude is reselling access to Anthropic’s premium AI models at a significant discount. Researchers suggest that these savings are coming from an unexpected source: cloud accounts that have been fraudulently registered and filled with free bonus credits. As frontier AI tools like Claude have become essential for coding, research, […] The post Poison Claude is Selling Cheap AI Tokens Built on Fake Accounts and Free Credits appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A shadowy online service called Poison Claude is reselling access to Anthropic’s premium AI models at a significant discount.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/poison-claude-selling-cheap-ai-tokens/",
+    "target": "Poison Claude Selling Cheap",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/poison-claude-selling-cheap-ai-tokens/"
+      }
+    ]
+  },
+  {
+    "id": "aa6d5ab197eca330",
+    "date": "2026-08-05T16:19:51+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft Awards Record $20 Million to 562 Researchers in Biggest Bug Bounty Year",
+    "summary": "Microsoft has awarded more than $20 million to 562 security researchers through its bug bounty program, marking the largest annual payout in the company’s history. Researchers from 64 countries reported security flaws that could have affected Microsoft customers, cloud users, businesses, and consumers worldwide. The Microsoft Security Response Center, also known as MSRC, said the […] The post Microsoft Awards Record $20 Million to 562 Researchers in Biggest Bug Bounty Year appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Microsoft has awarded more than $20 million to 562 security researchers through its bug bounty program, marking the largest annual payout in the company’s history.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/microsoft-awards-20-million-bug-bounty/",
+    "target": "Microsoft Awards Record Million",
+    "type": "General Cybersecurity",
+    "severity": "Medium",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/microsoft-awards-20-million-bug-bounty/"
+      }
+    ]
+  },
+  {
+    "id": "e5052f61468c3c19",
+    "date": "2026-08-05T15:51:33+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
+    "article_text": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. ​Tracked as CVE-2026-9198, the security issue in IBM’s Langflow visual framework for building AI agents is the most severe, with a critical rating of 9.8 out of 10. It allows an unauthenticated attacker to execute remotely on default Langflow deployments by chaining two API endpoints to bypass login and run code. In late July, multiple fully functional proof-of-concept (PoC) exploits for CVE-2026-9198 emerged in the public space, with complete instructions on how they can be leveraged. Two weeks ago, CISA issued an alert for another critical Langflow vulnerability (CVE-2026-0770) being exploited in attacks to gain remote code execution with root privileges. The vulnerability in N-able’s remote monitoring and management platform N-central is identified as CVE-2026-18576 and allows attackers to hijack administrative accounts without authentication. The flaw received a high-severity rating and has been patched by the vendor. However, the fix was insufficient, and threat actors found a new way to exploit it. N-able warned customers on August 1st that hackers were actively exploiting the new vulnerability , which received the identifier CVE-2026-18576. An emergency hotfix was released on Sunday. The company urged customers to install it as the flaw impacted all versions of N-central before 2026.3. The Apache Tomcat vulnerability, tracked as CVE-2026-34486 , has a high-severity score of 7.5. It stems from an incomplete fix for CVE-2026-29146, a critical vulnerability with a severity rating of 9.8 that is described as the missing encryption of sensitive data. On July 30, researchers at Palo Alto Networks Unit 42 reported that a Chinese-speaking threat actor tried to exploit the CVE-2026-34486 vulnerability in a manual campaign to plant reverse shells on nine Apache Tomcat servers. CISA confirmed that threat actors are leveraging all three flaws in attacks and added them to its catalog of Known Exploited Vulnerabilities (KEV). However, the agency did not share what types of attacks are leveraging them, noting that it is unknown if they are used in ransomware campaigns. CISA has ordered federal agencies to apply available mitigations for the three targeted products by the end of Friday, July 7th. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. CISA orders urgent action on actively exploited Langflow RCE flaw CISA sets urgent deadline to fix Cisco flaw exploited in attacks CISA orders feds to patch max severity Joomla plugin flaw by Friday Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems Massive ChainDrop npm supply-chain attack infects hundreds of packages Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Spend four hours inside a fully-simulated underground with DARKROOM. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited.",
+      "Risk: ransomware/extortion, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+    "target": "CISA Langflow N-central Apache",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/"
+      }
+    ]
+  },
+  {
+    "id": "66c760c0004340a2",
+    "date": "2026-08-05T15:36:03+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+    "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6. \"Advertisements for Poison Claude",
+    "article_text": "One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6. \"The service plainly states on its website that: 'We add those accounts to our pool, your request is routed to a specific account under the hood (you don't see this), and you get charged 5-15% of the official per-token price depending on the model.'\" Poison Claude accepts payments in cryptocurrencies. Once a customer completes a payment, they are provisioned an API key for an Anthropic-compatible API and instructed to set certain environment variables to ensure that their development environment (i.e, Claude Code) uses the Poison Claude API instead of Anthropic's. Prompts entered as inputs are then passed from Poison Claude's API to Anthropic, with the answers eventually returned to the customer in the same fashion. The identity security company said a configuration error exposed the API's \"api.claudeopus[.]shop/api/status\" endpoint, querying which returns the number of total and active users as 881 and 872, respectively. The exposure has since been fixed. The main domain for Poison Claude, poison-claude.bitsender[.]top, is hosted behind Cloudflare's CDN to conceal its originating IP address. Following responsible disclosure, Cloudflare has placed a phishing warning in front of the site, but appears to have \"declined to take action\" on the API domain, which uses Cloudflare Turnstile for bot protection. A similar service that operates in the gray market is Ecomagent.in, which is estimated to have nearly 970 users and claims to offer discounted access to Anthropic's Opus 4.8, Opus 4.6, Sonnet 4.6 and OpenAI's GPT Codex 5.5 via a custom API endpoint. While there are many reasons why users may seek out such services offering AI model access, including cost, access restrictions, and some degree of privacy and anonymity, they also come with several inherent risks. Model providers may cut off access to fraudulent accounts, or service providers may lure customers with a frontier model but deliver a less expensive and less capable model. \"When services are configured as a gateway proxy, the service provider has full visibility into prompts, as those prompts must be forwarded to a model,\" Okta said. \"This is a privacy concern, as the service provider could accidentally leak or sell data.\" The findings come amid a growing Chinese market for U.S.-based LLMs that are either explicitly banned (as in the case of ChatGPT) or inaccessible in the country due to the Great Firewall. These services offer API relay or proxy platforms that allow local developers in China to access the models. Earlier this year, Anthropic accused three Chinese firms, DeepSeek, Moonshot AI, and MiniMax, of orchestrating \"industrial-scale campaigns\" to illegally extract Claude's capabilities to improve their own models. As recently as last week, Reuters reported that Chinese military researchers have used AI models developed by OpenAI and Anthropic to train domestic AI systems with an aim to advance their defense capabilities. What's more, evidence shows that bad actors are abusing free trials offered by AI services to facilitate synthetic identity creation at scale using disposable domains like dakaka[.]org, emailinbo[.]live, and ratixq[.]com. \"Bot activity is rising across the internet, particularly with the increasing deployments of AI agents,\" Okta said. Those running bot networks also have more choice than ever with which to counter bot detection methods, such as residential proxies. Residential proxies allow malicious traffic to come from benign consumer IP connections with often little or no history of malicious activity, making it risky to block.\" Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+    "target": "Poison Claude Sells Discounted",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html"
+      }
+    ]
+  },
+  {
+    "id": "4548be8d7378b618",
+    "date": "2026-08-05T15:36:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Dutch retailer De Bijenkorf warns customer data may be exposed after cyber incident",
+    "summary": "Amsterdam-based luxury goods chain De Bijenkorf is the latest retailer to announce a cyber incident involving a third-party logistics provider.",
+    "article_text": "",
+    "quick_summary": [
+      "Amsterdam-based luxury goods chain De Bijenkorf is the latest retailer to announce a cyber incident involving a third-party logistics provider.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident",
+    "target": "Dutch Bijenkorf",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident"
+      }
+    ]
+  },
+  {
+    "id": "040c16002a3fbb40",
+    "date": "2026-08-05T15:14:12+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "New Research: The Confidence Gap Between CISOs and Their Boards Is Real, and It’s Measurable",
+    "summary": "Las Vegas, United States, August 5th, 2026, CyberNewswire Pulse Security AI calls for boards and security leaders to define cyber risk appetite in new report: The CISO-Board Communication Gap Boards of directors believe they understand their company’s security posture and what it means for the business. The security leaders presenting to them are far less […] The post New Research: The Confidence Gap Between CISOs and Their Boards Is Real, and It’s Measurable appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Las Vegas, United States, August 5th, 2026, CyberNewswire Pulse Security AI calls for boards and security leaders to define cyber risk appetite in new report: The CISO-Board Communication Gap Boards of directors believe ",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/ciso-board-confidence-gap-research/",
+    "target": "Research",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News",
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/ciso-board-confidence-gap-research/"
+      },
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/new-research-the-confidence-gap-between-cisos-and-their-boards-is-real-and-its-measurable/"
+      }
+    ]
+  },
+  {
+    "id": "011c5f962ab2dd4d",
+    "date": "2026-08-05T15:14:05+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+    "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes",
+    "article_text": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes that did not enforce the expected access checks. The more severe server-side path, tracked as CVE-2026-41679 (CVSS score: 10.0), requires no pre-existing account or victim interaction against network-accessible deployments using authenticated mode with the default registration configuration. The second path, tracked as GHSA-x8hx-rhr2-9rf7 (CVSS score: 9.6), requires a user to open an attacker-controlled page while Paperclip is running in its default local_trusted mode. The source tagged as Paperclip v2026.416.0 contains the import-authorization fix and hostname-validation guard discussed below, although the DNS-rebinding advisory does not identify a patched version. Rapid7 has since shipped a public Metasploit module for CVE-2026-41679, and CISA's Stakeholder-Specific Vulnerability Categorization (SSVC) enrichment carried by NVD classifies exploitation as proof-of-concept. No authoritative source reviewed by The Hacker News reported exploitation in the wild as of August 5, 2026. Operators should update to v2026.416.0 or later and review how registration and deployment exposure are configured. Oasis Security's analysis , backed by a 17-page technical report , connects the findings through one product property: agent configuration can become executable behavior. Paperclip's built-in process adapter intentionally launches a configured command as a child process of the server. The execution feature is legitimate. The vulnerabilities changed who could reach it and whose configuration the server would trust. \"Agent configuration must be treated as executable input,\" Oasis said. Unauthorized users or browser-originated requests could introduce and activate configuration that reached the launcher. The server-side chain applies to network-accessible authenticated deployments using the vulnerable registration configuration. The localhost chain applies when a user opens an attacker-controlled page while Paperclip is running in its default local_trusted configuration. Both end with attacker-controlled agent configuration reaching the host execution adapter. The attack against an internet-accessible instance begins with Paperclip's default open-signup flow. An attacker can register without an invitation or verified email address, sign in, and enter the command-line interface authorization process. The same newly registered user could create a pending CLI challenge and approve it, activating a durable board API credential without a separate administrator making the decision. That credential should not have been enough to create a top-level company. Paperclip required instance-administrator rights when a user created a company directly, but the equivalent new-company import route accepted board-level access. An attacker could therefore supply a .paperclip.yaml bundle defining a new company, an agent using the process adapter, and the command that agent would run. The import also made the attacker a member of the new company, so the normal wakeup check passed when the attacker started the agent. Paperclip then launched the command with the operating-system privileges of its server process. The practical impact depends on the service account and host. Oasis said it could include application data, source repositories, locally stored credentials, secrets available to agent processes, and internal services reachable from the machine. Paperclip fixed CVE-2026-41679 in v2026.416.0 by requiring instance-administrator access for imports targeting a new company and company access for imports targeting an existing one. The same check now protects both import preview and execution. Open registration remains available, but a newly registered board user can no longer treat the new-company import route as an instance-administrator operation. Rapid7 published a Metasploit module in June 2026 that automates the six-request CVE-2026-41679 attack chain. The CISA-ADP enrichment carried by NVD marks the flaw as automatable, with total technical impact and proof-of-concept exploitation. The vulnerability was not listed in CISA's Known Exploited Vulnerabilities (K",
+    "quick_summary": [
+      "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+    "target": "Paperclip Let Attackers Run",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html"
+      }
+    ]
+  },
+  {
+    "id": "a481b225773b4cb8",
+    "date": "2026-08-05T14:59:29+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Google Blogger locks hundreds of blogs in malware false positive",
+    "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
+    "article_text": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites actually deleted from the platform. The issue began on August 4, and it appears to affect many legitimate blogs that do not host malware or have malicious scripts. As seen by BleepingComputer, hundreds of web admins have reached out to Google on the company's official forum for help in restoring access to their blogs. The forum post now has more than 300 \"I have the same question\" votes and over 100 replies from publishers. \"Today's huge number of reports regarding blogs flagged/locked for the same reason suggests misclassification by automated systems,\" a Blogger Product Expert wrote. \"False positives do occur from time to time, but not on this scale.\" If you're affected, you will see a large red padlock in your Blogger dashboard with a clear warning: \"Note: this blog has been locked.\" \"This blog was removed for violating Blogger's Community Guidelines. If you wish to request a review of the blog, click 'Request Review' below,\" reads the Blogger warning. Google's automated message also warned publishers that their blogs can be permanently deleted within the next three months if no appeal is submitted. While a blog is locked, its owner cannot access the dashboard tabs used to manage posts, settings, themes, or other parts of the site. \"The removal happens automatically after updating the homepage or making changes to the blog template,\" one publisher reported . The situation has become even more frustrating for some users, who say that their blogs were restored and then later deleted again . Not all Blogger users are affected, and some of those who submitted an appeal are already seeing their blogs come back online. It's also unclear how many sites are hosted on Blogger, as Google has never disclosed the numbers. However, some third-party trackers suggest that close to 200,000 sites are hosted on the platform. We've reached out to Google for a statement, and we'll update this story when we hear back. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. New XCSSET variant targets macOS devs via compromised Xcode projects New Pass-ta-key attacks let malware hijack Google-synced passkeys Fake Roblox Xeno script launcher pushes infostealer, RAT malware Inside the Underground Business of the Android BTMOB RAT malware Google Chrome may soon block New Tab hijacker extensions by default Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems Massive ChainDrop npm supply-chain attack infects hundreds of packages Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Spend four hours inside a fully-simulated underground with DARKROOM. Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform.",
+      "Risk: ransomware/extortion, credentials/infostealer risk, ISNET vendor relevance",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+    "target": "Google Blogger",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/"
+      }
+    ]
+  },
+  {
+    "id": "cd4d6337d56bd029",
+    "date": "2026-08-05T14:52:42+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Uppsala Security Becomes First Blockchain Intelligence Company to Join Cyber Threat Alliance",
+    "summary": "SIngapore, Singapore, August 5th, 2026, CyberNewswire Uppsala Security, a Singapore-based blockchain intelligence and crypto forensics company, announced today that it has joined the Cyber Threat Alliance (CTA) as an Affiliate Member, becoming the first blockchain intelligence company to join the alliance. CTA is a nonprofit organization that brings cybersecurity organizations together to share actionable threat […] The post Uppsala Security Becomes First Blockchain Intelligence Company to Join Cyber Threat Alliance appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "SIngapore, Singapore, August 5th, 2026, CyberNewswire Uppsala Security, a Singapore-based blockchain intelligence and crypto forensics company, announced today that it has joined the Cyber Threat Alliance (CTA) as an Aff",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/uppsala-security-joins-cyber-threat-alliance/",
+    "target": "Uppsala Becomes First Blockchain",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News",
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/uppsala-security-joins-cyber-threat-alliance/"
+      },
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/uppsala-security-becomes-first-blockchain-intelligence-company-to-join-cyber-threat-alliance/"
+      }
+    ]
+  },
+  {
+    "id": "0cc2b61416969c6d",
+    "date": "2026-08-05T14:51:03+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Greatness PhaaS Bypasses Email Security and MFA to Hijack Microsoft 365 Accounts",
+    "summary": "Greatness has emerged as a phishing-as-a-service platform designed to steal Microsoft 365 access at a time when many organizations assume multi-factor authentication will stop account takeovers. Rather than simply collecting a password, it can capture a valid sign-in token that lets an attacker enter cloud services as the victim. A recent campaign used spoofed RingCentral […] The post Greatness PhaaS Bypasses Email Security and MFA to Hijack Microsoft 365 Accounts appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Greatness has emerged as a phishing-as-a-service platform designed to steal Microsoft 365 access at a time when many organizations assume multi-factor authentication will stop account takeovers.",
+      "Risk: credentials/infostealer risk, ISNET vendor relevance",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/greatness-phaas/",
+    "target": "Greatness PhaaS Bypasses Email",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/greatness-phaas/"
+      }
+    ]
+  },
+  {
+    "id": "90dacd36de7685c4",
+    "date": "2026-08-05T14:36:29+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)",
+    "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 3) appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/",
+    "target": "Black Hat USA 2026",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/"
+      },
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/"
+      },
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/"
+      }
+    ]
+  },
+  {
+    "id": "3d3cc6e53891ce02",
+    "date": "2026-08-05T14:35:56.117504+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE-2026-66066: Unauthenticated RCE in Rails via Active Storage, Public Metasploit Exploit VULN CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-66066-unauthenticated-rce-in-rails-via-active-storage-public-metasploit-exploit",
+    "target": "CVE-2026-66066",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-66066-unauthenticated-rce-in-rails-via-active-storage-public-metasploit-exploit"
+      }
+    ]
+  },
+  {
+    "id": "701cb7b332855943",
+    "date": "2026-08-05T14:35:56.116203+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC ChainDrop: The npm Worm That Compromised 444 Packages in Under Four Hours Aug 05, 2026",
+    "summary": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post ChainDrop supply chain compromise: Anatomy of a self-propagating worm appeared first on Microsoft Security Blog .",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/chaindrop-the-npm-worm-that-compromised-444-packages-in-under-four-hours",
+    "target": "CYBERSEC ChainDrop",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/chaindrop-the-npm-worm-that-compromised-444-packages-in-under-four-hours"
+      },
+      {
+        "source": "Microsoft Security Blog",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/"
       }
     ]
   },
@@ -1150,6 +2287,35 @@
       {
         "source": "HackRead",
         "url": "https://hackread.com/im-allowed-hackers-use-claims-bypass-ai-guardrails/"
+      }
+    ]
+  },
+  {
+    "id": "7427db02b10db3a3",
+    "date": "2026-08-05T14:27:30+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+    "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'",
+    "article_text": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. Each has a fix available now. Operators should update Terraform MCP Server to version 1.1.0 or later, Veeam Service Provider Console to 9.3.0.35057, and Django to 6.0.8 or 5.2.17. Exposure is configuration-dependent: HashiCorp's bugs affect Streamable HTTP rather than stdio, Veeam's flaws affect version 9 builds before 9.3, and Django's documented admin attack path requires a staff account with view permission for a model containing a spatial field. None of the three advisories says the flaws are under active exploitation, and as of August 5, 2026, none of the eleven CVEs appears in CISA's Known Exploited Vulnerabilities catalog, and no public proof-of-concept has surfaced. Veeam Service Provider Console, the multi-tenant console that hosting firms and managed service providers use to run and monitor customer backups, got four fixes in build 9.3.0.35057, detailed in a security bulletin published August 4 . Two are critical. Veeam released the build on July 29. The 9.5 reads as the worst of the two because it needs no login, but its high attack complexity is the reason the vector is not a straight-line exploit; unauthenticated here does not mean easy. Two high-severity bugs round out the set: CVE-2026-58067 , an unauthenticated memory-exhaustion denial of service, and CVE-2026-58071 , which exposes the proxied appliance API as Portal Administrator during a short window after an administrator session begins. All four affect VSPC 9.2.1.33875 and every earlier version 9 build. The fix is the upgrade to 9.3.0.35057. This is the second critical patch cycle for the console in roughly three months. In May, Veeam fixed CVE-2026-32998 , a 9.4-rated remote code execution bug tied to alarm script execution. HashiCorp's Terraform MCP server, which connects AI assistants to Terraform over the Model Context Protocol, carries three related flaws in its Streamable HTTP transport, disclosed July 28 and fixed in version 1.1.0 . HashiCorp released the fixed build on July 14, followed by version 1.2.0 on August 4. Deployments that run only in stdio mode, the local single-user setup, are unaffected. The bugs live in the multi-user HTTP mode meant for centralized, shared deployments, the configuration HashiCorp promoted when it made the server generally available in June . The most severe is CVE-2026-16498 (CVSS score: 10.0), a cross-tenant credential-reuse bug in stateless HTTP mode. The underlying MCP library does not assign unique session identifiers, and the server's credential cache relied on those identifiers to tell users apart. One user's Terraform token could therefore be reused for later users' requests regardless of the token they supplied. The root is an assumption about the layer beneath the tool: the server used those session identifiers to keep tenants apart, and in stateless mode the MCP library did not provide unique ones. A second flaw, CVE-2026-16496 (CVSS score: 8.9), is the stateful-mode version of the isolation failure. Stateful mode is the default when the server runs centrally. Its cache used the MCP session ID as its sole lookup key, without binding the cached client to the token that created it. That let a user who obtained another user's session ID run tool calls with that user's Terraform client and reach resources allowed by the victim's token. Juan Pablo Martinez Kuhn of Coinspect reported the flaw; HashiCorp found the other two internally. The third, CVE-2026-14869 (CVSS score: 8.6), is a server-side request forgery flaw. Request middleware rejected a client-supplied Terraform address when it arrived as an HTTP header but not when the same value came through a query parameter. An unauthenticated caller able to reach the Streamable HTTP listener could make the server send its configured bearer token to an attacker-controlled endpoint. Two things complicate reading the CVSS numbers as a priority order. They are not on one scale: Veeam scores on CVSS 4.0 and the HashiCorp records on 3.1, so the 9.5 and the 10.0 are not the same measurement. And the two isolation flaws land on different configurations: the 10.0 (CVE-2026-16498) affects stateless mode, which an operator has to enable deliberately, while the 8.9 (CVE-2026-16496) affects the stateful mode that is the default for a central deployment. Which of the two is in reach depends on how the server is con",
+    "quick_summary": [
+      "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+    "target": "Veeam Terraform MCP Django",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
       }
     ]
   },
@@ -1270,6 +2436,35 @@
     ]
   },
   {
+    "id": "8443d2afcaa6211d",
+    "date": "2026-08-05T13:41:27+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+    "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
+    "article_text": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by OpenSourceMalware, which has described it as a \"deliberate improvement on EtherHiding.\" The activity has been linked to North Korea. The packages are currently no longer available for download from npm. However, statistics show that they have been downloaded a few hundred times since they were first published on July 28, 2026 - EtherHiding was first publicly documented by Guardio Labs in October 2023 as a covert approach that involves embedding nefarious code within a smart contract on a public blockchain like BNB Smart Chain (BSC) or Ethereum. The technique heralded the \"next level of bulletproof hosting\" as it improves operational resilience in the face of takedowns. The use of EtherHiding by North Korean hacking groups was detailed by Google Threat Intelligence Group (GTIG) late last year in connection with Contagious Interview , a long-running campaign that aims to deceive potential targets by approaching them on LinkedIn with lucrative job opportunities and asking them to complete an assessment that leads to malware deployment. The latest development indicates that the threat actors are further refining their tactics and making it difficult for defenders to detect. \"Instead of hardcoding a C2 address or hiding it in transaction calldata (as in EtherHiding), NullReceiver encodes the C2 IP directly in the bytes of the recipient address of a zero-value, zero-data Ethereum transfer,\" security researcher Paul McCarty said. \"The malware looks up the attacker's wallet, reads the destination address of its most recent outbound transaction, and decodes a C2 IP straight from those address bytes, with no smart contract and no payload field involved.\" By embedding the C2 IP address in this manner, NullReceiver aims to address one of the major shortcomings of EtherHiding, which requires a fixed, publicly known destination address -- one that can be tracked by defenders as new transactions containing the payload, the C2 IP address, or the malicious script, occur for a gas fee. NullReceiver, in contrast, provides a non-existent destination address. The address \"exists\" only to provide a way to encode the C2 IP address within itself. This, in turn, makes attribution difficult, as it eliminates the \"fixed, watchable destination.\" Neither of the newly discovered npm packages identified as part of the new campaign, bianira-ui and fluid-type-ui, calls a smart contract nor embeds any content within the transaction's calldata field. Instead, the JavaScript libraries leverage the new technique to extract the IP address and connect to it. The entire sequence of actions on a victim machine is as follows - An examination of the wallet transactions shows that the destination \"To\" address for each of them is the same: \" 0xa658863ea658863e68656c6c6f6970626f742121 .\" While \"a658863e\" becomes \"166.88.134[.]62,\" the trailing bytes \"68656c6c6f6970626f742121\" represent the ASCII string \"helloipbot!!.\" As of writing, a total of 68 transactions have taken place since July 27, 2026, a day before the packages were published. What makes NullReceiver more sneaky is the absence of a fixed target and a fingerprint, not to mention the fact that the transactions are cheaper than before. A crucial difference between the two techniques is that while EtherHiding makes it possible to smuggle a full URL or script, NullReceiver can only encode a few bytes. \"NullReceiver never reuses a destination,\" OpenSourceMalware said. \"Every lookup is a brand-new, throwaway address that's never been seen before. A NullReceiver transaction carries nothing extra at all. There's no field to fingerprint, because there's no field.\" \"Calldata costs gas per byte. EtherHiding pays for that. NullReceiver's transfer is completely blank, making it the cheapest, least conspicuous transaction shape on the network.\" Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies",
+    "quick_summary": [
+      "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+    "target": "Trojanized Packages Employ NullReceiver",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html"
+      }
+    ]
+  },
+  {
     "id": "f56f1e0a81dc2e31",
     "date": "2026-08-05T13:35:54+00:00",
     "source": "Cyber Security News",
@@ -1324,35 +2519,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/django-four-security-fixes/"
-      }
-    ]
-  },
-  {
-    "id": "c7c666e5f7958e07",
-    "date": "2026-08-05T13:16:25+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New Research: The Confidence Gap Between CISOs and Their Boards Is Real, and It’s Measurable",
-    "summary": "Las Vegas, United States, 5th August 2026, CyberNewswire",
-    "article_text": "",
-    "quick_summary": [
-      "Las Vegas, United States, 5th August 2026, CyberNewswire",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/new-research-the-confidence-gap-between-cisos-and-their-boards-is-real-and-its-measurable/",
-    "target": "Research",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/new-research-the-confidence-gap-between-cisos-and-their-boards-is-real-and-its-measurable/"
       }
     ]
   },
@@ -1536,743 +2702,6 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1v6grho/cfp_open_looking_for_technical_ai_security/"
-      }
-    ]
-  },
-  {
-    "id": "69c13ffc63be2662",
-    "date": "2026-08-05T12:16:10.609048+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "New vBulletin Vulnerability!",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "New vBulletin Vulnerability!",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v8192k/new_vbulletin_vulnerability/",
-    "target": "Vulnerability",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v8192k/new_vbulletin_vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "8792d8d32021afa0",
-    "date": "2026-08-05T12:16:10.608914+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Simple Job Board ≤ 2.11.0 - Unauthenticated RCE (CVE-2024-1813)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Simple Job Board ≤ 2.11.0 - Unauthenticated RCE (CVE-2024-1813)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v8zh25/simple_job_board_2110_unauthenticated_rce/",
-    "target": "Simple Job Board 2.11.0",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v8zh25/simple_job_board_2110_unauthenticated_rce/"
-      }
-    ]
-  },
-  {
-    "id": "19ea21b7eb7b5b86",
-    "date": "2026-08-05T12:16:10.608760+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Exploiting Volvo/Eicher’s fleet management platform to gain control over all users and vehicles",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v832a6/exploiting_volvoeichers_fleet_management_platform/",
-    "target": "Exploiting VolvoEichers",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v832a6/exploiting_volvoeichers_fleet_management_platform/"
-      }
-    ]
-  },
-  {
-    "id": "576fd85aff13b062",
-    "date": "2026-08-05T12:16:10.608629+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "How We Hacked Thousands of Data Centers in Minutes Using a 20-Year-Old Vulnerability",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "How We Hacked Thousands of Data Centers in Minutes Using a 20-Year-Old Vulnerability",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v8ylt4/how_we_hacked_thousands_of_data_centers_in/",
-    "target": "Hacked Thousands Data Centers",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v8ylt4/how_we_hacked_thousands_of_data_centers_in/"
-      }
-    ]
-  },
-  {
-    "id": "6ef403b68fedfb1c",
-    "date": "2026-08-05T12:16:10.608509+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "HTTP Request Smuggling in Hiawatha",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "HTTP Request Smuggling in Hiawatha",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v9ut34/http_request_smuggling_in_hiawatha/",
-    "target": "HTTP Request Smuggling Hiawatha",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v9ut34/http_request_smuggling_in_hiawatha/"
-      }
-    ]
-  },
-  {
-    "id": "c16e9c5732385456",
-    "date": "2026-08-05T12:16:10.608376+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v9yd7p/anatomy_of_a_frontier_lab_agent_intrusion_a/",
-    "target": "Anatomy Frontier Lab Agent",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v9yd7p/anatomy_of_a_frontier_lab_agent_intrusion_a/"
-      }
-    ]
-  },
-  {
-    "id": "f7d770c306e7e868",
-    "date": "2026-08-05T12:16:10.608220+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Reversing of Eufy Security Video Doorbell sync protocol and wifi creds decryption from flash memory",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Reversing of Eufy Security Video Doorbell sync protocol and wifi creds decryption from flash memory",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1va5h8n/reversing_of_eufy_security_video_doorbell_sync/",
-    "target": "Reversing Eufy Video Doorbell",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1va5h8n/reversing_of_eufy_security_video_doorbell_sync/"
-      }
-    ]
-  },
-  {
-    "id": "41c0f469a5ffbd84",
-    "date": "2026-08-05T12:16:10.608090+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Sixteen strangers and a shared obfuscator: mapping the wool scene",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Sixteen strangers and a shared obfuscator: mapping the wool scene",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1va7x2g/sixteen_strangers_and_a_shared_obfuscator_mapping/",
-    "target": "Sixteen",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1va7x2g/sixteen_strangers_and_a_shared_obfuscator_mapping/"
-      }
-    ]
-  },
-  {
-    "id": "13c169fecc479de5",
-    "date": "2026-08-05T12:16:10.607964+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Your House Has an FFmpeg Problem - elttam",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Your House Has an FFmpeg Problem - elttam",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v9uffn/your_house_has_an_ffmpeg_problem_elttam/",
-    "target": "Your House Has FFmpeg",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v9uffn/your_house_has_an_ffmpeg_problem_elttam/"
-      }
-    ]
-  },
-  {
-    "id": "6d39b100ea3386b5",
-    "date": "2026-08-05T12:16:10.607835+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "What Every Programmer Should Know About Twists of Elliptic Curves",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "What Every Programmer Should Know About Twists of Elliptic Curves",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vax66g/what_every_programmer_should_know_about_twists_of/",
-    "target": "Every Programmer Should Know",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vax66g/what_every_programmer_should_know_about_twists_of/"
-      }
-    ]
-  },
-  {
-    "id": "4d9c8cd2fd9deafb",
-    "date": "2026-08-05T12:16:10.607700+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vbs8hf/predictable_rng_fallback_and_32bit_reseed_in/",
-    "target": "Predictable RNG Fallback 32-Bit",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vbs8hf/predictable_rng_fallback_and_32bit_reseed_in/"
-      }
-    ]
-  },
-  {
-    "id": "7c04267f3f171e48",
-    "date": "2026-08-05T12:16:10.607560+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Full Rails RCE technical writeup... KindaRails2Shell: How a MATLAB file reads your secrets and pops a shell on Ruby on Rails | Ethiack",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Full Rails RCE technical writeup... KindaRails2Shell: How a MATLAB file reads your secrets and pops a shell on Ruby on Rails | Ethiack",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vbnvo5/full_rails_rce_technical_writeup_kindarails2shell/",
-    "target": "Full Rails RCE KindaRails2Shell",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vbnvo5/full_rails_rce_technical_writeup_kindarails2shell/"
-      }
-    ]
-  },
-  {
-    "id": "1a530bd1fbf30198",
-    "date": "2026-08-05T12:16:10.607420+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Investigating three real-world incidents in Anthropic's evaluations",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Investigating three real-world incidents in Anthropic's evaluations",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vc3djn/investigating_three_realworld_incidents_in/",
-    "target": "Investigating Anthropics",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vc3djn/investigating_three_realworld_incidents_in/"
-      }
-    ]
-  },
-  {
-    "id": "88539fde0114febd",
-    "date": "2026-08-05T12:16:10.607257+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "The Risk of Fine-Tuned Open-Weight Models · MSec Operations Blog",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "The Risk of Fine-Tuned Open-Weight Models · MSec Operations Blog",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vdqe9d/the_risk_of_finetuned_openweight_models_msec/",
-    "target": "Risk Fine-Tuned Open-Weight Models",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vdqe9d/the_risk_of_finetuned_openweight_models_msec/"
-      }
-    ]
-  },
-  {
-    "id": "95fc454ae7c48e5e",
-    "date": "2026-08-05T12:16:10.607130+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Cruising for Shells in Flowise - elttam",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Cruising for Shells in Flowise - elttam",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1veba08/cruising_for_shells_in_flowise_elttam/",
-    "target": "Cruising Shells Flowise",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1veba08/cruising_for_shells_in_flowise_elttam/"
-      }
-    ]
-  },
-  {
-    "id": "3c9263892bcc58aa",
-    "date": "2026-08-05T12:16:10.607009+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "SQLite Critical CVEs or LLM Slop?",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "SQLite Critical CVEs or LLM Slop?",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1veedqw/sqlite_critical_cves_or_llm_slop/",
-    "target": "SQLite Critical CVEs LLM",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1veedqw/sqlite_critical_cves_or_llm_slop/"
-      }
-    ]
-  },
-  {
-    "id": "c69673943063468d",
-    "date": "2026-08-05T12:16:10.606886+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Code Execution via Provisioning Packages",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Code Execution via Provisioning Packages",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vf4kme/code_execution_via_provisioning_packages/",
-    "target": "Code Execution Provisioning Packages",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vf4kme/code_execution_via_provisioning_packages/"
-      }
-    ]
-  },
-  {
-    "id": "48f4a163de2e566e",
-    "date": "2026-08-05T12:16:10.606758+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Jackpot: a browser lab of 10 deliberately vulnerable LLM apps, one per OWASP LLM Top 10 category",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Jackpot: a browser lab of 10 deliberately vulnerable LLM apps, one per OWASP LLM Top 10 category",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vet23a/jackpot_a_browser_lab_of_10_deliberately/",
-    "target": "Jackpot",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vet23a/jackpot_a_browser_lab_of_10_deliberately/"
-      }
-    ]
-  },
-  {
-    "id": "b65943bbfb0600c6",
-    "date": "2026-08-05T12:16:10.606631+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "HEVD: From Stack Overflows to Modern Pool Grooming",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "HEVD: From Stack Overflows to Modern Pool Grooming",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vf5zwc/hevd_from_stack_overflows_to_modern_pool_grooming/",
-    "target": "HEVD",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vf5zwc/hevd_from_stack_overflows_to_modern_pool_grooming/"
-      }
-    ]
-  },
-  {
-    "id": "9dd19a09076d62d1",
-    "date": "2026-08-05T12:16:10.606499+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Hardware Hacking: From zero to a Pre-Auth Stack Buffer Overflow on Amazon's best-selling router",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Hardware Hacking: From zero to a Pre-Auth Stack Buffer Overflow on Amazon's best-selling router",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vfdep6/hardware_hacking_from_zero_to_a_preauth_stack/",
-    "target": "Hardware",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vfdep6/hardware_hacking_from_zero_to_a_preauth_stack/"
-      }
-    ]
-  },
-  {
-    "id": "ab8ddee2f9caf0ef",
-    "date": "2026-08-05T12:16:10.606325+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "New Linux Bridge STP Vulnerability",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "New Linux Bridge STP Vulnerability",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vg20wg/new_linux_bridge_stp_vulnerability/",
-    "target": "Linux Bridge STP Vulnerability",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vg20wg/new_linux_bridge_stp_vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "5660a088a54346e8",
-    "date": "2026-08-05T12:16:10.606173+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Bugtraq is back 🥹",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Bugtraq is back 🥹",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vfpmhg/bugtraq_is_back/",
-    "target": "Bugtraq",
-    "type": "General Cybersecurity",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vfpmhg/bugtraq_is_back/"
-      }
-    ]
-  },
-  {
-    "id": "d29a549c775ffe8f",
-    "date": "2026-08-05T12:16:10.606023+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "r/netsec monthly discussion & tool thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "r/netsec monthly discussion & tool thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/",
-    "target": "Unknown",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
-      }
-    ]
-  },
-  {
-    "id": "46631edb097f535e",
-    "date": "2026-08-05T12:16:10.605808+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "/r/netsec's Q3 2026 Information Security Hiring Thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
-    "target": "2026 Information Hiring Thread",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
-      }
-    ]
-  },
-  {
-    "id": "7b9b7bd187bc75e1",
-    "date": "2026-08-05T12:00:56+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Uppsala Security Becomes First Blockchain Intelligence Company to Join Cyber Threat Alliance",
-    "summary": "SIngapore, Singapore, 5th August 2026, CyberNewswire",
-    "article_text": "",
-    "quick_summary": [
-      "SIngapore, Singapore, 5th August 2026, CyberNewswire",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/uppsala-security-becomes-first-blockchain-intelligence-company-to-join-cyber-threat-alliance/",
-    "target": "Uppsala Becomes First Blockchain",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/uppsala-security-becomes-first-blockchain-intelligence-company-to-join-cyber-threat-alliance/"
       }
     ]
   },
@@ -3590,35 +4019,6 @@
     ]
   },
   {
-    "id": "0bf1450c00d0ea9b",
-    "date": "2026-08-04T23:46:41+00:00",
-    "source": "Microsoft Security Blog",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
-    "summary": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post ChainDrop supply chain compromise: Anatomy of a self-propagating worm appeared first on Microsoft Security Blog .",
-    "article_text": "",
-    "quick_summary": [
-      "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates.",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
-    "target": "ChainDrop",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "Microsoft Security Blog"
-    ],
-    "links": [
-      {
-        "source": "Microsoft Security Blog",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/"
-      }
-    ]
-  },
-  {
     "id": "e45427482bd85678",
     "date": "2026-08-04T23:39:59+00:00",
     "source": "BleepingComputer",
@@ -4301,39 +4701,6 @@
       {
         "source": "HackRead",
         "url": "https://hackread.com/mallory-unifies-threat-intelligence-exposure-context-and-response-into-one-architecture-for-security-teams/"
-      }
-    ]
-  },
-  {
-    "id": "90dacd36de7685c4",
-    "date": "2026-08-04T16:49:39+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)",
-    "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 2) appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/",
-    "target": "Black Hat USA 2026",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/"
-      },
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/"
       }
     ]
   },
@@ -26317,354 +26684,6 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html"
-      }
-    ]
-  },
-  {
-    "id": "4e17c3a6a9ca7ac1",
-    "date": "2026-07-27T10:50:19+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
-    "summary": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees. The post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees.",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
-    "target": "Hacked Public Wi-Fi Gateways",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/"
-      }
-    ]
-  },
-  {
-    "id": "5cc480b011df8860",
-    "date": "2026-07-27T10:04:51+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
-    "summary": "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current state of the application. Non-Java readers may be familiar with a similar concept, core dumps, which are produced by binaries to expose a memory image at the time the software crashes. \"heapdumps\" are the Java analog to \"core-dumps\". The heapdump often includes secrets used by the application to connect to backend systems. API keys, database passwords, and other sensitive data may be exposed in the heapdump.",
-    "article_text": "",
-    "quick_summary": [
-      "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33188",
-    "target": "Java Spring Boot Mon",
-    "type": "Data Leak / Breach",
-    "severity": "Medium",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33188"
-      }
-    ]
-  },
-  {
-    "id": "ffce8648a5dffdef",
-    "date": "2026-07-27T10:02:41+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
-    "summary": "Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5. The post Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
-    "target": "Anthropics Opus Nears Mythos",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/"
-      }
-    ]
-  },
-  {
-    "id": "63f4204c45e5283d",
-    "date": "2026-07-27T09:50:58+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Claude Code Symlink Import Lets Malicious Repositories Silently Exfiltrate Local Files",
-    "summary": "Claude Code can load files from outside a repository through a symlinked memory import, which may allow local data to be included in the model’s first outbound request before the model performs any actions. A recently reported Claude Code issue highlights a consent and provenance flaw in its memory import feature, rather than its expected […] The post Claude Code Symlink Import Lets Malicious Repositories Silently Exfiltrate Local Files appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Claude Code can load files from outside a repository through a symlinked memory import, which may allow local data to be included in the model’s first outbound request before the model performs any actions.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/claude-code-symlink-import-malicious-repositories/",
-    "target": "Claude Code Symlink Import",
-    "type": "Data Leak / Breach",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/claude-code-symlink-import-malicious-repositories/"
-      }
-    ]
-  },
-  {
-    "id": "af59c23eedd1db2a",
-    "date": "2026-07-27T09:39:50+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers are Setting Up Websites Impersonating Popular Windows Apps to Deliver Malware",
-    "summary": "Hackers are quietly building lookalike websites that pretend to be popular Windows apps, then use those pages to push malware onto unsuspecting users. The scheme already covers more than 70 well known utilities that people trust and download every day. What begins as a helpful looking download page can later turn into a trap once […] The post Hackers are Setting Up Websites Impersonating Popular Windows Apps to Deliver Malware appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Hackers are quietly building lookalike websites that pretend to be popular Windows apps, then use those pages to push malware onto unsuspecting users.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/websites-impersonating-popular-windows-apps/",
-    "target": "Setting Websites Impersonating Popular",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/websites-impersonating-popular-windows-apps/"
-      }
-    ]
-  },
-  {
-    "id": "bbf263fb0afaab9d",
-    "date": "2026-07-27T09:34:12+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
-    "summary": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network. The post DentaQuest Data Breach Potentially Impacts Over 23 Million People appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
-    "target": "DentaQuest Data Breach Potentially",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/"
-      }
-    ]
-  },
-  {
-    "id": "2e6096fd7aa505a5",
-    "date": "2026-07-27T08:48:47+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-    "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler ThreatLabz. The cybersecurity firm said it detected the campaign earlier this month.",
-    "article_text": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler ThreatLabz. The cybersecurity firm said it detected the campaign earlier this month. \"The campaign used a multi-stage attack chain to establish and maintain access on infected systems, with TELESHIM abusing the Telegram API for command-and-control (C2) communication to blend in with legitimate internet traffic,\" Sudeep Singh, senior manager of APT research at Zscaler ThreatLabz, said in a technical write-up published last week. The attack chain starts with an ISO file containing a legitimate executable (\"RegSchdTask.exe\") that's used to sideload a rogue DLL (\"AsTaskSched.dll\"), a 32-bit Windows backdoor called TELESHIM that then leverages Telegram as C2 to retrieve next-stage components. Two of these payloads are used to trigger a second DLL side-loading chain comprising \"GoProAlertService.exe\" and \"pthreadVC2.dll,\" with the latter acting as a reflective loader codenamed MIXEDKEY to decrypt the contents of \"C99F29AC08454855B3D538960BB2F34F.PCPKEY\" and execute it. Both TELESHIM and MIXEDKEY have been found to rely on heavy code obfuscation techniques, including string encryption, control flow flattening (CFF), mixed boolean arithmetic (MBA), and opaque predicates to deter reverse engineering efforts. TELESHIM also employs an array of methods to detect the presence of virtualization-based analysis environments. Some of these are listed below - What's notable about the final payload is that it's locked behind two layers of XOR encryption, the second layer using a technique called environmental keying by encrypting it by means of a decryption key derived from the infected machine's volume serial number. This is done so that the malware detonates only on intended targets. The attack sequence culminates with the deployment of BINDCLOAK, a 64-bit C2 implant written in C++ that contacts an external server (\"cert.hypersnet[.]com\"). ThreatLabz noted that it identified post-compromise activity from the C2 operator, such as system, user, and network reconnaissance commands, as well as the delivery of next-stage payloads, most of which occurred between July 7, 2026 and July 9, 2026. The C2 commands have been executed only between 4 a.m. and 12 p.m. UTC, with a major chunk of the activity taking place between 7 a.m. and 11 a.m. UTC. Based on the threat actor's public IP address, the system locale configured on their Windows server, the geolocation of the IP address, and the active operational hours, it's assessed with moderate-to-high confidence that the campaign is the work of an adversary originating from East Asia. It has not been attributed to any known threat actor or group at this stage. \"The activity also reflects broader trends such as EDR evasion, blending in with legitimate internet traffic through abuse of trusted platforms, and the use of code-obfuscation techniques such as MBA and CFF to hinder reverse engineering,\" Singh said. Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-    "target": "TELESHIM Abuses Telegram Against",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html"
-      }
-    ]
-  },
-  {
-    "id": "ebcb053338bb3189",
-    "date": "2026-07-27T08:41:56+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "SparkKitty Malware Steals Crypto Wallet Seed Phrases From iOS and Android Photos",
-    "summary": "A new mobile threat is quietly targeting cryptocurrency users by reading the photos stored on their phones. Known as SparkKitty, this malware works on both iOS and Android devices and focuses on stealing wallet seed phrases hidden inside screenshots and gallery images. Instead of logging keystrokes or watching the clipboard, it uses optical character recognition […] The post SparkKitty Malware Steals Crypto Wallet Seed Phrases From iOS and Android Photos appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A new mobile threat is quietly targeting cryptocurrency users by reading the photos stored on their phones.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/sparkkitty-malware-steals-crypto-wallet/",
-    "target": "SparkKitty Malware Steals Crypto",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/sparkkitty-malware-steals-crypto-wallet/"
-      }
-    ]
-  },
-  {
-    "id": "03e69092829c914a",
-    "date": "2026-07-27T08:41:43+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Windows 11’s File Explorer Is Now Faster at Deleting Large Files",
-    "summary": "Microsoft is rolling out a targeted performance update for Windows 11 designed to resolve one of the platform’s most persistent storage annoyances: sluggish deletion of large, highly fragmented files. The improvement is part of a broader set of File Explorer refinements currently undergoing testing with Windows Insiders before a general release. File Explorer now handles […] The post Windows 11’s File Explorer Is Now Faster at Deleting Large Files appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Microsoft is rolling out a targeted performance update for Windows 11 designed to resolve one of the platform’s most persistent storage annoyances: sluggish deletion of large, highly fragmented files.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/windows-11-speeds-up-file-deletions/",
-    "target": "Windows 11s File Explorer",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/windows-11-speeds-up-file-deletions/"
-      }
-    ]
-  },
-  {
-    "id": "7cb53517f7c2d1bd",
-    "date": "2026-07-27T08:12:16+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
-    "summary": "A coordinated wave of exploitation targeting edge VPN and firewall appliances from four major vendors Palo Alto Networks, Fortinet, Citrix, and Check Point has emerged as the dominant initial-access vector for ransomware operators in mid-2026. Threat actors, including affiliates of the Qilin ransomware-as-a-service (RaaS) operation, are chaining authentication-bypass flaws, credential-harvesting campaigns, and legacy-protocol weaknesses to […] The post Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A coordinated wave of exploitation targeting edge VPN and firewall appliances from four major vendors Palo Alto Networks, Fortinet, Citrix, and Check Point has emerged as the dominant initial-access vector for ransomware",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/",
-    "target": "Ransomware Gangs Palo Alto",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
-      }
-    ]
-  },
-  {
-    "id": "5f047a8621fce9d4",
-    "date": "2026-07-27T08:00:18+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "BlueNoroff Hijacks Trusted Telegram Accounts to Deliver ClickFix Malware Through Fake Zoom Calls",
-    "summary": "A North Korean hacking unit has refined a scheme that turns everyday chats into malware traps. The BlueNoroff group, linked to the wider Lazarus ecosystem, is taking over real Telegram accounts that belong to trusted industry contacts. Those stolen identities then send fake Zoom and Microsoft Teams meeting links to senior staff at cryptocurrency and […] The post BlueNoroff Hijacks Trusted Telegram Accounts to Deliver ClickFix Malware Through Fake Zoom Calls appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A North Korean hacking unit has refined a scheme that turns everyday chats into malware traps.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/bluenoroff-hijacks-trusted-telegram-accounts/",
-    "target": "BlueNoroff Hijacks Trusted Telegram",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/bluenoroff-hijacks-trusted-telegram-accounts/"
-      }
-    ]
-  },
-  {
-    "id": "120998757c9ee705",
-    "date": "2026-07-27T07:50:17.371939+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT GitHub Actions Unwittingly Became an ISP for Criminals",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/github-actions-unwittingly-became-an-isp-for-criminals",
-    "target": "EXPLOIT GitHub Actions Unwittingly",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/github-actions-unwittingly-became-an-isp-for-criminals"
       }
     ]
   }
