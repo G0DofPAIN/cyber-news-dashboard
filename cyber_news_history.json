@@ -1,36 +1,7 @@
 [
   {
-    "id": "9a7d3b5e505749ad",
-    "date": "2026-08-10T11:58:47.710753+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE WinRAR CVE-2025-8088: Russian and Chinese APTs Exploit N-Day Patched Six Months Ago",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/winrar-cve-2025-8088-russian-and-chinese-apts-exploit-n-day-patched-six-months-ago",
-    "target": "CVE WinRAR CVE-2025-8088",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/winrar-cve-2025-8088-russian-and-chinese-apts-exploit-n-day-patched-six-months-ago"
-      }
-    ]
-  },
-  {
     "id": "705573a7a7425920",
-    "date": "2026-08-10T11:58:47.710640+00:00",
+    "date": "2026-08-10T13:43:06.295202+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "8dfaa6bfd401628e",
-    "date": "2026-08-10T11:58:47.710520+00:00",
+    "date": "2026-08-10T13:43:06.295084+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "dfa3d206cd63da08",
-    "date": "2026-08-10T11:58:47.710376+00:00",
+    "date": "2026-08-10T13:43:06.294942+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "6dcb2138a38c7fda",
-    "date": "2026-08-10T11:58:47.710245+00:00",
+    "date": "2026-08-10T13:43:06.294827+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "8b637756dea06027",
-    "date": "2026-08-10T11:58:47.710132+00:00",
+    "date": "2026-08-10T13:43:06.294714+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,66 +145,37 @@
     ]
   },
   {
-    "id": "7b39b3489b3c72ee",
-    "date": "2026-08-10T11:58:47.710019+00:00",
+    "id": "c8c5b4915bcffa0b",
+    "date": "2026-08-10T13:43:06.294568+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Barracuda Zero-Day: Mandiant Attributes CVE-2023-2868 to Chinese Espionage CYBERSEC ZERO-DAY",
+    "title": "EXPLOIT Microsoft Uses AI to Find Windows Flaws Before Attackers Could Exploit Them",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/barracuda-zero-day-mandiant-attributes-cve-2023-2868-to-chinese-espionage",
-    "target": "Barracuda Zero-Day",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/barracuda-zero-day-mandiant-attributes-cve-2023-2868-to-chinese-espionage"
-      }
-    ]
-  },
-  {
-    "id": "c39178a2fd3a94b3",
-    "date": "2026-08-10T11:58:47.709902+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Backdoored LiteLLM on PyPI: Malware Triggers on Python Startup Alone CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/backdoored-litellm-on-pypi-malware-triggers-on-python-startup-alone",
-    "target": "Backdoored LiteLLM PyPI",
-    "type": "Malware",
-    "severity": "High",
+    "link": "https://deafnews.it/en/news/cybersecurity/microsoft-uses-ai-to-find-windows-flaws-before-attackers-could-exploit-them",
+    "target": "EXPLOIT Microsoft Uses Find",
+    "type": "Vulnerability",
+    "severity": "Medium",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/backdoored-litellm-on-pypi-malware-triggers-on-python-startup-alone"
+        "url": "https://deafnews.it/en/news/cybersecurity/microsoft-uses-ai-to-find-windows-flaws-before-attackers-could-exploit-them"
       }
     ]
   },
   {
     "id": "03a1aeb88b28744d",
-    "date": "2026-08-10T11:58:47.709779+00:00",
+    "date": "2026-08-10T13:43:06.294442+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -261,8 +203,37 @@
     ]
   },
   {
+    "id": "eb7297bc6b2d80d5",
+    "date": "2026-08-10T13:43:06.294319+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "WinRAR CVE-2025-8088: Russian and Chinese APTs Exploit N-Day Patched Six Months Ago CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/winrar-cve-2025-8088-russian-and-chinese-apts-exploit-n-day-patched-six-months-ago",
+    "target": "WinRAR CVE-2025-8088",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/winrar-cve-2025-8088-russian-and-chinese-apts-exploit-n-day-patched-six-months-ago"
+      }
+    ]
+  },
+  {
     "id": "ab835a9aac2fdd62",
-    "date": "2026-08-10T11:58:47.709542+00:00",
+    "date": "2026-08-10T13:43:06.294205+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,7 +266,7 @@
   },
   {
     "id": "1f333edc7970e88f",
-    "date": "2026-08-10T11:58:47.709413+00:00",
+    "date": "2026-08-10T13:43:06.294079+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -324,7 +295,7 @@
   },
   {
     "id": "22f4635292107f98",
-    "date": "2026-08-10T11:58:47.709258+00:00",
+    "date": "2026-08-10T13:43:06.293946+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -352,13 +323,13 @@
     ]
   },
   {
-    "id": "c7b9c3a4b392198d",
-    "date": "2026-08-10T11:58:47.708326+00:00",
+    "id": "2600e0498dd21519",
+    "date": "2026-08-10T13:43:06.293509+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "news Amazon Attributes NPM Supply-Chain Campaign to North Korean Groups — Months After Italy Flagged It Aug 10, 2026",
+    "title": "Amazon Attributes NPM Supply-Chain Campaign to North Korean Groups — Months After Italy Flagged It news",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -381,13 +352,13 @@
     ]
   },
   {
-    "id": "19aa5018a9b5ebd1",
-    "date": "2026-08-10T11:58:47.707975+00:00",
+    "id": "c1800f9c99807c95",
+    "date": "2026-08-10T13:43:06.292697+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "The Microsoft 365 Account Takeover That Leaves No Trace",
+    "title": "phishing The Microsoft 365 Account Takeover That Leaves No Trace Aug 10, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -397,8 +368,8 @@
     ],
     "link": "https://deafnews.it/en/news/phishing/the-microsoft-365-account-takeover-that-leaves-no-trace",
     "target": "Microsoft 365 Account Takeover",
-    "type": "General Cybersecurity",
-    "severity": "Low",
+    "type": "Phishing / Scam",
+    "severity": "High",
     "sources": [
       "DeafNews"
     ],
@@ -410,8 +381,37 @@
     ]
   },
   {
+    "id": "35c465cd93fbd90b",
+    "date": "2026-08-10T13:43:06.292523+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC Valve: Steam Hardware Shipping Data Exposed in CEVA Logistics Attack Aug 10, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/valve-steam-hardware-shipping-data-exposed-in-ceva-logistics-attack",
+    "target": "CYBERSEC Valve",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/valve-steam-hardware-shipping-data-exposed-in-ceva-logistics-attack"
+      }
+    ]
+  },
+  {
     "id": "db5ae4d0a95a1fa3",
-    "date": "2026-08-10T11:58:47.707813+00:00",
+    "date": "2026-08-10T13:43:06.292231+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -440,7 +440,7 @@
   },
   {
     "id": "12160ab45a8d0294",
-    "date": "2026-08-10T11:58:46.538062+00:00",
+    "date": "2026-08-10T13:43:05.516878+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -517,7 +517,7 @@
   },
   {
     "id": "88539fde0114febd",
-    "date": "2026-08-10T11:58:45.348059+00:00",
+    "date": "2026-08-10T13:43:04.566199+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -546,7 +546,7 @@
   },
   {
     "id": "95fc454ae7c48e5e",
-    "date": "2026-08-10T11:58:45.347929+00:00",
+    "date": "2026-08-10T13:43:04.566065+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -575,7 +575,7 @@
   },
   {
     "id": "3c9263892bcc58aa",
-    "date": "2026-08-10T11:58:45.347806+00:00",
+    "date": "2026-08-10T13:43:04.565946+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -604,7 +604,7 @@
   },
   {
     "id": "c69673943063468d",
-    "date": "2026-08-10T11:58:45.347681+00:00",
+    "date": "2026-08-10T13:43:04.565824+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -633,7 +633,7 @@
   },
   {
     "id": "48f4a163de2e566e",
-    "date": "2026-08-10T11:58:45.347553+00:00",
+    "date": "2026-08-10T13:43:04.565694+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -662,7 +662,7 @@
   },
   {
     "id": "b65943bbfb0600c6",
-    "date": "2026-08-10T11:58:45.347428+00:00",
+    "date": "2026-08-10T13:43:04.565549+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -691,7 +691,7 @@
   },
   {
     "id": "9dd19a09076d62d1",
-    "date": "2026-08-10T11:58:45.347275+00:00",
+    "date": "2026-08-10T13:43:04.565422+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -720,7 +720,7 @@
   },
   {
     "id": "5660a088a54346e8",
-    "date": "2026-08-10T11:58:45.347142+00:00",
+    "date": "2026-08-10T13:43:04.565291+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -749,7 +749,7 @@
   },
   {
     "id": "ab8ddee2f9caf0ef",
-    "date": "2026-08-10T11:58:45.347016+00:00",
+    "date": "2026-08-10T13:43:04.565168+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -778,7 +778,7 @@
   },
   {
     "id": "020b6398d8c64fe8",
-    "date": "2026-08-10T11:58:45.346882+00:00",
+    "date": "2026-08-10T13:43:04.565035+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -807,7 +807,7 @@
   },
   {
     "id": "42646be5e0292f4f",
-    "date": "2026-08-10T11:58:45.346740+00:00",
+    "date": "2026-08-10T13:43:04.564894+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -836,7 +836,7 @@
   },
   {
     "id": "591612a6f556b244",
-    "date": "2026-08-10T11:58:45.346616+00:00",
+    "date": "2026-08-10T13:43:04.564770+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -865,7 +865,7 @@
   },
   {
     "id": "2eb6fa64547670a9",
-    "date": "2026-08-10T11:58:45.346489+00:00",
+    "date": "2026-08-10T13:43:04.564619+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -894,7 +894,7 @@
   },
   {
     "id": "68793442dc0dec51",
-    "date": "2026-08-10T11:58:45.346323+00:00",
+    "date": "2026-08-10T13:43:04.564482+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -923,7 +923,7 @@
   },
   {
     "id": "6089be6847529c0b",
-    "date": "2026-08-10T11:58:45.346183+00:00",
+    "date": "2026-08-10T13:43:04.564343+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -952,7 +952,7 @@
   },
   {
     "id": "6294d1da87bfef9a",
-    "date": "2026-08-10T11:58:45.346046+00:00",
+    "date": "2026-08-10T13:43:04.564206+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -981,7 +981,7 @@
   },
   {
     "id": "891b694facaaa612",
-    "date": "2026-08-10T11:58:45.345907+00:00",
+    "date": "2026-08-10T13:43:04.564067+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1010,7 +1010,7 @@
   },
   {
     "id": "74b2a7d73c93d327",
-    "date": "2026-08-10T11:58:45.345776+00:00",
+    "date": "2026-08-10T13:43:04.563938+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1039,7 +1039,7 @@
   },
   {
     "id": "bf08a0c2cf461b2a",
-    "date": "2026-08-10T11:58:45.345649+00:00",
+    "date": "2026-08-10T13:43:04.563811+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1068,7 +1068,7 @@
   },
   {
     "id": "1a8a53c4336426fc",
-    "date": "2026-08-10T11:58:45.345495+00:00",
+    "date": "2026-08-10T13:43:04.563654+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1097,7 +1097,7 @@
   },
   {
     "id": "36b75d2e2b641bbb",
-    "date": "2026-08-10T11:58:45.345320+00:00",
+    "date": "2026-08-10T13:43:04.563507+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1126,7 +1126,7 @@
   },
   {
     "id": "4c672297a6dc990b",
-    "date": "2026-08-10T11:58:45.345191+00:00",
+    "date": "2026-08-10T13:43:04.563377+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1155,7 +1155,7 @@
   },
   {
     "id": "2c7d6de428c373eb",
-    "date": "2026-08-10T11:58:45.345039+00:00",
+    "date": "2026-08-10T13:43:04.563224+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1184,7 +1184,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-10T11:58:45.344889+00:00",
+    "date": "2026-08-10T13:43:04.563073+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1221,7 +1221,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-10T11:58:45.344685+00:00",
+    "date": "2026-08-10T13:43:04.562890+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1249,6 +1249,412 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "45d953caf5818254",
+    "date": "2026-08-10T13:35:24+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Fake GoogleTranslate Chrome Extension Lets Attackers Remotely Control Your Browsers",
+    "summary": "A malicious Chrome extension masquerading as GoogleTranslate that can steal sensitive browser data, live-stream web sessions, and allow threat actors to remotely interact with Chrome windows while keeping their activity out of the victim’s view. The operation begins with a suspected Rust-based malware loader. VMRay researchers found that the binary drops a malicious Chrome extension […] The post Fake GoogleTranslate Chrome Extension Lets Attackers Remotely Control Your Browsers appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A malicious Chrome extension masquerading as GoogleTranslate that can steal sensitive browser data, live-stream web sessions, and allow threat actors to remotely interact with Chrome windows while keeping their activity ",
+      "Risk: credentials/infostealer risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/fake-googletranslate-chrome-extension/",
+    "target": "Fake GoogleTranslate Chrome Extension",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/fake-googletranslate-chrome-extension/"
+      }
+    ]
+  },
+  {
+    "id": "982769c01cdbf296",
+    "date": "2026-08-10T13:15:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns",
+    "summary": "A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able.",
+    "article_text": "",
+    "quick_summary": [
+      "A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able.",
+      "Risk: ransomware/extortion, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://therecord.media/china-hackers-ransomware-microsoft",
+    "target": "China-linked",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/china-hackers-ransomware-microsoft"
+      }
+    ]
+  },
+  {
+    "id": "1f3fcc3e32922107",
+    "date": "2026-08-10T13:12:59+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Google Play Apps Use Stealth Loaders to Deliver Anatsa Banking Malware",
+    "summary": "Android users are facing a fresh reminder that a familiar app-store listing can hide a financial threat. Researchers have observed malicious loaders on Google Play that can prepare the ground for Anatsa, an Android banking Trojan designed to put account access at risk. The campaign does not rely on an obvious malicious download at first. […] The post Google Play Apps Use Stealth Loaders to Deliver Anatsa Banking Malware appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Android users are facing a fresh reminder that a familiar app-store listing can hide a financial threat.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/google-play-apps-use-stealth-loaders/",
+    "target": "Google Play Apps Stealth",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/google-play-apps-use-stealth-loaders/"
+      }
+    ]
+  },
+  {
+    "id": "9606252820c289b7",
+    "date": "2026-08-10T12:59:34+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
+    "summary": "An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word. The post ‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
+    "target": "Ghostjacking Uses Poisoned Logs",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/"
+      }
+    ]
+  },
+  {
+    "id": "58b0ba2f8b1a2bc8",
+    "date": "2026-08-10T12:56:28+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Member of The Com sent to prison for blackmail, sextortion",
+    "summary": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]",
+    "article_text": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. 20-year-old Justin Swaddle from Leeds (known as 'Epstein', 'Rugen' and 'Moscow' on Snapchat, Telegram, and Discord) was first arrested in October 2023 by West Yorkshire Police. Swaddle was sentenced today after pleading guilty to multiple child sexual abuse offenses and blackmail at Leeds Crown Court on July 2. He will also be added to the National Sex Offenders Register and will be subject to a Sexual Harm Prevention Order for 10 years. \"Justin Swaddle targeted young and vulnerable victims all over the world to abuse and scare them into carrying out shocking self-harm and sexual activity, purely to gain popularity with his peers online,\" said NCA operations manager Danielle Pownall. \"He gained the trust of his victims, before collecting private information about them so he could threaten to share their intimate images or report them to their school or parents to incite further content. After taking over the investigation in January 2024, the UK National Crime Agency (NCA) identified 117 female victims worldwide, aged from 13 to 17. While searching seized devices, the investigators also found images of children with ages ranging from three to 17, several of them showing the result of acts encouraged by Swaddle. \"Telegram messages recovered from Swaddle's device showed he had attempted to incite a child to sexually abuse a younger child and record it for him, threatening to leak indecent images if further content was not received,\" the NCA said . \"Numerous images were found on his device showing victims with self-harm injuries, including Swaddle's aliases being carved into their skin, and indecent images of children in Categories A to C, with A being the most severe.\" The Com (short for Community) recruits and grooms victims through online platforms, coercing them into self-harm, violence, and the production of child sexual abuse material, often through blackmail. As Europol reported earlier this year , the Com collective is organized into multiple subgroups, including: Two alleged 764 leaders (21-year-old Leonidas Varagiannis and 20-year-old Prasan Nepal) were arrested in April 2025 and now face life in prison for operating an international child exploitation ring. The Com was previously linked to ransomware attacks against Las Vegas casino breaches in September 2023 and, more recently, UK retailing giants Marks & Spencer , Co-op , and Harrods in April 2025. In February, a year-long Europol-led operation dubbed \"Project Compass\" led to 30 arrests and 179 suspects being linked to The Com. Europol has also flagged 4,340 URLs for removal during a multi-week July operation targeting online content tied to the Com group. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Scattered Spider members behind TfL hack get five years in prison UK charges suspects linked to Russian Coms call spoofing platform Nottingham University data breach affects over 450,000 students Metabase SQLi zero-day exploited in customer data-theft attacks Levi Strauss & Co. says hackers stole corporate data in cyberattack North Carolina Ports confirms cyberattack disrupting operations See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats Webinar: Shadow AI in 2026 (and how attackers are taking advantage) See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Spend four hours inside a fully-simulated underground with DARKROOM. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide.",
+      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+    "target": "Member Com",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/"
+      }
+    ]
+  },
+  {
+    "id": "38198790c1d9d4dd",
+    "date": "2026-08-10T12:33:31+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Ransomware Operators Disable EDR, Backup Software and Windows Telemetry Before Encryption",
+    "summary": "Ransomware crews are increasingly trying to blind a victim before they encrypt anything. Analysis shows that attackers can disable endpoint detection and response tools, interrupt Windows telemetry, and target backup services to reduce the chance that defenders spot or contain the intrusion in time. The findings focus on ten ransomware families that were least often […] The post Ransomware Operators Disable EDR, Backup Software and Windows Telemetry Before Encryption appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Ransomware crews are increasingly trying to blind a victim before they encrypt anything.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://cybersecuritynews.com/ransomware-operators-disable-edr/",
+    "target": "Ransomware Operators Disable EDR",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/ransomware-operators-disable-edr/"
+      }
+    ]
+  },
+  {
+    "id": "fa8fe53912b67e04",
+    "date": "2026-08-10T12:31:53+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Valve Steam Hardware Buyers Hit by CEVA Logistics Data Breach",
+    "summary": "Valve has confirmed that a cyberattack on CEVA Logistics, its European shipping partner for Steam hardware such as the Steam Deck, Steam Machine, and Steam Controller, exposed customer data belonging to buyers across Europe. The breach occurred between July 29 and August 1, 2026, and Valve says it learned of the compromise on August 7, […] The post Valve Steam Hardware Buyers Hit by CEVA Logistics Data Breach appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Valve has confirmed that a cyberattack on CEVA Logistics, its European shipping partner for Steam hardware such as the Steam Deck, Steam Machine, and Steam Controller, exposed customer data belonging to buyers across Eur",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/valve-steam-ceva-data-breach/",
+    "target": "Valve Steam Hardware Buyers",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/valve-steam-ceva-data-breach/"
+      }
+    ]
+  },
+  {
+    "id": "cba68922a42d923f",
+    "date": "2026-08-10T12:30:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "New Zealand sanctions Russian hackers, propaganda groups over Ukraine war",
+    "summary": "New Zealand announced new sanctions on Russian hackers, technology companies and Kremlin-linked organizations over their roles in supporting Moscow’s war against Ukraine.",
+    "article_text": "",
+    "quick_summary": [
+      "New Zealand announced new sanctions on Russian hackers, technology companies and Kremlin-linked organizations over their roles in supporting Moscow’s war against Ukraine.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/new-zealand-russian-hackers-sanctions",
+    "target": "Zealand Russian Ukraine",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/new-zealand-russian-hackers-sanctions"
+      }
+    ]
+  },
+  {
+    "id": "e4fa33cab2c877b9",
+    "date": "2026-08-10T12:25:04+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+    "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abused a cloud-synced passkey system from malware already on the victim's machine, and used a",
+    "article_text": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abused a cloud-synced passkey system from malware already on the victim's machine, and used a Windows Hello for Business key from a compromised user session without a fresh PIN or biometric check. None cracked the math. The fixes and mitigations differ too. Microsoft's Windows logging vulnerability, CVE-2026-34348 , has a vendor CVSS score of 6.5 and a Microsoft security update. Microsoft told The Hacker News that it has also applied mitigations for the reported issue involving passkey relay assertions. Microsoft's Entra migration guidance , last updated August 3, 2026, continues to describe passkeys as resistant to replay attacks. The public Microsoft advisory tied to CVE-2026-34348 covers the Windows Event Logging Service issue, while the company's response did not provide technical details about the scope of the separate Entra-side mitigations. \"We appreciate the work of SpecterOps for reporting this through a coordinated vulnerability disclosure. We have applied mitigations for the reported issue involving passkey relay assertions and continue investing in security enhancements across authentication methods. We recommend adopting a least-privilege access approach, using phishing-resistant authentication methods, and maintaining endpoint protections by embracing a Zero Trust security model to be better protected,\" a Microsoft spokesperson told The Hacker News. The Unit 42 and Mollema findings also show why no single choice between synced and device-bound passkeys closes the broader attack surface. The Hacker News has also reached out to SpecterOps for further detail on its latest testing and will update this story with any response. SpecterOps principal security researcher Michael Grafnetter presented the firm's Pass-the-Passkey research at Black Hat USA 2026 on August 5. SpecterOps says Windows stored past YubiKey signatures in cleartext where authenticated unprivileged users, including remote users, could read them. The firm says chaining those signatures with weaknesses in Microsoft Entra ID's passkey validation allowed privileged-user impersonation despite policies requiring phishing-resistant MFA. The Windows issue is tracked as CVE-2026-34348 , an information-disclosure vulnerability in the Windows Event Logging Service. Microsoft's affected-product data covers releases across Windows 10, Windows 11 and Windows Server. The CVE's product scope does not establish that SpecterOps' full passkey chain works identically on every listed Windows release. In this chain, the attacker does not need to extract the private key from a YubiKey or other authenticator. The dangerous material is an already generated signature that Windows retained and that SpecterOps says Entra ID accepted in the replay chain. That is a narrower failure than breaking FIDO2, but it can still produce the result defenders care about: an attacker authenticating as someone else. Unit 42's Pass-ta-key research targets Google Password Manager's synced-passkey system in Chrome on Windows. All three attacks described by the team start with malware already running on the victim's endpoint, without requiring an administrator-level privilege escalation. The first path abuses Chrome's device identity machinery to obtain the signatures needed to act like a legitimate Google Password Manager client without a new device unlock or user interaction. Unit 42 demonstrated the technique against eBay even though the site requested user verification; after the researchers reported the problem, eBay changed its validation of the WebAuthn user-verification flag. The most damaging variant, Golden Pass-ta-key, targets the Security Domain Secret , a 32-byte master key used to protect synced passkeys. Unit 42 first found the secret exposed in Chrome's device logging. Google removed it from that logging output after the report, but the researchers say the secret is still temporarily present in Chrome's process memory during re-registration. With the secret, an attacker can recover the victim's synced passkey private keys. Unit 42 says Google's current implementation provides no way to rotate or revoke the Security Domain Secret. That makes the compromise more persistent than a singl",
+    "quick_summary": [
+      "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+    "target": "Passkey Can Recover Synced",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html"
+      }
+    ]
+  },
+  {
+    "id": "c7ed58c57f2e83f0",
+    "date": "2026-08-10T12:11:52+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "LexisNexis shuts down services after suspicious activity on servers",
+    "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
+    "article_text": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. The company said it is investigating the incident with assistance from a cybersecurity forensic firm and is rebuilding affected systems in a new environment before bringing the services back online. “Earlier this week, we identified unusual activity on servers that are hosted and managed by a third-party vendor,” reads the notification sent to customers last week. “To protect our customers and contain the issue at its source, we made the immediate decision to disconnect from those third-party systems.” LexisNexis is a global data analytics company providing legal, business, regulatory, and risk information research, public records, and risk management services. Its services are widely used by corporations, law firms, financial institutions, government agencies, consultants, and researchers. Nexis Diligence is a due diligence and risk research platform used by compliance professionals, while Nexis Metabase API provides news and media data feeds for integration into enterprise systems. The Nexis Newsdesk media monitoring and analytics service is used primarily by communications, public relations, and marketing teams. Todd Larsen, the president of the global Nexis Solutions division of LexisNexis, confirmed to BleepingComputer that the services were taken down due to suspicious activity on vendor servers. “Our investigation is ongoing, and we are working with a preeminent cybersecurity forensic firm on review and remediation,” Larsen stated. Last Thursday, the Metabase business intelligence and data analytics platform announced that its Cloud hosting service had been targeted in data-theft attacks leveraging a critical zero-day SQL injection vulnerability . In a clarification for BleepingComputer, Larsen says that Lexis Solutions does not use Metabase Cloud services. \"Nexis Solutions is not a Metabase Cloud customer, and the Nexis Metabase API product has no connection to Metabase Cloud or the reported vulnerability,\" Larsen told BleepingComputer. In May 2025, LexisNexis disclosed a cybersecurity incident in which hackers stole the personal data of 364,000 individuals after gaining unauthorized access to its private GitHub repositories. Earlier this year in March, LexisNexis was targeted by the threat actor ‘FulcrumSec’ after exploiting the ‘React2Shell’ flaw in the company's AWS infrastructure to steal and later leak private files . At the time, the company confirmed unauthorized access to “a limited number of servers,” underlining that they contained mostly legacy data. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Metabase SQLi zero-day exploited in customer data-theft attacks How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore Metabase SQLi zero-day exploited in customer data-theft attacks Levi Strauss & Co. says hackers stole corporate data in cyberattack North Carolina Ports confirms cyberattack disrupting operations Spend four hours inside a fully-simulated underground with DARKROOM. Webinar: Shadow AI in 2026 (and how attackers are taking advantage) See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+    "target": "LexisNexis",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/"
+      }
+    ]
+  },
+  {
+    "id": "988631a5dc64dcb3",
+    "date": "2026-08-10T12:08:53+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Top 10 Malware Threats of the Week – AsyncRAT, Remcos, and Xworm Lead the Surge",
+    "summary": "Global malware activity climbed sharply over the past week, with remote access trojans (RATs), information stealers, and loaders all posting significant week-over-week gains, according to threat sample uploads tracked by ANY.RUN. AsyncRAT topped the chart with 211 uploads, edging out Remcos at 196 and Xworm at 183. This trend signals that RAT-based intrusions remain the […] The post Top 10 Malware Threats of the Week – AsyncRAT, Remcos, and Xworm Lead the Surge appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Global malware activity climbed sharply over the past week, with remote access trojans (RATs), information stealers, and loaders all posting significant week-over-week gains, according to threat sample uploads tracked by",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/top-10-malware-threats/",
+    "target": "Top Malware Threats Week",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/top-10-malware-threats/"
+      }
+    ]
+  },
+  {
+    "id": "7b39b3489b3c72ee",
+    "date": "2026-08-10T11:58:47.710019+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Barracuda Zero-Day: Mandiant Attributes CVE-2023-2868 to Chinese Espionage CYBERSEC ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/barracuda-zero-day-mandiant-attributes-cve-2023-2868-to-chinese-espionage",
+    "target": "Barracuda Zero-Day",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/barracuda-zero-day-mandiant-attributes-cve-2023-2868-to-chinese-espionage"
+      }
+    ]
+  },
+  {
+    "id": "c39178a2fd3a94b3",
+    "date": "2026-08-10T11:58:47.709902+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Backdoored LiteLLM on PyPI: Malware Triggers on Python Startup Alone CYBERSEC",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/backdoored-litellm-on-pypi-malware-triggers-on-python-startup-alone",
+    "target": "Backdoored LiteLLM PyPI",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/backdoored-litellm-on-pypi-malware-triggers-on-python-startup-alone"
+      }
+    ]
+  },
+  {
+    "id": "d6a21f013003e06f",
+    "date": "2026-08-10T11:58:17+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Apple Private Cloud Compute Flaw Enables Root File Writes and AI Inference Telemetry Leakage",
+    "summary": "CVE-2026-20685 is a path traversal vulnerability affecting Apple’s Private Cloud Compute (PCC), potentially allowing attackers to write files as root during node boot and redirect sensitive AI inference telemetry to an external server. Sentry Security researcher Drinor received a $150,000 Apple Security Bounty for discovering and reporting CVE-2026-20685, a flaw that could expose sensitive data […] The post Apple Private Cloud Compute Flaw Enables Root File Writes and AI Inference Telemetry Leakage appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2026-20685 is a path traversal vulnerability affecting Apple’s Private Cloud Compute (PCC), potentially allowing attackers to write files as root during node boot and redirect sensitive AI inference telemetry to an e",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/apple-private-cloud-compute-vulnerability/",
+    "target": "Apple Private Cloud Compute",
+    "type": "Data Leak / Breach",
+    "severity": "Medium",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/apple-private-cloud-compute-vulnerability/"
       }
     ]
   },
@@ -1282,6 +1688,35 @@
     ]
   },
   {
+    "id": "32a61e9ddd5e5ff4",
+    "date": "2026-08-10T11:52:16+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+    "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
+    "article_text": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped. In our latest webinar with Chainguard experts, “ The True Cost of Building at Machine Speed ,” you can now watch how security teams can keep AI-driven development fast without letting risk scale with it. For years, application security followed a familiar cycle: developers wrote code, scanners found problems, security teams prioritized them, and engineers fixed what mattered most. If teams can suddenly create many times more code, security can also end up with many more components, dependencies, findings, and fixes to manage. More scanning alone does not solve that. It can simply create a larger backlog. The same powerful AI models helping developers write and understand software are also available to attackers. As both software production and attacker capabilities accelerate, security teams are being squeezed from both sides. The core question becomes simple: How do you move at AI speed without accepting AI-speed risk? That is the focus of The True Cost of Building at Machine Speed . The webinar looks beyond the usual discussion about whether AI-generated code is secure. It gets into the harder issue: what happens to security when the amount of software being created grows faster than people can realistically review and remediate it? Join the webinar to see where traditional CVE-driven remediation starts to break down, what secure-by-default development should look like, and how to build controls that can keep working as AI adoption grows. The session examines how AI is expanding the software attack surface, why existing vulnerability-management processes may struggle at machine scale, and where organizations need stronger guardrails before code reaches production. AI-assisted development is quickly becoming more than an engineering decision. Security leaders need to understand who owns the risk, how much exposure the organization is accepting, and how to explain those choices to executives and boards. Slowing developers down is not the answer. Companies are adopting AI because they want to build faster. The better approach is to make security work at that speed too, with controls designed around how software is being built now, not how it was built five years ago. Watch now “ The True Cost of Building at Machine Speed ” and get a practical framework for securing AI-driven development before the gap between development speed and security control gets even wider. Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "AI is helping development teams produce far more code, far faster.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+    "target": "Shipping",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html"
+      }
+    ]
+  },
+  {
     "id": "c28ceec82bf538eb",
     "date": "2026-08-10T11:47:55+00:00",
     "source": "BleepingComputer",
@@ -1290,7 +1725,7 @@
     "category": "",
     "title": "Valve notifies Steam hardware customers of a data breach",
     "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
-    "article_text": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. CEVA Logistics (a fully-owned subsidiary of the CMA CGM Group, the world's third-largest shipping company) operates 1,000 warehouses, handled 15 million shipments last year, and reported $18.3 billion in revenues in 2025. According to many reports on social media, affected Valve customers began receiving data breach notification emails earlier today. In these emails, Valve said the attackers had access to CEVA Logistics' servers between July 29 and August 1, which allowed them to gain access to information needed to ship hardware orders to Steam customers. \"Between July 29 2026 and August 1, 2026, a cyberattack hit CEVA Logistics, the company that ships Steam hardware to customers in Europe. CEVA is still investigating this attack, but as Valve learned on August 7, certain information about Steam customers, including you, was likely compromised,\" Valve said. \"CEVA receives specific delivery-related information from Steam to be able to ship physical hardware to customers in Europe, and told us these are the details the attacker likely took. Because CEVA retains this information for up to 90 days after that order, we are sending this message to all customers we can assume were impacted.\" The stolen data includes the affected individuals' names, addresses, phone numbers, email addresses, and the type and price of ordered products. However, Valve added that no additional information related to the Steam account or other purchases was impacted, as CEVA does not have access to payment information, passwords, Steam Guard codes, or other sensitive data. The company also warned affected Steam customers that they may be targeted by email, SMS, or voice phishing messages using the stolen information and impersonating Steam, Valve, or delivery companies. \"They may quote your address back to you to prove they're genuine. They may ask you to confirm a delivery, pay a small customs or redelivery fee, or sign in somewhere to \"verify\" your order. Treat all of them as fake. You do not need to change your Steam password, and you don't need to do anything to your account settings,\" it added. \"We're pressing CEVA for the full scope of what was taken and how, and we are in the process of notifying the data protection authorities in the countries affected, including yours. CEVA has isolated the affected systems, taken all offline and brought in outside investigators.\" Valve's disclosure comes after CEVA Logistics informed multiple European retailers on August 1 that a cyberattack disrupted operations at eight of its European warehouses. A Valve spokesperson was not immediately available for comment when contacted by BleepingComputer earlier today. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Canadian pleads guilty to Snowflake cloud data-theft attacks Lidl discloses online shop breach after service provider hack Insurance giant Aflac discloses data breach after subsidiary hack Council of Europe investigates ShinyHunters data breach claims Infinite Campus data breach affects 137,000 school staff accounts Metabase SQLi zero-day exploited in customer data-theft attacks Levi Strauss & Co. says hackers stole corporate data in cyberattack North Carolina Ports confirms cyberattack disrupting operations See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats Spend four hours inside a fully-simulated underground with DARKROOM. See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. CEVA Logistics (a fully-owned subsidiary of the CMA CGM Group, the world's third-largest shipping company) operates 1,000 warehouses, handled 15 million shipments last year, and reported $18.3 billion in revenues in 2025. According to many reports on social media, affected Valve customers began receiving data breach notification emails earlier today . In these emails, Valve said the attackers had access to CEVA Logistics' servers between July 29 and August 1, which allowed them to gain access to information needed to ship hardware orders to Steam customers. \"Between July 29 2026 and August 1, 2026, a cyberattack hit CEVA Logistics, the company that ships Steam hardware to customers in Europe. CEVA is still investigating this attack, but as Valve learned on August 7, certain information about Steam customers, including you, was likely compromised,\" Valve said. \"CEVA receives specific delivery-related information from Steam to be able to ship physical hardware to customers in Europe, and told us these are the details the attacker likely took. Because CEVA retains this information for up to 90 days after that order, we are sending this message to all customers we can assume were impacted.\" The stolen data includes the affected individuals' names, addresses, phone numbers, email addresses, and the type and price of ordered products. However, Valve added that no additional information related to the Steam account or other purchases was impacted, as CEVA does not have access to payment information, passwords, Steam Guard codes, or other sensitive data. The company also warned affected Steam customers that they may be targeted by email, SMS, or voice phishing messages using the stolen information and impersonating Steam, Valve, or delivery companies. \"They may quote your address back to you to prove they're genuine. They may ask you to confirm a delivery, pay a small customs or redelivery fee, or sign in somewhere to \"verify\" your order. Treat all of them as fake. You do not need to change your Steam password, and you don't need to do anything to your account settings,\" it added. \"We're pressing CEVA for the full scope of what was taken and how, and we are in the process of notifying the data protection authorities in the countries affected, including yours. CEVA has isolated the affected systems, taken all offline and brought in outside investigators.\" Valve's disclosure comes after CEVA Logistics informed multiple European retailers on August 1 that a cyberattack disrupted operations at eight of its European warehouses. A Valve spokesperson was not immediately available for comment when contacted by BleepingComputer earlier today. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Canadian pleads guilty to Snowflake cloud data-theft attacks Lidl discloses online shop breach after service provider hack Insurance giant Aflac discloses data breach after subsidiary hack Council of Europe investigates ShinyHunters data breach claims Infinite Campus data breach affects 137,000 school staff accounts Metabase SQLi zero-day exploited in customer data-theft attacks Levi Strauss & Co. says hackers stole corporate data in cyberattack North Carolina Ports confirms cyberattack disrupting operations See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Spend four hours inside a fully-simulated underground with DARKROOM. Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
@@ -1336,6 +1771,35 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/"
+      }
+    ]
+  },
+  {
+    "id": "c1f183ba3dde33ab",
+    "date": "2026-08-10T11:33:41+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+    "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said it detected the attacks in July 2026. The activity involves exploiting a vulnerability chain",
+    "article_text": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said it detected the attacks in July 2026. The activity involves exploiting a vulnerability chain in the TrueConf videoconferencing server to replace the original TrueConf client installers with poisoned versions that deliver the PhantomCore backdoor and remote access trojan (RAT) into susceptible systems. The vulnerabilities, tracked as KLCERT-26-057 and KLCERT-26-058, enable arbitrary code execution with elevated privileges. The attack impacts TrueConf server versions 5.3.x up to 5.3.9, 5.4.x up to 5.4.9, 5.5.x up to 5.5.5, and earlier. The web shell, per Kaspersky, has been leveraged to collect data on the IT infrastructure, gain privileged access to the TrueConf database, and ultimately substitute the original TrueConf Client distribution with an infected version containing PhantomCore. What's more, the web shell serves as a conduit for another backdoor codenamed PhantomGraph that shares some level of code overlap with PhantomCore and includes two DLL modules - \"SysExcSvc.dll,\" for receiving commands and exfiltrating their results back to Microsoft OneDrive cloud storage that's used as command-and-control (C2) \"SysReadSvc.dll,\" for parsing the commands received by the first module, executing it, and storing the results \"To establish a persistent presence in the system, the attackers execute a Base64-encoded PowerShell command that installs SysExcSvc.dll and SysReadSvc.dll as Windows services,\" Kaspersky said. \"We believe the attackers deliberately split this malware into two components to make it harder for EDR tools to detect.\" In addition, the threat actors have been found to launch an SSH reverse tunnel, take a memory dump of the \"lsass.exe\" process, and collect general system information using commands like hostname and whoami. The vulnerabilities have since been patched by the vendor in the latest TrueConf Server versions 5.3.9, 5.4.9, and 5.5.5 released on June 18, 2026. Organizations using TrueConf are advised to download the latest versions for optimal protection. This is not the first time Head Mare has targeted zero-day flaws in TrueConf to single out Russian entities. Earlier this April, Positive Technologies disclosed that three vulnerabilities in the software (BDU:2025-10114, BDU:2025-10115, and BDU-2025-10116) were abused by the group since September 2025 to deliver PHP web shells and malicious payloads for information theft and command execution. Around the same time, Check Point also reported that another high-severity security flaw in the TrueConf client (CVE-2026-3502) was exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia to deploy the Havoc C2 framework. The development comes weeks after Kaspersky said it discovered a new advanced persistent threat (APT)-style attack that has been ongoing since at least May 2026 using previously unreported tooling, primarily by taking advantage of the update mechanism for the ViPNet product suite to target Russian government, energy, transport, education, and logistics sectors. The HelloNet attack involves the execution of a malicious DLL (\"wtsapi32.dll\") that masquerades as a legitimate file associated with the ViPNet suite update system. The loader DLL, dubbed HelloInjector, is sideloaded by the ViPNet update binary \"itcsrvup64.exe,\" resulting in the execution of the malicious payload from within \"svchost.exe.\" \"After starting, the malware checks the process in the context of which it was launched,\" Kaspersky said . \"If the name of the main process is not svchost.exe, the loader starts iterating through all processes running in the operating system. It looks for a process whose name contains the string svchost, and whose command line contains the string netsvcs.\" \"If such a process is found, the loader injects itself into the target process using the NtWriteVirtualMemory and NtCreateThreadEx functions.\" Once restarted inside the new process, the loader checks the process name a second time for the presence of the string \"svchost.\" If found, HelloInjector loads and executes the malicious payload that's stored in its body in plaintext. The payload is a hidden proxy and a loader for additional modules retrieved from ",
+    "quick_summary": [
+      "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, I",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+    "target": "TrueConf Server Exploited Replace",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html"
       }
     ]
   },
@@ -26154,482 +26618,6 @@
       {
         "source": "The Record",
         "url": "https://therecord.media/hims-hers-privacy-lawsuit-ftc"
-      }
-    ]
-  },
-  {
-    "id": "3fa03ecdf22782e5",
-    "date": "2026-07-29T19:48:12+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
-    "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
-    "article_text": "",
-    "quick_summary": [
-      "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
-    "target": "OpenAIs Rogue Model Claims",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face"
-      }
-    ]
-  },
-  {
-    "id": "e057649e47e1ede4",
-    "date": "2026-07-29T19:46:20+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
-    "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
-    "article_text": "",
-    "quick_summary": [
-      "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
-    "target": "Red Agents Blue Agents",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense"
-      }
-    ]
-  },
-  {
-    "id": "94364d6c6eb19543",
-    "date": "2026-07-29T19:42:17.640647+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL OpenWrt: A '90s-Era Buffer Overflow Opens Routers to Remote Takeover",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/openwrt-a-90s-era-buffer-overflow-opens-routers-to-remote-takeover",
-    "target": "CRITICAL OpenWrt",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/openwrt-a-90s-era-buffer-overflow-opens-routers-to-remote-takeover"
-      }
-    ]
-  },
-  {
-    "id": "451b1bb5012b7430",
-    "date": "2026-07-29T19:42:15.925414+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Multiple Chinese civic apps share one reward/lottery backend whose signing secret is recoverable",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Multiple Chinese civic apps share one reward/lottery backend whose signing secret is recoverable",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v09pze/multiple_chinese_civic_apps_share_one/",
-    "target": "Multiple Chinese",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v09pze/multiple_chinese_civic_apps_share_one/"
-      }
-    ]
-  },
-  {
-    "id": "eae740ef9364a475",
-    "date": "2026-07-29T18:10:00+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-    "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,",
-    "article_text": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base , the Rails master key, database passwords, cloud storage credentials, and API tokens. Those secrets may enable remote code execution (RCE) or lateral movement into connected systems. Affected applications use libvips for Active Storage image processing and accept image uploads from untrusted users. Rails selects Vips under load_defaults 7.0 , and later defaults retain it. Ethiack and GMO Flatt Security list the affected ranges as Rails 7.0.0 through 7.2.3.1, Rails 8.0.0 through 8.0.5, and Rails 8.1.0 through 8.1.3. Rails 6.0.0 through 6.1.7.10 releases are affected only when Active Storage is configured to use Vips, which was not the default processor in Rails 6. The official advisory lists a broader package range: activestorage . Both research teams place the practical Vips attack path at Rails 6.0 and later. Applications using MiniMagick are not exposed through this specific attack path. Rails 7.0 and 7.1 are end of life and have no fixed releases, so applications on those branches must upgrade to Rails 7.2.3.2 or later. Operators should upgrade to Rails 7.2.3.2, 8.0.5.1, or 8.1.3.1 and rotate every secret readable by the application process. Patched installations require libvips 8.13 or later and, when ruby-vips is installed, ruby-vips 2.2.1 or later. Neither research team had published a proof-of-concept (PoC) as of 17:30 UTC on July 29, 2026. Exact-term searches by The Hacker News found no exploit repository in indexed GitHub, GitLab, Exploit-DB, or Packet Storm results at the same time. Rails warned that applying the patch does not invalidate credentials that may already have been stolen. The flaw sits at the trust boundary between Active Storage and libvips. The Rails security advisory says libvips supports loaders, savers, and other operations, some backed by third-party libraries and marked \"unfuzzed\" or \"untrusted\" because they are unsafe for hostile input. Active Storage did not block them, allowing a crafted upload to invoke one and disclose files readable by the Rails worker. A vulnerable application does not need to expose a dedicated resize or thumbnail operation. \"Generating variants is not a separate requirement,\" Rails said. The public patch also shows that both the Vips analyzer and transformer passed untrusted attachments to the unsafe operations. A successful request gives the attacker an arbitrary file-read primitive. Code execution or lateral movement would depend on what the attacker extracts and what those credentials can reach. Rails tells operators to rotate secret_key_base , the master key and decrypted credentials, database credentials, Active Storage service keys, and third-party tokens. The patch calls Vips.block_untrusted(true) when Active Storage starts. Applications that cannot immediately update Rails can set VIPS_BLOCK_UNTRUSTED when running libvips 8.13 or later, or call Vips.block_untrusted(true) with ruby-vips 2.2.1 or later. Rails says earlier libvips versions cannot block these operations, so applications must upgrade libvips or remove it from the application. Rails credited André Baptista, Bruno Mendes, and Rafael Castilho of Ethiack , and RyotaK of GMO Flatt Security , with independently reporting the issue. The researchers have not disclosed the malicious format, file-read construction, or RCE chain. Rails said further technical details will be released no later than August 28, 2026. The Hacker News has contacted the Rails security team about exploitation and affected versions, and Ethiack about the attack chain. Neither Rails nor the researchers reported in-the-wild exploitation at publication. A review by The Hacker News at 17:30 UTC on July 29 found that CVE-2026-66066 was not listed in version 2026.07.27 of CISA's Known Exploited Vulnerabilities catalog . No reliable count of vulnerable applications or named victims is available. The 9.5 score describes severity under CVSS, not how many deployments are exposed: a vulnerable deployment must also use Vips, accept untrusted image uploads, and include an exploitable operation in its libvips build. Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance ",
-    "quick_summary": [
-      "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-    "target": "Critical Rails Could Let",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html"
-      }
-    ]
-  },
-  {
-    "id": "93b05315f69ddc6a",
-    "date": "2026-07-29T17:54:05+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-    "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
-    "article_text": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. ShinyHunters is an extortion gang that primarily conducts supply chain and identity attacks to breach cloud SaaS and storage platforms in data theft attacks, Over the past two years, the threat actors have become notorious for conducting numerous supply chain attacks on third-party integration partners. These breaches give them access to OAuth tokens that are used to integrate with SaaS providers like Salesforce and Snowflake . The threat actors are known for identity attacks, where they target employees through social engineering, including vishing and phishing, to compromise corporate single-sign-on accounts . Once they gain access to an account, they log in to an organization's Okta, Microsoft Entra, or Google SSO dashboard, which acts as a centralized hub listing all SaaS applications the user has permission to access. These applications include Salesforce, a primary target of ShinyHunters , Microsoft 365, SharePoint, DocuSign, Slack, Atlassian, Dropbox, Google Drive, and many other internal and third-party platforms. For threat actors focused on data theft and extortion, the SSO dashboard becomes a springboard to a company's cloud data, allowing them to access multiple services from a single compromised account. According to a July 24 advisory , ShinyHunters attacks follow a chain that begins with voice phishing (vishing) to manipulate employees or helpdesk personnel into resetting passwords, changing multifactor authentication methods, or enrolling new devices. BleepingComputer previously reported that ShinyHunters is using custom phishing kits built for voice-based social engineering (vishing) attacks. These phishing kits are designed for live interaction with targeted employees via voice calls, allowing attackers to change content and display authentication dialogs in real time as a call progresses. Once an account is breached, the attackers use it to access connected SaaS platforms, where they rapidly steal data that can be used for extortion. \"SSO is the control plane, and ShinyHunters' leverage is created through data theft at cloud scale,\" Health-ISAC warned. The advisory does not identify affected healthcare organizations, disclose how many incidents have been observed, or provide a timeframe for the reported increase. However, BleepingComputer is aware of recent ShinyHunters attacks at healthcare and medtech companies, including Medtronic , DentaQuest , iRhythm , and OneMedical. Health-ISAC said that in recent incident reporting, ShinyHunters claimed it successfully vished multiple employees, compromised a Microsoft Entra SSO account, and stole data from Microsoft 365, SharePoint, and other enterprise platforms. However, the organization cautioned that not every data theft claim has been verified, and defenders should instead focus on the attack pattern of using compromised SSO identities to access and exfiltrate data from connected cloud services. Health-ISAC says the most important defensive step is breaking the attack chain between the initial vishing call and the takeover of an SSO account. Organizations are advised to require out-of-band identity verification for password resets, MFA resets, and device re-enrollment requests. This can include calling users back using a previously verified phone number and requiring manager approval for privileged accounts. The advisory also recommends helpdesk personnel follow a \"no same-call\" policy that prevents resets during the same inbound call. Instead, reset requests should require a support ticket and a verified callback before any changes are made. Additional verification should be required when changes are requested for executives, IT administrators, security personnel, finance employees, and other high-risk users. Healthcare organizations should also deploy phishing-resistant MFA, such as FIDO2 or WebAuthn security keys, for administrators, helpdesk personnel, executives, and other high-risk groups. SMS and voice-based authentication should be disabled or tightly restricted. At the same time, registering new MFA factors should require additional controls, such as a managed device or a conditional access policy. Health-ISAC also recommends treating SSO systems as \"Tier 0,\" which represent the most critical assets in an organization. This includes requi",
-    "quick_summary": [
-      "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-    "target": "Health-ISAC ShinyHunters",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/"
-      }
-    ]
-  },
-  {
-    "id": "cea679eca15a0e77",
-    "date": "2026-07-29T17:43:38+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
-    "summary": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
-    "article_text": "",
-    "quick_summary": [
-      "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
-    "target": "Whos Liable Agents Escape",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions"
-      }
-    ]
-  },
-  {
-    "id": "6c5c6672340c5cc6",
-    "date": "2026-07-29T17:38:14.790940+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Kratos Phishing Kit Dismantled: 200 Servers Seized, but AiTM Code Remains in Circulation phishing",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/phishing/kratos-phishing-kit-dismantled-200-servers-seized-but-aitm-code-remains-in-circulation",
-    "target": "Kratos Phishing Kit Dismantled",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/phishing/kratos-phishing-kit-dismantled-200-servers-seized-but-aitm-code-remains-in-circulation"
-      }
-    ]
-  },
-  {
-    "id": "679ef8954834423f",
-    "date": "2026-07-29T17:38:14.790824+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE-2026-56163: Microsoft Mitigates Critical AKS Flaw Without Customer Action CYBERSEC CVE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-56163-microsoft-mitigates-critical-aks-flaw-without-customer-action",
-    "target": "CVE-2026-56163",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-56163-microsoft-mitigates-critical-aks-flaw-without-customer-action"
-      }
-    ]
-  },
-  {
-    "id": "731a4807a8099aaa",
-    "date": "2026-07-29T17:38:13.054473+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "wp2shell (CVE-2026-63030): Pre-Auth RCE Chain in WordPress Core - Analysis and Open-Source Scanner",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "wp2shell (CVE-2026-63030): Pre-Auth RCE Chain in WordPress Core - Analysis and Open-Source Scanner",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1v07npi/wp2shell_cve202663030_preauth_rce_chain_in/",
-    "target": "wp2shell CVE-2026-63030",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v07npi/wp2shell_cve202663030_preauth_rce_chain_in/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v0kvve/wp2shell_cve202663030_update_public_working/"
-      }
-    ]
-  },
-  {
-    "id": "855ef2c5832592da",
-    "date": "2026-07-29T17:35:23+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Hugging Face Hack Lessons for Cyber Defenders",
-    "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
-    "article_text": "",
-    "quick_summary": [
-      "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
-    "target": "Hugging Face Hack Lessons",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders"
-      }
-    ]
-  },
-  {
-    "id": "7a50e47090892abd",
-    "date": "2026-07-29T17:34:51+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Why Authentication UX Deserves More Attention on B2B Platforms",
-    "summary": "Better authentication UX helps B2B platforms reduce security fatigue, simplify account recovery, protect sensitive data, and keep business users engaged.",
-    "article_text": "",
-    "quick_summary": [
-      "Better authentication UX helps B2B platforms reduce security fatigue, simplify account recovery, protect sensitive data, and keep business users engaged.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/authentication-ux-deserves-attention-b2b-platforms/",
-    "target": "Authentication Deserves More Attention",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/authentication-ux-deserves-attention-b2b-platforms/"
-      }
-    ]
-  },
-  {
-    "id": "d40afe57c0637509",
-    "date": "2026-07-29T17:22:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "OpenAI says rogue agent behind Hugging Face hack broke into additional services",
-    "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
-    "article_text": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. As the company explained, instead of focusing on finding a solution for the ExploitGym public AI cybersecurity benchmark on their own, the AI models tried to cheat by stealing the test solutions by hacking Hugging Face after inferring that they could get the test solutions directly from its production database. In one of their attempts, the OpenAI agents chained zero-day vulnerabilities and used stolen credentials to find a remote code execution attack vector while trying to gain access to Hugging Face servers. \"After investigating, we now know that this particular incident was driven by a combination of OpenAI models — including GPT‑5.6 Sol and an even more capable pre-release model, all with reduced cyber refusals for evaluation purposes — while being internally tested on a benchmark⁠(opens in a new window) of cyber capabilities,\" OpenAI revealed on Tuesday. \"To gain access, the models identified and exploited a zero-day vulnerability (which we've now responsibly disclosed to the vendor) in the package registry cache proxy. With this access, our models performed a series of privilege escalation and lateral movement actions in our research testing environment until the models reached a node with Internet access.\" While it didn't directly name OpenAI as the company behind the incident, Hugging Face confirmed its claims last week when it disclosed that its production infrastructure was breached by an autonomous AI agent system that gained access to credentials and internal datasets. ​According to Hugging Face's findings, the agent used a malicious dataset to exploit two code-execution vulnerabilities and run code on a processing worker to steal cloud and cluster credentials, making it possible to move laterally across several internal clusters. Once inside the company's systems, the AI models executed \"many thousands of individual actions across a swarm of short-lived sandboxes, with self-migrating command-and-control staged on public services.\" Hugging Face also added that, while attempting to contain the breach and evict the AI agent, it found that its efforts were \"blocked by the guardrails of the hosted models we first tried\" while \"the attacker was bound by no usage policy.\" \"We've spent the past 24 hours working closely with the @OpenAI team (thanks!), and we strongly believe there was no malicious intent on their part,\" Clément Delangue, Hugging Face's founder and CEO, added yesterday . \"It's quite mind-blowing that all of this happened autonomously!\" After the incident, OpenAI says it disclosed a zero-day vulnerability in the internally hosted third-party software exploited by the AI agents and is working on adding stronger protections to prevent similar issues during future evaluations. Recently, the company also confirmed reports of GPT‑5.6 Sol deleting users' files , saying this may happen \"extremely rarely\" when the \"model makes an honest mistake and mistakenly deletes $HOME instead\" when run without sandboxing protections and full access mode is enabled. OpenAI also rotated code-signing certificates for its applications in May after two employees' devices were breached in the TanStack supply chain attack that impacted hundreds of npm and PyPI packages, while Hugging Face revoked some members' authentication secrets two years ago after hackers breached its Spaces platform. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Hugging Face warns an autonomous AI agent hacked its network 7-Eleven data breach exposes personal information of 185,000 people Hackers steal $23.7 million in crypto from Ostium in off-chain attack Lidl discloses online shop breach after service provider hack Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes Hugging Face warns an autonomous AI agent hacked its network Critical ServiceNow code execution flaw now exploited in attacks See how Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Read the case study. Overdue a password health-check? Audit your Active Directory for free Pentest your web apps on-demand. Find what humans miss. Scope and launch a",
-    "quick_summary": [
-      "The four additional targeted organizations weren’t named.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/openai-says-rogue-agent-behind-hugging-face-hack-broke-into-additional-services",
-    "target": "OpenAI Hugging Face",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/openai-says-rogue-agent-behind-hugging-face-hack-broke-into-additional-services"
-      },
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/openai-cyberattack-hugging-face"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/"
-      }
-    ]
-  },
-  {
-    "id": "35ac1dbb22fe57bc",
-    "date": "2026-07-29T17:06:52+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
-    "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
-    "article_text": "",
-    "quick_summary": [
-      "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
-    "target": "AppSec Scanners Become Supply",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector"
-      }
-    ]
-  },
-  {
-    "id": "8bbbb91c5cacc110",
-    "date": "2026-07-29T16:53:06+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "AI-Generated Phishing No Longer Needs Malware: It Can Steal Your Session Inside the Browser",
-    "summary": "AI-generated phishing campaigns are rapidly evolving beyond traditional malware delivery, shifting the battleground directly into the web browser where attackers can hijack active sessions, bypass multi-factor authentication (MFA), and evade conventional endpoint security controls. This emerging threat model is forcing security operations centers (SOCs) to rethink how phishing attacks are detected, investigated, and contained, as […] The post AI-Generated Phishing No Longer Needs Malware: It Can Steal Your Session Inside the Browser appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "AI-generated phishing campaigns are rapidly evolving beyond traditional malware delivery, shifting the battleground directly into the web browser where attackers can hijack active sessions, bypass multi-factor authentica",
-      "Risk: credentials/infostealer risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/ai-generated-phishing-without-malware/",
-    "target": "AI-Generated Phishing Longer Needs",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/ai-generated-phishing-without-malware/"
-      }
-    ]
-  },
-  {
-    "id": "450b0b6080bec391",
-    "date": "2026-07-29T16:00:00+00:00",
-    "source": "Microsoft Security Blog",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "​​Better security starts with better questions",
-    "summary": "Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems. The post ​​Better security starts with better questions appeared first on Microsoft Security Blog .",
-    "article_text": "",
-    "quick_summary": [
-      "Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
-    "target": "Better",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Microsoft Security Blog"
-    ],
-    "links": [
-      {
-        "source": "Microsoft Security Blog",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/"
       }
     ]
   }
