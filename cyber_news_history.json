@@ -1,69 +1,7 @@
 [
   {
-    "id": "6224b8cc55e04cb4",
-    "date": "2026-08-11T16:11:53.723019+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT Cisco FMC Under Attack: Static Credentials Exploited, No Workaround Available",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cisco-fmc-under-attack-static-credentials-exploited-no-workaround-available",
-    "target": "EXPLOIT Cisco FMC",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cisco-fmc-under-attack-static-credentials-exploited-no-workaround-available"
-      }
-    ]
-  },
-  {
-    "id": "5dc5ccaae6103660",
-    "date": "2026-08-11T16:11:53.722956+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY INC Ransomware Chains Two SonicWall Zero-Days: Remote Access Becomes the Breach",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/news/inc-ransomware-chains-two-sonicwall-zero-days-remote-access-becomes-the-breach",
-    "target": "ZERO-DAY INC Ransomware Chains",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/inc-ransomware-chains-two-sonicwall-zero-days-remote-access-becomes-the-breach"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/inc-ransomware-chains-two-sonicwall-zero-days-for-root-access-via-vpn-appliance"
-      }
-    ]
-  },
-  {
     "id": "391132be7f4fe9a3",
-    "date": "2026-08-11T16:11:53.722895+00:00",
+    "date": "2026-08-11T17:11:38.831901+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -92,7 +30,7 @@
   },
   {
     "id": "175b34c35bebb198",
-    "date": "2026-08-11T16:11:53.722828+00:00",
+    "date": "2026-08-11T17:11:38.831791+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -121,7 +59,7 @@
   },
   {
     "id": "f7202579e173b592",
-    "date": "2026-08-11T16:11:53.722760+00:00",
+    "date": "2026-08-11T17:11:38.831672+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -150,7 +88,7 @@
   },
   {
     "id": "e466f67a70b503aa",
-    "date": "2026-08-11T16:11:53.722700+00:00",
+    "date": "2026-08-11T17:11:38.831565+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -178,37 +116,66 @@
     ]
   },
   {
-    "id": "077a32bb93725d45",
-    "date": "2026-08-11T16:11:53.722566+00:00",
+    "id": "653d1a34322780d7",
+    "date": "2026-08-11T17:11:38.831442+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Claude Mythos 5 Published Malware to PyPI: The Reasoning That Eroded Safety Training ai",
+    "title": "ZERO-DAY Head Mare APT Turns TrueConf Servers into Supply-Chain Attack Vehicles",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/ai/claude-mythos-5-published-malware-to-pypi-the-reasoning-that-eroded-safety-training",
-    "target": "Claude Mythos Published Malware",
-    "type": "Malware",
-    "severity": "High",
+    "link": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles",
+    "target": "ZERO-DAY Head Mare APT",
+    "type": "Vulnerability",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ai/claude-mythos-5-published-malware-to-pypi-the-reasoning-that-eroded-safety-training"
+        "url": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles"
+      }
+    ]
+  },
+  {
+    "id": "6888ae3368710422",
+    "date": "2026-08-11T17:11:38.831325+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ZERO-DAY PAX Q80: 0-day ZDI-26-526 Leaves Payment Terminals Unpatched",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/zero/pax-q80-0-day-zdi-26-526-leaves-payment-terminals-unpatched",
+    "target": "ZERO-DAY PAX Q80",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/zero/pax-q80-0-day-zdi-26-526-leaves-payment-terminals-unpatched"
       }
     ]
   },
   {
     "id": "c3aa41ea4a9991df",
-    "date": "2026-08-11T16:11:53.722499+00:00",
+    "date": "2026-08-11T17:11:38.831210+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -241,7 +208,7 @@
   },
   {
     "id": "1a44dff7f7799c41",
-    "date": "2026-08-11T16:11:53.722397+00:00",
+    "date": "2026-08-11T17:11:38.831016+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -270,7 +237,7 @@
   },
   {
     "id": "9e886f3666b72a68",
-    "date": "2026-08-11T16:11:53.722331+00:00",
+    "date": "2026-08-11T17:11:38.830903+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -298,13 +265,13 @@
     ]
   },
   {
-    "id": "7d41c9e07d44a0b9",
-    "date": "2026-08-11T16:11:53.721921+00:00",
+    "id": "d0546545d9a954bf",
+    "date": "2026-08-11T17:11:38.830754+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC Kimsuky Builds Offline AI Stack to Automate Phishing and Malware Aug 11, 2026",
+    "title": "Kimsuky Builds Offline AI Stack to Automate Phishing and Malware CYBERSEC",
     "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the",
     "article_text": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the setup after months of tracking and log analysis on infrastructure tied to Kimsuky, a hacking unit under North Korea's Reconnaissance General Bureau. Genians found no evidence that the group had trained an AI model of its own, and the firm does not offer that as reassurance. It describes an actor in a \"research and knowledge acquisition\" stage, assembling and testing existing tools rather than making new models, with the apparent aim of folding AI through the operation, from writing malware to analyzing data. For an intelligence unit that has spent years phishing government, research, and other strategic targets, that points to attacks that are quicker to prepare and harder to spot. With nothing here to patch, the weight lands on defenders. Once AI writes the bait, the tells they once relied on weaken: stilted translation, clumsy formatting, spelling mistakes. What an intrusion does on the machine becomes the thing to watch. Genians' report tells defenders to correlate LNK execution, PowerShell, hidden scheduled tasks, GitHub traffic, and later payload activity instead of judging a lure mainly by how polished it looks. The core evidence is tools for running language models offline: Ollama, GPT4All and Msty, all found on infrastructure Genians linked to the group. The report says they were run or configured, not merely downloaded: Ollama generated the keys created on first launch, while GPT4All carried a configured localdocs_v3.db, the database used by its LocalDocs retrieval-augmented generation (RAG) feature. RAG lets a model answer from a private collection of documents. The database is evidence that the actor tried to connect documents in its possession to an AI system; it does not establish that those documents were stolen. The researchers separately recovered an operator request to check a data set for wallet details, Gmail credentials and site-registration history, ending, \"The more detailed the analysis, the better. Please do not do it haphazardly.\" The report could not confirm that this particular request was submitted to an AI service. The group did not stop at ready-made apps. On the same infrastructure, the firm found developer libraries including LLaMaSharp, Microsoft's Semantic Kernel and Microsoft.Agents.AI, components for building AI functions into custom C# and .NET software. It also found OpenAI's Whisper speech-to-text files with a guide on extracting text from audio, and active traces of Cursor, an AI-powered coding editor. None of these tools is exotic. What is new is a nation-state espionage group assembling them on purpose to push AI deeper into its own attack workflow. The activity extends a Kimsuky campaign Genians calls Operation GitPower, which abuses GitHub repositories as command channels in an LNK-to-PowerShell infection chain and has distributed encrypted AsyncRAT payloads disguised as image files Fortinet separately documented the broader GitHub-C2 pattern in April in attacks targeting South Korean users. That report corroborates the surrounding technique family, not Genians' new local-AI artifacts; Reuters said the new findings could not be independently verified. The newly observed offline stack (the local models, RAG database, and transcription tools) has not been shown running against a victim in the reporting to date, and no GitPower victim count has been disclosed. Set against the broader \"AI attack tools\" framing, that is a narrower near-term change than the label implies, with the groundwork for automating parts of the operation still being laid. Genians ties the operation to Kimsuky using overlaps with earlier campaigns, infrastructure clues, and North Korean vocabulary recovered from operator logs. The U.S. Treasury , which sanctioned Kimsuky in 2023, describes it as subordinate to the Reconnaissance General Bureau and primarily focused on intelligence collection. The step also fits a pattern Genians flagged in 2025, when it linked Kimsuky to a spear-phishing attack that used ChatGPT-generated images of South Korean military employee ID cards. Learn how 300 enterprise leaders are managing A",
     "quick_summary": [
@@ -313,11 +280,12 @@
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/kimsuky-builds-offline-ai-stack-to-automate-phishing-and-malware",
-    "target": "CYBERSEC Kimsuky Builds Offline",
+    "target": "Kimsuky Builds Offline Stack",
     "type": "Malware",
     "severity": "High",
     "sources": [
-      "DeafNews"
+      "DeafNews",
+      "The Hacker News"
     ],
     "links": [
       {
@@ -331,13 +299,13 @@
     ]
   },
   {
-    "id": "8a96788617283524",
-    "date": "2026-08-11T16:11:53.721852+00:00",
+    "id": "542e97c4b064aa63",
+    "date": "2026-08-11T17:11:38.830631+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC Greatness PhaaS: Device Code Phishing and MFA Bypass in a Single Platform Aug 11, 2026",
+    "title": "Greatness PhaaS: Device Code Phishing and MFA Bypass in a Single Platform CYBERSEC",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -346,7 +314,7 @@
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/greatness-phaas-device-code-phishing-and-mfa-bypass-in-a-single-platform",
-    "target": "CYBERSEC Greatness PhaaS",
+    "target": "Greatness PhaaS",
     "type": "Phishing / Scam",
     "severity": "High",
     "sources": [
@@ -361,7 +329,7 @@
   },
   {
     "id": "5ef0ba79bc3b654c",
-    "date": "2026-08-11T16:11:53.721779+00:00",
+    "date": "2026-08-11T17:11:38.829987+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -389,13 +357,13 @@
     ]
   },
   {
-    "id": "2814bc2449cda319",
-    "date": "2026-08-11T16:11:53.721614+00:00",
+    "id": "98c5406f7c3be06d",
+    "date": "2026-08-11T17:11:38.829740+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CISA Confirms SharePoint Ransomware Exploitation; Microsoft Stays Silent",
+    "title": "VULN CISA Confirms SharePoint Ransomware Exploitation; Microsoft Stays Silent Aug 11, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -404,7 +372,7 @@
       "Action: monitor indicators, backups, remote access, and related vendor exposure."
     ],
     "link": "https://deafnews.it/en/news/vulnerabilities/cisa-confirms-sharepoint-ransomware-exploitation-microsoft-stays-silent",
-    "target": "CISA Confirms SharePoint Ransomware",
+    "target": "VULN CISA Confirms SharePoint",
     "type": "Ransomware",
     "severity": "High",
     "sources": [
@@ -419,12 +387,12 @@
   },
   {
     "id": "458b6d1593c06573",
-    "date": "2026-08-11T16:11:53.721493+00:00",
+    "date": "2026-08-11T17:11:38.829293+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 5 ZERO-DAY · 8 CVE · 5 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
+    "title": "// 7 ZERO-DAY · 7 CVE · 6 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -448,7 +416,7 @@
   },
   {
     "id": "12160ab45a8d0294",
-    "date": "2026-08-11T16:11:52.449032+00:00",
+    "date": "2026-08-11T17:11:38.111463+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -525,7 +493,7 @@
   },
   {
     "id": "48f4a163de2e566e",
-    "date": "2026-08-11T16:11:51.098668+00:00",
+    "date": "2026-08-11T17:11:37.282867+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -554,7 +522,7 @@
   },
   {
     "id": "b65943bbfb0600c6",
-    "date": "2026-08-11T16:11:51.098604+00:00",
+    "date": "2026-08-11T17:11:37.282725+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -583,7 +551,7 @@
   },
   {
     "id": "9dd19a09076d62d1",
-    "date": "2026-08-11T16:11:51.098536+00:00",
+    "date": "2026-08-11T17:11:37.282594+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -612,7 +580,7 @@
   },
   {
     "id": "5660a088a54346e8",
-    "date": "2026-08-11T16:11:51.098466+00:00",
+    "date": "2026-08-11T17:11:37.282459+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -641,7 +609,7 @@
   },
   {
     "id": "ab8ddee2f9caf0ef",
-    "date": "2026-08-11T16:11:51.098398+00:00",
+    "date": "2026-08-11T17:11:37.282300+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -670,7 +638,7 @@
   },
   {
     "id": "020b6398d8c64fe8",
-    "date": "2026-08-11T16:11:51.098322+00:00",
+    "date": "2026-08-11T17:11:37.282058+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -699,7 +667,7 @@
   },
   {
     "id": "42646be5e0292f4f",
-    "date": "2026-08-11T16:11:51.098247+00:00",
+    "date": "2026-08-11T17:11:37.281818+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -728,7 +696,7 @@
   },
   {
     "id": "591612a6f556b244",
-    "date": "2026-08-11T16:11:51.098176+00:00",
+    "date": "2026-08-11T17:11:37.281628+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -757,7 +725,7 @@
   },
   {
     "id": "68793442dc0dec51",
-    "date": "2026-08-11T16:11:51.098104+00:00",
+    "date": "2026-08-11T17:11:37.281410+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -786,7 +754,7 @@
   },
   {
     "id": "2eb6fa64547670a9",
-    "date": "2026-08-11T16:11:51.098037+00:00",
+    "date": "2026-08-11T17:11:37.281227+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -815,7 +783,7 @@
   },
   {
     "id": "6089be6847529c0b",
-    "date": "2026-08-11T16:11:51.097966+00:00",
+    "date": "2026-08-11T17:11:37.281043+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -844,7 +812,7 @@
   },
   {
     "id": "6294d1da87bfef9a",
-    "date": "2026-08-11T16:11:51.097889+00:00",
+    "date": "2026-08-11T17:11:37.280898+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -873,7 +841,7 @@
   },
   {
     "id": "891b694facaaa612",
-    "date": "2026-08-11T16:11:51.097812+00:00",
+    "date": "2026-08-11T17:11:37.280737+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -902,7 +870,7 @@
   },
   {
     "id": "74b2a7d73c93d327",
-    "date": "2026-08-11T16:11:51.097744+00:00",
+    "date": "2026-08-11T17:11:37.280602+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -931,7 +899,7 @@
   },
   {
     "id": "bf08a0c2cf461b2a",
-    "date": "2026-08-11T16:11:51.097679+00:00",
+    "date": "2026-08-11T17:11:37.280463+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -960,7 +928,7 @@
   },
   {
     "id": "36b75d2e2b641bbb",
-    "date": "2026-08-11T16:11:51.097615+00:00",
+    "date": "2026-08-11T17:11:37.280254+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -989,7 +957,7 @@
   },
   {
     "id": "4c672297a6dc990b",
-    "date": "2026-08-11T16:11:51.097545+00:00",
+    "date": "2026-08-11T17:11:37.280027+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1018,7 +986,7 @@
   },
   {
     "id": "2c7d6de428c373eb",
-    "date": "2026-08-11T16:11:51.097464+00:00",
+    "date": "2026-08-11T17:11:37.279778+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1047,7 +1015,7 @@
   },
   {
     "id": "a4e1da6a2a0a21b3",
-    "date": "2026-08-11T16:11:51.097389+00:00",
+    "date": "2026-08-11T17:11:37.279547+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1076,7 +1044,7 @@
   },
   {
     "id": "55f144bdf0c1d1b5",
-    "date": "2026-08-11T16:11:51.097313+00:00",
+    "date": "2026-08-11T17:11:37.279368+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1105,7 +1073,7 @@
   },
   {
     "id": "9a90234417c54fc2",
-    "date": "2026-08-11T16:11:51.097235+00:00",
+    "date": "2026-08-11T17:11:37.279220+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1134,7 +1102,7 @@
   },
   {
     "id": "c19e18f78f756ba1",
-    "date": "2026-08-11T16:11:51.097153+00:00",
+    "date": "2026-08-11T17:11:37.279044+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1163,7 +1131,7 @@
   },
   {
     "id": "90180ea26e0eb3f5",
-    "date": "2026-08-11T16:11:51.097072+00:00",
+    "date": "2026-08-11T17:11:37.278880+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1192,7 +1160,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-11T16:11:51.096985+00:00",
+    "date": "2026-08-11T17:11:37.278730+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1229,7 +1197,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-11T16:11:51.096807+00:00",
+    "date": "2026-08-11T17:11:37.278493+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1257,6 +1225,246 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "24602482ca720858",
+    "date": "2026-08-11T17:03:15+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Zoom Zero-Click Vulnerabilities Letting Meeting Participants Hijack Other Users’ Devices",
+    "summary": "Zoom has rolled out patches for four newly disclosed security flaws that could let a malicious meeting participant remotely execute code on another attendee’s computer, with no clicks, downloads, or warning signs required. The most severe of the bugs, tracked as CVE-2026-53413, has been dubbed “Zoomsday” by A Security, the research team credited with discovering […] The post Zoom Zero-Click Vulnerabilities Letting Meeting Participants Hijack Other Users’ Devices appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Zoom has rolled out patches for four newly disclosed security flaws that could let a malicious meeting participant remotely execute code on another attendee’s computer, with no clicks, downloads, or warning signs require",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/zoom-zero-click-vulnerabilities/",
+    "target": "Zoom Zero-Click Vulnerabilities Letting",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/zoom-zero-click-vulnerabilities/"
+      }
+    ]
+  },
+  {
+    "id": "56495cd84fb1c286",
+    "date": "2026-08-11T16:50:19+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
+    "summary": "The security defects could be exploited for arbitrary code execution and denial-of-service. The post Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The security defects could be exploited for arbitrary code execution and denial-of-service.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
+    "target": "Adobe Urges Immediate Patching",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/"
+      }
+    ]
+  },
+  {
+    "id": "fbab9d3c1081396b",
+    "date": "2026-08-11T16:39:54+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "CopyEscape Docker Vulnerability Lets Malicious Containers Overwrite Host Files and Gain Root",
+    "summary": "A newly disclosed Docker vulnerability, tracked as CVE-2026-17106 and nicknamed “CopyEscape,” allows malicious containers to overwrite files on the host machine and, in certain configurations, achieve full root code execution. The flaw was discovered by the Imperva Red Team and affects the widely used docker cp command, along with the related sbx cp command used […] The post CopyEscape Docker Vulnerability Lets Malicious Containers Overwrite Host Files and Gain Root appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A newly disclosed Docker vulnerability, tracked as CVE-2026-17106 and nicknamed “CopyEscape,” allows malicious containers to overwrite files on the host machine and, in certain configurations, achieve full root code exec",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/copyescape-docker-vulnerability/",
+    "target": "CopyEscape Docker Vulnerability Lets",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/copyescape-docker-vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "6224b8cc55e04cb4",
+    "date": "2026-08-11T16:11:53.723019+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT Cisco FMC Under Attack: Static Credentials Exploited, No Workaround Available",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cisco-fmc-under-attack-static-credentials-exploited-no-workaround-available",
+    "target": "EXPLOIT Cisco FMC",
+    "type": "Vulnerability",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cisco-fmc-under-attack-static-credentials-exploited-no-workaround-available"
+      }
+    ]
+  },
+  {
+    "id": "5dc5ccaae6103660",
+    "date": "2026-08-11T16:11:53.722956+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ZERO-DAY INC Ransomware Chains Two SonicWall Zero-Days: Remote Access Becomes the Breach",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/news/inc-ransomware-chains-two-sonicwall-zero-days-remote-access-becomes-the-breach",
+    "target": "ZERO-DAY INC Ransomware Chains",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/inc-ransomware-chains-two-sonicwall-zero-days-remote-access-becomes-the-breach"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/inc-ransomware-chains-two-sonicwall-zero-days-for-root-access-via-vpn-appliance"
+      }
+    ]
+  },
+  {
+    "id": "077a32bb93725d45",
+    "date": "2026-08-11T16:11:53.722566+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Claude Mythos 5 Published Malware to PyPI: The Reasoning That Eroded Safety Training ai",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/ai/claude-mythos-5-published-malware-to-pypi-the-reasoning-that-eroded-safety-training",
+    "target": "Claude Mythos Published Malware",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ai/claude-mythos-5-published-malware-to-pypi-the-reasoning-that-eroded-safety-training"
+      }
+    ]
+  },
+  {
+    "id": "7d41c9e07d44a0b9",
+    "date": "2026-08-11T16:11:53.721921+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC Kimsuky Builds Offline AI Stack to Automate Phishing and Malware Aug 11, 2026",
+    "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the",
+    "article_text": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the setup after months of tracking and log analysis on infrastructure tied to Kimsuky, a hacking unit under North Korea's Reconnaissance General Bureau. Genians found no evidence that the group had trained an AI model of its own, and the firm does not offer that as reassurance. It describes an actor in a \"research and knowledge acquisition\" stage, assembling and testing existing tools rather than making new models, with the apparent aim of folding AI through the operation, from writing malware to analyzing data. For an intelligence unit that has spent years phishing government, research, and other strategic targets, that points to attacks that are quicker to prepare and harder to spot. With nothing here to patch, the weight lands on defenders. Once AI writes the bait, the tells they once relied on weaken: stilted translation, clumsy formatting, spelling mistakes. What an intrusion does on the machine becomes the thing to watch. Genians' report tells defenders to correlate LNK execution, PowerShell, hidden scheduled tasks, GitHub traffic, and later payload activity instead of judging a lure mainly by how polished it looks. The core evidence is tools for running language models offline: Ollama, GPT4All and Msty, all found on infrastructure Genians linked to the group. The report says they were run or configured, not merely downloaded: Ollama generated the keys created on first launch, while GPT4All carried a configured localdocs_v3.db, the database used by its LocalDocs retrieval-augmented generation (RAG) feature. RAG lets a model answer from a private collection of documents. The database is evidence that the actor tried to connect documents in its possession to an AI system; it does not establish that those documents were stolen. The researchers separately recovered an operator request to check a data set for wallet details, Gmail credentials and site-registration history, ending, \"The more detailed the analysis, the better. Please do not do it haphazardly.\" The report could not confirm that this particular request was submitted to an AI service. The group did not stop at ready-made apps. On the same infrastructure, the firm found developer libraries including LLaMaSharp, Microsoft's Semantic Kernel and Microsoft.Agents.AI, components for building AI functions into custom C# and .NET software. It also found OpenAI's Whisper speech-to-text files with a guide on extracting text from audio, and active traces of Cursor, an AI-powered coding editor. None of these tools is exotic. What is new is a nation-state espionage group assembling them on purpose to push AI deeper into its own attack workflow. The activity extends a Kimsuky campaign Genians calls Operation GitPower, which abuses GitHub repositories as command channels in an LNK-to-PowerShell infection chain and has distributed encrypted AsyncRAT payloads disguised as image files Fortinet separately documented the broader GitHub-C2 pattern in April in attacks targeting South Korean users. That report corroborates the surrounding technique family, not Genians' new local-AI artifacts; Reuters said the new findings could not be independently verified. The newly observed offline stack (the local models, RAG database, and transcription tools) has not been shown running against a victim in the reporting to date, and no GitPower victim count has been disclosed. Set against the broader \"AI attack tools\" framing, that is a narrower near-term change than the label implies, with the groundwork for automating parts of the operation still being laid. Genians ties the operation to Kimsuky using overlaps with earlier campaigns, infrastructure clues, and North Korean vocabulary recovered from operator logs. The U.S. Treasury , which sanctioned Kimsuky in 2023, describes it as subordinate to the Reconnaissance General Bureau and primarily focused on intelligence collection. The step also fits a pattern Genians flagged in 2025, when it linked Kimsuky to a spear-phishing attack that used ChatGPT-generated images of South Korean military employee ID cards. Learn how 300 enterprise leaders are managing A",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/kimsuky-builds-offline-ai-stack-to-automate-phishing-and-malware",
+    "target": "CYBERSEC Kimsuky Builds Offline",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/kimsuky-builds-offline-ai-stack-to-automate-phishing-and-malware"
+      },
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html"
+      }
+    ]
+  },
+  {
+    "id": "8a96788617283524",
+    "date": "2026-08-11T16:11:53.721852+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC Greatness PhaaS: Device Code Phishing and MFA Bypass in a Single Platform Aug 11, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/greatness-phaas-device-code-phishing-and-mfa-bypass-in-a-single-platform",
+    "target": "CYBERSEC Greatness PhaaS",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/greatness-phaas-device-code-phishing-and-mfa-bypass-in-a-single-platform"
       }
     ]
   },
@@ -5644,35 +5852,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/fake-googletranslate-chrome-extension/"
-      }
-    ]
-  },
-  {
-    "id": "a190f9f2c94fa7a7",
-    "date": "2026-08-10T13:19:58+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-    "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the",
-    "article_text": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the setup after months of tracking and log analysis on infrastructure tied to Kimsuky, a hacking unit under North Korea's Reconnaissance General Bureau. Genians found no evidence that the group had trained an AI model of its own, and the firm does not offer that as reassurance. It describes an actor in a \"research and knowledge acquisition\" stage, assembling and testing existing tools rather than making new models, with the apparent aim of folding AI through the operation, from writing malware to analyzing data. For an intelligence unit that has spent years phishing government, research, and other strategic targets, that points to attacks that are quicker to prepare and harder to spot. With nothing here to patch, the weight lands on defenders. Once AI writes the bait, the tells they once relied on weaken: stilted translation, clumsy formatting, spelling mistakes. What an intrusion does on the machine becomes the thing to watch. Genians' report tells defenders to correlate LNK execution, PowerShell, hidden scheduled tasks, GitHub traffic, and later payload activity instead of judging a lure mainly by how polished it looks. The core evidence is tools for running language models offline: Ollama, GPT4All and Msty, all found on infrastructure Genians linked to the group. The report says they were run or configured, not merely downloaded: Ollama generated the keys created on first launch, while GPT4All carried a configured localdocs_v3.db, the database used by its LocalDocs retrieval-augmented generation (RAG) feature. RAG lets a model answer from a private collection of documents. The database is evidence that the actor tried to connect documents in its possession to an AI system; it does not establish that those documents were stolen. The researchers separately recovered an operator request to check a data set for wallet details, Gmail credentials and site-registration history, ending, \"The more detailed the analysis, the better. Please do not do it haphazardly.\" The report could not confirm that this particular request was submitted to an AI service. The group did not stop at ready-made apps. On the same infrastructure, the firm found developer libraries including LLaMaSharp, Microsoft's Semantic Kernel and Microsoft.Agents.AI, components for building AI functions into custom C# and .NET software. It also found OpenAI's Whisper speech-to-text files with a guide on extracting text from audio, and active traces of Cursor, an AI-powered coding editor. None of these tools is exotic. What is new is a nation-state espionage group assembling them on purpose to push AI deeper into its own attack workflow. The activity extends a Kimsuky campaign Genians calls Operation GitPower, which abuses GitHub repositories as command channels in an LNK-to-PowerShell infection chain and has distributed encrypted AsyncRAT payloads disguised as image files Fortinet separately documented the broader GitHub-C2 pattern in April in attacks targeting South Korean users. That report corroborates the surrounding technique family, not Genians' new local-AI artifacts; Reuters said the new findings could not be independently verified. The newly observed offline stack (the local models, RAG database, and transcription tools) has not been shown running against a victim in the reporting to date, and no GitPower victim count has been disclosed. Set against the broader \"AI attack tools\" framing, that is a narrower near-term change than the label implies, with the groundwork for automating parts of the operation still being laid. Genians ties the operation to Kimsuky using overlaps with earlier campaigns, infrastructure clues, and North Korean vocabulary recovered from operator logs. The U.S. Treasury , which sanctioned Kimsuky in 2023, describes it as subordinate to the Reconnaissance General Bureau and primarily focused on intelligence collection. The step also fits a pattern Genians flagged in 2025, when it linked Kimsuky to a spear-phishing attack that used ChatGPT-generated images of South Korean military employee ID cards. Learn how 300 enterprise leaders are managing A",
-    "quick_summary": [
-      "North Korea's state hackers are no longer content to type prompts into public chatbots.",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-    "target": "Kimsuky Builds Offline Stack",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html"
       }
     ]
   },
@@ -26460,180 +26639,6 @@
       {
         "source": "Dark Reading",
         "url": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks"
-      }
-    ]
-  },
-  {
-    "id": "2e41d5535f4f2b77",
-    "date": "2026-07-30T21:02:21+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Bank of America to Acquire Cybersecurity Firm MDSec",
-    "summary": "The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom. The post Bank of America to Acquire Cybersecurity Firm MDSec appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
-    "target": "Bank America Acquire Firm",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/"
-      }
-    ]
-  },
-  {
-    "id": "b0e979832bbcaaa9",
-    "date": "2026-07-30T20:59:02+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Top 7 Enterprise IT Asset Management Software for 2027",
-    "summary": "Compare 7 enterprise IT asset management platforms for 2027, covering security, automation, cost, compliance, lifecycle tracking and business requirements.",
-    "article_text": "",
-    "quick_summary": [
-      "Compare 7 enterprise IT asset management platforms for 2027, covering security, automation, cost, compliance, lifecycle tracking and business requirements.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/top-it-asset-management-software-2027/",
-    "target": "Top Enterprise Asset Management",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/top-it-asset-management-software-2027/"
-      }
-    ]
-  },
-  {
-    "id": "8cdf7527c887d90c",
-    "date": "2026-07-30T20:34:24.115562+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL GStreamer RCE Bug in MRF Parsing: Urgent Update Required",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/gstreamer-rce-bug-in-mrf-parsing-urgent-update-required",
-    "target": "CRITICAL GStreamer RCE MRF",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/gstreamer-rce-bug-in-mrf-parsing-urgent-update-required"
-      }
-    ]
-  },
-  {
-    "id": "bf5d85b0157c2f09",
-    "date": "2026-07-30T20:34:24.115092+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE-2026-16723: FastJson 1.x Under Active RCE Zero-Day Attack, Patch Unlikely VULN CVE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-16723-fastjson-1x-under-active-rce-zero-day-attack-patch-unlikely",
-    "target": "CVE-2026-16723",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-16723-fastjson-1x-under-active-rce-zero-day-attack-patch-unlikely"
-      }
-    ]
-  },
-  {
-    "id": "1ec29a806ef124c2",
-    "date": "2026-07-30T20:34:24.114987+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "QuantaStor RCE in Kapacitor Exposes Storage Supply-Chain Risks VULN CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/quantastor-rce-in-kapacitor-exposes-storage-supply-chain-risks",
-    "target": "QuantaStor RCE Kapacitor Exposes",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/quantastor-rce-in-kapacitor-exposes-storage-supply-chain-risks"
-      }
-    ]
-  },
-  {
-    "id": "f026f67ca80f8809",
-    "date": "2026-07-30T19:40:40+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "AI Harnesses Burst With Potential Exploit Opps",
-    "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
-    "article_text": "",
-    "quick_summary": [
-      "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
-    "target": "Harnesses Burst Potential Exploit",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps"
       }
     ]
   }
