@@ -1,36 +1,7 @@
 [
   {
-    "id": "4007ed0f5062beb7",
-    "date": "2026-08-12T11:57:56.902880+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE Microsoft Rates Exploitation 'More Likely' for CVE-2026-62893 in Windows",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/microsoft-rates-exploitation-more-likely-for-cve-2026-62893-in-windows",
-    "target": "CVE Microsoft Rates Exploitation",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/microsoft-rates-exploitation-more-likely-for-cve-2026-62893-in-windows"
-      }
-    ]
-  },
-  {
     "id": "331a00ed64e3076b",
-    "date": "2026-08-12T11:57:56.902777+00:00",
+    "date": "2026-08-12T13:46:19.198277+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "60fceacbc08415b4",
-    "date": "2026-08-12T11:57:56.902680+00:00",
+    "date": "2026-08-12T13:46:19.198169+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "4aa48d37626294b2",
-    "date": "2026-08-12T11:57:56.902582+00:00",
+    "date": "2026-08-12T13:46:19.198058+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "6e61a9dc9b625a0c",
-    "date": "2026-08-12T11:57:56.902485+00:00",
+    "date": "2026-08-12T13:46:19.197949+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "ee5131b681975758",
-    "date": "2026-08-12T11:57:56.902384+00:00",
+    "date": "2026-08-12T13:46:19.197836+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,13 +145,13 @@
     ]
   },
   {
-    "id": "3dd533982e4930c9",
-    "date": "2026-08-12T11:57:56.902284+00:00",
+    "id": "ce740eb2c7f358c5",
+    "date": "2026-08-12T13:46:19.197705+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Kenwood DNR1007XR: Firmware Update Flaw Enables Root RCE via Symlink Following CYBERSEC CRITICAL",
+    "title": "ZERO-DAY Windows: win32kfull Driver Bug Allows Escalation to SYSTEM",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -188,8 +159,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/kenwood-dnr1007xr-firmware-update-flaw-enables-root-rce-via-symlink-following",
-    "target": "Kenwood DNR1007XR",
+    "link": "https://deafnews.it/en/news/vulnerabilities/windows-win32kfull-driver-bug-allows-escalation-to-system",
+    "target": "ZERO-DAY Windows",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -198,13 +169,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/kenwood-dnr1007xr-firmware-update-flaw-enables-root-rce-via-symlink-following"
+        "url": "https://deafnews.it/en/news/vulnerabilities/windows-win32kfull-driver-bug-allows-escalation-to-system"
       }
     ]
   },
   {
     "id": "9d8b177b53c32ecb",
-    "date": "2026-08-12T11:57:56.902174+00:00",
+    "date": "2026-08-12T13:46:19.197594+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "91839c9c18018a92",
-    "date": "2026-08-12T11:57:56.902053+00:00",
+    "date": "2026-08-12T13:46:19.197478+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +233,7 @@
   },
   {
     "id": "5ef0fb61644db849",
-    "date": "2026-08-12T11:57:56.901921+00:00",
+    "date": "2026-08-12T13:46:19.197340+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -299,7 +270,7 @@
   },
   {
     "id": "2705ef0077e0595c",
-    "date": "2026-08-12T11:57:56.901817+00:00",
+    "date": "2026-08-12T13:46:19.197227+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -327,8 +298,37 @@
     ]
   },
   {
+    "id": "9cbb1fca548e0053",
+    "date": "2026-08-12T13:46:19.197096+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Microsoft Rates Exploitation 'More Likely' for CVE-2026-62893 in Windows CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/microsoft-rates-exploitation-more-likely-for-cve-2026-62893-in-windows",
+    "target": "Microsoft Rates Exploitation More",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/microsoft-rates-exploitation-more-likely-for-cve-2026-62893-in-windows"
+      }
+    ]
+  },
+  {
     "id": "8e5cdbac51dc6b85",
-    "date": "2026-08-12T11:57:56.901575+00:00",
+    "date": "2026-08-12T13:46:19.196971+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -356,8 +356,37 @@
     ]
   },
   {
+    "id": "b118ee380279262f",
+    "date": "2026-08-12T13:46:19.196851+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Galaxy S25: RCE TIFF Flaw Patched in July, Disclosure Arrives in August VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/galaxy-s25-rce-tiff-flaw-patched-in-july-disclosure-arrives-in-august",
+    "target": "Galaxy S25",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/galaxy-s25-rce-tiff-flaw-patched-in-july-disclosure-arrives-in-august"
+      }
+    ]
+  },
+  {
     "id": "8cf85abec30955c0",
-    "date": "2026-08-12T11:57:56.900821+00:00",
+    "date": "2026-08-12T13:46:19.196218+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -386,12 +415,12 @@
   },
   {
     "id": "2f8d3975edbdd1db",
-    "date": "2026-08-12T11:57:56.900292+00:00",
+    "date": "2026-08-12T13:46:19.195582+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 6 ZERO-DAY · 14 CVE · 14 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
+    "title": "// 1 CRITICAL · 6 ZERO-DAY · 14 CVE · 13 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -415,7 +444,7 @@
   },
   {
     "id": "12160ab45a8d0294",
-    "date": "2026-08-12T11:57:55.985306+00:00",
+    "date": "2026-08-12T13:46:14.023879+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -492,7 +521,7 @@
   },
   {
     "id": "ab8ddee2f9caf0ef",
-    "date": "2026-08-12T11:57:55.109248+00:00",
+    "date": "2026-08-12T13:46:12.111617+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -521,7 +550,7 @@
   },
   {
     "id": "020b6398d8c64fe8",
-    "date": "2026-08-12T11:57:55.109102+00:00",
+    "date": "2026-08-12T13:46:12.111483+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -550,7 +579,7 @@
   },
   {
     "id": "42646be5e0292f4f",
-    "date": "2026-08-12T11:57:55.108983+00:00",
+    "date": "2026-08-12T13:46:12.111340+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -579,7 +608,7 @@
   },
   {
     "id": "591612a6f556b244",
-    "date": "2026-08-12T11:57:55.108882+00:00",
+    "date": "2026-08-12T13:46:12.111217+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -608,7 +637,7 @@
   },
   {
     "id": "68793442dc0dec51",
-    "date": "2026-08-12T11:57:55.108769+00:00",
+    "date": "2026-08-12T13:46:12.111081+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -637,7 +666,7 @@
   },
   {
     "id": "2eb6fa64547670a9",
-    "date": "2026-08-12T11:57:55.108664+00:00",
+    "date": "2026-08-12T13:46:12.110954+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -666,7 +695,7 @@
   },
   {
     "id": "6089be6847529c0b",
-    "date": "2026-08-12T11:57:55.108551+00:00",
+    "date": "2026-08-12T13:46:12.110814+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -695,7 +724,7 @@
   },
   {
     "id": "6294d1da87bfef9a",
-    "date": "2026-08-12T11:57:55.108432+00:00",
+    "date": "2026-08-12T13:46:12.110653+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -724,7 +753,7 @@
   },
   {
     "id": "891b694facaaa612",
-    "date": "2026-08-12T11:57:55.108314+00:00",
+    "date": "2026-08-12T13:46:12.110513+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -753,7 +782,7 @@
   },
   {
     "id": "74b2a7d73c93d327",
-    "date": "2026-08-12T11:57:55.108202+00:00",
+    "date": "2026-08-12T13:46:12.110384+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -782,7 +811,7 @@
   },
   {
     "id": "bf08a0c2cf461b2a",
-    "date": "2026-08-12T11:57:55.108086+00:00",
+    "date": "2026-08-12T13:46:12.110260+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -811,7 +840,7 @@
   },
   {
     "id": "36b75d2e2b641bbb",
-    "date": "2026-08-12T11:57:55.107985+00:00",
+    "date": "2026-08-12T13:46:12.110136+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -840,7 +869,7 @@
   },
   {
     "id": "4c672297a6dc990b",
-    "date": "2026-08-12T11:57:55.107881+00:00",
+    "date": "2026-08-12T13:46:12.110008+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -869,7 +898,7 @@
   },
   {
     "id": "2c7d6de428c373eb",
-    "date": "2026-08-12T11:57:55.107757+00:00",
+    "date": "2026-08-12T13:46:12.109851+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -898,7 +927,7 @@
   },
   {
     "id": "a4e1da6a2a0a21b3",
-    "date": "2026-08-12T11:57:55.107639+00:00",
+    "date": "2026-08-12T13:46:12.109686+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -927,7 +956,7 @@
   },
   {
     "id": "9a90234417c54fc2",
-    "date": "2026-08-12T11:57:55.107517+00:00",
+    "date": "2026-08-12T13:46:12.109545+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -956,7 +985,7 @@
   },
   {
     "id": "55f144bdf0c1d1b5",
-    "date": "2026-08-12T11:57:55.107402+00:00",
+    "date": "2026-08-12T13:46:12.109412+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -985,7 +1014,7 @@
   },
   {
     "id": "90180ea26e0eb3f5",
-    "date": "2026-08-12T11:57:55.107287+00:00",
+    "date": "2026-08-12T13:46:12.109279+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1013,37 +1042,8 @@
     ]
   },
   {
-    "id": "285ea12d6da7774f",
-    "date": "2026-08-12T11:57:55.107147+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ERPNext's Document Follow feature exposed unauthorized data",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ERPNext's Document Follow feature exposed unauthorized data",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vm95nk/erpnexts_document_follow_feature_exposed/",
-    "target": "ERPNexts Document Follow",
-    "type": "Data Leak / Breach",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vm95nk/erpnexts_document_follow_feature_exposed/"
-      }
-    ]
-  },
-  {
     "id": "c19e18f78f756ba1",
-    "date": "2026-08-12T11:57:55.107041+00:00",
+    "date": "2026-08-12T13:46:12.109153+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1071,37 +1071,8 @@
     ]
   },
   {
-    "id": "fde4d8bfbd3a86dc",
-    "date": "2026-08-12T11:57:55.106933+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2026-53360: KVM SEV-SNP guest-to-host heap OOB and analysis of the upstream fix",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-53360: KVM SEV-SNP guest-to-host heap OOB and analysis of the upstream fix",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vmadcw/cve202653360_kvm_sevsnp_guesttohost_heap_oob_and/",
-    "target": "CVE-2026-53360",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vmadcw/cve202653360_kvm_sevsnp_guesttohost_heap_oob_and/"
-      }
-    ]
-  },
-  {
     "id": "3a7558e65b571e5d",
-    "date": "2026-08-12T11:57:55.106815+00:00",
+    "date": "2026-08-12T13:46:12.109012+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1129,8 +1100,66 @@
     ]
   },
   {
+    "id": "285ea12d6da7774f",
+    "date": "2026-08-12T13:46:12.108874+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ERPNext's Document Follow feature exposed unauthorized data",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ERPNext's Document Follow feature exposed unauthorized data",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vm95nk/erpnexts_document_follow_feature_exposed/",
+    "target": "ERPNexts Document Follow",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vm95nk/erpnexts_document_follow_feature_exposed/"
+      }
+    ]
+  },
+  {
+    "id": "fde4d8bfbd3a86dc",
+    "date": "2026-08-12T13:46:12.108719+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CVE-2026-53360: KVM SEV-SNP guest-to-host heap OOB and analysis of the upstream fix",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2026-53360: KVM SEV-SNP guest-to-host heap OOB and analysis of the upstream fix",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vmadcw/cve202653360_kvm_sevsnp_guesttohost_heap_oob_and/",
+    "target": "CVE-2026-53360",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vmadcw/cve202653360_kvm_sevsnp_guesttohost_heap_oob_and/"
+      }
+    ]
+  },
+  {
     "id": "b3a2cf4f7a8c4a00",
-    "date": "2026-08-12T11:57:55.106680+00:00",
+    "date": "2026-08-12T13:46:12.108571+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1159,7 +1188,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-12T11:57:55.106548+00:00",
+    "date": "2026-08-12T13:46:12.108422+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1196,7 +1225,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-12T11:57:55.106326+00:00",
+    "date": "2026-08-12T13:46:12.108207+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1224,6 +1253,441 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "39297d57f51f71d4",
+    "date": "2026-08-12T13:24:00+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Mindgard Raises $30 Million to Protect AI Systems",
+    "summary": "The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams. The post Mindgard Raises $30 Million to Protect AI Systems appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/",
+    "target": "Mindgard Raises Million Protect",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/"
+      }
+    ]
+  },
+  {
+    "id": "661a5604b30c1bb3",
+    "date": "2026-08-12T13:05:25+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "737 Fake Chrome VPN Extensions Hijack Browser Traffic Through Attacker-Controlled SOCKS5 Proxies",
+    "summary": "Hundreds of Chrome extensions advertised as free VPN or proxy tools have been tied to a large traffic-redirection operation. The listings promised privacy and access to blocked services, but their code sent browser sessions through SOCKS5 proxy servers controlled by the operation. The scale makes the discovery especially concerning. Researchers counted 737 extensions published through […] The post 737 Fake Chrome VPN Extensions Hijack Browser Traffic Through Attacker-Controlled SOCKS5 Proxies appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Hundreds of Chrome extensions advertised as free VPN or proxy tools have been tied to a large traffic-redirection operation.",
+      "Risk: credentials/infostealer risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/fake-chrome-vpn-extensions/",
+    "target": "737 Fake Chrome VPN",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/fake-chrome-vpn-extensions/"
+      }
+    ]
+  },
+  {
+    "id": "73ebdec7c0f57ed3",
+    "date": "2026-08-12T13:00:00+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "WhatsApp Unveils New Scam Alert Feature",
+    "summary": "Signal has also made a security announcement: an automatic key verification feature to complement its safety number system. The post WhatsApp Unveils New Scam Alert Feature appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "Signal has also made a security announcement: an automatic key verification feature to complement its safety number system.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
+    "target": "WhatsApp Unveils Scam Alert",
+    "type": "Phishing / Scam",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/"
+      }
+    ]
+  },
+  {
+    "id": "1e816279e2bc62ba",
+    "date": "2026-08-12T13:00:00+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset",
+    "summary": "Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms. The post Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
+    "target": "Stealthy City-Forum Target Salesforce",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/"
+      }
+    ]
+  },
+  {
+    "id": "80a0b2e439111774",
+    "date": "2026-08-12T13:00:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Three intrusions at UK criminal records office went undetected for two years",
+    "summary": "Unread antivirus alerts and an unpatched content management system exposed Britain's ACRO to three separate data breaches, according to a reprimand notice.",
+    "article_text": "",
+    "quick_summary": [
+      "Unread antivirus alerts and an unpatched content management system exposed Britain's ACRO to three separate data breaches, according to a reprimand notice.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://therecord.media/uk-criminal-records-office-acro-data-breaches",
+    "target": "Three",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/uk-criminal-records-office-acro-data-breaches"
+      }
+    ]
+  },
+  {
+    "id": "174e91497762cd5a",
+    "date": "2026-08-12T12:52:07+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "2.86 Billion Credentials Flood Criminal Markets as Enterprise Access Moves Upmarket",
+    "summary": "Stolen login data is so abundant that criminal markets can sell it for almost nothing. Meanwhile, verified entry into large companies commands far higher prices, reshaping the underground economy. Infostealer malware drives that divide. It reaches victims through phishing lures, fake updates, pirated downloads or malicious attachments, then collects browser passwords, cookies and data. The […] The post 2.86 Billion Credentials Flood Criminal Markets as Enterprise Access Moves Upmarket appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Stolen login data is so abundant that criminal markets can sell it for almost nothing.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/credentials-flood-criminal-markets/",
+    "target": "2.86 Billion Credentials Flood",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/credentials-flood-criminal-markets/"
+      }
+    ]
+  },
+  {
+    "id": "fae640fa9cc7b57d",
+    "date": "2026-08-12T12:41:03+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
+    "summary": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors.",
+    "article_text": "",
+    "quick_summary": [
+      "The big-box giant has scaled its defenses by encouraging trust and innovation.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
+    "target": "Walmart Leaders Transform Operations",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas"
+      }
+    ]
+  },
+  {
+    "id": "3c9d72595eeaeb60",
+    "date": "2026-08-12T12:38:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft’s massive Patch Tuesday releases continue as AI reshapes bug discovery",
+    "summary": "This month’s update features about five times the volume of patches Microsoft was shipping in a typical month before AI-assisted vulnerability discovery took hold.",
+    "article_text": "",
+    "quick_summary": [
+      "This month’s update features about five times the volume of patches Microsoft was shipping in a typical month before AI-assisted vulnerability discovery took hold.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai",
+    "target": "Microsofts Patch Tuesday",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai"
+      }
+    ]
+  },
+  {
+    "id": "1b87af290f641170",
+    "date": "2026-08-12T12:28:02+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Fake CCleaner Download Installs GhostDesk Chrome Spyware on Windows PCs",
+    "summary": "Windows users looking for a familiar cleanup utility are being steered toward a convincing counterfeit download page. The file they receive installs GhostDesk, a malicious Chrome extension built to watch activity inside the browser. The campaign turns a routine software download into a pathway for credential theft, keystroke capture, screenshots, cookie collection, and commands delivered […] The post Fake CCleaner Download Installs GhostDesk Chrome Spyware on Windows PCs appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Windows users looking for a familiar cleanup utility are being steered toward a convincing counterfeit download page.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/fake-ccleaner-download/",
+    "target": "Fake CCleaner Download Installs",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/fake-ccleaner-download/"
+      }
+    ]
+  },
+  {
+    "id": "400c62c132990b60",
+    "date": "2026-08-12T12:25:37+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+    "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
+    "article_text": "A proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday, is already being used in attacks. Tracked as CVE-2026-55040 , this authentication bypass security flaw in the JWT token validation pipeline can be exploited by attackers without privileges to perform operations as a SharePoint site user or administrator. Microsoft patched the vulnerability as part of the July 2026 Patch Tuesday updates, when it warned customers to patch systems running SharePoint Enterprise Server 2016 and SharePoint Server 2019. \"The authentication feature could be bypassed as this vulnerability allows impersonation,\" it said . \"Exploiting this vulnerability could allow an attacker to disclose files and modify data, but the attacker cannot impact the availability of the system.\" A detailed technical write-up on CVE-2026-55040 was published by Rapid7 security researcher Stephen Fewer on Tuesday, together with a PoC exploit . Earlier today, threat intelligence company Defused reported that Rapid7's exploit code has already been weaponized in attacks targeting its honeypots. \"Attackers are now using the @rapid7 POC for CVE-2026-55040 against our SharePoint honeypots,\" Defused warned. \"The vulnerability is a Microsoft SharePoint JWT auth bypass for which Rapid7 published a technical writeup and proof-of-concept code yesterday.\" Internet threat watchdog Shadowserver currently tracks over 8,500 Microsoft SharePoint servers exposed online. However, there is no information on how many of them are honeypots or have already been patched against this security flaw. While Microsoft has labeled this security flaw as an attractive target for attackers, it has yet flag it as successfully exploited in the wild. Likely based on Microsoft's exploitability assessment, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned network defenders on July 15 to secure their SharePoint servers against potential CVE-2026-55040 attacks. CISA urged security teams to avoid directly exposing SharePoint servers on the Internet unless necessary and to review Microsoft's official SharePoint Server security-hardening guidance. It also recommended blocking external access to SharePoint Central Administration and restricting farm and database communication to the required systems. Where Internet exposure is required, CISA recommends placing servers behind a Layer 7 reverse proxy or similar application-layer security control. Since November 2021, the cybersecurity agency has flagged 14 actively exploited Microsoft SharePoint vulnerabilities , with eight of them also exploited in ransomware attacks. On Tuesday, CISA also confirmed that a high-severity Microsoft SharePoint remote code execution vulnerability (CVE-2026-45659), flagged as actively exploited since early July, is now also being exploited by ransomware gangs . Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Critical SharePoint RCE flaw exploited to steal machine keys CISA: Microsoft SharePoint flaw now exploited in ransomware attacks N-able warns of N-central auth bypass flaw exploited in attacks vBulletin fixes critical pre-auth RCE flaw with public exploit Check Point warns of SmartConsole zero-day exploited in attacks LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday.",
+      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+    "target": "Microsoft SharePoint",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/"
+      }
+    ]
+  },
+  {
+    "id": "e5e03561892ffd10",
+    "date": "2026-08-12T12:06:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign",
+    "summary": "Researchers disclosed the bug to Microsoft after examining a long-running campaign by North Korean hackers to exploit the job application process.",
+    "article_text": "",
+    "quick_summary": [
+      "Researchers disclosed the bug to Microsoft after examining a long-running campaign by North Korean hackers to exploit the job application process.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug",
+    "target": "CISA Microsoft",
+    "type": "Vulnerability",
+    "severity": "High",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug"
+      }
+    ]
+  },
+  {
+    "id": "14b89bc95b03968d",
+    "date": "2026-08-12T12:00:34+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "13-Minute WindRelay Malware Attack Uses SpyNote RAT and NFC Relay Malware to Drain Victim Accounts",
+    "summary": "A new Android fraud operation shows how quickly a convincing phone call can turn into financial loss. The campaign combines the SpyNote remote-control tool with WindRelay, a newly tracked NFC relay malware family. Together, they give criminals access to a victim’s banking app and physical payment card in one short session. The attack starts with […] The post 13-Minute WindRelay Malware Attack Uses SpyNote RAT and NFC Relay Malware to Drain Victim Accounts appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A new Android fraud operation shows how quickly a convincing phone call can turn into financial loss.",
+      "Risk: credentials/infostealer risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/13-minute-windrelay-malware-attack/",
+    "target": "13-Minute WindRelay Malware Uses",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/13-minute-windrelay-malware-attack/"
+      }
+    ]
+  },
+  {
+    "id": "3dd533982e4930c9",
+    "date": "2026-08-12T11:57:56.902284+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Kenwood DNR1007XR: Firmware Update Flaw Enables Root RCE via Symlink Following CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/kenwood-dnr1007xr-firmware-update-flaw-enables-root-rce-via-symlink-following",
+    "target": "Kenwood DNR1007XR",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/kenwood-dnr1007xr-firmware-update-flaw-enables-root-rce-via-symlink-following"
+      }
+    ]
+  },
+  {
+    "id": "561a8f56e8ac75a8",
+    "date": "2026-08-12T11:47:38+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+    "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,",
+    "article_text": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing, even handed to a weaker model in the same provider family to make it reveal the hidden content. The team behind the paper Stealing Reasoning Traces from Proprietary LLM APIs demonstrated four abuse paths: stealing proprietary reasoning for model distillation , extracting private data from other users' published traces, recovering harmful content concealed behind a safe visible answer, and hiding prompt injections inside opaque reasoning blocks. Across 6,708 public agent trajectories, the team decoded 315,320 thinking blocks. After excluding benchmark sources, it counted 704 distinct privacy artifacts from genuine user sessions, including 62 API keys, 33 passwords, 24 access tokens, and seven private keys. The cross-user attack did not provide arbitrary access to private chats. It required obtaining an encrypted reasoning block, such as one published in an agent log, and API access to a compatible model from the same provider. The researchers disclosed the findings to the affected model providers, Microsoft and Hugging Face, and say the demonstrated attacks stopped working after mitigations. Their reproducibility statement says the main extraction attack is no longer reproducible as of August 2026. The report does not document malicious exploitation in the wild. Developers are advised to strip reasoning blocks and opaque reasoning fields from shared traces and avoid committing raw API transcripts even when the visible text has been sanitized. The problem starts with a design meant to preserve reasoning across API calls when conversation state is managed manually or statelessly. OpenAI can return encrypted reasoning items that applications replay with manually managed history, Anthropic carries full reasoning in an encrypted signature, and Google uses encrypted thought signatures. These objects preserve reasoning state without exposing the underlying plaintext directly to the client. The encryption itself was not cracked, and the attack did not require obtaining an encryption key. It relied on intact opaque blocks being accepted and processed by the provider. During testing, the paper found those objects portable across sessions, users, and models, allowing a weaker compatible model to act as what the authors call a \"fuzzy\" decoder: Claude Haiku 4.5 for Claude traces, GPT-5.6 Luna for GPT traces, and Gemini Robotics ER-1.6 for Gemini traces. The decoder was prompted to transcribe reasoning produced by a stronger model. That cross-user behavior turns published agent logs into the sharper security problem. Of the 704 non-benchmark artifacts the team recovered, 64 appeared only in hidden reasoning and nowhere in the visible trace. Sanitizing the readable conversation could therefore leave secrets inside an opaque block that another account was able to replay. The exposure the study demonstrates is bounded: it lands on developers who published raw agent logs with the reasoning objects intact, one identifiable group rather than every API user, and not necessarily the only one at risk. The same portability also enabled an invisible prompt-injection proof of concept. The team crafted an opaque reasoning block that carried a malicious instruction and later replayed it into an unrelated task, causing the receiving model to add an attacker-directed upload action without putting the injected instruction in visible text. The authors caution that they do not have ground-truth plaintext for the proprietary reasoning, so they cannot guarantee every reconstructed trace is an exact copy. Their fidelity checks relied on reasoning-token counts and qualitative comparisons, with extracted lengths generally tracking the providers' reported thinking-token counts. Current vendor documentation shows that encrypted reasoning remains part of these APIs, but handling has changed. OpenAI still tells developers to replay encrypted reasoning items when manually managing stateless history, while Google says its backend manages thought compatibility when a session switches models. Anthropic now says thinking blocks are tied to the model that produced them and sho",
+    "quick_summary": [
+      "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+    "target": "OpenAI Anthropic Google API",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"
+      }
+    ]
+  },
+  {
+    "id": "1eb65a4ede1ceeeb",
+    "date": "2026-08-12T11:41:34+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+    "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness",
+    "article_text": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026 , which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness climbed from 62% to 69% , matching its 2024 peak, and logging reached a four-year high of 58% . The good news: The recovery is real. The bad news: It's taking place almost exclusively at the perimeter. The report's sharper finding is what happens after that perimeter is crossed . Inside, the picture inverts : defenses that look strong from the outside turn soft , and are the softest of all against the quiet moves, the reconnaissance and credential theft that precede every serious breach. For the first time, Picus Labs measured post-compromise prevention with autonomous penetration testing : what controls actually break the attack chain once an adversary is already operating inside the network as an authenticated user. The Post-Compromise Prevention Rate was a meager 37%. The perimeter now blocks roughly two attacks out of three; inside, defenses stop barely one in three. But that average hides the more useful pattern. The interior does not fail evenly. It fails along one clean line. Here too, noisy actions get caught, while quiet ones don’t. Malicious behavior running code or jumping between machines was blocked most of the time: lateral movement through service execution, using techniques like Sharp-ServiceExec and SMBExec, was stopped around 90% of the time, and UAC-bypass privilege escalation was almost as successful at around 85%. That’s EDR doing its job, and years of assume-breach investment showing up, as hoped, in the numbers. Reconnaissance, mapping the domain and enumerating shares and sessions, was the least-prevented category of all, only being stopped a paltry 10% of the time. Defenses did a little better at detecting credentials being quietly read out of memory at around 22%, and one variant, pulling secrets straight from the registry, was stopped in less than 1% of attempts. An attacker can map the environment, harvest sessions, and read credential material with almost no resistance, getting their proverbial ducks in a row before taking any noisier action that would trip a control. One result captures why. The same credential-theft tool, Mimikatz, was run at the same objective three ways, and the prevention scores could not have been further apart. Dumping credentials the classic, heavily signatured way, straight from LSASS process memory, was blocked almost every time. Pulling them from other memory locations, or reading them from the registry, was almost never blocked at all. The only variable between these three was how conspicuous the route was. The LSASS path is loud in a way tools can match: a process opens a handle to lsass.exe and reads its memory, an event vendors have instrumented for years. Reading the registry never touches lsass and looks like ordinary privileged activity, so a control built for the first event has nothing to fire on for the second. Alarmingly, that 94% is even softer than it sounds , because it was measured against one known build of an open-source tool whose recognizability lives in how it was compiled, not in what it does. Each path ends with credentials in hand; only the thing the signature was watching for changed. A prevention score built on signatures tells you how well you catch what you have already seen, not whether you’re actually stopping the behavior underpinning it . The Red Report 2026 found attackers deliberately shifting toward stealth, and the Blue Report shows this behavior is working for them across the board. The single least-prevented technique in the entire dataset was hiding command history, stopped just 1% of the time. The behaviors defenders miss are exactly the low-noise ones that today’s evasion-minded attackers rely on. The IOC-Based Prevention Rate, or how often security controls block known-malicious files delivered as downloads, fell to 50% this year, from 60% last year and 71% in 2024. Signatures alone can’t keep up: VirusTotal takes in close to two million new files a day, and repacking a payload makes the indicator stale while the behavior underneath stays the same. Indicator-based testing still matters , it’s the fastest way to confirm the edge stops w",
+    "quick_summary": [
+      "Enterprise defenses are tuned to catch the attacks that make noise.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+    "target": "Enterprise Defenses Recovered Edge",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html"
       }
     ]
   },
@@ -1265,7 +1729,7 @@
     "category": "",
     "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
     "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
-    "article_text": "Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. The new feature is part of a \"key transparency\" system that uses Cloudflare and Trail of Bits as trusted third-party independent auditors to verify the integrity of Signal conversations. \"It works through a system of verifications performed by you, your Signal connections, and third-party auditors that together provide the same assurance as manually verifying safety numbers. Unlike safety numbers, these verifications are done independently and do not require an in-person meeting or a secondary communication channel,\" Signal software engineer Katherine Yen said . \"This system of verifications ensures that the association between a phone number or username and its public encryption key is globally consistent and transparent to all participants in Signal's ecosystem. This protects against scenarios where a key is swapped out without the key owner's knowledge — for example, if a malicious party compromised Signal and associated a different key with your connection's phone number.\" Users can enable Automatic Key Verification in Signal by going to Settings > Privacy > Advanced and toggling on Automatic Key Verification. They can also verify the public key of Signal users they're chatting with by clicking \"Verify Automatically\" on the safety number verification screen. If the verification is successful, the app displays a green checkmark and an \"Encryption verified\" message. ​Users who do not want to rely on Signal or independent auditors can disable the automatic key verification feature in the privacy settings and continue using manual safety number verification. \"Key transparency offers an easy-to-use way to confirm an important part of messaging security, complementing our existing safety number system,\" Signal said. \"Over time, this verification, combined with the ones continually performed by your Signal connection and third-party auditors, ensures the consistency of this Signal connection's key across the Signal ecosystem.\" In May, Signal also introduced new warning messages and in-app confirmations designed to give users time to evaluate the safety of an external request as additional safeguards against phishing and social engineering attempts. This was prompted by attacks attributed to Russian state-sponsored hackers who targeted high-profile users with bogus 'Signal Support' alerts that abused Signal's Linked Device feature to gain access to the target's account, chats, and contact lists, as reported by the FBI , the German authorities , and the Dutch government . One month later, the U.S. Department of State announced bounties of up to $10 million for anyone who can help identify or locate members of the UNC5792 and UNC4221 hacker groups linked to widespread phishing campaigns targeting Signal users. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Google Blogger locks hundreds of blogs in malware false positive GitHub, PyPI add time-based defenses against supply chain attacks Opera rolls out Paste Protect feature to fight ClickFix attacks U.S. offers $10 million for hackers targeting WhatsApp, Signal users LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Webinar: Shadow AI in 2026 (and how attackers are taking advantage) See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. The new feature is part of a \"key transparency\" system that uses Cloudflare and Trail of Bits as trusted third-party independent auditors to verify the integrity of Signal conversations. \"It works through a system of verifications performed by you, your Signal connections, and third-party auditors that together provide the same assurance as manually verifying safety numbers. Unlike safety numbers, these verifications are done independently and do not require an in-person meeting or a secondary communication channel,\" Signal software engineer Katherine Yen said . \"This system of verifications ensures that the association between a phone number or username and its public encryption key is globally consistent and transparent to all participants in Signal's ecosystem. This protects against scenarios where a key is swapped out without the key owner's knowledge — for example, if a malicious party compromised Signal and associated a different key with your connection's phone number.\" Users can enable Automatic Key Verification in Signal by going to Settings > Privacy > Advanced and toggling on Automatic Key Verification. They can also verify the public key of Signal users they're chatting with by clicking \"Verify Automatically\" on the safety number verification screen. If the verification is successful, the app displays a green checkmark and an \"Encryption verified\" message. ​Users who do not want to rely on Signal or independent auditors can disable the automatic key verification feature in the privacy settings and continue using manual safety number verification. \"Key transparency offers an easy-to-use way to confirm an important part of messaging security, complementing our existing safety number system,\" Signal said. \"Over time, this verification, combined with the ones continually performed by your Signal connection and third-party auditors, ensures the consistency of this Signal connection's key across the Signal ecosystem.\" In May, Signal also introduced new warning messages and in-app confirmations designed to give users time to evaluate the safety of an external request as additional safeguards against phishing and social engineering attempts. This was prompted by attacks attributed to Russian state-sponsored hackers who targeted high-profile users with bogus 'Signal Support' alerts that abused Signal's Linked Device feature to gain access to the target's account, chats, and contact lists, as reported by the FBI , the German authorities , and the Dutch government . One month later, the U.S. Department of State announced bounties of up to $10 million for anyone who can help identify or locate members of the UNC5792 and UNC4221 hacker groups linked to widespread phishing campaigns targeting Signal users. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Google Blogger locks hundreds of blogs in malware false positive GitHub, PyPI add time-based defenses against supply chain attacks Opera rolls out Paste Protect feature to fight ClickFix attacks U.S. offers $10 million for hackers targeting WhatsApp, Signal users LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Overdue a password health-check? Audit your Active Directory for free Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -1439,7 +1903,7 @@
     "category": "",
     "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
     "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
-    "article_text": "A security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \" ShieldBreak \" after Microsoft released the August 2026 Patch Tuesday security updates. The new vulnerability is described as a bypass for RoguePlanet , another Defender privilege escalation flaw disclosed in June and patched by Microsoft one month later. As Nightmare Eclipse explained, ShieldBreak can be used to gain SYSTEM privileges on fully patched Windows 10, Windows 11, and Windows Server systems. \"Microsoft has failed to properly patch the RoguePlanet vulnerability CVE-2026-50656, this PoC demonstrates a full patch bypass,\" they said . \"The PoC was tested in the latest version of windows 11 25h2 (+Canary channel) and windows server 2025, the PoC also have a 100% success rate. Please note that Windows 10 (and respective server editions) are not currently supported, they are however vulnerable to ShieldBreak as well.\" Will Dormann, principal vulnerability analyst at Tharros, confirmed on Tuesday that the exploit works , saying that Microsoft Defender needs to be enabled for the ShieldBreak exploit to escalate attackers' privileges. The ShieldBreak exploit is part of an ongoing and heated dispute between Microsoft and Nightmare Eclipse over the company's vulnerability disclosure and bug bounty practices. Microsoft responded to Nightmare Eclipse's disclosures with warnings of legal action against people engaging in \"malicious activity causing real harm\" to its customers, which prompted cybersecurity experts to believe the company was directly threatening the security researcher. Since April 2026, the anonymous researcher has disclosed multiple other zero-day exploits for security flaws in Microsoft Defender, BitLocker, and various Windows components, including LegacyHive , RoguePlanet , BlueHammer , RedSun , YellowKey , GreenPlasma , MiniPlasma , and UnDefend . While Microsoft fixed the RoguePlanet vulnerability in July and the YellowKey, GreenPlasma, and MiniPlasma flaws as part of the June 2026 Patch Tuesday , the other vulnerabilities disclosed by Nightmare Eclipse are still waiting for an official patch. BleepingComputer has contacted a Microsoft spokesperson about the new ShieldBreak zero-day and will update the story if we receive a statement. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft patches RoguePlanet Defender zero-day vulnerability Microsoft working on Defender patch for RoguePlanet zero-day Windows LegacyHive zero-day flaw gets free, unofficial patches New Windows LegacyHive zero-day gives hackers admin privileges Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Overdue a password health-check? Audit your Active Directory for free Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats Webinar: Shadow AI in 2026 (and how attackers are taking advantage) See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "A security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \" ShieldBreak \" after Microsoft released the August 2026 Patch Tuesday security updates. The new vulnerability is described as a bypass for RoguePlanet , another Defender privilege escalation flaw disclosed in June and patched by Microsoft one month later. However, as cybersecurity expert Kevin Beaumont explains , the two exploits work very differently. \"RoguePlanet was a filesystem race condition vuln that uses virtual disks and NT native file manipulation to trick quarantine process into overwriting system files,\" Beaumont noted . \"ShieldBreak user-mode callback hook to change file contents during a Defender cloud-hydration scan via cfapi (Cloud Filter API).\" According to Nightmare Eclipse, ShieldBreak can be used to gain SYSTEM privileges on fully patched Windows 10, Windows 11, and Windows Server systems. \"Microsoft has failed to properly patch the RoguePlanet vulnerability CVE-2026-50656, this PoC demonstrates a full patch bypass,\" they said . \"The PoC was tested in the latest version of windows 11 25h2 (+Canary channel) and windows server 2025, the PoC also have a 100% success rate. Please note that Windows 10 (and respective server editions) are not currently supported, they are however vulnerable to ShieldBreak as well.\" Will Dormann, principal vulnerability analyst at Tharros, confirmed on Tuesday that the exploit works , saying that Microsoft Defender needs to be enabled for the ShieldBreak exploit to escalate attackers' privileges. The ShieldBreak exploit is part of an ongoing and heated dispute between Microsoft and Nightmare Eclipse over the company's vulnerability disclosure and bug bounty practices. Microsoft responded to Nightmare Eclipse's disclosures with warnings of legal action against people engaging in \"malicious activity causing real harm\" to its customers, which prompted cybersecurity experts to believe the company was directly threatening the security researcher. Since April 2026, the researcher has disclosed LegacyHive , RoguePlanet , BlueHammer , RedSun , YellowKey , GreenPlasma , MiniPlasma , and UnDefend zero-day exploits targeting Microsoft Defender, BitLocker, and various other Windows components While Microsoft fixed the RoguePlanet vulnerability in July and the YellowKey, GreenPlasma, and MiniPlasma flaws as part of the June 2026 Patch Tuesday , the other vulnerabilities disclosed by Nightmare Eclipse are still waiting for an official patch. BleepingComputer has contacted a Microsoft spokesperson about the new ShieldBreak zero-day and will update the story if we receive a statement. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft patches RoguePlanet Defender zero-day vulnerability Microsoft working on Defender patch for RoguePlanet zero-day Windows LegacyHive zero-day flaw gets free, unofficial patches New Windows LegacyHive zero-day gives hackers admin privileges Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Overdue a password health-check? Audit your Active Directory for free See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -1456,6 +1920,64 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/"
+      }
+    ]
+  },
+  {
+    "id": "fb1d943035d97598",
+    "date": "2026-08-12T10:12:10+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Nightmare-Eclipse Drops ShieldBreak Windows Defender 0-day Vulnerability",
+    "summary": "The prolific and controversial security researcher known as Nightmare-Eclipse (also tracked under the alias Chaotic Eclipse) has released a ninth Windows zero-day exploit called ShieldBreak, and this time the target is Microsoft’s own fix. ShieldBreak demonstrates a complete bypass of the patch Microsoft shipped for RoguePlanet, the Windows Defender elevation-of-privilege flaw tracked as CVE-2026-50656, proving […] The post Nightmare-Eclipse Drops ShieldBreak Windows Defender 0-day Vulnerability appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "The prolific and controversial security researcher known as Nightmare-Eclipse (also tracked under the alias Chaotic Eclipse) has released a ninth Windows zero-day exploit called ShieldBreak, and this time the target is M",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/nightmare-eclipse-drops-shieldbreak-0-day/",
+    "target": "Nightmare-Eclipse Drops ShieldBreak Windows",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/nightmare-eclipse-drops-shieldbreak-0-day/"
+      }
+    ]
+  },
+  {
+    "id": "6de8a78e06529a6a",
+    "date": "2026-08-12T10:05:33+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "CAV3RN Uses Google Apps Script as C2 Relay to Hide Malware Traffic Behind Google Infrastructure",
+    "summary": "CAV3RN is a modular espionage framework that is becoming harder to see on a network. Its newest communication component hides remote-control traffic behind Google Apps Script, a service many organizations use legitimately. That design can make a harmful connection look less unusual at first glance. The framework has been used against targets in Israel and […] The post CAV3RN Uses Google Apps Script as C2 Relay to Hide Malware Traffic Behind Google Infrastructure appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "CAV3RN is a modular espionage framework that is becoming harder to see on a network.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/cav3rn-uses-google-apps-script/",
+    "target": "CAV3RN Uses Google Apps",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/cav3rn-uses-google-apps-script/"
       }
     ]
   },
@@ -1485,6 +2007,35 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/"
+      }
+    ]
+  },
+  {
+    "id": "c566dbd63c93b42b",
+    "date": "2026-08-12T09:04:15+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Sandworm Fake Job Interviews Push Trojanized WireGuard VPN to Infect IT Professionals",
+    "summary": "Sandworm has turned the routine job interview into a route for compromising IT workers. The campaign uses convincing recruiter conversations, live video calls and a booby-trapped virtual private network client to reach people who may hold privileged access to company systems. The operation targets system administrators and other IT specialists after attackers study their resumes […] The post Sandworm Fake Job Interviews Push Trojanized WireGuard VPN to Infect IT Professionals appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Sandworm has turned the routine job interview into a route for compromising IT workers.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/sandworm-fake-job-interviews/",
+    "target": "Sandworm Fake Job Interviews",
+    "type": "Malware",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/sandworm-fake-job-interviews/"
       }
     ]
   },
@@ -1671,6 +2222,64 @@
     ]
   },
   {
+    "id": "e6b40db41da5ab93",
+    "date": "2026-08-12T08:34:05+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Google-themed Credential Phishing Attempt Delivered Through a Fake ‘New Audio MSG’ Email",
+    "summary": "A new credential phishing campaign is using a fake “New Audio MSG” email to draw recipients toward a convincing Google-themed sign-in page. The message turns a familiar voicemail-style prompt into a way to steal account credentials, relying on a simple Play Audio call to action rather than a suspicious attachment. The email sends its target […] The post Google-themed Credential Phishing Attempt Delivered Through a Fake ‘New Audio MSG’ Email appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A new credential phishing campaign is using a fake “New Audio MSG” email to draw recipients toward a convincing Google-themed sign-in page.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/google-themed-credential-phishing/",
+    "target": "Google-themed Credential Phishing Attempt",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/google-themed-credential-phishing/"
+      }
+    ]
+  },
+  {
+    "id": "6468fe4d93e9fc28",
+    "date": "2026-08-12T08:18:08+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Top 10 Best Business VPN Solutions in 2026",
+    "summary": "The best business VPN solutions in 2026 are increasingly the ones that aren’t traditional VPNs at all. Twingate and Tailscale lead for modern least-privilege remote access, Cisco Secure Client (AnyConnect) and Palo Alto GlobalProtect remain the enterprise incumbents, and NordLayer offers the most approachable published pricing for small teams. A business VPN encrypts remote connections […] The post Top 10 Best Business VPN Solutions in 2026 appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "The best business VPN solutions in 2026 are increasingly the ones that aren’t traditional VPNs at all.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/best-business-vpn-solutions/",
+    "target": "Top Best Business VPN",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/best-business-vpn-solutions/"
+      }
+    ]
+  },
+  {
     "id": "34c1d96087d9ec12",
     "date": "2026-08-12T08:14:46+00:00",
     "source": "SecurityWeek",
@@ -1696,6 +2305,35 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/"
+      }
+    ]
+  },
+  {
+    "id": "61755cd54afef163",
+    "date": "2026-08-12T08:05:00+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "ClickFix Attack Abuses Signed IBM SPSS IDE to Deploy New CNCMachineRMS RAT",
+    "summary": "ClickFix campaigns are once again turning an ordinary user action into the opening move of a serious intrusion. A newly documented chain uses a fake fix prompt to lead victims toward CNCMachineRMS, a previously undocumented remote access trojan that gives an attacker lasting control of a Windows device. The campaign stands out because it hides […] The post ClickFix Attack Abuses Signed IBM SPSS IDE to Deploy New CNCMachineRMS RAT appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "ClickFix campaigns are once again turning an ordinary user action into the opening move of a serious intrusion.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/clickfix-attack-ibm-spss-ide/",
+    "target": "ClickFix Abuses Signed IBM",
+    "type": "Malware",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/clickfix-attack-ibm-spss-ide/"
       }
     ]
   },
@@ -2321,7 +2959,7 @@
     "category": "",
     "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
     "summary": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
-    "article_text": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. In a new blog post , Google argues that notification abuse has increasingly been used to distribute scams, malware, phishing attempts, and fraudulent payment requests. To reduce the abuse, Google developed a \"Swiss cheese\" defense model, where several overlapping systems try to stop abuse at different stages. \"Our goal is to ensure that if abuse slips through one layer, another is there to catch it,\" Google explained. \"This approach allows us to halt abuse at the source, preventing deceptive content from reaching users while maintaining a healthy balance between utility and security.\" Chrome already removes notification permissions from inactive websites, as well as sites that repeatedly trigger suspicious-notification warnings. Google says users can still review these automatically revoked permissions in Safety Hub and grant access again if they want to. In addition to giving you greater control, Google is analyzing behavior across networks of related websites, including coordinated service-worker activity, to identify groups distributing malicious or deceptive notifications. \"This enables us to proactively revoke permissions from these persistent bad actors, protecting users from deceptive notifications even when the site content might not seem inherently malicious,\" Google said. Google looks at factors such as notification volume, time users spend on a site, permission-prompt frequency, and engagement. For example, sites classified as disruptive can be limited to 1,000 messages per minute, with excess requests returning an HTTP 429 error. Google says these restrictions can become more aggressive for repeat offenders and are only reset after a period of non-disruptive behavior. Chrome has also changed how notification permission prompts work on Android, with a less disruptive interface designed to let users decide whether they want notifications without interrupting their browsing. \"This strategy has substantially decreased unnecessary background activity, reduced user device battery consumption, and transformed the notification lifecycle so users receive only the content they find truly valuable,\" the company noted. If you use Chrome, you can review notification permissions under Settings > Privacy and security > Site Settings > Notifications on desktop, or Settings > Notifications on Android. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Google Blogger locks hundreds of blogs in malware false positive New XCSSET variant targets macOS devs via compromised Xcode projects Inside the Underground Business of the Android BTMOB RAT malware Google Chrome may soon block New Tab hijacker extensions by default Google says AI helped Chrome fix 1,072 security bugs in two releases LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Overdue a password health-check? Audit your Active Directory for free Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. In a new blog post , Google argues that notification abuse has increasingly been used to distribute scams, malware, phishing attempts, and fraudulent payment requests. To reduce the abuse, Google developed a \"Swiss cheese\" defense model, where several overlapping systems try to stop abuse at different stages. \"Our goal is to ensure that if abuse slips through one layer, another is there to catch it,\" Google explained. \"This approach allows us to halt abuse at the source, preventing deceptive content from reaching users while maintaining a healthy balance between utility and security.\" Chrome already removes notification permissions from inactive websites, as well as sites that repeatedly trigger suspicious-notification warnings. Google says users can still review these automatically revoked permissions in Safety Hub and grant access again if they want to. In addition to giving you greater control, Google is analyzing behavior across networks of related websites, including coordinated service-worker activity, to identify groups distributing malicious or deceptive notifications. \"This enables us to proactively revoke permissions from these persistent bad actors, protecting users from deceptive notifications even when the site content might not seem inherently malicious,\" Google said. Google looks at factors such as notification volume, time users spend on a site, permission-prompt frequency, and engagement. For example, sites classified as disruptive can be limited to 1,000 messages per minute, with excess requests returning an HTTP 429 error. Google says these restrictions can become more aggressive for repeat offenders and are only reset after a period of non-disruptive behavior. Chrome has also changed how notification permission prompts work on Android, with a less disruptive interface designed to let users decide whether they want notifications without interrupting their browsing. \"This strategy has substantially decreased unnecessary background activity, reduced user device battery consumption, and transformed the notification lifecycle so users receive only the content they find truly valuable,\" the company noted. If you use Chrome, you can review notification permissions under Settings > Privacy and security > Site Settings > Notifications on desktop, or Settings > Notifications on Android. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Google Blogger locks hundreds of blogs in malware false positive New XCSSET variant targets macOS devs via compromised Xcode projects Inside the Underground Business of the Android BTMOB RAT malware Google Chrome may soon block New Tab hijacker extensions by default Google says AI helped Chrome fix 1,072 security bugs in two releases LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Overdue a password health-check? Audit your Active Directory for free Webinar: Shadow AI in 2026 (and how attackers are taking advantage) See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
@@ -2629,7 +3267,7 @@
     "category": "",
     "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
     "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
-    "article_text": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. A report from the Ukrainian Computer Emergency Response Team (CERT) details a social engineering campaign attributed to UAC-0145, which is believed to be a sub-cluster of Sandworm (APT44). In the campaign, the threat actor targets victims while posing as IT companies and recruiters. The agency says that the attacker studies the targets' resumes uploaded on job sites and then initiates direct contact. Conversations are then moved to Telegram to arrange a video interview over Zoom. During the interview, which is conducted in English, the candidates receive mock technical assignments that require them to connect to a corporate VPN. In one case that CERT-UA observed, the attacker impersonated the international IT firm Sopra Steria using seemingly legitimate email addresses similar to the company’s office in Bulgaria. “In parallel, additional instructions for the technical interview are sent via email, including configuration files for connecting to a 'corporate' VPN using Wireguard (Linux/Windows) to supposedly perform test tasks,” CERT-UA says . The downloaded file is configured to produce a fake error. The attackers then prompt the victim to download a modified WireGuard-based client called “SopraVPN” from SourceForge. The SourceForge page even includes a link to soprasteria-bg[.]com to increase credibility, although the domain has no connection to the legitimate company. The trojanized client supports a malicious, nonstandard “SymmetricKey” configuration option that decrypts and executes embedded PowerShell code. On Windows, the malicious command creates a scheduled task and downloads an additional payload from the Internet. On Linux, it uses cURL to retrieve another executable from attacker-controlled infrastructure through the VPN. CERT-UA also noted that WireGuard’s standard Base64 decoding was replaced in the trojanized version with a custom, dynamically generated Base64 alphabet, which renders key strings unreadable with standard decoders and protects the PowerShell code from analysis. The Ukrainian cyber agency advises telecommunications providers and IT companies whose staff are targeted by this campaign to restrict corporate resource access to managed, continuously monitored devices protected by EDR, including when employees use personal equipment. APT44 is notorious for targeting critical infrastructure and government entities both in Ukraine , and also in other countries . Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Enhance privacy on up to 10 devices with this 5-year AdGuard VPN deal This 3-year Surfshark VPN deal covers unlimited devices for $84 A year of Surfshark One+ & Incogni is $95 for a limited time Critical Palo Alto VPN bug now exploited by Qilin ransomware gang ruzzia and uzzkies are only capable of toxicity. The day when they'll vanish- will be celebrated in centuries LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats Overdue a password health-check? Audit your Active Directory for free Webinar: Shadow AI in 2026 (and how attackers are taking advantage) See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. A report from the Ukrainian Computer Emergency Response Team (CERT) details a social engineering campaign attributed to UAC-0145, which is believed to be a sub-cluster of Sandworm (APT44). In the campaign, the threat actor targets victims while posing as IT companies and recruiters. The agency says that the attacker studies the targets' resumes uploaded on job sites and then initiates direct contact. Conversations are then moved to Telegram to arrange a video interview over Zoom. During the interview, which is conducted in English, the candidates receive mock technical assignments that require them to connect to a corporate VPN. In one case that CERT-UA observed, the attacker impersonated the international IT firm Sopra Steria using seemingly legitimate email addresses similar to the company’s office in Bulgaria. “In parallel, additional instructions for the technical interview are sent via email, including configuration files for connecting to a 'corporate' VPN using Wireguard (Linux/Windows) to supposedly perform test tasks,” CERT-UA says . The downloaded file is configured to produce a fake error. The attackers then prompt the victim to download a modified WireGuard-based client called “SopraVPN” from SourceForge. The SourceForge page even includes a link to soprasteria-bg[.]com to increase credibility, although the domain has no connection to the legitimate company. The trojanized client supports a malicious, nonstandard “SymmetricKey” configuration option that decrypts and executes embedded PowerShell code. On Windows, the malicious command creates a scheduled task and downloads an additional payload from the Internet. On Linux, it uses cURL to retrieve another executable from attacker-controlled infrastructure through the VPN. CERT-UA also noted that WireGuard’s standard Base64 decoding was replaced in the trojanized version with a custom, dynamically generated Base64 alphabet, which renders key strings unreadable with standard decoders and protects the PowerShell code from analysis. The Ukrainian cyber agency advises telecommunications providers and IT companies whose staff are targeted by this campaign to restrict corporate resource access to managed, continuously monitored devices protected by EDR, including when employees use personal equipment. APT44 is notorious for targeting critical infrastructure and government entities both in Ukraine , and also in other countries . Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Enhance privacy on up to 10 devices with this 5-year AdGuard VPN deal This 3-year Surfshark VPN deal covers unlimited devices for $84 A year of Surfshark One+ & Incogni is $95 for a limited time Critical Palo Alto VPN bug now exploited by Qilin ransomware gang ruzzia and uzzkies are only capable of toxicity. The day when they'll vanish- will be celebrated in centuries LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees Overdue a password health-check? Audit your Active Directory for free See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -2716,7 +3354,7 @@
     "category": "",
     "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
     "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-    "article_text": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. The flaw, tracked as CVE-2026-20349, has a severity score of 8.6 and impacts devices running Cisco Secure Firewall Adaptive Security Appliance (ASA) or Secure Firewall Threat Defense (FTD) software with certain remote access services enabled. In a security advisory published today, Cisco said the vulnerability is caused by insufficient error checking while processing HTTP requests. \"An attacker could exploit this vulnerability by sending a crafted HTTP request to the Remote Access SSL VPN service on an affected device,\" Cisco explains in the advisory . \"A successful exploit could allow the attacker to cause the affected device to reload, resulting in a DoS condition.\" The vulnerability can be exploited remotely without authentication or user interaction when SSL listen sockets are enabled. Vulnerable configurations include IKEv2 Remote Access VPN with client services, SSL VPN, and Zero Trust Network Access on FTD devices. Cisco says Secure Firewall Management Center (FMC) software is not affected. Cisco has released hot fixes for affected ASA 9.16, 9.18, 9.20, 9.22, 9.23, and 9.24 releases, as well as FTD releases 7.0, 7.2, 7.4, 7.6, 7.7, and 10.0. There are no workarounds for the vulnerability, and Cisco strongly recommends that customers upgrade to a fixed software release to fully remediate the issue. Cisco's PSIRT says it became aware of active exploitation of CVE-2026-20349 in August 2026, but the company has not shared additional information about the attacks, including who is exploiting the vulnerability or what organizations are being targeted. The vulnerability was also discovered during Cisco's internal security testing and independently reported to the company by security researcher Valerio Brussani. Cisco's advisory does not provide indicators of compromise associated with the ongoing exploitation. The company also disclosed this month that Secure Endpoint Connector for Windows, Mac, and Linux is vulnerable to ClamAV vulnerabilities with public exploits . However, the patches are not available yet and will be released later this month. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Cisco warns of high-severity ClamAV flaws with public exploits Cisco warns of FMC static credential flaw exploited in zero-day attacks CISA sets urgent deadline to fix Cisco flaw exploited in attacks Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks Critical Progress LoadMaster flaw now actively exploited in attacks Hackers breach TrueConf to trojanize client installers with backdoors LexisNexis shuts down services after suspicious activity on servers See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. The flaw, tracked as CVE-2026-20349, has a severity score of 8.6 and impacts devices running Cisco Secure Firewall Adaptive Security Appliance (ASA) or Secure Firewall Threat Defense (FTD) software with certain remote access services enabled. In a security advisory published today, Cisco said the vulnerability is caused by insufficient error checking while processing HTTP requests. \"An attacker could exploit this vulnerability by sending a crafted HTTP request to the Remote Access SSL VPN service on an affected device,\" Cisco explains in the advisory . \"A successful exploit could allow the attacker to cause the affected device to reload, resulting in a DoS condition.\" The vulnerability can be exploited remotely without authentication or user interaction when SSL listen sockets are enabled. Vulnerable configurations include IKEv2 Remote Access VPN with client services, SSL VPN, and Zero Trust Network Access on FTD devices. Cisco says Secure Firewall Management Center (FMC) software is not affected. Cisco has released hot fixes for affected ASA 9.16, 9.18, 9.20, 9.22, 9.23, and 9.24 releases, as well as FTD releases 7.0, 7.2, 7.4, 7.6, 7.7, and 10.0. There are no workarounds for the vulnerability, and Cisco strongly recommends that customers upgrade to a fixed software release to fully remediate the issue. Cisco's PSIRT says it became aware of active exploitation of CVE-2026-20349 in August 2026, but the company has not shared additional information about the attacks, including who is exploiting the vulnerability or what organizations are being targeted. The vulnerability was also discovered during Cisco's internal security testing and independently reported to the company by security researcher Valerio Brussani. Cisco's advisory does not provide indicators of compromise associated with the ongoing exploitation. The company also disclosed this month that Secure Endpoint Connector for Windows, Mac, and Linux is vulnerable to ClamAV vulnerabilities with public exploits . However, the patches are not available yet and will be released later this month. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Cisco warns of high-severity ClamAV flaws with public exploits Cisco warns of FMC static credential flaw exploited in zero-day attacks CISA sets urgent deadline to fix Cisco flaw exploited in attacks Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks Critical Progress LoadMaster flaw now actively exploited in attacks LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees Webinar: Shadow AI in 2026 (and how attackers are taking advantage) See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
@@ -2924,7 +3562,7 @@
     "category": "",
     "title": "Microsoft releases Windows 10 KB5120249 extended security update",
     "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
-    "article_text": "Microsoft has released the Windows 10 KB5120249 Extended Security Updates (ESU) for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. Today's update is mandatory as it contains the August 2026 Patch Tuesday security updates. You can install today's update by going to Start > Settings > Update & Security > Windows Update and clicking on 'Check for updates.' You can also manually download and install the update from the Microsoft Update Catalog . After installing today's update, Windows 10 will be updated to OS Builds 19045.7663 and 19044.7663. With today's update, Microsoft is fixing a File History backup issue and expanding the rollout of new Secure Boot certificates. Microsoft also said that Secure Boot certificate deployment via Windows updates continues across supported PCs and non-managed business devices in the coming months. Microsoft is not aware of any new issues with this month's Patch Tuesday update, but we'll update the article if we come across major problems. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft releases Windows 10 KB5099539 extended security update Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Windows 11 KB5101650 & KB5099414 cumulative updates released Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days Microsoft quietly extends free Windows 10 ESU support to October 2027 Hackers breach TrueConf to trojanize client installers with backdoors LexisNexis shuts down services after suspicious activity on servers Overdue a password health-check? Audit your Active Directory for free Webinar: Shadow AI in 2026 (and how attackers are taking advantage) See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Microsoft has released the Windows 10 KB5120249 Extended Security Updates (ESU) for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. Today's update is mandatory as it contains the August 2026 Patch Tuesday security updates. You can install today's update by going to Start > Settings > Update & Security > Windows Update and clicking on 'Check for updates.' You can also manually download and install the update from the Microsoft Update Catalog . After installing today's update, Windows 10 will be updated to OS Builds 19045.7663 and 19044.7663. With today's update, Microsoft is fixing a File History backup issue and expanding the rollout of new Secure Boot certificates. Microsoft also said that Secure Boot certificate deployment via Windows updates continues across supported PCs and non-managed business devices in the coming months. Microsoft is not aware of any new issues with this month's Patch Tuesday update, but we'll update the article if we come across major problems. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft releases Windows 10 KB5099539 extended security update Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Windows 11 KB5101650 & KB5099414 cumulative updates released Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days Microsoft quietly extends free Windows 10 ESU support to October 2027 LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Overdue a password health-check? Audit your Active Directory for free Webinar: Shadow AI in 2026 (and how attackers are taking advantage) See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -26048,660 +26686,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/vulnerabilities/7-zip-the-patch-existed-but-no-one-installs-it-without-auto-update"
-      }
-    ]
-  },
-  {
-    "id": "c9d214f414196e69",
-    "date": "2026-08-01T06:42:31.056623+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "SonicWall SMA 1000: Two Chained Zero-Days Exploited for 22 Days news ZERO-DAY",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/news/sonicwall-sma-1000-two-chained-zero-days-exploited-for-22-days",
-    "target": "SonicWall SMA 1000",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/sonicwall-sma-1000-two-chained-zero-days-exploited-for-22-days"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/sonicwall-sma-1000-the-unexpected-backdoor-active-exploitation-and-a-72-hour-patch-window"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/sonicwall-sma-1000-two-actively-exploited-zero-days-and-a-patch-that-isnt-enough"
-      }
-    ]
-  },
-  {
-    "id": "a96e68c7fb8973fb",
-    "date": "2026-08-01T06:29:05+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-    "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as",
-    "article_text": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake , a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945 . It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard , also known as APT29 and Cozy Bear. The U.S. and U.K. governments attribute the broader actor to Russia's Foreign Intelligence Service (SVR). On the compromised networks ReliaQuest investigated, the captive portal gateway also served as the DNS resolver assigned to connected devices. Administrative control of that gateway let the attackers forge Domain Name System (DNS) answers and redirect the resulting traffic. They could then redirect a laptop's automatic connectivity check to a fake browser or operating system update. Some pages use ClickFix instructions that tell victims to open a terminal or another Windows utility and run an attacker-supplied command. The gateway controls where the user is sent, but it does not silently infect the endpoint. The victim still has to download or execute the payload. Microsoft has observed the traffic manipulation since early May across hospitality networks in several countries, but it has not named a hotel, venue, or captive portal vendor. ReliaQuest recommends an always-on, full-tunnel virtual private network (VPN), which sends DNS queries through corporate resolvers before the venue's gateway can answer them. Researchers advise travelers to use private connections and reject software updates, certificates, browser updates, troubleshooting tools, or security utilities offered through captive portals. Since July 16, some CaptiveCrunch landing pages have redirected guests into Microsoft's device code authentication flow . Entering the attacker-supplied code on Microsoft's legitimate sign-in page can grant the attacker-controlled session multi-factor authentication (MFA)-satisfied access. Microsoft recommends blocking the flow through Conditional Access wherever it is not needed. CornFlake, a Go-based implant, copies itself to %APPDATA%\\svchost32\\svchost32.exe and registers the svchost32 service under the display name Cloud Sync Service . A fake progress window holds the victim's attention while this happens. The reports document active redirection and malware delivery, but do not quantify their reach or conversion. Without counts of successful executions, device-code approvals, or stolen accounts, the public record does not show how often a redirect became a compromise. Microsoft found common equipment and management systems across the affected networks, which it says could reflect access to shared services within portions of the captive portal ecosystem. If so, the compromises may not have been isolated to individual venues. Microsoft has not named any affected provider. ReliaQuest documented the same Microsoft-impersonating domains and overlapping infrastructure eight days earlier. It said the tradecraft resembled APT28, the GRU unit also called Fancy Bear and Forest Blizzard, but stopped short of attribution because the assessment rests on TTP overlap rather than direct technical linkage. Microsoft acknowledges the similarity to the Forest Blizzard router hijacking it disclosed in April while attributing CaptiveCrunch to Storm-2945. The U.K. National Cyber Security Centre and its international partners assess that APT29 is almost certainly part of Russia's Foreign Intelligence Service . That government attribution covers the broader APT29 group. The CaptiveCrunch-to-Storm-2945 link remains Microsoft's assessment. No separate public technical report has independently corroborated it. The initial compromise vector remains under investigation. ReliaQuest assesses with low-to-medium confidence that a combination of exposed management interfaces and weak or reused administrator credentials may have provided access, but said visibility constraints prevented confirmation. Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest repor",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-    "target": "Hijacked Hotel Wi-Fi Pushes",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html"
-      }
-    ]
-  },
-  {
-    "id": "2839e08fa6520870",
-    "date": "2026-08-01T04:41:51+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Arch Linux Disables AUR Package Takeovers as Attackers Push Malicious Commits",
-    "summary": "Arch Linux has temporarily disabled package adoption on its Arch User Repository (AUR) after security teams detected a wave of malicious takeovers and follow-up commits designed to compromise unsuspecting users. The move, announced by Robin Candau (known online as Antiz) on behalf of the Arch Linux DevOps team, comes as attackers increasingly exploit an abandoned […] The post Arch Linux Disables AUR Package Takeovers as Attackers Push Malicious Commits appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Arch Linux has temporarily disabled package adoption on its Arch User Repository (AUR) after security teams detected a wave of malicious takeovers and follow-up commits designed to compromise unsuspecting users.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/arch-linux-disables-aur-package/",
-    "target": "Arch Linux Disables AUR",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/arch-linux-disables-aur-package/"
-      }
-    ]
-  },
-  {
-    "id": "dc08602fe2010dec",
-    "date": "2026-08-01T03:50:29.389469+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "AsyncAPI: Five npm Packages Compromised with Valid Provenance CYBERSEC EXPLOIT",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/asyncapi-five-npm-packages-compromised-with-valid-provenance",
-    "target": "AsyncAPI",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/asyncapi-five-npm-packages-compromised-with-valid-provenance"
-      }
-    ]
-  },
-  {
-    "id": "693daa08b5058c44",
-    "date": "2026-08-01T03:50:29.389334+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "LegacyHive: The Windows Zero-Day With Free Micropatches While Microsoft Investigates VULN ZERO-DAY",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/legacyhive-the-windows-zero-day-with-free-micropatches-while-microsoft-investigates",
-    "target": "LegacyHive",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/legacyhive-the-windows-zero-day-with-free-micropatches-while-microsoft-investigates"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersec/legacyhive-zero-day-windows-flaw-patched-by-0patch-before-microsoft"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/zero/legacyhive-nightmare-eclipses-ninth-zero-day-pierces-fully-patched-windows"
-      }
-    ]
-  },
-  {
-    "id": "080cd54fa5441843",
-    "date": "2026-08-01T03:05:41+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "HackerOne Mandates ID Verification for Bug Bounty Submissions",
-    "summary": "HackerOne has confirmed that all hackers must now complete identity verification before submitting reports to any bug bounty program (BBP) on its platform, a move the company says is necessary to meet regulatory requirements. The policy distinguishes bug bounty programs from vulnerability disclosure programs (VDPs), which remain open to unverified researchers since no monetary reward […] The post HackerOne Mandates ID Verification for Bug Bounty Submissions appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "HackerOne has confirmed that all hackers must now complete identity verification before submitting reports to any bug bounty program (BBP) on its platform, a move the company says is necessary to meet regulatory requirem",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/hackerone-mandates-id-verification/",
-    "target": "HackerOne Mandates Verification Bounty",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/hackerone-mandates-id-verification/"
-      }
-    ]
-  },
-  {
-    "id": "b20bc709588a38e2",
-    "date": "2026-08-01T00:13:17.961278+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY Check Point's Firewall Brain Has a Trust-System Flaw",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/check-points-firewall-brain-has-a-trust-system-flaw",
-    "target": "ZERO-DAY Check Points Firewall",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/check-points-firewall-brain-has-a-trust-system-flaw"
-      }
-    ]
-  },
-  {
-    "id": "dcf3629d728cbc26",
-    "date": "2026-08-01T00:13:17.960642+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "npm/PyPI Supply Chain: When Sigstore Provenance Signs the Malware CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/npmpypi-supply-chain-when-sigstore-provenance-signs-the-malware",
-    "target": "Supply Chain",
-    "type": "Malware",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/npmpypi-supply-chain-when-sigstore-provenance-signs-the-malware"
-      }
-    ]
-  },
-  {
-    "id": "ea5e7928d960bd9a",
-    "date": "2026-08-01T00:13:16.164786+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Detection and Enforcement for Endpoint AI Agents",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Detection and Enforcement for Endpoint AI Agents",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vadzuv/detection_and_enforcement_for_endpoint_ai_agents/",
-    "target": "Detection Enforcement Endpoint Agents",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vadzuv/detection_and_enforcement_for_endpoint_ai_agents/"
-      }
-    ]
-  },
-  {
-    "id": "6b40fdbc816872f7",
-    "date": "2026-07-31T22:16:42+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-    "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-    "article_text": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. Amgen is a California-based biotechnology company that develops and manufactures medicines for serious illnesses, including cancer, cardiovascular disease, inflammation, and rare diseases. The company said it detected the unauthorized activity in July 2026 and responded by activating its cybersecurity response plan, implementing containment measures, and hiring independent forensic experts to investigate the incident. The investigation found that the attackers stole sensitive data from the cloud environments. \"The Company has since learned that some of its data, including proprietary data, patient protected health information, and other information, has been exfiltrated from these cloud environments,\" Amgen said in a Form 8-K filing with the SEC. The company is still determining whether additional information was accessed or stolen, including confidential business information, intellectual property, research and development data, and other patient information. Amgen has not disclosed which third-party cloud providers were involved, how the environments were compromised, how many people may have been affected, or whether the attack was linked to a known threat actor. On July 29, the company determined that the incident was material after evaluating the volume of potentially impacted files and the possibility that they contained sensitive information. However, Amgen currently does not believe the incident is reasonably likely to materially affect its financial condition or operating results. The company said it is continuing to investigate the breach with the assistance of third-party cybersecurity experts. Amgen added that it is evaluating legal and regulatory notification requirements and will notify impacted patients where required. BleepingComputer contacted Amgen to ask whether the breach involved a vishing attack targeting an employee's single sign-on account, which cloud services were affected, and whether the company has been contacted or extorted by threat actors claiming to be ShinyHunters. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare West Pharmaceutical says hackers stole data, encrypted systems Data breach at medical billing firm MCBS affects 1.26 million people Medtronic notifies customers impacted by ShinyHunters data breach Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests Microsoft Teams vishing attacks lead to Chaos ransomware attacks VMware fixes three critical flaws allowing auth bypass, VM escapes Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Overdue a password health-check? Audit your Active Directory for free Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-    "target": "Amgen",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/"
-      }
-    ]
-  },
-  {
-    "id": "df0eeb359235efe9",
-    "date": "2026-07-31T22:15:32.634045+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Prinz Eugen: The Ransomware That Encrypts Recent Files and Vanishes Without a Trace ransomware ZERO-DAY",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/ransomware/prinz-eugen-the-ransomware-that-encrypts-recent-files-and-vanishes-without-a-trace",
-    "target": "Prinz Eugen",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ransomware/prinz-eugen-the-ransomware-that-encrypts-recent-files-and-vanishes-without-a-trace"
-      }
-    ]
-  },
-  {
-    "id": "c5b01ed1327c12e8",
-    "date": "2026-07-31T21:38:08+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Arch Linux disables AUR package adoption to stop malware flood",
-    "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-    "article_text": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. The decision was announced on the distribution's mailing list by contributor Robin Candau, who said that the situation is temporary until a solution is found. “Due to the current influx of malicious package adoptions and follow-up commits made via the AUR, package adoption is currently disabled while we are handling the situation,” announced Candau . “We will send a follow-up once we're able to. In the meantime, feel free to report suspicious adoption events or commits that haven't been dealt with yet, and stay vigilant!” Independent Federated Intelligence Network (IFIN) conducted a technical analysis of the malware and reported that the campaign began on July 29 with the package ‘openconnect-sso.’ IFIN reports that the campaign bears many similarities to the last campaign, including the use of the Tor network for staging. In June, a separate campaign hit AUR via more than 400 packages , distributing a Linux rootkit and info-stealer malware to unsuspecting users. In the latest attack, the researchers identified a two-stage infection, with the first stage acting as the loader, and the second one being a Linux x86_64 payload described as stealer malware with remote administration (RAT) and SSH worm features. Further analysis showed that the first-stage loader evades detection by checking for debuggers, sandboxes, virtual machines, and CI/CD environments before installing systemd services and cron jobs to ensure persistence. It then downloads and launches a Tor client disguised as dbus-daemon to retrieve the second-stage payload from an ‘.onion’ server. The second stage is a Rust-based infostealer that targets browser credentials, cryptocurrency wallets, password manager data, cloud and developer secrets, AI service API keys, SSH keys, and messaging platform tokens. It also provides the attacker with remote command execution over an encrypted Tor channel and can spread laterally by using stolen SSH keys to copy and execute itself on other systems. A Reddit user tracking the campaign alleges that it has expanded to over 200 AUR packages , either through compromised maintainer accounts or by adopting orphaned packages. According to the same researcher, the campaign has spread to fairly popular AUR packages such as boringssl-git, icloudpd, windscribe-cli-v2-bin, stirling-pdf-desktop-bin, openconnect-sso, arduino-language-server-noclang-bin, and pgadmin4-server. The compromised status of these packages has not been independently confirmed, and a list of all 200 AUR packages believed to be malicious has not been made available as of publication. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Over 400 Arch Linux packages compromised to push rootkit, infostealer Microsoft warns of surge in ACR Stealer attacks on customers New ClickLock macOS malware traps users into revealing login password Nearly 300 GitHub repos pose as legit software to push malware New CrashStealer malware poses as Apple crash reporting tool Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests Microsoft Teams vishing attacks lead to Chaos ransomware attacks Amgen says cloud data breach exposed patient health, proprietary info Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Overdue a password health-check? Audit your Active Directory for free Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-    "target": "Arch Linux AUR",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/"
-      }
-    ]
-  },
-  {
-    "id": "ec089a2f776be69e",
-    "date": "2026-07-31T21:09:25+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
-    "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
-    "article_text": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors’ clipboards with ones controlled by an attacker. Adform is one of Europe’s largest adtech firms, providing a full-stack platform that includes Demand-Side Platform (DSP), Supply-Side Platform (SSP), ad servers, and management tools. Security researcher Kevin Beaumont discovered the malicious activity, saying that it stemmed from ‘trackpoint-async.js,’ Adform’s JavaScript tracking script served from ‘s2.adform.net’ and embedded in every website using the advertising platform. According to the researcher, the trojanized JavaScript continuously monitors the clipboard of users visiting websites that embed trackpoint-async.js . If the script detected Bitcoin, Ethereum, or TRON wallet addresses, it replaced them with an attacker-controlled address to redirect cryptocurrency payments. “This allows end-user devices of downstream websites to be compromised with crypto-stealing malware. Meaning if you visit example.com and they use Adform, example.com will compromise your device,” Beaumont explains . The researcher also observed other malicious Adform-hosted scripts communicating with an attacker-controlled server at 84.32.102[.]230:7744, sending the victim's IP address, referring website, and URL path. Running the script through the VirusTotal scanning platform shows that it is not flagged as malicious by any of the available antivirus engines. Beaumont notes that the malicious code was removed from Adform’s tracking script soon after his discovery. Adform confirmed its detected suspicious activity on July 27 and discovered a \"cybersecurity threat.\" The company said that it removed the malicious code and \"took further measures to protect website visitors, our clients, and the Adform platform.\" \"To our knowledge, the code was not designed to install software on a user’s device or establish persistence. It operated only while an affected webpage was open,\" Adform says . The company states that its services are now safe to use but its investigation continues. \"Adform has informed affected clients through dedicated communications and provided them with relevant information and recommended actions.\" Beaumont has shared a sample of the malicious script via Pastebin for security engineers to analyze. BleepingComputer's analysis of a sample stored on Archive.org also confirmed that a self-executing payload had been injected into the Adform tracking library served from the company's infrastructure. The malicious code was appended in obfuscated form at the end of the legitimate library and included a function that replaced any string matching a crypto wallet address format. Apart from hijacking clipboard content, the malware can also rewrite wallet addresses on web pages. This way, if a payment address is displayed, it would be the attacker's. Beaumont says the malicious activity delivered through Adform has been ongoing for the past week without being detected. The oldest sample BleepingComputer could find was from from the Archive.org snapshot on July 26, taken at 23:29:03 GMT. BleepingComputer has contacted Adform to request a statement regarding Beaumont’s findings and will update the story if we receive a response. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. AsyncAPI npm packages infected with credential-stealing malware Injective SDK on npm infected with cryptocurrency wallet stealer USB worm spreads crypto-stealing malware via Windows shortcut files OptinMonster WordPress plugin hacked in CDN supply-chain attack OpenAI models used Artifactory zero-days to escape to the internet Russian hackers exploit Exchange OWA zero-day for long-term mailbox access Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Overdue a password health-check? Audit your Active Directory for free Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Read our posting guidelinese ",
-    "quick_summary": [
-      "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controll",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-    "target": "Online Adforms",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/"
-      }
-    ]
-  },
-  {
-    "id": "5578ca75d3ad6ffa",
-    "date": "2026-07-31T21:01:37+00:00",
-    "source": "Microsoft Security Blog",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
-    "summary": "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch. The post CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft appeared first on Microsoft Security Blog .",
-    "article_text": "",
-    "quick_summary": [
-      "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware t",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
-    "target": "CaptiveCrunch",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Microsoft Security Blog"
-    ],
-    "links": [
-      {
-        "source": "Microsoft Security Blog",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/"
-      }
-    ]
-  },
-  {
-    "id": "278ee8245d55747e",
-    "date": "2026-07-31T20:01:51+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Anthropic Says Claude Models Hacked 3 Organizations During Cyber Tests",
-    "summary": "Anthropic found Claude accessed systems at three real businesses after a testing error gave its AI models live internet access during cybersecurity evaluations.",
-    "article_text": "",
-    "quick_summary": [
-      "Anthropic found Claude accessed systems at three real businesses after a testing error gave its AI models live internet access during cybersecurity evaluations.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/anthropic-claude-models-hacked-organizations-cyber-tests/",
-    "target": "Anthropic Claude Models Hacked",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/anthropic-claude-models-hacked-organizations-cyber-tests/"
-      }
-    ]
-  },
-  {
-    "id": "269ba80dfb950a13",
-    "date": "2026-07-31T18:52:44+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-    "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
-    "article_text": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna’s API price by 80% and Terra’s by 20% as it works to make its models more efficient. As per the updated pricing, GPT-5.6 Luna now costs $0.20 per million input tokens and $1.20 per million output tokens, down from $1 and $6. Likewise, Terra has dropped from $2.50 to $2 per million input tokens and from $15 to $12 per million output tokens. In a post on X, OpenAI also noted that the new prices affect how it counts usage in Codex and ChatGPT Work. For example, if new tasks use these models, they deduct less from customers’ allowances, so you can complete more work under the same quota. OpenAI is also upgrading Auto-review in the ChatGPT app and Codex CLI from GPT-5.4 to GPT-5.6 Luna, which should reduce the cost by approximately ten times. OpenAI has also built a Fast mode for API customers, but there won't be any changes to Sol's standard pricing, at least not now. GPT-5.6 Sol Fast mode is up to 2.5 times faster than standard processing without reducing the model’s intelligence. The extra performance comes at twice the standard API price, which means it's particularly designed for time-sensitive coding, research, and agentic workloads. In all other use cases, you really don't need GPT-5.6 Sol Fast mode. According to the company, GPT-5.6 Sol's recent improvements have allowed it to achieve the efficiency gains behind the Luna and Terra reductions. In its own test results, OpenAI also places Luna at the top of its intelligence index among the compared models, despite its substantially lower cost per task. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems Leak confirms OpenAI is testing a ChatGPT for Science subscription Cybersecurity firms targeted by fraudulent OpenAI organization invites Must be more and more people, like I did, switch to stuff like kimi k3... \"OpenAI also places Luna at the top of its intelligence index\"... and like the diagram in the text above, both declarations made by Mr Altman, who never lies ???? We all know, the panic has already begun..... Arch Linux disables AUR package adoption to stop malware flood Hacker uses DeepSeek AI to autonomously attack vulnerable servers Amgen says cloud data breach exposed patient health, proprietary info Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Overdue a password health-check? Audit your Active Directory for free Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-    "target": "OpenAI GPT 5.6",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/"
-      }
-    ]
-  },
-  {
-    "id": "56810ece58efcc00",
-    "date": "2026-07-31T18:52:04+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-    "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizations operate across several sectors, such as healthcare, research, government offices,",
-    "article_text": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizations operate across several sectors, such as healthcare, research, government offices, ministries of foreign affairs, logistics, law-enforcement agencies, urban planning and facilities management, and public educational establishments, per Kaspersky. The activity has not been linked to any known adversary or group. The attacks are characterized by the use of two new obfuscated backdoors the Russian cybersecurity company is tracking as OctLurk and SilkLurk , as well as a specialized utility codenamed LurkProxy to proxy network traffic. \"OctLurk and SilkLurk can download and inject additional plugins to perform further malicious actions, including launching command shells, performing file system activity, synthesizing keyboard and mouse events, network scanning, credential dumping, keylogging, password theft from browsers, email collection, and remote access,\" researchers Saurabh Sharma and Yaroslav Kikel said . The initial access vector used in these attacks is currently unknown. However, Kaspersky's analysis has found that OctLurk is injected into memory and deployed by means of a loader, with the attackers also checking internet connectivity to the domain \"dns.ssentialserv[.]xyz\" before executing a batch script responsible for launching LurkProxy. The tool then establishes contact with a remote server (\"154.196.162[.]76\") for command-and-control (C2). Once run, OctoLurk first collects system information, encrypts it, and sends it to a hard-coded C2 server (\"dns.multitoconference[.]com\") over a stream socket connection. It's equipped to load plugins received from the server directly into memory to enable command execution, file operations, clipboard content gathering and modification, screenshot capture, and mouse movements. The threat actors have been found to leverage the backdoor's command shell plugin to perform the following series of actions - LurkProxy, for its part, can function as a reverse proxy in two distinct modes, either as a SOCKS5 proxy or a transparent proxy. At any given time, the malware can operate in only one mode to route network traffic through a target address. The third tool in the threat actor's arsenal is SilkLurk, which is launched by means of a DLL that, in turn, is executed using a DLL side-loading sequence. The backdoor then creates a TCP socket and connects to a C2 server specified in its configuration, followed by collecting victim information and transmitting it to the server. In response, the server sends a command that's to be executed on the infected endpoint. This can involve getting the system's local time, setting a sleep interval that determines the frequency at which the backdoor polls the C2 server, sending or updating backdoor configuration, and receiving and injecting additional plugins into memory. Kaspersky said it found infrastructure overlaps between the campaign and a prior set of attacks involving a C++-based implant codenamed SilentRaid (aka MystRodX and TrustFall). \"This overlap points to shared infrastructure across multiple OS-targeting campaigns, though it remains unclear whether these activities ran concurrently or at different times,\" Kaspersky said. \"The emergence of the OctLurk and SilkLurk multi-plugin malware framework highlights how threat actors continuously refine their tactics to evade detection and maintain control over compromised networks.\" \"Both families operate primarily in memory, leaving only a minimalistic loader on disk that relies on machine-specific data (OctLurk uses the drive serial number, and SilkLurk uses the computer name) to decode payload locations and contents. This victim-specific encoding makes reverse engineering and automated detection considerably harder.\" Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakh",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-    "target": "Suspected Chinese-Speaking Target Central",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html"
-      }
-    ]
-  },
-  {
-    "id": "baa73fb7ffb81725",
-    "date": "2026-07-31T18:13:11+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
-    "summary": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
-    "article_text": "",
-    "quick_summary": [
-      "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
-    "target": "CISA Issues Fresh SBOM",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance"
-      }
-    ]
-  },
-  {
-    "id": "f5a50cc51273e0d2",
-    "date": "2026-07-31T17:35:35+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-    "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
-    "article_text": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. The activity was discovered by Palo Alto Networks' Unit 42 researchers after Hermes accidentally created a web server from its home directory, exposing the attacker's environment, including API keys, exploit scripts, target lists, shell history, and AI attack logs. Unit 42 attributed the activity to a China-based threat actor operating under the aliases \"knaithe\" and \"KnYuan,\" who calls themself a \"binary security researcher.\" While the autonomous attacks observed by Unit 42 did not successfully compromise the targeted servers, the researchers say the campaign illustrates an offensive AI workflow capable of discovering, evaluating, and attacking vulnerable systems. \"While the observed campaign had limited impacts, the workflow confirms a functional, end-to-end autonomous offensive capability,\" Unit 42 said . The threat actor used DeepSeek as the reasoning engine behind Hermes Agent, an open-source AI framework capable of interacting with operating system terminals, running commands, and connecting to the internet. The agent supports a \"Yolo\" mode that allows it to operate and execute commands, even risky ones, without first requesting permission from its operator. Hermes was configured to accept instructions from a Telegram channel, use custom offensive-security skills, and integrate with the FOFA internet asset search engine. Unit 42 recovered a May 2026 session in which the operator appears to have provided only an initial task, after which the agent conducted the remaining activity autonomously without human feedback. The agent first targeted internet-exposed Langflow servers vulnerable to CVE-2026-33017, downloading a public proof-of-concept exploit, identifying 84 exposed instances through FOFA, and scanning them for vulnerable configurations. After determining that the available targets could not be exploited, the agent searched for other potential vulnerabilities to scan for vulnerable devices. DeepSeek then analyzed multiple public exploit repositories before selecting the n8n workflow automation platform to target, which had more than 647,000 exposed instances identified through FOFA. The agent downloaded an exploit that chained CVE-2026-21858 and CVE-2025-68613, identified servers running vulnerable versions, and checked them for unauthenticated file-upload forms required to complete the attack. However, the discovered forms required authentication, and Unit 42 says the autonomous attempts failed to compromise any targets. Unit 42 says the campaign is significant because the agent independently researched vulnerabilities, determined which targets were the best option, downloaded exploit code, and then attempted to exploit found targets in minutes what would normally take many hours. \"This autonomous process of target identification, sampling and narrowing of scope is notable because the system executed hundreds of hours of manual targeting analysis in mere minutes, while also managing its own compute resources,\" explained Palo Alto. While the AI agent was used extensively, the threat actor also conducted manual attacks against more than 460 systems using vulnerabilities affecting Citrix NetScaler, Apache Tomcat, Marimo Notebook, Windows IKE VPN, and other products. The actor had also configured other AI coding platforms, including Qwen, GLM, Kimi, MiniMax, Claude Code, and OpenAI's Codex, but Unit 42 found that they were not used often. The exposed AI campaign comes after another recently disclosed incident in which poorly secured Hermes infrastructure exposed details about an alleged cyberattack against Thailand's Ministry of Finance . Last week, BleepingComputer reported that Hunt.io and security researcher Bob Diachenko discovered open web directories containing exploit tools, web shells, credentials, compiled payloads, and Hermes activity logs. Those logs showed Hermes running in unattended \"YOLO\" mode to automate post-exploitation activity, including searching for privilege-escalation opportunities, enumerating services, inspecting containers, traversing filesystems, and cataloging documents stored on Ministry of Finance systems. However, the earlier incident did not show Hermes independently choosing the target or determining how to compromise it. A human operator supplied the target, objectives, and attack tools, while He",
-    "quick_summary": [
-      "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-    "target": "DeepSeek",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/"
-      }
-    ]
-  },
-  {
-    "id": "7dda23e89a450099",
-    "date": "2026-07-31T17:35:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Cyber Command plans Silicon Valley office to drive innovation",
-    "summary": "The outpost will have its own director, though no one has yet been named for the post, and support the command’s nascent Cyber Warfare Innovation Center (CIWC).",
-    "article_text": "",
-    "quick_summary": [
-      "The outpost will have its own director, though no one has yet been named for the post, and support the command’s nascent Cyber Warfare Innovation Center (CIWC).",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/cyber-command-plans-silicon-valley-office-to-drive-innovation",
-    "target": "Command Silicon Valley",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/cyber-command-plans-silicon-valley-office-to-drive-innovation"
-      }
-    ]
-  },
-  {
-    "id": "f90dce2200a73da6",
-    "date": "2026-07-31T17:29:19+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Your Incident Response Plan Has a Dependency You Never Approved",
-    "summary": "During the first publicly documented agent-driven intrusion, the defenders tried to analyze the attack with commercial AI models and were refused. The attacker was operating under no usage policy at all. By Brad LaPorte The most quietly alarming sentence in the Hugging Face disclosure was not about the attacker. On July 16, 2026, Hugging Face published […] The post Your Incident Response Plan Has a Dependency You Never Approved appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "During the first publicly documented agent-driven intrusion, the defenders tried to analyze the attack with commercial AI models and were refused.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/your-incident-response-plan-has-a-dependency-you-never-approved/",
-    "target": "Your Incident Response Plan",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/your-incident-response-plan-has-a-dependency-you-never-approved/"
-      }
-    ]
-  },
-  {
-    "id": "23671fc3c154c2d6",
-    "date": "2026-07-31T16:56:47.680376+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY SonicWall SMA 1000: Two Chained Zero-Days Exploited for 22 Days",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/news/sonicwall-sma-1000-two-chained-zero-days-exploited-for-22-days",
-    "target": "ZERO-DAY SonicWall SMA 1000",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/sonicwall-sma-1000-two-chained-zero-days-exploited-for-22-days"
       }
     ]
   }
