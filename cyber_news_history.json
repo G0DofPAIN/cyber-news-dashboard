@@ -1,73 +1,7 @@
 [
   {
-    "id": "ef8059d93ac4056e",
-    "date": "2026-08-12T08:39:13.968671+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE Lazarus Strikes with CVE-2026-68820: Microsoft Zero-Day in Defense Sector",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/lazarus-strikes-with-cve-2026-68820-microsoft-zero-day-in-defense-sector",
-    "target": "CVE Lazarus Strikes CVE-2026-68820",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/lazarus-strikes-with-cve-2026-68820-microsoft-zero-day-in-defense-sector"
-      }
-    ]
-  },
-  {
-    "id": "dc9a45f2b3f4078f",
-    "date": "2026-08-12T08:39:13.968565+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Sony XAV-9500ES: AVRCP Heap Overflow Enables RCE via Bluetooth",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/sony-xav-9500es-avrcp-heap-overflow-enables-rce-via-bluetooth",
-    "target": "CRITICAL Sony XAV-9500ES",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/sony-xav-9500es-avrcp-heap-overflow-enables-rce-via-bluetooth"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/sony-xav-9500es-bluetooth-rce-found-at-pwn2own-fix-available"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/sony-xav-9500es-bluetooth-turns-weapon-from-pwn2own-to-the-parking-lot"
-      }
-    ]
-  },
-  {
     "id": "31e17cb3206141f8",
-    "date": "2026-08-12T08:39:13.968454+00:00",
+    "date": "2026-08-12T10:19:38.237057+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -96,7 +30,7 @@
   },
   {
     "id": "4007ed0f5062beb7",
-    "date": "2026-08-12T08:39:13.968330+00:00",
+    "date": "2026-08-12T10:19:38.236933+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -125,7 +59,7 @@
   },
   {
     "id": "331a00ed64e3076b",
-    "date": "2026-08-12T08:39:13.968213+00:00",
+    "date": "2026-08-12T10:19:38.236814+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -154,7 +88,7 @@
   },
   {
     "id": "60fceacbc08415b4",
-    "date": "2026-08-12T08:39:13.968099+00:00",
+    "date": "2026-08-12T10:19:38.236704+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -182,42 +116,13 @@
     ]
   },
   {
-    "id": "aa42682725de6b98",
-    "date": "2026-08-12T08:39:13.967952+00:00",
+    "id": "4aa48d37626294b2",
+    "date": "2026-08-12T10:19:38.236594+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CISA Confirms SharePoint Ransomware Exploitation; Microsoft Stays Silent VULN",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/cisa-confirms-sharepoint-ransomware-exploitation-microsoft-stays-silent",
-    "target": "CISA Confirms SharePoint Ransomware",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/cisa-confirms-sharepoint-ransomware-exploitation-microsoft-stays-silent"
-      }
-    ]
-  },
-  {
-    "id": "bdcdce4e78a122ed",
-    "date": "2026-08-12T08:39:13.967833+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Head Mare APT Turns TrueConf Servers into Supply-Chain Attack Vehicles CYBERSEC ZERO-DAY",
+    "title": "CVE CVE-2026-54984: RCE in Windows ICC Parser, but the Vector Is Local",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -225,8 +130,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles",
-    "target": "Head Mare APT Turns",
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-54984-rce-in-windows-icc-parser-but-the-vector-is-local",
+    "target": "CVE CVE-2026-54984",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -235,13 +140,42 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles"
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-54984-rce-in-windows-icc-parser-but-the-vector-is-local"
+      }
+    ]
+  },
+  {
+    "id": "6e61a9dc9b625a0c",
+    "date": "2026-08-12T10:19:38.236483+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Phoenix Contact CHARX SEC-3000: RCE as Root via Command Injection",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/phoenix-contact-charx-sec-3000-rce-as-root-via-command-injection",
+    "target": "CRITICAL Phoenix Contact CHARX",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/phoenix-contact-charx-sec-3000-rce-as-root-via-command-injection"
       }
     ]
   },
   {
     "id": "4350730caf27dfec",
-    "date": "2026-08-12T08:39:13.967720+00:00",
+    "date": "2026-08-12T10:19:38.236369+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -270,7 +204,7 @@
   },
   {
     "id": "3dd533982e4930c9",
-    "date": "2026-08-12T08:39:13.967609+00:00",
+    "date": "2026-08-12T10:19:38.236235+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -298,8 +232,37 @@
     ]
   },
   {
+    "id": "9d8b177b53c32ecb",
+    "date": "2026-08-12T10:19:38.236113+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Lazarus Strikes with CVE-2026-68820: Microsoft Zero-Day in Defense Sector CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/lazarus-strikes-with-cve-2026-68820-microsoft-zero-day-in-defense-sector",
+    "target": "Lazarus Strikes CVE-2026-68820",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/lazarus-strikes-with-cve-2026-68820-microsoft-zero-day-in-defense-sector"
+      }
+    ]
+  },
+  {
     "id": "91839c9c18018a92",
-    "date": "2026-08-12T08:39:13.967367+00:00",
+    "date": "2026-08-12T10:19:38.235993+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -328,7 +291,7 @@
   },
   {
     "id": "5ef0fb61644db849",
-    "date": "2026-08-12T08:39:13.967221+00:00",
+    "date": "2026-08-12T10:19:38.235849+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -364,13 +327,42 @@
     ]
   },
   {
-    "id": "70178cbeb2ac06b8",
-    "date": "2026-08-12T08:39:13.966060+00:00",
+    "id": "2705ef0077e0595c",
+    "date": "2026-08-12T10:19:38.235729+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Parallels RAS Client: Local Privilege Escalation to SYSTEM via Exposed Dangerous Function",
+    "title": "Wazuh DAPI RCE: From Compromised Worker Node to Root Code Execution on Master news CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/news/wazuh-dapi-rce-from-compromised-worker-node-to-root-code-execution-on-master",
+    "target": "Wazuh DAPI RCE",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/wazuh-dapi-rce-from-compromised-worker-node-to-root-code-execution-on-master"
+      }
+    ]
+  },
+  {
+    "id": "8cf85abec30955c0",
+    "date": "2026-08-12T10:19:38.234699+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "VULN Parallels RAS Client: Local Privilege Escalation to SYSTEM via Exposed Dangerous Function Aug 12, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -379,7 +371,7 @@
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/vulnerabilities/parallels-ras-client-local-privilege-escalation-to-system-via-exposed-dangerous-function",
-    "target": "Parallels RAS Client",
+    "target": "VULN Parallels RAS Client",
     "type": "Data Leak / Breach",
     "severity": "Low",
     "sources": [
@@ -394,12 +386,12 @@
   },
   {
     "id": "2f8d3975edbdd1db",
-    "date": "2026-08-12T08:39:13.965828+00:00",
+    "date": "2026-08-12T10:19:38.234226+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 5 ZERO-DAY · 11 CVE · 11 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
+    "title": "// 1 CRITICAL · 6 ZERO-DAY · 13 CVE · 13 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -423,7 +415,7 @@
   },
   {
     "id": "12160ab45a8d0294",
-    "date": "2026-08-12T08:39:12.869510+00:00",
+    "date": "2026-08-12T10:19:37.451878+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -499,37 +491,8 @@
     ]
   },
   {
-    "id": "9dd19a09076d62d1",
-    "date": "2026-08-12T08:39:11.716471+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Hardware Hacking: From zero to a Pre-Auth Stack Buffer Overflow on Amazon's best-selling router",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Hardware Hacking: From zero to a Pre-Auth Stack Buffer Overflow on Amazon's best-selling router",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vfdep6/hardware_hacking_from_zero_to_a_preauth_stack/",
-    "target": "Hardware",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vfdep6/hardware_hacking_from_zero_to_a_preauth_stack/"
-      }
-    ]
-  },
-  {
     "id": "5660a088a54346e8",
-    "date": "2026-08-12T08:39:11.716336+00:00",
+    "date": "2026-08-12T10:19:36.347361+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -558,7 +521,7 @@
   },
   {
     "id": "ab8ddee2f9caf0ef",
-    "date": "2026-08-12T08:39:11.716208+00:00",
+    "date": "2026-08-12T10:19:36.347214+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -587,7 +550,7 @@
   },
   {
     "id": "020b6398d8c64fe8",
-    "date": "2026-08-12T08:39:11.716068+00:00",
+    "date": "2026-08-12T10:19:36.347082+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -616,7 +579,7 @@
   },
   {
     "id": "42646be5e0292f4f",
-    "date": "2026-08-12T08:39:11.715897+00:00",
+    "date": "2026-08-12T10:19:36.346943+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -645,7 +608,7 @@
   },
   {
     "id": "591612a6f556b244",
-    "date": "2026-08-12T08:39:11.715773+00:00",
+    "date": "2026-08-12T10:19:36.346822+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -674,7 +637,7 @@
   },
   {
     "id": "68793442dc0dec51",
-    "date": "2026-08-12T08:39:11.715638+00:00",
+    "date": "2026-08-12T10:19:36.346689+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -703,7 +666,7 @@
   },
   {
     "id": "2eb6fa64547670a9",
-    "date": "2026-08-12T08:39:11.715509+00:00",
+    "date": "2026-08-12T10:19:36.346562+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -732,7 +695,7 @@
   },
   {
     "id": "6089be6847529c0b",
-    "date": "2026-08-12T08:39:11.715372+00:00",
+    "date": "2026-08-12T10:19:36.346420+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -761,7 +724,7 @@
   },
   {
     "id": "6294d1da87bfef9a",
-    "date": "2026-08-12T08:39:11.715234+00:00",
+    "date": "2026-08-12T10:19:36.346233+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -790,7 +753,7 @@
   },
   {
     "id": "891b694facaaa612",
-    "date": "2026-08-12T08:39:11.715091+00:00",
+    "date": "2026-08-12T10:19:36.346095+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -819,7 +782,7 @@
   },
   {
     "id": "74b2a7d73c93d327",
-    "date": "2026-08-12T08:39:11.714928+00:00",
+    "date": "2026-08-12T10:19:36.345968+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -848,7 +811,7 @@
   },
   {
     "id": "bf08a0c2cf461b2a",
-    "date": "2026-08-12T08:39:11.714802+00:00",
+    "date": "2026-08-12T10:19:36.345844+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -877,7 +840,7 @@
   },
   {
     "id": "36b75d2e2b641bbb",
-    "date": "2026-08-12T08:39:11.714679+00:00",
+    "date": "2026-08-12T10:19:36.345723+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -906,7 +869,7 @@
   },
   {
     "id": "4c672297a6dc990b",
-    "date": "2026-08-12T08:39:11.714552+00:00",
+    "date": "2026-08-12T10:19:36.345598+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -935,7 +898,7 @@
   },
   {
     "id": "2c7d6de428c373eb",
-    "date": "2026-08-12T08:39:11.714405+00:00",
+    "date": "2026-08-12T10:19:36.345452+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -964,7 +927,7 @@
   },
   {
     "id": "a4e1da6a2a0a21b3",
-    "date": "2026-08-12T08:39:11.714266+00:00",
+    "date": "2026-08-12T10:19:36.345307+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -993,7 +956,7 @@
   },
   {
     "id": "9a90234417c54fc2",
-    "date": "2026-08-12T08:39:11.714121+00:00",
+    "date": "2026-08-12T10:19:36.345147+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1022,7 +985,7 @@
   },
   {
     "id": "55f144bdf0c1d1b5",
-    "date": "2026-08-12T08:39:11.713974+00:00",
+    "date": "2026-08-12T10:19:36.345016+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1051,7 +1014,7 @@
   },
   {
     "id": "90180ea26e0eb3f5",
-    "date": "2026-08-12T08:39:11.713817+00:00",
+    "date": "2026-08-12T10:19:36.344877+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1079,8 +1042,37 @@
     ]
   },
   {
+    "id": "285ea12d6da7774f",
+    "date": "2026-08-12T10:19:36.344740+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ERPNext's Document Follow feature exposed unauthorized data",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ERPNext's Document Follow feature exposed unauthorized data",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vm95nk/erpnexts_document_follow_feature_exposed/",
+    "target": "ERPNexts Document Follow",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vm95nk/erpnexts_document_follow_feature_exposed/"
+      }
+    ]
+  },
+  {
     "id": "c19e18f78f756ba1",
-    "date": "2026-08-12T08:39:11.713687+00:00",
+    "date": "2026-08-12T10:19:36.344614+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1109,7 +1101,7 @@
   },
   {
     "id": "3a7558e65b571e5d",
-    "date": "2026-08-12T08:39:11.713550+00:00",
+    "date": "2026-08-12T10:19:36.344471+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1138,7 +1130,7 @@
   },
   {
     "id": "b3a2cf4f7a8c4a00",
-    "date": "2026-08-12T08:39:11.713398+00:00",
+    "date": "2026-08-12T10:19:36.344315+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1167,7 +1159,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-12T08:39:11.713246+00:00",
+    "date": "2026-08-12T10:19:36.344141+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1204,7 +1196,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-12T08:39:11.713027+00:00",
+    "date": "2026-08-12T10:19:36.343934+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1232,6 +1224,246 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "37aefad8a84e124b",
+    "date": "2026-08-12T10:15:22+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+    "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+    "article_text": "A security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \" ShieldBreak \" after Microsoft released the August 2026 Patch Tuesday security updates. The new vulnerability is described as a bypass for RoguePlanet , another Defender privilege escalation flaw disclosed in June and patched by Microsoft one month later. As Nightmare Eclipse explained, ShieldBreak can be used to gain SYSTEM privileges on fully patched Windows 10, Windows 11, and Windows Server systems. \"Microsoft has failed to properly patch the RoguePlanet vulnerability CVE-2026-50656, this PoC demonstrates a full patch bypass,\" they said . \"The PoC was tested in the latest version of windows 11 25h2 (+Canary channel) and windows server 2025, the PoC also have a 100% success rate. Please note that Windows 10 (and respective server editions) are not currently supported, they are however vulnerable to ShieldBreak as well.\" Will Dormann, principal vulnerability analyst at Tharros, confirmed on Tuesday that the exploit works , saying that Microsoft Defender needs to be enabled for the ShieldBreak exploit to escalate attackers' privileges. The ShieldBreak exploit is part of an ongoing and heated dispute between Microsoft and Nightmare Eclipse over the company's vulnerability disclosure and bug bounty practices. Microsoft responded to Nightmare Eclipse's disclosures with warnings of legal action against people engaging in \"malicious activity causing real harm\" to its customers, which prompted cybersecurity experts to believe the company was directly threatening the security researcher. Since April 2026, the anonymous researcher has disclosed multiple other zero-day exploits for security flaws in Microsoft Defender, BitLocker, and various Windows components, including LegacyHive , RoguePlanet , BlueHammer , RedSun , YellowKey , GreenPlasma , MiniPlasma , and UnDefend . While Microsoft fixed the RoguePlanet vulnerability in July and the YellowKey, GreenPlasma, and MiniPlasma flaws as part of the June 2026 Patch Tuesday , the other vulnerabilities disclosed by Nightmare Eclipse are still waiting for an official patch. BleepingComputer has contacted a Microsoft spokesperson about the new ShieldBreak zero-day and will update the story if we receive a statement. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft patches RoguePlanet Defender zero-day vulnerability Microsoft working on Defender patch for RoguePlanet zero-day Windows LegacyHive zero-day flaw gets free, unofficial patches New Windows LegacyHive zero-day gives hackers admin privileges Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges LexisNexis shuts down services after suspicious activity on servers Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days Overdue a password health-check? Audit your Active Directory for free Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats Webinar: Shadow AI in 2026 (and how attackers are taking advantage) See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+    "target": "Microsoft Defender ShieldBreak SYSTEM",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/"
+      }
+    ]
+  },
+  {
+    "id": "9169a6494b0fe6fd",
+    "date": "2026-08-12T09:55:45+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
+    "summary": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users. The post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
+    "target": "2500 Organizations Impacted LiteLLM",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/"
+      }
+    ]
+  },
+  {
+    "id": "49cb88b015a04907",
+    "date": "2026-08-12T09:01:54+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+    "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
+    "article_text": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were released by Broadcom late last month. The German cybersecurity company said it discovered the activity following an incident response engagement. The attack chain is said to have exhibited path traversal activity consistent with the flaw, followed by the deployment of a malicious cron job to establish persistence on the host using reverse_ssh, an open-source tool used for setting up SSH connections to threat actor-controlled infrastructure. Compromised systems identified by QUIRSO were found to first establish contact with the attacker's domains on August 3, five days after Broadcom publicly disclosed the flaws. In all, there are as many as 361 unique victim IP addresses located across 47 countries. Most of them are located in Germany, the U.S., Turkey, Iran, and France. \"While the attacker might have had prior knowledge of the vulnerability, the strong correlation between the time of disclosure and exploitation suggests the disclosure as the initial starting point for the campaign,\" QUIRSO added. It's not clear who is behind the exploitation campaign, but it's believed to be the work of a suspected advanced persistent threat (APT) actor. It's worth pointing out that VMware appliances have been a lucrative target for Chinese threat actors like UNC5174 , who have weaponized security flaws impacting VMware Tools and VMware vCenter in various espionage campaigns. In April 2025, SentinelOne disclosed details of a threat cluster dubbed PurpleHaze that targeted a South Asian government supporting entity with a Windows backdoor called GoReShell, which uses functionalities from the reverse_ssh tool to establish reverse SSH connections to attacker-controlled hosts. The use of reverse_ssh is notable as it allows the attacker to establish an outbound connection to an endpoint under their control, effectively bypassing security controls designed to prevent suspicious inbound requests. \"The presence of reverse_ssh should not, by itself, be treated as proof of malicious activity,\" QUIRSO noted. \"In combination with unauthorized installation, unexpected outbound connections or execution on a vulnerable vCenter appliance, however, it is a high-priority indicator requiring investigation.\" The disclosure comes as Defused Cyber said it's observing a spike in scanning against VMware vCenter that is indicative of potential exploitation efforts targeting CVE-2026-59309 (CVSS score: 9.8). \"Our honeypots are logging increased fingerprinting – such as version probes via POST /sdk/ (RetrieveServiceContent) and walks of the /websso SAML SSO flow – coinciding with Broadcom's VMSA-2026-0006 (CVE-2026-59309, unauth auth-bypass in vmdir, CVSS 9.8),\" the cybersecurity company said. Denis Szadkowski, COO and co-founder of QUIRSO GmbH, told The Hacker News that there is not enough evidence at this stage to correlate exploitation and scanning efforts using CVE-2026-59309 with the intrusion set or the attacker infrastructure associated with CVE-2026-59310. \"What we can say with much higher confidence is that the activity we investigated represents a successful compromise rather than merely exploitation attempts, and the forensic evidence strongly points toward CVE-2026-59310 as the initial access vector,\" Szadkowski added. Learn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale. Learn how to govern risk, secure AI-built software, and keep control as development moves at machine speed. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+    "target": "Attackers Exploit VMware Vulnerability",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
+      }
+    ]
+  },
+  {
+    "id": "c8fa6719715dcf65",
+    "date": "2026-08-12T08:45:53+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
+    "summary": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor. The post Fresh Windows Zero-Day Exploited in North Korean Cyberattacks appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
+    "target": "Fresh Windows Zero-Day Exploited",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/"
+      }
+    ]
+  },
+  {
+    "id": "dc9a45f2b3f4078f",
+    "date": "2026-08-12T08:39:13.968565+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Sony XAV-9500ES: AVRCP Heap Overflow Enables RCE via Bluetooth",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/sony-xav-9500es-avrcp-heap-overflow-enables-rce-via-bluetooth",
+    "target": "CRITICAL Sony XAV-9500ES",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/sony-xav-9500es-avrcp-heap-overflow-enables-rce-via-bluetooth"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/sony-xav-9500es-bluetooth-rce-found-at-pwn2own-fix-available"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/sony-xav-9500es-bluetooth-turns-weapon-from-pwn2own-to-the-parking-lot"
+      }
+    ]
+  },
+  {
+    "id": "aa42682725de6b98",
+    "date": "2026-08-12T08:39:13.967952+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CISA Confirms SharePoint Ransomware Exploitation; Microsoft Stays Silent VULN",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/cisa-confirms-sharepoint-ransomware-exploitation-microsoft-stays-silent",
+    "target": "CISA Confirms SharePoint Ransomware",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/cisa-confirms-sharepoint-ransomware-exploitation-microsoft-stays-silent"
+      }
+    ]
+  },
+  {
+    "id": "bdcdce4e78a122ed",
+    "date": "2026-08-12T08:39:13.967833+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Head Mare APT Turns TrueConf Servers into Supply-Chain Attack Vehicles CYBERSEC ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles",
+    "target": "Head Mare APT Turns",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles"
+      }
+    ]
+  },
+  {
+    "id": "9dd19a09076d62d1",
+    "date": "2026-08-12T08:39:11.716471+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Hardware Hacking: From zero to a Pre-Auth Stack Buffer Overflow on Amazon's best-selling router",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Hardware Hacking: From zero to a Pre-Auth Stack Buffer Overflow on Amazon's best-selling router",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vfdep6/hardware_hacking_from_zero_to_a_preauth_stack/",
+    "target": "Hardware",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vfdep6/hardware_hacking_from_zero_to_a_preauth_stack/"
       }
     ]
   },
@@ -26470,238 +26702,6 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/"
-      }
-    ]
-  },
-  {
-    "id": "4ea95389be1adb31",
-    "date": "2026-07-31T14:45:01+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-    "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019. The same apps have a second job. When a box",
-    "article_text": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019. The same apps have a second job. When a box detects an HDMI signal, it usually switches to relaying other people's traffic through the owner's broadband line as a SOCKS5 exit node. With HDMI off, it goes back to waiting for ad-fraud tasks. Bitsight found the operation by registering an expired domain used as a factory backdoor and telemetry collector. Most identifiable devices reported the model name H96_MAX_V11, though Bitsight said its sinkhole view was skewed toward older models from one brand and did not establish a complete affected-model list. In one day, after filtering for devices carrying the Fuyao apps, the sinkhole received 65,957 reports from about 38,000 unique MAC addresses. Most reports described the devices as phones. That is not a confirmed device count because the system can rotate spoofed identifiers. The report separately shows Fengwo advertising more than 120,000 \"AI digital humans,\" but does not establish what that marketing term counts. These figures are not interchangeable, and none establishes the physical fleet size. For owners, guidance remains generic: verify Play Protect certification and disconnect suspicious devices from the network. The command-and-control (C2) server pushes complete phone profiles to each device, merging a base configuration with a per-model diff and deleting chipset properties that would expose a Rockchip, Amlogic, or Allwinner board underneath. Fuyao uses machine vision inside its automation workflow to locate ads. The Script app carries a YOLOv8s object-detection model named lourui_2, trained on 12 screen elements, including generic banner regions and Taboola widgets. The app combines the model with Android accessibility data and Google ML Kit optical character recognition. Pedro Falé, a Bitsight threat researcher, wrote that the operation \"fuses three vision and reasoning systems into a single interface.\" Operators assemble campaign logic in a custom editor built on Blockly , Google's drag-and-drop programming framework. They export each fraud routine as JavaScript, upload it to S3, and send it to the box for execution. Across four test devices, Bitsight captured about 40 fraud tasks, 21 unique campaigns, and 166 unique modules. A recovered developer comment said the template system let a small group of skilled engineers support less-skilled campaign operators, cutting costs. Fuyao's payout chain runs through a publishing network. Bitsight mapped 144 operator-owned domains across seven beneficiary clusters. At least 84 of them loaded a Taboola tag on the homepage. The researchers said they used Taboola's public sellers.json file to connect the domains to revenue-collecting entities in Hong Kong and Singapore. Bitsight modeled gross returns at $1.25 per device per day, or about $47,500 daily if 38,000 devices were active. It separately estimated annual revenue could reach $40 million at the advertised fleet size, citing 30-40% fraud flagging and a 70% ad-fill rate, but did not show the full calculation. Those are estimates, not observed revenue. Attribution to Fengwo rests on Bitsight, which cited shared TLS certificate data, exposed wiki files, reused email addresses, revenue links, and patents. Public Chinese patent records independently identify Zhejiang Fengwo as the assignee of related digital-human execution and monitoring technologies. CN117421142B , granted in November 2024, covers execution-flow tracking for digital-human behavior modules, while CN117478834A describes monitoring remote screens through cloud-hosted thumbnails and keyframe comparison. Neither filing describes advertising, and the records do not establish that the company operated Fuyao or engaged in ad fraud. The sources checked also do not establish who installed the apps or at what point in the device supply chain they appeared. As of 7:48 p.m. IST on July 31, 2026, Bitsight's blog index still listed only the July 30 overview for Fuyao, and The Hacker News could not find either promised technical follow-up in exact-title site searches. The material checked still lacked a complete list of affected packages, firmware builds, and network indicators. ",
-    "quick_summary": [
-      "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-    "target": "Cheap Android Boxes Pose",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html"
-      }
-    ]
-  },
-  {
-    "id": "41276265a2ad6d6b",
-    "date": "2026-07-31T14:38:57.883067+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL 7-Zip: The Patch Existed, But No One Installs It Without Auto-Update",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/7-zip-the-patch-existed-but-no-one-installs-it-without-auto-update",
-    "target": "CRITICAL 7-Zip",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/7-zip-the-patch-existed-but-no-one-installs-it-without-auto-update"
-      }
-    ]
-  },
-  {
-    "id": "ad00774608c9bc6b",
-    "date": "2026-07-31T14:38:57.882457+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Iran: APTs Modify Internet-Exposed PLCs, CISA Alerts Seven Agencies CYBERSEC CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/iran-apts-modify-internet-exposed-plcs-cisa-alerts-seven-agencies",
-    "target": "Iran",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/iran-apts-modify-internet-exposed-plcs-cisa-alerts-seven-agencies"
-      }
-    ]
-  },
-  {
-    "id": "22dea5eaaf6c59ed",
-    "date": "2026-07-31T14:38:57.882349+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Microsoft Patches RoguePlanet, the Defender Black Hole That Handed SYSTEM to Anyone CYBERSEC ZERO-DAY",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/microsoft-patches-rogueplanet-the-defender-black-hole-that-handed-system-to-anyone",
-    "target": "Microsoft Patches RoguePlanet Defender",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/microsoft-patches-rogueplanet-the-defender-black-hole-that-handed-system-to-anyone"
-      }
-    ]
-  },
-  {
-    "id": "bd7f7226369f7a95",
-    "date": "2026-07-31T14:05:46+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Critical JetBrains Flaw Allows Attackers to Execute Malicious Code Remotely – Update Now",
-    "summary": "JetBrains has announced a critical vulnerability in TeamCity On-Premises, identified as CVE-2026-63077. This vulnerability allows attackers to bypass authentication and execute arbitrary commands remotely. It affects all versions of TeamCity On-Premises. An attacker only requires HTTP or HTTPS access to a vulnerable TeamCity server to exploit this issue, with no need for a valid account, […] The post Critical JetBrains Flaw Allows Attackers to Execute Malicious Code Remotely – Update Now appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "JetBrains has announced a critical vulnerability in TeamCity On-Premises, identified as CVE-2026-63077.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/jetbrains-vulnerability-execute-malicious-code/",
-    "target": "Critical JetBrains Allows Attackers",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/jetbrains-vulnerability-execute-malicious-code/"
-      }
-    ]
-  },
-  {
-    "id": "a61e195ebe6cfe78",
-    "date": "2026-07-31T14:01:11+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "ESET tracks rise in malicious AI skills and adaptable malware",
-    "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity, and ransomware tools designed to disable security software. [...]",
-    "article_text": "The first half of 2026 shows how attackers continue to improve the efficiency and scalability of their operations. Rather than relying on entirely new methods and tools, they are quickly adapting established techniques to new platforms, technologies, and user behaviors. Artificial intelligence is playing a growing role in this development. In H1 2026, ESET analyzed nearly 900,000 AI skills – small functional components used by AI agents – and identified tens of thousands of suspicious and thousands of outright malicious instances. The number of AI skills within this new ecosystem is growing rapidly “as we speak”, further expanding the attack surface. AI is also beginning to appear within malware itself. Shortly after the emergence of the first AI-powered ransomware in 2025, ESET researchers identified PromptSpy, the first known Android malware to use generative AI in its execution flow. The malware leverages AI – specifically, Google’s Gemini – to interpret user interface elements and adapt across devices and environments without relying on hardcoded behavior. While still rare, PromptSpy illustrates the potential for increased flexibility in future threats – although guardrails against abuse included in LLMs are likely slowing down the adoption. Trust has become one of the most valuable assets for cybercriminals to exploit. ESET's H1 2026 Threat Report reveals how attackers are increasingly using AI, social engineering, and ransomware innovations to scale their campaigns and evade detection. ClickFix – a social engineering technique leveraging fake error messages – has expanded beyond fake CAPTCHA prompts into AI-themed help pages, browser extensions, and cloud authentication scenarios. ESET detections of this vector more than doubled between H2 2025 and H1 2026, indicating sustained activity and adaptation. Phishing campaigns are also evolving in response to user behavior. QR code phishing – also known as quishing – has reached record levels in ESET telemetry, with attackers embedding malicious links in QR codes to bypass cursory inspection and shift user interaction to mobile devices, while exploiting the implicit trust many people place in the black-and-white squares. Last but not least, ransomware activity showed no signs of slowing down, with continued use of EDR killers – tools designed to disable security software during attacks. ESET Research has documented over 100 EDR killers used in the wild, with new variants appearing regularly. At the same time, data from multiple sources shows that a declining share of victims are choosing to pay ransoms, suggesting some progress in mitigation and response measures. Learn more about the latest attack techniques by reading the ESET Threat Report H1 2026 . Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests Microsoft Teams vishing attacks lead to Chaos ransomware attacks VMware fixes three critical flaws allowing auth bypass, VM escapes Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Overdue a password health-check? Audit your Active Directory for free Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Uncover shadow AI apps, agents, and risky data sharing. Get started in 5 min. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
-    "target": "ESET",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/"
-      }
-    ]
-  },
-  {
-    "id": "e4ad4a4b557fd870",
-    "date": "2026-07-31T14:00:00+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "The Morning After We Pull a Root of Trust, Nobody Owns It",
-    "summary": "The most valuable move any security team can make is building a certificate and key inventory.",
-    "article_text": "",
-    "quick_summary": [
-      "The most valuable move any security team can make is building a certificate and key inventory.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it",
-    "target": "Morning Pull Root Trust",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it"
-      }
-    ]
-  },
-  {
-    "id": "a0cc2754b1bef9ae",
-    "date": "2026-07-31T13:30:00+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Interpol Leverages Global System to Curtail Fraud Payments",
-    "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
-    "article_text": "",
-    "quick_summary": [
-      "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
-    "target": "Interpol Leverages Global System",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments"
       }
     ]
   }
