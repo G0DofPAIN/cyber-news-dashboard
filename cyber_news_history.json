@@ -1,65 +1,7 @@
 [
   {
-    "id": "e466f67a70b503aa",
-    "date": "2026-08-12T02:43:20.660356+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY Intellexa: Leaked Documents Expose 14 Zero-Days and Vendor Remote Access to Government Clients",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/intellexa-leaked-documents-expose-14-zero-days-and-vendor-remote-access-to-government-clients",
-    "target": "ZERO-DAY Intellexa",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/intellexa-leaked-documents-expose-14-zero-days-and-vendor-remote-access-to-government-clients"
-      }
-    ]
-  },
-  {
-    "id": "653d1a34322780d7",
-    "date": "2026-08-12T02:43:20.660237+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY Head Mare APT Turns TrueConf Servers into Supply-Chain Attack Vehicles",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles",
-    "target": "ZERO-DAY Head Mare APT",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles"
-      }
-    ]
-  },
-  {
     "id": "6888ae3368710422",
-    "date": "2026-08-12T02:43:20.660130+00:00",
+    "date": "2026-08-12T05:01:32.212007+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "bdb384304f8e0dc6",
-    "date": "2026-08-12T02:43:20.660022+00:00",
+    "date": "2026-08-12T05:01:32.211900+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +59,7 @@
   },
   {
     "id": "ef8059d93ac4056e",
-    "date": "2026-08-12T02:43:20.659904+00:00",
+    "date": "2026-08-12T05:01:32.211783+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +88,7 @@
   },
   {
     "id": "dc9a45f2b3f4078f",
-    "date": "2026-08-12T02:43:20.659795+00:00",
+    "date": "2026-08-12T05:01:32.211676+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -182,42 +124,66 @@
     ]
   },
   {
-    "id": "d0546545d9a954bf",
-    "date": "2026-08-12T02:43:20.659647+00:00",
+    "id": "31e17cb3206141f8",
+    "date": "2026-08-12T05:01:32.211563+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Kimsuky Builds Offline AI Stack to Automate Phishing and Malware CYBERSEC",
-    "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the",
-    "article_text": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the setup after months of tracking and log analysis on infrastructure tied to Kimsuky, a hacking unit under North Korea's Reconnaissance General Bureau. Genians found no evidence that the group had trained an AI model of its own, and the firm does not offer that as reassurance. It describes an actor in a \"research and knowledge acquisition\" stage, assembling and testing existing tools rather than making new models, with the apparent aim of folding AI through the operation, from writing malware to analyzing data. For an intelligence unit that has spent years phishing government, research, and other strategic targets, that points to attacks that are quicker to prepare and harder to spot. With nothing here to patch, the weight lands on defenders. Once AI writes the bait, the tells they once relied on weaken: stilted translation, clumsy formatting, spelling mistakes. What an intrusion does on the machine becomes the thing to watch. Genians' report tells defenders to correlate LNK execution, PowerShell, hidden scheduled tasks, GitHub traffic, and later payload activity instead of judging a lure mainly by how polished it looks. The core evidence is tools for running language models offline: Ollama, GPT4All and Msty, all found on infrastructure Genians linked to the group. The report says they were run or configured, not merely downloaded: Ollama generated the keys created on first launch, while GPT4All carried a configured localdocs_v3.db, the database used by its LocalDocs retrieval-augmented generation (RAG) feature. RAG lets a model answer from a private collection of documents. The database is evidence that the actor tried to connect documents in its possession to an AI system; it does not establish that those documents were stolen. The researchers separately recovered an operator request to check a data set for wallet details, Gmail credentials and site-registration history, ending, \"The more detailed the analysis, the better. Please do not do it haphazardly.\" The report could not confirm that this particular request was submitted to an AI service. The group did not stop at ready-made apps. On the same infrastructure, the firm found developer libraries including LLaMaSharp, Microsoft's Semantic Kernel and Microsoft.Agents.AI, components for building AI functions into custom C# and .NET software. It also found OpenAI's Whisper speech-to-text files with a guide on extracting text from audio, and active traces of Cursor, an AI-powered coding editor. None of these tools is exotic. What is new is a nation-state espionage group assembling them on purpose to push AI deeper into its own attack workflow. The activity extends a Kimsuky campaign Genians calls Operation GitPower, which abuses GitHub repositories as command channels in an LNK-to-PowerShell infection chain and has distributed encrypted AsyncRAT payloads disguised as image files Fortinet separately documented the broader GitHub-C2 pattern in April in attacks targeting South Korean users. That report corroborates the surrounding technique family, not Genians' new local-AI artifacts; Reuters said the new findings could not be independently verified. The newly observed offline stack (the local models, RAG database, and transcription tools) has not been shown running against a victim in the reporting to date, and no GitPower victim count has been disclosed. Set against the broader \"AI attack tools\" framing, that is a narrower near-term change than the label implies, with the groundwork for automating parts of the operation still being laid. Genians ties the operation to Kimsuky using overlaps with earlier campaigns, infrastructure clues, and North Korean vocabulary recovered from operator logs. The U.S. Treasury , which sanctioned Kimsuky in 2023, describes it as subordinate to the Reconnaissance General Bureau and primarily focused on intelligence collection. The step also fits a pattern Genians flagged in 2025, when it linked Kimsuky to a spear-phishing attack that used ChatGPT-generated images of South Korean military employee ID cards. Learn how 300 enterprise leaders are managing A",
+    "title": "CRITICAL Wazuh DAPI RCE: From Compromised Worker Node to Root Code Execution on Master",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/kimsuky-builds-offline-ai-stack-to-automate-phishing-and-malware",
-    "target": "Kimsuky Builds Offline Stack",
-    "type": "Malware",
-    "severity": "High",
+    "link": "https://deafnews.it/en/news/news/wazuh-dapi-rce-from-compromised-worker-node-to-root-code-execution-on-master",
+    "target": "CRITICAL Wazuh DAPI RCE",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
     "sources": [
-      "DeafNews",
-      "The Hacker News"
+      "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/kimsuky-builds-offline-ai-stack-to-automate-phishing-and-malware"
-      },
+        "url": "https://deafnews.it/en/news/news/wazuh-dapi-rce-from-compromised-worker-node-to-root-code-execution-on-master"
+      }
+    ]
+  },
+  {
+    "id": "4007ed0f5062beb7",
+    "date": "2026-08-12T05:01:32.211416+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE Microsoft Rates Exploitation 'More Likely' for CVE-2026-62893 in Windows",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/microsoft-rates-exploitation-more-likely-for-cve-2026-62893-in-windows",
+    "target": "CVE Microsoft Rates Exploitation",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
       {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html"
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/microsoft-rates-exploitation-more-likely-for-cve-2026-62893-in-windows"
       }
     ]
   },
   {
     "id": "542e97c4b064aa63",
-    "date": "2026-08-12T02:43:20.659530+00:00",
+    "date": "2026-08-12T05:01:32.211297+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -246,7 +212,7 @@
   },
   {
     "id": "92b8d5e570063f54",
-    "date": "2026-08-12T02:43:20.659394+00:00",
+    "date": "2026-08-12T05:01:32.211178+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -274,8 +240,37 @@
     ]
   },
   {
+    "id": "eb441c99b4ba6cfc",
+    "date": "2026-08-12T05:01:32.211069+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Intellexa: Leaked Documents Expose 14 Zero-Days and Vendor Remote Access to Government Clients CYBERSEC ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/intellexa-leaked-documents-expose-14-zero-days-and-vendor-remote-access-to-government-clients",
+    "target": "Intellexa",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/intellexa-leaked-documents-expose-14-zero-days-and-vendor-remote-access-to-government-clients"
+      }
+    ]
+  },
+  {
     "id": "aa42682725de6b98",
-    "date": "2026-08-12T02:43:20.659140+00:00",
+    "date": "2026-08-12T05:01:32.210947+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -304,7 +299,7 @@
   },
   {
     "id": "bdcdce4e78a122ed",
-    "date": "2026-08-12T02:43:20.659017+00:00",
+    "date": "2026-08-12T05:01:32.210828+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -333,7 +328,7 @@
   },
   {
     "id": "4350730caf27dfec",
-    "date": "2026-08-12T02:43:20.658896+00:00",
+    "date": "2026-08-12T05:01:32.210714+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -361,8 +356,37 @@
     ]
   },
   {
+    "id": "3dd533982e4930c9",
+    "date": "2026-08-12T05:01:32.210599+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Kenwood DNR1007XR: Firmware Update Flaw Enables Root RCE via Symlink Following CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/kenwood-dnr1007xr-firmware-update-flaw-enables-root-rce-via-symlink-following",
+    "target": "Kenwood DNR1007XR",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/kenwood-dnr1007xr-firmware-update-flaw-enables-root-rce-via-symlink-following"
+      }
+    ]
+  },
+  {
     "id": "81d3f12576bd6e3e",
-    "date": "2026-08-12T02:43:20.657975+00:00",
+    "date": "2026-08-12T05:01:32.209845+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -391,12 +415,12 @@
   },
   {
     "id": "458b6d1593c06573",
-    "date": "2026-08-12T02:43:20.657645+00:00",
+    "date": "2026-08-12T05:01:32.209218+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 7 ZERO-DAY · 10 CVE · 9 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
+    "title": "// 6 ZERO-DAY · 9 CVE · 10 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -420,7 +444,7 @@
   },
   {
     "id": "12160ab45a8d0294",
-    "date": "2026-08-12T02:43:19.775024+00:00",
+    "date": "2026-08-12T05:01:31.362992+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -497,7 +521,7 @@
   },
   {
     "id": "9dd19a09076d62d1",
-    "date": "2026-08-12T02:43:18.651725+00:00",
+    "date": "2026-08-12T05:01:30.578111+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -526,7 +550,7 @@
   },
   {
     "id": "5660a088a54346e8",
-    "date": "2026-08-12T02:43:18.651593+00:00",
+    "date": "2026-08-12T05:01:30.577980+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -555,7 +579,7 @@
   },
   {
     "id": "ab8ddee2f9caf0ef",
-    "date": "2026-08-12T02:43:18.651466+00:00",
+    "date": "2026-08-12T05:01:30.577858+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -584,7 +608,7 @@
   },
   {
     "id": "020b6398d8c64fe8",
-    "date": "2026-08-12T02:43:18.651310+00:00",
+    "date": "2026-08-12T05:01:30.577726+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -613,7 +637,7 @@
   },
   {
     "id": "42646be5e0292f4f",
-    "date": "2026-08-12T02:43:18.651171+00:00",
+    "date": "2026-08-12T05:01:30.577585+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -642,7 +666,7 @@
   },
   {
     "id": "591612a6f556b244",
-    "date": "2026-08-12T02:43:18.651050+00:00",
+    "date": "2026-08-12T05:01:30.577439+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -671,7 +695,7 @@
   },
   {
     "id": "68793442dc0dec51",
-    "date": "2026-08-12T02:43:18.650917+00:00",
+    "date": "2026-08-12T05:01:30.577306+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -700,7 +724,7 @@
   },
   {
     "id": "2eb6fa64547670a9",
-    "date": "2026-08-12T02:43:18.650794+00:00",
+    "date": "2026-08-12T05:01:30.577180+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -729,7 +753,7 @@
   },
   {
     "id": "6089be6847529c0b",
-    "date": "2026-08-12T02:43:18.650660+00:00",
+    "date": "2026-08-12T05:01:30.577039+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -758,7 +782,7 @@
   },
   {
     "id": "6294d1da87bfef9a",
-    "date": "2026-08-12T02:43:18.650524+00:00",
+    "date": "2026-08-12T05:01:30.576871+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -787,7 +811,7 @@
   },
   {
     "id": "891b694facaaa612",
-    "date": "2026-08-12T02:43:18.650363+00:00",
+    "date": "2026-08-12T05:01:30.576686+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -816,7 +840,7 @@
   },
   {
     "id": "74b2a7d73c93d327",
-    "date": "2026-08-12T02:43:18.650236+00:00",
+    "date": "2026-08-12T05:01:30.576541+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -845,7 +869,7 @@
   },
   {
     "id": "bf08a0c2cf461b2a",
-    "date": "2026-08-12T02:43:18.650114+00:00",
+    "date": "2026-08-12T05:01:30.576395+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -874,7 +898,7 @@
   },
   {
     "id": "36b75d2e2b641bbb",
-    "date": "2026-08-12T02:43:18.649984+00:00",
+    "date": "2026-08-12T05:01:30.576275+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -903,7 +927,7 @@
   },
   {
     "id": "4c672297a6dc990b",
-    "date": "2026-08-12T02:43:18.649861+00:00",
+    "date": "2026-08-12T05:01:30.576153+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -932,7 +956,7 @@
   },
   {
     "id": "2c7d6de428c373eb",
-    "date": "2026-08-12T02:43:18.649718+00:00",
+    "date": "2026-08-12T05:01:30.576008+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -961,7 +985,7 @@
   },
   {
     "id": "a4e1da6a2a0a21b3",
-    "date": "2026-08-12T02:43:18.649581+00:00",
+    "date": "2026-08-12T05:01:30.575872+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -990,7 +1014,7 @@
   },
   {
     "id": "9a90234417c54fc2",
-    "date": "2026-08-12T02:43:18.649436+00:00",
+    "date": "2026-08-12T05:01:30.575731+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1019,7 +1043,7 @@
   },
   {
     "id": "55f144bdf0c1d1b5",
-    "date": "2026-08-12T02:43:18.649273+00:00",
+    "date": "2026-08-12T05:01:30.575596+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1048,7 +1072,7 @@
   },
   {
     "id": "90180ea26e0eb3f5",
-    "date": "2026-08-12T02:43:18.649138+00:00",
+    "date": "2026-08-12T05:01:30.575433+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1077,7 +1101,7 @@
   },
   {
     "id": "3a7558e65b571e5d",
-    "date": "2026-08-12T02:43:18.649005+00:00",
+    "date": "2026-08-12T05:01:30.575302+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1106,7 +1130,7 @@
   },
   {
     "id": "c19e18f78f756ba1",
-    "date": "2026-08-12T02:43:18.648876+00:00",
+    "date": "2026-08-12T05:01:30.575171+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1135,7 +1159,7 @@
   },
   {
     "id": "b3a2cf4f7a8c4a00",
-    "date": "2026-08-12T02:43:18.648728+00:00",
+    "date": "2026-08-12T05:01:30.575023+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1164,7 +1188,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-12T02:43:18.648580+00:00",
+    "date": "2026-08-12T05:01:30.574872+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1201,7 +1225,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-12T02:43:18.648361+00:00",
+    "date": "2026-08-12T05:01:30.574652+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1229,6 +1253,69 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "653d1a34322780d7",
+    "date": "2026-08-12T02:43:20.660237+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ZERO-DAY Head Mare APT Turns TrueConf Servers into Supply-Chain Attack Vehicles",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles",
+    "target": "ZERO-DAY Head Mare APT",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles"
+      }
+    ]
+  },
+  {
+    "id": "d0546545d9a954bf",
+    "date": "2026-08-12T02:43:20.659647+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Kimsuky Builds Offline AI Stack to Automate Phishing and Malware CYBERSEC",
+    "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the",
+    "article_text": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the setup after months of tracking and log analysis on infrastructure tied to Kimsuky, a hacking unit under North Korea's Reconnaissance General Bureau. Genians found no evidence that the group had trained an AI model of its own, and the firm does not offer that as reassurance. It describes an actor in a \"research and knowledge acquisition\" stage, assembling and testing existing tools rather than making new models, with the apparent aim of folding AI through the operation, from writing malware to analyzing data. For an intelligence unit that has spent years phishing government, research, and other strategic targets, that points to attacks that are quicker to prepare and harder to spot. With nothing here to patch, the weight lands on defenders. Once AI writes the bait, the tells they once relied on weaken: stilted translation, clumsy formatting, spelling mistakes. What an intrusion does on the machine becomes the thing to watch. Genians' report tells defenders to correlate LNK execution, PowerShell, hidden scheduled tasks, GitHub traffic, and later payload activity instead of judging a lure mainly by how polished it looks. The core evidence is tools for running language models offline: Ollama, GPT4All and Msty, all found on infrastructure Genians linked to the group. The report says they were run or configured, not merely downloaded: Ollama generated the keys created on first launch, while GPT4All carried a configured localdocs_v3.db, the database used by its LocalDocs retrieval-augmented generation (RAG) feature. RAG lets a model answer from a private collection of documents. The database is evidence that the actor tried to connect documents in its possession to an AI system; it does not establish that those documents were stolen. The researchers separately recovered an operator request to check a data set for wallet details, Gmail credentials and site-registration history, ending, \"The more detailed the analysis, the better. Please do not do it haphazardly.\" The report could not confirm that this particular request was submitted to an AI service. The group did not stop at ready-made apps. On the same infrastructure, the firm found developer libraries including LLaMaSharp, Microsoft's Semantic Kernel and Microsoft.Agents.AI, components for building AI functions into custom C# and .NET software. It also found OpenAI's Whisper speech-to-text files with a guide on extracting text from audio, and active traces of Cursor, an AI-powered coding editor. None of these tools is exotic. What is new is a nation-state espionage group assembling them on purpose to push AI deeper into its own attack workflow. The activity extends a Kimsuky campaign Genians calls Operation GitPower, which abuses GitHub repositories as command channels in an LNK-to-PowerShell infection chain and has distributed encrypted AsyncRAT payloads disguised as image files Fortinet separately documented the broader GitHub-C2 pattern in April in attacks targeting South Korean users. That report corroborates the surrounding technique family, not Genians' new local-AI artifacts; Reuters said the new findings could not be independently verified. The newly observed offline stack (the local models, RAG database, and transcription tools) has not been shown running against a victim in the reporting to date, and no GitPower victim count has been disclosed. Set against the broader \"AI attack tools\" framing, that is a narrower near-term change than the label implies, with the groundwork for automating parts of the operation still being laid. Genians ties the operation to Kimsuky using overlaps with earlier campaigns, infrastructure clues, and North Korean vocabulary recovered from operator logs. The U.S. Treasury , which sanctioned Kimsuky in 2023, describes it as subordinate to the Reconnaissance General Bureau and primarily focused on intelligence collection. The step also fits a pattern Genians flagged in 2025, when it linked Kimsuky to a spear-phishing attack that used ChatGPT-generated images of South Korean military employee ID cards. Learn how 300 enterprise leaders are managing A",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/kimsuky-builds-offline-ai-stack-to-automate-phishing-and-malware",
+    "target": "Kimsuky Builds Offline Stack",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews",
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/kimsuky-builds-offline-ai-stack-to-automate-phishing-and-malware"
+      },
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html"
       }
     ]
   },
@@ -1936,12 +2023,17 @@
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
-      "SecurityWeek"
+      "SecurityWeek",
+      "CrowdStrike Blog"
     ],
     "links": [
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/"
+      },
+      {
+        "source": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/"
       }
     ]
   },
@@ -26606,93 +26698,6 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html"
-      }
-    ]
-  },
-  {
-    "id": "0b489c296786053e",
-    "date": "2026-07-31T11:21:27+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
-    "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researchers recovered no further operator input in the session. The operator, tracked through the aliases knaithe and KnYuan,",
-    "article_text": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researchers recovered no further operator input in the session. The operator, tracked through the aliases knaithe and KnYuan , launched exploitation attempts against more than 460 targets using autonomous and conventional workflows. Unit 42 described seven exploit tracks. They span eight Common Vulnerabilities and Exposures (CVE) identifiers because the n8n chain combines two vulnerabilities. The DeepSeek-led attacks against Langflow and n8n failed because the exposed systems did not meet the exploits' configuration requirements. In separate manual operations, Unit 42 reported data exfiltration from three organizations through the NetScaler memory-overread flaw CVE-2026-3055 and command execution on 11 Marimo instances through CVE-2026-39987 . Yet it later says it could confirm only three successfully exploited targets across the entire operation. The report does not reconcile the two statements. The Hacker News has contacted Palo Alto Networks for clarification and will update the story with any response. The agent checked versions, downloaded exploits, abandoned an unproductive path, and chose another vulnerability based on severity, deployment scale, and apparent exploitability. Organizations should patch exposed Langflow, n8n and Marimo systems, along with customer-managed NetScaler ADC or Gateway appliances configured as Security Assertion Markup Language (SAML) identity providers. They should also remove unnecessary public access to workflow and notebook interfaces. Hermes Agent exposed the operation by starting python3 -m http.server 8888 from /home/worker. The unintended HTTP server made the actor's model configurations, application programming interface (API) keys, exploit scripts, target lists, shell history, and autonomous-session logs accessible, according to the company's report . DeepSeek was the primary reasoning model inside Hermes Agent , which supplied terminal access, reusable skills and unattended execution. Unit 42 found limited use of Claude Code and Qwen Code. It also found signs of Codex use in exploit-development directories, but could not verify actual use because the chat logs were not preserved. The framework's own documentation confirms that it can operate through Telegram, run commands, and schedule unattended tasks. In a recovered May 2026 session, DeepSeek downloaded a public exploit for the Langflow code-injection flaw CVE-2026-33017 , enumerated 84 instances through FOFA, and found one target running version 1.3.4. Langflow is an artificial intelligence (AI) agent and workflow builder. The attack stopped because the system had neither auto_login enabled nor a usable public flow identifier. The agent then surveyed 10 product families, searched GitHub for recent proof-of-concept repositories and selected n8n, the workflow automation platform. It obtained a chain combining the unauthenticated file-access flaw CVE-2026-21858 with the expression-injection issue CVE-2025-68613 . FOFA returned 25,209 n8n systems in China during the session. DeepSeek sampled about 100, probed roughly 40 and identified three running vulnerable versions. One target exposed three form endpoints, but all required authentication. More than 50 additional targets also lacked a usable public form, so no n8n system was compromised. Langflow fixed CVE-2026-33017 in version 1.9.0. n8n fixed CVE-2026-21858 in version 1.121.0 . It fixed CVE-2025-68613 in versions 1.120.4, 1.121.1, and 1.122.0 . Version 1.121.1 is therefore the earliest release that addresses both flaws used in the attempted chain. Marimo fixed CVE-2026-39987 in version 0.23.0 . Citrix says CVE-2026-3055 affects customer-managed NetScaler ADC and Gateway appliances configured as SAML identity providers. Administrators can check the appliance configuration for add authentication samlIdPProfile .* and install the fixed builds listed in the company's security bulletin . Unit 42 assesses the operator to be based in Zhuhai, China. Public material is consistent with, but does not independently verify, that assessment: the GitHub profile displays the name \"KnYuan Knaithe,\" while an older blog under the same handle describes its author as a binary security researcher in Zhuhai. Those profiles do n",
-    "quick_summary": [
-      "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
-    "target": "Chinese Commands DeepSeek Telegram",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html"
-      }
-    ]
-  },
-  {
-    "id": "2540ca0b0760974e",
-    "date": "2026-07-31T10:28:45+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
-    "summary": "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase. The post Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
-    "target": "Google Uncovers 13-Year-Old Chrome",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/"
-      }
-    ]
-  },
-  {
-    "id": "1191d16065db0c4c",
-    "date": "2026-07-31T10:00:18+00:00",
-    "source": "Palo Alto Unit 42",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version",
-    "summary": "Analysis of XCSSET v40 reveals a macOS malware targeting developers via Xcode. Unit 42 used advanced pattern matching and AI to decode its logic. The post The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version appeared first on Unit 42 .",
-    "article_text": "",
-    "quick_summary": [
-      "Analysis of XCSSET v40 reveals a macOS malware targeting developers via Xcode.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/",
-    "target": "Xcode Assassin Returns",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Palo Alto Unit 42"
-    ],
-    "links": [
-      {
-        "source": "Palo Alto Unit 42",
-        "url": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/"
       }
     ]
   }
