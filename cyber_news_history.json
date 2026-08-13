@@ -1,65 +1,7 @@
 [
   {
-    "id": "6e61a9dc9b625a0c",
-    "date": "2026-08-12T23:57:45.783202+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Phoenix Contact CHARX SEC-3000: RCE as Root via Command Injection",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/phoenix-contact-charx-sec-3000-rce-as-root-via-command-injection",
-    "target": "CRITICAL Phoenix Contact CHARX",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/phoenix-contact-charx-sec-3000-rce-as-root-via-command-injection"
-      }
-    ]
-  },
-  {
-    "id": "ee5131b681975758",
-    "date": "2026-08-12T23:57:45.783126+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL OriginLab Origin Viewer: RCE Patch for OGW Files, ZDI Disclosure",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/originlab-origin-viewer-rce-patch-for-ogw-files-zdi-disclosure",
-    "target": "CRITICAL OriginLab Origin Viewer",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/originlab-origin-viewer-rce-patch-for-ogw-files-zdi-disclosure"
-      }
-    ]
-  },
-  {
     "id": "ce740eb2c7f358c5",
-    "date": "2026-08-12T23:57:45.783052+00:00",
+    "date": "2026-08-13T02:46:44.422786+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "d1ff7dea004454c3",
-    "date": "2026-08-12T23:57:45.782978+00:00",
+    "date": "2026-08-13T02:46:44.422678+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +59,7 @@
   },
   {
     "id": "117399896a53ede7",
-    "date": "2026-08-12T23:57:45.782898+00:00",
+    "date": "2026-08-13T02:46:44.422562+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +88,7 @@
   },
   {
     "id": "e0fe83614d73d326",
-    "date": "2026-08-12T23:57:45.782821+00:00",
+    "date": "2026-08-13T02:46:44.422425+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,13 +116,13 @@
     ]
   },
   {
-    "id": "8e5cdbac51dc6b85",
-    "date": "2026-08-12T23:57:45.782735+00:00",
+    "id": "82e468a0bde48f26",
+    "date": "2026-08-13T02:46:44.422313+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Flowise Pre-Auth RCE, CVSS 9.8: Update Immediately to 3.1.3 CYBERSEC CRITICAL",
+    "title": "ZERO-DAY Metabase Under Zero-Day Attack: Critical SQL Injection with CVSS 10.0 Exposes Entire Data Layers",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -188,8 +130,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/flowise-pre-auth-rce-cvss-98-update-immediately-to-313",
-    "target": "Flowise Pre-Auth RCE CVSS",
+    "link": "https://deafnews.it/en/news/vulnerabilities/metabase-under-zero-day-attack-critical-sql-injection-with-cvss-100-exposes-entire-data-layers",
+    "target": "ZERO-DAY Metabase Zero-Day",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -198,18 +140,18 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/flowise-pre-auth-rce-cvss-98-update-immediately-to-313"
+        "url": "https://deafnews.it/en/news/vulnerabilities/metabase-under-zero-day-attack-critical-sql-injection-with-cvss-100-exposes-entire-data-layers"
       }
     ]
   },
   {
-    "id": "b118ee380279262f",
-    "date": "2026-08-12T23:57:45.782654+00:00",
+    "id": "ddb7853f0816481a",
+    "date": "2026-08-13T02:46:44.422187+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Galaxy S25: RCE TIFF Flaw Patched in July, Disclosure Arrives in August VULN CRITICAL",
+    "title": "EXPLOIT CISA Cracks Down on LoadMaster: 792 Exploit Attempts and Mandatory Patching",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -217,23 +159,23 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/galaxy-s25-rce-tiff-flaw-patched-in-july-disclosure-arrives-in-august",
-    "target": "Galaxy S25",
+    "link": "https://deafnews.it/en/news/cybersecurity/cisa-cracks-down-on-loadmaster-792-exploit-attempts-and-mandatory-patching",
+    "target": "EXPLOIT CISA Cracks Down",
     "type": "Vulnerability",
-    "severity": "Critical",
+    "severity": "Medium",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/galaxy-s25-rce-tiff-flaw-patched-in-july-disclosure-arrives-in-august"
+        "url": "https://deafnews.it/en/news/cybersecurity/cisa-cracks-down-on-loadmaster-792-exploit-attempts-and-mandatory-patching"
       }
     ]
   },
   {
     "id": "fe20fc3a990a250b",
-    "date": "2026-08-12T23:57:45.782568+00:00",
+    "date": "2026-08-13T02:46:44.422065+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +204,7 @@
   },
   {
     "id": "35851a24f1ba0219",
-    "date": "2026-08-12T23:57:45.782486+00:00",
+    "date": "2026-08-13T02:46:44.421913+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +233,7 @@
   },
   {
     "id": "8eaa1f74f343c129",
-    "date": "2026-08-12T23:57:45.782403+00:00",
+    "date": "2026-08-13T02:46:44.421796+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -320,7 +262,7 @@
   },
   {
     "id": "50f9281910435a5c",
-    "date": "2026-08-12T23:57:45.782306+00:00",
+    "date": "2026-08-13T02:46:44.421679+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -349,7 +291,7 @@
   },
   {
     "id": "1b7fae6dd6a93d41",
-    "date": "2026-08-12T23:57:45.782217+00:00",
+    "date": "2026-08-13T02:46:44.421562+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -377,13 +319,13 @@
     ]
   },
   {
-    "id": "a5ea2cdb740dda63",
-    "date": "2026-08-12T23:57:45.781600+00:00",
+    "id": "e6b308cfbe69a43a",
+    "date": "2026-08-13T02:46:44.421262+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC Hackers Traverse Private APN, Shut Down Turbine at Polish Thermal Plant Aug 12, 2026",
+    "title": "Hackers Traverse Private APN, Shut Down Turbine at Polish Thermal Plant CYBERSEC",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -392,7 +334,7 @@
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/hackers-traverse-private-apn-shut-down-turbine-at-polish-thermal-plant",
-    "target": "CYBERSEC Traverse Private APN",
+    "target": "Traverse Private APN Shut",
     "type": "General Cybersecurity",
     "severity": "High",
     "sources": [
@@ -406,13 +348,13 @@
     ]
   },
   {
-    "id": "756ed1aee10a380d",
-    "date": "2026-08-12T23:57:45.781268+00:00",
+    "id": "5d1c56a1c9545e09",
+    "date": "2026-08-13T02:46:44.420368+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "TeamPCP Poisons LiteLLM on PyPI: 40 Minutes of Malicious Package Exposure",
+    "title": "news TeamPCP Poisons LiteLLM on PyPI: 40 Minutes of Malicious Package Exposure Aug 12, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -435,13 +377,13 @@
     ]
   },
   {
-    "id": "db5ae4d0a95a1fa3",
-    "date": "2026-08-12T23:57:45.781133+00:00",
+    "id": "2f8d3975edbdd1db",
+    "date": "2026-08-13T02:46:44.419926+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 4 ZERO-DAY · 11 CVE · 11 EXPLOIT IN THE LAST 24H →",
+    "title": "// 2 CRITICAL · 5 ZERO-DAY · 11 CVE · 12 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -465,7 +407,7 @@
   },
   {
     "id": "12160ab45a8d0294",
-    "date": "2026-08-12T23:57:44.595439+00:00",
+    "date": "2026-08-13T02:46:43.206158+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -542,7 +484,7 @@
   },
   {
     "id": "ab8ddee2f9caf0ef",
-    "date": "2026-08-12T23:57:43.309889+00:00",
+    "date": "2026-08-13T02:46:41.988638+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -571,7 +513,7 @@
   },
   {
     "id": "020b6398d8c64fe8",
-    "date": "2026-08-12T23:57:43.309803+00:00",
+    "date": "2026-08-13T02:46:41.988477+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -600,7 +542,7 @@
   },
   {
     "id": "42646be5e0292f4f",
-    "date": "2026-08-12T23:57:43.309712+00:00",
+    "date": "2026-08-13T02:46:41.988312+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -629,7 +571,7 @@
   },
   {
     "id": "591612a6f556b244",
-    "date": "2026-08-12T23:57:43.309634+00:00",
+    "date": "2026-08-13T02:46:41.988168+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -658,7 +600,7 @@
   },
   {
     "id": "68793442dc0dec51",
-    "date": "2026-08-12T23:57:43.309545+00:00",
+    "date": "2026-08-13T02:46:41.988011+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -687,7 +629,7 @@
   },
   {
     "id": "2eb6fa64547670a9",
-    "date": "2026-08-12T23:57:43.309461+00:00",
+    "date": "2026-08-13T02:46:41.987857+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -716,7 +658,7 @@
   },
   {
     "id": "6089be6847529c0b",
-    "date": "2026-08-12T23:57:43.309360+00:00",
+    "date": "2026-08-13T02:46:41.987701+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -745,7 +687,7 @@
   },
   {
     "id": "6294d1da87bfef9a",
-    "date": "2026-08-12T23:57:43.309266+00:00",
+    "date": "2026-08-13T02:46:41.987559+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -774,7 +716,7 @@
   },
   {
     "id": "891b694facaaa612",
-    "date": "2026-08-12T23:57:43.309175+00:00",
+    "date": "2026-08-13T02:46:41.987394+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -803,7 +745,7 @@
   },
   {
     "id": "74b2a7d73c93d327",
-    "date": "2026-08-12T23:57:43.309090+00:00",
+    "date": "2026-08-13T02:46:41.987250+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -832,7 +774,7 @@
   },
   {
     "id": "bf08a0c2cf461b2a",
-    "date": "2026-08-12T23:57:43.309011+00:00",
+    "date": "2026-08-13T02:46:41.987126+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -861,7 +803,7 @@
   },
   {
     "id": "36b75d2e2b641bbb",
-    "date": "2026-08-12T23:57:43.308933+00:00",
+    "date": "2026-08-13T02:46:41.986974+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -890,7 +832,7 @@
   },
   {
     "id": "4c672297a6dc990b",
-    "date": "2026-08-12T23:57:43.308852+00:00",
+    "date": "2026-08-13T02:46:41.986847+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -919,7 +861,7 @@
   },
   {
     "id": "2c7d6de428c373eb",
-    "date": "2026-08-12T23:57:43.308756+00:00",
+    "date": "2026-08-13T02:46:41.986682+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -948,7 +890,7 @@
   },
   {
     "id": "a4e1da6a2a0a21b3",
-    "date": "2026-08-12T23:57:43.308666+00:00",
+    "date": "2026-08-13T02:46:41.986475+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -977,7 +919,7 @@
   },
   {
     "id": "9a90234417c54fc2",
-    "date": "2026-08-12T23:57:43.308571+00:00",
+    "date": "2026-08-13T02:46:41.986335+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1006,7 +948,7 @@
   },
   {
     "id": "55f144bdf0c1d1b5",
-    "date": "2026-08-12T23:57:43.308477+00:00",
+    "date": "2026-08-13T02:46:41.986197+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1035,7 +977,7 @@
   },
   {
     "id": "90180ea26e0eb3f5",
-    "date": "2026-08-12T23:57:43.308372+00:00",
+    "date": "2026-08-13T02:46:41.986061+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1064,7 +1006,7 @@
   },
   {
     "id": "c19e18f78f756ba1",
-    "date": "2026-08-12T23:57:43.308290+00:00",
+    "date": "2026-08-13T02:46:41.985892+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1093,7 +1035,7 @@
   },
   {
     "id": "3a7558e65b571e5d",
-    "date": "2026-08-12T23:57:43.308201+00:00",
+    "date": "2026-08-13T02:46:41.985754+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1122,7 +1064,7 @@
   },
   {
     "id": "285ea12d6da7774f",
-    "date": "2026-08-12T23:57:43.308110+00:00",
+    "date": "2026-08-13T02:46:41.985566+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1151,7 +1093,7 @@
   },
   {
     "id": "b3a2cf4f7a8c4a00",
-    "date": "2026-08-12T23:57:43.308012+00:00",
+    "date": "2026-08-13T02:46:41.985339+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1180,7 +1122,7 @@
   },
   {
     "id": "fde4d8bfbd3a86dc",
-    "date": "2026-08-12T23:57:43.307920+00:00",
+    "date": "2026-08-13T02:46:41.985172+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1209,7 +1151,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-12T23:57:43.307816+00:00",
+    "date": "2026-08-13T02:46:41.985000+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1246,7 +1188,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-12T23:57:43.307638+00:00",
+    "date": "2026-08-13T02:46:41.984772+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1274,6 +1216,386 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "2a7259679feb5682",
+    "date": "2026-08-13T02:36:06+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "WordPress Imagick RCE Vulnerability Allows Authors to Execute Code via Malicious PNG File",
+    "summary": "WordPress has released version 7.0.4, a security-focused update that closes a remote code execution vulnerability affecting sites that process images with the Imagick extension and Ghostscript. The WordPress security team is urging site owners to update immediately, either through the Dashboard’s Updates screen or by downloading the release directly from WordPress.org, since sites with automatic […] The post WordPress Imagick RCE Vulnerability Allows Authors to Execute Code via Malicious PNG File appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "WordPress has released version 7.0.4, a security-focused update that closes a remote code execution vulnerability affecting sites that process images with the Imagick extension and Ghostscript.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/wordpress-imagick-rce-vulnerability/",
+    "target": "WordPress Imagick RCE Vulnerability",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/wordpress-imagick-rce-vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "828de2d2715c923a",
+    "date": "2026-08-13T02:00:03+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33244",
+    "target": "ISC Stormcast Thursday August",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33244"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33238"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33232"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33228"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33224"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33222"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33216"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33212"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33200"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33194"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33190"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33186"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33182"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33178"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33170"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33160"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33166"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33162"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33174"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33158"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33152"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33148"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33142"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33140"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33126"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33120"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33136"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33122"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33116"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33100"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33108"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33112"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33098"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33092"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33088"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33082"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33210"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33204"
+      }
+    ]
+  },
+  {
+    "id": "130870e2a5992c4f",
+    "date": "2026-08-13T01:26:53+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
+    "summary": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be considered useful about the activity my DShield sensor is collecting and tracking. The model I use for this testing is gemma4:e4b [2] using two sites to compare the data against VirusTotal and CyberGordon.",
+    "article_text": "",
+    "quick_summary": [
+      "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how it",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33242",
+    "target": "Gemma4 Ollama Testing File",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33242"
+      }
+    ]
+  },
+  {
+    "id": "6e61a9dc9b625a0c",
+    "date": "2026-08-12T23:57:45.783202+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Phoenix Contact CHARX SEC-3000: RCE as Root via Command Injection",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/phoenix-contact-charx-sec-3000-rce-as-root-via-command-injection",
+    "target": "CRITICAL Phoenix Contact CHARX",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/phoenix-contact-charx-sec-3000-rce-as-root-via-command-injection"
+      }
+    ]
+  },
+  {
+    "id": "ee5131b681975758",
+    "date": "2026-08-12T23:57:45.783126+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL OriginLab Origin Viewer: RCE Patch for OGW Files, ZDI Disclosure",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/originlab-origin-viewer-rce-patch-for-ogw-files-zdi-disclosure",
+    "target": "CRITICAL OriginLab Origin Viewer",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/originlab-origin-viewer-rce-patch-for-ogw-files-zdi-disclosure"
+      }
+    ]
+  },
+  {
+    "id": "8e5cdbac51dc6b85",
+    "date": "2026-08-12T23:57:45.782735+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Flowise Pre-Auth RCE, CVSS 9.8: Update Immediately to 3.1.3 CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/flowise-pre-auth-rce-cvss-98-update-immediately-to-313",
+    "target": "Flowise Pre-Auth RCE CVSS",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/flowise-pre-auth-rce-cvss-98-update-immediately-to-313"
+      }
+    ]
+  },
+  {
+    "id": "b118ee380279262f",
+    "date": "2026-08-12T23:57:45.782654+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Galaxy S25: RCE TIFF Flaw Patched in July, Disclosure Arrives in August VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/galaxy-s25-rce-tiff-flaw-patched-in-july-disclosure-arrives-in-august",
+    "target": "Galaxy S25",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/galaxy-s25-rce-tiff-flaw-patched-in-july-disclosure-arrives-in-august"
+      }
+    ]
+  },
+  {
+    "id": "a5ea2cdb740dda63",
+    "date": "2026-08-12T23:57:45.781600+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC Hackers Traverse Private APN, Shut Down Turbine at Polish Thermal Plant Aug 12, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/hackers-traverse-private-apn-shut-down-turbine-at-polish-thermal-plant",
+    "target": "CYBERSEC Traverse Private APN",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/hackers-traverse-private-apn-shut-down-turbine-at-polish-thermal-plant"
       }
     ]
   },
@@ -3832,179 +4154,6 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html"
-      }
-    ]
-  },
-  {
-    "id": "193d064d8d9c61f3",
-    "date": "2026-08-12T02:00:03+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33238",
-    "target": "ISC Stormcast Wednesday August",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33238"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33232"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33228"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33224"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33222"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33216"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33212"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33200"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33194"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33190"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33186"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33182"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33178"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33170"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33160"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33166"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33162"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33174"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33158"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33152"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33148"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33142"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33140"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33126"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33120"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33136"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33122"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33116"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33100"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33108"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33112"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33098"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33092"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33088"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33082"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33210"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33204"
       }
     ]
   },
@@ -26527,159 +26676,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/news/adobe-coldfusion-two-critical-cves-expose-rce-in-87-seconds-as-system"
-      }
-    ]
-  },
-  {
-    "id": "8f476a93a1d25bf3",
-    "date": "2026-08-02T15:19:47.254018+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Ransomware in Vietnam: A 2.56% Drop Masks a More Insidious Threat ransomware",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://deafnews.it/en/news/ransomware/ransomware-in-vietnam-a-256-drop-masks-a-more-insidious-threat",
-    "target": "Ransomware Vietnam",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ransomware/ransomware-in-vietnam-a-256-drop-masks-a-more-insidious-threat"
-      }
-    ]
-  },
-  {
-    "id": "8d4309c446e4b544",
-    "date": "2026-08-02T15:19:47.253905+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Device Code Phishing: How Attackers Bypass MFA on Microsoft 365 phishing",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/phishing/device-code-phishing-how-attackers-bypass-mfa-on-microsoft-365",
-    "target": "Device Code Phishing",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/phishing/device-code-phishing-how-attackers-bypass-mfa-on-microsoft-365"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/device-code-phishing-legitimate-authentication-becomes-the-weapon-to-breach-m365"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1v4dmll/device_code_phishing_the_microsoft_365_attack/"
-      }
-    ]
-  },
-  {
-    "id": "37ee4fed60bda990",
-    "date": "2026-08-02T15:19:47.252488+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CYBERSEC VoidStealer Bypasses Chrome Encryption by Attacking Memory Aug 02, 2026",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/voidstealer-bypasses-chrome-encryption-by-attacking-memory",
-    "target": "CYBERSEC VoidStealer Bypasses Chrome",
-    "type": "Malware",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/voidstealer-bypasses-chrome-encryption-by-attacking-memory"
-      }
-    ]
-  },
-  {
-    "id": "c182abcfdc180967",
-    "date": "2026-08-02T15:19:44.533412+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "frontier class vulnerabilities: it gets worse before it (maybe) gets better",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "frontier class vulnerabilities: it gets worse before it (maybe) gets better",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vclc83/frontier_class_vulnerabilities_it_gets_worse/",
-    "target": "Unknown",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vclc83/frontier_class_vulnerabilities_it_gets_worse/"
-      }
-    ]
-  },
-  {
-    "id": "4f3af558c4461d60",
-    "date": "2026-08-02T14:17:16+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-    "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
-    "article_text": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. BleepingComputer spotted the protection in a chain of work-in-progress Chromium Gerrit changes. It has not shipped yet, but Google plans to enable it by default once the changes are approved. \"In low-trust environments (unmanaged consumer devices), enterprise policy force-installs and recommendations are abused to lock in search engine or new tab page hijackers,\" Anunoy Ghosh, who works at Google, wrote in a post. \"This CL enables the kBlockDseNtpOverrideExtensionsOnUnmanagedDevices feature flag by default, activating the end-to-end blocking defense on unmanaged Windows and macOS devices.\" Right now, Chrome allows organizations to use enterprise policies to force-install extensions and control browser settings. It's not exactly bad on properly managed work devices connected to a domain or mobile device management system, but malware has been abusing the same feature on regular consumer PCs. A malicious program can add local Chrome policy keys without your permission and force-install an extension that replaces the New Tab page, changes your search engine, or redirects searches to suspicious websites. Chrome may then believe that the extension was installed by an administrator, which prevents you from removing or disabling it. In some cases, Chrome also displays the confusing “Managed by your organization” message, even though the PC is not actually owned or managed by an organization. Google describes these consumer PCs as “low-trust” environments because Chrome is reading policies stored locally without confirmation from a trusted authority, such as a domain or MDM service. Under the proposed protection, Chrome would block attempts to install policy-controlled extensions that override the New Tab page or default search engine. The installation would be canceled, and Chrome would save the extension ID in a blocked-extension preference. Chrome would also stop trying to download the same blocked extension during future policy checks, which should prevent repeated installation attempts and unnecessary network activity. An extension that you installed manually would no longer be converted into a locked, policy-controlled extension. It would remain under your control, so you could still disable or remove it. If a previously managed device loses its trusted management status but still has local policy keys, Chrome would automatically uninstall affected New Tab and search-engine override extensions. Google is adding metrics to measure how often these policy-based hijackers appear and how frequently Chrome blocks them. Legitimate administrators would also have access to an escape-hatch policy that disables the protection when a required enterprise extension overrides the New Tab page or search engine. The Gerrit changes are still under review, so the feature is not available in stable Chrome yet. Security teams log 54% of successful attacks and alert on just 14%. The rest move through your environment unseen. The Picus whitepaper shows how breach and attack simulation tests your SIEM and EDR rules so threats stop slipping by detection. Google says AI helped Chrome fix 1,072 security bugs in two releases Fake Perplexity extension on Chrome Web Store tracked searches Malicious Edge extension abuses Native Messaging as bridge to malware Google patches new Chrome zero-day flaw exploited in the wild What, NO!!! At our school lab we made an extension to override new tab and put only allowed school and educational links, we don't have a domain and I use the force_install to install it. What now? This is almost like a scammer doing a browser hijack where you can't access the browser and and a message is posted saying call a phone number immediately Amgen says cloud data breach exposed patient health, proprietary info Arch Linux disables AUR package adoption to stop malware flood Rails patches critical Active Storage flaw with RCE potential Explore ESET’s H1 2026 Threat Report to uncover the latest AI, phishing, and ransomware trends. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Spend four hours inside a fully-simulated underground with DARKROOM. Overdue a password health-check? Audit your Active Directory for free Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Downl",
-    "quick_summary": [
-      "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-    "target": "Google Chrome Tab",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/"
       }
     ]
   }
