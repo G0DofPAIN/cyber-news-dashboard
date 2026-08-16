@@ -1,36 +1,7 @@
 [
   {
-    "id": "4dd40398882ceace",
-    "date": "2026-08-16T10:39:10.497215+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY Lazarus Weaponizes Windows Zero-Day with Post-Quantum Encryption: Inside the C2 Traffic",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/news/lazarus-weaponizes-windows-zero-day-with-post-quantum-encryption-inside-the-c2-traffic",
-    "target": "ZERO-DAY Lazarus Weaponizes Windows",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/lazarus-weaponizes-windows-zero-day-with-post-quantum-encryption-inside-the-c2-traffic"
-      }
-    ]
-  },
-  {
     "id": "7ee77aaad6f34105",
-    "date": "2026-08-16T10:39:10.497102+00:00",
+    "date": "2026-08-16T11:33:33.237889+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "36a4c87695f23648",
-    "date": "2026-08-16T10:39:10.496991+00:00",
+    "date": "2026-08-16T11:33:33.237815+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "c673b10d45914d20",
-    "date": "2026-08-16T10:39:10.496885+00:00",
+    "date": "2026-08-16T11:33:33.237744+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "ccbf4e519e5d2651",
-    "date": "2026-08-16T10:39:10.496770+00:00",
+    "date": "2026-08-16T11:33:33.237669+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "7c12dff54381e321",
-    "date": "2026-08-16T10:39:10.496633+00:00",
+    "date": "2026-08-16T11:33:33.237591+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,13 +145,13 @@
     ]
   },
   {
-    "id": "ee81341f09afa157",
-    "date": "2026-08-16T10:39:10.496524+00:00",
+    "id": "bac941182fbaad9e",
+    "date": "2026-08-16T11:33:33.237518+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "SonicWall Email Security: Local Privilege Escalation from CLI to Root via Command Injection CYBERSEC ZERO-DAY",
+    "title": "ZERO-DAY dnsmasq: DNSSEC Bug Enables Unauthenticated Remote DoS",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -188,8 +159,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/sonicwall-email-security-local-privilege-escalation-from-cli-to-root-via-command-injection",
-    "target": "SonicWall Email",
+    "link": "https://deafnews.it/en/news/vulnerabilities/dnsmasq-dnssec-bug-enables-unauthenticated-remote-dos",
+    "target": "ZERO-DAY",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -198,13 +169,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/sonicwall-email-security-local-privilege-escalation-from-cli-to-root-via-command-injection"
+        "url": "https://deafnews.it/en/news/vulnerabilities/dnsmasq-dnssec-bug-enables-unauthenticated-remote-dos"
       }
     ]
   },
   {
     "id": "5d557573b222900d",
-    "date": "2026-08-16T10:39:10.496405+00:00",
+    "date": "2026-08-16T11:33:33.237444+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "be943f2f587c11f8",
-    "date": "2026-08-16T10:39:10.496285+00:00",
+    "date": "2026-08-16T11:33:33.237360+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -261,8 +232,37 @@
     ]
   },
   {
+    "id": "b6748ec6206832c6",
+    "date": "2026-08-16T11:33:33.237277+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Lazarus Weaponizes Windows Zero-Day with Post-Quantum Encryption: Inside the C2 Traffic news ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/news/lazarus-weaponizes-windows-zero-day-with-post-quantum-encryption-inside-the-c2-traffic",
+    "target": "Lazarus Weaponizes Windows Zero-Day",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/lazarus-weaponizes-windows-zero-day-with-post-quantum-encryption-inside-the-c2-traffic"
+      }
+    ]
+  },
+  {
     "id": "b0256dd3fc976bb6",
-    "date": "2026-08-16T10:39:10.496045+00:00",
+    "date": "2026-08-16T11:33:33.237195+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +291,7 @@
   },
   {
     "id": "21b62afe47056573",
-    "date": "2026-08-16T10:39:10.495798+00:00",
+    "date": "2026-08-16T11:33:33.237010+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -319,13 +319,13 @@
     ]
   },
   {
-    "id": "4a2124350ea62ba7",
-    "date": "2026-08-16T10:39:10.495031+00:00",
+    "id": "a64f47ca1e855119",
+    "date": "2026-08-16T11:33:33.236833+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens Aug 16, 2026",
+    "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens CYBERSEC",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -334,7 +334,7 @@
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/greatness-phaas-adds-device-code-phishing-to-bypass-mfa-and-steal-tokens",
-    "target": "CYBERSEC Greatness PhaaS Adds",
+    "target": "Greatness PhaaS Adds Device",
     "type": "Phishing / Scam",
     "severity": "High",
     "sources": [
@@ -348,13 +348,13 @@
     ]
   },
   {
-    "id": "ae2603a924ac95ce",
-    "date": "2026-08-16T10:39:10.494557+00:00",
+    "id": "d2c0ccf6a142e9f8",
+    "date": "2026-08-16T11:33:33.236060+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Criminals Buy Expired Domains to Inherit Reputation and Traffic",
+    "title": "CYBERSEC Criminals Buy Expired Domains to Inherit Reputation and Traffic Aug 16, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -363,7 +363,7 @@
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/criminals-buy-expired-domains-to-inherit-reputation-and-traffic",
-    "target": "Criminals Buy Expired Domains",
+    "target": "CYBERSEC Criminals Buy Expired",
     "type": "General Cybersecurity",
     "severity": "Low",
     "sources": [
@@ -378,12 +378,12 @@
   },
   {
     "id": "3ddb3eaee7aec34c",
-    "date": "2026-08-16T10:39:10.494393+00:00",
+    "date": "2026-08-16T11:33:33.235905+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 6 ZERO-DAY · 7 CVE · 7 EXPLOIT IN THE LAST 24H →",
+    "title": "// 7 ZERO-DAY · 8 CVE · 7 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -407,7 +407,7 @@
   },
   {
     "id": "12160ab45a8d0294",
-    "date": "2026-08-16T10:39:09.305676+00:00",
+    "date": "2026-08-16T11:33:32.011744+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -484,7 +484,7 @@
   },
   {
     "id": "6d2219d362e8e405",
-    "date": "2026-08-16T10:39:08.121159+00:00",
+    "date": "2026-08-16T11:33:30.896604+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -513,7 +513,7 @@
   },
   {
     "id": "74ad0bc85e7bcfcf",
-    "date": "2026-08-16T10:39:08.121021+00:00",
+    "date": "2026-08-16T11:33:30.896507+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -542,7 +542,7 @@
   },
   {
     "id": "26ca0cfbfe1283fe",
-    "date": "2026-08-16T10:39:08.120847+00:00",
+    "date": "2026-08-16T11:33:30.896384+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -571,7 +571,7 @@
   },
   {
     "id": "993b864711ae48cb",
-    "date": "2026-08-16T10:39:08.120603+00:00",
+    "date": "2026-08-16T11:33:30.896218+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -600,7 +600,7 @@
   },
   {
     "id": "585baa9112caeff6",
-    "date": "2026-08-16T10:39:08.120466+00:00",
+    "date": "2026-08-16T11:33:30.896108+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -641,7 +641,7 @@
   },
   {
     "id": "b39a344f07dbc553",
-    "date": "2026-08-16T10:39:08.120315+00:00",
+    "date": "2026-08-16T11:33:30.896001+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -670,7 +670,7 @@
   },
   {
     "id": "9a7507059141a458",
-    "date": "2026-08-16T10:39:08.120176+00:00",
+    "date": "2026-08-16T11:33:30.895904+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -699,7 +699,7 @@
   },
   {
     "id": "ff2a30717f2823a9",
-    "date": "2026-08-16T10:39:08.120037+00:00",
+    "date": "2026-08-16T11:33:30.895809+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -728,7 +728,7 @@
   },
   {
     "id": "e461238e721e091c",
-    "date": "2026-08-16T10:39:08.119886+00:00",
+    "date": "2026-08-16T11:33:30.895704+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -757,7 +757,7 @@
   },
   {
     "id": "9148d8d5ea0de27c",
-    "date": "2026-08-16T10:39:08.119678+00:00",
+    "date": "2026-08-16T11:33:30.895566+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -786,7 +786,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-08-16T10:39:08.119492+00:00",
+    "date": "2026-08-16T11:33:30.895433+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -815,7 +815,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-08-16T10:39:08.119306+00:00",
+    "date": "2026-08-16T11:33:30.895303+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -844,7 +844,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-08-16T10:39:08.119125+00:00",
+    "date": "2026-08-16T11:33:30.895173+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -873,7 +873,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-16T10:39:08.118975+00:00",
+    "date": "2026-08-16T11:33:30.895056+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -902,7 +902,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-16T10:39:08.118831+00:00",
+    "date": "2026-08-16T11:33:30.894962+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -931,7 +931,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-16T10:39:08.118659+00:00",
+    "date": "2026-08-16T11:33:30.894854+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -960,7 +960,7 @@
   },
   {
     "id": "cfcd7be93d0aa926",
-    "date": "2026-08-16T10:39:08.118503+00:00",
+    "date": "2026-08-16T11:33:30.894744+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -989,7 +989,7 @@
   },
   {
     "id": "a63286e4bf0c078f",
-    "date": "2026-08-16T10:39:08.118357+00:00",
+    "date": "2026-08-16T11:33:30.894639+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1018,7 +1018,7 @@
   },
   {
     "id": "e8179d8bd942c282",
-    "date": "2026-08-16T10:39:08.118205+00:00",
+    "date": "2026-08-16T11:33:30.894527+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1047,7 +1047,7 @@
   },
   {
     "id": "18d2eb21141cfdb2",
-    "date": "2026-08-16T10:39:08.117953+00:00",
+    "date": "2026-08-16T11:33:30.894339+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1076,7 +1076,7 @@
   },
   {
     "id": "f4773c113e806841",
-    "date": "2026-08-16T10:39:08.117659+00:00",
+    "date": "2026-08-16T11:33:30.894131+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1105,7 +1105,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-16T10:39:08.114042+00:00",
+    "date": "2026-08-16T11:33:30.891247+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1134,7 +1134,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-16T10:39:08.113124+00:00",
+    "date": "2026-08-16T11:33:30.890536+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1163,7 +1163,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-16T10:39:08.112876+00:00",
+    "date": "2026-08-16T11:33:30.890327+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1192,7 +1192,7 @@
   },
   {
     "id": "68793442dc0dec51",
-    "date": "2026-08-16T10:39:07.872951+00:00",
+    "date": "2026-08-16T11:33:30.631480+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1221,7 +1221,7 @@
   },
   {
     "id": "2eb6fa64547670a9",
-    "date": "2026-08-16T10:39:07.872824+00:00",
+    "date": "2026-08-16T11:33:30.631400+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1250,7 +1250,7 @@
   },
   {
     "id": "6089be6847529c0b",
-    "date": "2026-08-16T10:39:07.872666+00:00",
+    "date": "2026-08-16T11:33:30.631309+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1279,7 +1279,7 @@
   },
   {
     "id": "6294d1da87bfef9a",
-    "date": "2026-08-16T10:39:07.872532+00:00",
+    "date": "2026-08-16T11:33:30.631219+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1308,7 +1308,7 @@
   },
   {
     "id": "891b694facaaa612",
-    "date": "2026-08-16T10:39:07.872398+00:00",
+    "date": "2026-08-16T11:33:30.631113+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1337,7 +1337,7 @@
   },
   {
     "id": "74b2a7d73c93d327",
-    "date": "2026-08-16T10:39:07.872270+00:00",
+    "date": "2026-08-16T11:33:30.631031+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1366,7 +1366,7 @@
   },
   {
     "id": "bf08a0c2cf461b2a",
-    "date": "2026-08-16T10:39:07.872150+00:00",
+    "date": "2026-08-16T11:33:30.630951+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1395,7 +1395,7 @@
   },
   {
     "id": "36b75d2e2b641bbb",
-    "date": "2026-08-16T10:39:07.872033+00:00",
+    "date": "2026-08-16T11:33:30.630873+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1424,7 +1424,7 @@
   },
   {
     "id": "4c672297a6dc990b",
-    "date": "2026-08-16T10:39:07.871912+00:00",
+    "date": "2026-08-16T11:33:30.630793+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1453,7 +1453,7 @@
   },
   {
     "id": "2c7d6de428c373eb",
-    "date": "2026-08-16T10:39:07.871764+00:00",
+    "date": "2026-08-16T11:33:30.630698+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1482,7 +1482,7 @@
   },
   {
     "id": "9a90234417c54fc2",
-    "date": "2026-08-16T10:39:07.871602+00:00",
+    "date": "2026-08-16T11:33:30.630608+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1511,7 +1511,7 @@
   },
   {
     "id": "a4e1da6a2a0a21b3",
-    "date": "2026-08-16T10:39:07.871466+00:00",
+    "date": "2026-08-16T11:33:30.630520+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1540,7 +1540,7 @@
   },
   {
     "id": "c19e18f78f756ba1",
-    "date": "2026-08-16T10:39:07.871340+00:00",
+    "date": "2026-08-16T11:33:30.630436+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1573,7 +1573,7 @@
   },
   {
     "id": "285ea12d6da7774f",
-    "date": "2026-08-16T10:39:07.871204+00:00",
+    "date": "2026-08-16T11:33:30.630353+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1602,7 +1602,7 @@
   },
   {
     "id": "b3a2cf4f7a8c4a00",
-    "date": "2026-08-16T10:39:07.871066+00:00",
+    "date": "2026-08-16T11:33:30.630263+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1631,7 +1631,7 @@
   },
   {
     "id": "887aad32b69a4399",
-    "date": "2026-08-16T10:39:07.870931+00:00",
+    "date": "2026-08-16T11:33:30.630168+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1660,7 +1660,7 @@
   },
   {
     "id": "fde4d8bfbd3a86dc",
-    "date": "2026-08-16T10:39:07.870805+00:00",
+    "date": "2026-08-16T11:33:30.630065+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1689,7 +1689,7 @@
   },
   {
     "id": "ed40f50fc7723724",
-    "date": "2026-08-16T10:39:07.870647+00:00",
+    "date": "2026-08-16T11:33:30.629980+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1718,7 +1718,7 @@
   },
   {
     "id": "ac7235fb0bf9a5e1",
-    "date": "2026-08-16T10:39:07.870525+00:00",
+    "date": "2026-08-16T11:33:30.629901+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1751,7 +1751,7 @@
   },
   {
     "id": "0a86f4435bad38b8",
-    "date": "2026-08-16T10:39:07.870385+00:00",
+    "date": "2026-08-16T11:33:30.629808+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1780,7 +1780,7 @@
   },
   {
     "id": "efc865b1cdb01f38",
-    "date": "2026-08-16T10:39:07.870252+00:00",
+    "date": "2026-08-16T11:33:30.629718+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1809,7 +1809,7 @@
   },
   {
     "id": "a1766a60230f86b4",
-    "date": "2026-08-16T10:39:07.870100+00:00",
+    "date": "2026-08-16T11:33:30.629605+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1838,7 +1838,7 @@
   },
   {
     "id": "f94328dd9232a79c",
-    "date": "2026-08-16T10:39:07.869958+00:00",
+    "date": "2026-08-16T11:33:30.629506+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1867,7 +1867,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-16T10:39:07.869803+00:00",
+    "date": "2026-08-16T11:33:30.629404+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1904,7 +1904,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-16T10:39:07.869574+00:00",
+    "date": "2026-08-16T11:33:30.629222+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1932,6 +1932,64 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "ee81341f09afa157",
+    "date": "2026-08-16T10:39:10.496524+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "SonicWall Email Security: Local Privilege Escalation from CLI to Root via Command Injection CYBERSEC ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/sonicwall-email-security-local-privilege-escalation-from-cli-to-root-via-command-injection",
+    "target": "SonicWall Email",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/sonicwall-email-security-local-privilege-escalation-from-cli-to-root-via-command-injection"
+      }
+    ]
+  },
+  {
+    "id": "4a2124350ea62ba7",
+    "date": "2026-08-16T10:39:10.495031+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens Aug 16, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/greatness-phaas-adds-device-code-phishing-to-bypass-mfa-and-steal-tokens",
+    "target": "CYBERSEC Greatness PhaaS Adds",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/greatness-phaas-adds-device-code-phishing-to-bypass-mfa-and-steal-tokens"
       }
     ]
   },
@@ -26641,64 +26699,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/"
-      }
-    ]
-  },
-  {
-    "id": "962e5db5ae185332",
-    "date": "2026-08-04T21:35:36.817531+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Intel and AMD Patch 70 Flaws: Two Critical CVSS 9.3 and 9.2 Bugs in GPU Drivers",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/intel-and-amd-patch-70-flaws-two-critical-cvss-93-and-92-bugs-in-gpu-drivers",
-    "target": "CRITICAL Intel AMD Patch",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/intel-and-amd-patch-70-flaws-two-critical-cvss-93-and-92-bugs-in-gpu-drivers"
-      }
-    ]
-  },
-  {
-    "id": "fd03a4da542fc9b4",
-    "date": "2026-08-04T21:35:36.816821+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "PNLD Data Breach: UK Police Contacts Published on Dark Web July 26 CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/pnld-data-breach-uk-police-contacts-published-on-dark-web-july-26",
-    "target": "PNLD Data Breach",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/pnld-data-breach-uk-police-contacts-published-on-dark-web-july-26"
       }
     ]
   }
