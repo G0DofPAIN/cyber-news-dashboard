@@ -1,7 +1,7 @@
 [
   {
     "id": "3a7dccb63fcfe47e",
-    "date": "2026-08-17T23:35:33.802051+00:00",
+    "date": "2026-08-18T01:50:17.740727+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "5b21a6d6dd89357b",
-    "date": "2026-08-17T23:35:33.801917+00:00",
+    "date": "2026-08-18T01:50:17.740620+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "4ebe6289db09ced1",
-    "date": "2026-08-17T23:35:33.801792+00:00",
+    "date": "2026-08-18T01:50:17.740501+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "fb641fde4015c738",
-    "date": "2026-08-17T23:35:33.801677+00:00",
+    "date": "2026-08-18T01:50:17.740388+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "5e42f2eea49173ce",
-    "date": "2026-08-17T23:35:33.801567+00:00",
+    "date": "2026-08-18T01:50:17.740277+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "7d1deb20839ce0a9",
-    "date": "2026-08-17T23:35:33.801451+00:00",
+    "date": "2026-08-18T01:50:17.740156+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,42 +174,8 @@
     ]
   },
   {
-    "id": "3cc5ee170b2a2a39",
-    "date": "2026-08-17T23:35:33.801337+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "AmnesiaStealer: The macOS Malware That Hijacks Victim Browser Sessions in Real Time malware",
-    "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
-    "article_text": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. A notable capability is copying the victim's Chromium profile, including its authentication state, and loading it into a hidden, headless browser on the infected system. This allows the hacker to access victims' authenticated sessions while preserving the identifiers associated with the browser, host, and network. AmnesiaStealer can collect data in 16 Chromium-based web browsers as well as other sensitive information, such as passwords, cryptocurrency wallets, Apple Notes and documents, and keychain data. The malware is currently distributed through ClickFix campaigns that use a fake GitHub download page to drop a password-protected ZIP archive. Researchers at Jamf, an Apple device management and security company, analyzed AmnesiaStealer's distribution and found that it used the same template previously used to spread the Atomic and MacSync infostealers. The ClickFix command executes a shell-script loader that downloads and launches the password-protected archive containing the AmnesiaStealer Mach-O payload. The malware captures the victim’s macOS password and uses it to collect keychain data, as well as browser profiles, Apple Notes, Telegram sessions, documents, system information, and cryptocurrency wallet data. The researchers highlight that the malware features a component called stream_module, retrieved using the remote_stream command, which gives the malicious operator remote control over authenticated sessions deployed from a headless browser instance. The module launches the legitimate browser executable in headless mode with command-line switches that weaken browser defenses, duplicates the victim’s profile, and specifies its location for storing the profile data. The malware then establishes a WebSocket channel that connects to the operator's relay and sends a JSON registration message containing the browser name and build. The operator can then send commands over this channel, such as navigation and mouse clicks, while the malware returns status and tab information as JSON and transmits screencast frames as binary WebSocket messages. A second WebSocket channel connects to the local headless Chromium instance through the browser’s webSocketDebuggerUrl, providing access to the Chrome DevTools Protocol (CDP). “The operator receives a live screencast of the session at around 3fps and can drive it with a full input set: keyboard, mouse, scroll, navigation and tab management,” Jamf explains . \"In effect the remote_stream command turns an infected host into a live, operator-driven browser running the victim's authenticated sessions, which is a materially different level of access from file collection.\" It also steals cryptocurrency wallet details and identifies them by enumerating extensions and IndexedDB data. Jamf notes that the malware contains a fallback mechanism when it runs on macOS 26 and cannot recover the existing Chrome Safe Storage key, which replaced it with an attacker-supplied value. The Chrome DevTools Protocol (CDP) has been abused by malware in the past, including by Chaos ransomware to hide command-and-control communications, and by Chaes malware to expose browser functions that could enable data theft. However, AmnesiaStealer appears to be the first documented macOS malware to combine a cloned Chromium profile with CDP-based, live remote control, allowing attackers to interact with authenticated sessions through a hidden browser running on the infected computer. Users are advised never to execute commands in the terminal that they found online and don't fully understand. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. New CrashStealer malware poses as Apple crash reporting tool New ClickLock macOS malware traps users into revealing login password Hackers exploit macOS Screen Sharing flaw to deploy Monero miner ClickFix attack pushes macOS infostealer for crypto theft attacks Fake Roblox Xeno script launcher pushes infostealer, RAT malware Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks Critical VMware vCenter RCE flaw exploited for rever",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://deafnews.it/en/news/malware/amnesiastealer-the-macos-malware-that-hijacks-victim-browser-sessions-in-real-time",
-    "target": "AmnesiaStealer",
-    "type": "Malware",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews",
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/amnesiastealer-the-macos-malware-that-hijacks-victim-browser-sessions-in-real-time"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/"
-      }
-    ]
-  },
-  {
     "id": "520ebcc0666db69c",
-    "date": "2026-08-17T23:35:33.801212+00:00",
+    "date": "2026-08-18T01:50:17.740008+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -238,7 +204,7 @@
   },
   {
     "id": "a433545ca4bd9289",
-    "date": "2026-08-17T23:35:33.801100+00:00",
+    "date": "2026-08-18T01:50:17.739897+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -257,12 +223,17 @@
     "severity": "Critical",
     "sources": [
       "DeafNews",
+      "Reddit r/netsec",
       "Microsoft Security Blog"
     ],
     "links": [
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/ransomware/deadlock-the-ransomware-using-polygon-to-evade-infrastructure-seizures"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vr9ccc/deadlock_ransomware_rustbased_encryptor_with/"
       },
       {
         "source": "BleepingComputer",
@@ -276,7 +247,7 @@
   },
   {
     "id": "cc4588df2f81c2a5",
-    "date": "2026-08-17T23:35:33.800967+00:00",
+    "date": "2026-08-18T01:50:17.739769+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -305,7 +276,7 @@
   },
   {
     "id": "0bfa641d676eae81",
-    "date": "2026-08-17T23:35:33.800796+00:00",
+    "date": "2026-08-18T01:50:17.739622+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -334,7 +305,7 @@
   },
   {
     "id": "89e280ee4c633bf8",
-    "date": "2026-08-17T23:35:33.800562+00:00",
+    "date": "2026-08-18T01:50:17.739390+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -363,7 +334,7 @@
   },
   {
     "id": "c5352a89dcaaa1f7",
-    "date": "2026-08-17T23:35:33.799887+00:00",
+    "date": "2026-08-18T01:50:17.738718+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -396,7 +367,7 @@
   },
   {
     "id": "29a2fc02865a89a9",
-    "date": "2026-08-17T23:35:33.799732+00:00",
+    "date": "2026-08-18T01:50:17.738563+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -424,8 +395,37 @@
     ]
   },
   {
+    "id": "36f05844976ac76c",
+    "date": "2026-08-18T01:50:17.738292+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "RingCentral Breach Exposes 1.6 Million Records via Vishing Call",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/ringcentral-breach-exposes-16-million-records-via-vishing-call",
+    "target": "RingCentral Breach Exposes 1.6",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/ringcentral-breach-exposes-16-million-records-via-vishing-call"
+      }
+    ]
+  },
+  {
     "id": "db5ae4d0a95a1fa3",
-    "date": "2026-08-17T23:35:33.799435+00:00",
+    "date": "2026-08-18T01:50:17.738126+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -454,7 +454,7 @@
   },
   {
     "id": "37c662c4eb3eed71",
-    "date": "2026-08-17T23:35:33.065842+00:00",
+    "date": "2026-08-18T01:50:16.857992+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -535,7 +535,7 @@
   },
   {
     "id": "74ad0bc85e7bcfcf",
-    "date": "2026-08-17T23:35:32.383359+00:00",
+    "date": "2026-08-18T01:50:15.970814+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -564,7 +564,7 @@
   },
   {
     "id": "26ca0cfbfe1283fe",
-    "date": "2026-08-17T23:35:32.383177+00:00",
+    "date": "2026-08-18T01:50:15.970641+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -593,7 +593,7 @@
   },
   {
     "id": "993b864711ae48cb",
-    "date": "2026-08-17T23:35:32.382858+00:00",
+    "date": "2026-08-18T01:50:15.970415+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -622,7 +622,7 @@
   },
   {
     "id": "585baa9112caeff6",
-    "date": "2026-08-17T23:35:32.382716+00:00",
+    "date": "2026-08-18T01:50:15.970275+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -663,7 +663,7 @@
   },
   {
     "id": "b39a344f07dbc553",
-    "date": "2026-08-17T23:35:32.382561+00:00",
+    "date": "2026-08-18T01:50:15.970120+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -692,7 +692,7 @@
   },
   {
     "id": "9a7507059141a458",
-    "date": "2026-08-17T23:35:32.382419+00:00",
+    "date": "2026-08-18T01:50:15.969958+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -721,7 +721,7 @@
   },
   {
     "id": "ff2a30717f2823a9",
-    "date": "2026-08-17T23:35:32.382278+00:00",
+    "date": "2026-08-18T01:50:15.969820+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -750,7 +750,7 @@
   },
   {
     "id": "e461238e721e091c",
-    "date": "2026-08-17T23:35:32.382124+00:00",
+    "date": "2026-08-18T01:50:15.969671+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -779,7 +779,7 @@
   },
   {
     "id": "9148d8d5ea0de27c",
-    "date": "2026-08-17T23:35:32.381909+00:00",
+    "date": "2026-08-18T01:50:15.969480+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -808,7 +808,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-08-17T23:35:32.381602+00:00",
+    "date": "2026-08-18T01:50:15.969162+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -837,7 +837,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-08-17T23:35:32.381411+00:00",
+    "date": "2026-08-18T01:50:15.968910+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -866,7 +866,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-08-17T23:35:32.381225+00:00",
+    "date": "2026-08-18T01:50:15.968727+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -895,7 +895,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-17T23:35:32.381069+00:00",
+    "date": "2026-08-18T01:50:15.968577+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -924,7 +924,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-17T23:35:32.380906+00:00",
+    "date": "2026-08-18T01:50:15.968444+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -953,7 +953,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-17T23:35:32.380750+00:00",
+    "date": "2026-08-18T01:50:15.968290+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -982,7 +982,7 @@
   },
   {
     "id": "cfcd7be93d0aa926",
-    "date": "2026-08-17T23:35:32.380590+00:00",
+    "date": "2026-08-18T01:50:15.968130+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1011,7 +1011,7 @@
   },
   {
     "id": "a63286e4bf0c078f",
-    "date": "2026-08-17T23:35:32.380437+00:00",
+    "date": "2026-08-18T01:50:15.967959+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1040,7 +1040,7 @@
   },
   {
     "id": "e8179d8bd942c282",
-    "date": "2026-08-17T23:35:32.380280+00:00",
+    "date": "2026-08-18T01:50:15.967806+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1069,7 +1069,7 @@
   },
   {
     "id": "18d2eb21141cfdb2",
-    "date": "2026-08-17T23:35:32.380067+00:00",
+    "date": "2026-08-18T01:50:15.967598+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1098,7 +1098,7 @@
   },
   {
     "id": "eb86ee9796d7f5e2",
-    "date": "2026-08-17T23:35:32.379641+00:00",
+    "date": "2026-08-18T01:50:15.967197+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1127,7 +1127,7 @@
   },
   {
     "id": "99e3bed5fa0383cd",
-    "date": "2026-08-17T23:35:32.379435+00:00",
+    "date": "2026-08-18T01:50:15.966976+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1156,7 +1156,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-17T23:35:32.375842+00:00",
+    "date": "2026-08-18T01:50:15.963409+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1185,7 +1185,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-17T23:35:32.374873+00:00",
+    "date": "2026-08-18T01:50:15.962484+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1214,7 +1214,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-17T23:35:32.374600+00:00",
+    "date": "2026-08-18T01:50:15.962229+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1242,37 +1242,8 @@
     ]
   },
   {
-    "id": "891b694facaaa612",
-    "date": "2026-08-17T23:35:32.266709+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Write Once, Shell Everywhere - Turning Arbitrary File Writes into RCE (DEF CON Bug Bounty Village)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Write Once, Shell Everywhere - Turning Arbitrary File Writes into RCE (DEF CON Bug Bounty Village)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vir8aq/write_once_shell_everywhere_turning_arbitrary/",
-    "target": "Write Once Shell Everywhere",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vir8aq/write_once_shell_everywhere_turning_arbitrary/"
-      }
-    ]
-  },
-  {
     "id": "74b2a7d73c93d327",
-    "date": "2026-08-17T23:35:32.266579+00:00",
+    "date": "2026-08-18T01:50:15.858115+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1301,7 +1272,7 @@
   },
   {
     "id": "bf08a0c2cf461b2a",
-    "date": "2026-08-17T23:35:32.266453+00:00",
+    "date": "2026-08-18T01:50:15.857969+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1330,7 +1301,7 @@
   },
   {
     "id": "36b75d2e2b641bbb",
-    "date": "2026-08-17T23:35:32.266332+00:00",
+    "date": "2026-08-18T01:50:15.857843+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1359,7 +1330,7 @@
   },
   {
     "id": "4c672297a6dc990b",
-    "date": "2026-08-17T23:35:32.266205+00:00",
+    "date": "2026-08-18T01:50:15.857722+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1388,7 +1359,7 @@
   },
   {
     "id": "2c7d6de428c373eb",
-    "date": "2026-08-17T23:35:32.266057+00:00",
+    "date": "2026-08-18T01:50:15.857582+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1417,7 +1388,7 @@
   },
   {
     "id": "9a90234417c54fc2",
-    "date": "2026-08-17T23:35:32.265887+00:00",
+    "date": "2026-08-18T01:50:15.857443+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1446,7 +1417,7 @@
   },
   {
     "id": "a4e1da6a2a0a21b3",
-    "date": "2026-08-17T23:35:32.265752+00:00",
+    "date": "2026-08-18T01:50:15.857311+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1475,7 +1446,7 @@
   },
   {
     "id": "c19e18f78f756ba1",
-    "date": "2026-08-17T23:35:32.265626+00:00",
+    "date": "2026-08-18T01:50:15.857188+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1508,7 +1479,7 @@
   },
   {
     "id": "285ea12d6da7774f",
-    "date": "2026-08-17T23:35:32.265495+00:00",
+    "date": "2026-08-18T01:50:15.857027+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1537,7 +1508,7 @@
   },
   {
     "id": "b3a2cf4f7a8c4a00",
-    "date": "2026-08-17T23:35:32.265353+00:00",
+    "date": "2026-08-18T01:50:15.856889+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1566,7 +1537,7 @@
   },
   {
     "id": "fde4d8bfbd3a86dc",
-    "date": "2026-08-17T23:35:32.265220+00:00",
+    "date": "2026-08-18T01:50:15.856766+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1595,7 +1566,7 @@
   },
   {
     "id": "887aad32b69a4399",
-    "date": "2026-08-17T23:35:32.265064+00:00",
+    "date": "2026-08-18T01:50:15.856627+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1624,7 +1595,7 @@
   },
   {
     "id": "ed40f50fc7723724",
-    "date": "2026-08-17T23:35:32.264899+00:00",
+    "date": "2026-08-18T01:50:15.856493+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1653,7 +1624,7 @@
   },
   {
     "id": "ac7235fb0bf9a5e1",
-    "date": "2026-08-17T23:35:32.264772+00:00",
+    "date": "2026-08-18T01:50:15.856373+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1686,7 +1657,7 @@
   },
   {
     "id": "0a86f4435bad38b8",
-    "date": "2026-08-17T23:35:32.264631+00:00",
+    "date": "2026-08-18T01:50:15.856220+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1715,7 +1686,7 @@
   },
   {
     "id": "efc865b1cdb01f38",
-    "date": "2026-08-17T23:35:32.264494+00:00",
+    "date": "2026-08-18T01:50:15.856079+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1744,7 +1715,7 @@
   },
   {
     "id": "a1766a60230f86b4",
-    "date": "2026-08-17T23:35:32.264337+00:00",
+    "date": "2026-08-18T01:50:15.855909+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1773,7 +1744,7 @@
   },
   {
     "id": "f94328dd9232a79c",
-    "date": "2026-08-17T23:35:32.264196+00:00",
+    "date": "2026-08-18T01:50:15.855773+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1802,7 +1773,7 @@
   },
   {
     "id": "28492cb8e692efd2",
-    "date": "2026-08-17T23:35:32.264067+00:00",
+    "date": "2026-08-18T01:50:15.855654+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1831,7 +1802,7 @@
   },
   {
     "id": "45bcd35c2d4c1701",
-    "date": "2026-08-17T23:35:32.263910+00:00",
+    "date": "2026-08-18T01:50:15.855534+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1860,7 +1831,7 @@
   },
   {
     "id": "d0c3c072bf90b5b2",
-    "date": "2026-08-17T23:35:32.263769+00:00",
+    "date": "2026-08-18T01:50:15.855253+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1889,7 +1860,7 @@
   },
   {
     "id": "1df6d78d92dfe180",
-    "date": "2026-08-17T23:35:32.263613+00:00",
+    "date": "2026-08-18T01:50:15.855034+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1918,7 +1889,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-17T23:35:32.263459+00:00",
+    "date": "2026-08-18T01:50:15.854878+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1955,7 +1926,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-17T23:35:32.263228+00:00",
+    "date": "2026-08-18T01:50:15.854675+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1983,6 +1954,69 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "3cc5ee170b2a2a39",
+    "date": "2026-08-17T23:35:33.801337+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "AmnesiaStealer: The macOS Malware That Hijacks Victim Browser Sessions in Real Time malware",
+    "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
+    "article_text": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. A notable capability is copying the victim's Chromium profile, including its authentication state, and loading it into a hidden, headless browser on the infected system. This allows the hacker to access victims' authenticated sessions while preserving the identifiers associated with the browser, host, and network. AmnesiaStealer can collect data in 16 Chromium-based web browsers as well as other sensitive information, such as passwords, cryptocurrency wallets, Apple Notes and documents, and keychain data. The malware is currently distributed through ClickFix campaigns that use a fake GitHub download page to drop a password-protected ZIP archive. Researchers at Jamf, an Apple device management and security company, analyzed AmnesiaStealer's distribution and found that it used the same template previously used to spread the Atomic and MacSync infostealers. The ClickFix command executes a shell-script loader that downloads and launches the password-protected archive containing the AmnesiaStealer Mach-O payload. The malware captures the victim’s macOS password and uses it to collect keychain data, as well as browser profiles, Apple Notes, Telegram sessions, documents, system information, and cryptocurrency wallet data. The researchers highlight that the malware features a component called stream_module, retrieved using the remote_stream command, which gives the malicious operator remote control over authenticated sessions deployed from a headless browser instance. The module launches the legitimate browser executable in headless mode with command-line switches that weaken browser defenses, duplicates the victim’s profile, and specifies its location for storing the profile data. The malware then establishes a WebSocket channel that connects to the operator's relay and sends a JSON registration message containing the browser name and build. The operator can then send commands over this channel, such as navigation and mouse clicks, while the malware returns status and tab information as JSON and transmits screencast frames as binary WebSocket messages. A second WebSocket channel connects to the local headless Chromium instance through the browser’s webSocketDebuggerUrl, providing access to the Chrome DevTools Protocol (CDP). “The operator receives a live screencast of the session at around 3fps and can drive it with a full input set: keyboard, mouse, scroll, navigation and tab management,” Jamf explains . \"In effect the remote_stream command turns an infected host into a live, operator-driven browser running the victim's authenticated sessions, which is a materially different level of access from file collection.\" It also steals cryptocurrency wallet details and identifies them by enumerating extensions and IndexedDB data. Jamf notes that the malware contains a fallback mechanism when it runs on macOS 26 and cannot recover the existing Chrome Safe Storage key, which replaced it with an attacker-supplied value. The Chrome DevTools Protocol (CDP) has been abused by malware in the past, including by Chaos ransomware to hide command-and-control communications, and by Chaes malware to expose browser functions that could enable data theft. However, AmnesiaStealer appears to be the first documented macOS malware to combine a cloned Chromium profile with CDP-based, live remote control, allowing attackers to interact with authenticated sessions through a hidden browser running on the infected computer. Users are advised never to execute commands in the terminal that they found online and don't fully understand. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. New CrashStealer malware poses as Apple crash reporting tool New ClickLock macOS malware traps users into revealing login password Hackers exploit macOS Screen Sharing flaw to deploy Monero miner ClickFix attack pushes macOS infostealer for crypto theft attacks Fake Roblox Xeno script launcher pushes infostealer, RAT malware Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks Critical VMware vCenter RCE flaw exploited for rever",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://deafnews.it/en/news/malware/amnesiastealer-the-macos-malware-that-hijacks-victim-browser-sessions-in-real-time",
+    "target": "AmnesiaStealer",
+    "type": "Malware",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/malware/amnesiastealer-the-macos-malware-that-hijacks-victim-browser-sessions-in-real-time"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/"
+      }
+    ]
+  },
+  {
+    "id": "891b694facaaa612",
+    "date": "2026-08-17T23:35:32.266709+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Write Once, Shell Everywhere - Turning Arbitrary File Writes into RCE (DEF CON Bug Bounty Village)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Write Once, Shell Everywhere - Turning Arbitrary File Writes into RCE (DEF CON Bug Bounty Village)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vir8aq/write_once_shell_everywhere_turning_arbitrary/",
+    "target": "Write Once Shell Everywhere",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vir8aq/write_once_shell_everywhere_turning_arbitrary/"
       }
     ]
   },
@@ -26670,40 +26704,6 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html"
-      }
-    ]
-  },
-  {
-    "id": "e37324ee6a6a6fa8",
-    "date": "2026-08-06T05:40:49+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "250+ macOS ClickFix Domains Use Browser Fingerprinting to Hide Atomic Stealer Attacks",
-    "summary": "Atomic Stealer is being pushed at Mac users through websites that look harmless. A large ClickFix operation uses more than 250 look-alike domains to steer selected visitors toward a fake download page and a malicious Terminal command. ClickFix is built on persuasion, not a software flaw. The pages pose as download checks, updates, or CAPTCHA-style […] The post 250+ macOS ClickFix Domains Use Browser Fingerprinting to Hide Atomic Stealer Attacks appeared first on Cyber Security News .",
-    "article_text": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft said the wider cluster distributed MacSync and Atomic Stealer (AMOS) ; the chain it analyzed through the gate ended in AMOS. The attack still requires the user to copy and run an obfuscated command in Terminal. That command retrieves scripts and launches an infostealer targeting credentials, browser data, authentication stores, cryptocurrency wallets, and sensitive files. Microsoft has not disclosed victim numbers, targeted sectors, or the identity of the operators. Users should not follow any website, CAPTCHA, chat, or download instruction that asks them to paste text into Terminal. Microsoft said in an analysis published August 5 that the infrastructure changed during several weeks of monitoring. Earlier pages exposed the ClickFix instructions, clipboard logic, obfuscated shell command, and encoded staging address directly in their HTML, making them easy for static scanners to recover. The gate's script, about 2.5 KB of JavaScript, reads navigator values such as the platform string, which should report MacIntel on a real Mac, along with screen and window dimensions and WebGL graphics signals that help separate genuine Apple hardware from a virtual machine or an emulated environment. It checks the timezone, whether the page is boxed inside an iframe, and whether the device reports touch support, which desktop Macs generally do not. Two probes specifically hunt for analysts: a counter that ticks up when the browser's developer console is open, and a call to canPlayType(\"video/mp4\") repurposed as a tripwire that flags stealth browsers faking codec support in JavaScript. The bundle is tagged mode:\"php\" and sent back with no user interaction. The browser sends the fingerprint to the server, which chooses what the visitor sees. A crawler, sandbox, or visitor in an unwanted location may receive a blank page, fake browser extension, or unrelated business site. A request resembling a genuine Mac in the expected context receives a GitHub-themed \"Download for macOS\" page with a forged \"Verified Publisher\" badge. \"An apparently benign or look-alike response does not mean the domain is safe,\" Microsoft Security Research and Srinivasan Govindarajan, a senior security researcher at the company, said in the report. The decision happens server-side for each request, so two visits to the same address can produce entirely different pages. Microsoft confirmed more than 250 front-end domains during its tracking window. Many combine the word \"file\" with dictionary terms, including filecopperbasket[.]sbs and applefilevault[.]com. The company warned that the pattern is only a hunting lead. The stronger signal combines disposable names, shared infrastructure behavior, and the fingerprinting gate. Once a victim runs the command, it contacts a /curl/ path and retrieves further scripts before launching AMOS in the chain Microsoft analyzed. Microsoft said the wider domain cluster has also distributed MacSync , but it did not map every domain to a payload. Defenders should monitor for browsing followed by unusual Terminal activity, especially curl piped into zsh, Base64 decoding, osascript, and archive creation followed by outbound HTTP POST requests. Because the malicious page only appears for qualified visitors, the recommended move is to hunt the gate rather than the malware behind it: watch for self-submitting fingerprint forms, hidden fingerprint fields, and the mode:\"php\" artifact, and block on the shared staging infrastructure and /curl/ paths instead of chasing throwaway front-end domains. Apple released macOS 26.4 on March 24, 2026, and documented the protections in detail on August 3. Terminal shows a confirmation prompt for users who have not opened it in more than 30 days, lack common developer tools, and paste from browsers or messaging apps. Separately, XProtect can trace commands pasted into any terminal emulator, inspect their process tree and network artifacts, and block activity associated with known malware. The report maps the infrastructure and the mechanism, but not the scale of the campaign or who is running it, both of which Microsof",
-    "quick_summary": [
-      "Atomic Stealer is being pushed at Mac users through websites that look harmless.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/158536-2250-macos-clickfix-domains/",
-    "target": "250 ClickFix Domains Browser",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News",
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/158536-2250-macos-clickfix-domains/"
-      },
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html"
       }
     ]
   }
