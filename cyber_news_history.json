@@ -1,36 +1,7 @@
 [
   {
-    "id": "3a7dccb63fcfe47e",
-    "date": "2026-08-18T03:57:27.875277+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT ShieldBreak: Zero-Day Exploit Targets Windows Defender for SYSTEM Privilege Escalation",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/shieldbreak-zero-day-exploit-targets-windows-defender-for-system-privilege-escalation",
-    "target": "EXPLOIT ShieldBreak",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/shieldbreak-zero-day-exploit-targets-windows-defender-for-system-privilege-escalation"
-      }
-    ]
-  },
-  {
     "id": "5b21a6d6dd89357b",
-    "date": "2026-08-18T03:57:27.875174+00:00",
+    "date": "2026-08-18T04:51:00.607323+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "4ebe6289db09ced1",
-    "date": "2026-08-18T03:57:27.875071+00:00",
+    "date": "2026-08-18T04:51:00.607204+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "fb641fde4015c738",
-    "date": "2026-08-18T03:57:27.874970+00:00",
+    "date": "2026-08-18T04:51:00.607090+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "5e42f2eea49173ce",
-    "date": "2026-08-18T03:57:27.874874+00:00",
+    "date": "2026-08-18T04:51:00.606980+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "7d1deb20839ce0a9",
-    "date": "2026-08-18T03:57:27.874772+00:00",
+    "date": "2026-08-18T04:51:00.606859+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,51 +145,37 @@
     ]
   },
   {
-    "id": "a433545ca4bd9289",
-    "date": "2026-08-18T03:57:27.874674+00:00",
+    "id": "60cbf8b5e7a3b749",
+    "date": "2026-08-18T04:51:00.606727+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "DeadLock: The Ransomware Using Polygon to Evade Infrastructure Seizures ransomware EXPLOIT",
-    "summary": "Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims. The post DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure appeared first on Microsoft Security Blog .",
-    "article_text": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. The threat actor emerged in mid-2025 and uses double-extortion tactics (data theft/leak and file encryption) to pressure victims into paying a ransom. By July this year, DeadLock's data leak site listed 80 organizations, mostly from Europe. Victims include companies in the IT, mining, transportation, manufacturing, hospitality, and consumer goods sectors. Microsoft researchers observed the malware being deployed by multiple groups, including an affiliate previously linked to the Lynx and INC ransomware ecosystems. The DeadLock ransomware operators adopted a new approach that uses the Polygon blockchain to store configuration data and the posts on the leak site. Instead of using a traditional Tor URL, the HTML page retrieves the current chat-proxy address by querying a smart contract on the Polygon blockchain through a read-only eth_call . Retrieving command-and-control (C2) addresses stored on the blockchain is now a common tactic for cybercriminals, but it is a rare occurrence in the ransomware space. Additionally, DeadLock uses the decentralized Session network to encrypt victim communications and provides access to stolen files hosted on the Wasabi cloud service. All that enables the operators to replace the chat proxy without modifying the victim-facing application and reduces their dependence on conventional domains and web servers, which can be taken down by law enforcement agencies. However, Microsoft noted that communications still require the custom proxy, public Polygon RPC endpoints must remain accessible, and files hosted on Wasabi can be removed, so resistance to disruptions isn’t absolute. Microsoft's report also dives into DeadLock’s encryption system, which is configured to avoid countries in the former Soviet Union and the Commonwealth of Independent States (CIS) region, as well as Iran, Syria, Oman, and Yemen. After preparing the Windows host by deleting backups, stopping virtualization, and emptying the Recycle Bin, the locker encrypts select non-system directories using unique per-file XChaCha20 keys protected with the Curve25519 elliptic curve. The ransomware is configured to use up to 29% of the available system memory and 70% of CPU resources, so the victim may continue using the machine during the encryption process without major performance hiccups. Larger files are intermittently encrypted using 512-byte blocks to speed up the process while still making them mostly irrecoverable. Encrypted data is renamed with a victim-specific identifier and the ‘.dlock’ extension, the icons are changed, TXT ransom notes are dropped, and the desktop wallpaper is changed to indicate that the system has been locked. The attacker requests ransom payments in Bitcoin or Monero in exchange for a decryptor, a promise to delete the stolen data, details about the initial access vector, and a set of security recommendations. To defend against DeadLock ransomware attacks, Microsoft recommends strengthening endpoint defenses through cloud-delivered antivirus protection, EDR in block mode, tamper protection, automated investigation and remediation, and automatic attack disruption. Organizations should also restrict unauthorized file changes using Controlled Folder Access and enable attack-surface reduction rules to block untrusted executables and lateral movement via PsExec and WMI. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. New Spirals ransomware encrypts victim network in under 24 hours Blackfield ransomware asks Nidec Corporation for $2 million ransom New Prinz Eugen ransomware prioritizes recent files for encryption CISA: Microsoft SharePoint flaw now exploited in ransomware attacks US and South Korea warn of Gunra ransomware targeting govt agencies Hackers breach TrueConf to trojanize client installers with backdoors LexisNexis shuts down services after suspicious activity on servers Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. See how real inboxes, fake stores",
+    "title": "CVE CVE-2026-19478: GitLab Patches Critical GraphQL Flaw CVSS 9.4 for Self-Managed Instances",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/ransomware/deadlock-the-ransomware-using-polygon-to-evade-infrastructure-seizures",
-    "target": "DeadLock",
-    "type": "Ransomware",
+    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-19478-gitlab-patches-critical-graphql-flaw-cvss-94-for-self-managed-instances",
+    "target": "CVE CVE-2026-19478",
+    "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
-      "DeafNews",
-      "Reddit r/netsec",
-      "Microsoft Security Blog"
+      "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ransomware/deadlock-the-ransomware-using-polygon-to-evade-infrastructure-seizures"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vr9ccc/deadlock_ransomware_rustbased_encryptor_with/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/"
-      },
-      {
-        "source": "Microsoft Security Blog",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/"
+        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-19478-gitlab-patches-critical-graphql-flaw-cvss-94-for-self-managed-instances"
       }
     ]
   },
   {
     "id": "cc4588df2f81c2a5",
-    "date": "2026-08-18T03:57:27.874562+00:00",
+    "date": "2026-08-18T04:51:00.606602+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -247,7 +204,7 @@
   },
   {
     "id": "0bfa641d676eae81",
-    "date": "2026-08-18T03:57:27.874428+00:00",
+    "date": "2026-08-18T04:51:00.606455+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -276,7 +233,7 @@
   },
   {
     "id": "89e280ee4c633bf8",
-    "date": "2026-08-18T03:57:27.874210+00:00",
+    "date": "2026-08-18T04:51:00.606226+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -305,7 +262,7 @@
   },
   {
     "id": "354c3d71b631023e",
-    "date": "2026-08-18T03:57:27.874066+00:00",
+    "date": "2026-08-18T04:51:00.606072+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -334,7 +291,7 @@
   },
   {
     "id": "29a2fc02865a89a9",
-    "date": "2026-08-18T03:57:27.873396+00:00",
+    "date": "2026-08-18T04:51:00.605395+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -363,7 +320,7 @@
   },
   {
     "id": "68f20dcac0d3f523",
-    "date": "2026-08-18T03:57:27.873136+00:00",
+    "date": "2026-08-18T04:51:00.605136+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -391,13 +348,13 @@
     ]
   },
   {
-    "id": "d4ec28ae2109c515",
-    "date": "2026-08-18T03:57:27.873011+00:00",
+    "id": "eb1e47e6d8d839e6",
+    "date": "2026-08-18T04:51:00.605006+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Check Point: Global Attacks Near 2,000 Per Week as AI Rewrites the Kill Chain",
+    "title": "news Check Point: Global Attacks Near 2,000 Per Week as AI Rewrites the Kill Chain Aug 18, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -421,12 +378,12 @@
   },
   {
     "id": "db5ae4d0a95a1fa3",
-    "date": "2026-08-18T03:57:27.872838+00:00",
+    "date": "2026-08-18T04:51:00.604661+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 CRITICAL · 3 ZERO-DAY · 6 CVE · 4 EXPLOIT IN THE LAST 24H →",
+    "title": "// 3 CRITICAL · 2 ZERO-DAY · 6 CVE · 4 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -450,7 +407,7 @@
   },
   {
     "id": "37c662c4eb3eed71",
-    "date": "2026-08-18T03:57:26.828013+00:00",
+    "date": "2026-08-18T04:50:59.392953+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -531,7 +488,7 @@
   },
   {
     "id": "74ad0bc85e7bcfcf",
-    "date": "2026-08-18T03:57:25.538303+00:00",
+    "date": "2026-08-18T04:50:58.353606+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -560,7 +517,7 @@
   },
   {
     "id": "26ca0cfbfe1283fe",
-    "date": "2026-08-18T03:57:25.538138+00:00",
+    "date": "2026-08-18T04:50:58.353431+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -589,7 +546,7 @@
   },
   {
     "id": "993b864711ae48cb",
-    "date": "2026-08-18T03:57:25.537931+00:00",
+    "date": "2026-08-18T04:50:58.353205+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -618,7 +575,7 @@
   },
   {
     "id": "585baa9112caeff6",
-    "date": "2026-08-18T03:57:25.537810+00:00",
+    "date": "2026-08-18T04:50:58.353067+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -659,7 +616,7 @@
   },
   {
     "id": "b39a344f07dbc553",
-    "date": "2026-08-18T03:57:25.537674+00:00",
+    "date": "2026-08-18T04:50:58.352913+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -688,7 +645,7 @@
   },
   {
     "id": "9a7507059141a458",
-    "date": "2026-08-18T03:57:25.537551+00:00",
+    "date": "2026-08-18T04:50:58.352753+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -717,7 +674,7 @@
   },
   {
     "id": "ff2a30717f2823a9",
-    "date": "2026-08-18T03:57:25.537431+00:00",
+    "date": "2026-08-18T04:50:58.352614+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -746,7 +703,7 @@
   },
   {
     "id": "e461238e721e091c",
-    "date": "2026-08-18T03:57:25.537293+00:00",
+    "date": "2026-08-18T04:50:58.352464+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -775,7 +732,7 @@
   },
   {
     "id": "9148d8d5ea0de27c",
-    "date": "2026-08-18T03:57:25.537107+00:00",
+    "date": "2026-08-18T04:50:58.352275+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -804,7 +761,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-08-18T03:57:25.536824+00:00",
+    "date": "2026-08-18T04:50:58.351967+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -833,7 +790,7 @@
   },
   {
     "id": "7748a5e101447fc1",
-    "date": "2026-08-18T03:57:25.536655+00:00",
+    "date": "2026-08-18T04:50:58.351757+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -862,7 +819,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-08-18T03:57:25.536489+00:00",
+    "date": "2026-08-18T04:50:58.351574+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -891,7 +848,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-18T03:57:25.536353+00:00",
+    "date": "2026-08-18T04:50:58.351423+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -920,7 +877,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-18T03:57:25.536223+00:00",
+    "date": "2026-08-18T04:50:58.351290+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -949,7 +906,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-18T03:57:25.536085+00:00",
+    "date": "2026-08-18T04:50:58.351135+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -978,7 +935,7 @@
   },
   {
     "id": "cfcd7be93d0aa926",
-    "date": "2026-08-18T03:57:25.535944+00:00",
+    "date": "2026-08-18T04:50:58.350975+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1007,7 +964,7 @@
   },
   {
     "id": "a63286e4bf0c078f",
-    "date": "2026-08-18T03:57:25.535811+00:00",
+    "date": "2026-08-18T04:50:58.350804+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1036,7 +993,7 @@
   },
   {
     "id": "e8179d8bd942c282",
-    "date": "2026-08-18T03:57:25.535670+00:00",
+    "date": "2026-08-18T04:50:58.350651+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1065,7 +1022,7 @@
   },
   {
     "id": "18d2eb21141cfdb2",
-    "date": "2026-08-18T03:57:25.535480+00:00",
+    "date": "2026-08-18T04:50:58.350444+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1094,7 +1051,7 @@
   },
   {
     "id": "eb86ee9796d7f5e2",
-    "date": "2026-08-18T03:57:25.535097+00:00",
+    "date": "2026-08-18T04:50:58.350044+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1123,7 +1080,7 @@
   },
   {
     "id": "99e3bed5fa0383cd",
-    "date": "2026-08-18T03:57:25.534910+00:00",
+    "date": "2026-08-18T04:50:58.349849+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1152,7 +1109,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-18T03:57:25.531230+00:00",
+    "date": "2026-08-18T04:50:58.346397+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1181,7 +1138,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-18T03:57:25.530357+00:00",
+    "date": "2026-08-18T04:50:58.345451+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1210,7 +1167,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-18T03:57:25.530091+00:00",
+    "date": "2026-08-18T04:50:58.345187+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1238,37 +1195,8 @@
     ]
   },
   {
-    "id": "74b2a7d73c93d327",
-    "date": "2026-08-18T03:57:25.037157+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Analyzing a Multi-Stage PowerShell Payload Chain",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Analyzing a Multi-Stage PowerShell Payload Chain",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vj2hiw/analyzing_a_multistage_powershell_payload_chain/",
-    "target": "Analyzing Multi-Stage PowerShell Payload",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vj2hiw/analyzing_a_multistage_powershell_payload_chain/"
-      }
-    ]
-  },
-  {
     "id": "bf08a0c2cf461b2a",
-    "date": "2026-08-18T03:57:25.037058+00:00",
+    "date": "2026-08-18T04:50:58.136975+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1297,7 +1225,7 @@
   },
   {
     "id": "36b75d2e2b641bbb",
-    "date": "2026-08-18T03:57:25.036961+00:00",
+    "date": "2026-08-18T04:50:58.136850+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1326,7 +1254,7 @@
   },
   {
     "id": "4c672297a6dc990b",
-    "date": "2026-08-18T03:57:25.036859+00:00",
+    "date": "2026-08-18T04:50:58.136700+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1355,7 +1283,7 @@
   },
   {
     "id": "2c7d6de428c373eb",
-    "date": "2026-08-18T03:57:25.036736+00:00",
+    "date": "2026-08-18T04:50:58.136558+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1384,7 +1312,7 @@
   },
   {
     "id": "9a90234417c54fc2",
-    "date": "2026-08-18T03:57:25.036618+00:00",
+    "date": "2026-08-18T04:50:58.136418+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1413,7 +1341,7 @@
   },
   {
     "id": "a4e1da6a2a0a21b3",
-    "date": "2026-08-18T03:57:25.036506+00:00",
+    "date": "2026-08-18T04:50:58.136287+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1442,7 +1370,7 @@
   },
   {
     "id": "c19e18f78f756ba1",
-    "date": "2026-08-18T03:57:25.036404+00:00",
+    "date": "2026-08-18T04:50:58.136164+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1475,7 +1403,7 @@
   },
   {
     "id": "285ea12d6da7774f",
-    "date": "2026-08-18T03:57:25.036292+00:00",
+    "date": "2026-08-18T04:50:58.136035+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1504,7 +1432,7 @@
   },
   {
     "id": "b3a2cf4f7a8c4a00",
-    "date": "2026-08-18T03:57:25.036164+00:00",
+    "date": "2026-08-18T04:50:58.135891+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1533,7 +1461,7 @@
   },
   {
     "id": "fde4d8bfbd3a86dc",
-    "date": "2026-08-18T03:57:25.036059+00:00",
+    "date": "2026-08-18T04:50:58.135734+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1562,7 +1490,7 @@
   },
   {
     "id": "887aad32b69a4399",
-    "date": "2026-08-18T03:57:25.035944+00:00",
+    "date": "2026-08-18T04:50:58.135598+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1591,7 +1519,7 @@
   },
   {
     "id": "ed40f50fc7723724",
-    "date": "2026-08-18T03:57:25.035829+00:00",
+    "date": "2026-08-18T04:50:58.135470+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1620,7 +1548,7 @@
   },
   {
     "id": "ac7235fb0bf9a5e1",
-    "date": "2026-08-18T03:57:25.035727+00:00",
+    "date": "2026-08-18T04:50:58.135350+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1653,7 +1581,7 @@
   },
   {
     "id": "0a86f4435bad38b8",
-    "date": "2026-08-18T03:57:25.035610+00:00",
+    "date": "2026-08-18T04:50:58.135215+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1682,7 +1610,7 @@
   },
   {
     "id": "efc865b1cdb01f38",
-    "date": "2026-08-18T03:57:25.035497+00:00",
+    "date": "2026-08-18T04:50:58.135083+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1711,7 +1639,7 @@
   },
   {
     "id": "a1766a60230f86b4",
-    "date": "2026-08-18T03:57:25.035362+00:00",
+    "date": "2026-08-18T04:50:58.134934+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1740,7 +1668,7 @@
   },
   {
     "id": "f94328dd9232a79c",
-    "date": "2026-08-18T03:57:25.035221+00:00",
+    "date": "2026-08-18T04:50:58.134772+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1769,7 +1697,7 @@
   },
   {
     "id": "28492cb8e692efd2",
-    "date": "2026-08-18T03:57:25.035118+00:00",
+    "date": "2026-08-18T04:50:58.134651+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1798,7 +1726,7 @@
   },
   {
     "id": "45bcd35c2d4c1701",
-    "date": "2026-08-18T03:57:25.035018+00:00",
+    "date": "2026-08-18T04:50:58.134529+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1826,8 +1754,37 @@
     ]
   },
   {
+    "id": "2fb62cf654ce7485",
+    "date": "2026-08-18T04:50:58.134382+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Git repo forensics: a seven-phase process for investigating suspicious commits",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Git repo forensics: a seven-phase process for investigating suspicious commits",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vrfby2/git_repo_forensics_a_sevenphase_process_for/",
+    "target": "Git",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vrfby2/git_repo_forensics_a_sevenphase_process_for/"
+      }
+    ]
+  },
+  {
     "id": "d0c3c072bf90b5b2",
-    "date": "2026-08-18T03:57:25.034901+00:00",
+    "date": "2026-08-18T04:50:58.134174+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1856,7 +1813,7 @@
   },
   {
     "id": "1df6d78d92dfe180",
-    "date": "2026-08-18T03:57:25.034656+00:00",
+    "date": "2026-08-18T04:50:58.134022+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1884,8 +1841,51 @@
     ]
   },
   {
+    "id": "60f172fdef189e04",
+    "date": "2026-08-18T04:50:58.133811+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "DeadLock ransomware: Rust-based encryptor with decentralized recovery infrastructure",
+    "summary": "Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims. The post DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure appeared first on Microsoft Security Blog .",
+    "article_text": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. The threat actor emerged in mid-2025 and uses double-extortion tactics (data theft/leak and file encryption) to pressure victims into paying a ransom. By July this year, DeadLock's data leak site listed 80 organizations, mostly from Europe. Victims include companies in the IT, mining, transportation, manufacturing, hospitality, and consumer goods sectors. Microsoft researchers observed the malware being deployed by multiple groups, including an affiliate previously linked to the Lynx and INC ransomware ecosystems. The DeadLock ransomware operators adopted a new approach that uses the Polygon blockchain to store configuration data and the posts on the leak site. Instead of using a traditional Tor URL, the HTML page retrieves the current chat-proxy address by querying a smart contract on the Polygon blockchain through a read-only eth_call . Retrieving command-and-control (C2) addresses stored on the blockchain is now a common tactic for cybercriminals, but it is a rare occurrence in the ransomware space. Additionally, DeadLock uses the decentralized Session network to encrypt victim communications and provides access to stolen files hosted on the Wasabi cloud service. All that enables the operators to replace the chat proxy without modifying the victim-facing application and reduces their dependence on conventional domains and web servers, which can be taken down by law enforcement agencies. However, Microsoft noted that communications still require the custom proxy, public Polygon RPC endpoints must remain accessible, and files hosted on Wasabi can be removed, so resistance to disruptions isn’t absolute. Microsoft's report also dives into DeadLock’s encryption system, which is configured to avoid countries in the former Soviet Union and the Commonwealth of Independent States (CIS) region, as well as Iran, Syria, Oman, and Yemen. After preparing the Windows host by deleting backups, stopping virtualization, and emptying the Recycle Bin, the locker encrypts select non-system directories using unique per-file XChaCha20 keys protected with the Curve25519 elliptic curve. The ransomware is configured to use up to 29% of the available system memory and 70% of CPU resources, so the victim may continue using the machine during the encryption process without major performance hiccups. Larger files are intermittently encrypted using 512-byte blocks to speed up the process while still making them mostly irrecoverable. Encrypted data is renamed with a victim-specific identifier and the ‘.dlock’ extension, the icons are changed, TXT ransom notes are dropped, and the desktop wallpaper is changed to indicate that the system has been locked. The attacker requests ransom payments in Bitcoin or Monero in exchange for a decryptor, a promise to delete the stolen data, details about the initial access vector, and a set of security recommendations. To defend against DeadLock ransomware attacks, Microsoft recommends strengthening endpoint defenses through cloud-delivered antivirus protection, EDR in block mode, tamper protection, automated investigation and remediation, and automatic attack disruption. Organizations should also restrict unauthorized file changes using Controlled Folder Access and enable attack-surface reduction rules to block untrusted executables and lateral movement via PsExec and WMI. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. New Spirals ransomware encrypts victim network in under 24 hours Blackfield ransomware asks Nidec Corporation for $2 million ransom New Prinz Eugen ransomware prioritizes recent files for encryption CISA: Microsoft SharePoint flaw now exploited in ransomware attacks US and South Korea warn of Gunra ransomware targeting govt agencies Hackers breach TrueConf to trojanize client installers with backdoors LexisNexis shuts down services after suspicious activity on servers Webinar: Shadow AI in 2026 (and how attackers are taking advantage) Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. See how real inboxes, fake stores",
+    "quick_summary": [
+      "DeadLock ransomware: Rust-based encryptor with decentralized recovery infrastructure",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vr9ccc/deadlock_ransomware_rustbased_encryptor_with/",
+    "target": "DeadLock",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec",
+      "DeafNews",
+      "Microsoft Security Blog"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vr9ccc/deadlock_ransomware_rustbased_encryptor_with/"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ransomware/deadlock-the-ransomware-using-polygon-to-evade-infrastructure-seizures"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/"
+      },
+      {
+        "source": "Microsoft Security Blog",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/"
+      }
+    ]
+  },
+  {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-18T03:57:25.034522+00:00",
+    "date": "2026-08-18T04:50:58.133663+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1922,7 +1922,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-18T03:57:25.034301+00:00",
+    "date": "2026-08-18T04:50:58.133450+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1950,6 +1950,64 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "3a7dccb63fcfe47e",
+    "date": "2026-08-18T03:57:27.875277+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT ShieldBreak: Zero-Day Exploit Targets Windows Defender for SYSTEM Privilege Escalation",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/shieldbreak-zero-day-exploit-targets-windows-defender-for-system-privilege-escalation",
+    "target": "EXPLOIT ShieldBreak",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/shieldbreak-zero-day-exploit-targets-windows-defender-for-system-privilege-escalation"
+      }
+    ]
+  },
+  {
+    "id": "74b2a7d73c93d327",
+    "date": "2026-08-18T03:57:25.037157+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Analyzing a Multi-Stage PowerShell Payload Chain",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Analyzing a Multi-Stage PowerShell Payload Chain",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vj2hiw/analyzing_a_multistage_powershell_payload_chain/",
+    "target": "Analyzing Multi-Stage PowerShell Payload",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vj2hiw/analyzing_a_multistage_powershell_payload_chain/"
       }
     ]
   },
@@ -3034,7 +3092,7 @@
     "category": "",
     "title": "Microsoft confirms GitHub is down worldwide",
     "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
-    "article_text": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. GitHub confirmed the outage at 9:40 AM EDT on August 17, 2026, when it said it was investigating reports of performance problems affecting some of its services. The problems quickly spread across several parts of GitHub that developers rely on, including API Requests, Actions, Webhooks, Issues, and Pull Requests. According to GitHub's status page , the company is seeing error rates of around 20% across its web experience and API traffic. GitHub says archive downloads and raw repository content downloads are experiencing error rates of approximately 50%. Likewise, authentication-related services are also having problems, with SAML and OIDC authentication, SCIM, and Team Sync affected by the incident. Some users are running into server errors when trying to access GitHub, while others are reporting problems loading commits, repositories, and Pull Request pages. GitHub Actions is also experiencing degraded performance, which means the outage can affect automated builds, tests, deployments, and other workflows that depend on GitHub's CI/CD platform. At 10:31 AM EDT, GitHub confirmed that Copilot was also experiencing degraded availability, expanding the outage to its AI coding services. Git Operations, Packages, Pages, and Codespaces are currently listed as operational, but several important parts of GitHub remain degraded. GitHub has not disclosed what caused the outage and says its investigation is ongoing. Update 1 : At 11:42 AM EDT, GitHub said it is now performing mitigations. However, error rates remain around 20% for web experiences and API traffic, while archive and raw repository content downloads continue to see approximately 50% error rates. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft blames massive Microsoft 365 outage on maintenance bug Microsoft 365 outage affects Teams, SharePoint and other services AsyncAPI npm packages infected with credential-stealing malware Windows Server 2022 reaches end of mainstream support in 60 days Hackers arrested over €30M bank fraud exploiting service provider flaw RingCentral data breach exposed info of 1.6 million accounts Hackers exploit macOS Screen Sharing flaw to deploy Monero miner Certighost CVE is new. The privilege behind it isn't. Discover where yours is hiding. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. 91% of AI Apps Appeared in 16 Months. Get Material's OAuth Risk Report Stop AI slopsquatting attacks. Secure open source package ingestion before it hits your build. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. GitHub confirmed the outage at 9:40 AM EDT on August 17, 2026, when it said it was investigating reports of performance problems affecting some of its services. The problems quickly spread across several parts of GitHub that developers rely on, including API Requests, Actions, Webhooks, Issues, and Pull Requests. According to GitHub's status page , the company is seeing error rates of around 20% across its web experience and API traffic. GitHub says archive downloads and raw repository content downloads are experiencing error rates of approximately 50%. Likewise, authentication-related services are also having problems, with SAML and OIDC authentication, SCIM, and Team Sync affected by the incident. Some users are running into server errors when trying to access GitHub, while others are reporting problems loading commits, repositories, and Pull Request pages. GitHub Actions is also experiencing degraded performance, which means the outage can affect automated builds, tests, deployments, and other workflows that depend on GitHub's CI/CD platform. At 10:31 AM EDT, GitHub confirmed that Copilot was also experiencing degraded availability, expanding the outage to its AI coding services. Git Operations, Packages, Pages, and Codespaces are currently listed as operational, but several important parts of GitHub remain degraded. GitHub has not disclosed what caused the outage and says its investigation is ongoing. Update 1 : At 11:42 AM EDT, GitHub said it is now performing mitigations. However, error rates remain around 20% for web experiences and API traffic, while archive and raw repository content downloads continue to see approximately 50% error rates. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft blames massive Microsoft 365 outage on maintenance bug Microsoft 365 outage affects Teams, SharePoint and other services AsyncAPI npm packages infected with credential-stealing malware Windows Server 2022 reaches end of mainstream support in 60 days New Evooo1Bot Linux botnet turns routers into traffic relay nodes Anthropic confirms Claude is down in major outage affecting multiple services New AmnesiaStealer macOS malware hijacks browser sessions via remote control Certighost CVE is new. The privilege behind it isn't. Discover where yours is hiding. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Overdue a password health-check? Audit your Active Directory for free 91% of AI Apps Appeared in 16 Months. Get Material's OAuth Risk Report Stop AI slopsquatting attacks. Secure open source package ingestion before it hits your build. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -26638,76 +26696,6 @@
       {
         "source": "TechNadu",
         "url": "https://www.technadu.com/federal-vpn-proposal-targets-legacy-remote-access-systems/632092/"
-      }
-    ]
-  },
-  {
-    "id": "351e1cdac53ce066",
-    "date": "2026-08-06T06:45:16.616633+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "JFrog Confirms Its Own Zero-Days Were Exploited by OpenAI's Models Escape Their Sandbox to Hack Hugging Face",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.technadu.com/jfrog-confirms-its-own-zero-days-were-exploited-by-openais-models-escape-their-sandbox-to-hack-hugging-face/632099/",
-    "target": "JFrog Confirms Its Own",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/jfrog-confirms-its-own-zero-days-were-exploited-by-openais-models-escape-their-sandbox-to-hack-hugging-face/632099/"
-      }
-    ]
-  },
-  {
-    "id": "fd4fc89ff6c520ee",
-    "date": "2026-08-06T06:45:16.451612+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "OpenAI agents rebuilt a secret message board after the company shut it down",
-    "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously",
-    "article_text": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. One account was used as an outbound relay and staging server during the attack, while another was used for data storage. The remaining two accounts were accessed in a read-only manner and were not used to compromise Hugging Face further. Overall, the agent assembled attack infrastructure similar to what human threat actors commonly use during intrusions to host tools and scripts, relay traffic, and route malicious activity through legitimate online services. OpenAI did not identify the four services, explain how the models found the exposed credentials, or disclose what was stored in the third-party account. However, the company says it has not found evidence that the AI agent performed further compromise at any of the four service providers or other accounts hosted on their platforms. Reuters later reported that one of the four services was AI infrastructure provider Modal Labs. However, Modal says its own platform was not breached and that the agent instead accessed a customer environment through an exposed, unauthenticated endpoint. Modal CTO Akshat Bubna told Reuters that the customer had published an endpoint that allowed anyone on the internet to use its sandboxes for code execution. It remains unclear whether the Modal customer account was the platform used as an outbound relay and staging path, for data storage, or one of the two accounts accessed only in a read-only manner. BleepingComputer contacted OpenAI to learn more about how the models found the exposed credentials, which services were accessed, and how the accounts were used during the attack. OpenAI also says its models accessed a few additional accounts using publicly exposed credentials during other evaluations, but did not provide further details. The models also used public pastebin sites for sharing code and text, HTTP request-capture services commonly used during penetration tests and intrusions, screenshot services, and other web utilities. The activity occurred after OpenAI models escaped an isolated evaluation environment while being tested against ExploitGym, a benchmark designed to measure advanced cybersecurity capabilities. The models did not have direct internet access and could only install packages through an internally hosted JFrog Artifactory server acting as a proxy and cache for package registries. OpenAI confirmed in its July 28 update that the models identified and exploited a previously unknown Artifactory zero-day to gain internet access. The company separately said the models identified other Artifactory vulnerabilities during its subsequent review and disclosed them to JFrog. As BleepingComputer reported Tuesday , eight vulnerabilities fixed in Artifactory 7.161.15 are credited to OpenAI in CVE records. However, neither OpenAI nor JFrog would confirm the specific vulnerability that was exploited in the attack. After gaining internet access, the models inferred that Hugging Face might host the datasets and test solutions they needed to finish the benchmark. They then breached Hugging Face's production infrastructure in its attempts to gain access to this information, exploiting vulnerabilities in its dataset-processing pipeline, stealing cloud and cluster credentials, and moving laterally across internal systems. OpenAI also says that the model used in the attack is a pre-release model that was only intended for internal research and has now restricted it for further research access. \"No models planned for upcoming release were involved in exploiting Hugging Face,\" reads OpenAI's update . \"The pre-release model mentioned in our blog post is an internal-only research prototype and was never intended for public release. Following the incident, we deactivated, encrypted, and restricted it from research access.\" A draft incident post-mortem prepared by the Cloud Security Alliance's CISO community says the Hugging Face intrusion lasted approximately four days. The report is based partly on information Hugging Face shared during a conference call attended by nearly 700 CISOs. The document was later edited by participating CISOs and reviewed by the Hugging Face team before publication. According to the report, the models spent two days conducting reconnaissance, followed by one large",
-    "quick_summary": [
-      "OpenAI agents rebuilt a secret message board after the company shut it down",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vgkb8k/openai_agents_rebuilt_a_secret_message_board/",
-    "target": "OpenAI",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vgkb8k/openai_agents_rebuilt_a_secret_message_board/"
-      },
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/openai-chatgpt-cambodia-scam-centers-disruption"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/"
-      },
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html"
       }
     ]
   }
