@@ -1,36 +1,7 @@
 [
   {
-    "id": "3067011c5322087f",
-    "date": "2026-08-24T22:43:54.905341+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE CVE-2026-18294: RCE in OriginLab Origin Viewer via Malformed OGW File",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-18294-rce-in-originlab-origin-viewer-via-malformed-ogw-file",
-    "target": "CVE CVE-2026-18294",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-18294-rce-in-originlab-origin-viewer-via-malformed-ogw-file"
-      }
-    ]
-  },
-  {
     "id": "7f863a769f7473c4",
-    "date": "2026-08-24T22:43:54.905240+00:00",
+    "date": "2026-08-24T23:34:42.257428+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "b3ccc27d3760328d",
-    "date": "2026-08-24T22:43:54.905144+00:00",
+    "date": "2026-08-24T23:34:42.257318+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "5520b026c97b290d",
-    "date": "2026-08-24T22:43:54.905050+00:00",
+    "date": "2026-08-24T23:34:42.257208+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "b5311c0921c35707",
-    "date": "2026-08-24T22:43:54.904945+00:00",
+    "date": "2026-08-24T23:34:42.257093+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "80eb39149377b15c",
-    "date": "2026-08-24T22:43:54.904848+00:00",
+    "date": "2026-08-24T23:34:42.256970+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,13 +145,13 @@
     ]
   },
   {
-    "id": "098031a331cca270",
-    "date": "2026-08-24T22:43:54.904746+00:00",
+    "id": "b966621c2277d40d",
+    "date": "2026-08-24T23:34:42.256840+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CISA Adds CVE-2025-62593 to KEV Catalog: Ray at Risk of RCE CYBERSEC CVE",
+    "title": "CRITICAL libwebsockets: RCE via HTTP/2 HPACK, Single-Line Patch Available",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -188,8 +159,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cisa-adds-cve-2025-62593-to-kev-catalog-ray-at-risk-of-rce",
-    "target": "CISA Adds CVE-2025-62593 KEV",
+    "link": "https://deafnews.it/en/news/cybersecurity/libwebsockets-rce-via-http2-hpack-single-line-patch-available",
+    "target": "CRITICAL",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -198,13 +169,21 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cisa-adds-cve-2025-62593-to-kev-catalog-ray-at-risk-of-rce"
+        "url": "https://deafnews.it/en/news/cybersecurity/libwebsockets-rce-via-http2-hpack-single-line-patch-available"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/isolated-vm-c-binding-layer-bug-enables-sandbox-escape-to-host-rce"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/python/aeon-rce-via-eval-in-python-dataset-loading-patch-released"
       }
     ]
   },
   {
     "id": "60ebb346f1dc7233",
-    "date": "2026-08-24T22:43:54.904647+00:00",
+    "date": "2026-08-24T23:34:42.256723+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +212,7 @@
   },
   {
     "id": "630696c2a03fed53",
-    "date": "2026-08-24T22:43:54.904546+00:00",
+    "date": "2026-08-24T23:34:42.256609+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +241,7 @@
   },
   {
     "id": "0e12b9ef9042d3d9",
-    "date": "2026-08-24T22:43:54.904430+00:00",
+    "date": "2026-08-24T23:34:42.256479+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +270,7 @@
   },
   {
     "id": "e21988ee73152421",
-    "date": "2026-08-24T22:43:54.904325+00:00",
+    "date": "2026-08-24T23:34:42.256350+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -327,8 +306,37 @@
     ]
   },
   {
+    "id": "d7dcbecefae41cd6",
+    "date": "2026-08-24T23:34:42.256241+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE-2026-18294: RCE in OriginLab Origin Viewer via Malformed OGW File CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-18294-rce-in-originlab-origin-viewer-via-malformed-ogw-file",
+    "target": "CVE-2026-18294",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-18294-rce-in-originlab-origin-viewer-via-malformed-ogw-file"
+      }
+    ]
+  },
+  {
     "id": "845917fd317fa6d5",
-    "date": "2026-08-24T22:43:54.904100+00:00",
+    "date": "2026-08-24T23:34:42.256115+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -357,7 +365,7 @@
   },
   {
     "id": "e6c5fe8248656778",
-    "date": "2026-08-24T22:43:54.903977+00:00",
+    "date": "2026-08-24T23:34:42.255975+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -386,7 +394,7 @@
   },
   {
     "id": "7c72a4b90708ab7b",
-    "date": "2026-08-24T22:43:54.903100+00:00",
+    "date": "2026-08-24T23:34:42.255087+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -415,12 +423,12 @@
   },
   {
     "id": "2f8d3975edbdd1db",
-    "date": "2026-08-24T22:43:54.902662+00:00",
+    "date": "2026-08-24T23:34:42.254497+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 7 ZERO-DAY · 9 CVE · 7 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
+    "title": "// 1 CRITICAL · 7 ZERO-DAY · 10 CVE · 8 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -444,7 +452,7 @@
   },
   {
     "id": "f876aab74cb8c1b5",
-    "date": "2026-08-24T22:43:53.726798+00:00",
+    "date": "2026-08-24T23:34:41.019403+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -529,7 +537,7 @@
   },
   {
     "id": "58959670daed8e1c",
-    "date": "2026-08-24T22:43:52.251723+00:00",
+    "date": "2026-08-24T23:34:40.111142+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -558,7 +566,7 @@
   },
   {
     "id": "8ff68c36cf92006b",
-    "date": "2026-08-24T22:43:52.251596+00:00",
+    "date": "2026-08-24T23:34:40.110994+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -587,7 +595,7 @@
   },
   {
     "id": "2683554cdb0d4d85",
-    "date": "2026-08-24T22:43:52.251407+00:00",
+    "date": "2026-08-24T23:34:40.110764+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -616,7 +624,7 @@
   },
   {
     "id": "f1b94e4181c33c47",
-    "date": "2026-08-24T22:43:52.251283+00:00",
+    "date": "2026-08-24T23:34:40.110614+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -645,7 +653,7 @@
   },
   {
     "id": "b5e5c5af15171c98",
-    "date": "2026-08-24T22:43:52.251140+00:00",
+    "date": "2026-08-24T23:34:40.110446+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -674,7 +682,7 @@
   },
   {
     "id": "09f024329e884070",
-    "date": "2026-08-24T22:43:52.250947+00:00",
+    "date": "2026-08-24T23:34:40.110249+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -703,7 +711,7 @@
   },
   {
     "id": "8b31f7f1d6c68187",
-    "date": "2026-08-24T22:43:52.250818+00:00",
+    "date": "2026-08-24T23:34:40.110100+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -732,7 +740,7 @@
   },
   {
     "id": "c0b02cfc659f3f25",
-    "date": "2026-08-24T22:43:52.250679+00:00",
+    "date": "2026-08-24T23:34:40.109918+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -761,7 +769,7 @@
   },
   {
     "id": "ed641840d58110ab",
-    "date": "2026-08-24T22:43:52.250536+00:00",
+    "date": "2026-08-24T23:34:40.109758+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -790,7 +798,7 @@
   },
   {
     "id": "8b46aa2fa2133e0a",
-    "date": "2026-08-24T22:43:52.250416+00:00",
+    "date": "2026-08-24T23:34:40.109622+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -819,7 +827,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-08-24T22:43:52.250279+00:00",
+    "date": "2026-08-24T23:34:40.109470+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -848,7 +856,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-08-24T22:43:52.250037+00:00",
+    "date": "2026-08-24T23:34:40.109205+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -877,7 +885,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-08-24T22:43:52.249897+00:00",
+    "date": "2026-08-24T23:34:40.109059+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -906,7 +914,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-24T22:43:52.249764+00:00",
+    "date": "2026-08-24T23:34:40.108886+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -935,7 +943,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-24T22:43:52.249646+00:00",
+    "date": "2026-08-24T23:34:40.108753+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -964,7 +972,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-24T22:43:52.249507+00:00",
+    "date": "2026-08-24T23:34:40.108600+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -993,7 +1001,7 @@
   },
   {
     "id": "18d2eb21141cfdb2",
-    "date": "2026-08-24T22:43:52.249256+00:00",
+    "date": "2026-08-24T23:34:40.108325+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1022,7 +1030,7 @@
   },
   {
     "id": "cc751177657c27ee",
-    "date": "2026-08-24T22:43:52.249014+00:00",
+    "date": "2026-08-24T23:34:40.108066+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1051,7 +1059,7 @@
   },
   {
     "id": "56049af83b168993",
-    "date": "2026-08-24T22:43:52.248883+00:00",
+    "date": "2026-08-24T23:34:40.107909+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1080,7 +1088,7 @@
   },
   {
     "id": "165018f6e61b117c",
-    "date": "2026-08-24T22:43:52.248768+00:00",
+    "date": "2026-08-24T23:34:40.107781+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1125,7 +1133,7 @@
   },
   {
     "id": "6fc8f6dc07f9bbb4",
-    "date": "2026-08-24T22:43:52.248641+00:00",
+    "date": "2026-08-24T23:34:40.107640+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1154,7 +1162,7 @@
   },
   {
     "id": "17905c113bf086d3",
-    "date": "2026-08-24T22:43:52.248499+00:00",
+    "date": "2026-08-24T23:34:40.107488+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1183,7 +1191,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-24T22:43:52.244407+00:00",
+    "date": "2026-08-24T23:34:40.103849+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1212,7 +1220,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-24T22:43:52.243518+00:00",
+    "date": "2026-08-24T23:34:40.102908+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1241,7 +1249,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-24T22:43:52.243266+00:00",
+    "date": "2026-08-24T23:34:40.102644+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1270,7 +1278,7 @@
   },
   {
     "id": "ac7235fb0bf9a5e1",
-    "date": "2026-08-24T22:43:51.926028+00:00",
+    "date": "2026-08-24T23:34:39.936637+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1303,7 +1311,7 @@
   },
   {
     "id": "0a86f4435bad38b8",
-    "date": "2026-08-24T22:43:51.925901+00:00",
+    "date": "2026-08-24T23:34:39.936500+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1332,7 +1340,7 @@
   },
   {
     "id": "efc865b1cdb01f38",
-    "date": "2026-08-24T22:43:51.925794+00:00",
+    "date": "2026-08-24T23:34:39.936366+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1361,7 +1369,7 @@
   },
   {
     "id": "a1766a60230f86b4",
-    "date": "2026-08-24T22:43:51.925673+00:00",
+    "date": "2026-08-24T23:34:39.936211+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1390,7 +1398,7 @@
   },
   {
     "id": "f94328dd9232a79c",
-    "date": "2026-08-24T22:43:51.925558+00:00",
+    "date": "2026-08-24T23:34:39.936072+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1419,7 +1427,7 @@
   },
   {
     "id": "28492cb8e692efd2",
-    "date": "2026-08-24T22:43:51.925458+00:00",
+    "date": "2026-08-24T23:34:39.935924+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1448,7 +1456,7 @@
   },
   {
     "id": "45bcd35c2d4c1701",
-    "date": "2026-08-24T22:43:51.925364+00:00",
+    "date": "2026-08-24T23:34:39.935807+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1477,7 +1485,7 @@
   },
   {
     "id": "93002b8dccac0edc",
-    "date": "2026-08-24T22:43:51.925255+00:00",
+    "date": "2026-08-24T23:34:39.935675+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1506,7 +1514,7 @@
   },
   {
     "id": "d0c3c072bf90b5b2",
-    "date": "2026-08-24T22:43:51.925142+00:00",
+    "date": "2026-08-24T23:34:39.935541+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1535,7 +1543,7 @@
   },
   {
     "id": "1df6d78d92dfe180",
-    "date": "2026-08-24T22:43:51.925022+00:00",
+    "date": "2026-08-24T23:34:39.935399+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1564,7 +1572,7 @@
   },
   {
     "id": "81ec3764e25fcd7a",
-    "date": "2026-08-24T22:43:51.924884+00:00",
+    "date": "2026-08-24T23:34:39.935242+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1611,7 +1619,7 @@
   },
   {
     "id": "60f172fdef189e04",
-    "date": "2026-08-24T22:43:51.924780+00:00",
+    "date": "2026-08-24T23:34:39.935113+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1653,7 +1661,7 @@
   },
   {
     "id": "b79003b8779b6a65",
-    "date": "2026-08-24T22:43:51.924671+00:00",
+    "date": "2026-08-24T23:34:39.934950+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1682,7 +1690,7 @@
   },
   {
     "id": "030db589393ba267",
-    "date": "2026-08-24T22:43:51.924559+00:00",
+    "date": "2026-08-24T23:34:39.934815+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1711,7 +1719,7 @@
   },
   {
     "id": "ba7082bb879b45be",
-    "date": "2026-08-24T22:43:51.924436+00:00",
+    "date": "2026-08-24T23:34:39.934669+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1740,7 +1748,7 @@
   },
   {
     "id": "eebcf43c9a457f0e",
-    "date": "2026-08-24T22:43:51.924314+00:00",
+    "date": "2026-08-24T23:34:39.934523+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1769,7 +1777,7 @@
   },
   {
     "id": "40755a11d9c78562",
-    "date": "2026-08-24T22:43:51.924190+00:00",
+    "date": "2026-08-24T23:34:39.934373+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1798,7 +1806,7 @@
   },
   {
     "id": "fdbfd7fad28cbfd6",
-    "date": "2026-08-24T22:43:51.924083+00:00",
+    "date": "2026-08-24T23:34:39.934247+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1827,7 +1835,7 @@
   },
   {
     "id": "91bde216fd799bba",
-    "date": "2026-08-24T22:43:51.923948+00:00",
+    "date": "2026-08-24T23:34:39.934110+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1856,7 +1864,7 @@
   },
   {
     "id": "50a6c1ee35151ab5",
-    "date": "2026-08-24T22:43:51.923828+00:00",
+    "date": "2026-08-24T23:34:39.933941+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1885,7 +1893,7 @@
   },
   {
     "id": "5e97af2259a7d298",
-    "date": "2026-08-24T22:43:51.923692+00:00",
+    "date": "2026-08-24T23:34:39.933778+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1914,7 +1922,7 @@
   },
   {
     "id": "9adc30967ca078e5",
-    "date": "2026-08-24T22:43:51.923567+00:00",
+    "date": "2026-08-24T23:34:39.933633+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1943,7 +1951,7 @@
   },
   {
     "id": "3ec883c4a0ee068f",
-    "date": "2026-08-24T22:43:51.923440+00:00",
+    "date": "2026-08-24T23:34:39.933490+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1972,7 +1980,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-24T22:43:51.923307+00:00",
+    "date": "2026-08-24T23:34:39.933342+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2009,7 +2017,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-24T22:43:51.923095+00:00",
+    "date": "2026-08-24T23:34:39.933120+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2037,6 +2045,64 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "788413077809950d",
+    "date": "2026-08-24T23:00:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
+    "summary": "The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom.",
+    "article_text": "",
+    "quick_summary": [
+      "sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/iran-cyberattacks-us-uk",
+    "target": "Iranian",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/iran-cyberattacks-us-uk"
+      }
+    ]
+  },
+  {
+    "id": "098031a331cca270",
+    "date": "2026-08-24T22:43:54.904746+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CISA Adds CVE-2025-62593 to KEV Catalog: Ray at Risk of RCE CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cisa-adds-cve-2025-62593-to-kev-catalog-ray-at-risk-of-rce",
+    "target": "CISA Adds CVE-2025-62593 KEV",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cisa-adds-cve-2025-62593-to-kev-catalog-ray-at-risk-of-rce"
       }
     ]
   },
@@ -2368,7 +2434,7 @@
     "category": "",
     "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
     "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
-    "article_text": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. The miniOrange SAML SSO plugin turns a WordPress site into a SAML service provider, letting users log in through corporate identity platforms such as Microsoft Entra ID, Okta, Google Workspace, or OneLogin instead of separate WordPress credentials. Created by Xecurify, miniOrange is a family of seven plugins, with a free version that has 10,000 downloads and 30,000 customers for the other six. The two vulnerabilities observed in exploitation attempts are tracked as CVE-2026-61979 and CVE-2026-15981 and can be chained together to bypass authentication. Because the miniOrange SAML SSO plugin accepts the signature algorithm from incoming SAML responses instead of enforcing the configured one, an attacker can leverage CVE-2026-61979 to select HMAC-SHA1. This causes the plugin to treat the RSA public key from the identity provider (IdP) as the shared secret. Since the public key is known, the attacker can forge a signature that the plugin accepts as authentic. The second security issue, CVE-2026-15981, causes the plugin to treat an OpenSSL verification error (-1) as a successful result, allowing malformed signatures to pass validation. According to security firm Patchstack , the two vulnerabilities were publicly disclosed and fixed in July. However, the vendor’s advisory covered only the free edition, leaving the six paid editions without an alert, even though fixes were provided for those too. Failing to disclose the risk across all versions of the plugin reportedly led many sites running the paid editions to take no action, creating an opportunity for threat actors to exploit the two vulnerabilities. Patchstack reports that, on August 16, DigitalOcean blocked an anomalous WordPress administrator session originating outside its trusted network. Patchstack’s data shows that exploitation attempts and opportunistic scanning are underway, launched from six IP addresses across Europe, Africa, and the United States. A proof-of-concept (PoC) exploit targeting the free edition is also publicly available, so the pace of attacks could increase at any time. Patchstack warns that the WordPress administrator dashboard will not show update warnings for the paid versions of the plugin, so website owners must manually upgrade to a patched release. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. WordPress membership plugin bug exploited to create admin accounts Critical wp2shell WordPress flaws exploited to install webshells Critical Elementor Pro bug exposes WordPress sites to RCE attacks Hackers exploit macOS Screen Sharing flaw to deploy Monero miner N-able warns of N-central auth bypass flaw exploited in attacks Hundreds of leaked AWS keys give full control over corporate accounts Microsoft patches max severity code execution, privilege escalation flaws New SynkLoader malware pushed in Microsoft Teams phishing campaign Discover how least agency keeps your AI tools capable, controlled, and secure. See how AI is reshaping email attacks. Download the 2026 Kaseya Email Security Report. Discover why encryption and key management are critical for modern business. Protect yourself from data brokers, scammers, and the next data breach with digital identities. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Signature-based prevention fell to 50%. See what your controls still stop. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. The miniOrange SAML SSO plugin turns a WordPress site into a SAML service provider, letting users log in through corporate identity platforms such as Microsoft Entra ID, Okta, Google Workspace, or OneLogin instead of separate WordPress credentials. Created by Xecurify, miniOrange is a family of seven plugins, with a free version that has 10,000 downloads and 30,000 customers for the other six. The two vulnerabilities observed in exploitation attempts are tracked as CVE-2026-61979 and CVE-2026-15981 and can be chained together to bypass authentication. Because the miniOrange SAML SSO plugin accepts the signature algorithm from incoming SAML responses instead of enforcing the configured one, an attacker can leverage CVE-2026-61979 to select HMAC-SHA1. This causes the plugin to treat the RSA public key from the identity provider (IdP) as the shared secret. Since the public key is known, the attacker can forge a signature that the plugin accepts as authentic. The second security issue, CVE-2026-15981, causes the plugin to treat an OpenSSL verification error (-1) as a successful result, allowing malformed signatures to pass validation. According to security firm Patchstack , the two vulnerabilities were publicly disclosed and fixed in July. However, the vendor’s advisory covered only the free edition, leaving the six paid editions without an alert, even though fixes were provided for those too. Failing to disclose the risk across all versions of the plugin reportedly led many sites running the paid editions to take no action, creating an opportunity for threat actors to exploit the two vulnerabilities. Patchstack reports that, on August 16, DigitalOcean blocked an anomalous WordPress administrator session originating outside its trusted network. Patchstack’s data shows that exploitation attempts and opportunistic scanning are underway, launched from six IP addresses across Europe, Africa, and the United States. A proof-of-concept (PoC) exploit targeting the free edition is also publicly available, so the pace of attacks could increase at any time. Patchstack warns that the WordPress administrator dashboard will not show update warnings for the paid versions of the plugin, so website owners must manually upgrade to a patched release. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. WordPress membership plugin bug exploited to create admin accounts Critical wp2shell WordPress flaws exploited to install webshells Critical Elementor Pro bug exposes WordPress sites to RCE attacks Hackers exploit macOS Screen Sharing flaw to deploy Monero miner N-able warns of N-central auth bypass flaw exploited in attacks The management of these vulnerabilities but the vendor has been really poor. Maybe it's time to create an open source replacement. https://www.reddit.com/r/Wordpress/s/3YCOrbpt6a Hundreds of leaked AWS keys give full control over corporate accounts Microsoft patches max severity code execution, privilege escalation flaws New SynkLoader malware pushed in Microsoft Teams phishing campaign Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Discover how least agency keeps your AI tools capable, controlled, and secure. Signature-based prevention fell to 50%. See what your controls still stop. Protect yourself from data brokers, scammers, and the next data breach with digital identities. See how AI is reshaping email attacks. Download the 2026 Kaseya Email Security Report. Discover why encryption and key management are critical for modern business. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -2472,6 +2538,64 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/"
+      }
+    ]
+  },
+  {
+    "id": "1fe1df807b050a69",
+    "date": "2026-08-24T17:41:30+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+    "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+    "article_text": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can quietly keep growing. Our latest AI Coding and Open Source Risk webinar examines what this means for security and engineering teams, drawing on data from 300 enterprise leaders. AI coding itself is not the issue. The problem is how quickly generated code can bring new open-source components into your environment. A developer can add a dependency in minutes. Your team may then need to assess vulnerabilities, licensing, maintenance, ownership, and whether that package should be there at all. That work does not disappear just because the code was generated faster. Over time, you end up with remediation debt: security work accumulating faster than your team can close it. And as AI tools become more autonomous, that gap could widen significantly. ActiveState surveyed 300 security and engineering leaders across technology, financial services, healthcare, manufacturing, and government. The research examines how teams are handling AI-driven open-source risk, where remediation programs are struggling, and how that debt relates to audit failures, breach frequency, and lost productivity. This webinar walks through those findings so you can compare your own program with what other enterprises are seeing. That benchmark matters. It gives you a clearer sense of whether your current controls are keeping up or simply pushing more unresolved work downstream. This is not another session telling you that AI creates risk. It is a practical look at what the risk is becoming, how other organizations are dealing with it, and where your current process may need to change before AI-generated code scales further. Watch the AI Coding and Open Source Risk webinar to see what the data shows and how enterprise teams are responding. AI can find and chain vulnerabilities in minutes. This session gives you a practical roadmap to strengthen visibility, response, and remediation. AI is helping teams ship code 10–50× faster. This session shows how to keep security from falling behind. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+    "target": "Shipping More Code Than",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html"
+      }
+    ]
+  },
+  {
+    "id": "e8ef29bcf3d1c472",
+    "date": "2026-08-24T17:41:11+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+    "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
+    "article_text": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs, installation guides, developer credits, and links to genuine GitHub repositories. Notably, one of the sites has been built using Lovable , an artificial intelligence (AI)-powered website builder, highlighting how readily available tools can further lower the barrier and make it easier to launch convincing new malicious sites. Weedhack was first documented by the cybersecurity company back in June 2026, detailing its use of SEO poisoning and YouTube to redirect traffic to the bogus domains. The attack triggers a multi-stage sequence that culminates in the deployment of JAR payloads that can collect system information, set up Microsoft Defender exclusions, and steal sensitive data from the compromised host. \"Nearly half of the malicious URLs identified were Discord links (49.6%), followed by MediaFire (23.4%) and GitHub (8.2%), showing how attackers can use familiar platforms alongside fake websites to distribute malware,\" McAfee Labs researcher Aayush Tyagi said . Some of the fake domains distributing the malware are listed below - It's worth noting that both the websites for Xenon Client and Nova Client feature at the top of search results across various search engines like Google, Microsoft Bing, Brave Search, and DuckDuckGo, allowing unsuspecting users to download Weedhack-laced clients. \"The legitimate client is hosted on GitHub and Modrinth; however, attackers have created a spoofed website and leveraged SEO poisoning techniques to outrank the official sources in search results,\" McAfee Labs said. Besides bogus domains, file hosting services and GitHub repositories have been observed spreading Weedhack, with links to these websites distributed via Discord, Reddit, and other communication channels. Another propagation channel involves hosting the JAR files on Planet Minecart and EndMods, both of which are legitimate destinations for Minecraft tools and enhancements. To counter the threat, it's advised to keep devices up-to-date, stick to trusted sources, scan files before opening them, and exercise caution when any mod or cheat prompts to disable security protections before installing it. This is not the first time SEO poisoning campaigns for popular tools are being used to drop malware. In June 2026, Check Point flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework. AI can find and chain vulnerabilities in minutes. This session gives you a practical roadmap to strengthen visibility, response, and remediation. AI is helping teams ship code 10–50× faster. This session shows how to keep security from falling behind. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+    "target": "Weedhack Malware Spreads Fake",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html"
       }
     ]
   },
@@ -3452,35 +3576,6 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/"
-      }
-    ]
-  },
-  {
-    "id": "1fe1df807b050a69",
-    "date": "2026-08-24T11:58:00+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-    "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
-    "article_text": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can quietly keep growing. Our latest AI Coding and Open Source Risk webinar examines what this means for security and engineering teams, drawing on data from 300 enterprise leaders. AI coding itself is not the issue. The problem is how quickly generated code can bring new open-source components into your environment. A developer can add a dependency in minutes. Your team may then need to assess vulnerabilities, licensing, maintenance, ownership, and whether that package should be there at all. That work does not disappear just because the code was generated faster. Over time, you end up with remediation debt: security work accumulating faster than your team can close it. And as AI tools become more autonomous, that gap could widen significantly. ActiveState surveyed 300 security and engineering leaders across technology, financial services, healthcare, manufacturing, and government. The research examines how teams are handling AI-driven open-source risk, where remediation programs are struggling, and how that debt relates to audit failures, breach frequency, and lost productivity. This webinar walks through those findings so you can compare your own program with what other enterprises are seeing. That benchmark matters. It gives you a clearer sense of whether your current controls are keeping up or simply pushing more unresolved work downstream. This is not another session telling you that AI creates risk. It is a practical look at what the risk is becoming, how other organizations are dealing with it, and where your current process may need to change before AI-generated code scales further. Watch the AI Coding and Open Source Risk webinar to see what the data shows and how enterprise teams are responding. AI can find and chain vulnerabilities in minutes. This session gives you a practical roadmap to strengthen visibility, response, and remediation. AI is helping teams ship code 10–50× faster. This session shows how to keep security from falling behind. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-    "target": "Shipping More Code Than",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html"
       }
     ]
   },
@@ -5988,39 +6083,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/news/cisa-adds-cve-2026-8037-to-kev-792-exploit-attempts-from-65-ips-in-41-days"
-      }
-    ]
-  },
-  {
-    "id": "0d7ddbc93afba96e",
-    "date": "2026-08-22T16:39:57.566122+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL isolated-vm: C++ Binding Layer Bug Enables Sandbox Escape to Host RCE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/isolated-vm-c-binding-layer-bug-enables-sandbox-escape-to-host-rce",
-    "target": "CRITICAL",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/isolated-vm-c-binding-layer-bug-enables-sandbox-escape-to-host-rce"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/python/aeon-rce-via-eval-in-python-dataset-loading-patch-released"
       }
     ]
   },
@@ -26651,64 +26713,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/lazarus-strikes-with-cve-2026-68820-microsoft-zero-day-in-defense-sector"
-      }
-    ]
-  },
-  {
-    "id": "375a9806da8197e3",
-    "date": "2026-08-12T17:09:07+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Mindgard Raises $30 Million to Tackle AI’s Fastest-Growing Attack Surface",
-    "summary": "AI security startup Mindgard has closed a $30 million Series A funding round, pushing the company’s total funding to nearly $42 million. The milestone reflects the growing urgency among enterprise organizations seeking to secure rapidly expanding artificial intelligence deployments. The round was led by Album VC, with Karma Ventures joining as a new backer alongside […] The post Mindgard Raises $30 Million to Tackle AI’s Fastest-Growing Attack Surface appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "AI security startup Mindgard has closed a $30 million Series A funding round, pushing the company’s total funding to nearly $42 million.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/mindgard-ai-security/",
-    "target": "Mindgard Raises Million Tackle",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/mindgard-ai-security/"
-      }
-    ]
-  },
-  {
-    "id": "83490f960a6cf2b2",
-    "date": "2026-08-12T16:28:04+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Walmart's \"Trusted Agent\" Approach to Purple Teaming",
-    "summary": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
-    "article_text": "",
-    "quick_summary": [
-      "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
-    "target": "Walmarts Trusted Agent Approach",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming"
       }
     ]
   }
