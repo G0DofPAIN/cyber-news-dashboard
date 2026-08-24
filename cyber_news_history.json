@@ -1,36 +1,7 @@
 [
   {
-    "id": "083b859d1c4c7c95",
-    "date": "2026-08-24T11:43:38.292959+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE CVE-2026-4342: A Five-Day Window, Technical Debt With No Exit",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-4342-a-five-day-window-technical-debt-with-no-exit",
-    "target": "CVE CVE-2026-4342",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-4342-a-five-day-window-technical-debt-with-no-exit"
-      }
-    ]
-  },
-  {
     "id": "3a05c375b5740aaa",
-    "date": "2026-08-24T11:43:38.292874+00:00",
+    "date": "2026-08-24T13:12:10.812606+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "593ae15eb3d323dc",
-    "date": "2026-08-24T11:43:38.292780+00:00",
+    "date": "2026-08-24T13:12:10.812481+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "8333ac3f3798ae24",
-    "date": "2026-08-24T11:43:38.292688+00:00",
+    "date": "2026-08-24T13:12:10.812360+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "90729e2b1ce949f1",
-    "date": "2026-08-24T11:43:38.292604+00:00",
+    "date": "2026-08-24T13:12:10.812231+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "25fa6847ad2fada8",
-    "date": "2026-08-24T11:43:38.292511+00:00",
+    "date": "2026-08-24T13:12:10.812109+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,66 +145,37 @@
     ]
   },
   {
-    "id": "ffb852c1fadc1b87",
-    "date": "2026-08-24T11:43:38.292425+00:00",
+    "id": "3067011c5322087f",
+    "date": "2026-08-24T13:12:10.812002+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Stripe: 1,033 Vendor API Keys Exposed, Satanic Claims ~20,000 Total CYBERSEC",
+    "title": "CVE CVE-2026-18294: RCE in OriginLab Origin Viewer via Malformed OGW File",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/stripe-1033-vendor-api-keys-exposed-satanic-claims-20000-total",
-    "target": "Stripe",
-    "type": "Data Leak / Breach",
-    "severity": "Low",
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-18294-rce-in-originlab-origin-viewer-via-malformed-ogw-file",
+    "target": "CVE CVE-2026-18294",
+    "type": "Vulnerability",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/stripe-1033-vendor-api-keys-exposed-satanic-claims-20000-total"
-      }
-    ]
-  },
-  {
-    "id": "67993189aa359ea8",
-    "date": "2026-08-24T11:43:38.292334+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Noodlophile Stealer: Malware Rides the AI Hype Wave Through Fake Video-Generation Platforms CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/noodlophile-stealer-malware-rides-the-ai-hype-wave-through-fake-video-generation-platforms",
-    "target": "Noodlophile Stealer",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/noodlophile-stealer-malware-rides-the-ai-hype-wave-through-fake-video-generation-platforms"
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-18294-rce-in-originlab-origin-viewer-via-malformed-ogw-file"
       }
     ]
   },
   {
     "id": "d13fede7d1a7f500",
-    "date": "2026-08-24T11:43:38.292231+00:00",
+    "date": "2026-08-24T13:12:10.811895+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +204,7 @@
   },
   {
     "id": "86a59009d097c13a",
-    "date": "2026-08-24T11:43:38.292136+00:00",
+    "date": "2026-08-24T13:12:10.811771+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -290,8 +232,37 @@
     ]
   },
   {
+    "id": "405d00d803b49f91",
+    "date": "2026-08-24T13:12:10.811648+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE-2026-4342: A Five-Day Window, Technical Debt With No Exit VULN CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-4342-a-five-day-window-technical-debt-with-no-exit",
+    "target": "CVE-2026-4342",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-4342-a-five-day-window-technical-debt-with-no-exit"
+      }
+    ]
+  },
+  {
     "id": "263bba420b8c32af",
-    "date": "2026-08-24T11:43:38.291950+00:00",
+    "date": "2026-08-24T13:12:10.811530+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -320,7 +291,7 @@
   },
   {
     "id": "1b12d5f4ec55c68d",
-    "date": "2026-08-24T11:43:38.291849+00:00",
+    "date": "2026-08-24T13:12:10.811397+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -349,7 +320,7 @@
   },
   {
     "id": "3c78b0645976b061",
-    "date": "2026-08-24T11:43:38.291743+00:00",
+    "date": "2026-08-24T13:12:10.811245+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -377,13 +348,13 @@
     ]
   },
   {
-    "id": "d7a83f6f280db229",
-    "date": "2026-08-24T11:43:38.291206+00:00",
+    "id": "009350dcd6f83550",
+    "date": "2026-08-24T13:12:10.811123+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "news Iran Targets Exposed PLCs: U.S. Intrusions Confirmed, U.K. Case Unverified Aug 24, 2026",
+    "title": "Iran Targets Exposed PLCs: U.S. Intrusions Confirmed, U.K. Case Unverified news",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -406,13 +377,42 @@
     ]
   },
   {
-    "id": "2f8d3975edbdd1db",
-    "date": "2026-08-24T11:43:38.290612+00:00",
+    "id": "32dd0b91f268a5ed",
+    "date": "2026-08-24T13:12:10.809849+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 CRITICAL · 2 ZERO-DAY · 7 CVE · 5 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
+    "title": "CYBERSEC Parallels RAS Client: Local Vulnerability Allows Escalation to SYSTEM Aug 24, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/parallels-ras-client-local-vulnerability-allows-escalation-to-system",
+    "target": "CYBERSEC Parallels RAS Client",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/parallels-ras-client-local-vulnerability-allows-escalation-to-system"
+      }
+    ]
+  },
+  {
+    "id": "2f8d3975edbdd1db",
+    "date": "2026-08-24T13:12:10.809530+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 2 CRITICAL · 2 ZERO-DAY · 8 CVE · 6 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -436,7 +436,7 @@
   },
   {
     "id": "f876aab74cb8c1b5",
-    "date": "2026-08-24T11:43:37.153909+00:00",
+    "date": "2026-08-24T13:12:10.066619+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -520,37 +520,8 @@
     ]
   },
   {
-    "id": "85e1515d69ff397b",
-    "date": "2026-08-24T11:43:35.953371+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "\"TheHatman\" Is Selling Millions of Stolen Employee Records From McDonald's, Vodafone, Tata, Wyndham",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/thehatman-is-selling-millions-of-stolen-employee-records-from-mcdonalds-vodafone-tata-wyndham/633410/",
-    "target": "TheHatman Selling Millions Stolen",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/thehatman-is-selling-millions-of-stolen-employee-records-from-mcdonalds-vodafone-tata-wyndham/633410/"
-      }
-    ]
-  },
-  {
     "id": "58959670daed8e1c",
-    "date": "2026-08-24T11:43:35.953255+00:00",
+    "date": "2026-08-24T13:12:09.428742+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -579,7 +550,7 @@
   },
   {
     "id": "8ff68c36cf92006b",
-    "date": "2026-08-24T11:43:35.953134+00:00",
+    "date": "2026-08-24T13:12:09.428597+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -608,7 +579,7 @@
   },
   {
     "id": "2683554cdb0d4d85",
-    "date": "2026-08-24T11:43:35.952966+00:00",
+    "date": "2026-08-24T13:12:09.428383+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -637,7 +608,7 @@
   },
   {
     "id": "f1b94e4181c33c47",
-    "date": "2026-08-24T11:43:35.952855+00:00",
+    "date": "2026-08-24T13:12:09.428219+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -666,7 +637,7 @@
   },
   {
     "id": "b5e5c5af15171c98",
-    "date": "2026-08-24T11:43:35.952727+00:00",
+    "date": "2026-08-24T13:12:09.428056+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -695,7 +666,7 @@
   },
   {
     "id": "09f024329e884070",
-    "date": "2026-08-24T11:43:35.952573+00:00",
+    "date": "2026-08-24T13:12:09.427862+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -724,7 +695,7 @@
   },
   {
     "id": "8b31f7f1d6c68187",
-    "date": "2026-08-24T11:43:35.952460+00:00",
+    "date": "2026-08-24T13:12:09.427716+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -753,7 +724,7 @@
   },
   {
     "id": "c0b02cfc659f3f25",
-    "date": "2026-08-24T11:43:35.952332+00:00",
+    "date": "2026-08-24T13:12:09.427551+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -782,7 +753,7 @@
   },
   {
     "id": "ed641840d58110ab",
-    "date": "2026-08-24T11:43:35.952191+00:00",
+    "date": "2026-08-24T13:12:09.427387+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -810,8 +781,37 @@
     ]
   },
   {
+    "id": "8b46aa2fa2133e0a",
+    "date": "2026-08-24T13:12:09.427228+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Kaspersky Finds First Documented Android Car Head-Unit Malware Using Firmware Update Mechanism, Possible Links to BadBox Botnet",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/kaspersky-finds-first-documented-android-car-head-unit-malware-using-firmware-update-mechanism-possible-links-to-badbox-botnet/633738/",
+    "target": "Kaspersky Finds First Documented",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/kaspersky-finds-first-documented-android-car-head-unit-malware-using-firmware-update-mechanism-possible-links-to-badbox-botnet/633738/"
+      }
+    ]
+  },
+  {
     "id": "191256ce0155a788",
-    "date": "2026-08-24T11:43:35.952078+00:00",
+    "date": "2026-08-24T13:12:09.427073+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -840,7 +840,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-08-24T11:43:35.951870+00:00",
+    "date": "2026-08-24T13:12:09.426811+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -869,7 +869,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-08-24T11:43:35.951757+00:00",
+    "date": "2026-08-24T13:12:09.426670+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -898,7 +898,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-24T11:43:35.951636+00:00",
+    "date": "2026-08-24T13:12:09.426517+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -927,7 +927,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-24T11:43:35.951528+00:00",
+    "date": "2026-08-24T13:12:09.426380+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -956,7 +956,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-24T11:43:35.951404+00:00",
+    "date": "2026-08-24T13:12:09.426207+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -985,7 +985,7 @@
   },
   {
     "id": "18d2eb21141cfdb2",
-    "date": "2026-08-24T11:43:35.951180+00:00",
+    "date": "2026-08-24T13:12:09.425937+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1013,37 +1013,8 @@
     ]
   },
   {
-    "id": "8b46aa2fa2133e0a",
-    "date": "2026-08-24T11:43:35.950976+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Kaspersky Finds First Documented Android Car Head-Unit Malware Using Firmware Update Mechanism, Possible Links to BadBox Botnet",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/kaspersky-finds-first-documented-android-car-head-unit-malware-using-firmware-update-mechanism-possible-links-to-badbox-botnet/633738/",
-    "target": "Kaspersky Finds First Documented",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/kaspersky-finds-first-documented-android-car-head-unit-malware-using-firmware-update-mechanism-possible-links-to-badbox-botnet/633738/"
-      }
-    ]
-  },
-  {
     "id": "cc751177657c27ee",
-    "date": "2026-08-24T11:43:35.950860+00:00",
+    "date": "2026-08-24T13:12:09.425685+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1072,7 +1043,7 @@
   },
   {
     "id": "56049af83b168993",
-    "date": "2026-08-24T11:43:35.950757+00:00",
+    "date": "2026-08-24T13:12:09.425553+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1101,7 +1072,7 @@
   },
   {
     "id": "165018f6e61b117c",
-    "date": "2026-08-24T11:43:35.950656+00:00",
+    "date": "2026-08-24T13:12:09.425425+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1146,7 +1117,7 @@
   },
   {
     "id": "6fc8f6dc07f9bbb4",
-    "date": "2026-08-24T11:43:35.950531+00:00",
+    "date": "2026-08-24T13:12:09.425265+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1174,8 +1145,37 @@
     ]
   },
   {
+    "id": "17905c113bf086d3",
+    "date": "2026-08-24T13:12:09.425116+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Golf Canada Breach Exposes Nearly 570,000 Accounts, the Governing Body Isn't Talking",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/golf-canada-breach-exposes-nearly-570000-accounts-the-governing-body-isnt-talking/633856/",
+    "target": "Golf Canada Breach Exposes",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/golf-canada-breach-exposes-nearly-570000-accounts-the-governing-body-isnt-talking/633856/"
+      }
+    ]
+  },
+  {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-24T11:43:35.947651+00:00",
+    "date": "2026-08-24T13:12:09.421315+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1204,7 +1204,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-24T11:43:35.946984+00:00",
+    "date": "2026-08-24T13:12:09.420406+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1233,7 +1233,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-24T11:43:35.946782+00:00",
+    "date": "2026-08-24T13:12:09.420142+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1262,7 +1262,7 @@
   },
   {
     "id": "b3a2cf4f7a8c4a00",
-    "date": "2026-08-24T11:43:35.777375+00:00",
+    "date": "2026-08-24T13:12:09.305751+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1291,7 +1291,7 @@
   },
   {
     "id": "fde4d8bfbd3a86dc",
-    "date": "2026-08-24T11:43:35.777282+00:00",
+    "date": "2026-08-24T13:12:09.305632+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1320,7 +1320,7 @@
   },
   {
     "id": "887aad32b69a4399",
-    "date": "2026-08-24T11:43:35.777169+00:00",
+    "date": "2026-08-24T13:12:09.305501+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1349,7 +1349,7 @@
   },
   {
     "id": "ed40f50fc7723724",
-    "date": "2026-08-24T11:43:35.777079+00:00",
+    "date": "2026-08-24T13:12:09.305371+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1378,7 +1378,7 @@
   },
   {
     "id": "ac7235fb0bf9a5e1",
-    "date": "2026-08-24T11:43:35.776992+00:00",
+    "date": "2026-08-24T13:12:09.305233+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1411,7 +1411,7 @@
   },
   {
     "id": "0a86f4435bad38b8",
-    "date": "2026-08-24T11:43:35.776888+00:00",
+    "date": "2026-08-24T13:12:09.305100+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1440,7 +1440,7 @@
   },
   {
     "id": "efc865b1cdb01f38",
-    "date": "2026-08-24T11:43:35.776792+00:00",
+    "date": "2026-08-24T13:12:09.304971+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1469,7 +1469,7 @@
   },
   {
     "id": "a1766a60230f86b4",
-    "date": "2026-08-24T11:43:35.776682+00:00",
+    "date": "2026-08-24T13:12:09.304827+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1498,7 +1498,7 @@
   },
   {
     "id": "f94328dd9232a79c",
-    "date": "2026-08-24T11:43:35.776582+00:00",
+    "date": "2026-08-24T13:12:09.304696+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1527,7 +1527,7 @@
   },
   {
     "id": "28492cb8e692efd2",
-    "date": "2026-08-24T11:43:35.776494+00:00",
+    "date": "2026-08-24T13:12:09.304576+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1556,7 +1556,7 @@
   },
   {
     "id": "45bcd35c2d4c1701",
-    "date": "2026-08-24T11:43:35.776407+00:00",
+    "date": "2026-08-24T13:12:09.304453+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1585,7 +1585,7 @@
   },
   {
     "id": "93002b8dccac0edc",
-    "date": "2026-08-24T11:43:35.776302+00:00",
+    "date": "2026-08-24T13:12:09.304295+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1614,7 +1614,7 @@
   },
   {
     "id": "d0c3c072bf90b5b2",
-    "date": "2026-08-24T11:43:35.776178+00:00",
+    "date": "2026-08-24T13:12:09.304163+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1643,7 +1643,7 @@
   },
   {
     "id": "1df6d78d92dfe180",
-    "date": "2026-08-24T11:43:35.776072+00:00",
+    "date": "2026-08-24T13:12:09.304024+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1672,7 +1672,7 @@
   },
   {
     "id": "81ec3764e25fcd7a",
-    "date": "2026-08-24T11:43:35.775961+00:00",
+    "date": "2026-08-24T13:12:09.303879+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1691,12 +1691,17 @@
     "severity": "Critical",
     "sources": [
       "Reddit r/netsec",
+      "The Record",
       "BleepingComputer"
     ],
     "links": [
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1vru26k/how_a_popular_android_library_silently_exposed/"
+      },
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/android-botnet-china-hackers"
       },
       {
         "source": "BleepingComputer",
@@ -1714,7 +1719,7 @@
   },
   {
     "id": "60f172fdef189e04",
-    "date": "2026-08-24T11:43:35.775865+00:00",
+    "date": "2026-08-24T13:12:09.303757+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1756,7 +1761,7 @@
   },
   {
     "id": "030db589393ba267",
-    "date": "2026-08-24T11:43:35.775764+00:00",
+    "date": "2026-08-24T13:12:09.303625+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1785,7 +1790,7 @@
   },
   {
     "id": "b79003b8779b6a65",
-    "date": "2026-08-24T11:43:35.775673+00:00",
+    "date": "2026-08-24T13:12:09.303493+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1814,7 +1819,7 @@
   },
   {
     "id": "ba7082bb879b45be",
-    "date": "2026-08-24T11:43:35.775569+00:00",
+    "date": "2026-08-24T13:12:09.303320+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1843,7 +1848,7 @@
   },
   {
     "id": "eebcf43c9a457f0e",
-    "date": "2026-08-24T11:43:35.775466+00:00",
+    "date": "2026-08-24T13:12:09.303176+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1872,7 +1877,7 @@
   },
   {
     "id": "40755a11d9c78562",
-    "date": "2026-08-24T11:43:35.775365+00:00",
+    "date": "2026-08-24T13:12:09.303035+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1901,7 +1906,7 @@
   },
   {
     "id": "fdbfd7fad28cbfd6",
-    "date": "2026-08-24T11:43:35.775240+00:00",
+    "date": "2026-08-24T13:12:09.302905+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1930,7 +1935,7 @@
   },
   {
     "id": "91bde216fd799bba",
-    "date": "2026-08-24T11:43:35.775144+00:00",
+    "date": "2026-08-24T13:12:09.302764+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1959,7 +1964,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-24T11:43:35.775043+00:00",
+    "date": "2026-08-24T13:12:09.302615+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1996,7 +2001,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-24T11:43:35.774868+00:00",
+    "date": "2026-08-24T13:12:09.302411+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2028,6 +2033,271 @@
     ]
   },
   {
+    "id": "bbc2aa7835eb62f2",
+    "date": "2026-08-24T12:42:09+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
+    "summary": "Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation. The post Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
+    "target": "Uber Fined Nearly Billion",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/"
+      }
+    ]
+  },
+  {
+    "id": "7971754b541434b8",
+    "date": "2026-08-24T12:40:21+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+    "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
+    "article_text": "Microsoft has patched multiple maximum-severity vulnerabilities in its Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. Formerly known as Azure Active Directory (or Azure AD), it is a cloud-based IAM platform that provides Microsoft 365, Azure, or Dynamics CRM Online customers with authentication, policy enforcement, and protection across apps and resources. The first one, discovered by Microsoft principal security engineer Robert Fitzpatrick and tracked as CVE-2026-69836 , is a critical flaw in the Entra ID cloud-based IAM platform that allowed threat actors with no privileges to gain code execution in low-complexity attacks. \"Deserialization of untrusted data in Microsoft Entra ID allows an unauthorized attacker to execute code over a network,\" Microsoft said in a security advisory published on Thursday. Yesterday, Microsoft also addressed four more maximum severity flaws, three of them allowing unauthenticated attackers to escalate privileges remotely on Azure Arc ( CVE-2026-65816 and CVE-2026-69555 ) and Exchange Online ( CVE-2026-65801 ). The fourth, tracked as CVE-2026-65770 , enabled remote code execution on an Azure Managed Instance for Apache Cassandra. Microsoft says exploit code for these vulnerabilities is not yet available online and added that users don't need to take any action since the flaws have already been fully patched. According to Microsoft, the company published the security advisories \"to provide further transparency.\" In September 2025, it patched another critical Entra ID privilege escalation flaw ( CVE-2025-55241 ) reported by Outsider Security security researcher Dirk-jan Mollema that enabled attackers to gain complete access to the Microsoft Entra ID tenant of every company in the world. On Friday, CISA also tagged a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component as actively exploited. Update August 22, 02:56 EDT: Revised story and title following a statement from Microsoft saying they mistakenly flagged CVE-2026-69836 as exploited in the wild. The original story can be found here . Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Critical RCE flaw in Windows IKE Extension now actively exploited Max severity SAP Commerce Cloud flaw now targeted in attacks Critical VMware vCenter RCE flaw exploited for reverse SSH access CISA: Microsoft SharePoint flaw now exploited in ransomware attacks Hundreds of leaked AWS keys give full control over corporate accounts Citrix urges admins to patch new NetScaler flaws as soon as possible Microsoft rolls out Classic Outlook theme for New Outlook users Discover how least agency keeps your AI tools capable, controlled, and secure. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Certighost CVE is new. The privilege behind it isn't. Discover where yours is hiding. Signature-based prevention fell to 50%. See what your controls still stop. Protect yourself from data brokers, scammers, and the next data breach with digital identities. See how AI is reshaping email attacks. Download the 2026 Kaseya Email Security Report. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+    "target": "Microsoft",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/"
+      }
+    ]
+  },
+  {
+    "id": "d78d40484bf2cdef",
+    "date": "2026-08-24T11:58:28+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "91 Vulnerabilities Patched in Spring Application Framework",
+    "summary": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. The post 91 Vulnerabilities Patched in Spring Application Framework appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
+    "target": "Vulnerabilities Patched Spring Application",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/"
+      }
+    ]
+  },
+  {
+    "id": "1fe1df807b050a69",
+    "date": "2026-08-24T11:58:00+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+    "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+    "article_text": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can quietly keep growing. Our latest AI Coding and Open Source Risk webinar examines what this means for security and engineering teams, drawing on data from 300 enterprise leaders. AI coding itself is not the issue. The problem is how quickly generated code can bring new open-source components into your environment. A developer can add a dependency in minutes. Your team may then need to assess vulnerabilities, licensing, maintenance, ownership, and whether that package should be there at all. That work does not disappear just because the code was generated faster. Over time, you end up with remediation debt: security work accumulating faster than your team can close it. And as AI tools become more autonomous, that gap could widen significantly. ActiveState surveyed 300 security and engineering leaders across technology, financial services, healthcare, manufacturing, and government. The research examines how teams are handling AI-driven open-source risk, where remediation programs are struggling, and how that debt relates to audit failures, breach frequency, and lost productivity. This webinar walks through those findings so you can compare your own program with what other enterprises are seeing. That benchmark matters. It gives you a clearer sense of whether your current controls are keeping up or simply pushing more unresolved work downstream. This is not another session telling you that AI creates risk. It is a practical look at what the risk is becoming, how other organizations are dealing with it, and where your current process may need to change before AI-generated code scales further. Watch the AI Coding and Open Source Risk webinar to see what the data shows and how enterprise teams are responding. AI can find and chain vulnerabilities in minutes. This session gives you a practical roadmap to strengthen visibility, response, and remediation. AI is helping teams ship code 10–50× faster. This session shows how to keep security from falling behind. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+    "target": "Shipping More Code Than",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html"
+      }
+    ]
+  },
+  {
+    "id": "ec74501dc4fbe11a",
+    "date": "2026-08-24T11:56:34+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+    "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
+    "article_text": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963 , is rated 9.1 on the CVSS scoring system by Red Hat, which acts as the CVE Numbering Authority (CNA) for the flaw. It has been classified as a weak password recovery mechanism for a forgotten password (CWE-640). Users of upstream Keycloak are advised to update to version 26.7.2, released August 19, 2026, while customers running Red Hat build of Keycloak (RHBK) should apply the updates shipped for 26.4.15 and 26.6.6. There is no evidence that the flaw has been exploited, and no verified public exploit has been located as of August 24, 2026. Red Hat said in its CVE advisory that the root cause is \"improper state validation within the reset-credentials authentication flow,\" the sequence Keycloak runs when a user requests password recovery. The company assessed the severity as Critical because an unauthenticated remote attacker can exploit the flaw without any user interaction. The defect lies in how the flow's state is managed, according to the Red Hat bug report . An attacker sends a specially crafted request to the reset-credentials endpoint. The authentication session then transitions directly to the password update phase. The action token that Keycloak normally sends via email is never required. Successful exploitation results in a complete account takeover of any user, \"including administrative accounts,\" by resetting their password. Escape researcher Enzo Mongin, writing about a separate Keycloak access-control flaw he disclosed in July, said an attacker who crosses one of the server's boundaries does not stop at Keycloak, and that \"they get into everything sitting behind it.\" Red Hat issued four errata on August 18, 2026 ( RHSA-2026:56519 , RHSA-2026:56520 , RHSA-2026:56523 and RHSA-2026:56524 ), covering the standalone server packages and the container images for two RHBK streams. The fixed versions are as follows - The GitHub advisory for the flaw lists both the affected and the patched versions as unknown, and the CVE record carries only Red Hat product references. The initial CVE record listed Red Hat Single Sign-On 7 as unaffected and the Red Hat JBoss Enterprise Application Platform Expansion Pack as affected. A later revision narrowed the product list, and NVD's display truncates it, so the current status of both is not established. For deployments that cannot be updated immediately, Red Hat has published a temporary mitigation -- turn off the \"Forgot password\" functionality across all realms. In the RHBK administration console, the setting sits under Realm settings, then Login, then Forgot password. Red Hat said the setting must be applied to every realm and that customers should upgrade to a fixed version as soon as possible. CVE-2026-18963 was one of eight CVE identifiers listed as fixed in the Keycloak 26.7.2 release notes . The same release addressed CVE-2026-15571, a predictable account-linking hash that enables account takeover through a malicious OpenID Connect (OIDC) client. Two weeks earlier, on August 5, 2026, Keycloak 26.7.1 shipped fixes for twelve CVEs , including a SAML identity-provider-initiated broker login that bypassed a link-only restriction and a default dynamic client registration policy that allowed role forgery via user property mappers. Separately, Univention said in a post published August 20 that \"Nubus is not affected by this issue\" because the forgotten-password feature is not activated in its Keycloak deployments. Red Hat credited James Paremain with reporting the flaw. No source addresses whether the fix fully resolves the flaw. Whether every realm with the forgotten-password feature enabled is exploitable, or only certain reset-credentials flow configurations, is not stated by any of the published sources. AI can find and chain vulnerabilities in minutes. This session gives you a practical roadmap to strengthen visibility, response, and remediation. AI is helping teams ship code 10–50× faster. This session shows how to keep security from falling behind. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any use",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+    "target": "Critical Keycloak Password Reset",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html"
+      }
+    ]
+  },
+  {
+    "id": "e2d1a467d54ae561",
+    "date": "2026-08-24T11:51:36+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+    "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
+    "article_text": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER , has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate confidence. It was first observed in April 2026, when the attack was observed delivering a file named \"HolidayNotice.pdf.exe\" along with a lure that was a fabricated Belgian–Myanmar public holiday calendar. Two subsequent artifacts, each detected in June and July 2026, make use of a Virtual Hard Disk (VHD) file that activates the infection chain. Present within the VHD file is a Windows Shortcut (LNK) that mimics a PDF document. Opening the document displays a decoy PDF to the victim, an official graduation ceremony invitation that's written in Burmese and purports to be from the Information Technology and Cyber Security Department (ITCSD), which operates under Myanmar's Ministry of Transport and Communications. The \"announcement\" serves as a distraction while the shortcut file stealthily launches \"ftp.exe,\" a legitimate Microsoft-signed Windows binary, and abuses its \"-s\" option to run commands stored in a local script file. \"While the decoy is presented on the victim's screen, the script searches for two document files, header.doc and body.doc, stored inside the hidden _rels directory,\" security researchers Priya Patel and Kartik Jivani said. \"It then combines these two files using the native Windows copy /b command to reconstruct the next-stage payload.\" The payload is a Golang-based implant dubbed QUICAgent that performs sandbox evasion techniques before connecting to a command-and-control (C2) server. Specifically, it incorporates a random delay of 100-600 milliseconds and executes 1,000 iterations of SHA-256 hashing operations to exhaust automated sandbox execution time limits. The backend C2 server address is retrieved dynamically by sending an HTTP GET request to two Cloudflare Workers domains. Once the C2 address is obtained (\"104.64.211[.]22\"), it suffixes port 443 to the domain and constructs the final destination. The malware uses QUIC over UDP port 443 to communicate with the C2 server. The initial beacon to the server also includes basic information about the compromised host. The beacon is transmitted every five seconds, with each infected machine assigned a unique X-Agent-ID to identify the victim. QUICAgent is fairly basic in that it supports five commands to execute commands, transfer files, browse directories, and modify the beacon interval. Persistence is achieved by setting up an LNK file in the current user's Windows Startup folder so that it's automatically executed the next time the user logs in to the system. \"The campaign uses a multi-stage infection chain that begins with a malicious LNK file, abuses ftp.exe as a LOLBAS to execute the next stage, reconstructs the payload from two fake document files, and finally deploys a custom Go-based backdoor that we have named QUICAgent,\" the Indian cybersecurity company said. The disclosure comes as the China-linked Mustang Panda actor has been observed using an updated version of a known backdoor called COOLCLIENT that can deploy a signed kernel-mode driver (\"Msagent.sys\"), similar to the kernel-mode enhancements identified in TONESHELL . The backdoor is assessed to be deployed via PlugX using DLL sideloading, a technique extensively abused by the hacking group. COOLCLIENT supports such a wide array of capabilities as keylogging, clipboard theft, credential harvesting, file management, system reconnaissance, and plugin-based extensions. It was first detected in the wild in 2022. \"The driver enhances the malware's stealth by hiding the COOLCLIENT process, protecting related files and registry entries, and preventing them from being inspected or modified,\" Kaspersky said , adding it detected the updated variant and its accompanying driver in intrusions across Myanmar, Mongolia, Pakistan, and Russia. \"While the overall execution flow remains consistent with previously documented COOLCLIENT variants, this sample introduces a previously undocumented kernel-mode driver that significantly expands the malware's stealth capabilities.\" AI can find and chain vulnerabilities in minutes. This session gives you a practical roadmap to strengthen visibility, response, and remedi",
+    "quick_summary": [
+      "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent.",
+      "Risk: credentials/infostealer risk, ISNET vendor relevance",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+    "target": "Operation QUICSILVER Targets Myanmar",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html"
+      }
+    ]
+  },
+  {
+    "id": "ffb852c1fadc1b87",
+    "date": "2026-08-24T11:43:38.292425+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Stripe: 1,033 Vendor API Keys Exposed, Satanic Claims ~20,000 Total CYBERSEC",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/stripe-1033-vendor-api-keys-exposed-satanic-claims-20000-total",
+    "target": "Stripe",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/stripe-1033-vendor-api-keys-exposed-satanic-claims-20000-total"
+      }
+    ]
+  },
+  {
+    "id": "67993189aa359ea8",
+    "date": "2026-08-24T11:43:38.292334+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Noodlophile Stealer: Malware Rides the AI Hype Wave Through Fake Video-Generation Platforms CYBERSEC",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/noodlophile-stealer-malware-rides-the-ai-hype-wave-through-fake-video-generation-platforms",
+    "target": "Noodlophile Stealer",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/noodlophile-stealer-malware-rides-the-ai-hype-wave-through-fake-video-generation-platforms"
+      }
+    ]
+  },
+  {
+    "id": "85e1515d69ff397b",
+    "date": "2026-08-24T11:43:35.953371+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "\"TheHatman\" Is Selling Millions of Stolen Employee Records From McDonald's, Vodafone, Tata, Wyndham",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/thehatman-is-selling-millions-of-stolen-employee-records-from-mcdonalds-vodafone-tata-wyndham/633410/",
+    "target": "TheHatman Selling Millions Stolen",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/thehatman-is-selling-millions-of-stolen-employee-records-from-mcdonalds-vodafone-tata-wyndham/633410/"
+      }
+    ]
+  },
+  {
     "id": "61b3d0605521a8a5",
     "date": "2026-08-24T11:33:47+00:00",
     "source": "Cyber Security News",
@@ -2053,6 +2323,35 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/windows-updates-triggers-rgb-lighting-issues/"
+      }
+    ]
+  },
+  {
+    "id": "565c9e49125a5958",
+    "date": "2026-08-24T11:30:00+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+    "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations. According to new research published by Akamai, the top 5% of enterprise power",
+    "article_text": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations. According to new research published by Akamai, the top 5% of enterprise power users interact with AI models at 12 times the rate of the bottom 50% of the workforce. The findings, published in Akamai’s State of the Internet: Enterprise AI Usage Risk Report 2026 , are based on real-world usage and telemetry data as well as research and threat analysis. These AI super-adopters are creating a disproportionate security risk by expanding the use of shadow AI, increasing opportunities for data leakage, and introducing autonomous AI agents that operate within the enterprise but outside its established guardrails. “Small groups of AI power users are casting outsized shadows across enterprise threat surfaces that are already riddled with dips and blind spots,” says Or Eshed, Vice President Enterprise Security Product & Engineering at Akamai. “While security teams are focused on trying to govern all employees’ access to big frontier LLMs, the cumulative long-tail shadow of dozens of smaller AI tools used by power users arguably poses a more significant security risk.” According to Akamai data, the average employee conversation lasts about five prompts, while the top 5% of power users routinely engage in conversations of 18 prompts or more — evidence that AI models are becoming embedded collaborators in essential business operations. \"AI is no longer just a productivity booster; it is a virtual colleague with keycard access to the company vault,” says Eshed. “Security teams need to identify which employees depend most on AI to know where risk is concentrated.\" Nearly half of all enterprise AI conversations (47.11%) occur through personal identities rather than corporate-managed accounts, according to Akamai’s report. The situation creates a stark contrast between housebroken AI and feral AI. AI platforms with dedicated governance controls successfully enforce corporate identity boundaries, while personal-access accounts create significant visibility gaps for IT, security, and compliance teams. Governance becomes even more muddled when employees use corporate email addresses to register personal AI subscriptions. \"One of the most surprising findings was that 14.4% of enterprise AI conversations occurred via corporate email addresses linked to personal 'freemium' AI subscriptions rather than enterprise-managed licenses,\" says Eshed. \"This means that even when accessed through a corporate identity, the sensitive data employees inject into prompts may be used for public model training.\" But even organizations that successfully manage enterprise AI accounts often have little visibility into the growing ecosystem of niche AI tools employees install outside approved channels, the report found. While security teams focus on governing ChatGPT, Claude, Copilot, and Gemini, employees are quietly adopting dozens of niche AI tools, AI-enabled SaaS applications, and personal subscriptions without IT oversight. “As with mobile devices, employees increasingly 'bring their own AI tools — or BYOAI' to access AI through personal accounts,” says Eshed. “That creates additional visibility gaps around how business data is stored, retained, and processed.” Browser and IDE extensions represent another rapidly expanding blind spot. Akamai found that 17.7% of employees at midsize enterprises use at least one AI extension, compared with 9.53% at larger organizations. Nearly 75% request high or critical permissions. Crucially, 16.31% of AI extensions contain known CVE vulnerabilities, compared to 10.80% of browser extensions overall. “These tools are creating broad, unmanaged pathways directly into active user sessions and sensitive corporate data,” warns Eshed ”This Shadow AI landscape is not just a data privacy issue; it is the infrastructure for the next generation of automated cyberattacks.” For security teams, this shifting landscape requires a fundamental mindset shift. The AI problem facing CISOs is no longer whether employees are using AI. They are. The new mission is to identify where AI is operating, which teams depend on it most, and whether those systems remain inside enterprise guardrails. The challenge is to answer those questions b",
+    "quick_summary": [
+      "Big security risks come in small packages.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+    "target": "Outsized Shadow",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html"
       }
     ]
   },
@@ -2210,7 +2509,7 @@
     "category": "",
     "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
     "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
-    "article_text": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. The Zimbra security team patched the security flaw (tracked as CVE-2026-73570 ) in version 10.1.20 , released on July 20. Successful exploitation allows unauthenticated attackers to gain remote code execution by exploiting a command injection weakness in the SNMP monitoring component when SNMP notifications are enabled on the targeted system. \"Due to improper sanitization of untrusted input during SNMP notification processing, an unauthenticated attacker can send specially crafted SMTP requests that may result in execution of arbitrary operating system commands as the Zimbra user,\" it explained. CISA's warning comes after CERT Polska, the Polish Computer Emergency Response Team (CERT), first flagged the vulnerability as targeted in the wild last Monday. While threat security watchdog Shadowserver tracks more than 12,000 Zimbra servers exposed on the Internet, there is no information on how many are honeypots or have already been secured against attacks exploiting the CVE-2026-73570 flaw. ​On Friday, CISA confirmed CERT Polska's alert, added the flaw to its KEV catalog, and ordered U.S. Federal Civilian Executive Branch (FCEB) agencies to secure their systems within three days, by August 24. Although CISA didn't share any information on these ongoing attacks, the Polish CERT team asked security teams to check logs for suspicious activity, such as the Zimbra service restarting unexpectedly, and for files created in the /opt/zimbra/jetty/webapps/, /opt/zimbra/jetty_base/webapps/, and /tmp/ folders by user zimbra over the last 30 days. ZCS is a popular email and collaboration suite used by hundreds of millions of organizations and people worldwide, including hundreds of government agencies and thousands of businesses. Zimbra security issues are commonly targeted in the wild and have been used to steal sensitive data from vulnerable email servers in recent years. Most recently, Seqrite Labs researchers revealed in March that APT28 (a state-sponsored threat group linked to Russia's military intelligence service) was exploiting a stored cross-site scripting (XSS) vulnerability in attacks targeting Ukrainian government ZCS servers . In October 2024, U.S. and UK cyber agencies warned that APT29 hackers (tracked as Midnight Blizzard and Cozy Bear) linked to Russia's Foreign Intelligence Service were targeting Zimbra servers using a flaw previously exploited to steal email account credentials . Russian Winter Vivern cyber spies have also abused a reflected Cross-Site Scripting (XSS) vulnerability to steal emails belonging to NATO-aligned individuals and organizations via Zimbra webmail portals. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Critical RCE flaw in Windows IKE Extension now actively exploited CISA orders urgent action on actively exploited Langflow RCE flaw CISA sets urgent deadline to fix Cisco flaw exploited in attacks Hundreds of leaked AWS keys give full control over corporate accounts Microsoft patches max severity code execution, privilege escalation flaws Microsoft rolls out Classic Outlook theme for New Outlook users Certighost CVE is new. The privilege behind it isn't. Discover where yours is hiding. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Discover how least agency keeps your AI tools capable, controlled, and secure. See how AI is reshaping email attacks. Download the 2026 Kaseya Email Security Report. Signature-based prevention fell to 50%. See what your controls still stop. Protect yourself from data brokers, scammers, and the next data breach with digital identities. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. The Zimbra security team patched the security flaw (tracked as CVE-2026-73570 ) in version 10.1.20 , released on July 20. Successful exploitation allows unauthenticated attackers to gain remote code execution by exploiting a command injection weakness in the SNMP monitoring component when SNMP notifications are enabled on the targeted system. \"Due to improper sanitization of untrusted input during SNMP notification processing, an unauthenticated attacker can send specially crafted SMTP requests that may result in execution of arbitrary operating system commands as the Zimbra user,\" it explained. CISA's warning comes after CERT Polska, the Polish Computer Emergency Response Team (CERT), first flagged the vulnerability as targeted in the wild last Monday. While threat security watchdog Shadowserver tracks more than 12,000 Zimbra servers exposed on the Internet, there is no information on how many are honeypots or have already been secured against attacks exploiting the CVE-2026-73570 flaw. On Monday, Shadowserver also said it has found over 270 compromised Zimbra Collaboration Suite instances while looking for CVE-2026-73570 exploitation artifacts. ​On Friday, CISA confirmed CERT Polska's alert, added the flaw to its KEV catalog, and ordered U.S. Federal Civilian Executive Branch (FCEB) agencies to secure their systems within three days, by August 24. Although CISA didn't share any information on these ongoing attacks, the Polish CERT team asked security teams to check logs for suspicious activity, such as the Zimbra service restarting unexpectedly, and for files created in the /opt/zimbra/jetty/webapps/, /opt/zimbra/jetty_base/webapps/, and /tmp/ folders by user zimbra over the last 30 days. ZCS is a popular email and collaboration suite used by hundreds of millions of organizations and people worldwide, including hundreds of government agencies and thousands of businesses. Zimbra security issues are commonly targeted in the wild and have been used to steal sensitive data from vulnerable email servers in recent years. Most recently, Seqrite Labs researchers revealed in March that APT28 (a state-sponsored threat group linked to Russia's military intelligence service) was exploiting a stored cross-site scripting (XSS) vulnerability in attacks targeting Ukrainian government ZCS servers . In October 2024, U.S. and UK cyber agencies warned that APT29 hackers (tracked as Midnight Blizzard and Cozy Bear) linked to Russia's Foreign Intelligence Service were targeting Zimbra servers using a flaw previously exploited to steal email account credentials . Russian Winter Vivern cyber spies have also abused a reflected Cross-Site Scripting (XSS) vulnerability to steal emails belonging to NATO-aligned individuals and organizations via Zimbra webmail portals. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Critical RCE flaw in Windows IKE Extension now actively exploited CISA orders urgent action on actively exploited Langflow RCE flaw CISA sets urgent deadline to fix Cisco flaw exploited in attacks Hundreds of leaked AWS keys give full control over corporate accounts Microsoft patches max severity code execution, privilege escalation flaws Microsoft rolls out Classic Outlook theme for New Outlook users Signature-based prevention fell to 50%. See what your controls still stop. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Discover how least agency keeps your AI tools capable, controlled, and secure. Protect yourself from data brokers, scammers, and the next data breach with digital identities. Certighost CVE is new. The privilege behind it isn't. Discover where yours is hiding. See how AI is reshaping email attacks. Download the 2026 Kaseya Email Security Report. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -4394,7 +4693,7 @@
     "scope": "General",
     "category": "",
     "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
-    "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
+    "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes.",
     "article_text": "",
     "quick_summary": [
       "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
@@ -5358,7 +5657,7 @@
     "scope": "General",
     "category": "",
     "title": "OpenAI Adds Controls That Should've Been There Already",
-    "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+    "summary": "The new AI security controls follow the Hugging Face incident last month, though experts say many of these additions should have been in place prior to the frontier models escaping.",
     "article_text": "",
     "quick_summary": [
       "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
@@ -5719,35 +6018,6 @@
     ],
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
     "target": "Microsoft Entra",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/"
-      }
-    ]
-  },
-  {
-    "id": "17abf852ae69a315",
-    "date": "2026-08-21T11:04:10+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-    "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
-    "article_text": "Microsoft has patched multiple maximum-severity vulnerabilities in its Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. Formerly known as Azure Active Directory (or Azure AD), it is a cloud-based IAM platform that provides Microsoft 365, Azure, or Dynamics CRM Online customers with authentication, policy enforcement, and protection across apps and resources. The first one, discovered by Microsoft principal security engineer Robert Fitzpatrick and tracked as CVE-2026-69836 , is a critical flaw in the Entra ID cloud-based IAM platform that allowed threat actors with no privileges to gain code execution in low-complexity attacks. \"Deserialization of untrusted data in Microsoft Entra ID allows an unauthorized attacker to execute code over a network,\" Microsoft said in a security advisory published on Thursday. Yesterday, Microsoft also addressed four more maximum severity flaws, three of them allowing unauthenticated attackers to escalate privileges remotely on Azure Arc ( CVE-2026-65816 and CVE-2026-69555 ) and Exchange Online ( CVE-2026-65801 ). The fourth, tracked as CVE-2026-65770 , enabled remote code execution on an Azure Managed Instance for Apache Cassandra. Microsoft says exploit code for these vulnerabilities is not yet available online and added that users don't need to take any action since the flaws have already been fully patched. According to Microsoft, the company published the security advisories \"to provide further transparency.\" In September 2025, it patched another critical Entra ID privilege escalation flaw ( CVE-2025-55241 ) reported by Outsider Security security researcher Dirk-jan Mollema that enabled attackers to gain complete access to the Microsoft Entra ID tenant of every company in the world. On Friday, CISA also tagged a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component as actively exploited. Update August 22, 02:56 EDT: Revised story and title following a statement from Microsoft saying they mistakenly flagged CVE-2026-69836 as exploited in the wild. The original story can be found here . Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Critical RCE flaw in Windows IKE Extension now actively exploited Max severity SAP Commerce Cloud flaw now targeted in attacks Critical VMware vCenter RCE flaw exploited for reverse SSH access CISA: Microsoft SharePoint flaw now exploited in ransomware attacks Hundreds of leaked AWS keys give full control over corporate accounts Citrix urges admins to patch new NetScaler flaws as soon as possible Microsoft rolls out Classic Outlook theme for New Outlook users Discover how least agency keeps your AI tools capable, controlled, and secure. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Certighost CVE is new. The privilege behind it isn't. Discover where yours is hiding. Signature-based prevention fell to 50%. See what your controls still stop. Protect yourself from data brokers, scammers, and the next data breach with digital identities. See how AI is reshaping email attacks. Download the 2026 Kaseya Email Security Report. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-    "target": "Microsoft",
     "type": "Ransomware",
     "severity": "Critical",
     "sources": [
@@ -26404,276 +26674,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/local-malware-bypasses-google-passkeys-the-flaw-is-in-chrome-not-fido2"
-      }
-    ]
-  },
-  {
-    "id": "81d3f12576bd6e3e",
-    "date": "2026-08-12T05:01:32.209845+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CYBERSEC TrendAI Vision One: Log Information Disclosure Fixed After 10 Months Aug 11, 2026",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/trendai-vision-one-log-information-disclosure-fixed-after-10-months",
-    "target": "CYBERSEC TrendAI Vision One",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/trendai-vision-one-log-information-disclosure-fixed-after-10-months"
-      }
-    ]
-  },
-  {
-    "id": "ce1ed37872078a84",
-    "date": "2026-08-12T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-563: (Pwn2Own) Home Assistant Green Simple Service Discovery Protocol Server-Side Request Forgery Vulnerability",
-    "summary": "This vulnerability allows network-adjacent attackers to initiate arbitrary server-side requests on affected installations of Home Assistant Green. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 5.4.",
-    "article_text": "",
-    "quick_summary": [
-      "This vulnerability allows network-adjacent attackers to initiate arbitrary server-side requests on affected installations of Home Assistant Green.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-563/",
-    "target": "ZDI-26-563",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-563/"
-      }
-    ]
-  },
-  {
-    "id": "e06aa86c89b019f5",
-    "date": "2026-08-12T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-562: (Pwn2Own) Home Assistant Green mDNS Server-Side Request Forgery Vulnerability",
-    "summary": "This vulnerability allows network-adjacent attackers to initiate arbitrary server-side requests on affected installations of Home Assistant Green. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 5.4.",
-    "article_text": "",
-    "quick_summary": [
-      "This vulnerability allows network-adjacent attackers to initiate arbitrary server-side requests on affected installations of Home Assistant Green.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-562/",
-    "target": "ZDI-26-562",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-562/"
-      }
-    ]
-  },
-  {
-    "id": "1786665fe0be3feb",
-    "date": "2026-08-12T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-561: (Pwn2Own) Home Assistant Green go2rtc Command Injection Remote Code Execution Vulnerability",
-    "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Home Assistant Green. An attacker must first obtain the ability to access the device's localhost interface. The ZDI has assigned a CVSS rating of 7.5.",
-    "article_text": "",
-    "quick_summary": [
-      "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Home Assistant Green.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-561/",
-    "target": "ZDI-26-561",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-561/"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-560/"
-      }
-    ]
-  },
-  {
-    "id": "443831fb2c0905f3",
-    "date": "2026-08-12T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-559: (Pwn2Own) Amazon Smart Plug OTA Update Process Out-Of-Bounds Write Remote Code Execution Vulnerability",
-    "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Amazon Smart Plug. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.5.",
-    "article_text": "",
-    "quick_summary": [
-      "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Amazon Smart Plug.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-559/",
-    "target": "ZDI-26-559",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-559/"
-      }
-    ]
-  },
-  {
-    "id": "d866ece28d426caa",
-    "date": "2026-08-12T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-558: (Pwn2Own) Amazon Smart Plug OTA Update Process Improper Certificate Validation Vulnerability",
-    "summary": "This vulnerability allows network-adjacent attackers to bypass certificate validation for OTA updates on affected installations of Amazon Smart Plug. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 6.8.",
-    "article_text": "",
-    "quick_summary": [
-      "This vulnerability allows network-adjacent attackers to bypass certificate validation for OTA updates on affected installations of Amazon Smart Plug.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-558/",
-    "target": "ZDI-26-558",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-558/"
-      }
-    ]
-  },
-  {
-    "id": "83972aa1ee700363",
-    "date": "2026-08-12T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-557: (Pwn2Own) Amazon Smart Plug Insecure Fallback Information Disclosure Vulnerability",
-    "summary": "This vulnerability allows network-adjacent attackers to disclose sensitive information on affected installations of Amazon Smart Plug. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 4.3.",
-    "article_text": "",
-    "quick_summary": [
-      "This vulnerability allows network-adjacent attackers to disclose sensitive information on affected installations of Amazon Smart Plug.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-557/",
-    "target": "ZDI-26-557",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-557/"
-      }
-    ]
-  },
-  {
-    "id": "653d1a34322780d7",
-    "date": "2026-08-12T02:43:20.660237+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY Head Mare APT Turns TrueConf Servers into Supply-Chain Attack Vehicles",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles",
-    "target": "ZERO-DAY Head Mare APT",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/head-mare-apt-turns-trueconf-servers-into-supply-chain-attack-vehicles"
-      }
-    ]
-  },
-  {
-    "id": "d0546545d9a954bf",
-    "date": "2026-08-12T02:43:20.659647+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Kimsuky Builds Offline AI Stack to Automate Phishing and Malware CYBERSEC",
-    "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the",
-    "article_text": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the setup after months of tracking and log analysis on infrastructure tied to Kimsuky, a hacking unit under North Korea's Reconnaissance General Bureau. Genians found no evidence that the group had trained an AI model of its own, and the firm does not offer that as reassurance. It describes an actor in a \"research and knowledge acquisition\" stage, assembling and testing existing tools rather than making new models, with the apparent aim of folding AI through the operation, from writing malware to analyzing data. For an intelligence unit that has spent years phishing government, research, and other strategic targets, that points to attacks that are quicker to prepare and harder to spot. With nothing here to patch, the weight lands on defenders. Once AI writes the bait, the tells they once relied on weaken: stilted translation, clumsy formatting, spelling mistakes. What an intrusion does on the machine becomes the thing to watch. Genians' report tells defenders to correlate LNK execution, PowerShell, hidden scheduled tasks, GitHub traffic, and later payload activity instead of judging a lure mainly by how polished it looks. The core evidence is tools for running language models offline: Ollama, GPT4All and Msty, all found on infrastructure Genians linked to the group. The report says they were run or configured, not merely downloaded: Ollama generated the keys created on first launch, while GPT4All carried a configured localdocs_v3.db, the database used by its LocalDocs retrieval-augmented generation (RAG) feature. RAG lets a model answer from a private collection of documents. The database is evidence that the actor tried to connect documents in its possession to an AI system; it does not establish that those documents were stolen. The researchers separately recovered an operator request to check a data set for wallet details, Gmail credentials and site-registration history, ending, \"The more detailed the analysis, the better. Please do not do it haphazardly.\" The report could not confirm that this particular request was submitted to an AI service. The group did not stop at ready-made apps. On the same infrastructure, the firm found developer libraries including LLaMaSharp, Microsoft's Semantic Kernel and Microsoft.Agents.AI, components for building AI functions into custom C# and .NET software. It also found OpenAI's Whisper speech-to-text files with a guide on extracting text from audio, and active traces of Cursor, an AI-powered coding editor. None of these tools is exotic. What is new is a nation-state espionage group assembling them on purpose to push AI deeper into its own attack workflow. The activity extends a Kimsuky campaign Genians calls Operation GitPower, which abuses GitHub repositories as command channels in an LNK-to-PowerShell infection chain and has distributed encrypted AsyncRAT payloads disguised as image files Fortinet separately documented the broader GitHub-C2 pattern in April in attacks targeting South Korean users. That report corroborates the surrounding technique family, not Genians' new local-AI artifacts; Reuters said the new findings could not be independently verified. The newly observed offline stack (the local models, RAG database, and transcription tools) has not been shown running against a victim in the reporting to date, and no GitPower victim count has been disclosed. Set against the broader \"AI attack tools\" framing, that is a narrower near-term change than the label implies, with the groundwork for automating parts of the operation still being laid. Genians ties the operation to Kimsuky using overlaps with earlier campaigns, infrastructure clues, and North Korean vocabulary recovered from operator logs. The U.S. Treasury , which sanctioned Kimsuky in 2023, describes it as subordinate to the Reconnaissance General Bureau and primarily focused on intelligence collection. The step also fits a pattern Genians flagged in 2025, when it linked Kimsuky to a spear-phishing attack that used ChatGPT-generated images of South Korean military employee ID cards. Learn how 300 enterprise leaders are managing A",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/kimsuky-builds-offline-ai-stack-to-automate-phishing-and-malware",
-    "target": "Kimsuky Builds Offline Stack",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "DeafNews",
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/kimsuky-builds-offline-ai-stack-to-automate-phishing-and-malware"
-      },
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html"
       }
     ]
   }
