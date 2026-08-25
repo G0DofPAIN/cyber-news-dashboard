@@ -1,36 +1,7 @@
 [
   {
-    "id": "f2cf7969648eca3b",
-    "date": "2026-08-25T17:45:00.503036+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE CVE-2026-32475: Elementor Pro ≤4.2.1 Exposed to Unauthenticated RCE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-32475-elementor-pro-421-exposed-to-unauthenticated-rce",
-    "target": "CVE CVE-2026-32475",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-32475-elementor-pro-421-exposed-to-unauthenticated-rce"
-      }
-    ]
-  },
-  {
     "id": "721a80416a4fe32b",
-    "date": "2026-08-25T17:45:00.502924+00:00",
+    "date": "2026-08-25T18:56:11.398225+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "38fa26ccd12f6a6d",
-    "date": "2026-08-25T17:45:00.502818+00:00",
+    "date": "2026-08-25T18:56:11.398107+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "5d1c356a451cbb4e",
-    "date": "2026-08-25T17:45:00.502719+00:00",
+    "date": "2026-08-25T18:56:11.397992+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "833545f4209e348e",
-    "date": "2026-08-25T17:45:00.502592+00:00",
+    "date": "2026-08-25T18:56:11.397837+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "f223c665ff910a3f",
-    "date": "2026-08-25T17:45:00.502460+00:00",
+    "date": "2026-08-25T18:56:11.397691+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,22 +145,22 @@
     ]
   },
   {
-    "id": "eee8b6f182831c4f",
-    "date": "2026-08-25T17:45:00.502347+00:00",
+    "id": "47713d6724fad6e7",
+    "date": "2026-08-25T18:56:11.397574+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Safari UAF in JavaScriptCore: Apple Patches Already Available CYBERSEC CRITICAL",
+    "title": "CVE Citrix NetScaler: CVE-2026-19490, Critical Authentication Bypass with CVSS 9.3",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
+      "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/safari-uaf-in-javascriptcore-apple-patches-already-available",
-    "target": "Safari UAF JavaScriptCore",
+    "link": "https://deafnews.it/en/news/cybersecurity/citrix-netscaler-cve-2026-19490-critical-authentication-bypass-with-cvss-93",
+    "target": "CVE Citrix NetScaler",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -198,13 +169,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/safari-uaf-in-javascriptcore-apple-patches-already-available"
+        "url": "https://deafnews.it/en/news/cybersecurity/citrix-netscaler-cve-2026-19490-critical-authentication-bypass-with-cvss-93"
       }
     ]
   },
   {
     "id": "abddf86c225beeb6",
-    "date": "2026-08-25T17:45:00.502241+00:00",
+    "date": "2026-08-25T18:56:11.397459+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "07424468f4b88e59",
-    "date": "2026-08-25T17:45:00.502106+00:00",
+    "date": "2026-08-25T18:56:11.397313+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +233,7 @@
   },
   {
     "id": "649c82f57f34967b",
-    "date": "2026-08-25T17:45:00.502001+00:00",
+    "date": "2026-08-25T18:56:11.397197+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -290,8 +261,37 @@
     ]
   },
   {
+    "id": "1169331bac345546",
+    "date": "2026-08-25T18:56:11.397078+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE-2026-32475: Elementor Pro ≤4.2.1 Exposed to Unauthenticated RCE VULN CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-32475-elementor-pro-421-exposed-to-unauthenticated-rce",
+    "target": "CVE-2026-32475",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-32475-elementor-pro-421-exposed-to-unauthenticated-rce"
+      }
+    ]
+  },
+  {
     "id": "7862b9b9fb766031",
-    "date": "2026-08-25T17:45:00.501645+00:00",
+    "date": "2026-08-25T18:56:11.396793+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -319,13 +319,13 @@
     ]
   },
   {
-    "id": "c9f5b978c1f42fa3",
-    "date": "2026-08-25T17:45:00.501012+00:00",
+    "id": "9e9b8bc20038199c",
+    "date": "2026-08-25T18:56:11.396660+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "news iOS: Coruna and DarkSword Proliferation Exposes 17,000 Domains to Risk Aug 25, 2026",
+    "title": "iOS: Coruna and DarkSword Proliferation Exposes 17,000 Domains to Risk news",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -349,12 +349,12 @@
   },
   {
     "id": "2f8d3975edbdd1db",
-    "date": "2026-08-25T17:45:00.500294+00:00",
+    "date": "2026-08-25T18:56:11.395280+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 4 ZERO-DAY · 10 CVE · 12 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
+    "title": "// 2 CRITICAL · 4 ZERO-DAY · 11 CVE · 12 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -378,7 +378,7 @@
   },
   {
     "id": "f876aab74cb8c1b5",
-    "date": "2026-08-25T17:44:59.669655+00:00",
+    "date": "2026-08-25T18:56:10.629782+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -463,7 +463,7 @@
   },
   {
     "id": "58959670daed8e1c",
-    "date": "2026-08-25T17:44:58.470440+00:00",
+    "date": "2026-08-25T18:56:09.932913+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -492,7 +492,7 @@
   },
   {
     "id": "8ff68c36cf92006b",
-    "date": "2026-08-25T17:44:58.470313+00:00",
+    "date": "2026-08-25T18:56:09.932746+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -521,7 +521,7 @@
   },
   {
     "id": "2683554cdb0d4d85",
-    "date": "2026-08-25T17:44:58.470124+00:00",
+    "date": "2026-08-25T18:56:09.932533+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -550,7 +550,7 @@
   },
   {
     "id": "f1b94e4181c33c47",
-    "date": "2026-08-25T17:44:58.469999+00:00",
+    "date": "2026-08-25T18:56:09.932390+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -579,7 +579,7 @@
   },
   {
     "id": "b5e5c5af15171c98",
-    "date": "2026-08-25T17:44:58.469856+00:00",
+    "date": "2026-08-25T18:56:09.932230+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -608,7 +608,7 @@
   },
   {
     "id": "09f024329e884070",
-    "date": "2026-08-25T17:44:58.469669+00:00",
+    "date": "2026-08-25T18:56:09.932031+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -637,7 +637,7 @@
   },
   {
     "id": "8b31f7f1d6c68187",
-    "date": "2026-08-25T17:44:58.469543+00:00",
+    "date": "2026-08-25T18:56:09.931857+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -666,7 +666,7 @@
   },
   {
     "id": "c0b02cfc659f3f25",
-    "date": "2026-08-25T17:44:58.469401+00:00",
+    "date": "2026-08-25T18:56:09.931698+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -695,7 +695,7 @@
   },
   {
     "id": "ed641840d58110ab",
-    "date": "2026-08-25T17:44:58.469257+00:00",
+    "date": "2026-08-25T18:56:09.931535+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -724,7 +724,7 @@
   },
   {
     "id": "8b46aa2fa2133e0a",
-    "date": "2026-08-25T17:44:58.469140+00:00",
+    "date": "2026-08-25T18:56:09.931395+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -753,7 +753,7 @@
   },
   {
     "id": "165018f6e61b117c",
-    "date": "2026-08-25T17:44:58.469022+00:00",
+    "date": "2026-08-25T18:56:09.931260+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -798,7 +798,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-08-25T17:44:58.468898+00:00",
+    "date": "2026-08-25T18:56:09.931111+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -827,7 +827,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-08-25T17:44:58.468640+00:00",
+    "date": "2026-08-25T18:56:09.930818+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -856,7 +856,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-08-25T17:44:58.468514+00:00",
+    "date": "2026-08-25T18:56:09.930673+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -885,7 +885,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-25T17:44:58.468377+00:00",
+    "date": "2026-08-25T18:56:09.930519+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -914,7 +914,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-25T17:44:58.468256+00:00",
+    "date": "2026-08-25T18:56:09.930380+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -943,7 +943,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-25T17:44:58.468112+00:00",
+    "date": "2026-08-25T18:56:09.930219+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -972,7 +972,7 @@
   },
   {
     "id": "18d2eb21141cfdb2",
-    "date": "2026-08-25T17:44:58.467860+00:00",
+    "date": "2026-08-25T18:56:09.929902+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1001,7 +1001,7 @@
   },
   {
     "id": "6fc8f6dc07f9bbb4",
-    "date": "2026-08-25T17:44:58.467588+00:00",
+    "date": "2026-08-25T18:56:09.929622+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1030,7 +1030,7 @@
   },
   {
     "id": "17905c113bf086d3",
-    "date": "2026-08-25T17:44:58.467465+00:00",
+    "date": "2026-08-25T18:56:09.929474+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1059,7 +1059,7 @@
   },
   {
     "id": "4f49b237905d69a0",
-    "date": "2026-08-25T17:44:58.467341+00:00",
+    "date": "2026-08-25T18:56:09.929338+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1088,7 +1088,7 @@
   },
   {
     "id": "756d82f73238af45",
-    "date": "2026-08-25T17:44:58.467190+00:00",
+    "date": "2026-08-25T18:56:09.929181+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1117,7 +1117,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-25T17:44:58.463118+00:00",
+    "date": "2026-08-25T18:56:09.925421+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1146,7 +1146,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-25T17:44:58.462222+00:00",
+    "date": "2026-08-25T18:56:09.924477+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1175,7 +1175,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-25T17:44:58.461967+00:00",
+    "date": "2026-08-25T18:56:09.924231+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1204,7 +1204,7 @@
   },
   {
     "id": "0a86f4435bad38b8",
-    "date": "2026-08-25T17:44:58.242828+00:00",
+    "date": "2026-08-25T18:56:09.802471+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1233,7 +1233,7 @@
   },
   {
     "id": "efc865b1cdb01f38",
-    "date": "2026-08-25T17:44:58.242717+00:00",
+    "date": "2026-08-25T18:56:09.802339+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1262,7 +1262,7 @@
   },
   {
     "id": "a1766a60230f86b4",
-    "date": "2026-08-25T17:44:58.242582+00:00",
+    "date": "2026-08-25T18:56:09.802193+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1291,7 +1291,7 @@
   },
   {
     "id": "f94328dd9232a79c",
-    "date": "2026-08-25T17:44:58.242470+00:00",
+    "date": "2026-08-25T18:56:09.802058+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1320,7 +1320,7 @@
   },
   {
     "id": "28492cb8e692efd2",
-    "date": "2026-08-25T17:44:58.242372+00:00",
+    "date": "2026-08-25T18:56:09.801933+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1349,7 +1349,7 @@
   },
   {
     "id": "45bcd35c2d4c1701",
-    "date": "2026-08-25T17:44:58.242279+00:00",
+    "date": "2026-08-25T18:56:09.801791+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1378,7 +1378,7 @@
   },
   {
     "id": "93002b8dccac0edc",
-    "date": "2026-08-25T17:44:58.242163+00:00",
+    "date": "2026-08-25T18:56:09.801651+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1407,7 +1407,7 @@
   },
   {
     "id": "d0c3c072bf90b5b2",
-    "date": "2026-08-25T17:44:58.242053+00:00",
+    "date": "2026-08-25T18:56:09.801514+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1436,7 +1436,7 @@
   },
   {
     "id": "1df6d78d92dfe180",
-    "date": "2026-08-25T17:44:58.241934+00:00",
+    "date": "2026-08-25T18:56:09.801371+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1465,7 +1465,7 @@
   },
   {
     "id": "81ec3764e25fcd7a",
-    "date": "2026-08-25T17:44:58.241808+00:00",
+    "date": "2026-08-25T18:56:09.801223+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1510,7 +1510,7 @@
   },
   {
     "id": "60f172fdef189e04",
-    "date": "2026-08-25T17:44:58.241702+00:00",
+    "date": "2026-08-25T18:56:09.801094+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1552,7 +1552,7 @@
   },
   {
     "id": "b79003b8779b6a65",
-    "date": "2026-08-25T17:44:58.241581+00:00",
+    "date": "2026-08-25T18:56:09.800955+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1581,7 +1581,7 @@
   },
   {
     "id": "030db589393ba267",
-    "date": "2026-08-25T17:44:58.241469+00:00",
+    "date": "2026-08-25T18:56:09.800790+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1610,7 +1610,7 @@
   },
   {
     "id": "ba7082bb879b45be",
-    "date": "2026-08-25T17:44:58.241345+00:00",
+    "date": "2026-08-25T18:56:09.800643+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1639,7 +1639,7 @@
   },
   {
     "id": "eebcf43c9a457f0e",
-    "date": "2026-08-25T17:44:58.241223+00:00",
+    "date": "2026-08-25T18:56:09.800496+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1668,7 +1668,7 @@
   },
   {
     "id": "40755a11d9c78562",
-    "date": "2026-08-25T17:44:58.241097+00:00",
+    "date": "2026-08-25T18:56:09.800352+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1697,7 +1697,7 @@
   },
   {
     "id": "fdbfd7fad28cbfd6",
-    "date": "2026-08-25T17:44:58.240990+00:00",
+    "date": "2026-08-25T18:56:09.800215+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1726,7 +1726,7 @@
   },
   {
     "id": "91bde216fd799bba",
-    "date": "2026-08-25T17:44:58.240872+00:00",
+    "date": "2026-08-25T18:56:09.800076+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1755,7 +1755,7 @@
   },
   {
     "id": "50a6c1ee35151ab5",
-    "date": "2026-08-25T17:44:58.240749+00:00",
+    "date": "2026-08-25T18:56:09.799930+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1784,7 +1784,7 @@
   },
   {
     "id": "5e97af2259a7d298",
-    "date": "2026-08-25T17:44:58.240595+00:00",
+    "date": "2026-08-25T18:56:09.799743+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1813,7 +1813,7 @@
   },
   {
     "id": "4144ec1e3beeb9bc",
-    "date": "2026-08-25T17:44:58.240470+00:00",
+    "date": "2026-08-25T18:56:09.799602+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1842,7 +1842,7 @@
   },
   {
     "id": "3ec883c4a0ee068f",
-    "date": "2026-08-25T17:44:58.240346+00:00",
+    "date": "2026-08-25T18:56:09.799463+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1871,7 +1871,7 @@
   },
   {
     "id": "03bfdd92525aca31",
-    "date": "2026-08-25T17:44:58.240223+00:00",
+    "date": "2026-08-25T18:56:09.799324+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1900,7 +1900,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-25T17:44:58.240088+00:00",
+    "date": "2026-08-25T18:56:09.799173+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1937,7 +1937,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-25T17:44:58.239871+00:00",
+    "date": "2026-08-25T18:56:09.798971+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1965,6 +1965,35 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "eee8b6f182831c4f",
+    "date": "2026-08-25T17:45:00.502347+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Safari UAF in JavaScriptCore: Apple Patches Already Available CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/safari-uaf-in-javascriptcore-apple-patches-already-available",
+    "target": "Safari UAF JavaScriptCore",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/safari-uaf-in-javascriptcore-apple-patches-already-available"
       }
     ]
   },
@@ -26675,35 +26704,6 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/"
-      }
-    ]
-  },
-  {
-    "id": "0a6d3448821fa9f6",
-    "date": "2026-08-13T14:07:35+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
-    "summary": "Microsoft has released security updates for multiple Exchange Server vulnerabilities that could allow denial-of-service, privilege escalation, remote code execution, spoofing, and security feature bypass attacks. The flaws were disclosed on August 11, 2026, as part of Microsoft’s monthly Patch Tuesday release. Exchange Server Subscription Edition, Exchange Server 2019, and Exchange Server 2016 are among the […] The post Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Microsoft has released security updates for multiple Exchange Server vulnerabilities that could allow denial-of-service, privilege escalation, remote code execution, spoofing, and security feature bypass attacks.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/",
-    "target": "Microsoft Exchange Server Vulnerabilities",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
       }
     ]
   }
