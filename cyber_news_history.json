@@ -1,65 +1,7 @@
 [
   {
-    "id": "5520b026c97b290d",
-    "date": "2026-08-25T01:51:58.168031+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE CVE-2026-65775: Microsoft Patches win32kfull UAF Discovered at Pwn2Own",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-65775-microsoft-patches-win32kfull-uaf-discovered-at-pwn2own",
-    "target": "CVE CVE-2026-65775",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-65775-microsoft-patches-win32kfull-uaf-discovered-at-pwn2own"
-      }
-    ]
-  },
-  {
-    "id": "b5311c0921c35707",
-    "date": "2026-08-25T01:51:58.167937+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Home Assistant Green: Root RCE via Localhost Exploit Disclosed by ZDI",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-root-rce-via-localhost-exploit-disclosed-by-zdi",
-    "target": "CRITICAL Home Assistant Green",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-root-rce-via-localhost-exploit-disclosed-by-zdi"
-      }
-    ]
-  },
-  {
     "id": "80eb39149377b15c",
-    "date": "2026-08-25T01:51:58.167840+00:00",
+    "date": "2026-08-25T03:12:17.137402+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "b966621c2277d40d",
-    "date": "2026-08-25T01:51:58.167743+00:00",
+    "date": "2026-08-25T03:12:17.137305+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -125,7 +67,7 @@
   },
   {
     "id": "966def907a89fea8",
-    "date": "2026-08-25T01:51:58.167647+00:00",
+    "date": "2026-08-25T03:12:17.137210+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -154,7 +96,7 @@
   },
   {
     "id": "5b5a72e46828ec4f",
-    "date": "2026-08-25T01:51:58.167550+00:00",
+    "date": "2026-08-25T03:12:17.137115+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -182,22 +124,22 @@
     ]
   },
   {
-    "id": "0e12b9ef9042d3d9",
-    "date": "2026-08-25T01:51:58.167432+00:00",
+    "id": "11c5366efea3aa76",
+    "date": "2026-08-25T03:12:17.137016+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "TeamPCP Exploits AI Supply Chain to Steal One Terabyte of Credentials CYBERSEC EXPLOIT",
+    "title": "CRITICAL Safari UAF in JavaScriptCore: Apple Patches Already Available",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/teampcp-exploits-ai-supply-chain-to-steal-one-terabyte-of-credentials",
-    "target": "TeamPCP Exploits Supply Chain",
+    "link": "https://deafnews.it/en/news/cybersecurity/safari-uaf-in-javascriptcore-apple-patches-already-available",
+    "target": "CRITICAL Safari UAF JavaScriptCore",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -206,50 +148,42 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/teampcp-exploits-ai-supply-chain-to-steal-one-terabyte-of-credentials"
+        "url": "https://deafnews.it/en/news/cybersecurity/safari-uaf-in-javascriptcore-apple-patches-already-available"
       }
     ]
   },
   {
-    "id": "e21988ee73152421",
-    "date": "2026-08-25T01:51:58.167327+00:00",
+    "id": "3ac13b0753993dec",
+    "date": "2026-08-25T03:12:17.136916+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Parallels RAS Client: Local Vulnerability Allows Escalation to SYSTEM CYBERSEC",
+    "title": "CRITICAL Foxit PDF Reader: UAF Bug in Annotation Parser Enables Remote Code Execution",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/parallels-ras-client-local-vulnerability-allows-escalation-to-system",
-    "target": "Parallels RAS Client",
-    "type": "Vulnerability",
-    "severity": "Medium",
+    "link": "https://deafnews.it/en/news/cybersecurity/foxit-pdf-reader-uaf-bug-in-annotation-parser-enables-remote-code-execution",
+    "target": "CRITICAL Foxit PDF Reader",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/parallels-ras-client-local-vulnerability-allows-escalation-to-system"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/parallels-ras-client-lpe-to-system-after-168-days-of-waiting"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/parallels-ras-client-local-privilege-escalation-to-system-via-exposed-dangerous-function"
+        "url": "https://deafnews.it/en/news/cybersecurity/foxit-pdf-reader-uaf-bug-in-annotation-parser-enables-remote-code-execution"
       }
     ]
   },
   {
     "id": "d7dcbecefae41cd6",
-    "date": "2026-08-25T01:51:58.167232+00:00",
+    "date": "2026-08-25T03:12:17.136815+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -278,7 +212,7 @@
   },
   {
     "id": "845917fd317fa6d5",
-    "date": "2026-08-25T01:51:58.167123+00:00",
+    "date": "2026-08-25T03:12:17.136692+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -307,7 +241,7 @@
   },
   {
     "id": "e6c5fe8248656778",
-    "date": "2026-08-25T01:51:58.166997+00:00",
+    "date": "2026-08-25T03:12:17.136579+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -336,7 +270,7 @@
   },
   {
     "id": "854c5cbf679a6e49",
-    "date": "2026-08-25T01:51:58.166888+00:00",
+    "date": "2026-08-25T03:12:17.136467+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -364,8 +298,37 @@
     ]
   },
   {
+    "id": "cfb1dcd4b7c7e271",
+    "date": "2026-08-25T03:12:17.136366+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE-2026-65775: Microsoft Patches win32kfull UAF Discovered at Pwn2Own CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-65775-microsoft-patches-win32kfull-uaf-discovered-at-pwn2own",
+    "target": "CVE-2026-65775",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-65775-microsoft-patches-win32kfull-uaf-discovered-at-pwn2own"
+      }
+    ]
+  },
+  {
     "id": "d65f1f698393d824",
-    "date": "2026-08-25T01:51:58.166669+00:00",
+    "date": "2026-08-25T03:12:17.136258+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -393,13 +356,71 @@
     ]
   },
   {
-    "id": "2f8d3975edbdd1db",
-    "date": "2026-08-25T01:51:58.165358+00:00",
+    "id": "7c589b56066fe3af",
+    "date": "2026-08-25T03:12:17.136156+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 7 ZERO-DAY · 11 CVE · 10 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
+    "title": "Home Assistant Green: Root RCE via Localhost Exploit Disclosed by ZDI VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-root-rce-via-localhost-exploit-disclosed-by-zdi",
+    "target": "Home Assistant Green",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-root-rce-via-localhost-exploit-disclosed-by-zdi"
+      }
+    ]
+  },
+  {
+    "id": "578a2c0401b56006",
+    "date": "2026-08-25T03:12:17.136029+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Windows Compatibility Appraiser: LPE Bug Escalates from LOCAL SERVICE to SYSTEM CYBERSEC ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/windows-compatibility-appraiser-lpe-bug-escalates-from-local-service-to-system",
+    "target": "Windows Compatibility Appraiser",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/windows-compatibility-appraiser-lpe-bug-escalates-from-local-service-to-system"
+      }
+    ]
+  },
+  {
+    "id": "2f8d3975edbdd1db",
+    "date": "2026-08-25T03:12:17.134823+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CRITICAL · 7 ZERO-DAY · 13 CVE · 12 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -423,7 +444,7 @@
   },
   {
     "id": "f876aab74cb8c1b5",
-    "date": "2026-08-25T01:51:57.061958+00:00",
+    "date": "2026-08-25T03:12:16.352363+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -508,7 +529,7 @@
   },
   {
     "id": "58959670daed8e1c",
-    "date": "2026-08-25T01:51:55.647086+00:00",
+    "date": "2026-08-25T03:12:15.442654+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -537,7 +558,7 @@
   },
   {
     "id": "8ff68c36cf92006b",
-    "date": "2026-08-25T01:51:55.646959+00:00",
+    "date": "2026-08-25T03:12:15.442527+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -566,7 +587,7 @@
   },
   {
     "id": "2683554cdb0d4d85",
-    "date": "2026-08-25T01:51:55.646767+00:00",
+    "date": "2026-08-25T03:12:15.442338+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -595,7 +616,7 @@
   },
   {
     "id": "f1b94e4181c33c47",
-    "date": "2026-08-25T01:51:55.646641+00:00",
+    "date": "2026-08-25T03:12:15.442213+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -624,7 +645,7 @@
   },
   {
     "id": "b5e5c5af15171c98",
-    "date": "2026-08-25T01:51:55.646496+00:00",
+    "date": "2026-08-25T03:12:15.442070+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -653,7 +674,7 @@
   },
   {
     "id": "09f024329e884070",
-    "date": "2026-08-25T01:51:55.646302+00:00",
+    "date": "2026-08-25T03:12:15.441891+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -682,7 +703,7 @@
   },
   {
     "id": "8b31f7f1d6c68187",
-    "date": "2026-08-25T01:51:55.646158+00:00",
+    "date": "2026-08-25T03:12:15.441751+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -711,7 +732,7 @@
   },
   {
     "id": "c0b02cfc659f3f25",
-    "date": "2026-08-25T01:51:55.646009+00:00",
+    "date": "2026-08-25T03:12:15.441608+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -740,7 +761,7 @@
   },
   {
     "id": "ed641840d58110ab",
-    "date": "2026-08-25T01:51:55.645863+00:00",
+    "date": "2026-08-25T03:12:15.441463+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -769,7 +790,7 @@
   },
   {
     "id": "8b46aa2fa2133e0a",
-    "date": "2026-08-25T01:51:55.645742+00:00",
+    "date": "2026-08-25T03:12:15.441342+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -798,7 +819,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-08-25T01:51:55.645598+00:00",
+    "date": "2026-08-25T03:12:15.441205+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -827,7 +848,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-08-25T01:51:55.645328+00:00",
+    "date": "2026-08-25T03:12:15.440958+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -856,7 +877,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-08-25T01:51:55.645200+00:00",
+    "date": "2026-08-25T03:12:15.440830+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -885,7 +906,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-25T01:51:55.645057+00:00",
+    "date": "2026-08-25T03:12:15.440679+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -914,7 +935,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-25T01:51:55.644937+00:00",
+    "date": "2026-08-25T03:12:15.440558+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -943,7 +964,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-25T01:51:55.644795+00:00",
+    "date": "2026-08-25T03:12:15.440415+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -972,7 +993,7 @@
   },
   {
     "id": "18d2eb21141cfdb2",
-    "date": "2026-08-25T01:51:55.644537+00:00",
+    "date": "2026-08-25T03:12:15.440156+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1001,7 +1022,7 @@
   },
   {
     "id": "cc751177657c27ee",
-    "date": "2026-08-25T01:51:55.644285+00:00",
+    "date": "2026-08-25T03:12:15.439910+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1030,7 +1051,7 @@
   },
   {
     "id": "56049af83b168993",
-    "date": "2026-08-25T01:51:55.644164+00:00",
+    "date": "2026-08-25T03:12:15.439766+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1059,7 +1080,7 @@
   },
   {
     "id": "165018f6e61b117c",
-    "date": "2026-08-25T01:51:55.644048+00:00",
+    "date": "2026-08-25T03:12:15.439650+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1104,7 +1125,7 @@
   },
   {
     "id": "6fc8f6dc07f9bbb4",
-    "date": "2026-08-25T01:51:55.643922+00:00",
+    "date": "2026-08-25T03:12:15.439520+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1133,7 +1154,7 @@
   },
   {
     "id": "17905c113bf086d3",
-    "date": "2026-08-25T01:51:55.643787+00:00",
+    "date": "2026-08-25T03:12:15.439375+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1162,7 +1183,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-25T01:51:55.640242+00:00",
+    "date": "2026-08-25T03:12:15.435280+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1191,7 +1212,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-25T01:51:55.639335+00:00",
+    "date": "2026-08-25T03:12:15.434396+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1220,7 +1241,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-25T01:51:55.639076+00:00",
+    "date": "2026-08-25T03:12:15.434143+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1249,7 +1270,7 @@
   },
   {
     "id": "ac7235fb0bf9a5e1",
-    "date": "2026-08-25T01:51:55.286182+00:00",
+    "date": "2026-08-25T03:12:15.184823+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1282,7 +1303,7 @@
   },
   {
     "id": "0a86f4435bad38b8",
-    "date": "2026-08-25T01:51:55.286069+00:00",
+    "date": "2026-08-25T03:12:15.184697+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1311,7 +1332,7 @@
   },
   {
     "id": "efc865b1cdb01f38",
-    "date": "2026-08-25T01:51:55.285960+00:00",
+    "date": "2026-08-25T03:12:15.184590+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1340,7 +1361,7 @@
   },
   {
     "id": "a1766a60230f86b4",
-    "date": "2026-08-25T01:51:55.285836+00:00",
+    "date": "2026-08-25T03:12:15.184468+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1369,7 +1390,7 @@
   },
   {
     "id": "f94328dd9232a79c",
-    "date": "2026-08-25T01:51:55.285721+00:00",
+    "date": "2026-08-25T03:12:15.184352+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1398,7 +1419,7 @@
   },
   {
     "id": "28492cb8e692efd2",
-    "date": "2026-08-25T01:51:55.285620+00:00",
+    "date": "2026-08-25T03:12:15.184255+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1427,7 +1448,7 @@
   },
   {
     "id": "45bcd35c2d4c1701",
-    "date": "2026-08-25T01:51:55.285524+00:00",
+    "date": "2026-08-25T03:12:15.184161+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1456,7 +1477,7 @@
   },
   {
     "id": "93002b8dccac0edc",
-    "date": "2026-08-25T01:51:55.285397+00:00",
+    "date": "2026-08-25T03:12:15.184052+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1485,7 +1506,7 @@
   },
   {
     "id": "d0c3c072bf90b5b2",
-    "date": "2026-08-25T01:51:55.285285+00:00",
+    "date": "2026-08-25T03:12:15.183942+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1514,7 +1535,7 @@
   },
   {
     "id": "1df6d78d92dfe180",
-    "date": "2026-08-25T01:51:55.285166+00:00",
+    "date": "2026-08-25T03:12:15.183822+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1543,7 +1564,7 @@
   },
   {
     "id": "81ec3764e25fcd7a",
-    "date": "2026-08-25T01:51:55.285043+00:00",
+    "date": "2026-08-25T03:12:15.183685+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1590,7 +1611,7 @@
   },
   {
     "id": "60f172fdef189e04",
-    "date": "2026-08-25T01:51:55.284937+00:00",
+    "date": "2026-08-25T03:12:15.183582+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1632,7 +1653,7 @@
   },
   {
     "id": "b79003b8779b6a65",
-    "date": "2026-08-25T01:51:55.284821+00:00",
+    "date": "2026-08-25T03:12:15.183474+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1661,7 +1682,7 @@
   },
   {
     "id": "030db589393ba267",
-    "date": "2026-08-25T01:51:55.284710+00:00",
+    "date": "2026-08-25T03:12:15.183359+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1690,7 +1711,7 @@
   },
   {
     "id": "ba7082bb879b45be",
-    "date": "2026-08-25T01:51:55.284585+00:00",
+    "date": "2026-08-25T03:12:15.183235+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1719,7 +1740,7 @@
   },
   {
     "id": "eebcf43c9a457f0e",
-    "date": "2026-08-25T01:51:55.284459+00:00",
+    "date": "2026-08-25T03:12:15.183113+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1748,7 +1769,7 @@
   },
   {
     "id": "40755a11d9c78562",
-    "date": "2026-08-25T01:51:55.284320+00:00",
+    "date": "2026-08-25T03:12:15.182987+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1777,7 +1798,7 @@
   },
   {
     "id": "fdbfd7fad28cbfd6",
-    "date": "2026-08-25T01:51:55.284214+00:00",
+    "date": "2026-08-25T03:12:15.182881+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1806,7 +1827,7 @@
   },
   {
     "id": "91bde216fd799bba",
-    "date": "2026-08-25T01:51:55.284099+00:00",
+    "date": "2026-08-25T03:12:15.182746+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1835,7 +1856,7 @@
   },
   {
     "id": "50a6c1ee35151ab5",
-    "date": "2026-08-25T01:51:55.283980+00:00",
+    "date": "2026-08-25T03:12:15.182629+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1864,7 +1885,7 @@
   },
   {
     "id": "5e97af2259a7d298",
-    "date": "2026-08-25T01:51:55.283845+00:00",
+    "date": "2026-08-25T03:12:15.182495+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1893,7 +1914,7 @@
   },
   {
     "id": "9adc30967ca078e5",
-    "date": "2026-08-25T01:51:55.283721+00:00",
+    "date": "2026-08-25T03:12:15.182370+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1922,7 +1943,7 @@
   },
   {
     "id": "3ec883c4a0ee068f",
-    "date": "2026-08-25T01:51:55.283593+00:00",
+    "date": "2026-08-25T03:12:15.182245+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1951,7 +1972,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-25T01:51:55.283453+00:00",
+    "date": "2026-08-25T03:12:15.182112+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1988,7 +2009,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-25T01:51:55.283219+00:00",
+    "date": "2026-08-25T03:12:15.181900+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2016,6 +2037,339 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "2d8bff97426c706c",
+    "date": "2026-08-25T02:00:03+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33278",
+    "target": "ISC Stormcast Tuesday August",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33278"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33276"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33270"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33262"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33258"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33256"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33250"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33246"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33244"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33238"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33232"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33228"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33224"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33222"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33216"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33212"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33200"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33194"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33190"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33186"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33182"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33178"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33170"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33160"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33166"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33162"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33174"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33158"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33152"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33148"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33142"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33140"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33126"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33120"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33136"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33122"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33116"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33100"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33108"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33112"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33098"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33092"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33088"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33082"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33210"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33204"
+      }
+    ]
+  },
+  {
+    "id": "b9e0968d3e1f8195",
+    "date": "2026-08-25T01:54:08+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Researcher Discloses Five High-Risk Vulnerabilities in Palo Alto GlobalProtect",
+    "summary": "A security researcher has disclosed five vulnerabilities that he responsibly reported to Palo Alto Networks, affecting GlobalProtect, the VPN and endpoint agent used across thousands of enterprise networks worldwide. The disclosure, published through a dedicated research site, has reignited debate over how vendors handle vulnerability reports even when researchers follow coordinated disclosure norms. According to […] The post Researcher Discloses Five High-Risk Vulnerabilities in Palo Alto GlobalProtect appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A security researcher has disclosed five vulnerabilities that he responsibly reported to Palo Alto Networks, affecting GlobalProtect, the VPN and endpoint agent used across thousands of enterprise networks worldwide.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/5-vulnerabilities-palo-alto-globalprotect/",
+    "target": "Researcher Discloses Five High-Risk",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/5-vulnerabilities-palo-alto-globalprotect/"
+      }
+    ]
+  },
+  {
+    "id": "b5311c0921c35707",
+    "date": "2026-08-25T01:51:58.167937+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Home Assistant Green: Root RCE via Localhost Exploit Disclosed by ZDI",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-root-rce-via-localhost-exploit-disclosed-by-zdi",
+    "target": "CRITICAL Home Assistant Green",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-root-rce-via-localhost-exploit-disclosed-by-zdi"
+      }
+    ]
+  },
+  {
+    "id": "0e12b9ef9042d3d9",
+    "date": "2026-08-25T01:51:58.167432+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "TeamPCP Exploits AI Supply Chain to Steal One Terabyte of Credentials CYBERSEC EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/teampcp-exploits-ai-supply-chain-to-steal-one-terabyte-of-credentials",
+    "target": "TeamPCP Exploits Supply Chain",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/teampcp-exploits-ai-supply-chain-to-steal-one-terabyte-of-credentials"
+      }
+    ]
+  },
+  {
+    "id": "e21988ee73152421",
+    "date": "2026-08-25T01:51:58.167327+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Parallels RAS Client: Local Vulnerability Allows Escalation to SYSTEM CYBERSEC",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/parallels-ras-client-local-vulnerability-allows-escalation-to-system",
+    "target": "Parallels RAS Client",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/parallels-ras-client-local-vulnerability-allows-escalation-to-system"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/parallels-ras-client-lpe-to-system-after-168-days-of-waiting"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/parallels-ras-client-local-privilege-escalation-to-system-via-exposed-dangerous-function"
       }
     ]
   },
@@ -5211,211 +5565,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/five-us-agencies-generative-ai-is-accelerating-attacks-on-siemens-s7-plcs"
-      }
-    ]
-  },
-  {
-    "id": "78e6bcb040da1262",
-    "date": "2026-08-24T02:00:03+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33276",
-    "target": "ISC Stormcast Monday August",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33276"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33270"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33262"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33258"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33256"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33250"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33246"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33244"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33238"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33232"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33228"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33224"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33222"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33216"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33212"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33200"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33194"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33190"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33186"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33182"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33178"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33170"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33160"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33166"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33162"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33174"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33158"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33152"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33148"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33142"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33140"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33126"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33120"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33136"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33122"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33116"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33100"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33108"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33112"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33098"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33092"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33088"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33082"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33210"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33204"
       }
     ]
   },
@@ -26568,151 +26717,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/"
-      }
-    ]
-  },
-  {
-    "id": "120c724735188dc3",
-    "date": "2026-08-12T18:54:57+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
-    "summary": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
-    "article_text": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users’ traffic through SOCKS5 proxies operated by a single provider. Some of the extensions impersonated dozens of established brands, including Proton VPN, NordVPN, Surfshark, ExpressVPN, and Cloudflare’s 1.1.1.1 public domain name system (DNS) resolver. Researchers at application security company Socket found that the campaign relied on 40 publisher accounts and used a shared analytics account. While on the Chrome Web Store, the extensions were downloaded nearly 75,000 times, mainly by Russian users looking for tools to bypass blocked services in the country. “With all browser traffic forced through it [the relay], the threat actor’s server is positioned to read every destination, every TLS SNI value, the victim’s source IP, and any request body sent over plain HTTP,” Socket explains . The researchers identified three threat behaviors associated with the campaign: Socket could not analyze the code in all of the extensions because 212 of them had already been removed when the researchers collected them. Based on the strings found, the campaign appears to be an attempt to funnel customers to a subscription-based VPN service in Russia. The researchers noted that the mechanism used by the extensions appears no different from that of a legitimate service, but they identified several indicators of intentional deception: Socket says that while Google removed more than 200 of the extensions related to the identified campaign, over 500 of them are still available in Chrome's Web Store. Socket has published the IDs of all extensions linked to the campaign and recommends that users check their browsers for any of them and remove them if found. They should also confirm that Chrome’s proxy configuration is back to normal. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Google Chrome may soon block New Tab hijacker extensions by default Fake Perplexity extension on Chrome Web Store tracked searches Adobe Chrome extension flaw let sites access private WhatsApp chats Malicious Edge extension abuses Native Messaging as bridge to malware Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days LexisNexis shuts down services after suspicious activity on servers Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees See how Skyhigh Security's patent-pending approach secures every browser session without costly and clunky enterprise browser replacements. See how real inboxes, fake stores and AI scams shaped H1 2026 cyber threats Overdue a password health-check? Audit your Active Directory for free Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
-    "target": "Hundreds Chrome VPN",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/"
-      }
-    ]
-  },
-  {
-    "id": "91839c9c18018a92",
-    "date": "2026-08-12T18:06:26.588145+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "TrendAI Vision One: Log Information Disclosure Fixed After 10 Months CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/trendai-vision-one-log-information-disclosure-fixed-after-10-months",
-    "target": "TrendAI Vision One",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/trendai-vision-one-log-information-disclosure-fixed-after-10-months"
-      }
-    ]
-  },
-  {
-    "id": "5acb65796a9f7554",
-    "date": "2026-08-12T17:39:27+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-    "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and",
-    "article_text": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point Research, is part of Operation Dream Job , a long-running cyber espionage and social engineering campaign orchestrated by Pyongyang-backed hackers to target professionals worldwide with fake-but-compelling job offers at firms like Lockheed Martin and Enveil to steal sensitive data and install malware by approaching them on platforms like LinkedIn, pretending to be recruiters in an attempt to build trust. The attacks have been found to exploit CVE-2026-68820 (CVSS score: 7.0), a privilege escalation flaw affecting Windows Ancillary Function Driver for WinSock (\"AFD.sys\") that was patched by Microsoft as part of its Patch Tuesday updates for August 2026. As observed in prior campaign waves, victims are lured through bogus recruiter messages and tricked into opening a malicious PDF or installing a trojanized PDF viewer, which is then used to install a new backdoor called Troy that grants remote access to the compromised machine. The end goal of these intrusions is to seize complete control of infected computers and bypass security controls. The use of a trojanized PDF viewer is a tried-and-tested tactic adopted by the Lazarus Group in conjunction with Dream Job , with the threat actors abusing this method as far back as 2022. Two different parallel infection sequences have been detected as part of the latest attacks - MISTPEN, for its part, loads at least four different modules - The attack chain employs an updated version of the known kernel-mode rootkit the Lazarus Group has repeatedly employed since at least 2022 to conceal the presence of malicious tools from security software installed on the host. Specifically, it exploits a local privilege escalation vulnerability in \"AFD.sys,\" obtains SYSTEM privileges, and ultimately injects another instance of MISTPEN into a SYSTEM process so as to allow it to run with elevated privileges and away from the eyes of security tools. The newer version, called FudModule 3.1, improves upon its predecessor by allowing it to tamper with a Windows feature called Smart App Control designed to verify if a program is safe to run. \"Within the SYSTEM-level msiexec.exe child process, its remote stub sets VerifiedAndReputablePolicyState to zero and invokes NtSetSystemInformation class 0xA4 with option 0x10000000, triggering an in-place reload of the code integrity policy,\" Check Point said . What's more, the attackers are said to have created at least three websites impersonating Enveil to distribute \"SecurityPDF,\" although it's unclear how these fake portals were incorporated into the social engineering campaign. It's suspected that the adversary first sends the PDF through a phishing message and then urges them to download the PDF viewer from the site to view the document. What's notable is that the campaign, instead of spinning up its own bespoke infrastructure, hijacks legitimate but compromised WordPress and SharePoint websites and vulnerable Roundcube webmail servers for use as ForestTiger command-and-control (C2) servers, thereby making it a lot more challenging to differentiate it from normal web traffic. Many of the Roundcube servers have been found to be vulnerable to CVE-2025-49113 , with the attackers leveraging it to infect them with a previously undocumented PHP web shell codenamed RelayShell to enable the exchange of commands and responses in the form of text files. In at least one case, an already breached France-based organization was used to send phishing messages to new victims to bypass reputation-based filters. The latest findings show that Lazarus Group continues to hone its malware capabilities and tradecraft, while keeping the foundations of Dream Job largely intact in attacks aimed at critical sectors across the world. \"What makes this campaign so dangerous is not only the zero-day vulnerability – but also how Lazarus wove legitimate, trusted infrastructure into every stage of the attack,\" Sergey Shykevich, director of threat intelligence at Check Point Software, said in a statement shared with The Hacker News. \"They hid in plain sight, behind top-ranked search results, real vendor branding, and the reputation of organizations they had already compromised.",
-    "quick_summary": [
-      "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-    "target": "Lazarus Exploits Windows Zero-Day",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html"
-      }
-    ]
-  },
-  {
-    "id": "2586828a21c9824f",
-    "date": "2026-08-12T17:26:16+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
-    "summary": "Palo Alto Networks has released its August 12, 2026 security bulletin, disclosing 11 new vulnerabilities affecting PAN-OS, the GlobalProtect App, Prisma Access Agent, and Prisma Browser, along with a monthly Chromium update rollup. The patch batch spans information disclosure, local privilege escalation, buffer overflow, certificate validation bypass, and anti-tamper bypass flaws. Severity scores range from […] The post Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Palo Alto Networks has released its August 12, 2026 security bulletin, disclosing 11 new vulnerabilities affecting PAN-OS, the GlobalProtect App, Prisma Access Agent, and Prisma Browser, along with a monthly Chromium upd",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/",
-    "target": "Palo Alto Networks Patches",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
-      }
-    ]
-  },
-  {
-    "id": "4923338038655da2",
-    "date": "2026-08-12T17:17:31+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New “City-Forum” Hackers Attacking Salesforce and ServiceNow Instances Worldwide",
-    "summary": "A newly identified threat actor is running a large-scale, long-running cyber campaign targeting Salesforce Experience Cloud sites and ServiceNow Service Portals globally. Dubbed the “City-Forum Campaign” after a domain tied to the attacker’s infrastructure, the operation has been quietly siphoning data from telecommunications providers, banks, financial services firms, enterprise software vendors, and public-sector portals since […] The post New “City-Forum” Hackers Attacking Salesforce and ServiceNow Instances Worldwide appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A newly identified threat actor is running a large-scale, long-running cyber campaign targeting Salesforce Experience Cloud sites and ServiceNow Service Portals globally.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/salesforce-and-servicenow-targeted-in-attacks/",
-    "target": "City-Forum Attacking Salesforce ServiceNow",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/salesforce-and-servicenow-targeted-in-attacks/"
       }
     ]
   }
