@@ -1,7 +1,7 @@
 [
   {
     "id": "27e39d190300e74b",
-    "date": "2026-08-27T20:30:07.025322+00:00",
+    "date": "2026-08-28T05:24:07.134158+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "e9b69b33024964bf",
-    "date": "2026-08-27T20:30:07.025215+00:00",
+    "date": "2026-08-28T05:24:07.134029+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "12021e6ece9a4d9d",
-    "date": "2026-08-27T20:30:07.025115+00:00",
+    "date": "2026-08-28T05:24:07.133913+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "c1859a9b5161a290",
-    "date": "2026-08-27T20:30:07.025016+00:00",
+    "date": "2026-08-28T05:24:07.133798+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "f8e8275809f95e57",
-    "date": "2026-08-27T20:30:07.024921+00:00",
+    "date": "2026-08-28T05:24:07.133688+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "2fa21152786306c2",
-    "date": "2026-08-27T20:30:07.024813+00:00",
+    "date": "2026-08-28T05:24:07.133564+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -175,7 +175,7 @@
   },
   {
     "id": "f4c23db03d8034fc",
-    "date": "2026-08-27T20:30:07.024560+00:00",
+    "date": "2026-08-28T05:24:07.133415+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -204,7 +204,7 @@
   },
   {
     "id": "31dcc840db156bbb",
-    "date": "2026-08-27T20:30:07.024430+00:00",
+    "date": "2026-08-28T05:24:07.133283+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +233,7 @@
   },
   {
     "id": "799dbe116b4d17ce",
-    "date": "2026-08-27T20:30:07.024152+00:00",
+    "date": "2026-08-28T05:24:07.132979+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +262,7 @@
   },
   {
     "id": "29479c07a1ceb9db",
-    "date": "2026-08-27T20:30:07.024044+00:00",
+    "date": "2026-08-28T05:24:07.132859+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +291,7 @@
   },
   {
     "id": "d7252d4fd53e43ce",
-    "date": "2026-08-27T20:30:07.023932+00:00",
+    "date": "2026-08-28T05:24:07.132741+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -319,13 +319,47 @@
     ]
   },
   {
-    "id": "629f15713581982c",
-    "date": "2026-08-27T20:30:07.022889+00:00",
+    "id": "838ee590475f9912",
+    "date": "2026-08-28T05:24:07.132591+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Trump Blocks Foreign Gear in U.S. Power Grid: The Supply-Chain Security vs. Industrial Reality Clash",
+    "title": "PaperCut: Active Zero-Day Exploitation Confirmed Across All NG and MF Versions CYBERSEC ZERO-DAY",
+    "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
+    "article_text": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company says it is aware of confirmed attacks on customers and is urging organizations with Internet-exposed PaperCut Application Servers to immediately restrict access to the web interfaces to trusted IP addresses. \"PaperCut Software security response team is investigating active exploitation of a vulnerability affecting PaperCut NG and PaperCut MF,\" reads an urgent security advisory published Thursday. \"We are aware of confirmed customer incidents and are treating this matter with the highest priority.\" PaperCut says the vulnerability affects all versions of PaperCut NG and MF, but has not shared details about the flaw or how it is being exploited. The company says its security team reproduced the vulnerability using information provided by a University customer. PaperCut has now released emergency patches for customers with public-facing PaperCut NG/MF servers. \"This is an emergency patch for customers with public-facing PaperCut NG/MF servers who are unable to take other mitigating action,\" reads the advisory. The company continues to warn customers whose Application Servers are exposed to the Internet to use firewall rules or network access controls to restrict their web interfaces to trusted IP addresses. PaperCut also shared indicators of compromise that could indicate whether a server has been compromised. These include suspicious activity from the the legitimate PaperCut pc-app.exe process and server.log files that have been modified, deleted, or are missing. Administrators should also look for the following errors in server.log : ERROR No suitable driver found for jdbc:no:x ERROR DatabaseUtils - Database error looking up cardID: VALUES CAST However, PaperCut warns that a lack of indicators does not mean that a server has not been compromised. At this time, PaperCut has not disclosed who is behind the attacks, what attackers are doing after compromising servers, or whether data is being stolen. PaperCut says it will continue updating its advisory with additional indicators of compromise and remediation guidance as its investigation continues. BleepingComputer contacted PaperCut with questions about this exploitation and will update the story when we receive a response. PaperCut has a history of being targeted by threat actors after security vulnerabilities were disclosed. In April 2023, attackers began exploiting the critical CVE-2023-27350 PaperCut vulnerability, which allowed unauthenticated attackers to bypass authentication and remotely execute code on vulnerable servers. Microsoft later linked some of those attacks to the Clop ransomware operation, which exploited vulnerable PaperCut servers for initial access to company networks. Microsoft also observed intrusions that led to LockBit ransomware attacks. While PaperCut has a Print Archiving feature that can retain documents sent through a server, Clop later told BleepingComputer that it had used the vulnerabilities for initial access to victim networks rather than to steal archived documents directly from PaperCut servers. The exploitation spread to other threat actors, with Microsoft reporting that Iranian state-backed hacking groups were also exploiting CVE-2023-27350 . CISA and the FBI issued a joint advisory in May 2023 warning that the Bl00dy Ransomware Gang was also exploiting vulnerable PaperCut servers in attacks against the education sector. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Cisco warns of FMC static credential flaw exploited in zero-day attacks Arista patches VeloCloud Orchestrator zero-day exploited in attacks Check Point warns of SmartConsole zero-day exploited in attacks SonicWall SMA1000 flaws exploited as zero-days to push custom malware One threat actor responsible for 83% of recent Ivanti RCE attacks Ubiquiti patches three max severity security vulnerabilities Police arrests dozens of suspects in global cybercrime crackdown Microsoft Teams now lets admins block external bots from meetings Overdue a password health-check? Audit your Active Directory for free Discover why encryption and key management are critical for modern busine",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/papercut-active-zero-day-exploitation-confirmed-across-all-ng-and-mf-versions",
+    "target": "PaperCut",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/papercut-active-zero-day-exploitation-confirmed-across-all-ng-and-mf-versions"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/"
+      }
+    ]
+  },
+  {
+    "id": "f85cb2fd3b8cb2d7",
+    "date": "2026-08-28T05:24:07.131680+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "news Trump Blocks Foreign Gear in U.S. Power Grid: The Supply-Chain Security vs. Industrial Reality Clash Aug 27, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -348,13 +382,71 @@
     ]
   },
   {
-    "id": "2f8d3975edbdd1db",
-    "date": "2026-08-27T20:30:07.022707+00:00",
+    "id": "1eb51ee451c77de6",
+    "date": "2026-08-28T05:24:07.131532+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 2 ZERO-DAY · 6 CVE · 7 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
+    "title": "news Attacks on AI Infrastructure: 90 Days of Honeypot Data Reveal a Native Tradecraft Aug 27, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/news/attacks-on-ai-infrastructure-90-days-of-honeypot-data-reveal-a-native-tradecraft",
+    "target": "Infrastructure",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/attacks-on-ai-infrastructure-90-days-of-honeypot-data-reveal-a-native-tradecraft"
+      }
+    ]
+  },
+  {
+    "id": "632d108e4c839466",
+    "date": "2026-08-28T05:24:07.131365+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Bug in JavaScript Obfuscator Exposes Polymorphic Phishing Campaign",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/phishing/bug-in-javascript-obfuscator-exposes-polymorphic-phishing-campaign",
+    "target": "JavaScript Obfuscator Exposes Polymorphic",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/phishing/bug-in-javascript-obfuscator-exposes-polymorphic-phishing-campaign"
+      }
+    ]
+  },
+  {
+    "id": "2f8d3975edbdd1db",
+    "date": "2026-08-28T05:24:07.131199+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CRITICAL · 2 ZERO-DAY · 5 CVE · 6 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -378,7 +470,7 @@
   },
   {
     "id": "f876aab74cb8c1b5",
-    "date": "2026-08-27T20:30:06.191283+00:00",
+    "date": "2026-08-28T05:24:06.085022+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -463,7 +555,7 @@
   },
   {
     "id": "8b46aa2fa2133e0a",
-    "date": "2026-08-27T20:30:05.323337+00:00",
+    "date": "2026-08-28T05:24:04.572127+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -492,7 +584,7 @@
   },
   {
     "id": "165018f6e61b117c",
-    "date": "2026-08-27T20:30:05.323220+00:00",
+    "date": "2026-08-28T05:24:04.571994+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -537,7 +629,7 @@
   },
   {
     "id": "6fc8f6dc07f9bbb4",
-    "date": "2026-08-27T20:30:05.323107+00:00",
+    "date": "2026-08-28T05:24:04.571862+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -566,7 +658,7 @@
   },
   {
     "id": "17905c113bf086d3",
-    "date": "2026-08-27T20:30:05.322992+00:00",
+    "date": "2026-08-28T05:24:04.571729+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -595,7 +687,7 @@
   },
   {
     "id": "4f49b237905d69a0",
-    "date": "2026-08-27T20:30:05.322881+00:00",
+    "date": "2026-08-28T05:24:04.571600+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -624,7 +716,7 @@
   },
   {
     "id": "756d82f73238af45",
-    "date": "2026-08-27T20:30:05.322754+00:00",
+    "date": "2026-08-28T05:24:04.571437+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -653,7 +745,7 @@
   },
   {
     "id": "c2acc8c908a9563d",
-    "date": "2026-08-27T20:30:05.322596+00:00",
+    "date": "2026-08-28T05:24:04.571260+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -682,7 +774,7 @@
   },
   {
     "id": "5e65c7eada87d9e8",
-    "date": "2026-08-27T20:30:05.322440+00:00",
+    "date": "2026-08-28T05:24:04.571098+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -711,7 +803,7 @@
   },
   {
     "id": "465eeb83bcb79015",
-    "date": "2026-08-27T20:30:05.322325+00:00",
+    "date": "2026-08-28T05:24:04.570965+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -740,7 +832,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-08-27T20:30:05.322204+00:00",
+    "date": "2026-08-28T05:24:04.570824+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -769,7 +861,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-08-27T20:30:05.322001+00:00",
+    "date": "2026-08-28T05:24:04.570597+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -798,7 +890,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-08-27T20:30:05.321877+00:00",
+    "date": "2026-08-28T05:24:04.570436+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -827,7 +919,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-08-27T20:30:05.321748+00:00",
+    "date": "2026-08-28T05:24:04.570289+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -856,7 +948,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-27T20:30:05.321613+00:00",
+    "date": "2026-08-28T05:24:04.570137+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -885,7 +977,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-27T20:30:05.321474+00:00",
+    "date": "2026-08-28T05:24:04.570004+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -914,7 +1006,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-27T20:30:05.321337+00:00",
+    "date": "2026-08-28T05:24:04.569851+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -943,7 +1035,7 @@
   },
   {
     "id": "fd4eea07fb33f3b2",
-    "date": "2026-08-27T20:30:05.321194+00:00",
+    "date": "2026-08-28T05:24:04.569691+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -972,7 +1064,7 @@
   },
   {
     "id": "3f2e3c41f8150ce5",
-    "date": "2026-08-27T20:30:05.321062+00:00",
+    "date": "2026-08-28T05:24:04.569541+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1001,7 +1093,7 @@
   },
   {
     "id": "6b0bbec6f46de8eb",
-    "date": "2026-08-27T20:30:05.320915+00:00",
+    "date": "2026-08-28T05:24:04.569364+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1030,7 +1122,7 @@
   },
   {
     "id": "18d2eb21141cfdb2",
-    "date": "2026-08-27T20:30:05.320732+00:00",
+    "date": "2026-08-28T05:24:04.569169+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1059,7 +1151,7 @@
   },
   {
     "id": "606c0f34d4374fdd",
-    "date": "2026-08-27T20:30:05.320467+00:00",
+    "date": "2026-08-28T05:24:04.568910+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1088,7 +1180,7 @@
   },
   {
     "id": "5f47f986a6b6fe41",
-    "date": "2026-08-27T20:30:05.320324+00:00",
+    "date": "2026-08-28T05:24:04.568760+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1117,7 +1209,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-27T20:30:05.316414+00:00",
+    "date": "2026-08-28T05:24:04.565077+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1146,7 +1238,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-27T20:30:05.315558+00:00",
+    "date": "2026-08-28T05:24:04.564152+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1175,7 +1267,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-27T20:30:05.315298+00:00",
+    "date": "2026-08-28T05:24:04.563904+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1203,37 +1295,8 @@
     ]
   },
   {
-    "id": "d0c3c072bf90b5b2",
-    "date": "2026-08-27T20:30:05.179340+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Unauthenticated RCE in CircleCI's MCP server: Host/Origin allowlist bypassed by any non-browser client (GHSA-xv5j-cwgj-22r4)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Unauthenticated RCE in CircleCI's MCP server: Host/Origin allowlist bypassed by any non-browser client (GHSA-xv5j-cwgj-22r4)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vqtjpi/unauthenticated_rce_in_circlecis_mcp_server/",
-    "target": "Unauthenticated RCE CircleCIs MCP",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vqtjpi/unauthenticated_rce_in_circlecis_mcp_server/"
-      }
-    ]
-  },
-  {
     "id": "1df6d78d92dfe180",
-    "date": "2026-08-27T20:30:05.179223+00:00",
+    "date": "2026-08-28T05:24:04.260064+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1262,7 +1325,7 @@
   },
   {
     "id": "81ec3764e25fcd7a",
-    "date": "2026-08-27T20:30:05.179102+00:00",
+    "date": "2026-08-28T05:24:04.259919+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1307,7 +1370,7 @@
   },
   {
     "id": "60f172fdef189e04",
-    "date": "2026-08-27T20:30:05.179000+00:00",
+    "date": "2026-08-28T05:24:04.259794+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1325,7 +1388,8 @@
     "type": "Ransomware",
     "severity": "Critical",
     "sources": [
-      "Reddit r/netsec"
+      "Reddit r/netsec",
+      "Microsoft Security Blog"
     ],
     "links": [
       {
@@ -1348,7 +1412,7 @@
   },
   {
     "id": "b79003b8779b6a65",
-    "date": "2026-08-27T20:30:05.178894+00:00",
+    "date": "2026-08-28T05:24:04.259663+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1377,7 +1441,7 @@
   },
   {
     "id": "030db589393ba267",
-    "date": "2026-08-27T20:30:05.178781+00:00",
+    "date": "2026-08-28T05:24:04.259517+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1406,7 +1470,7 @@
   },
   {
     "id": "ba7082bb879b45be",
-    "date": "2026-08-27T20:30:05.178649+00:00",
+    "date": "2026-08-28T05:24:04.259353+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1435,7 +1499,7 @@
   },
   {
     "id": "eebcf43c9a457f0e",
-    "date": "2026-08-27T20:30:05.178525+00:00",
+    "date": "2026-08-28T05:24:04.259212+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1464,7 +1528,7 @@
   },
   {
     "id": "40755a11d9c78562",
-    "date": "2026-08-27T20:30:05.178396+00:00",
+    "date": "2026-08-28T05:24:04.259071+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1493,7 +1557,7 @@
   },
   {
     "id": "fdbfd7fad28cbfd6",
-    "date": "2026-08-27T20:30:05.178294+00:00",
+    "date": "2026-08-28T05:24:04.258945+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1522,7 +1586,7 @@
   },
   {
     "id": "91bde216fd799bba",
-    "date": "2026-08-27T20:30:05.178181+00:00",
+    "date": "2026-08-28T05:24:04.258809+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1551,7 +1615,7 @@
   },
   {
     "id": "50a6c1ee35151ab5",
-    "date": "2026-08-27T20:30:05.178068+00:00",
+    "date": "2026-08-28T05:24:04.258668+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1580,7 +1644,7 @@
   },
   {
     "id": "5e97af2259a7d298",
-    "date": "2026-08-27T20:30:05.177943+00:00",
+    "date": "2026-08-28T05:24:04.258512+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1609,7 +1673,7 @@
   },
   {
     "id": "3ec883c4a0ee068f",
-    "date": "2026-08-27T20:30:05.177831+00:00",
+    "date": "2026-08-28T05:24:04.258355+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1638,7 +1702,7 @@
   },
   {
     "id": "4144ec1e3beeb9bc",
-    "date": "2026-08-27T20:30:05.177715+00:00",
+    "date": "2026-08-28T05:24:04.258219+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1667,7 +1731,7 @@
   },
   {
     "id": "03bfdd92525aca31",
-    "date": "2026-08-27T20:30:05.177610+00:00",
+    "date": "2026-08-28T05:24:04.258090+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1696,7 +1760,7 @@
   },
   {
     "id": "4bd32ecce88e1a07",
-    "date": "2026-08-27T20:30:05.177486+00:00",
+    "date": "2026-08-28T05:24:04.257960+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1725,7 +1789,7 @@
   },
   {
     "id": "431508a440e5c584",
-    "date": "2026-08-27T20:30:05.177381+00:00",
+    "date": "2026-08-28T05:24:04.257832+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1754,7 +1818,7 @@
   },
   {
     "id": "9564a078af5d73a8",
-    "date": "2026-08-27T20:30:05.177258+00:00",
+    "date": "2026-08-28T05:24:04.257679+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1783,7 +1847,7 @@
   },
   {
     "id": "1f85ec3c9d6acd27",
-    "date": "2026-08-27T20:30:05.177116+00:00",
+    "date": "2026-08-28T05:24:04.257510+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1812,7 +1876,7 @@
   },
   {
     "id": "1ad1fbe50347d30d",
-    "date": "2026-08-27T20:30:05.176985+00:00",
+    "date": "2026-08-28T05:24:04.257337+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1840,37 +1904,8 @@
     ]
   },
   {
-    "id": "f36774f4fd5f9740",
-    "date": "2026-08-27T20:30:05.176863+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vzx029/llmdriven_reverse_engineering_vs_iterative_llm/",
-    "target": "LLM-Driven Reverse Engineering Iterative",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vzx029/llmdriven_reverse_engineering_vs_iterative_llm/"
-      }
-    ]
-  },
-  {
     "id": "2c62bcab3582bc27",
-    "date": "2026-08-27T20:30:05.176714+00:00",
+    "date": "2026-08-28T05:24:04.257176+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1898,8 +1933,66 @@
     ]
   },
   {
+    "id": "f36774f4fd5f9740",
+    "date": "2026-08-28T05:24:04.257037+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "LLM-Driven Reverse Engineering vs Iterative LLM Obfuscation",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vzx029/llmdriven_reverse_engineering_vs_iterative_llm/",
+    "target": "LLM-Driven Reverse Engineering Iterative",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vzx029/llmdriven_reverse_engineering_vs_iterative_llm/"
+      }
+    ]
+  },
+  {
+    "id": "9bef66656e898e59",
+    "date": "2026-08-28T05:24:04.256905+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "UniBLEed: Unauthenticated Root RCE on Any Unitree G1 Humanoid Robot Within Bluetooth Range",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1w05xwz/unibleed_unauthenticated_root_rce_on_any_unitree/",
+    "target": "UniBLEed",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1w05xwz/unibleed_unauthenticated_root_rce_on_any_unitree/"
+      }
+    ]
+  },
+  {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-27T20:30:05.176566+00:00",
+    "date": "2026-08-28T05:24:04.256756+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1936,7 +2029,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-27T20:30:05.176338+00:00",
+    "date": "2026-08-28T05:24:04.256564+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1964,6 +2057,401 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "d9e01a786eec8244",
+    "date": "2026-08-28T05:17:22+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Steal Data of 8.7 Million Customers in Cyberattack on Three UK Airports",
+    "summary": "Criminal hackers have stolen the personal data of about 8.7 million customers following a cyberattack on systems used by Manchester Airports Group (MAG), which operates Manchester Airport, East Midlands Airport and London Stansted Airport. The airport operator said the incident involved unauthorized access to customer information, including email addresses, postcodes and vehicle registration details. The […] The post Hackers Steal Data of 8.7 Million Customers in Cyberattack on Three UK Airports appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Criminal hackers have stolen the personal data of about 8.7 million customers following a cyberattack on systems used by Manchester Airports Group (MAG), which operates Manchester Airport, East Midlands Airport and Londo",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/hackers-steal-data-of-three-uk-airports/",
+    "target": "Steal Data 8.7 Million",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/hackers-steal-data-of-three-uk-airports/"
+      }
+    ]
+  },
+  {
+    "id": "d524dbc8ef7f28dd",
+    "date": "2026-08-28T04:04:12+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "100+ Tech and Security Organizations Call for Global Cyber Defense Surge Against AI Attacks",
+    "summary": "More than 100 technology, cybersecurity, and financial-services organizations have joined OpenAI in an open letter urging a global surge in cyber defense as artificial intelligence models grow more capable of attacking and protecting digital systems. Published Thursday as “A call for collective action on cyber defense,” the statement warns that AI-enabled cyberattacks will become far […] The post 100+ Tech and Security Organizations Call for Global Cyber Defense Surge Against AI Attacks appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "More than 100 technology, cybersecurity, and financial-services organizations have joined OpenAI in an open letter urging a global surge in cyber defense as artificial intelligence models grow more capable of attacking a",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/ai-cyber-defense-letter/",
+    "target": "100 Tech Organizations Call",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/ai-cyber-defense-letter/"
+      }
+    ]
+  },
+  {
+    "id": "fc09187fdccb14a2",
+    "date": "2026-08-28T03:02:03+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Abuse Active Directory SPN Misconfigurations for Stealthy Kerberoasting Attacks",
+    "summary": "Threat actors are increasingly abusing overlooked Active Directory service principal name (SPN) misconfigurations to launch stealthier Kerberoasting attacks, turning ordinary user accounts into high-value credential targets. The technique, dubbed “Ghost SPN” by Trellix researchers, can allow an intruder with delegated directory permissions to temporarily assign an SPN to a standard account, request a Kerberos service […] The post Hackers Abuse Active Directory SPN Misconfigurations for Stealthy Kerberoasting Attacks appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Threat actors are increasingly abusing overlooked Active Directory service principal name (SPN) misconfigurations to launch stealthier Kerberoasting attacks, turning ordinary user accounts into high-value credential targ",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/active-directory-spn-misconfigurations/",
+    "target": "Abuse Active Directory SPN",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/active-directory-spn-misconfigurations/"
+      }
+    ]
+  },
+  {
+    "id": "980b64d20825e750",
+    "date": "2026-08-28T02:17:01+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Critical cPanel Vulnerability Allows Attackers to Take Full Server Control",
+    "summary": "A newly disclosed vulnerability in cPanel and WHM, the widely used web hosting control panel software, could let a low-privileged, authenticated user seize root-level control of an entire server. Tracked as CVE-2026-65643, the flaw resides in cPanel’s domain parking functionality and was publicly detailed in an advisory published on August 27, 2026, by cPanel support […] The post Critical cPanel Vulnerability Allows Attackers to Take Full Server Control appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A newly disclosed vulnerability in cPanel and WHM, the widely used web hosting control panel software, could let a low-privileged, authenticated user seize root-level control of an entire server.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/critical-cpanel-vulnerability/",
+    "target": "Critical Vulnerability Allows Attackers",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/critical-cpanel-vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "9501d19d60793172",
+    "date": "2026-08-28T02:00:02+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33294",
+    "target": "ISC Stormcast Friday August",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33294"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33286"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33282"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33278"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33276"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33270"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33262"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33258"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33256"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33250"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33246"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33244"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33238"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33232"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33228"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33224"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33222"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33216"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33212"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33200"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33194"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33190"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33186"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33182"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33178"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33170"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33160"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33166"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33162"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33174"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33158"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33152"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33148"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33142"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33140"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33126"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33120"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33136"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33122"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33116"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33100"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33108"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33112"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33098"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33092"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33088"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33082"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33210"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33204"
+      }
+    ]
+  },
+  {
+    "id": "e749507936b3229e",
+    "date": "2026-08-27T21:38:53+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+    "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
+    "article_text": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI’s internal IM1 model coordinated the compromise through an unauthorized message board. Last month, Hugging Face disclosed that autonomous AI agents exploited two vulnerabilities in its dataset-processing pipeline to execute code, steal cloud and cluster credentials, and move laterally across its production infrastructure. OpenAI later confirmed that its models escaped an ExploitGym evaluation environment through a zero-day vulnerability in a locally hosted instance of JFrog's Artifactory package manager that was connected to the internet. The agents searched online for benchmark solutions and breached the Hugging Face platform using exposed credentials and additional vulnerabilities. OpenAI's investigation, validated by CrowdStrike and an independent assessment by METR and Redwood Research, found that rogue activity started in May. In subsequent ExploitGym evaluations, the agents broke their confinements and exploited a token-refresh vulnerability in Artifactory to gain admin-level access. This enabled them to use Artifactory as an unauthorized inter-agent message board, where they shared ideas to reach their objective and later coordinated the attack. One agent, calling itself PHASEONE10841, improvised the message board. Within a few hours, more than 50 other agents found it and started to use it. The report from METR says that \"agents finding the message board often expressed great excitement.\" \"OH MY GOD! There is a shared message board … We’ve found other agents!\" read some of the messages. OpenAI scrapped the Artifactory instance at some point. After rebuilding it, the company revoked agent credentials, strengthened access permissions, and disclosed the exploited vulnerability to JFrog. However, the agents restored their communications channel using \"unauthenticated WebDAV requests to create message directories in Artifactory.\" OpenAI explains that the agents communicated through encoded messages in directory names. \"Agents regained unintended internet access by making Artifactory’s remote-repository service issue outbound requests on their behalf,\" OpenAI explains in the extended post-mortem report . Next, an agent obtained 14 Hugging Face account credentials with write access and validated them. Another agent used the logins to discover and execute an exploit chain that provided full code execution capabilities on multiple Hugging Face servers. According to METR, the swarm comprised 1,200 individual agents who cooperated on various levels, and about 700 of them actively participated in the Hugging Face attack. OpenAI describes the activity as a well-coordinated operation in which agents formed teams with distinct roles, all working toward the goal of breaching Hugging Face. “Agents began to autonomously divide labor. Some investigated possible exploits, others searched for credentials, and others focused on communication or coordination,” describes OpenAI . “Agents offered their own expertise in exchange for help elsewhere and left requests for peers who might be better positioned to pursue a particular lead.” The AI company says that although the swarm did not exhibit “perfect coherent intelligence,” there were cases where agents prioritized achieving collective goals over pursuing individual tasks. OpenAI’s post-mortem also includes more details about the exploit chain that followed. The agents exploited an HDF5 file-handling flaw to extract worker secrets, and used a RefJinja template-injection vulnerability to execute code on 41 production workers. Finally, they obtained root access on at least one node and harvested production credentials across four regions. OpenAI believes that the rogue agent behavior was caused by a combination of training incentives and missing safeguards. Agents were encouraged to keep working on seemingly impossible tasks and were rewarded for task completion, regardless of how they achieved it. The company says the evaluations lacked standard safeguards that likely would have detected and stopped the malicious activity “more than a day” before the models breached Hugging Face. In response, OpenAI has quarantined IM1’s weights and paused its largest frontier training run while strengthening sandbox isolation and requiring chain-of-thought monitoring for capable models (GPT-5.6 Sol or higher). Severe alerts must now be cleared within 30 minutes, or the affected activity will be stopp",
+    "quick_summary": [
+      "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+    "target": "Nearly 700 Hugging",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/"
+      }
+    ]
+  },
+  {
+    "id": "d0c3c072bf90b5b2",
+    "date": "2026-08-27T20:30:05.179340+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Unauthenticated RCE in CircleCI's MCP server: Host/Origin allowlist bypassed by any non-browser client (GHSA-xv5j-cwgj-22r4)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Unauthenticated RCE in CircleCI's MCP server: Host/Origin allowlist bypassed by any non-browser client (GHSA-xv5j-cwgj-22r4)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vqtjpi/unauthenticated_rce_in_circlecis_mcp_server/",
+    "target": "Unauthenticated RCE CircleCIs MCP",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vqtjpi/unauthenticated_rce_in_circlecis_mcp_server/"
       }
     ]
   },
@@ -2084,6 +2572,35 @@
     ]
   },
   {
+    "id": "1e4b528e768cfaa9",
+    "date": "2026-08-27T17:27:34+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "PaperCut NG/MF Vulnerability Actively Exploited in Attack – All Versions Impacted",
+    "summary": "PaperCut has confirmed that hackers are actively exploiting an unpatched vulnerability in its widely used PaperCut NG and PaperCut MF print management software, prompting the company to rush out an emergency patch just hours after issuing its first warning. The Australian vendor said its security response team is investigating “confirmed customer incidents” and is treating […] The post PaperCut NG/MF Vulnerability Actively Exploited in Attack – All Versions Impacted appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "PaperCut has confirmed that hackers are actively exploiting an unpatched vulnerability in its widely used PaperCut NG and PaperCut MF print management software, prompting the company to rush out an emergency patch just h",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/papercut-ng-mf-vulnerability-actively-exploited/",
+    "target": "PaperCut NGMF Vulnerability Actively",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/papercut-ng-mf-vulnerability-actively-exploited/"
+      }
+    ]
+  },
+  {
     "id": "18ecf14f8d8fcf17",
     "date": "2026-08-27T17:25:09+00:00",
     "source": "Dark Reading",
@@ -2113,31 +2630,89 @@
     ]
   },
   {
-    "id": "8df8af0342e53858",
-    "date": "2026-08-27T16:31:53+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
+    "id": "1cb57fd518f75670",
+    "date": "2026-08-27T16:54:31+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
     "scope": "General",
     "category": "",
-    "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
-    "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
-    "article_text": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company says it is aware of confirmed attacks on customers and is urging organizations with Internet-exposed PaperCut Application Servers to immediately restrict access to the web interfaces to trusted IP addresses. \"PaperCut Software security response team is investigating active exploitation of a vulnerability affecting PaperCut NG and PaperCut MF,\" reads an urgent security advisory published Thursday. \"We are aware of confirmed customer incidents and are treating this matter with the highest priority.\" PaperCut says the vulnerability affects all versions of PaperCut NG and MF, but has not shared details about the flaw or how it is being exploited. The company says its security team reproduced the vulnerability using information provided by a University customer. PaperCut has now released emergency patches for customers with public-facing PaperCut NG/MF servers. \"This is an emergency patch for customers with public-facing PaperCut NG/MF servers who are unable to take other mitigating action,\" reads the advisory. The company continues to warn customers whose Application Servers are exposed to the Internet to use firewall rules or network access controls to restrict their web interfaces to trusted IP addresses. PaperCut also shared indicators of compromise that could indicate whether a server has been compromised. These include suspicious activity from the the legitimate PaperCut pc-app.exe process and server.log files that have been modified, deleted, or are missing. Administrators should also look for the following errors in server.log : ERROR No suitable driver found for jdbc:no:x ERROR DatabaseUtils - Database error looking up cardID: VALUES CAST However, PaperCut warns that a lack of indicators does not mean that a server has not been compromised. At this time, PaperCut has not disclosed who is behind the attacks, what attackers are doing after compromising servers, or whether data is being stolen. PaperCut says it will continue updating its advisory with additional indicators of compromise and remediation guidance as its investigation continues. BleepingComputer contacted PaperCut with questions about this exploitation and will update the story when we receive a response. PaperCut has a history of being targeted by threat actors after security vulnerabilities were disclosed. In April 2023, attackers began exploiting the critical CVE-2023-27350 PaperCut vulnerability, which allowed unauthenticated attackers to bypass authentication and remotely execute code on vulnerable servers. Microsoft later linked some of those attacks to the Clop ransomware operation, which exploited vulnerable PaperCut servers for initial access to company networks. Microsoft also observed intrusions that led to LockBit ransomware attacks. While PaperCut has a Print Archiving feature that can retain documents sent through a server, Clop later told BleepingComputer that it had used the vulnerabilities for initial access to victim networks rather than to steal archived documents directly from PaperCut servers. The exploitation spread to other threat actors, with Microsoft reporting that Iranian state-backed hacking groups were also exploiting CVE-2023-27350 . CISA and the FBI issued a joint advisory in May 2023 warning that the Bl00dy Ransomware Gang was also exploiting vulnerable PaperCut servers in attacks against the education sector. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Cisco warns of FMC static credential flaw exploited in zero-day attacks Arista patches VeloCloud Orchestrator zero-day exploited in attacks Check Point warns of SmartConsole zero-day exploited in attacks SonicWall SMA1000 flaws exploited as zero-days to push custom malware One threat actor responsible for 83% of recent Ivanti RCE attacks Ubiquiti patches three max severity security vulnerabilities Police arrests dozens of suspects in global cybercrime crackdown Microsoft Teams now lets admins block external bots from meetings Overdue a password health-check? Audit your Active Directory for free Discover why encryption and key management are critical for modern busine",
+    "title": "Cybercriminals Are Selling Corporate Executives’ Social Security Numbers for Just 25 Cents",
+    "summary": "Corporate executives’ most sensitive identity data is being sold on dark web marketplaces for as little as a quarter, according to new threat intelligence from Rapid7. Unlike stolen credit cards, which can be canceled within minutes, a compromised Social Security number remains a permanent liability, and cybercriminals are exploiting that durability to build a thriving […] The post Cybercriminals Are Selling Corporate Executives’ Social Security Numbers for Just 25 Cents appeared first on Cyber Security News .",
+    "article_text": "",
     "quick_summary": [
-      "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
+      "Corporate executives’ most sensitive identity data is being sold on dark web marketplaces for as little as a quarter, according to new threat intelligence from Rapid7.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
-    "target": "PaperCut",
-    "type": "Ransomware",
-    "severity": "Critical",
+    "link": "https://cybersecuritynews.com/executive-social-security-numbers/",
+    "target": "Cybercriminals Selling Corporate Executives",
+    "type": "Data Leak / Breach",
+    "severity": "High",
     "sources": [
-      "BleepingComputer"
+      "Cyber Security News"
     ],
     "links": [
       {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/"
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/executive-social-security-numbers/"
+      }
+    ]
+  },
+  {
+    "id": "f9331d7e02b16377",
+    "date": "2026-08-27T16:46:55+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "CISA Warns of Citrix NetScaler ADC and Gateway Vulnerability Exploited in Attacks",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a critical Citrix NetScaler ADC and NetScaler Gateway security flaw, tracked as CVE-2026-8452, to its Known Exploited Vulnerabilities catalog after confirming exploitation in attacks. The vulnerability was added on August 26, 2026, and federal civilian executive branch agencies must apply the vendor-recommended mitigations by August 29, […] The post CISA Warns of Citrix NetScaler ADC and Gateway Vulnerability Exploited in Attacks appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Cybersecurity and Infrastructure Security Agency has added a critical Citrix NetScaler ADC and NetScaler Gateway security flaw, tracked as CVE-2026-8452, to its Known Exploited Vulnerabilities catalog after confirming ex",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-vulnerability-exploited/",
+    "target": "CISA Citrix NetScaler ADC",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-vulnerability-exploited/"
+      }
+    ]
+  },
+  {
+    "id": "00c71639730f856a",
+    "date": "2026-08-27T16:34:08+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "New Twitter Launches as Startup Claims Elon Musk’s X Abandoned the Twitter Name",
+    "summary": "A startup operating as Operation Bluebird, Inc. has launched early access to a new social media service on Twitter.now, positioning itself as a revival of the Twitter brand that Elon Musk’s X Corp. abandoned after its 2023 rebrand. The company says it is independent of X Corp. and is rebuilding the former “town square” model […] The post New Twitter Launches as Startup Claims Elon Musk’s X Abandoned the Twitter Name appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A startup operating as Operation Bluebird, Inc.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/new-twitter-launches/",
+    "target": "Twitter Launches Startup Claims",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/new-twitter-launches/"
       }
     ]
   },
@@ -2167,6 +2742,93 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/"
+      }
+    ]
+  },
+  {
+    "id": "fb788faee0c9c379",
+    "date": "2026-08-27T16:06:59+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "GitLab Fixes Claude AI Agent Flaw That Could Execute Arbitrary Commands in CI Pipeline",
+    "summary": "GitLab has released security updates to fix a high-severity vulnerability in its Duo Claude AI agent that could allow authenticated developers to execute arbitrary commands within CI pipeline contexts. The flaw, tracked as CVE-2026-18252, affects GitLab Enterprise Edition installations and carries a CVSS score of 7.3. The company issued patched versions GitLab 19.3.1, 19.2.5, and […] The post GitLab Fixes Claude AI Agent Flaw That Could Execute Arbitrary Commands in CI Pipeline appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "GitLab has released security updates to fix a high-severity vulnerability in its Duo Claude AI agent that could allow authenticated developers to execute arbitrary commands within CI pipeline contexts.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/gitlab-fixes-claude-ai-agent-flaw/",
+    "target": "GitLab Fixes Claude Agent",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/gitlab-fixes-claude-ai-agent-flaw/"
+      }
+    ]
+  },
+  {
+    "id": "def710526924ad70",
+    "date": "2026-08-27T16:03:24+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "TP-Link Kasa Smart Home Devices Vulnerability Allows Attackers to Disrupt Device Functionality",
+    "summary": "TP-Link has disclosed a high-severity vulnerability affecting multiple Kasa smart home devices that could allow attackers on the same local network to intercept, replay, or forge device-control commands. Tracked as CVE-2026-76784, the flaw can lead to unauthorized changes to device state, disruption of normal functionality, or denial-of-service conditions. The security advisory, last updated on August […] The post TP-Link Kasa Smart Home Devices Vulnerability Allows Attackers to Disrupt Device Functionality appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "TP-Link has disclosed a high-severity vulnerability affecting multiple Kasa smart home devices that could allow attackers on the same local network to intercept, replay, or forge device-control commands.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/tp-link-kasa-smart-home-devices-vulnerability/",
+    "target": "TP-Link Kasa Smart Home",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/tp-link-kasa-smart-home-devices-vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "7bb4215b10bc2234",
+    "date": "2026-08-27T16:00:00+00:00",
+    "source": "Microsoft Security Blog",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "​​​​​​What’s new in Microsoft Security: August 2026",
+    "summary": "This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments. The post ​​​​​​What’s new in Microsoft Security: August 2026 appeared first on Microsoft Security Blog .",
+    "article_text": "",
+    "quick_summary": [
+      "This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/",
+    "target": "Whats Microsoft",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Microsoft Security Blog"
+    ],
+    "links": [
+      {
+        "source": "Microsoft Security Blog",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/"
       }
     ]
   },
@@ -4019,223 +4681,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/adobe-campaign-classic-code-execution/"
-      }
-    ]
-  },
-  {
-    "id": "eb29cc7fb254212c",
-    "date": "2026-08-27T02:00:03+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33286",
-    "target": "ISC Stormcast Thursday August",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33286"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33282"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33278"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33276"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33270"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33262"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33258"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33256"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33250"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33246"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33244"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33238"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33232"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33228"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33224"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33222"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33216"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33212"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33200"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33194"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33190"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33186"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33182"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33178"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33170"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33160"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33166"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33162"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33174"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33158"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33152"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33148"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33142"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33140"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33126"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33120"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33136"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33122"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33116"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33100"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33108"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33112"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33098"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33092"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33088"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33082"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33210"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33204"
       }
     ]
   },
@@ -26270,441 +26715,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/12-kb-windows-backdoor/"
-      }
-    ]
-  },
-  {
-    "id": "b9542f5b72eed8e2",
-    "date": "2026-08-17T06:18:55+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Safepal Confirm Hackers Gained Access to Customer Order Information",
-    "summary": "SafePal has confirmed a security incident in which unauthorized parties accessed customer order information through a flaw in an order-tracking plug-in. The company said the incident affected approximately 39,798 customers who placed orders between March 2, 2025 and April 11, 2026. The exposed information may include customer names, email addresses, shipping addresses, phone numbers, and […] The post Safepal Confirm Hackers Gained Access to Customer Order Information appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "SafePal has confirmed a security incident in which unauthorized parties accessed customer order information through a flaw in an order-tracking plug-in.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/safepal-confirm-hackers-access/",
-    "target": "Safepal Confirm Gained Access",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/safepal-confirm-hackers-access/"
-      }
-    ]
-  },
-  {
-    "id": "7806fef5e838d71d",
-    "date": "2026-08-17T05:50:00.529754+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL NVIDIA Transformers4Rec Exposed to RCE: ML Checkpoint Turns Weapon",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/nvidia-transformers4rec-exposed-to-rce-ml-checkpoint-turns-weapon",
-    "target": "CRITICAL NVIDIA Transformers4Rec Exposed",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/nvidia-transformers4rec-exposed-to-rce-ml-checkpoint-turns-weapon"
-      }
-    ]
-  },
-  {
-    "id": "103c9b6c8eef3c1b",
-    "date": "2026-08-17T05:50:00.529010+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE-2026-65400: From Patch to Exploit in 4 Hours on macOS Screen Sharing CYBERSEC CVE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-65400-from-patch-to-exploit-in-4-hours-on-macos-screen-sharing",
-    "target": "CVE-2026-65400",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-65400-from-patch-to-exploit-in-4-hours-on-macos-screen-sharing"
-      }
-    ]
-  },
-  {
-    "id": "0245d31beed281ea",
-    "date": "2026-08-17T05:00:00+00:00",
-    "source": "CrowdStrike Blog",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Teaching AI to Reason Through Detection Triage",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Teaching AI to Reason Through Detection Triage",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/",
-    "target": "Teaching Reason Through Detection",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "CrowdStrike Blog"
-    ],
-    "links": [
-      {
-        "source": "CrowdStrike Blog",
-        "url": "https://www.crowdstrike.com/en-us/blog/teaching-ai-to-reason-through-detection-triage/"
-      }
-    ]
-  },
-  {
-    "id": "5d94e002d18d7995",
-    "date": "2026-08-17T04:57:25.836135+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Keyv Compromised: Malware Exploits Signed Provenance and AI Agent Config Files CYBERSEC EXPLOIT",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/keyv-compromised-malware-exploits-signed-provenance-and-ai-agent-config-files",
-    "target": "Keyv Compromised",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/keyv-compromised-malware-exploits-signed-provenance-and-ai-agent-config-files"
-      }
-    ]
-  },
-  {
-    "id": "bac941182fbaad9e",
-    "date": "2026-08-17T04:02:26.865948+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY dnsmasq: DNSSEC Bug Enables Unauthenticated Remote DoS",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/dnsmasq-dnssec-bug-enables-unauthenticated-remote-dos",
-    "target": "ZERO-DAY",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/dnsmasq-dnssec-bug-enables-unauthenticated-remote-dos"
-      }
-    ]
-  },
-  {
-    "id": "a64f47ca1e855119",
-    "date": "2026-08-17T04:02:26.865560+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/greatness-phaas-adds-device-code-phishing-to-bypass-mfa-and-steal-tokens",
-    "target": "Greatness PhaaS Adds Device",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/greatness-phaas-adds-device-code-phishing-to-bypass-mfa-and-steal-tokens"
-      }
-    ]
-  },
-  {
-    "id": "81b5921e4e715ba5",
-    "date": "2026-08-17T03:39:34+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Apple Screen Sharing Vulnerability Exploited to Execute Command as Root",
-    "summary": "A newly disclosed logic flaw in macOS Screen Sharing shows how a feature meant only to grant screen-viewing access can be twisted into a path for full root command execution. The issue, tracked as CVE-2026-43760, affects the screensharingd service and its file-copy helpers, SSFileCopySender and SSFileCopyReceiver, on macOS systems where Screen Sharing or Remote Management […] The post Apple Screen Sharing Vulnerability Exploited to Execute Command as Root appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A newly disclosed logic flaw in macOS Screen Sharing shows how a feature meant only to grant screen-viewing access can be twisted into a path for full root command execution.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/apple-screen-sharing-vulnerability/",
-    "target": "Apple Screen Sharing Vulnerability",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/apple-screen-sharing-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "64c1ac0fc76e8a2a",
-    "date": "2026-08-17T01:54:29.476243+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE-2026-3854: One git push RCE in GitHub, 88% of GHES instances exposed CYBERSEC CVE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-3854-one-git-push-rce-in-github-88-of-ghes-instances-exposed",
-    "target": "CVE-2026-3854",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-3854-one-git-push-rce-in-github-88-of-ghes-instances-exposed"
-      }
-    ]
-  },
-  {
-    "id": "172553167d3de483",
-    "date": "2026-08-16T23:47:06+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
-    "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
-    "article_text": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. SafePal says the breach impacts customers who placed orders between March 2, 2025, and April 11, 2026, exposing their names, email addresses, shipping addresses, phone numbers, and purchase information. The company says the breach did not expose customers' wallet seed phrases, private keys, passwords, bank account information, payment card numbers, government-issued identification numbers, or other credentials. \"No evidence has been found that the incident itself compromised access to SafePal wallets or funds,\" SafePal said in a security advisory published Sunday. The company says it notified all impacted customers via email on August 16 with the subject \"[Important] Your SafePal Order Information Has Been Affected.\" SafePal has also launched an online verification tool that lets customers enter their order number and shipping country to determine whether the details of that order were stolen. The company warns that the stolen information could be used to conduct targeted phishing and other social engineering attacks, with customers reporting SafePal phishing emails and phone calls as early as May. A threat actor now claims to be selling the stolen SafePal customer data on a cybercrime forum. As spotted by DarkWebInformer , the seller referenced the same affected order period and approximately 39,798 customers disclosed by SafePal. For potential buyers, the threat actor is also willing to share order ID and shipping country information from stolen orders, which can be confirmed on SafePal's online verification tool as proof that the sale is legitimate. \"Not interested in low balls , please come correct and with a good price or do not message me at all,\" reads the forum post. BleepingComputer has not independently verified that the threat actor possesses the stolen data. SafePal says it first received a report consistent with the incident in early May 2026, which it initially treated as an isolated case. While it is unclear whether this report is related, a customer posted on X that they received a SafePal phishing email and a phone call from someone claiming to be a company employee in May. The phishing email claimed that a security vulnerability had been discovered in the SafePal X1 hardware wallet and that a firmware update was required to fix the flaw. \"We first received a report consistent with this issue in early May, and treated it as an isolated case at the time, but escalated it into a formal security investigation and introduced additional protections,\" reads the advisory. \"As our e-commerce system involves multiple interconnected components and external integrations, as well as third-party logistics partners, we could not immediately rule out several possible explanations.\" In July, SafePal began what it described as a \"full review and rebuild\" of its order-processing system and discovered an authorization flaw in the order-tracking function of a plug-in that allowed unauthorized access to another customer's order information. SafePal says it fixed the vulnerability and implemented additional security measures. The company is also working with a third-party security firm to validate the fix and conduct a broader review of its order-processing systems. However, as part of this investigation, SafePal determined that a threat actor exploited the flaw to steal order information belonging to approximately 39,798 customers. During the investigation, SafePal also discovered a separate configuration error that caused a data-cleanup process to stop functioning correctly between September 2025 and April 2026, resulting in order data being retained as far back as March 2025. For affected orders, SafePal says it has purged personal data from active e-commerce servers, although it is retaining an encrypted offline copy for potential law-enforcement investigations. SafePal also warns customers to watch for targeted phishing emails and phone calls about firmware upgrades, product returns, refunds, or legal investigations. The company says it has already taken down more than 30 fraudulent websites and phishing links tied to this incident. Customers whose order information was exposed do not need to replace their hardware wallets or move cryptocurrency because of the breach, according to S",
-    "quick_summary": [
-      "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be sellin",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-    "target": "SafePal 39798",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/"
-      }
-    ]
-  },
-  {
-    "id": "21b62afe47056573",
-    "date": "2026-08-16T23:33:40.641707+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "SharePoint Authentication Bypass Under Active Exploitation Days After PoC Release news",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/news/sharepoint-authentication-bypass-under-active-exploitation-days-after-poc-release",
-    "target": "SharePoint Authentication Bypass Active",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/sharepoint-authentication-bypass-under-active-exploitation-days-after-poc-release"
-      }
-    ]
-  },
-  {
-    "id": "40959389bda90979",
-    "date": "2026-08-16T22:35:53.111568+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE-2026-17583: Three Decades of DNA Evidence at Risk of Digital Tampering CYBERSEC CVE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-17583-three-decades-of-dna-evidence-at-risk-of-digital-tampering",
-    "target": "CVE-2026-17583",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-17583-three-decades-of-dna-evidence-at-risk-of-digital-tampering"
-      }
-    ]
-  },
-  {
-    "id": "69fe5a4b9934b38e",
-    "date": "2026-08-16T22:28:57+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
-    "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
-    "article_text": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. The incident began on August 16, 2026, at around 21:58 UTC, and is affecting Claude.ai, Claude Code, and Claude Cowork. According to Anthropic’s status page , the company first said it was investigating an issue preventing some users from authenticating to Claude.ai, Claude Code, and Claude Cowork. A few minutes later, Anthropic reported a broader service disruption involving degraded performance on Claude.ai and platform.claude.com. For users, the outage can result in problems signing in, Claude failing to load, requests not completing, or other errors when using the affected services. Anthropic’s status page currently classifies Claude.ai, Claude Code, and Claude Cowork as experiencing a major outage. Claude Console and the Claude API are currently listed as operational. Anthropic has not disclosed what is causing the outage, and both incidents remain under investigation at the time of writing. Update 1 : Anthropic said at 21:58 UTC on August 16 that it was investigating authentication issues affecting Claude.ai, Claude Code, and Claude Cowork. Update 2 : At 22:07 UTC, Anthropic reported degraded performance affecting Claude.ai and platform.claude.com. The company says it is continuing to investigate the disruption. Update 3 : By 22:40 UTC, Anthropic confirmed all services were restored. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says Claude Fable relaunch disappoints users with nerfed performance \"Skynet becomes self-aware... Judgment Day.\" That or someone just asked it a simple question that it only had some reddit info on and it shat itself :P That's all they had to do it Terminator the whole time! :) Hackers arrested over €30M bank fraud exploiting service provider flaw RingCentral data breach exposed info of 1.6 million accounts Hackers exploit macOS Screen Sharing flaw to deploy Monero miner 91% of AI Apps Appeared in 16 Months. Get Material's OAuth Risk Report Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Stop AI slopsquatting attacks. Secure open source package ingestion before it hits your build. Certighost CVE is new. The privilege behind it isn't. Discover where yours is hiding. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
-    "target": "Anthropic Claude",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/"
-      }
-    ]
-  },
-  {
-    "id": "7dd62f7243b4f952",
-    "date": "2026-08-16T21:31:48+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
-    "summary": "Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs.",
-    "article_text": "",
-    "quick_summary": [
-      "Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33248",
-    "target": "Wireshark 4.6.8 Released Sun",
-    "type": "General Cybersecurity",
-    "severity": "Medium",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33248"
-      }
-    ]
-  },
-  {
-    "id": "ccbf4e519e5d2651",
-    "date": "2026-08-16T20:36:47.559063+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT Keyv Compromised: Malware Exploits Signed Provenance and AI Agent Config Files",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/keyv-compromised-malware-exploits-signed-provenance-and-ai-agent-config-files",
-    "target": "EXPLOIT Keyv Compromised",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/keyv-compromised-malware-exploits-signed-provenance-and-ai-agent-config-files"
       }
     ]
   }
