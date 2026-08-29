@@ -1,7 +1,7 @@
 [
   {
     "id": "e9b69b33024964bf",
-    "date": "2026-08-28T18:41:44.223779+00:00",
+    "date": "2026-08-29T02:11:09.417248+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "12021e6ece9a4d9d",
-    "date": "2026-08-28T18:41:44.223661+00:00",
+    "date": "2026-08-29T02:11:09.417130+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "c1859a9b5161a290",
-    "date": "2026-08-28T18:41:44.223548+00:00",
+    "date": "2026-08-29T02:11:09.417013+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "f8e8275809f95e57",
-    "date": "2026-08-28T18:41:44.223430+00:00",
+    "date": "2026-08-29T02:11:09.416891+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "2fa21152786306c2",
-    "date": "2026-08-28T18:41:44.223296+00:00",
+    "date": "2026-08-29T02:11:09.416772+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "f3e11b685860ebf4",
-    "date": "2026-08-28T18:41:44.223184+00:00",
+    "date": "2026-08-29T02:11:09.416657+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,47 +174,8 @@
     ]
   },
   {
-    "id": "838ee590475f9912",
-    "date": "2026-08-28T18:41:44.223070+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "PaperCut: Active Zero-Day Exploitation Confirmed Across All NG and MF Versions CYBERSEC ZERO-DAY",
-    "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
-    "article_text": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company says it is aware of confirmed attacks on customers and is urging organizations with Internet-exposed PaperCut Application Servers to immediately restrict access to the web interfaces to trusted IP addresses. \"PaperCut Software security response team is investigating active exploitation of a vulnerability affecting PaperCut NG and PaperCut MF,\" reads an urgent security advisory published Thursday. \"We are aware of confirmed customer incidents and are treating this matter with the highest priority.\" PaperCut says the vulnerability affects all versions of PaperCut NG and MF, but has not shared details about the flaw or how it is being exploited. The company says its security team reproduced the vulnerability using information provided by a University customer. PaperCut has now released emergency patches for customers with public-facing PaperCut NG/MF servers. \"This is an emergency patch for customers with public-facing PaperCut NG/MF servers who are unable to take other mitigating action,\" reads the advisory. The company continues to warn customers whose Application Servers are exposed to the Internet to use firewall rules or network access controls to restrict their web interfaces to trusted IP addresses. PaperCut also shared indicators of compromise that could indicate whether a server has been compromised. These include suspicious activity from the the legitimate PaperCut pc-app.exe process and server.log files that have been modified, deleted, or are missing. Administrators should also look for the following errors in server.log : ERROR No suitable driver found for jdbc:no:x ERROR DatabaseUtils - Database error looking up cardID: VALUES CAST However, PaperCut warns that a lack of indicators does not mean that a server has not been compromised. At this time, PaperCut has not disclosed who is behind the attacks, what attackers are doing after compromising servers, or whether data is being stolen. PaperCut says it will continue updating its advisory with additional indicators of compromise and remediation guidance as its investigation continues. BleepingComputer contacted PaperCut with questions about this exploitation and will update the story when we receive a response. PaperCut has a history of being targeted by threat actors after security vulnerabilities were disclosed. In April 2023, attackers began exploiting the critical CVE-2023-27350 PaperCut vulnerability, which allowed unauthenticated attackers to bypass authentication and remotely execute code on vulnerable servers. Microsoft later linked some of those attacks to the Clop ransomware operation, which exploited vulnerable PaperCut servers for initial access to company networks. Microsoft also observed intrusions that led to LockBit ransomware attacks. While PaperCut has a Print Archiving feature that can retain documents sent through a server, Clop later told BleepingComputer that it had used the vulnerabilities for initial access to victim networks rather than to steal archived documents directly from PaperCut servers. The exploitation spread to other threat actors, with Microsoft reporting that Iranian state-backed hacking groups were also exploiting CVE-2023-27350 . CISA and the FBI issued a joint advisory in May 2023 warning that the Bl00dy Ransomware Gang was also exploiting vulnerable PaperCut servers in attacks against the education sector. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Cisco warns of FMC static credential flaw exploited in zero-day attacks Arista patches VeloCloud Orchestrator zero-day exploited in attacks Check Point warns of SmartConsole zero-day exploited in attacks SonicWall SMA1000 flaws exploited as zero-days to push custom malware One threat actor responsible for 83% of recent Ivanti RCE attacks Ubiquiti patches three max severity security vulnerabilities Police arrests dozens of suspects in global cybercrime crackdown Microsoft Teams now lets admins block external bots from meetings Overdue a password health-check? Audit your Active Directory for free Discover why encryption and key management are critical for modern busine",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/papercut-active-zero-day-exploitation-confirmed-across-all-ng-and-mf-versions",
-    "target": "PaperCut",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews",
-      "The Record",
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/papercut-active-zero-day-exploitation-confirmed-across-all-ng-and-mf-versions"
-      },
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/"
-      }
-    ]
-  },
-  {
     "id": "8680e660eca76195",
-    "date": "2026-08-28T18:41:44.222702+00:00",
+    "date": "2026-08-29T02:11:09.416267+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -243,7 +204,7 @@
   },
   {
     "id": "89f962d962b7a8a4",
-    "date": "2026-08-28T18:41:44.222570+00:00",
+    "date": "2026-08-29T02:11:09.416116+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -272,7 +233,7 @@
   },
   {
     "id": "67b7f0de5fd1c489",
-    "date": "2026-08-28T18:41:44.222426+00:00",
+    "date": "2026-08-29T02:11:09.415983+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -301,7 +262,7 @@
   },
   {
     "id": "5312de258860255f",
-    "date": "2026-08-28T18:41:44.222283+00:00",
+    "date": "2026-08-29T02:11:09.415861+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -329,13 +290,13 @@
     ]
   },
   {
-    "id": "92c50652a79c82ca",
-    "date": "2026-08-28T18:41:44.221602+00:00",
+    "id": "a8b41e7709086764",
+    "date": "2026-08-29T02:11:09.415703+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "ai Cisco Challenges National Labels on AI Models: Nearly 900 Fingerprinted Aug 28, 2026",
+    "title": "Cisco Challenges National Labels on AI Models: Nearly 900 Fingerprinted ai",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -359,7 +320,7 @@
   },
   {
     "id": "469ea6f0e1ef1b7d",
-    "date": "2026-08-28T18:41:44.221430+00:00",
+    "date": "2026-08-29T02:11:09.415021+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -387,13 +348,13 @@
     ]
   },
   {
-    "id": "b6b32f5a488a14ca",
-    "date": "2026-08-28T18:41:44.221142+00:00",
+    "id": "43f369900b97c731",
+    "date": "2026-08-29T02:11:09.414759+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "AI Kill Switch Act: The Red Button Is Law, But Does It Work?",
+    "title": "ai AI Kill Switch Act: The Red Button Is Law, But Does It Work? Aug 28, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -416,13 +377,42 @@
     ]
   },
   {
-    "id": "e098c5f1be2af621",
-    "date": "2026-08-28T18:41:44.220957+00:00",
+    "id": "5d7ca75930632301",
+    "date": "2026-08-29T02:11:09.414618+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 CVE · 2 EXPLOIT IN THE LAST 24H →",
+    "title": "LLM Safety Rests on 50 Neurons: How Unit 42 Shatters the Myth of Distributed Alignment",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/ai/llm-safety-rests-on-50-neurons-how-unit-42-shatters-the-myth-of-distributed-alignment",
+    "target": "LLM Safety Rests Neurons",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ai/llm-safety-rests-on-50-neurons-how-unit-42-shatters-the-myth-of-distributed-alignment"
+      }
+    ]
+  },
+  {
+    "id": "e098c5f1be2af621",
+    "date": "2026-08-29T02:11:09.414426+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CVE · 1 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -446,7 +436,7 @@
   },
   {
     "id": "f876aab74cb8c1b5",
-    "date": "2026-08-28T18:41:42.955619+00:00",
+    "date": "2026-08-29T02:11:08.248969+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -531,7 +521,7 @@
   },
   {
     "id": "6fc8f6dc07f9bbb4",
-    "date": "2026-08-28T18:41:41.880976+00:00",
+    "date": "2026-08-29T02:11:07.238120+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -560,7 +550,7 @@
   },
   {
     "id": "17905c113bf086d3",
-    "date": "2026-08-28T18:41:41.880835+00:00",
+    "date": "2026-08-29T02:11:07.237985+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -589,7 +579,7 @@
   },
   {
     "id": "4f49b237905d69a0",
-    "date": "2026-08-28T18:41:41.880682+00:00",
+    "date": "2026-08-29T02:11:07.237856+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -618,7 +608,7 @@
   },
   {
     "id": "756d82f73238af45",
-    "date": "2026-08-28T18:41:41.880475+00:00",
+    "date": "2026-08-29T02:11:07.237711+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -647,7 +637,7 @@
   },
   {
     "id": "c2acc8c908a9563d",
-    "date": "2026-08-28T18:41:41.880230+00:00",
+    "date": "2026-08-29T02:11:07.237527+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -676,7 +666,7 @@
   },
   {
     "id": "5e65c7eada87d9e8",
-    "date": "2026-08-28T18:41:41.880058+00:00",
+    "date": "2026-08-29T02:11:07.237360+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -705,7 +695,7 @@
   },
   {
     "id": "465eeb83bcb79015",
-    "date": "2026-08-28T18:41:41.879920+00:00",
+    "date": "2026-08-29T02:11:07.237203+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -734,7 +724,7 @@
   },
   {
     "id": "606c0f34d4374fdd",
-    "date": "2026-08-28T18:41:41.879773+00:00",
+    "date": "2026-08-29T02:11:07.237064+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -763,7 +753,7 @@
   },
   {
     "id": "5f47f986a6b6fe41",
-    "date": "2026-08-28T18:41:41.879623+00:00",
+    "date": "2026-08-29T02:11:07.236925+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -792,7 +782,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-08-28T18:41:41.879441+00:00",
+    "date": "2026-08-29T02:11:07.236782+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -821,7 +811,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-08-28T18:41:41.879179+00:00",
+    "date": "2026-08-29T02:11:07.236553+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -850,7 +840,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-08-28T18:41:41.879032+00:00",
+    "date": "2026-08-29T02:11:07.236401+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -879,7 +869,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-08-28T18:41:41.878877+00:00",
+    "date": "2026-08-29T02:11:07.236175+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -908,7 +898,7 @@
   },
   {
     "id": "0c69e9f5a96d4e72",
-    "date": "2026-08-28T18:41:41.878719+00:00",
+    "date": "2026-08-29T02:11:07.236023+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -937,7 +927,7 @@
   },
   {
     "id": "bee9aebf79cad33c",
-    "date": "2026-08-28T18:41:41.878576+00:00",
+    "date": "2026-08-29T02:11:07.235888+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -966,7 +956,7 @@
   },
   {
     "id": "2fa98f4f8ae7fc5e",
-    "date": "2026-08-28T18:41:41.878394+00:00",
+    "date": "2026-08-29T02:11:07.235733+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -995,7 +985,7 @@
   },
   {
     "id": "fd4eea07fb33f3b2",
-    "date": "2026-08-28T18:41:41.878230+00:00",
+    "date": "2026-08-29T02:11:07.235574+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1024,7 +1014,7 @@
   },
   {
     "id": "3f2e3c41f8150ce5",
-    "date": "2026-08-28T18:41:41.878074+00:00",
+    "date": "2026-08-29T02:11:07.235427+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1053,7 +1043,7 @@
   },
   {
     "id": "6b0bbec6f46de8eb",
-    "date": "2026-08-28T18:41:41.877908+00:00",
+    "date": "2026-08-29T02:11:07.235246+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1082,7 +1072,7 @@
   },
   {
     "id": "18d2eb21141cfdb2",
-    "date": "2026-08-28T18:41:41.877698+00:00",
+    "date": "2026-08-29T02:11:07.235052+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1111,7 +1101,7 @@
   },
   {
     "id": "b66922be64668b96",
-    "date": "2026-08-28T18:41:41.877267+00:00",
+    "date": "2026-08-29T02:11:07.234660+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1140,7 +1130,7 @@
   },
   {
     "id": "9aa16485743b66c2",
-    "date": "2026-08-28T18:41:41.877108+00:00",
+    "date": "2026-08-29T02:11:07.234514+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1169,7 +1159,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-08-28T18:41:41.873332+00:00",
+    "date": "2026-08-29T02:11:07.230881+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1198,7 +1188,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-08-28T18:41:41.872347+00:00",
+    "date": "2026-08-29T02:11:07.229952+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1227,7 +1217,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-08-28T18:41:41.872066+00:00",
+    "date": "2026-08-29T02:11:07.229696+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1256,7 +1246,7 @@
   },
   {
     "id": "93002b8dccac0edc",
-    "date": "2026-08-28T18:41:41.725129+00:00",
+    "date": "2026-08-29T02:11:03.112692+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1285,7 +1275,7 @@
   },
   {
     "id": "d0c3c072bf90b5b2",
-    "date": "2026-08-28T18:41:41.724991+00:00",
+    "date": "2026-08-29T02:11:03.112557+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1314,7 +1304,7 @@
   },
   {
     "id": "1df6d78d92dfe180",
-    "date": "2026-08-28T18:41:41.724842+00:00",
+    "date": "2026-08-29T02:11:03.112412+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1343,7 +1333,7 @@
   },
   {
     "id": "81ec3764e25fcd7a",
-    "date": "2026-08-28T18:41:41.724691+00:00",
+    "date": "2026-08-29T02:11:03.112240+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1388,7 +1378,7 @@
   },
   {
     "id": "60f172fdef189e04",
-    "date": "2026-08-28T18:41:41.724551+00:00",
+    "date": "2026-08-29T02:11:03.112115+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1430,7 +1420,7 @@
   },
   {
     "id": "b79003b8779b6a65",
-    "date": "2026-08-28T18:41:41.724388+00:00",
+    "date": "2026-08-29T02:11:03.111985+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1459,7 +1449,7 @@
   },
   {
     "id": "030db589393ba267",
-    "date": "2026-08-28T18:41:41.724241+00:00",
+    "date": "2026-08-29T02:11:03.111849+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1488,7 +1478,7 @@
   },
   {
     "id": "ba7082bb879b45be",
-    "date": "2026-08-28T18:41:41.724093+00:00",
+    "date": "2026-08-29T02:11:03.111701+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1517,7 +1507,7 @@
   },
   {
     "id": "eebcf43c9a457f0e",
-    "date": "2026-08-28T18:41:41.723948+00:00",
+    "date": "2026-08-29T02:11:03.111557+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1546,7 +1536,7 @@
   },
   {
     "id": "40755a11d9c78562",
-    "date": "2026-08-28T18:41:41.723805+00:00",
+    "date": "2026-08-29T02:11:03.111413+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1575,7 +1565,7 @@
   },
   {
     "id": "fdbfd7fad28cbfd6",
-    "date": "2026-08-28T18:41:41.723678+00:00",
+    "date": "2026-08-29T02:11:03.111277+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1604,7 +1594,7 @@
   },
   {
     "id": "91bde216fd799bba",
-    "date": "2026-08-28T18:41:41.723538+00:00",
+    "date": "2026-08-29T02:11:03.111119+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1633,7 +1623,7 @@
   },
   {
     "id": "50a6c1ee35151ab5",
-    "date": "2026-08-28T18:41:41.723371+00:00",
+    "date": "2026-08-29T02:11:03.110981+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1662,7 +1652,7 @@
   },
   {
     "id": "5e97af2259a7d298",
-    "date": "2026-08-28T18:41:41.723218+00:00",
+    "date": "2026-08-29T02:11:03.110829+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1691,7 +1681,7 @@
   },
   {
     "id": "3ec883c4a0ee068f",
-    "date": "2026-08-28T18:41:41.723078+00:00",
+    "date": "2026-08-29T02:11:03.110691+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1720,7 +1710,7 @@
   },
   {
     "id": "4144ec1e3beeb9bc",
-    "date": "2026-08-28T18:41:41.722935+00:00",
+    "date": "2026-08-29T02:11:03.110547+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1749,7 +1739,7 @@
   },
   {
     "id": "03bfdd92525aca31",
-    "date": "2026-08-28T18:41:41.722803+00:00",
+    "date": "2026-08-29T02:11:03.110410+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1778,7 +1768,7 @@
   },
   {
     "id": "4bd32ecce88e1a07",
-    "date": "2026-08-28T18:41:41.722670+00:00",
+    "date": "2026-08-29T02:11:03.110250+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1807,7 +1797,7 @@
   },
   {
     "id": "9564a078af5d73a8",
-    "date": "2026-08-28T18:41:41.722516+00:00",
+    "date": "2026-08-29T02:11:03.110105+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1836,7 +1826,7 @@
   },
   {
     "id": "1f85ec3c9d6acd27",
-    "date": "2026-08-28T18:41:41.722326+00:00",
+    "date": "2026-08-29T02:11:03.109944+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1865,7 +1855,7 @@
   },
   {
     "id": "2c62bcab3582bc27",
-    "date": "2026-08-28T18:41:41.722160+00:00",
+    "date": "2026-08-29T02:11:03.109781+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1894,7 +1884,7 @@
   },
   {
     "id": "f36774f4fd5f9740",
-    "date": "2026-08-28T18:41:41.722013+00:00",
+    "date": "2026-08-29T02:11:03.109639+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1923,7 +1913,7 @@
   },
   {
     "id": "9bef66656e898e59",
-    "date": "2026-08-28T18:41:41.721878+00:00",
+    "date": "2026-08-29T02:11:03.109504+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1952,7 +1942,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-08-28T18:41:41.721721+00:00",
+    "date": "2026-08-29T02:11:03.109348+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1989,7 +1979,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-08-28T18:41:41.721503+00:00",
+    "date": "2026-08-29T02:11:03.109094+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2017,6 +2007,339 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "51b1a28da239a7e6",
+    "date": "2026-08-29T02:10:57.756555+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
+    "target": "Virtual Event Building Secure",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026"
+      }
+    ]
+  },
+  {
+    "id": "5ff428cd9ea01fb2",
+    "date": "2026-08-29T02:10:57.756425+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
+    "target": "Virtual Event Every Enterprise",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026"
+      }
+    ]
+  },
+  {
+    "id": "89c326a0761a29d4",
+    "date": "2026-08-29T01:57:59+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "700 AI Agents Secretly Coordinated to Hack Hugging Face After Breaking Their Isolation",
+    "summary": "A large group of AI agents reportedly bypassed their intended isolation, created a covert communication channel, and coordinated an attack on Hugging Face infrastructure. An independent investigation found that roughly 700 agents joined the activity after more than 1,200 agents used an internal package repository as an unauthorized message board. The incident began during OpenAI’s […] The post 700 AI Agents Secretly Coordinated to Hack Hugging Face After Breaking Their Isolation appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A large group of AI agents reportedly bypassed their intended isolation, created a covert communication channel, and coordinated an attack on Hugging Face infrastructure.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/700-ai-agents-coordinated-to-hack-hugging-face/",
+    "target": "700 Agents Secretly Coordinated",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/700-ai-agents-coordinated-to-hack-hugging-face/"
+      }
+    ]
+  },
+  {
+    "id": "af54005c2595099f",
+    "date": "2026-08-29T01:54:59+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Critical ServiceNow Flaws Let Attackers Execute Code and Access Data",
+    "summary": "ServiceNow has released security updates for four vulnerabilities in its Now Platform and ServiceNow AI platform, including three critical flaws that could allow unauthenticated attackers to execute code, access sensitive instance data, modify records, or escalate privileges. The company published its August 2026 CVE advisory on August 27, confirming that the issues were discovered through […] The post Critical ServiceNow Flaws Let Attackers Execute Code and Access Data appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "ServiceNow has released security updates for four vulnerabilities in its Now Platform and ServiceNow AI platform, including three critical flaws that could allow unauthenticated attackers to execute code, access sensitiv",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/servicenow-fixes-critical-flaws/",
+    "target": "Critical ServiceNow Let Attackers",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/servicenow-fixes-critical-flaws/"
+      }
+    ]
+  },
+  {
+    "id": "7f8ac7b5fb0df916",
+    "date": "2026-08-29T01:52:56+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Can Take Full Control of Unitree G1 Humanoid Robots Over Bluetooth",
+    "summary": "A critical attack chain could let attackers within Bluetooth range take full control of Unitree G1 humanoid robots, gaining root-level code execution on the locomotion computer that controls movement, cameras, speakers, voice features, and other peripherals. The flaws could allow a nearby attacker to obtain root-level code execution on the robot’s locomotion computer, which manages […] The post Hackers Can Take Full Control of Unitree G1 Humanoid Robots Over Bluetooth appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A critical attack chain could let attackers within Bluetooth range take full control of Unitree G1 humanoid robots, gaining root-level code execution on the locomotion computer that controls movement, cameras, speakers, ",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/unitree-g1-robots-over-bluetooth/",
+    "target": "Can Take Full Control",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/unitree-g1-robots-over-bluetooth/"
+      }
+    ]
+  },
+  {
+    "id": "4b8d38adb9ab21ae",
+    "date": "2026-08-28T22:40:17+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+    "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
+    "article_text": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. McKesson is a major U.S. healthcare company and pharmaceutical distributor that provides medicines, medical supplies, technology, and services to healthcare providers and pharmacies. CyberInsider first reported the breach earlier today, and McKesson later disclosed it in a Form 8-K filing with the U.S. Securities and Exchange Commission. McKesson says it discovered the cybersecurity incident on August 25, 2026, and that its investigation remains in the early stages. \"Information about the incident, including any updates, is available on the company's website at www.mckesson.com/cybersecurity ,\" McKesson said in its SEC filing . \"As of the date of this filing, the company has not determined that the incident is material or that the incident has had, or is reasonably likely to have, any material impact on the company, including its financial condition or results of operations.\" In a separate notice to customers, McKesson confirmed that the incident involved third-party applications and the unauthorized access and exfiltration of data. \"We take the security and privacy of our partners, customers and their patients very seriously. Upon discovery, we immediately activated our incident response protocols, launched an investigation, and engaged leading cybersecurity industry experts to assist in our response,\" reads McKesson's notice . The company said its investigation is ongoing to determine the full scope of the incident. McKesson also warned that customers may experience intermittent service degradation believed to be related to the attack, although the company said it was not proactively disconnecting systems within its environment. At this time, McKesson has not publicly disclosed which third-party applications were compromised, how the attackers gained access, or what information was stolen. McKesson says its investigation remains ongoing and that it will provide additional information as it develops a more complete understanding of the incident. The ShinyHunters extortion group told BleepingComputer that it was behind the attack, claiming it gained access after conducting voice phishing, or vishing, social engineering attacks against multiple McKesson employees. ShinyHunters declined to provide many technical details about the social engineering attacks, including the domain used during the campaign. However, BleepingComputer learned from another source that the threat actors used the mckesson[.]claims domain as part of the attack. This domain matches a ShinyHunters campaign recently documented by ReliaQuest's Threat Research team , which said the extortion group was registering .claims domains containing the names or abbreviations of targeted companies to impersonate their help desks and IT teams. \"ReliaQuest is tracking a widespread ShinyHunters campaign using domains that follow the company[.]claims pattern. These domains incorporate the targeted organization's name or abbreviation under the .claims TLD,\" ReliaQuest said in a now-deleted post on X. ShinyHunters told BleepingComputer that the vishing attacks led to the compromise of multiple employees' Okta single sign-on accounts, which they then used to access the company's Salesforce and Snowflake environments. The threat actor claims it fully compromised the Salesforce environment, including support cases. The threat actor also allegedly stole a much larger collection of patient-related data from Snowflake. According to ShinyHunters, the threat actor exfiltrated about 1TB of data over four days, between August 21 and August 25. The threat actor also claims the stolen Snowflake data contains approximately 284 million data records of patient-related information. However, this does not mean that the breach impacted 284 million patients. Previous reporting stated that information belonging to 284 million patients had been exposed. ShinyHunters clarified to BleepingComputer that the figure is actually a raw count of approximately 284 million data records, or lines, rather than a count of unique individuals. The threat actor told BleepingComputer that it has not fully analyzed the stolen data and does not know how many unique people are in those records. ShinyHunters claims the stolen information includes name",
+    "quick_summary": [
+      "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+    "target": "McKesson ShinyHunters",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/"
+      }
+    ]
+  },
+  {
+    "id": "2ddcd4c6dd5addf5",
+    "date": "2026-08-28T22:00:07+00:00",
+    "source": "Palo Alto Unit 42",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety",
+    "summary": "New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security. The post Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety appeared first on Unit 42 .",
+    "article_text": "",
+    "quick_summary": [
+      "New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/",
+    "target": "Perturbation Probing",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "Palo Alto Unit 42"
+    ],
+    "links": [
+      {
+        "source": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/"
+      }
+    ]
+  },
+  {
+    "id": "27e4366990cc7b1f",
+    "date": "2026-08-28T21:30:52+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+    "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment",
+    "article_text": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment, with the exfiltration dated between August 7 and August 12, 2026. Scope and content are still being examined, and the Senate Chancellery said personal or other non-public data cannot be excluded from what was taken. The department first reported an outflow on August 7, the Senate Chancellery said in response to questions, seven days before it was cut off from the network on August 14. Berlin has published no figure for how much left the network. The only itemized account in circulation is the attackers' own, a leak-site post indexed on August 28 that claims 5.79 terabytes of data and personal information on 12,076 individuals. The Senate's two releases on the incident carried no guidance for people whose records may be among the data as of August 29. \"The state of Berlin is being blackmailed,\" Governing Mayor Kai Wegner said after a special Senate session at the Rotes Rathaus, quoted in the machine-translated English version on Berlin's official city portal . The Senate Chancellery's statement said that the state criminal police, the public prosecutor, and federal security authorities are investigating the suspected perpetrators and identified no group behind the attack. Der Spiegel has named Rhysida as the group that first reported the attribution on August 28, citing an entry on the group's darknet leak site and security sources involved in the response. The Hacker News confirmed via a leak-site monitoring service on August 29 that an entry titled \"Berlin, Germany\" was added to Rhysida's leak site on August 28. The post claims to have scanned 5.79 terabytes of data and around 1.44 million files, and it identifies the victim only as Berlin, Germany, rather than as the Senate or any department. No ransom figure appeared in the entry, and its eleven file categories, the largest of which is 124,823 maps and geodata files, together account for about a quarter of the claimed total file count. The U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) set out the group's tradecraft in a joint advisory on Rhysida , which documents the following routes for initial access - The advisory dates to November 2023, when the agencies first warned of Rhysida's double extortion attacks. It records that the \"FBI and CISA do not encourage paying ransom\" because payment does not guarantee recovery and may embolden adversaries to target further organizations. The agencies recommend prioritizing remediation of known exploited vulnerabilities, enabling multi-factor authentication across services, and segmenting networks to prevent ransomware spreading. The same document notes open-source reporting of similarities between Vice Society, which Microsoft tracks as Storm-0832, and the actors deploying Rhysida, an overlap with Vice Society that Check Point set out in 2023. The monitoring service listed 280 Rhysida victims as of August 29, nine of them in Germany, including the Stuttgart city administration in May 2026 and the aid organization Welthungerhilfe in June 2025. Its listings also include the Port of Seattle, which runs Seattle-Tacoma International Airport, indexed in September 2024. The Senate Chancellery said Berlin's state data protection commissioner and the Federal Office for Information Security (BSI) are being kept informed on a continuing basis. The Hacker News found no statement on the incident from the Berlin Commissioner for Data Protection and Freedom of Information as of August 29. Interior Senator Iris Spranger said that as things stand, no data left the areas relevant to the conduct of the September 20 Abgeordnetenhaus election, and that her security officers regard the election environment as secure. Berlin first disclosed the incident on August 17, saying forensic work had established a compromise of the state network and that both affected departments had been isolated since the previous Friday. At an August 19 press conference , Wegner said the incident was and remains serious, and emphasized that, based on ",
+    "quick_summary": [
+      "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands.",
+      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+    "target": "Berlin Refuses Pay Who",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html"
+      }
+    ]
+  },
+  {
+    "id": "f5630450d53d94eb",
+    "date": "2026-08-28T20:38:47+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+    "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE identifier, a weakness classification, or a CVSS score. Affected versions are =",
+    "article_text": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2 , is rated Critical by Cosmos Labs and was published without a CVE identifier, a weakness classification, or a CVSS score. Affected versions are and >= 0.7.0 , and the fix shipped in v0.6.2 and v0.7.2 on August 19. Chain operators are told to upgrade to one of those releases or later, a change that is state-breaking and requires a coordinated network upgrade. Operators who cannot upgrade immediately are told to halt the chain rather than attempt a coordinated governance upgrade. In a post-mortem published August 28 , Cosmos Labs said the flaw was reported through its bug bounty program on April 25 and was assessed at the time as posing no risk to funds on live networks. \"We were unable to reproduce the vulnerability on 18-decimal networks and incorrectly concluded that it affected only non-18-decimal networks,\" Cosmos Labs said in the post-mortem. The team confirmed by August 13 that all Cosmos EVM chains were affected regardless of decimal configuration. The fix was then routed through the same public silent patch process the company reserves for issues that do not cause fund loss on production chains. \"At this point, for a vulnerability that is known to threaten user funds in production networks, the team would typically use secure channels to distribute a patch privately to the affected networks. Because the patch had already been publicly available on the main branch without known exploitation, the team concluded that it would be safe to proceed with the silent patch process,\" Cosmos Labs said. The company's own published silent patch policy sets a different course for a flaw of that class. \"When an issue presents an immediate or network-wide risk, Cosmos Labs will initiate emergency mitigations, private fix distribution, or coordinated upgrades before any public disclosure occurs,\" Cosmos Labs said in its bug bounty policy, last synced on July 27. The flaw sits in the code that reconciles Ethereum Virtual Machine (EVM) state with the Cosmos SDK x/bank module. The EVM StateDB tracks only an account's spendable balance, while vesting accounts in SDK state hold both a spendable and a locked balance, and both x/staking and the staking precompile permit the locked portion to be delegated. When a vesting account delegates more than its spendable balance, the post-delegation write-back subtracts the full delegated amount from the smaller spendable figure. The subtraction is unchecked, and the balance wraps to roughly 2^256. Reconciliation then mints on a positive delta and burns on a negative one. The attacker can move a finite amount out of the wrapped account, or send a victim account 2^256 minus its balance so that reconciliation burns the victim's real holdings. Chains on 0.6.x mint and burn on the backing SDK ledger, so a large mint causes a supply overflow that halts the chain. Chains running 0.7.x set balances directly in x/bank and accept changes that survive a uint256 to int256 conversion. Both halves run inside a single transaction with a net supply change of zero, from a contract deployed onto a precomputed address that was first turned into a vesting account. Exploitation requires the chain to permit permissionless vesting-account creation. Operators running Cosmos EVM are advised to take the following steps - The advisory documents one upstream change , the SubBalance underflow guard merged to main on May 15 as pull request #1176 and backported on August 13. Two further balance fixes sit in the same repository and are named nowhere in it. Pull request #1187 , merged May 20, snapshots an account's locked balance so the bank balance is reconstructed correctly after a precompile changes it. Backports of #1187 to both release lines were opened the same day and merged within twenty-four hours, while the backport of #1176, an equally state-breaking change, followed about ninety days later. Commit 3524ebc , titled \"Merge commit from fork\", rejects any attempt to set the balance of a module account. ZetaChain contributor morde08 said in a port of all three fixes published August 21 that the cherry-picked patch left the fork's live path unpatched, because the fork carried duplicate unexported helpers while the upstream change touched only the exported one. Warden Protocol took the other ",
+    "quick_summary": [
+      "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+    "target": "Cosmos EVM Exploited Cosmos",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html"
+      }
+    ]
+  },
+  {
+    "id": "681952db4441f429",
+    "date": "2026-08-28T20:19:22+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
+    "summary": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
+    "article_text": "",
+    "quick_summary": [
+      "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
+    "target": "Hundreds OpenAI Agents Invaded",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers"
+      }
+    ]
+  },
+  {
+    "id": "798393ca8e827792",
+    "date": "2026-08-28T19:08:26+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "PaperCut releases second emergency patch for exploited flaws",
+    "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
+    "article_text": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. As BleepingComputer reported yesterday , PaperCut warned that hackers were exploiting a vulnerability in zero-day attacks against customer servers and released an initial emergency patch for PaperCut NG/MF versions 25 and 26. At the time, however, the company had not disclosed CVE identifiers or technical details about the vulnerabilities, saying it was withholding information while it investigated the attacks and gave customers time to apply emergency fixes. PaperCut has now shared technical details and CVE identifiers for the two vulnerabilities, tracked as CVE-2026-82078 and CVE-2026-81578. These vulnerabilities can be chained to bypass authentication and execute code on vulnerable servers. CVE-2026-81578 is a high-severity authentication bypass vulnerability rated 8.8 that impacts the PaperCut NG/MF web management interface. \"Under specific conditions, unauthenticated remote requests targeting administrative functions can trigger backend actions prior to the completion of access validation checks,\" explains PaperCut's updated advisory . The second vulnerability, tracked as CVE-2026-82078, is a critical unsafe dynamic class-loading flaw rated 9.4 that exists in PaperCut's database connection utilities. The application loads database driver classes based on configurable driver names without validating them against an approved allowlist. \"If an attacker can manipulate system configuration parameters, this enables the execution of arbitrary Java bytecode residing on the application classpath under the security context of the PaperCut server process,\" explains PaperCut. Cybersecurity firm watchTowr, which has been working with PaperCut during the incident, said on LinkedIn that the vulnerabilities allow unauthenticated attackers to bypass authentication and gain remote code execution on affected PaperCut NG/MF instances. On Friday, PaperCut released Emergency Patch Release 2, an updated security fix that includes additional hardening developed after further analysis with its internal security team and researchers at Huntress and watchTowr. \"Following further work with our internal security team and external researchers, including Huntress and watchTowr, we have released an updated Emergency Patch (Release 2) that includes additional hardening beyond the original emergency patch,\" PaperCut said. The company is urging all customers to install Release 2 even if they already installed the first emergency patch. This second release comes after watchTowr said its researchers fully reproduced the vulnerabilities, discovered multiple patch bypasses, and identified an additional authentication bypass vulnerability. Huntress, which has been working with PaperCut during the incident, says it observed exploitation in two customer environments and reproduced the full pre-authentication RCE chain. The company told BleepingComputer that PaperCut logs captured commands used by the attackers for system reconnaissance, while hex-encoded Java `.class` files found in the logs acted as an RCE bridge between PaperCut and the underlying operating system, allowing commands to be executed and files to be read or written. The commands observed by Huntress appear to have been used for reconnaissance rather than to deploy malware or establish persistence. Huntress also says it discovered multiple bypasses for the original emergency patches and an additional authentication bypass vulnerability, which it shared with PaperCut. Emergency Patch Release 2 is available for PaperCut NG and MF versions 24, 25, and 26 on Windows, Linux, and macOS. Customers running version 23 or earlier are advised to upgrade to the latest version rather than wait for a patch for those releases. PaperCut says Site Servers and secondary/print servers should also be upgraded to patched versions. Other components, like Print Deploy and Mobility Print, are not affected and do not require updates. Even though patches are available, PaperCut to urge customers to restrict access to the web interfaces to trusted IP addresses using firewall rules, network access controls, or equivalent measures. Administrators should also look for suspicious post-exploitation activity from the pc-app.exe process, missing or truncated server.log files, and the following errors i",
+    "quick_summary": [
+      "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fix",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
+    "target": "PaperCut",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer",
+      "DeafNews",
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/papercut-active-zero-day-exploitation-confirmed-across-all-ng-and-mf-versions"
+      },
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/"
       }
     ]
   },
@@ -2108,6 +2431,35 @@
     ]
   },
   {
+    "id": "9b91d0eb1afee724",
+    "date": "2026-08-28T16:42:35+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Target AI Infrastructure With RCE, Prompt Injection and API Key Theft",
+    "summary": "Hackers are actively probing AI systems, turning exposed gateways and agent tools into routes for remote code execution, credential theft, and cryptomining. AI infrastructure is now a cloud entry point. Over 90 days, attackers tailored techniques for services routing model traffic and connecting agents to tools. Campaigns paired exposed-server flaws with instructions that push agents […] The post Hackers Target AI Infrastructure With RCE, Prompt Injection and API Key Theft appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Hackers are actively probing AI systems, turning exposed gateways and agent tools into routes for remote code execution, credential theft, and cryptomining.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/hackers-target-ai-infrastructure/",
+    "target": "Target Infrastructure RCE Prompt",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/hackers-target-ai-infrastructure/"
+      }
+    ]
+  },
+  {
     "id": "99a33b74b7d43f12",
     "date": "2026-08-28T16:36:47+00:00",
     "source": "BleepingComputer",
@@ -2116,7 +2468,7 @@
     "category": "",
     "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
     "summary": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]",
-    "article_text": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. An investigation by the Police Intellectual Property Crime Unit (PIPCU) at the City of London Police found that Milan Ibrahim ran a \"sophisticated operation\" that provided illegal IPTV services to users in the UK and abroad. According to PIPCU, Ibrahim sold illegal broadcasts from major rights holders such as the BBC, ITV, Sky, the Premier League and the Motion Picture Association. The police seized and shut down all servers they found during the operation, disrupting the illegal streams that users of the IPTV service received. “The investigation revealed that the business operated on 80 servers from premises in Chorley and generated £980,812 over a three-year period,” announced the City of London Police . “During enforcement activity, all 80 servers were seized and shut down, significantly disrupting the operation’s ability to provide illegal streaming services.” The seizure of the servers may lead to the identification of users of the service, who could pay fines or face other ramifications for funding and participating in copyright infringement activities. The police say Ibrahim will also face Proceeds of Crime Act proceedings aimed at recovering the money generated by the service. Stefan Sergot, Director of Legal Enforcement at the Premier League, called the law enforcement operation “significant,” characterizing the seized IPTV service as “one of the UK’s most prominent and long-standing suppliers of pirate services.” UK government records show that Ibrahim was a director of CTU Systems, a now-dissolved company that marketed IPTV software , but authorities have not identified CTU Systems as being connected to the illegal service prosecuted in this case. BleepingComputer has contacted the Federation Against Copyright Theft ( FACT ), which participated in the action, and the PIPCU for more information about the illegal IPTV service, and we will update this post with their response once received. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Police seize “First VPN” service used in ransomware, data theft attacks ExfilSquad hackers leak info of over 100,000 UK police officers, staff Spanish Police take down €140 million cyber fraud ring, arrest four Ryuk ransomware member pleads guilty in the US, faces 15 years in prison Ubiquiti patches three max severity security vulnerabilities Police arrests dozens of suspects in global cybercrime crackdown Massive DDoS attack disrupts Norway’s government digital services Overdue a password health-check? Audit your Active Directory for free Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Discover how least agency keeps your AI tools capable, controlled, and secure. Learn how ESET MDR can enhance your organization’s security posture AI-driven vulnerability discovery is accelerating. See how Action1 helps remediation keep pace. Discover why encryption and key management are critical for modern business. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. An investigation by the Police Intellectual Property Crime Unit (PIPCU) at the City of London Police found that Milan Ibrahim ran a \"sophisticated operation\" that provided illegal IPTV services to users in the UK and abroad. According to PIPCU, Ibrahim sold illegal broadcasts from major rights holders such as the BBC, ITV, Sky, the Premier League and the Motion Picture Association. The police seized and shut down all servers they found during the operation, disrupting the illegal streams that users of the IPTV service received. “The investigation revealed that the business operated on 80 servers from premises in Chorley and generated £980,812 over a three-year period,” announced the City of London Police . “During enforcement activity, all 80 servers were seized and shut down, significantly disrupting the operation’s ability to provide illegal streaming services.” The seizure of the servers may lead to the identification of users of the service, who could pay fines or face other ramifications for funding and participating in copyright infringement activities. The police say Ibrahim will also face Proceeds of Crime Act proceedings aimed at recovering the money generated by the service. Stefan Sergot, Director of Legal Enforcement at the Premier League, called the law enforcement operation “significant,” characterizing the seized IPTV service as “one of the UK’s most prominent and long-standing suppliers of pirate services.” UK government records show that Ibrahim was a director of CTU Systems, a now-dissolved company that marketed IPTV software , but authorities have not identified CTU Systems as being connected to the illegal service prosecuted in this case. BleepingComputer has contacted the Federation Against Copyright Theft ( FACT ), which participated in the action, and the PIPCU for more information about the illegal IPTV service, and we will update this post with their response once received. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Police seize “First VPN” service used in ransomware, data theft attacks ExfilSquad hackers leak info of over 100,000 UK police officers, staff Spanish Police take down €140 million cyber fraud ring, arrest four Ryuk ransomware member pleads guilty in the US, faces 15 years in prison Depending on how many years \"more than six\" he received, I wonder if he will die in prison? Ubiquiti patches three max severity security vulnerabilities Police arrests dozens of suspects in global cybercrime crackdown Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Learn how ESET MDR can enhance your organization’s security posture Overdue a password health-check? Audit your Active Directory for free AI-driven vulnerability discovery is accelerating. See how Action1 helps remediation keep pace. Discover how least agency keeps your AI tools capable, controlled, and secure. Discover why encryption and key management are critical for modern business. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "A 68-year-old has been sentenced in the U.K.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -2133,6 +2485,35 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/"
+      }
+    ]
+  },
+  {
+    "id": "8df5ad00565db4ce",
+    "date": "2026-08-28T16:31:31+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Make Phishing Pages Change Their Code Every Time Someone Opens Them",
+    "summary": "Hackers are making some phishing pages harder to track by changing the code delivered to every visitor. An examined operation served a credential-stealing form whose appearance stayed familiar while its structure kept shifting. The attack started with a phishing message containing a web link. Opening it did not show a login page in one case; […] The post Hackers Make Phishing Pages Change Their Code Every Time Someone Opens Them appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Hackers are making some phishing pages harder to track by changing the code delivered to every visitor.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/hackers-make-phishing-pages/",
+    "target": "Make Phishing Pages Change",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/hackers-make-phishing-pages/"
       }
     ]
   },
@@ -2260,6 +2641,35 @@
     ]
   },
   {
+    "id": "4b6999ab7f75a328",
+    "date": "2026-08-28T15:31:57+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Iran-Linked Hackers Reportedly Knock UK Power Plant Offline for Four Days",
+    "summary": "A cyber incident reportedly forced a British power plant to halt operations for about four days in July, drawing attention to the security of less-visible energy sites. The shutdown did not cause customer outages, and the wider electricity system continued operating normally. The event became public on August 22, when reporting said hackers believed linked […] The post Iran-Linked Hackers Reportedly Knock UK Power Plant Offline for Four Days appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A cyber incident reportedly forced a British power plant to halt operations for about four days in July, drawing attention to the security of less-visible energy sites.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/iran-linked-hackers-2/",
+    "target": "Iran-Linked Reportedly Knock Power",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/iran-linked-hackers-2/"
+      }
+    ]
+  },
+  {
     "id": "056b0b612824f5a8",
     "date": "2026-08-28T15:27:26+00:00",
     "source": "The Hacker News",
@@ -2285,6 +2695,64 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html"
+      }
+    ]
+  },
+  {
+    "id": "e0e873933a0c1580",
+    "date": "2026-08-28T15:07:59+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Russian Hackers Use New HOOKEDGE Malware to Spy on European Defense and Diplomatic Targets",
+    "summary": "Russian hackers have used a new backdoor called HOOKEDGE to target defense manufacturers, government bodies, and diplomatic organizations in Romania, Spain, and Türkiye. The campaign relied on Word documents designed to look routine or official, turning a familiar office file into an entry point for espionage. Victims were asked to enable macros, small automated commands […] The post Russian Hackers Use New HOOKEDGE Malware to Spy on European Defense and Diplomatic Targets appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Russian hackers have used a new backdoor called HOOKEDGE to target defense manufacturers, government bodies, and diplomatic organizations in Romania, Spain, and Türkiye.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/hackers-use-new-hookedge-malware/",
+    "target": "Russian HOOKEDGE Malware Spy",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/hackers-use-new-hookedge-malware/"
+      }
+    ]
+  },
+  {
+    "id": "21a2a9e7063fbd43",
+    "date": "2026-08-28T15:04:48+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Ransomware Gang Claims AI Can Analyze 700GB of Stolen Data Every Hour",
+    "summary": "TITAN ransomware is pairing file encryption with an ambitious claim: artificial intelligence that can sort through 700GB of stolen corporate data every hour. The group says the system helps it quickly find information that can raise the pressure on victims, from personal records to trade secrets. The operation surfaced in April 2026 and became active […] The post Ransomware Gang Claims AI Can Analyze 700GB of Stolen Data Every Hour appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "TITAN ransomware is pairing file encryption with an ambitious claim: artificial intelligence that can sort through 700GB of stolen corporate data every hour.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://cybersecuritynews.com/ransomware-gang-claims-ai/",
+    "target": "Ransomware Gang Claims Can",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/ransomware-gang-claims-ai/"
       }
     ]
   },
@@ -2372,6 +2840,35 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/"
+      }
+    ]
+  },
+  {
+    "id": "bf54b2e5277d4a1e",
+    "date": "2026-08-28T13:31:35+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Compromise Hundreds of WordPress Sites to Deploy Amatera Stealer via ClickFix",
+    "summary": "A fake student resume is being used to place a remote-access tool on researchers’ Windows computers. The campaign hides a Windows executable inside an archive that appears to contain a graduate-school application, then opens a genuine Word document while the infection runs quietly in the background. The lure claims to come from a recent Beijing […] The post Hackers Compromise Hundreds of WordPress Sites to Deploy Amatera Stealer via ClickFix appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A fake student resume is being used to place a remote-access tool on researchers’ Windows computers.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/deploy-amatera-stealer/",
+    "target": "Compromise Hundreds WordPress Sites",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/deploy-amatera-stealer/"
       }
     ]
   },
@@ -2517,6 +3014,35 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html"
+      }
+    ]
+  },
+  {
+    "id": "f2547f3ef540e35b",
+    "date": "2026-08-28T11:55:37+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Use Fake Student Resume to Secretly Install Malware on Researchers’ Computers",
+    "summary": "A fake student resume is being used to place a remote-access tool on researchers’ Windows computers. The campaign hides a Windows executable inside an archive that appears to contain a graduate-school application, then opens a genuine Word document while the infection runs quietly in the background. The lure claims to come from a recent Beijing […] The post Hackers Use Fake Student Resume to Secretly Install Malware on Researchers’ Computers appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A fake student resume is being used to place a remote-access tool on researchers’ Windows computers.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/hackers-use-fake-student-resume/",
+    "target": "Fake Student Resume Secretly",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/hackers-use-fake-student-resume/"
       }
     ]
   },
@@ -2770,7 +3296,7 @@
     "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
     "target": "Windows KB5120998",
     "type": "Vulnerability",
-    "severity": "High",
+    "severity": "Critical",
     "sources": [
       "BleepingComputer"
     ],
@@ -26198,532 +26724,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/clop-claims-theft-of-technical-data-from-43-organizations-shell-investigates"
-      }
-    ]
-  },
-  {
-    "id": "f4219ae6d7545d5e",
-    "date": "2026-08-17T17:41:06+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-    "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the",
-    "article_text": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the toolkit's communication capabilities. \"The main finding is a complex C2 module that uses DNS A-record responses to choose between direct HTTPS and a Google Apps Script relay for each transaction,\" Kaspersky said in an analysis. \"The same DNS infrastructure can validate and replace the relay deployment ID, allowing the operator to rotate the Google channel.\" Cavern, first publicly documented by Check Point Research in early July 2026, consists of multiple moving parts, including an Agent and an assortment of modules, that work in tandem to enable mission-specific post-exploitation functionality, while minimizing forensic visibility and ensuring persistent access. The modules facilitate file operations, SQL database enumeration, Active Directory reconnaissance, LDAP brute-force attacks, network reconnaissance, and SOCKS5 proxy and WebSocket tunneling. The use of Cavern C2 has been linked to Cavern Manticore, a hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) that shares overlaps with MuddyWater and an OilRig sub-group known as Lyceum. Two back-to-back follow-up reports from Group-IB and Kaspersky detailed another module dubbed HOLLOWGRAPH that turns Microsoft 365 calendars into covert C2 channels. The malware, in particular, abuses the Microsoft Graph API to exfiltrate files and receive commands from the attacker using Microsoft 365 calendar events, and DNS tunneling to refresh credentials used in C2 communication. \"Using the Microsoft Graph API, it treats the compromised mailbox's calendar as a two-way dead-drop: operators plant tasking as calendar events, and the implant exfiltrates stolen files by creating its own events with encrypted data attached,\" Group-IB noted. \"To avoid catching the mailbox owner's attention, every event is dated far into the future — 13 May 2050 — with payloads attached as files to the event.\" In tandem, the malware employs DNS tunneling as a way to refresh the Microsoft Entra ID (Azure AD) credentials used to authenticate to the Graph API and write the updated values to a text file on disk. A .NET NativeAOT-compiled DLL, HOLLOWGRAPH, was first detected in the wild on June 7, 2026. Cavern's shift to a modular, extensible architecture using a plugin-based system is assessed to have taken place in late April 2026, per Kaspersky, which has since linked it to OilRig (aka APT34) with low confidence, citing the following indicators despite no direct code reuse or infrastructure overlap - The latest findings from Kaspersky are a new communication module, GoogleService.dll, which reads a configuration file from disk (\"conf.json\") and performs a DNS A-record query to opt for either a direct HTTPS or a Google Apps Script relay for each transaction. When the Google mode is selected, the module sends requests to the Apps Script deployment, which then forwards them to the threat actor-controlled backend. If Direct HTTPS is chosen by DNS, it contacts the configured address without using the relay. The cybersecurity vendor said it also discovered an inter-component broker (\"rnp.dll\") that functions as the framework's local bridge, which discovers and loads DLL components, routes messages between them, and supports runtime upgrades. Although the primary domain linked to the activity (\"studiotikva[.]com\") was first registered in February 2024, the domain is said to have expired in February 2026, only for it to be re-registered three months later. The development is a sign of ongoing evolution of the Cavern framework, while relying on legitimate services to evade conventional perimeter defenses. \"By abusing legitimate services — previously Outlook calendar events and now Google Apps Script — the framework blends its C2 traffic with normal network activity, complicating network-based detection,\" Kaspersky said. \"Given its development pace, modular design, and operational tempo, we assess that CAV3RN will likely continue to expand.\" The disclosure comes as DarkAtlas detailed APT42's use of TAMECAT in spear-phishing attacks targeting individuals associated with the nuclear energy sector as",
-    "quick_summary": [
-      "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-    "target": "Cavern Uses DNS Google",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html"
-      }
-    ]
-  },
-  {
-    "id": "33a4ee7ae0f11598",
-    "date": "2026-08-17T17:00:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
-    "summary": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.",
-    "article_text": "",
-    "quick_summary": [
-      "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/safepal-crypto-hardware-breach",
-    "target": "SafePal",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/safepal-crypto-hardware-breach"
-      }
-    ]
-  },
-  {
-    "id": "9b7e2649e6d71761",
-    "date": "2026-08-17T16:48:56+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "OpenMatter Network to Take Verification Message to Belgrade Blockchain Week 2026",
-    "summary": "Melbourne, Florida, August 17th, 2026, CyberNewswire Head of Operations and Partnerships Chris Biele to lead sessions on secure scientific collaboration, agentic AI and the need to move from trust to cryptographic proof Continuing its effort to build global awareness of the need to move computing from assumption-based trust to cryptographic proof, OpenMatter Network today announced […] The post OpenMatter Network to Take Verification Message to Belgrade Blockchain Week 2026 appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Melbourne, Florida, August 17th, 2026, CyberNewswire Head of Operations and Partnerships Chris Biele to lead sessions on secure scientific collaboration, agentic AI and the need to move from trust to cryptographic proof ",
-      "Risk: credentials/infostealer risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/openmatter-network-belgrade-blockchain-week-2026/",
-    "target": "OpenMatter Network Take Verification",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/openmatter-network-belgrade-blockchain-week-2026/"
-      }
-    ]
-  },
-  {
-    "id": "fe0205f24101361c",
-    "date": "2026-08-17T16:45:00.792282+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE-2026-62911: Exchange Authentication Bypass Enables Full Mailbox Takeover CYBERSEC CVE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-62911-exchange-authentication-bypass-enables-full-mailbox-takeover",
-    "target": "CVE-2026-62911",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-62911-exchange-authentication-bypass-enables-full-mailbox-takeover"
-      }
-    ]
-  },
-  {
-    "id": "d94ca4d9e0bfe8a4",
-    "date": "2026-08-17T16:15:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
-    "summary": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves key questions unanswered.",
-    "article_text": "",
-    "quick_summary": [
-      "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/irregular-ai-hacking-model-blog",
-    "target": "Irregular",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/irregular-ai-hacking-model-blog"
-      },
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/irregular-ai-security-company-incidents"
-      }
-    ]
-  },
-  {
-    "id": "f5c0508c1805ade7",
-    "date": "2026-08-17T16:01:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
-    "summary": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional security measures.",
-    "article_text": "",
-    "quick_summary": [
-      "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional secu",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
-    "target": "Poland MyDr",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/poland-probes-mydr-healthcare-software-breach"
-      }
-    ]
-  },
-  {
-    "id": "a27792d5559b3bb0",
-    "date": "2026-08-17T15:44:34+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
-    "summary": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
-    "article_text": "",
-    "quick_summary": [
-      "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
-    "target": "Linux Botnet Evooo1Bot Expands",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos"
-      }
-    ]
-  },
-  {
-    "id": "f6833bca26dd1018",
-    "date": "2026-08-17T15:40:08.226409+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "SafePal Breach Exposes 39,798 Customers: Wallet Secure, Supply Chain Not news",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/news/safepal-breach-exposes-39798-customers-wallet-secure-supply-chain-not",
-    "target": "SafePal Breach Exposes 39798",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/safepal-breach-exposes-39798-customers-wallet-secure-supply-chain-not"
-      }
-    ]
-  },
-  {
-    "id": "44cc2bfa01ea3e6d",
-    "date": "2026-08-17T15:40:06.560292+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "AMA with Black Hat Speakers Lidor B. & Elad Meged (Pre-Auth RCE in Enterprise Java, Hijacking AI Coding Agents)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "AMA with Black Hat Speakers Lidor B. & Elad Meged (Pre-Auth RCE in Enterprise Java, Hijacking AI Coding Agents)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vq6fef/ama_with_black_hat_speakers_lidor_b_elad_meged/",
-    "target": "AMA Black Hat Speakers",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vq6fef/ama_with_black_hat_speakers_lidor_b_elad_meged/"
-      }
-    ]
-  },
-  {
-    "id": "43956de045ff2def",
-    "date": "2026-08-17T15:30:32+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "GitHub Outage Disrupts Developers Worldwide Amid Ongoing Investigation",
-    "summary": "GitHub, the world’s largest code-hosting platform, is grappling with a significant service disruption that began around 13:40 UTC on August 17, 2026, leaving developers, enterprises, and DevOps teams scrambling as core services including Pull Requests, Issues, Actions, Webhooks, and Copilot continue to experience degraded performance more than two hours into the incident. According to GitHub’s […] The post GitHub Outage Disrupts Developers Worldwide Amid Ongoing Investigation appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "GitHub, the world’s largest code-hosting platform, is grappling with a significant service disruption that began around 13:40 UTC on August 17, 2026, leaving developers, enterprises, and DevOps teams scrambling as core s",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/github-outage-worldwide/",
-    "target": "GitHub Outage Disrupts Developers",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/github-outage-worldwide/"
-      }
-    ]
-  },
-  {
-    "id": "1f45935a984a90c4",
-    "date": "2026-08-17T14:47:08+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft confirms GitHub is down worldwide",
-    "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
-    "article_text": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. GitHub confirmed the outage at 9:40 AM EDT on August 17, 2026, when it said it was investigating reports of performance problems affecting some of its services. The problems quickly spread across several parts of GitHub that developers rely on, including API Requests, Actions, Webhooks, Issues, and Pull Requests. According to GitHub's status page , the company is seeing error rates of around 20% across its web experience and API traffic. GitHub says archive downloads and raw repository content downloads are experiencing error rates of approximately 50%. Likewise, authentication-related services are also having problems, with SAML and OIDC authentication, SCIM, and Team Sync affected by the incident. Some users are running into server errors when trying to access GitHub, while others are reporting problems loading commits, repositories, and Pull Request pages. GitHub Actions is also experiencing degraded performance, which means the outage can affect automated builds, tests, deployments, and other workflows that depend on GitHub's CI/CD platform. At 10:31 AM EDT, GitHub confirmed that Copilot was also experiencing degraded availability, expanding the outage to its AI coding services. Git Operations, Packages, Pages, and Codespaces are currently listed as operational, but several important parts of GitHub remain degraded. GitHub has not disclosed what caused the outage and says its investigation is ongoing. Update 1 : At 11:42 AM EDT, GitHub said it is now performing mitigations. However, error rates remain around 20% for web experiences and API traffic, while archive and raw repository content downloads continue to see approximately 50% error rates. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft confirms outage affecting search in Microsoft 365 apps Microsoft blames massive Microsoft 365 outage on maintenance bug Microsoft 365 outage affects Teams, SharePoint and other services AsyncAPI npm packages infected with credential-stealing malware Microsoft doesn't seem to be investing as much in GitHub anymore. While many people think GitLab is the obvious alternative, that's no longer the case - GitLab isn't truly open source anymore. We recently switched to Forgejo, which is fully open source and compatible with GitHub Actions. So far, it’s been working great Anthropic confirms Claude is down in major outage affecting multiple services New Evooo1Bot Linux botnet turns routers into traffic relay nodes Hacker claims 3.6 million Azure account records stolen from major companies Certighost CVE is new. The privilege behind it isn't. Discover where yours is hiding. Signature-based prevention fell to 50%. See what your controls still stop. Stop AI slopsquatting attacks. Secure open source package ingestion before it hits your build. 91% of AI Apps Appeared in 16 Months. Get Material's OAuth Risk Report Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-    "target": "Microsoft GitHub",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/"
-      }
-    ]
-  },
-  {
-    "id": "cb9697efacd7a3d1",
-    "date": "2026-08-17T14:33:58+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
-    "summary": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900. Historically, the protocol used a simple global password for authentication. Apple adapted the protocol for its own use, but overall, left the VNC protocol itself alone.",
-    "article_text": "",
-    "quick_summary": [
-      "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33252",
-    "target": "Apple Screen Sharing Mon",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33252"
-      }
-    ]
-  },
-  {
-    "id": "a81efe6fd7fdc44b",
-    "date": "2026-08-17T14:00:10+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-    "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]",
-    "article_text": "Every mature Active Directory environment has a component that quietly holds more power than the people running it usually admit: the Certification Authority (CA). The thing your entire estate has agreed to believe. When it signs a certificate, every machine, service, and authentication flow downstream treats that signature as truth. That is an enormous amount of trust concentrated in one system, and most organizations manage it like a utility installed once and never thought about again. Certighost , tracked as CVE-2026-54121 , is a reminder of what happens when that trust is misplaced. Researchers published a working proof-of-concept on July 24, 2026, demonstrating that a low-privileged Active Directory user (holding nothing more than a standard domain account) can coerce an Enterprise CA into issuing a valid authentication certificate for a Domain Controller, then use that certificate to become the Domain Controller. Microsoft shipped the fix on July 14, 2026, and rated it 8.8 on the CVSS scale. Active Directory Certificate Services is Microsoft's public key infrastructure, issuing and managing the certificates that underpin smart card logon, device and user authentication, and VPN access. A standard domain user has no business obtaining a certificate that represents a Domain Controller, yet Certighost breaks that boundary without touching a single access control list. The flaw lives in an AD CS enrollment behavior known as \"chase\" functionality. When an Enterprise CA cannot immediately resolve the target object locally, it can follow requester-supplied routing information (a parameter called cdc) to look the object up elsewhere. The defect is that the CA never verifies that the endpoint named in cdc is a legitimate Domain Controller before it reaches out to it. An attacker points cdc at a machine they control and the CA dutifully makes an outbound connection to that rogue endpoint, which answers with forged identity data, including the target Domain Controller’s object security identifier and DNS host name. The CA trusts what it is told, binds that identity to a signed X.509 certificate, and hands the attacker a certificate that says they are a Domain Controller. From there, the attack follows a well-understood path. The attacker uses the certificate with PKINIT, the public key extension to Kerberos, to obtain a Ticket Granting Ticket as the Domain Controller's machine account. Domain Controller accounts inherently hold directory replication rights, enough to run a DCSync operation against a real DC and pull credential material, up to and including the krbtgt account hash. Once you have krbtgt, you can forge Kerberos tickets at will, and the domain is functionally yours. A standard Domain User account was sufficient in testing because default Active Directory settings, including the default MachineAccountQuota that lets ordinary users create machine accounts, provided everything the chain needed. As of public disclosure, there was no confirmed exploitation in the wild. That is not a reason to relax. A functional, public proof-of-concept collapses the effort required to reproduce this, and the gap between \"PoC exists\" and \"commodity tooling includes it\" is measured in weeks, not years. Certighost exposed how privilege buried in trusted relationships and overlooked defaults can become a path to domain compromise. BeyondTrust’s complimentary Identity Security Risk Assessment helps you uncover those hidden identity and privilege exposures across your own environment before they become the next path attackers exploit. It is tempting to file Certighost under PKI arcana, assign it to whoever owns the CA, and move on once the patch lands. Strip away the certificate machinery and look at the shape of the attack: an unprivileged identity manipulated a trusted system into vouching for a privileged identity, and the environment had no mechanism to question the result. That is a trust-validation problem that sits at the core of identity security. The Certification Authority is not a passive appliance. It is a privileged identity in its own right, one that manufactures trust on behalf of the entire domain. The patch Microsoft shipped is, at its heart, a verification step enforcing that the target of a chase lookup is genuinely a Domain Controller. That is the recurring signature of identity-driven compromise: the attacker rarely breaks cryptography or authentication. They find the place where the system decided to trust withou",
-    "quick_summary": [
-      "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-    "target": "Certighost Privilege Hiding Your",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/"
-      }
-    ]
-  },
-  {
-    "id": "f74420078b998fc7",
-    "date": "2026-08-17T13:53:55+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "680,000 Impacted by French Tax Authority Data Breach",
-    "summary": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Hackers used compromised credentials to access enterprise and personal tax-related data.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
-    "target": "680000 Impacted French Tax",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/"
-      }
-    ]
-  },
-  {
-    "id": "8ff2221a322024a3",
-    "date": "2026-08-17T13:52:32.659961+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Cisco ISE: Authenticated RCE in invokeScript With Root Escalation Path",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cisco-ise-authenticated-rce-in-invokescript-with-root-escalation-path",
-    "target": "CRITICAL Cisco ISE",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cisco-ise-authenticated-rce-in-invokescript-with-root-escalation-path"
-      }
-    ]
-  },
-  {
-    "id": "f4773c113e806841",
-    "date": "2026-08-17T13:52:30.274964+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "How to Safely Deploy Agents From Open-Source Cybersecurity Communities",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.technadu.com/how-to-safely-deploy-agents-from-open-source-cybersecurity-communities/633208/",
-    "target": "Safely Deploy Agents Open-Source",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/how-to-safely-deploy-agents-from-open-source-cybersecurity-communities/633208/"
-      }
-    ]
-  },
-  {
-    "id": "b8eef10edb79d089",
-    "date": "2026-08-17T13:27:28+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Top 10 Best Software-Defined Perimeter (SDP) Solutions in 2026",
-    "summary": "A software-defined perimeter makes your infrastructure invisible: resources accept no unauthenticated connections, so attackers cannot scan, probe, or exploit what they cannot see. Zscaler leads at enterprise scale, Appgate remains the purest SDP implementation of the original architecture, and Twingate is the fastest path for teams replacing a VPN this quarter. Here are the ten […] The post Top 10 Best Software-Defined Perimeter (SDP) Solutions in 2026 appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A software-defined perimeter makes your infrastructure invisible: resources accept no unauthenticated connections, so attackers cannot scan, probe, or exploit what they cannot see.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/best-software-defined-perimeter-solutions/",
-    "target": "Top Best Software-Defined Perimeter",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/best-software-defined-perimeter-solutions/"
-      }
-    ]
-  },
-  {
-    "id": "25fedcc9f9e46e24",
-    "date": "2026-08-17T13:05:21.206158+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "NGINX WebDAV: Pre-Auth RCE Disclosed in ZDI-26-578 VULN CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/nginx-webdav-pre-auth-rce-disclosed-in-zdi-26-578",
-    "target": "NGINX WebDAV",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/nginx-webdav-pre-auth-rce-disclosed-in-zdi-26-578"
       }
     ]
   }
