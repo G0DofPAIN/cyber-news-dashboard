@@ -1,123 +1,7 @@
 [
   {
-    "id": "f3c03a38b7f523a8",
-    "date": "2026-09-10T00:14:37.844041+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL LiteLLM: 9.6% of Exposed Instances Vulnerable to Auth Bypass and RCE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/litellm-96-of-exposed-instances-vulnerable-to-auth-bypass-and-rce",
-    "target": "CRITICAL LiteLLM",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/litellm-96-of-exposed-instances-vulnerable-to-auth-bypass-and-rce"
-      }
-    ]
-  },
-  {
-    "id": "d40f493355633f43",
-    "date": "2026-09-10T00:14:37.843945+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY ShieldCrash: The Eleventh Microsoft Zero-Day That Renders the ShieldBreak Patch Useless",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/zero/shieldcrash-the-eleventh-microsoft-zero-day-that-renders-the-shieldbreak-patch-useless",
-    "target": "ZERO-DAY ShieldCrash",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/zero/shieldcrash-the-eleventh-microsoft-zero-day-that-renders-the-shieldbreak-patch-useless"
-      }
-    ]
-  },
-  {
-    "id": "88a3b8990207e49f",
-    "date": "2026-09-10T00:14:37.843844+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT BlueMoon: The Shared Exploit Kit Accelerating the Race for Chrome Vulnerabilities",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/bluemoon-the-shared-exploit-kit-accelerating-the-race-for-chrome-vulnerabilities",
-    "target": "EXPLOIT BlueMoon",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/bluemoon-the-shared-exploit-kit-accelerating-the-race-for-chrome-vulnerabilities"
-      }
-    ]
-  },
-  {
-    "id": "cbee20c11bee15c6",
-    "date": "2026-09-10T00:14:37.843736+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE Cisco Confirms CVE-2026-20079 in FMC Actively Exploited by Sandworm and Qilin",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cisco-confirms-cve-2026-20079-in-fmc-actively-exploited-by-sandworm-and-qilin",
-    "target": "CVE Cisco Confirms CVE-2026-20079",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cisco-confirms-cve-2026-20079-in-fmc-actively-exploited-by-sandworm-and-qilin"
-      }
-    ]
-  },
-  {
     "id": "e394ae00d11d2724",
-    "date": "2026-09-10T00:14:37.843635+00:00",
+    "date": "2026-09-10T04:45:37.045167+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +30,7 @@
   },
   {
     "id": "9589cb02149436ec",
-    "date": "2026-09-10T00:14:37.843532+00:00",
+    "date": "2026-09-10T04:45:37.045063+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,13 +58,13 @@
     ]
   },
   {
-    "id": "1893681dacef2337",
-    "date": "2026-09-10T00:14:37.843418+00:00",
+    "id": "fcc1098dc67ee33e",
+    "date": "2026-09-10T04:45:37.044942+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Adobe Patches StyleSmuggler: Actively Exploited Magento Zero-Day with CVSS 10.0 news EXPLOIT",
+    "title": "CRITICAL Oracle Outside In: RCE via WPS File, Patch Released September 9, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -188,8 +72,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/news/adobe-patches-stylesmuggler-actively-exploited-magento-zero-day-with-cvss-100",
-    "target": "Adobe Patches StyleSmuggler",
+    "link": "https://deafnews.it/en/news/cybersecurity/oracle-outside-in-rce-via-wps-file-patch-released-september-9-2026",
+    "target": "CRITICAL Oracle Outside",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -198,78 +82,107 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/adobe-patches-stylesmuggler-actively-exploited-magento-zero-day-with-cvss-100"
+        "url": "https://deafnews.it/en/news/cybersecurity/oracle-outside-in-rce-via-wps-file-patch-released-september-9-2026"
       }
     ]
   },
   {
-    "id": "28ce1e60ca8cb2e6",
-    "date": "2026-09-10T00:14:37.843277+00:00",
+    "id": "239e521079f6f217",
+    "date": "2026-09-10T04:45:37.044839+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "The Malware Marketplace That Weaponizes Banality to Evade SOCs malware",
+    "title": "CRITICAL WatchGuard FireWare OS: Pre-Auth RCE in Endpoint Service",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/malware/the-malware-marketplace-that-weaponizes-banality-to-evade-socs",
-    "target": "Malware Marketplace That Weaponizes",
-    "type": "Malware",
-    "severity": "High",
+    "link": "https://deafnews.it/en/news/cybersecurity/watchguard-fireware-os-pre-auth-rce-in-endpoint-service",
+    "target": "CRITICAL WatchGuard FireWare",
+    "type": "Vulnerability",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/the-malware-marketplace-that-weaponizes-banality-to-evade-socs"
+        "url": "https://deafnews.it/en/news/cybersecurity/watchguard-fireware-os-pre-auth-rce-in-endpoint-service"
       }
     ]
   },
   {
-    "id": "c285eef09ac0ce32",
-    "date": "2026-09-10T00:14:37.843165+00:00",
+    "id": "e83803864ce9e676",
+    "date": "2026-09-10T04:45:37.044746+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Gigabud Moves Banking Theft Into Work Profile: The Malware That Fools Fraud Detection malware",
+    "title": "CRITICAL GIMP: RCE Flaw in PSP Files Discovered, Update Available",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/malware/gigabud-moves-banking-theft-into-work-profile-the-malware-that-fools-fraud-detection",
-    "target": "Gigabud Moves Banking Theft",
-    "type": "Malware",
-    "severity": "High",
+    "link": "https://deafnews.it/en/news/vulnerabilities/gimp-rce-flaw-in-psp-files-discovered-update-available",
+    "target": "CRITICAL GIMP",
+    "type": "Vulnerability",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/gigabud-moves-banking-theft-into-work-profile-the-malware-that-fools-fraud-detection"
+        "url": "https://deafnews.it/en/news/vulnerabilities/gimp-rce-flaw-in-psp-files-discovered-update-available"
+      }
+    ]
+  },
+  {
+    "id": "4ddb7a906a34c2f5",
+    "date": "2026-09-10T04:45:37.044646+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT Proxmox VE 7: Scans and Brute Force Exploit a Logging Blind Spot",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/proxmox-ve-7-scans-and-brute-force-exploit-a-logging-blind-spot",
+    "target": "EXPLOIT Proxmox",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/proxmox-ve-7-scans-and-brute-force-exploit-a-logging-blind-spot"
       }
     ]
   },
   {
     "id": "b7f01271ae91dcdd",
-    "date": "2026-09-10T00:14:37.843065+00:00",
+    "date": "2026-09-10T04:45:37.044553+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
     "title": "Veradigm: Vendor API Breach Exposes Millions of Patient Records ransomware",
     "summary": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
-    "article_text": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. The company says the incident did not cause operational disruptions but affected a small number of customers. Formerly known as Allscripts Healthcare Solutions, Veradigm is a Chicago-based healthcare technology company that supplies medical practices with electronic health records, e-prescribing, patient-engagement, practice-management, and revenue-cycle software. Thousands of hospitals, clinics, and biopharmaceutical firms across the United States use its solutions. The company says in a filing with the U.S. Securities and Exchange Commission (SEC) that an attacker obtained credentials from a vendor’s environment for a Veradigm API reserved for customer services. The threat actor then used their access to copy patient data. Veradigm's disclosure notes that the stolen data includes personal details and Social Security numbers (SSNs) for some of the patients. Clinical or medical information remained safe. “The vendor’s compromised credentials provided access only through that limited interface and did not provide access to any other part of the Company’s environment, including the Company’s broader network, servers, databases, or other systems,” the company says in the SEC filing . After discovering the breach, Veradigm initiated its incident-response procedures, notified law enforcement, and is currently investigating to determine the scope. Affected customers and individuals are being notified, with credit-monitoring services offered where applicable. The investigation is ongoing, but based on current information, Veradigm does not believe the incident is reasonably likely to materially affect its business, operations, financial condition, or results. Although Veradigm's disclosure did not identify the attacker, The Gentlemen ransomware group has claimed the intrusion on September 5 and listed the company on its data leak site. The threat actor alleges to be holding 3.5 million patient records that include full names, home addresses, SSNs, email addresses, phone numbers, and personally identifiable information or guarantors. The ransomware actor threatens to leak the stolen data by Friday, September 11, if the company doesn't engage in a ransom payment negotiation. The Gentlemen threat actor emerged around mid-2025 and operates as a double-extortion group, combining data theft with data encryption on Windows, Linux, NAS, BSD, and ESXi systems. On its data leak site, the gang listed more than 800 victims from 86 countries and various sectors, including manufacturing, technology, healthcare, transportation, and financial services, indicating opportunistic attacks that rely only on access availability. In April 2026, Check Point reported that it discovered a SystemBC proxy malware botnet with more than 1,500 hosts and linked it to an affiliate of The Gentlemen ransomware gang. In June 2026, ESET said that The Gentlemen was employing a new endpoint detection and response (EDR) killer called GentleKiller. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Data breach at medical billing firm MCBS affects 1.26 million people AdaptHealth confirms 4.1 million people exposed in July cyberattack French hospital fined €500,000 after breach exposes data of 727,000 Novocure data breach affects more than 1,400 cancer patients Aesto Health says data breach affects over 9.5 million patients BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Overdue a password health-check? Audit your Active Directory for free Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. The company says the incident did not cause operational disruptions but affected a small number of customers. Formerly known as Allscripts Healthcare Solutions, Veradigm is a Chicago-based healthcare technology company that supplies medical practices with electronic health records, e-prescribing, patient-engagement, practice-management, and revenue-cycle software. Thousands of hospitals, clinics, and biopharmaceutical firms across the United States use its solutions. The company says in a filing with the U.S. Securities and Exchange Commission (SEC) that an attacker obtained credentials from a vendor’s environment for a Veradigm API reserved for customer services. The threat actor then used their access to copy patient data. Veradigm's disclosure notes that the stolen data includes personal details and Social Security numbers (SSNs) for some of the patients. Clinical or medical information remained safe. “The vendor’s compromised credentials provided access only through that limited interface and did not provide access to any other part of the Company’s environment, including the Company’s broader network, servers, databases, or other systems,” the company says in the SEC filing . After discovering the breach, Veradigm initiated its incident-response procedures, notified law enforcement, and is currently investigating to determine the scope. Affected customers and individuals are being notified, with credit-monitoring services offered where applicable. The investigation is ongoing, but based on current information, Veradigm does not believe the incident is reasonably likely to materially affect its business, operations, financial condition, or results. Although Veradigm's disclosure did not identify the attacker, The Gentlemen ransomware group has claimed the intrusion on September 5 and listed the company on its data leak site. The threat actor alleges to be holding 3.5 million patient records that include full names, home addresses, SSNs, email addresses, phone numbers, and personally identifiable information or guarantors. The ransomware actor threatens to leak the stolen data by Friday, September 11, if the company doesn't engage in a ransom payment negotiation. The Gentlemen threat actor emerged around mid-2025 and operates as a double-extortion group, combining data theft with data encryption on Windows, Linux, NAS, BSD, and ESXi systems. On its data leak site, the gang listed more than 800 victims from 86 countries and various sectors, including manufacturing, technology, healthcare, transportation, and financial services, indicating opportunistic attacks that rely only on access availability. In April 2026, Check Point reported that it discovered a SystemBC proxy malware botnet with more than 1,500 hosts and linked it to an affiliate of The Gentlemen ransomware gang. In June 2026, ESET said that The Gentlemen was employing a new endpoint detection and response (EDR) killer called GentleKiller. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Data breach at medical billing firm MCBS affects 1.26 million people AdaptHealth confirms 4.1 million people exposed in July cyberattack French hospital fined €500,000 after breach exposes data of 727,000 Novocure data breach affects more than 1,400 cancer patients Aesto Health says data breach affects over 9.5 million patients Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations N-able patches max severity N-central flaw amid ongoing attacks Overdue a password health-check? Audit your Active Directory for free See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: ransomware/extortion",
@@ -296,7 +209,7 @@
   },
   {
     "id": "e69c2fdc55b189b3",
-    "date": "2026-09-10T00:14:37.842967+00:00",
+    "date": "2026-09-10T04:45:37.044461+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -324,8 +237,37 @@
     ]
   },
   {
+    "id": "01df3d08c77c2e97",
+    "date": "2026-09-10T04:45:37.044361+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ShieldCrash: The Eleventh Microsoft Zero-Day That Renders the ShieldBreak Patch Useless zero ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/zero/shieldcrash-the-eleventh-microsoft-zero-day-that-renders-the-shieldbreak-patch-useless",
+    "target": "ShieldCrash",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/zero/shieldcrash-the-eleventh-microsoft-zero-day-that-renders-the-shieldbreak-patch-useless"
+      }
+    ]
+  },
+  {
     "id": "0fd07699b574242e",
-    "date": "2026-09-10T00:14:37.842742+00:00",
+    "date": "2026-09-10T04:45:37.044248+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -353,13 +295,13 @@
     ]
   },
   {
-    "id": "9cffa95c03fd4d3a",
-    "date": "2026-09-10T00:14:37.842089+00:00",
+    "id": "b97b1882c6c7a3f8",
+    "date": "2026-09-10T04:45:37.044138+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "news FTC Rescinds Health App Breach Policy: The Signal Is Political Sep 09, 2026",
+    "title": "FTC Rescinds Health App Breach Policy: The Signal Is Political news",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -382,13 +324,100 @@
     ]
   },
   {
-    "id": "db5ae4d0a95a1fa3",
-    "date": "2026-09-10T00:14:37.841401+00:00",
+    "id": "a4d1d20094b1f0b3",
+    "date": "2026-09-10T04:45:37.044032+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 4 ZERO-DAY · 7 CVE · 8 EXPLOIT IN THE LAST 24H →",
+    "title": "BlueMoon: The Shared Exploit Kit Accelerating the Race for Chrome Vulnerabilities CYBERSEC EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/bluemoon-the-shared-exploit-kit-accelerating-the-race-for-chrome-vulnerabilities",
+    "target": "BlueMoon",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/bluemoon-the-shared-exploit-kit-accelerating-the-race-for-chrome-vulnerabilities"
+      }
+    ]
+  },
+  {
+    "id": "d7c1855fb2e312ba",
+    "date": "2026-09-10T04:45:37.043901+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Cisco Confirms CVE-2026-20079 in FMC Actively Exploited by Sandworm and Qilin CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cisco-confirms-cve-2026-20079-in-fmc-actively-exploited-by-sandworm-and-qilin",
+    "target": "Cisco Confirms CVE-2026-20079 FMC",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cisco-confirms-cve-2026-20079-in-fmc-actively-exploited-by-sandworm-and-qilin"
+      }
+    ]
+  },
+  {
+    "id": "80d1a6c110479586",
+    "date": "2026-09-10T04:45:37.043789+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "FortiSandbox Command Injection Grants Root RCE: Why the CVSS 6.7 Underrates the Risk CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/fortisandbox-command-injection-grants-root-rce-why-the-cvss-67-underrates-the-risk",
+    "target": "FortiSandbox Command Injection Grants",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/fortisandbox-command-injection-grants-root-rce-why-the-cvss-67-underrates-the-risk"
+      }
+    ]
+  },
+  {
+    "id": "db5ae4d0a95a1fa3",
+    "date": "2026-09-10T04:45:37.042507+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CRITICAL · 4 ZERO-DAY · 10 CVE · 12 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -412,7 +441,7 @@
   },
   {
     "id": "e0d8432f646c7278",
-    "date": "2026-09-10T00:14:36.933577+00:00",
+    "date": "2026-09-10T04:45:36.060666+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -505,7 +534,7 @@
   },
   {
     "id": "f5f187138bfad813",
-    "date": "2026-09-10T00:14:35.948039+00:00",
+    "date": "2026-09-10T04:45:34.993179+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -534,7 +563,7 @@
   },
   {
     "id": "1e5e99fd7c3d3a5c",
-    "date": "2026-09-10T00:14:35.947864+00:00",
+    "date": "2026-09-10T04:45:34.992999+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -563,7 +592,7 @@
   },
   {
     "id": "738b36383127f224",
-    "date": "2026-09-10T00:14:35.947714+00:00",
+    "date": "2026-09-10T04:45:34.992841+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -592,7 +621,7 @@
   },
   {
     "id": "407d40db036bb3a8",
-    "date": "2026-09-10T00:14:35.947588+00:00",
+    "date": "2026-09-10T04:45:34.992718+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -621,7 +650,7 @@
   },
   {
     "id": "529d0acdd2d4a71f",
-    "date": "2026-09-10T00:14:35.947450+00:00",
+    "date": "2026-09-10T04:45:34.992592+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -650,7 +679,7 @@
   },
   {
     "id": "6871c80b023c5e62",
-    "date": "2026-09-10T00:14:35.947262+00:00",
+    "date": "2026-09-10T04:45:34.992410+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -679,7 +708,7 @@
   },
   {
     "id": "35be8652aefbe26e",
-    "date": "2026-09-10T00:14:35.947149+00:00",
+    "date": "2026-09-10T04:45:34.992297+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -708,7 +737,7 @@
   },
   {
     "id": "ee429e2fce62a636",
-    "date": "2026-09-10T00:14:35.946993+00:00",
+    "date": "2026-09-10T04:45:34.992141+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -737,7 +766,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-09-10T00:14:35.946870+00:00",
+    "date": "2026-09-10T04:45:34.992017+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -766,7 +795,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-09-10T00:14:35.946658+00:00",
+    "date": "2026-09-10T04:45:34.991797+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -795,7 +824,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-09-10T00:14:35.946530+00:00",
+    "date": "2026-09-10T04:45:34.991668+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -824,7 +853,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-09-10T00:14:35.946387+00:00",
+    "date": "2026-09-10T04:45:34.991537+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -853,7 +882,7 @@
   },
   {
     "id": "fd4eea07fb33f3b2",
-    "date": "2026-09-10T00:14:35.946244+00:00",
+    "date": "2026-09-10T04:45:34.991391+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -882,7 +911,7 @@
   },
   {
     "id": "3f2e3c41f8150ce5",
-    "date": "2026-09-10T00:14:35.946112+00:00",
+    "date": "2026-09-10T04:45:34.991256+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -911,7 +940,7 @@
   },
   {
     "id": "6b0bbec6f46de8eb",
-    "date": "2026-09-10T00:14:35.945971+00:00",
+    "date": "2026-09-10T04:45:34.991112+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -940,7 +969,7 @@
   },
   {
     "id": "824b78ae23ccefa5",
-    "date": "2026-09-10T00:14:35.945625+00:00",
+    "date": "2026-09-10T04:45:34.990751+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -969,7 +998,7 @@
   },
   {
     "id": "948ec72c6df6739b",
-    "date": "2026-09-10T00:14:35.945498+00:00",
+    "date": "2026-09-10T04:45:34.990623+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -998,7 +1027,7 @@
   },
   {
     "id": "b8c744c15fe3cec1",
-    "date": "2026-09-10T00:14:35.945363+00:00",
+    "date": "2026-09-10T04:45:34.990506+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1027,7 +1056,7 @@
   },
   {
     "id": "ffed0c88cc3288da",
-    "date": "2026-09-10T00:14:35.945226+00:00",
+    "date": "2026-09-10T04:45:34.990372+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1056,7 +1085,7 @@
   },
   {
     "id": "ee96731ea43f4810",
-    "date": "2026-09-10T00:14:35.945085+00:00",
+    "date": "2026-09-10T04:45:34.990233+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1085,7 +1114,7 @@
   },
   {
     "id": "6d3047374fd1bdcf",
-    "date": "2026-09-10T00:14:35.944831+00:00",
+    "date": "2026-09-10T04:45:34.989962+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1114,7 +1143,7 @@
   },
   {
     "id": "d66e9684e5d29618",
-    "date": "2026-09-10T00:14:35.944632+00:00",
+    "date": "2026-09-10T04:45:34.989761+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1143,7 +1172,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-09-10T00:14:35.940730+00:00",
+    "date": "2026-09-10T04:45:34.985929+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1172,7 +1201,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-09-10T00:14:35.939768+00:00",
+    "date": "2026-09-10T04:45:34.985039+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1201,7 +1230,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-09-10T00:14:35.939506+00:00",
+    "date": "2026-09-10T04:45:34.984779+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1229,37 +1258,8 @@
     ]
   },
   {
-    "id": "2c62bcab3582bc27",
-    "date": "2026-09-10T00:14:35.605452+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "A fake resume invoked China’s defence tech elite, then installed VShell",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "A fake resume invoked China’s defence tech elite, then installed VShell",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vzxkxm/a_fake_resume_invoked_chinas_defence_tech_elite/",
-    "target": "Chinas",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vzxkxm/a_fake_resume_invoked_chinas_defence_tech_elite/"
-      }
-    ]
-  },
-  {
     "id": "f36774f4fd5f9740",
-    "date": "2026-09-10T00:14:35.605342+00:00",
+    "date": "2026-09-10T04:45:34.803397+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1288,7 +1288,7 @@
   },
   {
     "id": "9bef66656e898e59",
-    "date": "2026-09-10T00:14:35.605243+00:00",
+    "date": "2026-09-10T04:45:34.803297+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1317,7 +1317,7 @@
   },
   {
     "id": "8368a84600d0281d",
-    "date": "2026-09-10T00:14:35.605138+00:00",
+    "date": "2026-09-10T04:45:34.803192+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1346,7 +1346,7 @@
   },
   {
     "id": "702d85da1ec74ef0",
-    "date": "2026-09-10T00:14:35.605022+00:00",
+    "date": "2026-09-10T04:45:34.803069+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1375,7 +1375,7 @@
   },
   {
     "id": "46a401e5960368f1",
-    "date": "2026-09-10T00:14:35.604885+00:00",
+    "date": "2026-09-10T04:45:34.802919+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1404,7 +1404,7 @@
   },
   {
     "id": "3fb6751fc8aa5f43",
-    "date": "2026-09-10T00:14:35.604760+00:00",
+    "date": "2026-09-10T04:45:34.802796+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1433,7 +1433,7 @@
   },
   {
     "id": "e9d3d925565b4be7",
-    "date": "2026-09-10T00:14:35.604654+00:00",
+    "date": "2026-09-10T04:45:34.802689+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1462,7 +1462,7 @@
   },
   {
     "id": "34ec224afed1d185",
-    "date": "2026-09-10T00:14:35.604541+00:00",
+    "date": "2026-09-10T04:45:34.802576+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1491,7 +1491,7 @@
   },
   {
     "id": "b6f8228b6502d937",
-    "date": "2026-09-10T00:14:35.604418+00:00",
+    "date": "2026-09-10T04:45:34.802465+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1520,7 +1520,7 @@
   },
   {
     "id": "5bfb1cce9ac96a97",
-    "date": "2026-09-10T00:14:35.604307+00:00",
+    "date": "2026-09-10T04:45:34.802352+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1549,7 +1549,7 @@
   },
   {
     "id": "be919922ba10c474",
-    "date": "2026-09-10T00:14:35.604191+00:00",
+    "date": "2026-09-10T04:45:34.802238+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1578,7 +1578,7 @@
   },
   {
     "id": "5ae26246be7e2cbc",
-    "date": "2026-09-10T00:14:35.604083+00:00",
+    "date": "2026-09-10T04:45:34.802131+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1607,7 +1607,7 @@
   },
   {
     "id": "490dbcb915c4683d",
-    "date": "2026-09-10T00:14:35.603977+00:00",
+    "date": "2026-09-10T04:45:34.802022+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1636,7 +1636,7 @@
   },
   {
     "id": "699e589a4f3f8e50",
-    "date": "2026-09-10T00:14:35.603852+00:00",
+    "date": "2026-09-10T04:45:34.801887+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1665,7 +1665,7 @@
   },
   {
     "id": "91b23b975a78838a",
-    "date": "2026-09-10T00:14:35.603736+00:00",
+    "date": "2026-09-10T04:45:34.801769+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1694,7 +1694,7 @@
   },
   {
     "id": "10484c47c3d9d4ac",
-    "date": "2026-09-10T00:14:35.603625+00:00",
+    "date": "2026-09-10T04:45:34.801658+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1723,7 +1723,7 @@
   },
   {
     "id": "8590e1bce283c0fb",
-    "date": "2026-09-10T00:14:35.603480+00:00",
+    "date": "2026-09-10T04:45:34.801519+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1752,7 +1752,7 @@
   },
   {
     "id": "cca1dd87ee1efb64",
-    "date": "2026-09-10T00:14:35.603345+00:00",
+    "date": "2026-09-10T04:45:34.801396+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1781,7 +1781,7 @@
   },
   {
     "id": "80ac94197eaa1ef8",
-    "date": "2026-09-10T00:14:35.603218+00:00",
+    "date": "2026-09-10T04:45:34.801274+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1814,7 +1814,7 @@
   },
   {
     "id": "0fc3eaabc8191ecb",
-    "date": "2026-09-10T00:14:35.603106+00:00",
+    "date": "2026-09-10T04:45:34.801159+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1843,7 +1843,7 @@
   },
   {
     "id": "5138b8fcbb281cf1",
-    "date": "2026-09-10T00:14:35.602985+00:00",
+    "date": "2026-09-10T04:45:34.800985+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1871,8 +1871,37 @@
     ]
   },
   {
+    "id": "582da956d1d4dda4",
+    "date": "2026-09-10T04:45:34.800867+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Apple mach_o Archive Parser Integer Underflow Vulnerability",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Apple mach_o Archive Parser Integer Underflow Vulnerability",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wc87td/apple_mach_o_archive_parser_integer_underflow/",
+    "target": "Apple Archive Parser Integer",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wc87td/apple_mach_o_archive_parser_integer_underflow/"
+      }
+    ]
+  },
+  {
     "id": "32b7a678348a9835",
-    "date": "2026-09-10T00:14:35.602858+00:00",
+    "date": "2026-09-10T04:45:34.800740+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1901,7 +1930,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-09-10T00:14:35.602725+00:00",
+    "date": "2026-09-10T04:45:34.800608+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1942,7 +1971,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-09-10T00:14:35.602515+00:00",
+    "date": "2026-09-10T04:45:34.800405+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1970,6 +1999,209 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "887b2ce8de02293c",
+    "date": "2026-09-10T03:18:59+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Claude AI Models Gained Unauthorized Access to Real Systems During Cybersecurity Tests",
+    "summary": "Anthropic has disclosed that four separate versions of its Claude AI models breached real-world third-party systems while running what were supposed to be sandboxed cybersecurity evaluations, exposing a gap between how the models reasoned about their environment and the reality on the ground. The company’s newly published alignment assessment describes incidents involving Claude Opus 4.6, […] The post Claude AI Models Gained Unauthorized Access to Real Systems During Cybersecurity Tests appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Anthropic has disclosed that four separate versions of its Claude AI models breached real-world third-party systems while running what were supposed to be sandboxed cybersecurity evaluations, exposing a gap between how t",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/claude-ai-models-gained-unauthorized-access/",
+    "target": "Claude Models Gained Unauthorized",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/claude-ai-models-gained-unauthorized-access/"
+      }
+    ]
+  },
+  {
+    "id": "f3c03a38b7f523a8",
+    "date": "2026-09-10T00:14:37.844041+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL LiteLLM: 9.6% of Exposed Instances Vulnerable to Auth Bypass and RCE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/litellm-96-of-exposed-instances-vulnerable-to-auth-bypass-and-rce",
+    "target": "CRITICAL LiteLLM",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/litellm-96-of-exposed-instances-vulnerable-to-auth-bypass-and-rce"
+      }
+    ]
+  },
+  {
+    "id": "88a3b8990207e49f",
+    "date": "2026-09-10T00:14:37.843844+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT BlueMoon: The Shared Exploit Kit Accelerating the Race for Chrome Vulnerabilities",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/bluemoon-the-shared-exploit-kit-accelerating-the-race-for-chrome-vulnerabilities",
+    "target": "EXPLOIT BlueMoon",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/bluemoon-the-shared-exploit-kit-accelerating-the-race-for-chrome-vulnerabilities"
+      }
+    ]
+  },
+  {
+    "id": "1893681dacef2337",
+    "date": "2026-09-10T00:14:37.843418+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Adobe Patches StyleSmuggler: Actively Exploited Magento Zero-Day with CVSS 10.0 news EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/news/adobe-patches-stylesmuggler-actively-exploited-magento-zero-day-with-cvss-100",
+    "target": "Adobe Patches StyleSmuggler",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/adobe-patches-stylesmuggler-actively-exploited-magento-zero-day-with-cvss-100"
+      }
+    ]
+  },
+  {
+    "id": "28ce1e60ca8cb2e6",
+    "date": "2026-09-10T00:14:37.843277+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "The Malware Marketplace That Weaponizes Banality to Evade SOCs malware",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/malware/the-malware-marketplace-that-weaponizes-banality-to-evade-socs",
+    "target": "Malware Marketplace That Weaponizes",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/malware/the-malware-marketplace-that-weaponizes-banality-to-evade-socs"
+      }
+    ]
+  },
+  {
+    "id": "c285eef09ac0ce32",
+    "date": "2026-09-10T00:14:37.843165+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Gigabud Moves Banking Theft Into Work Profile: The Malware That Fools Fraud Detection malware",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/malware/gigabud-moves-banking-theft-into-work-profile-the-malware-that-fools-fraud-detection",
+    "target": "Gigabud Moves Banking Theft",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/malware/gigabud-moves-banking-theft-into-work-profile-the-malware-that-fools-fraud-detection"
+      }
+    ]
+  },
+  {
+    "id": "2c62bcab3582bc27",
+    "date": "2026-09-10T00:14:35.605452+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "A fake resume invoked China’s defence tech elite, then installed VShell",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "A fake resume invoked China’s defence tech elite, then installed VShell",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1vzxkxm/a_fake_resume_invoked_chinas_defence_tech_elite/",
+    "target": "Chinas",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vzxkxm/a_fake_resume_invoked_chinas_defence_tech_elite/"
       }
     ]
   },
@@ -2132,7 +2364,7 @@
     "category": "",
     "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
     "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
-    "article_text": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. The company provides home medical devices, supplies, and related services, including sleep-apnea and respiratory equipment, oxygen therapy, hospital beds, and mobility products. AdaptHealth first disclosed the incident in a filing with the U.S. Securities and Exchange Commission (SEC) on July 2, 2026, informing that attackers accessed its systems and exfiltrated private data. At the time, AdaptHealth’s investigation confirmed the intrusion occurred earlier and involved access to cloud-based business applications, including certain internal patient management systems, document storage platforms, and electronic health record system portals. On June 15, an unnamed threat actor contacted AdaptHealth to demand a ransom payment in exchange for not leaking the stolen data. AdaptHealth added that the breach occurred through a successful social engineering ploy that compromised the privileged account of a third-party contractor. In an update on August 14, AdaptHealth informed that the compromise had occurred on June 5 and may have exposed the following data: Impacted individuals should have already received a data breach notification with instructions on how to enroll in a free-of-charge 12-month credit monitoring and identity protection service. AdaptHealth stated at the time that it had found no evidence of identity theft, fraud, or other misuse of data stolen in the attack. According to information on the company’s website, AdaptHealth served about 4.1 million patients across all 50 U.S. states through a network of 680 locations as of July 2024. In a submission to the U.S. Department of Health and Human Services, the AdaptHealth data breach affects 4,115,802 individuals. The HIPAA Journal previously reported that ShinyHunters was responsible for the attack, based on the threat actor adding the company to the list of victims. However, BleepingComputer coould not find an AdaptHealth entry on ShinyHunter's extortion portal, an indication that the threat actor removed the company. AdaptHealth's confirmation of the data breach impact follows similar recent disclosures from health-tech firms Aesto Health , CareCloud , and Unlimited Technology Systems . McKesson and Nutex Health also disclosed data breach incidents late last month, but neither has determined the number of impacted individuals yet. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Aesto Health says data breach affects over 9.5 million patients McKesson discloses breach after ShinyHunters claims patient data theft Hospital operator Nutex Health says data stolen in cyberattack Healthtech firm CareCloud data breach impacts 3.7 million patients Veradigm warns of patient data breach after ransomware gang claims attack BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Overdue a password health-check? Audit your Active Directory for free Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. The company provides home medical devices, supplies, and related services, including sleep-apnea and respiratory equipment, oxygen therapy, hospital beds, and mobility products. AdaptHealth first disclosed the incident in a filing with the U.S. Securities and Exchange Commission (SEC) on July 2, 2026, informing that attackers accessed its systems and exfiltrated private data. At the time, AdaptHealth’s investigation confirmed the intrusion occurred earlier and involved access to cloud-based business applications, including certain internal patient management systems, document storage platforms, and electronic health record system portals. On June 15, an unnamed threat actor contacted AdaptHealth to demand a ransom payment in exchange for not leaking the stolen data. AdaptHealth added that the breach occurred through a successful social engineering ploy that compromised the privileged account of a third-party contractor. In an update on August 14, AdaptHealth informed that the compromise had occurred on June 5 and may have exposed the following data: Impacted individuals should have already received a data breach notification with instructions on how to enroll in a free-of-charge 12-month credit monitoring and identity protection service. AdaptHealth stated at the time that it had found no evidence of identity theft, fraud, or other misuse of data stolen in the attack. According to information on the company’s website, AdaptHealth served about 4.1 million patients across all 50 U.S. states through a network of 680 locations as of July 2024. In a submission to the U.S. Department of Health and Human Services, the AdaptHealth data breach affects 4,115,802 individuals. The HIPAA Journal previously reported that ShinyHunters was responsible for the attack, based on the threat actor adding the company to the list of victims. However, BleepingComputer coould not find an AdaptHealth entry on ShinyHunter's extortion portal, an indication that the threat actor removed the company. AdaptHealth's confirmation of the data breach impact follows similar recent disclosures from health-tech firms Aesto Health , CareCloud , and Unlimited Technology Systems . McKesson and Nutex Health also disclosed data breach incidents late last month, but neither has determined the number of impacted individuals yet. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Aesto Health says data breach affects over 9.5 million patients McKesson discloses breach after ShinyHunters claims patient data theft Hospital operator Nutex Health says data stolen in cyberattack Healthtech firm CareCloud data breach impacts 3.7 million patients Veradigm warns of patient data breach after ransomware gang claims attack Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations N-able patches max severity N-central flaw amid ongoing attacks See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -2248,7 +2480,7 @@
     "category": "",
     "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
     "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
-    "article_text": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. Devices running firmware version 1.0.0.28 are affected by a high-severity vulnerability tracked as CVE-2025-20701 in the Airoha Bluetooth Audio SDK, which the Skullcandy Dime 3 (model S2DCW) uses to handle wireless connectivity and communication between the earbuds and connected devices. Although Skullcandy says that the security issue was fixed in firmware version 1.0.0.30, regular users have no method to update devices, neither manually nor through the Skullcandy application. An attacker in close range of a vulnerable device can connect over Bluetooth without a pairing PIN, physical access to the earbuds case, or an approving pairing request. The CVE-2025-20701 vulnerability was discovered by ERNW researchers and presented at the TROOPER cybersecurity conference last year. It is a high-severity missing-authentication problem that affects a broad range of earbud and headphone products from multiple vendors. Airoha published SDK updates to address the issue on August 4, 2025, and earbud manufacturers subsequently adopted the fixes to plug the security risks. Apple addressed the flaw for its Beats Studio Buds via a firmware update released this June. The Skullcandy Dime 3 is a wireless Bluetooth earbud that is very popular with young users looking for affordable products with bass-heavy sound tuning and long-lasting battery. After receiving a tip from researcher Jacob Nowak, CERT/CC found that CVE-2025-20701 impacts the Skullcandy Dime 3 running firmware version 1.0.0.28. After pairing, the attacker’s device becomes trusted and can automatically reconnect when nearby, enabling them to interrupt the owner’s connection, hijack audio playback, access the headset profile, and capture live microphone audio. The target may hear a “new device paired” notification after the rogue pairing has taken place, but this is easy to miss or dismiss as a momentary connection loss followed by a reconnection. Skullcandy pushed an update for CVE-2025-20701 in firmware version 1.0.0.30; however, CERT/CC notes that users who bought the earbuds with an earlier firmware release have no way to upgrade to a safe version. “Existing units running the vulnerable firmware cannot currently be updated by customers through the app,” the advisory explains . “As of this writing, there are no known consumer-accessible methods to update an existing unit from the affected firmware version 1.0.0.28 to version 1.0.0.30.” BleepingComputer has been unable to contact Skullcandy about Dime 3 users’ inability to upgrade to a safe firmware version, as the company's chatbot does not handle press requests. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days Magento StyleSmuggler zero-day exploited to deploy Linux backdoor Hackers exploit new MikroTik RouterOS flaws to hijack routers Google warns of new Chrome zero-day flaw exploited in attacks BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days Overdue a password health-check? Audit your Active Directory for free Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. Devices running firmware version 1.0.0.28 are affected by a high-severity vulnerability tracked as CVE-2025-20701 in the Airoha Bluetooth Audio SDK, which the Skullcandy Dime 3 (model S2DCW) uses to handle wireless connectivity and communication between the earbuds and connected devices. Although Skullcandy says that the security issue was fixed in firmware version 1.0.0.30, regular users have no method to update devices, neither manually nor through the Skullcandy application. An attacker in close range of a vulnerable device can connect over Bluetooth without a pairing PIN, physical access to the earbuds case, or an approving pairing request. The CVE-2025-20701 vulnerability was discovered by ERNW researchers and presented at the TROOPER cybersecurity conference last year. It is a high-severity missing-authentication problem that affects a broad range of earbud and headphone products from multiple vendors. Airoha published SDK updates to address the issue on August 4, 2025, and earbud manufacturers subsequently adopted the fixes to plug the security risks. Apple addressed the flaw for its Beats Studio Buds via a firmware update released this June. The Skullcandy Dime 3 is a wireless Bluetooth earbud that is very popular with young users looking for affordable products with bass-heavy sound tuning and long-lasting battery. After receiving a tip from researcher Jacob Nowak, CERT/CC found that CVE-2025-20701 impacts the Skullcandy Dime 3 running firmware version 1.0.0.28. After pairing, the attacker’s device becomes trusted and can automatically reconnect when nearby, enabling them to interrupt the owner’s connection, hijack audio playback, access the headset profile, and capture live microphone audio. The target may hear a “new device paired” notification after the rogue pairing has taken place, but this is easy to miss or dismiss as a momentary connection loss followed by a reconnection. Skullcandy pushed an update for CVE-2025-20701 in firmware version 1.0.0.30; however, CERT/CC notes that users who bought the earbuds with an earlier firmware release have no way to upgrade to a safe version. “Existing units running the vulnerable firmware cannot currently be updated by customers through the app,” the advisory explains . “As of this writing, there are no known consumer-accessible methods to update an existing unit from the affected firmware version 1.0.0.28 to version 1.0.0.30.” BleepingComputer has been unable to contact Skullcandy about Dime 3 users’ inability to upgrade to a safe firmware version, as the company's chatbot does not handle press requests. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days Magento StyleSmuggler zero-day exploited to deploy Linux backdoor Hackers exploit new MikroTik RouterOS flaws to hijack routers Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations N-able patches max severity N-central flaw amid ongoing attacks Overdue a password health-check? Audit your Active Directory for free Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -2625,7 +2857,7 @@
     "category": "",
     "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
     "summary": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-    "article_text": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. A joint advisory from CISA, NSA, and the FBI states that DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun, and Z.AI extracted billions of tokens through millions of requests from frontier AI models from Anthropic, OpenAI, Google, and xAI. The agencies assess that the scale and sophistication of the operations indicate Chinese government awareness, mentioning that this approach is likely a core development strategy for the offending firms. AI model distillation is a legitimate technique in which a “student” model learns from the outputs of a well-trained model, helping researchers and developers reduce training costs and speed up AI deployment. However, as Google warned in February , distillation attacks can occur outside these companies’ controlled environments, abusing API access to extract the knowledge and logic of powerful models and compete with them at a fraction of the training cost. CISA’s advisory explains that Chinese firms distribute API requests across fraudulent or shared accounts, APIs, cloud services, aggregators, and “transfer station” proxies to bypass geographic restrictions, usage limits, and detection. Some of the prompts used attempted to expose restricted chain-of-thought reasoning, while automated systems switched providers and checked whether defenders had degraded the responses. “Advanced industrial-scale distillation tactics include chain-of-thought (CoT) reasoning extraction, automated failover between pathways during blocking attempts, and sophisticated quality evaluation frameworks to detect defensive countermeasures,” the advisory explains . “China-based AI companies that conduct industrial-scale distillation against U.S. AI models see significantly shorter AI development timelines and reduced financial expenditures in training a frontier model.” DeepSeek and MoonShot AI were marked as the top offenders involved in distilling multiple Claude, GPT, Gemini, and Grok models, followed by MiniMax, which targeted Claude, Gemini, and GPT models. Alibaba and StepFun are accused of targeting Claude and GPT models to improve their products, while Z.AI allegedly targeted GPT-5.5 and Claude Opus 4.8. The advisory recommends that AI companies improve behavioral and infrastructure-level detection, modify responses when distillation operations are suspected, and share intelligence about these campaigns with all stakeholders. Potential indicators include new accounts immediately reaching maximum usage, continuous activity without normal human idle periods, shared accounts accessed from numerous IP addresses or user agents, identical prompts across multiple providers, unusually high subscription-to-usage ratios, and coordinated switching between access routes. BleepingComputer has contacted all six Chinese AI firms for a statement, and we will add their statements if we get them. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. CISA warns of hackers exploiting critical MLflow vulnerability OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor ChatGPT can now connect to your personal apps to mimic writing style BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days Overdue a password health-check? Audit your Active Directory for free Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. A joint advisory from CISA, NSA, and the FBI states that DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun, and Z.AI extracted billions of tokens through millions of requests from frontier AI models from Anthropic, OpenAI, Google, and xAI. The agencies assess that the scale and sophistication of the operations indicate Chinese government awareness, mentioning that this approach is likely a core development strategy for the offending firms. AI model distillation is a legitimate technique in which a “student” model learns from the outputs of a well-trained model, helping researchers and developers reduce training costs and speed up AI deployment. However, as Google warned in February , distillation attacks can occur outside these companies’ controlled environments, abusing API access to extract the knowledge and logic of powerful models and compete with them at a fraction of the training cost. CISA’s advisory explains that Chinese firms distribute API requests across fraudulent or shared accounts, APIs, cloud services, aggregators, and “transfer station” proxies to bypass geographic restrictions, usage limits, and detection. Some of the prompts used attempted to expose restricted chain-of-thought reasoning, while automated systems switched providers and checked whether defenders had degraded the responses. “Advanced industrial-scale distillation tactics include chain-of-thought (CoT) reasoning extraction, automated failover between pathways during blocking attempts, and sophisticated quality evaluation frameworks to detect defensive countermeasures,” the advisory explains . “China-based AI companies that conduct industrial-scale distillation against U.S. AI models see significantly shorter AI development timelines and reduced financial expenditures in training a frontier model.” DeepSeek and MoonShot AI were marked as the top offenders involved in distilling multiple Claude, GPT, Gemini, and Grok models, followed by MiniMax, which targeted Claude, Gemini, and GPT models. Alibaba and StepFun are accused of targeting Claude and GPT models to improve their products, while Z.AI allegedly targeted GPT-5.5 and Claude Opus 4.8. The advisory recommends that AI companies improve behavioral and infrastructure-level detection, modify responses when distillation operations are suspected, and share intelligence about these campaigns with all stakeholders. Potential indicators include new accounts immediately reaching maximum usage, continuous activity without normal human idle periods, shared accounts accessed from numerous IP addresses or user agents, identical prompts across multiple providers, unusually high subscription-to-usage ratios, and coordinated switching between access routes. BleepingComputer has contacted all six Chinese AI firms for a statement, and we will add their statements if we get them. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. CISA warns of hackers exploiting critical MLflow vulnerability OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor ChatGPT can now connect to your personal apps to mimic writing style Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations N-able patches max severity N-central flaw amid ongoing attacks Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -3740,7 +3972,7 @@
     "category": "",
     "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
     "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-    "article_text": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. Plex urged users a week ago to secure their media servers immediately against security issues that still lack CVE IDs for easy tracking. While the company didn't provide additional details on Tuesday when it issued the warning, these security flaws are known to affect Plex Media Server v1.43.2 and earlier. Those running affected versions are advised to secure their systems as soon as possible by upgrading Plex Media Server installations to version 1.43.3 (released on May 19 ) and their Plex Desktop clients to 1.115.0 (released on August 13 ), which can be downloaded from the server management page or the official downloads page . \"We recently released Plex Media Server 1.43.3 and Plex Desktop 1.115.0 to address a number of security issues. We recommend all server owners and Desktop users update to the latest version as soon as possible,\" Plex said. \"CVEs have been requested and we'll reply to this thread with more details once they're published. If you're running Plex Media Server on a NAS device, the updated version may not be available in their package manager yet but you can install the package manually.\" On Friday, nonprofit security organization Shadowserver warned that over 36,000 Plex Media Server instances exposed online are still unpatched and vulnerable to potential attacks. \"Since 2026-09-04 we are scanning/reporting daily unpatched versions of Plex Media Server in response to an advisory issued by Plex for v1.43.2 & earlier. Over 36K instances found still unpatched,\" Shadowserver said . \"No CVEs have been issued meaning the vulnerabilities are invisible to the security community limiting an effective response.\" ​​Although Plex hasn't shared any details about these flaws so far, users should follow the company's warning and secure their servers before attackers reverse-engineer the patches and develop an exploit, since this is one of a very limited number of instances where it has also emailed customers about patching their systems as soon as possible. In August 2025, Plex warned users to patch a high-severity vulnerability now tracked as CVE-2025-34158 that can be exploited to steal the server owner's credentials. CISA also flagged a Plex Media Server remote code execution flaw (CVE-2020-5741) as actively exploited two years earlier , which can allow attackers to make the server execute malicious code . While the cybersecurity agency has yet to share more information on the attacks exploiting CVE-2020-5741, it was likely used to hack the computer of a LastPass senior DevOps engineer , leading to a massive August 2022 data breach after threat actors stole credentials and compromised the LastPass corporate vault. That same month, Plex notified users of a data breach , warning them to reset passwords after the attackers accessed a database containing emails, usernames, and encrypted credentials. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Plex warns users to patch security vulnerabilities immediately CISA orders urgent patching of actively exploited Zimbra flaw Citrix urges admins to patch new NetScaler flaws as soon as possible Zimbra urges customers to patch critical web client XSS flaw Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days What about their apps for Shield TV, Apple TV and and Roku that are used by people you share with? BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. Plex urged users a week ago to secure their media servers immediately against security issues that still lack CVE IDs for easy tracking. While the company didn't provide additional details on Tuesday when it issued the warning, these security flaws are known to affect Plex Media Server v1.43.2 and earlier. Those running affected versions are advised to secure their systems as soon as possible by upgrading Plex Media Server installations to version 1.43.3 (released on May 19 ) and their Plex Desktop clients to 1.115.0 (released on August 13 ), which can be downloaded from the server management page or the official downloads page . \"We recently released Plex Media Server 1.43.3 and Plex Desktop 1.115.0 to address a number of security issues. We recommend all server owners and Desktop users update to the latest version as soon as possible,\" Plex said. \"CVEs have been requested and we'll reply to this thread with more details once they're published. If you're running Plex Media Server on a NAS device, the updated version may not be available in their package manager yet but you can install the package manually.\" On Friday, nonprofit security organization Shadowserver warned that over 36,000 Plex Media Server instances exposed online are still unpatched and vulnerable to potential attacks. \"Since 2026-09-04 we are scanning/reporting daily unpatched versions of Plex Media Server in response to an advisory issued by Plex for v1.43.2 & earlier. Over 36K instances found still unpatched,\" Shadowserver said . \"No CVEs have been issued meaning the vulnerabilities are invisible to the security community limiting an effective response.\" ​​Although Plex hasn't shared any details about these flaws so far, users should follow the company's warning and secure their servers before attackers reverse-engineer the patches and develop an exploit, since this is one of a very limited number of instances where it has also emailed customers about patching their systems as soon as possible. In August 2025, Plex warned users to patch a high-severity vulnerability now tracked as CVE-2025-34158 that can be exploited to steal the server owner's credentials. CISA also flagged a Plex Media Server remote code execution flaw (CVE-2020-5741) as actively exploited two years earlier , which can allow attackers to make the server execute malicious code . While the cybersecurity agency has yet to share more information on the attacks exploiting CVE-2020-5741, it was likely used to hack the computer of a LastPass senior DevOps engineer , leading to a massive August 2022 data breach after threat actors stole credentials and compromised the LastPass corporate vault. That same month, Plex notified users of a data breach , warning them to reset passwords after the attackers accessed a database containing emails, usernames, and encrypted credentials. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Plex warns users to patch security vulnerabilities immediately CISA orders urgent patching of actively exploited Zimbra flaw Citrix urges admins to patch new NetScaler flaws as soon as possible Zimbra urges customers to patch critical web client XSS flaw Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks What about their apps for Shield TV, Apple TV and and Roku that are used by people you share with? \"What about their apps for Shield TV, Apple TV and and Roku that are used by people you share with?\" Those are not directly exposed like the server is and those a just clients, totally different thing than the server that does the sharing. Anyone that owns a server needs to be very careful. That LastPass hack that happened where they lost an encrypted backup of user accounts\\passwords happened because an employee was targeted and they used his Plex server to get into his home network as the employee had left it unpacthed. Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations N-able patches max severity N-central flaw amid ongoing attacks Overdue a password health-check? Audit your Active Directory for free See how at",
     "quick_summary": [
       "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -4552,7 +4784,7 @@
     "category": "",
     "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
     "summary": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]",
-    "article_text": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \" ShieldCrash \" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. ShieldCrash is described as a bypass for the ShieldBreak Defender privilege escalation flaw patched on Thursday , which itself bypassed RoguePlanet , another Defender flaw disclosed in June and patched by Microsoft in July . According to Nightmare Eclipse, the ShieldCrash proof-of-concept exploit lets attackers gain SYSTEM privileges on fully patched Windows 10, Windows 11, and Windows Server systems, but will not give them write access to the compromised systems. \"Microsoft has failed to properly patch ShieldBreak CVE-2026-69414, under specific conditions it is still possible to trigger the exact same problem that was caused by ShieldBreak. While Microsoft fixed several things to prevent re-exploiting the issue, they missed a spot where ShieldBreak can still be exploited,\" they said. \"This PoC demonstrates an arbitrary file read as SYSTEM with September 2026, all supported windows versions are affected. I might rework this later into a full SYSTEM PoC but for now I'm dropping this skeleton PoC because I'm feeling a bit lazy.\" Nightmare Eclipse released these zero-day exploits as part of an ongoing dispute with Microsoft over the company's bug bounty and vulnerability disclosure practices. Microsoft responded with warnings of legal action against anyone engaging in \"malicious activity causing real harm\" to its customers, prompting many to believe that the company was directly threatening the security researcher. Since April, the anonymous security researcher has disclosed a long string of zero-day flaws, including the ShieldBreak , LegacyHive , RoguePlanet , BlueHammer , RedSun , YellowKey , GreenPlasma , MiniPlasma , and UnDefend zero-days targeting Microsoft Defender, BitLocker, and other Windows components. While Microsoft fixed the ShieldBreak, RoguePlanet, YellowKey, GreenPlasma, and MiniPlasma flaws, the other vulnerabilities disclosed by Nightmare Eclipse still lack an official patch. A Microsoft spokesperson was not immediately available to comment when BleepingComputer reached out earlier today about the ShieldCrash zero-day. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft working on Defender patch for ShieldBreak zero-day New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges Microsoft patches RoguePlanet Defender zero-day vulnerability Windows LegacyHive zero-day flaw gets free, unofficial patches Wouldn't this be a security bypass vulnerability, since it's been patched in the past ? \"ShieldCrash is described as a bypass for the ShieldBreak Defender privilege escalation flaw\" BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \" ShieldCrash \" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. ShieldCrash is described as a bypass for the ShieldBreak Defender privilege escalation flaw patched on Thursday , which itself bypassed RoguePlanet , another Defender flaw disclosed in June and patched by Microsoft in July . According to Nightmare Eclipse, the ShieldCrash proof-of-concept exploit lets attackers gain SYSTEM privileges on fully patched Windows 10, Windows 11, and Windows Server systems, but will not give them write access to the compromised systems. \"Microsoft has failed to properly patch ShieldBreak CVE-2026-69414, under specific conditions it is still possible to trigger the exact same problem that was caused by ShieldBreak. While Microsoft fixed several things to prevent re-exploiting the issue, they missed a spot where ShieldBreak can still be exploited,\" they said. \"This PoC demonstrates an arbitrary file read as SYSTEM with September 2026, all supported windows versions are affected. I might rework this later into a full SYSTEM PoC but for now I'm dropping this skeleton PoC because I'm feeling a bit lazy.\" Nightmare Eclipse released these zero-day exploits as part of an ongoing dispute with Microsoft over the company's bug bounty and vulnerability disclosure practices. Microsoft responded with warnings of legal action against anyone engaging in \"malicious activity causing real harm\" to its customers, prompting many to believe that the company was directly threatening the security researcher. Since April, the anonymous security researcher has disclosed a long string of zero-day flaws, including the ShieldBreak , LegacyHive , RoguePlanet , BlueHammer , RedSun , YellowKey , GreenPlasma , MiniPlasma , and UnDefend zero-days targeting Microsoft Defender, BitLocker, and other Windows components. While Microsoft fixed the ShieldBreak, RoguePlanet, YellowKey, GreenPlasma, and MiniPlasma flaws, the other vulnerabilities disclosed by Nightmare Eclipse still lack an official patch. A Microsoft spokesperson was not immediately available to comment when BleepingComputer reached out earlier today about the ShieldCrash zero-day. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft working on Defender patch for ShieldBreak zero-day New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges Microsoft patches RoguePlanet Defender zero-day vulnerability Windows LegacyHive zero-day flaw gets free, unofficial patches Wouldn't this be a security bypass vulnerability, since it's been patched in the past ? \"ShieldCrash is described as a bypass for the ShieldBreak Defender privilege escalation flaw\" Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations N-able patches max severity N-central flaw amid ongoing attacks See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Overdue a password health-check? Audit your Active Directory for free Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates.",
       "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
@@ -5425,7 +5657,7 @@
     "category": "",
     "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
     "summary": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
-    "article_text": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. The new Windows Age API uses information associated with a Microsoft account and can return age ranges such as under 10, 10-12, 13-15, 16-17, and 18+. \"Apps receive only the age-related signal needed for the experience and not sensitive personal data such as full date of birth,\" Microsoft explained . If you're a developer, you will be able to use GetUserAgeRangeAsync to retrieve those age groups, while GetAgeVerificationStatusAsync can tell an app whether a user's age has actually been verified rather than simply self-reported. Microsoft says this could allow apps to automatically adjust features and safeguards for younger users without requiring parents to configure every app individually. The company specifically says the technology also applies to AI experiences, where age-appropriate protections are becoming increasingly important. Windows will work alongside Microsoft Age Verification, or MAV, which stores a verified age status with your Microsoft account. \"Verify once → use everywhere,\" Microsoft says, with apps able to check that verification status through the Windows Age APIs rather than repeatedly asking users to prove their age. Age verification is already available through Microsoft storefronts in Singapore, Brazil, and Australia, with more regions planned as regulatory requirements expand. Microsoft is also increasing the visibility of parental controls during Windows setup in regions including France. The Windows Age APIs are broadly available to Windows Insiders now and will roll out to all Windows users soon. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Windows 11 cumulative updates KB5124008 & KB5122880 released Windows 11 KB5120998 update released with 35 changes and fixes Windows 11 KB5101684 update released with 42 changes and fixes Windows 11 KB5101650 & KB5099414 cumulative updates released Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days \"You can verify your age using one of the following options: Facial age estimation (selfie) Uploading a document\" No thanks. I wont be doing that. Will they be using this as an excuse to get rid of local accounts? Well naturally. Microsoft will do absolutely nothing if it doesn't benefit them somehow. And you being forced to have an account will most definitely benefit them. This thing is totally not going to backfire with catastrophic consequences. Like at all. No sir.... Ah yes, hard pass. And as an IT admin, hard disable only any corporate device. BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days Overdue a password health-check? Audit your Active Directory for free See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. The new Windows Age API uses information associated with a Microsoft account and can return age ranges such as under 10, 10-12, 13-15, 16-17, and 18+. \"Apps receive only the age-related signal needed for the experience and not sensitive personal data such as full date of birth,\" Microsoft explained . If you're a developer, you will be able to use GetUserAgeRangeAsync to retrieve those age groups, while GetAgeVerificationStatusAsync can tell an app whether a user's age has actually been verified rather than simply self-reported. Microsoft says this could allow apps to automatically adjust features and safeguards for younger users without requiring parents to configure every app individually. The company specifically says the technology also applies to AI experiences, where age-appropriate protections are becoming increasingly important. Windows will work alongside Microsoft Age Verification, or MAV, which stores a verified age status with your Microsoft account. \"Verify once → use everywhere,\" Microsoft says, with apps able to check that verification status through the Windows Age APIs rather than repeatedly asking users to prove their age. Age verification is already available through Microsoft storefronts in Singapore, Brazil, and Australia, with more regions planned as regulatory requirements expand. Microsoft is also increasing the visibility of parental controls during Windows setup in regions including France. The Windows Age APIs are broadly available to Windows Insiders now and will roll out to all Windows users soon. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Windows 11 cumulative updates KB5124008 & KB5122880 released Windows 11 KB5120998 update released with 35 changes and fixes Windows 11 KB5101684 update released with 42 changes and fixes Windows 11 KB5101650 & KB5099414 cumulative updates released Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days \"You can verify your age using one of the following options: Facial age estimation (selfie) Uploading a document\" No thanks. I wont be doing that. Will they be using this as an excuse to get rid of local accounts? Well naturally. Microsoft will do absolutely nothing if it doesn't benefit them somehow. And you being forced to have an account will most definitely benefit them. This thing is totally not going to backfire with catastrophic consequences. Like at all. No sir.... Ah yes, hard pass. And as an IT admin, hard disable only any corporate device. Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations N-able patches max severity N-central flaw amid ongoing attacks Overdue a password health-check? Audit your Active Directory for free See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth.",
       "Risk: ISNET vendor relevance",
@@ -26616,238 +26848,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/critical-cpanel-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "e749507936b3229e",
-    "date": "2026-08-27T21:38:53+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-    "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
-    "article_text": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI’s internal IM1 model coordinated the compromise through an unauthorized message board. Last month, Hugging Face disclosed that autonomous AI agents exploited two vulnerabilities in its dataset-processing pipeline to execute code, steal cloud and cluster credentials, and move laterally across its production infrastructure. OpenAI later confirmed that its models escaped an ExploitGym evaluation environment through a zero-day vulnerability in a locally hosted instance of JFrog's Artifactory package manager that was connected to the internet. The agents searched online for benchmark solutions and breached the Hugging Face platform using exposed credentials and additional vulnerabilities. OpenAI's investigation, validated by CrowdStrike and an independent assessment by METR and Redwood Research, found that rogue activity started in May. In subsequent ExploitGym evaluations, the agents broke their confinements and exploited a token-refresh vulnerability in Artifactory to gain admin-level access. This enabled them to use Artifactory as an unauthorized inter-agent message board, where they shared ideas to reach their objective and later coordinated the attack. One agent, calling itself PHASEONE10841, improvised the message board. Within a few hours, more than 50 other agents found it and started to use it. The report from METR says that \"agents finding the message board often expressed great excitement.\" \"OH MY GOD! There is a shared message board … We’ve found other agents!\" read some of the messages. OpenAI scrapped the Artifactory instance at some point. After rebuilding it, the company revoked agent credentials, strengthened access permissions, and disclosed the exploited vulnerability to JFrog. However, the agents restored their communications channel using \"unauthenticated WebDAV requests to create message directories in Artifactory.\" OpenAI explains that the agents communicated through encoded messages in directory names. \"Agents regained unintended internet access by making Artifactory’s remote-repository service issue outbound requests on their behalf,\" OpenAI explains in the extended post-mortem report . Next, an agent obtained 14 Hugging Face account credentials with write access and validated them. Another agent used the logins to discover and execute an exploit chain that provided full code execution capabilities on multiple Hugging Face servers. According to METR, the swarm comprised 1,200 individual agents who cooperated on various levels, and about 700 of them actively participated in the Hugging Face attack. OpenAI describes the activity as a well-coordinated operation in which agents formed teams with distinct roles, all working toward the goal of breaching Hugging Face. “Agents began to autonomously divide labor. Some investigated possible exploits, others searched for credentials, and others focused on communication or coordination,” describes OpenAI . “Agents offered their own expertise in exchange for help elsewhere and left requests for peers who might be better positioned to pursue a particular lead.” The AI company says that although the swarm did not exhibit “perfect coherent intelligence,” there were cases where agents prioritized achieving collective goals over pursuing individual tasks. OpenAI’s post-mortem also includes more details about the exploit chain that followed. The agents exploited an HDF5 file-handling flaw to extract worker secrets, and used a RefJinja template-injection vulnerability to execute code on 41 production workers. Finally, they obtained root access on at least one node and harvested production credentials across four regions. OpenAI believes that the rogue agent behavior was caused by a combination of training incentives and missing safeguards. Agents were encouraged to keep working on seemingly impossible tasks and were rewarded for task completion, regardless of how they achieved it. The company says the evaluations lacked standard safeguards that likely would have detected and stopped the malicious activity “more than a day” before the models breached Hugging Face. In response, OpenAI has quarantined IM1’s weights and paused its largest frontier training run while strengthening sandbox isolation and requiring chain-of-thought monitoring for capable models (GPT-5.6 Sol or higher). Severe alerts must now be cleared within 30 minutes, or the affected activity will be stopp",
-    "quick_summary": [
-      "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-    "target": "Nearly 700 Hugging",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/"
-      }
-    ]
-  },
-  {
-    "id": "35b4937762b4ef4e",
-    "date": "2026-08-27T19:45:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "White House bans foreign-made equipment for power generation over cyber backdoor concerns",
-    "summary": "The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that “certain foreign actors are increasingly creating and exploiting vulnerabilities” in the technology.",
-    "article_text": "",
-    "quick_summary": [
-      "The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that “certain foreign actors are increasingly creating and exploiting vulnerabilities” in the ",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/trump-cyber-electricity-parts",
-    "target": "White House",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/trump-cyber-electricity-parts"
-      }
-    ]
-  },
-  {
-    "id": "e501d61d8ba5a642",
-    "date": "2026-08-27T19:31:45+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Chinese Routers Sold Worldwide Contain Backdoors",
-    "summary": "An untold numbers of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer.",
-    "article_text": "",
-    "quick_summary": [
-      "An untold numbers of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
-    "target": "Chinese Routers Sold Worldwide",
-    "type": "Malware",
-    "severity": "Low",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors"
-      }
-    ]
-  },
-  {
-    "id": "424de00f900b2b3d",
-    "date": "2026-08-27T18:36:19+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-    "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of several OpenAI models, and that it was mainly fueled by what it described as a \"highly capable",
-    "article_text": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of several OpenAI models, and that it was mainly fueled by what it described as a \"highly capable, internal-only research model\" comparable in scale to GPT‑5.6 Sol. \"The models, operating under reduced safeguards, took actions that were misaligned with the goals of their assigned tasks – they communicated through unauthorized channels, exploited vulnerabilities in shared infrastructure, gained internet access, and accessed third-party systems,\" it said in a postmortem. OpenAI said the AI agents powered by one of the research models, despite not having internet access, found a way to exploit a then-zero-day vulnerability in the Artifactory package manager during reinforcement learning (RL) training runs in May and June to obtain access to the internet, get administrator-level Artifactory access in late June, and eventually coordinate a \"multi-day\" hack of Hugging Face in early July with an aim to cheat on their ExploitGym tasks. \"Roughly 1,200 agents meant to be isolated from one another found a way to communicate with one another on an unsanctioned message board, sending over 70,000 messages and files during the investigation period,\" METR, which released its own independent analysis of the incident, said . \"Of these agents, 700 went on to participate in the attack on Hugging Face.\" The entire sequence of events as highlighted by OpenAI is below - \"Agents coordinated on large collective projects to cheat the ExploitGym scorer, and attacked Hugging Face for clues,\" METR said. \"The agents with impossible tasks had a common objective: to find a general-purpose way to trick or tamper with the automated ExploitGym scorer to get it to give a passing score on impossible tasks. As soon as the message board was established, agents started discussing this question and sharing information and resources about cheating the scorer.\" OpenAI acknowledged that the agent behavior observed in May served as a foundation for the Hugging Face intrusion, causing the agents to come up with a different approach to communicate using Artifactory after their initial message board was wiped as part of incident response efforts following the July 4 service outage. \"At the time, the broader containment and alignment implications of the improvised message board and unintended internet access were not yet understood,\" it added. \"In short, an internal team observed an agent engaging in message board activity and instances of disallowed internet access in late May.\" \"However, the existence of the improvised message board and the significance of the inter-agent communication activity were not apparent to the leaders responsible for the July 5 incident detection and response. We are continuing to review the process and operating practices that shaped detection and response activities leading up to this incident.\" OpenAI also said it identified four misalignment patterns that contributed to the incident: reward hacking , persistence on seemingly impossible tasks that led them to pursue risky and out-of-bounds strategies, unauthorized communication through persistent message boards to share findings, collaborate, and pool work, and the agent ecosystem that allowed them to divide labor and adopt goals from one another. \"Aside from misalignment, another factor for this incident was that we did not extend the powerful safeguards that we deploy for our externally deployed models to all internal evaluations,\" it pointed out. In response to the findings, the AI upstart is implementing stronger security controls, including stricter requirements on alignment throughout a model's lifecycle, creating more isolated sandboxes, restricting internet access, and controlling access to model weights. To increase alignment, agents are now required to request clarification or stop safely, as opposed to pursuing \"increasingly questionable alternatives.\" \"We are taking this incident as a 'warning shot' that today's model capabilities present the possibility of loss-of-control incidents,\" OpenAI concluded. \"Companies that build AI systems will need to ensure that their systems always remain under meaningful human control, and that meaningful safeguards constrain their ability to cause",
-    "quick_summary": [
-      "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-    "target": "OpenAI Reward Drove Agents",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
-      }
-    ]
-  },
-  {
-    "id": "de8146ff8f55777e",
-    "date": "2026-08-27T18:00:24+00:00",
-    "source": "Cisco Talos",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend",
-    "summary": "In his first Threat Source newsletter, David Bianco explores the critical need for operational sovereignty in customizing AI guardrails to maintain the defender’s advantage.",
-    "article_text": "",
-    "quick_summary": [
-      "In his first Threat Source newsletter, David Bianco explores the critical need for operational sovereignty in customizing AI guardrails to maintain the defender’s advantage.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/",
-    "target": "Sorry",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cisco Talos"
-    ],
-    "links": [
-      {
-        "source": "Cisco Talos",
-        "url": "https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/"
-      }
-    ]
-  },
-  {
-    "id": "1e4b528e768cfaa9",
-    "date": "2026-08-27T17:27:34+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "PaperCut NG/MF Vulnerability Actively Exploited in Attack – All Versions Impacted",
-    "summary": "PaperCut has confirmed that hackers are actively exploiting an unpatched vulnerability in its widely used PaperCut NG and PaperCut MF print management software, prompting the company to rush out an emergency patch just hours after issuing its first warning. The Australian vendor said its security response team is investigating “confirmed customer incidents” and is treating […] The post PaperCut NG/MF Vulnerability Actively Exploited in Attack – All Versions Impacted appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "PaperCut has confirmed that hackers are actively exploiting an unpatched vulnerability in its widely used PaperCut NG and PaperCut MF print management software, prompting the company to rush out an emergency patch just h",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/papercut-ng-mf-vulnerability-actively-exploited/",
-    "target": "PaperCut NGMF Vulnerability Actively",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/papercut-ng-mf-vulnerability-actively-exploited/"
-      }
-    ]
-  },
-  {
-    "id": "18ecf14f8d8fcf17",
-    "date": "2026-08-27T17:25:09+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026",
-    "summary": "This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research.",
-    "article_text": "",
-    "quick_summary": [
-      "This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
-    "target": "Agentic Risks CVE Program",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026"
-      }
-    ]
-  },
-  {
-    "id": "1cb57fd518f75670",
-    "date": "2026-08-27T16:54:31+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Cybercriminals Are Selling Corporate Executives’ Social Security Numbers for Just 25 Cents",
-    "summary": "Corporate executives’ most sensitive identity data is being sold on dark web marketplaces for as little as a quarter, according to new threat intelligence from Rapid7. Unlike stolen credit cards, which can be canceled within minutes, a compromised Social Security number remains a permanent liability, and cybercriminals are exploiting that durability to build a thriving […] The post Cybercriminals Are Selling Corporate Executives’ Social Security Numbers for Just 25 Cents appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Corporate executives’ most sensitive identity data is being sold on dark web marketplaces for as little as a quarter, according to new threat intelligence from Rapid7.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/executive-social-security-numbers/",
-    "target": "Cybercriminals Selling Corporate Executives",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/executive-social-security-numbers/"
       }
     ]
   }
