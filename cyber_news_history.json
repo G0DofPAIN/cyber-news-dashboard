@@ -1,94 +1,7 @@
 [
   {
-    "id": "0ce3299d65e7a3a7",
-    "date": "2026-09-09T21:41:48.544053+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE CVE-2026-19780: RCE in Koha Puts Library Management Systems at Risk",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-19780-rce-in-koha-puts-library-management-systems-at-risk",
-    "target": "CVE CVE-2026-19780",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-19780-rce-in-koha-puts-library-management-systems-at-risk"
-      }
-    ]
-  },
-  {
-    "id": "a36c5a96a002d0e1",
-    "date": "2026-09-09T21:41:48.543953+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT BAS at Machine Speed: The Structural Collapse of Disclosure-to-Exploit",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/bas-at-machine-speed-the-structural-collapse-of-disclosure-to-exploit",
-    "target": "EXPLOIT BAS Machine Speed",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/bas-at-machine-speed-the-structural-collapse-of-disclosure-to-exploit"
-      }
-    ]
-  },
-  {
-    "id": "9cd18dbc18392efb",
-    "date": "2026-09-09T21:41:48.543856+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT Adobe Patches StyleSmuggler: Actively Exploited Magento Zero-Day with CVSS 10.0",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/news/adobe-patches-stylesmuggler-actively-exploited-magento-zero-day-with-cvss-100",
-    "target": "EXPLOIT Adobe Patches StyleSmuggler",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/adobe-patches-stylesmuggler-actively-exploited-magento-zero-day-with-cvss-100"
-      }
-    ]
-  },
-  {
     "id": "f3c03a38b7f523a8",
-    "date": "2026-09-09T21:41:48.543761+00:00",
+    "date": "2026-09-10T00:14:37.844041+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +30,7 @@
   },
   {
     "id": "d40f493355633f43",
-    "date": "2026-09-09T21:41:48.543665+00:00",
+    "date": "2026-09-10T00:14:37.843945+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +59,7 @@
   },
   {
     "id": "88a3b8990207e49f",
-    "date": "2026-09-09T21:41:48.543547+00:00",
+    "date": "2026-09-10T00:14:37.843844+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,71 +87,124 @@
     ]
   },
   {
-    "id": "bd7c5d326541ec33",
-    "date": "2026-09-09T21:41:48.543444+00:00",
+    "id": "cbee20c11bee15c6",
+    "date": "2026-09-10T00:14:37.843736+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "ZDI-26-617: Windows MIDI Service Becomes LPE Path to SYSTEM, Patch Released news",
-    "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-66804.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/news/zdi-26-617-windows-midi-service-becomes-lpe-path-to-system-patch-released",
-    "target": "ZDI-26-617",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews",
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/zdi-26-617-windows-midi-service-becomes-lpe-path-to-system-patch-released"
-      },
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-617/"
-      }
-    ]
-  },
-  {
-    "id": "ab76047522668dc3",
-    "date": "2026-09-09T21:41:48.543330+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "BAS at Machine Speed: The Structural Collapse of Disclosure-to-Exploit CYBERSEC EXPLOIT",
+    "title": "CVE Cisco Confirms CVE-2026-20079 in FMC Actively Exploited by Sandworm and Qilin",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/bas-at-machine-speed-the-structural-collapse-of-disclosure-to-exploit",
-    "target": "BAS Machine Speed",
+    "link": "https://deafnews.it/en/news/cybersecurity/cisco-confirms-cve-2026-20079-in-fmc-actively-exploited-by-sandworm-and-qilin",
+    "target": "CVE Cisco Confirms CVE-2026-20079",
     "type": "Vulnerability",
-    "severity": "Medium",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/bas-at-machine-speed-the-structural-collapse-of-disclosure-to-exploit"
+        "url": "https://deafnews.it/en/news/cybersecurity/cisco-confirms-cve-2026-20079-in-fmc-actively-exploited-by-sandworm-and-qilin"
+      }
+    ]
+  },
+  {
+    "id": "e394ae00d11d2724",
+    "date": "2026-09-10T00:14:37.843635+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL FortiSandbox Command Injection Grants Root RCE: Why the CVSS 6.7 Underrates the Risk",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/fortisandbox-command-injection-grants-root-rce-why-the-cvss-67-underrates-the-risk",
+    "target": "CRITICAL FortiSandbox Command Injection",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/fortisandbox-command-injection-grants-root-rce-why-the-cvss-67-underrates-the-risk"
+      }
+    ]
+  },
+  {
+    "id": "9589cb02149436ec",
+    "date": "2026-09-10T00:14:37.843532+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Flowise: Critical RCE in CSV Agent, Component Removed from Codebase",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/flowise-critical-rce-in-csv-agent-component-removed-from-codebase",
+    "target": "CRITICAL Flowise",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/flowise-critical-rce-in-csv-agent-component-removed-from-codebase"
+      }
+    ]
+  },
+  {
+    "id": "1893681dacef2337",
+    "date": "2026-09-10T00:14:37.843418+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Adobe Patches StyleSmuggler: Actively Exploited Magento Zero-Day with CVSS 10.0 news EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/news/adobe-patches-stylesmuggler-actively-exploited-magento-zero-day-with-cvss-100",
+    "target": "Adobe Patches StyleSmuggler",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/adobe-patches-stylesmuggler-actively-exploited-magento-zero-day-with-cvss-100"
       }
     ]
   },
   {
     "id": "28ce1e60ca8cb2e6",
-    "date": "2026-09-09T21:41:48.543065+00:00",
+    "date": "2026-09-10T00:14:37.843277+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -267,7 +233,7 @@
   },
   {
     "id": "c285eef09ac0ce32",
-    "date": "2026-09-09T21:41:48.542956+00:00",
+    "date": "2026-09-10T00:14:37.843165+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -296,7 +262,7 @@
   },
   {
     "id": "b7f01271ae91dcdd",
-    "date": "2026-09-09T21:41:48.542851+00:00",
+    "date": "2026-09-10T00:14:37.843065+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -329,13 +295,42 @@
     ]
   },
   {
-    "id": "09cf001821597fac",
-    "date": "2026-09-09T21:41:48.541985+00:00",
+    "id": "e69c2fdc55b189b3",
+    "date": "2026-09-10T00:14:37.842967+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC AMD, Arm, and Nvidia: September 9 Patches for GPU and AI Inference Vulnerabilities Sep 09, 2026",
+    "title": "LiteLLM: 9.6% of Exposed Instances Vulnerable to Auth Bypass and RCE CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/litellm-96-of-exposed-instances-vulnerable-to-auth-bypass-and-rce",
+    "target": "LiteLLM",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/litellm-96-of-exposed-instances-vulnerable-to-auth-bypass-and-rce"
+      }
+    ]
+  },
+  {
+    "id": "0fd07699b574242e",
+    "date": "2026-09-10T00:14:37.842742+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "AMD, Arm, and Nvidia: September 9 Patches for GPU and AI Inference Vulnerabilities CYBERSEC",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -344,7 +339,7 @@
       "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/amd-arm-and-nvidia-september-9-patches-for-gpu-and-ai-inference-vulnerabilities",
-    "target": "CYBERSEC AMD Arm Nvidia",
+    "target": "AMD Arm Nvidia",
     "type": "Vulnerability",
     "severity": "Medium",
     "sources": [
@@ -359,7 +354,7 @@
   },
   {
     "id": "9cffa95c03fd4d3a",
-    "date": "2026-09-09T21:41:48.541856+00:00",
+    "date": "2026-09-10T00:14:37.842089+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -387,13 +382,13 @@
     ]
   },
   {
-    "id": "3ddb3eaee7aec34c",
-    "date": "2026-09-09T21:41:48.541501+00:00",
+    "id": "db5ae4d0a95a1fa3",
+    "date": "2026-09-10T00:14:37.841401+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 4 ZERO-DAY · 7 CVE · 6 EXPLOIT IN THE LAST 24H →",
+    "title": "// 1 CRITICAL · 4 ZERO-DAY · 7 CVE · 8 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -402,7 +397,7 @@
       "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/threats",
-    "target": "ZERO-DAY CVE EXPLOIT",
+    "target": "CRITICAL ZERO-DAY CVE",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -417,7 +412,7 @@
   },
   {
     "id": "e0d8432f646c7278",
-    "date": "2026-09-09T21:41:47.716782+00:00",
+    "date": "2026-09-10T00:14:36.933577+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -510,7 +505,7 @@
   },
   {
     "id": "f5f187138bfad813",
-    "date": "2026-09-09T21:41:46.849228+00:00",
+    "date": "2026-09-10T00:14:35.948039+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -539,7 +534,7 @@
   },
   {
     "id": "1e5e99fd7c3d3a5c",
-    "date": "2026-09-09T21:41:46.849061+00:00",
+    "date": "2026-09-10T00:14:35.947864+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -568,7 +563,7 @@
   },
   {
     "id": "738b36383127f224",
-    "date": "2026-09-09T21:41:46.848917+00:00",
+    "date": "2026-09-10T00:14:35.947714+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -597,7 +592,7 @@
   },
   {
     "id": "407d40db036bb3a8",
-    "date": "2026-09-09T21:41:46.848799+00:00",
+    "date": "2026-09-10T00:14:35.947588+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -626,7 +621,7 @@
   },
   {
     "id": "529d0acdd2d4a71f",
-    "date": "2026-09-09T21:41:46.848678+00:00",
+    "date": "2026-09-10T00:14:35.947450+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -655,7 +650,7 @@
   },
   {
     "id": "6871c80b023c5e62",
-    "date": "2026-09-09T21:41:46.848490+00:00",
+    "date": "2026-09-10T00:14:35.947262+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -684,7 +679,7 @@
   },
   {
     "id": "35be8652aefbe26e",
-    "date": "2026-09-09T21:41:46.848381+00:00",
+    "date": "2026-09-10T00:14:35.947149+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -713,7 +708,7 @@
   },
   {
     "id": "ee429e2fce62a636",
-    "date": "2026-09-09T21:41:46.848232+00:00",
+    "date": "2026-09-10T00:14:35.946993+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -742,7 +737,7 @@
   },
   {
     "id": "191256ce0155a788",
-    "date": "2026-09-09T21:41:46.848113+00:00",
+    "date": "2026-09-10T00:14:35.946870+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -771,7 +766,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-09-09T21:41:46.847916+00:00",
+    "date": "2026-09-10T00:14:35.946658+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -800,7 +795,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-09-09T21:41:46.847794+00:00",
+    "date": "2026-09-10T00:14:35.946530+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -829,7 +824,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-09-09T21:41:46.847665+00:00",
+    "date": "2026-09-10T00:14:35.946387+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -858,7 +853,7 @@
   },
   {
     "id": "fd4eea07fb33f3b2",
-    "date": "2026-09-09T21:41:46.847515+00:00",
+    "date": "2026-09-10T00:14:35.946244+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -887,7 +882,7 @@
   },
   {
     "id": "3f2e3c41f8150ce5",
-    "date": "2026-09-09T21:41:46.847383+00:00",
+    "date": "2026-09-10T00:14:35.946112+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -916,7 +911,7 @@
   },
   {
     "id": "6b0bbec6f46de8eb",
-    "date": "2026-09-09T21:41:46.847239+00:00",
+    "date": "2026-09-10T00:14:35.945971+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -945,7 +940,7 @@
   },
   {
     "id": "824b78ae23ccefa5",
-    "date": "2026-09-09T21:41:46.846896+00:00",
+    "date": "2026-09-10T00:14:35.945625+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -974,7 +969,7 @@
   },
   {
     "id": "948ec72c6df6739b",
-    "date": "2026-09-09T21:41:46.846770+00:00",
+    "date": "2026-09-10T00:14:35.945498+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1003,7 +998,7 @@
   },
   {
     "id": "b8c744c15fe3cec1",
-    "date": "2026-09-09T21:41:46.846655+00:00",
+    "date": "2026-09-10T00:14:35.945363+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1032,7 +1027,7 @@
   },
   {
     "id": "ffed0c88cc3288da",
-    "date": "2026-09-09T21:41:46.846514+00:00",
+    "date": "2026-09-10T00:14:35.945226+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1061,7 +1056,7 @@
   },
   {
     "id": "ee96731ea43f4810",
-    "date": "2026-09-09T21:41:46.846382+00:00",
+    "date": "2026-09-10T00:14:35.945085+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1090,7 +1085,7 @@
   },
   {
     "id": "6d3047374fd1bdcf",
-    "date": "2026-09-09T21:41:46.846138+00:00",
+    "date": "2026-09-10T00:14:35.944831+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1119,7 +1114,7 @@
   },
   {
     "id": "d66e9684e5d29618",
-    "date": "2026-09-09T21:41:46.845939+00:00",
+    "date": "2026-09-10T00:14:35.944632+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1148,7 +1143,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-09-09T21:41:46.841927+00:00",
+    "date": "2026-09-10T00:14:35.940730+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1177,7 +1172,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-09-09T21:41:46.840974+00:00",
+    "date": "2026-09-10T00:14:35.939768+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1206,7 +1201,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-09-09T21:41:46.840722+00:00",
+    "date": "2026-09-10T00:14:35.939506+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1235,7 +1230,7 @@
   },
   {
     "id": "2c62bcab3582bc27",
-    "date": "2026-09-09T21:41:46.686802+00:00",
+    "date": "2026-09-10T00:14:35.605452+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1264,7 +1259,7 @@
   },
   {
     "id": "f36774f4fd5f9740",
-    "date": "2026-09-09T21:41:46.686692+00:00",
+    "date": "2026-09-10T00:14:35.605342+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1293,7 +1288,7 @@
   },
   {
     "id": "9bef66656e898e59",
-    "date": "2026-09-09T21:41:46.686576+00:00",
+    "date": "2026-09-10T00:14:35.605243+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1322,7 +1317,7 @@
   },
   {
     "id": "8368a84600d0281d",
-    "date": "2026-09-09T21:41:46.686473+00:00",
+    "date": "2026-09-10T00:14:35.605138+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1351,7 +1346,7 @@
   },
   {
     "id": "702d85da1ec74ef0",
-    "date": "2026-09-09T21:41:46.686359+00:00",
+    "date": "2026-09-10T00:14:35.605022+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1380,7 +1375,7 @@
   },
   {
     "id": "46a401e5960368f1",
-    "date": "2026-09-09T21:41:46.686226+00:00",
+    "date": "2026-09-10T00:14:35.604885+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1409,7 +1404,7 @@
   },
   {
     "id": "3fb6751fc8aa5f43",
-    "date": "2026-09-09T21:41:46.686107+00:00",
+    "date": "2026-09-10T00:14:35.604760+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1438,7 +1433,7 @@
   },
   {
     "id": "e9d3d925565b4be7",
-    "date": "2026-09-09T21:41:46.686002+00:00",
+    "date": "2026-09-10T00:14:35.604654+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1467,7 +1462,7 @@
   },
   {
     "id": "34ec224afed1d185",
-    "date": "2026-09-09T21:41:46.685888+00:00",
+    "date": "2026-09-10T00:14:35.604541+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1496,7 +1491,7 @@
   },
   {
     "id": "b6f8228b6502d937",
-    "date": "2026-09-09T21:41:46.685776+00:00",
+    "date": "2026-09-10T00:14:35.604418+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1525,7 +1520,7 @@
   },
   {
     "id": "5bfb1cce9ac96a97",
-    "date": "2026-09-09T21:41:46.685666+00:00",
+    "date": "2026-09-10T00:14:35.604307+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1554,7 +1549,7 @@
   },
   {
     "id": "be919922ba10c474",
-    "date": "2026-09-09T21:41:46.685531+00:00",
+    "date": "2026-09-10T00:14:35.604191+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1583,7 +1578,7 @@
   },
   {
     "id": "5ae26246be7e2cbc",
-    "date": "2026-09-09T21:41:46.685425+00:00",
+    "date": "2026-09-10T00:14:35.604083+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1612,7 +1607,7 @@
   },
   {
     "id": "490dbcb915c4683d",
-    "date": "2026-09-09T21:41:46.685321+00:00",
+    "date": "2026-09-10T00:14:35.603977+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1641,7 +1636,7 @@
   },
   {
     "id": "699e589a4f3f8e50",
-    "date": "2026-09-09T21:41:46.685201+00:00",
+    "date": "2026-09-10T00:14:35.603852+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1670,7 +1665,7 @@
   },
   {
     "id": "91b23b975a78838a",
-    "date": "2026-09-09T21:41:46.685085+00:00",
+    "date": "2026-09-10T00:14:35.603736+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1699,7 +1694,7 @@
   },
   {
     "id": "10484c47c3d9d4ac",
-    "date": "2026-09-09T21:41:46.684977+00:00",
+    "date": "2026-09-10T00:14:35.603625+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1728,7 +1723,7 @@
   },
   {
     "id": "8590e1bce283c0fb",
-    "date": "2026-09-09T21:41:46.684833+00:00",
+    "date": "2026-09-10T00:14:35.603480+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1757,7 +1752,7 @@
   },
   {
     "id": "cca1dd87ee1efb64",
-    "date": "2026-09-09T21:41:46.684702+00:00",
+    "date": "2026-09-10T00:14:35.603345+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1786,7 +1781,7 @@
   },
   {
     "id": "80ac94197eaa1ef8",
-    "date": "2026-09-09T21:41:46.684534+00:00",
+    "date": "2026-09-10T00:14:35.603218+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1819,7 +1814,7 @@
   },
   {
     "id": "0fc3eaabc8191ecb",
-    "date": "2026-09-09T21:41:46.684423+00:00",
+    "date": "2026-09-10T00:14:35.603106+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1848,7 +1843,7 @@
   },
   {
     "id": "5138b8fcbb281cf1",
-    "date": "2026-09-09T21:41:46.684304+00:00",
+    "date": "2026-09-10T00:14:35.602985+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1877,7 +1872,7 @@
   },
   {
     "id": "32b7a678348a9835",
-    "date": "2026-09-09T21:41:46.684180+00:00",
+    "date": "2026-09-10T00:14:35.602858+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1906,7 +1901,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-09-09T21:41:46.684048+00:00",
+    "date": "2026-09-10T00:14:35.602725+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1947,7 +1942,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-09-09T21:41:46.683815+00:00",
+    "date": "2026-09-10T00:14:35.602515+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1975,6 +1970,127 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "0ce3299d65e7a3a7",
+    "date": "2026-09-09T21:41:48.544053+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE CVE-2026-19780: RCE in Koha Puts Library Management Systems at Risk",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-19780-rce-in-koha-puts-library-management-systems-at-risk",
+    "target": "CVE CVE-2026-19780",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-19780-rce-in-koha-puts-library-management-systems-at-risk"
+      }
+    ]
+  },
+  {
+    "id": "a36c5a96a002d0e1",
+    "date": "2026-09-09T21:41:48.543953+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT BAS at Machine Speed: The Structural Collapse of Disclosure-to-Exploit",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/bas-at-machine-speed-the-structural-collapse-of-disclosure-to-exploit",
+    "target": "EXPLOIT BAS Machine Speed",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/bas-at-machine-speed-the-structural-collapse-of-disclosure-to-exploit"
+      }
+    ]
+  },
+  {
+    "id": "bd7c5d326541ec33",
+    "date": "2026-09-09T21:41:48.543444+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ZDI-26-617: Windows MIDI Service Becomes LPE Path to SYSTEM, Patch Released news",
+    "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Microsoft Windows. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-66804.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/news/zdi-26-617-windows-midi-service-becomes-lpe-path-to-system-patch-released",
+    "target": "ZDI-26-617",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews",
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/zdi-26-617-windows-midi-service-becomes-lpe-path-to-system-patch-released"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-617/"
+      }
+    ]
+  },
+  {
+    "id": "ab76047522668dc3",
+    "date": "2026-09-09T21:41:48.543330+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "BAS at Machine Speed: The Structural Collapse of Disclosure-to-Exploit CYBERSEC EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/bas-at-machine-speed-the-structural-collapse-of-disclosure-to-exploit",
+    "target": "BAS Machine Speed",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/bas-at-machine-speed-the-structural-collapse-of-disclosure-to-exploit"
       }
     ]
   },
@@ -2033,6 +2149,35 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/"
+      }
+    ]
+  },
+  {
+    "id": "ffc46654a9d662ee",
+    "date": "2026-09-09T21:30:00+00:00",
+    "source": "Microsoft Security Blog",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Threat Matrix: Mapping threats across cloud web applications",
+    "summary": "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms. The post Threat Matrix: Mapping threats across cloud web applications appeared first on Microsoft Security Blog .",
+    "article_text": "",
+    "quick_summary": [
+      "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
+    "target": "Threat Matrix",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Microsoft Security Blog"
+    ],
+    "links": [
+      {
+        "source": "Microsoft Security Blog",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/"
       }
     ]
   },
@@ -4548,6 +4693,527 @@
       {
         "source": "Zero Day Initiative",
         "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-608/"
+      }
+    ]
+  },
+  {
+    "id": "12bb843ff7f76cc0",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-647: VMware Workstation VMXNET3 TSO Segmentation Integer Overflow Local Privilege Escalation Vulnerability",
+    "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of VMware Workstation. An attacker must first obtain the ability to execute high-privileged code on the target guest system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.5. The following CVEs are assigned: CVE-2026-59346.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows local attackers to escalate privileges on affected installations of VMware Workstation.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-647/",
+    "target": "ZDI-26-647",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-647/"
+      }
+    ]
+  },
+  {
+    "id": "70bf6b04f677877c",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-646: Progress Software Kemp LoadMaster escape_quotes Uninitialized Memory Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Progress Software Kemp LoadMaster. Authentication is required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.2. The following CVEs are assigned: CVE-2026-8037.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Progress Software Kemp LoadMaster.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-646/",
+    "target": "ZDI-26-646",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-646/"
+      }
+    ]
+  },
+  {
+    "id": "9981c49fffe18253",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-645: Fortinet FortiSandbox write_remote_backup_to_crontab cronValue Command Injection Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fortinet FortiSandbox. Authentication is required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.2. The following CVEs are assigned: CVE-2026-84387.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Fortinet FortiSandbox.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-645/",
+    "target": "ZDI-26-645",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-645/"
+      }
+    ]
+  },
+  {
+    "id": "ffacfcb36c0a1ed6",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-644: Oracle VirtualBox VMSVGA Race Condition Local Privilege Escalation Vulnerability",
+    "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox. An attacker must first obtain the ability to execute high-privileged code on the target guest system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.5. The following CVEs are assigned: CVE-2026-60155.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-644/",
+    "target": "ZDI-26-644",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-644/"
+      }
+    ]
+  },
+  {
+    "id": "684c9e75f46ea994",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-643: Oracle VirtualBox VMSVGA Out-Of-Bounds Read Information Disclosure Vulnerability",
+    "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of Oracle VirtualBox. An attacker must first obtain the ability to execute high-privileged code on the target guest system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 6.1. The following CVEs are assigned: CVE-2026-60162.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows local attackers to disclose sensitive information on affected installations of Oracle VirtualBox.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-643/",
+    "target": "ZDI-26-643",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-643/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-641/"
+      }
+    ]
+  },
+  {
+    "id": "4931779c487b7c56",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-642: Oracle VirtualBox IDisplay Out-Of-Bounds Read Local Privilege Escalation Vulnerability",
+    "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox. An attacker must first obtain the ability to execute high-privileged code on the target guest system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.5. The following CVEs are assigned: CVE-2026-60159.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-642/",
+    "target": "ZDI-26-642",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-642/"
+      }
+    ]
+  },
+  {
+    "id": "62fa1d3b5fcc18a3",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-640: Oracle VirtualBox VirtioSCSI Uninitialized Memory Information Disclosure Vulnerability",
+    "summary": "This vulnerability allows local attackers to disclose sensitive information on affected installations of Oracle VirtualBox. An attacker must first obtain the ability to execute high-privileged code on the target guest system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 5.3. The following CVEs are assigned: CVE-2026-71132.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows local attackers to disclose sensitive information on affected installations of Oracle VirtualBox.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-640/",
+    "target": "ZDI-26-640",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-640/"
+      }
+    ]
+  },
+  {
+    "id": "74b9d19d65f3b3a2",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-639: Oracle VirtualBox VMSVGA Heap-based Buffer Overflow Local Privilege Escalation Vulnerability",
+    "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox. An attacker must first obtain the ability to execute high-privileged code on the target guest system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.5. The following CVEs are assigned: CVE-2026-71116.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows local attackers to escalate privileges on affected installations of Oracle VirtualBox.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-639/",
+    "target": "ZDI-26-639",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-639/"
+      }
+    ]
+  },
+  {
+    "id": "af78219bf85026ce",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-638: Oracle Outside In Technology WPS File Parsing Memory Corruption Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Oracle Outside In Technology. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-60414.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Oracle Outside In Technology.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-638/",
+    "target": "ZDI-26-638",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-638/"
+      }
+    ]
+  },
+  {
+    "id": "c5f442ab8b41d503",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-637: Oracle Outside In Technology GEM File Parsing Integer Overflow Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Oracle Outside In Technology. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-60413.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Oracle Outside In Technology.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-637/",
+    "target": "ZDI-26-637",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-637/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-636/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-635/"
+      }
+    ]
+  },
+  {
+    "id": "7b2fc46dd155b52c",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-634: Flowise CSV Agent Prompt Injection Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Flowise. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 9.8. The following CVEs are assigned: CVE-2026-70477.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Flowise.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-634/",
+    "target": "ZDI-26-634",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-634/"
+      }
+    ]
+  },
+  {
+    "id": "b3057b3fca951c0c",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-633: GIMP PSP File Parsing Integer Overflow Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-4153.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-633/",
+    "target": "ZDI-26-633",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-633/"
+      }
+    ]
+  },
+  {
+    "id": "8e10976a5911024d",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-632: WatchGuard FireWare OS epm connect Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of WatchGuard FireWare OS. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 8.8. The following CVEs are assigned: CVE-2026-13086.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of WatchGuard FireWare OS.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-632/",
+    "target": "ZDI-26-632",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-632/"
+      }
+    ]
+  },
+  {
+    "id": "6d80b496f0de95d5",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-631: NI LabVIEW VI File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
+    "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of NI LabVIEW. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 3.3. The following CVEs are assigned: CVE-2026-18444.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to disclose sensitive information on affected installations of NI LabVIEW.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-631/",
+    "target": "ZDI-26-631",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-631/"
+      }
+    ]
+  },
+  {
+    "id": "a08152c2baffbd92",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-630: NI LabVIEW VI File Parsing Integer Overflow Information Disclosure Vulnerability",
+    "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of NI LabVIEW. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 3.3. The following CVEs are assigned: CVE-2026-18445.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to disclose sensitive information on affected installations of NI LabVIEW.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-630/",
+    "target": "ZDI-26-630",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-630/"
+      }
+    ]
+  },
+  {
+    "id": "f01194a4f5f6a553",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-629: Microsoft Azure Entra ID OAuth Device Code Grant Information Disclosure Vulnerability",
+    "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Microsoft Azure. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 5.8.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Microsoft Azure.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-629/",
+    "target": "ZDI-26-629",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-629/"
+      }
+    ]
+  },
+  {
+    "id": "2893f251018c6088",
+    "date": "2026-09-09T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-628: Backblaze Personal Computer Backup bzreports Link Following Denial-of-Service Vulnerability",
+    "summary": "This vulnerability allows local attackers to create a denial-of-service condition on affected installations of Backblaze Personal Computer Backup. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 6.1. The following CVEs are assigned: CVE-2026-19820.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows local attackers to create a denial-of-service condition on affected installations of Backblaze Personal Computer Backup.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-628/",
+    "target": "ZDI-26-628",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-628/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-627/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-626/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-625/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-624/"
       }
     ]
   },
@@ -26182,657 +26848,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/executive-social-security-numbers/"
-      }
-    ]
-  },
-  {
-    "id": "f9331d7e02b16377",
-    "date": "2026-08-27T16:46:55+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "CISA Warns of Citrix NetScaler ADC and Gateway Vulnerability Exploited in Attacks",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency has added a critical Citrix NetScaler ADC and NetScaler Gateway security flaw, tracked as CVE-2026-8452, to its Known Exploited Vulnerabilities catalog after confirming exploitation in attacks. The vulnerability was added on August 26, 2026, and federal civilian executive branch agencies must apply the vendor-recommended mitigations by August 29, […] The post CISA Warns of Citrix NetScaler ADC and Gateway Vulnerability Exploited in Attacks appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Cybersecurity and Infrastructure Security Agency has added a critical Citrix NetScaler ADC and NetScaler Gateway security flaw, tracked as CVE-2026-8452, to its Known Exploited Vulnerabilities catalog after confirming ex",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-vulnerability-exploited/",
-    "target": "CISA Citrix NetScaler ADC",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-vulnerability-exploited/"
-      }
-    ]
-  },
-  {
-    "id": "00c71639730f856a",
-    "date": "2026-08-27T16:34:08+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New Twitter Launches as Startup Claims Elon Musk’s X Abandoned the Twitter Name",
-    "summary": "A startup operating as Operation Bluebird, Inc. has launched early access to a new social media service on Twitter.now, positioning itself as a revival of the Twitter brand that Elon Musk’s X Corp. abandoned after its 2023 rebrand. The company says it is independent of X Corp. and is rebuilding the former “town square” model […] The post New Twitter Launches as Startup Claims Elon Musk’s X Abandoned the Twitter Name appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A startup operating as Operation Bluebird, Inc.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/new-twitter-launches/",
-    "target": "Twitter Launches Startup Claims",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/new-twitter-launches/"
-      }
-    ]
-  },
-  {
-    "id": "00b8afd3da441f8f",
-    "date": "2026-08-27T16:12:26+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Manchester Airports Group says hackers stole travelers' data",
-    "summary": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
-    "article_text": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. The intruder did not access customer payment details, and the attack had no impact on airport operations, the company said . A statement from the company today notes that the exfiltrated data also \"relates to car park, lounge and Fast Track bookings.\" The list of compromised details includes customers' email addresses, phone numbers, vehicle registration numbers, and postcodes. “The incident has not resulted in any operational disruption,” assured the organization, adding that “Airport operations remain unaffected and customer parking services continue to operate normally.” Out of an abundance of caution, MAG has temporarily suspended its online “Manage My Booking” service and is instead directing travelers to use its phone line. MAG is the UK’s largest airport operator, and owner of Manchester, London Stansted and East Midlands airports, which together handle over 66 million passengers yearly. The company employs 40,000 people and generates annual revenue of £1.5 billion . After discovering the intrusion, MAG says that it moved quickly to contain it, restricting access to the affected systems, engaging with external experts, and notifying law enforcement. Potentially exposed customers are advised to remain alert for suspicious communications and avoid clicking on links arriving via email or SMS. MAG stresses that it will never ask customers for payment card information, banking details, or passwords. Customers should reject and report to the authorities any attempts to obtain personal, financial, or other sensitive information. People are also encouraged to follow NCSC’s post-breach recommendations to stay safe. The company says it has contacted impacted customers directly, but did not disclose the number of affected individuals. Local media reported that data of up to 8.9 million travelers may have been exposed, citing private MAG statements; however, BleepingComputer has not been able to confirm the figure. At the time of writing, no ransomware or data extortion groups have claimed the attack publicly. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. LACMA data breach last year exposed social security and medical data Sakura Internet hack exposes data of up to 1.36 million accounts Healthtech firm CareCloud data breach impacts 3.7 million patients SafePal data breach impacts 39,798 customers, stolen info for sale Data breach at medical billing firm MCBS affects 1.26 million people Ubiquiti patches three max severity security vulnerabilities Police arrests dozens of suspects in global cybercrime crackdown Massive DDoS attack disrupts Norway’s government digital services Discover how least agency keeps your AI tools capable, controlled, and secure. Overdue a password health-check? Audit your Active Directory for free AI-driven vulnerability discovery is accelerating. See how Action1 helps remediation keep pace. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Learn how ESET MDR can enhance your organization’s security posture Discover why encryption and key management are critical for modern business. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/",
-    "target": "Manchester Airports Group",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/"
-      }
-    ]
-  },
-  {
-    "id": "fb788faee0c9c379",
-    "date": "2026-08-27T16:06:59+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "GitLab Fixes Claude AI Agent Flaw That Could Execute Arbitrary Commands in CI Pipeline",
-    "summary": "GitLab has released security updates to fix a high-severity vulnerability in its Duo Claude AI agent that could allow authenticated developers to execute arbitrary commands within CI pipeline contexts. The flaw, tracked as CVE-2026-18252, affects GitLab Enterprise Edition installations and carries a CVSS score of 7.3. The company issued patched versions GitLab 19.3.1, 19.2.5, and […] The post GitLab Fixes Claude AI Agent Flaw That Could Execute Arbitrary Commands in CI Pipeline appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "GitLab has released security updates to fix a high-severity vulnerability in its Duo Claude AI agent that could allow authenticated developers to execute arbitrary commands within CI pipeline contexts.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/gitlab-fixes-claude-ai-agent-flaw/",
-    "target": "GitLab Fixes Claude Agent",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/gitlab-fixes-claude-ai-agent-flaw/"
-      }
-    ]
-  },
-  {
-    "id": "def710526924ad70",
-    "date": "2026-08-27T16:03:24+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "TP-Link Kasa Smart Home Devices Vulnerability Allows Attackers to Disrupt Device Functionality",
-    "summary": "TP-Link has disclosed a high-severity vulnerability affecting multiple Kasa smart home devices that could allow attackers on the same local network to intercept, replay, or forge device-control commands. Tracked as CVE-2026-76784, the flaw can lead to unauthorized changes to device state, disruption of normal functionality, or denial-of-service conditions. The security advisory, last updated on August […] The post TP-Link Kasa Smart Home Devices Vulnerability Allows Attackers to Disrupt Device Functionality appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "TP-Link has disclosed a high-severity vulnerability affecting multiple Kasa smart home devices that could allow attackers on the same local network to intercept, replay, or forge device-control commands.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/tp-link-kasa-smart-home-devices-vulnerability/",
-    "target": "TP-Link Kasa Smart Home",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/tp-link-kasa-smart-home-devices-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "7bb4215b10bc2234",
-    "date": "2026-08-27T16:00:00+00:00",
-    "source": "Microsoft Security Blog",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "​​​​​​What’s new in Microsoft Security: August 2026",
-    "summary": "This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments. The post ​​​​​​What’s new in Microsoft Security: August 2026 appeared first on Microsoft Security Blog .",
-    "article_text": "",
-    "quick_summary": [
-      "This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/",
-    "target": "Whats Microsoft",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Microsoft Security Blog"
-    ],
-    "links": [
-      {
-        "source": "Microsoft Security Blog",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/"
-      }
-    ]
-  },
-  {
-    "id": "b6f8fd09b984ddf7",
-    "date": "2026-08-27T15:30:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Finland appeals court revives case against Eagle S Officers over cable breaks",
-    "summary": "The appeals court sent the case back to the Helsinki District Court to be heard on its merits, although the three men, who had previously been detained in Finland, have since left the country.",
-    "article_text": "",
-    "quick_summary": [
-      "The appeals court sent the case back to the Helsinki District Court to be heard on its merits, although the three men, who had previously been detained in Finland, have since left the country.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/finland-appeals-court-revives-case-against-eagle-s",
-    "target": "Finland Eagle Officers",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/finland-appeals-court-revives-case-against-eagle-s"
-      }
-    ]
-  },
-  {
-    "id": "97d3914a6d115369",
-    "date": "2026-08-27T15:13:00+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-    "summary": "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the other through a path traversal flaw affecting servers that use a Windows filesystem. The Windows path traversal, tracked as CVE-2026-75604&",
-    "article_text": "Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the other through a path traversal flaw affecting servers that use a Windows filesystem. The Windows path traversal, tracked as CVE-2026-75604 (CVSS score: 9.0), affects Next.js applications that use both the Pages Router and App Router without Cache Components when the server uses a Windows filesystem. \"There is no known workaround for affected windows-hosted applications. You should upgrade immediately if your server is hosted on Windows,\" Vercel said in its advisory . The fixes are available in Next.js 15.5.24 (Maintenance LTS) and 16.3.3 (Active LTS), published on August 25, 2026. Affected users can upgrade by running npm install next@15.5.24 for the 15.5 line or npm install next@16.3.3 for the 16.3 line. Applications hosted on Vercel are protected from both vulnerabilities and require no upgrade, Vercel said in a changelog entry published August 25. The vulnerability affects Next.js versions 13.4 through 15.5.23 and versions 16.0 through 16.3.2. The attack mechanism was not disclosed in the advisory. Vercel's changelog also credited the researchers evolutionstorm and B0RI with the responsible disclosure of the Windows vulnerability. Next.js uses the sharp image processing package to optimize images, and sharp relies on the libheif C library to parse AVIF files. A critical heap buffer overflow in libheif can lead to remote code execution when Next.js processes an attacker-controlled AVIF image ( GHSA-2xp9-vwfh-vxw4 , CVSS v4: 9.5). The underlying vulnerability, disclosed by the libheif maintainers as GHSA-g89c-p67h-r497 , involves a heap buffer overflow in the library's image scaling code. All libheif versions through v1.23.1 are affected. The AVIF advisory covers Next.js versions 10.0.0 through 15.5.23 and all 16.x releases through 16.3.2. A crafted AVIF file that contains nested identity-derivation and auxiliary item references causes libheif to build a decoded image with two Alpha plane entries at different bit depths. The scaler allocates a destination buffer sized for the first, 8-bit Alpha entry but then writes 16-bit sample values from the second entry into that same buffer, overwriting approximately 16,384 bytes past the allocation boundary. The researchers credited in the advisory, rootxharsh as Finder and KarimPwnz as Coordinator, released a full Python proof-of-concept alongside the libheif disclosure that reproduces the heap corruption under an address sanitizer build. The libheif advisory credited rootxharsh as Finder and KarimPwnz as Coordinator, but Vercel's changelog attributed the disclosure to the Hacktron team . \"We were able to get RCE using this on multiple applications,\" the researchers said in the libheif advisory . The proof-of-concept demonstrates the out-of-bounds write, and the researchers' claim of remote code execution on multiple applications has not been independently corroborated. Next.js enables AVIF optimization only when a site explicitly adds image/avif to the formats configuration in next.config.js. Deployments without that configuration are not exposed to this flaw. The patched Next.js releases turn off AVIF optimization entirely until the upstream fix propagates from libheif. The Hacker News confirmed on August 27, 2026, via the libheif GitHub releases page that v1.23.2 had not been published. Vercel had scheduled the August patches for August 26 as part of its monthly security cadence, but moved the release forward by one day after discovering an additional critical-severity vulnerability in one of its upstream dependencies. \"Earlier today, we moved the release forward after identifying an additional critical severity vulnerability in one of our upstream dependencies,\" Josh Story, Karim Rahal, and Sebastian Silbermann said in Vercel's security blog post . The August release is the second under Vercel's formal monthly security program, which the company announced in July 2026. \"The volume of vulnerability research across the industry is rising fast, driven by LLM-assisted discovery,\" Andrew Imm and Josh Story said in the July 13 program announcement . The first scheduled release , published on July 21, addressed nine vulnerabilities in Next.js 16.2.11 and 15.5.21, covering denial-of-service, server-side request forgery, and middleware bypass classes. U",
-    "quick_summary": [
-      "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially craft",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-    "target": "Next.js Patches Critical AVIF",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html"
-      }
-    ]
-  },
-  {
-    "id": "11ae8c0320b49f1f",
-    "date": "2026-08-27T14:45:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Chinese and Russian spies stepping up cyberattacks, German companies report",
-    "summary": "Foreign intelligence services, particularly those from China and Russia, are increasingly behind cyberattacks on German companies, according to a new survey of the country’s private sector.",
-    "article_text": "",
-    "quick_summary": [
-      "Foreign intelligence services, particularly those from China and Russia, are increasingly behind cyberattacks on German companies, according to a new survey of the country’s private sector.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/germany-cyberattacks-china-russia",
-    "target": "Chinese Russian German",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/germany-cyberattacks-china-russia"
-      }
-    ]
-  },
-  {
-    "id": "d1da9663016491e5",
-    "date": "2026-08-27T14:17:26+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear",
-    "summary": "The White House’s new executive order 14420 widens scrutiny of industrial control systems over cyber sabotage concerns. The post Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The White House’s new executive order 14420 widens scrutiny of industrial control systems over cyber sabotage concerns.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/",
-    "target": "Trump Order Aims Block",
-    "type": "Malware",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/"
-      }
-    ]
-  },
-  {
-    "id": "473f1f37a2b199cb",
-    "date": "2026-08-27T14:00:10+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
-    "summary": "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, and human expertise can help SMBs strengthen their defenses. [...]",
-    "article_text": "Corporate IT and security teams have the unenviable task of keeping relentless and increasingly sophisticated adversaries at bay. They’re often faced with limited resources and expanding attack surfaces, but recruiting and retaining top-tier security professionals to run an in-house Security Operations Centre (SOC) is out of reach for many organizations. At the same time, threats continue to evolve and adversaries hone their techniques, leading to incidents that often grind business operations to a halt. To avoid being caught on the back foot, defenders need an approach that’s proactive and combines prevention, detection, remediation with accurate and timely threat intelligence. If building that capability in-house is impractical, then renting or buying it as a service is a more realistic option. This isn’t a new concept, of course – smaller organizations have enjoyed the benefits of new IT innovations for decades through bureaux, managed services providers and cloud computing. There’s a strong argument to be made for doing the same with advanced cybersecurity services, and this where Managed Detection and Response (MDR) can make a major impact. MDR gives organizations a proactive, expert-driven and scalable threat monitoring and hunting capability, without the cost of an elite SOC. Not so long ago, an MDR was expensive and complex – if less so than a dedicated in-house set-up. It’s now increasingly practical for smaller organizations to consider, too. In a recent conversation, Director of ESET Threat Research Jean-Ian Boutin discussed the work of his team and how threat research and intelligence feed into MDR workflows. He also shared where the combination of cutting-edge technology and human expertise provides the most practical value, especially for SMB environments. What do most small business users gain from ESET Threat Research ? How does that change when they use ESET MDR? ESET has a threat research team spread across multiple regions; I’m with the team in Montreal, but we have researchers spread across Europe and in the US, too. There’s stuff everyone can see: our publications on WeLiveSecurity , and talks and presentations at cybersecurity conferences worldwide. Then there are things that only ESET business customers get: all kinds of “tips and tricks”; that is, information about threat actors: what they’re doing, how they’re operating – all things that help our customers stay safe. When it comes to managed detection and response , threat intelligence is a key component that helps our detection and response team understand how the various threat actors are operating and how they can use that information to protect our customers from breaches. What if your security team had the backing of global threat researchers? ESET MDR is powered by world-class threat intelligence and security experts who help uncover attacker tactics, investigate suspicious activity, and respond quickly when threats emerge. You talked a bit about the tip of the iceberg – all of the back end of MDR that users rarely see, but that is absolutely critical. Could you explain that? The various alerts that might be occurring in your console will sometimes be endpoint detections that we want to investigate. And my team is responsible for making sure that all the new samples and threats are being handled and detected in customer environments. So part of the team's role is really to make sure that all these new trends, all these new samples are looked at, investigated and then detected on our customers’ premises. This is one of the key aspects. We take great care in organizing threat intelligence data on e-crime, ransomware, APT groups, and nation-state actors targeting global organizations. Our researchers use these insights to link new breaches with past cases. They assess the severity of the breach as well, and we can also assess what could be the purpose behind the attack. It really gives the customer a complete view into what might have happened, whether or not a breach happened, or even the specific group that targeted them. What does MDR add on top of existing ESET endpoint protection? MDR is more tailored, and the relationship with the customer is improved and increased. But the output of my team is distributed across the entire product set. There’s been some talk of ESET private reports recently: how relevant are they to what most small and midsize businesses face? Are they facing targeted attacks? What about nation-state actors? The thr",
-    "quick_summary": [
-      "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
-    "target": "Threat Research MDR Help",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/"
-      }
-    ]
-  },
-  {
-    "id": "8f3461787d1c65fd",
-    "date": "2026-08-27T14:00:00+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Android 17 adds ECH support to make web browsing harder to track",
-    "summary": "Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users' home networks. [...]",
-    "article_text": "Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users’ home networks. Android 17 adds support for Encrypted Client Hello (ECH), a new privacy standard that operates in conjunction with private DNS to hide profiling metadata, including visited domain names. ECH acts as a privacy extension for TLS , the protocol that secures HTTPS connections, encrypting the opening part of the TLS handshake that reveals the contacted hostname via the Server Name Indication (SNI). Even if the connection to a website or service is secure, internet service providers (ISPs) and Wi-Fi operators can still see the destination, which can be collected for commercial profiling purposes. Android users benefit from ECH when browsing with Chrome 117 and later or Firefox 119 and later, but Android 17 incorporates the protection at the platform level. “This new privacy standard works in tandem with private DNS to obscure the domain names you visit, hiding metadata that can be used to profile you,” reads Google’s announcement . “By encrypting the destination website name from the very start, ECH helps ensure that, for supported websites and apps, network providers and network snoopers can no longer easily see which websites or apps you are accessing.” ECH will be enabled by default for apps targeting Android 17, provided they use a compatible networking library, such as the latest versions of OkHttp, WebView, or HttpEngine. Google explains that, on servers that support ECH, Android will now encrypt the hostname. On servers that don’t support the protection system, Android will send a fake ECH-looking field, called ECH GREASE, so real ECH connections don’t stand out, though the hostname is still visible. Jigsaw, Google’s internet privacy and anti-censorship technology unit, tested ECH GREASE against the top 10,000 domains and across 740 internet providers in 202 countries, finding no site-loading issues or unexpected network blocks. Beyond rolling out broader support for ECH on Android, Google also announced a few more important network protections that improve user security and privacy through their combined use. The first is adjustments to Local Network Protection that now require apps to obtain permission before scanning for or connecting to devices on the user’s local network. The second is that Android 17 now enables Certificate Transparency by default, requiring website certificates to appear in public logs, hence making the use of forged certificates more evident. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. ToxicPanda Android malware uses VPN permissions to block Google Play New Manic Android malware can exfiltrate data through nearby devices Android malware combo takes out loans and relays victims' credit cards Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse RedHook Android malware now uses Wireless ADB for shell access Ubiquiti patches three max severity security vulnerabilities Police arrests dozens of suspects in global cybercrime crackdown Microsoft Teams now lets admins block external bots from meetings Overdue a password health-check? Audit your Active Directory for free Discover how least agency keeps your AI tools capable, controlled, and secure. Protect yourself from data brokers, scammers, and the next data breach with digital identities. Discover why encryption and key management are critical for modern business. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Learn how ESET MDR can enhance your organization’s security posture Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users' home networks.",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
-    "target": "Android ECH",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/"
-      }
-    ]
-  },
-  {
-    "id": "e7ab6c7becbf67ab",
-    "date": "2026-08-27T13:39:56+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-    "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The security flaw, which does not have a CVE identifier, works against Kiro IDE 0.7.45 on Windows, according to Mindguard. The latest version of",
-    "article_text": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The security flaw, which does not have a CVE identifier, works against Kiro IDE 0.7.45 on Windows, according to Mindguard. The latest version of the IDE is 1.0.337. \"The issue allowed attacker-controlled repository content to influence the Kiro agent and ultimately cause sensitive local information to be transmitted to an external endpoint,\" security researcher Fergal Glynn said in a report shared with The Hacker News. Kiro Powers goes beyond skills by bundling Model Context Protocol (MCP) server configurations, steering files (\"POWER.md\"), hooks, and contextual knowledge. The steering file is like an \"onboarding manual\" that provides persistent context and tells the AI agent what MCP tools are available and when to use them. According to Mindguard, successful exploitation requires two user actions: the user has to open the malicious project through a workspace file using File → Open Workspace From File rather than opening the folder directly and then send a message to the agent. The vulnerability is reproducible against both trusted and untrusted workspaces. Once these conditions are satisfied, sensitive workspace data can be exfiltrated to the attacker \"without the user explicitly requesting that Kiro access or transmit\" it. The exploitation difficulty has been assessed as low. What makes this flaw notable is that the user does not have to submit a malicious prompt or reference the attacker-controlled content. Once the crafted workspace file is opened, sending any message is enough to trigger the vulnerable flow. \"The vulnerability appears when attacker-controlled project content is interpreted as instructions, and those instructions are allowed to influence security-sensitive operations elsewhere in the IDE,\" Mindguard said. \"The trust boundary failure occurs across the entire sequence. Repository-controlled content influences the agent, the agent reads sensitive local information, the agent writes that information into security-relevant IDE configuration, and a subsequent IDE capability turns the modified configuration into network activity.\" As AI development environments increasingly bring interpretation and execution together within the same workflow, repository files can be used to provide context to a model, while the agent can read files, invoke tools, and activate other functionality in the application, potentially leading to trust boundary failures. Following responsible disclosure, a fix for the flaw was implemented by Amazon in Kiro IDE version 0.8.140. The vulnerability also builds upon a previous bug highlighted by Mindguard that allowed steering-file directives to cause local information to be incorporated into a Markdown image request and transmitted to an external server. \"By carefully crafting a steering file to read a local file and render a Markdown image, an attacker can coerce the AI to send sensitive data to an external server,\" Mindguard noted at the time. This is not the first time vulnerabilities have been disclosed in Kiro. In June 2026, Amazon addressed an insufficient access control flaw ( CVE-2026-10591 , CVSS score: 8.8) that could have enabled a remote unauthenticated actor to execute arbitrary commands via crafted instructions that cause writes to execution-sensitive paths, such as \".vscode/tasks.json\" or \"~/.kiro/settings/mcp.json,\" and facilitate auto-execution on folder open. \"By planting hidden instructions in a web page Kiro reads, an attacker can make Kiro rewrite its own MCP (Model Context Protocol) server configuration file and gain arbitrary code execution on the developer's machine,\" Intezer said . \"No suspicious approval prompt is ever shown to the user. All the developer asked Kiro to do was perform a legitimate action.\" The findings also come against the backdrop of a number of security issues discovered in AI tools - \"The Kiro findings expose a problem that extends beyond one IDE or one disclosure program,\" Mindguard said. \"AI vulnerabilities can emerge from interactions between model interpretation, application logic, tools, configuration, and external resources, making them difficult to evaluate using disclosure processes designed around more clearly defined software defects.\" \"As AI systems gain more tools and interac",
-    "quick_summary": [
-      "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via p",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-    "target": "Amazon Kiro Prompt Injection",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html"
-      }
-    ]
-  },
-  {
-    "id": "76572ea798d00aab",
-    "date": "2026-08-27T13:31:13+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
-    "summary": "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
-    "article_text": "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. TeamPCP is a hacking group known for widespread supply-chain attacks over the past year that targeted open-source software and developer platforms to steal credentials, authentication secrets, and source code. High-profile attacks attributed to TeamPCP have impacted Trivy , LiteLLM , Telnyx , SAP , and TanStack packages, while the group has also breached the European Commission , Mistral AI , OpenAI , and GitHub . To carry out their attacks, the threat actors injected malicious code into software hosted on open-source repositories, which developers then unknowingly incorporated into their own applications on systems used by government, academic, and private-sector organizations. Rather than a cohesive group, the malicious activity is believed to have been carried out by a loose-knit collective of threat actors who all frequent the same hacking forums, Discord servers, and Telegram channels. According to the Australian Federal Police (AFP), the FBI, and Western Australia Police, malicious code distributed by TeamPCP has potentially compromised over a thousand organizations worldwide, enabling the theft of half a million credentials and the exfiltration of at least 300GB of data. \"The alleged compromise of a small number of trusted software components had a significant global impact,\" reads the AFP announcement . \"To date, the financial impact includes global remediation costs estimated to be hundreds of millions of dollars.\" The investigation began in April 2026, after the AFP and FBI received key information from cybersecurity firms. The two men, aged 21 and 23, were arrested in the western Australian cities of Cottesloe and Mandurah on August 26, 2026. During the law enforcement action, investigators also seized electronic devices and other evidence for forensic analysis. Police allege the two men received an undisclosed amount in cryptocurrency payments for their involvement in TeamPCP operations. After the arrests were announced, both Flare and Brian Krebs published separate investigations detailing how Telegram activity, reused aliases, accounts, and other online traces linked alleged TeamPCP members to real-world identities. The two suspects now face a combined 14 charges related to possessing and supplying data for computer offenses and modifying data to facilitate serious crimes. The younger of the two also faces charges for allegedly dealing with at least $100,000 in criminal proceeds and failing to comply with an order requiring access to electronic data. The charges carry maximum penalties of 3 to 20 years' imprisonment per charge. The AFP said further arrests or charges have not been ruled out at this stage, as it examines seized evidence. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Police seize “First VPN” service used in ransomware, data theft attacks Ukraine shuts down 94 fraudulent call centers, seize millions in cash Dutch police bust investment fraud ring stealing over €100 million Spanish Police take down €140 million cyber fraud ring, arrest four Ubiquiti patches three max severity security vulnerabilities Police arrests dozens of suspects in global cybercrime crackdown Microsoft Teams now lets admins block external bots from meetings Discover how least agency keeps your AI tools capable, controlled, and secure. Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Discover why encryption and key management are critical for modern business. Overdue a password health-check? Audit your Active Directory for free Learn how ESET MDR can enhance your organization’s security posture Protect yourself from data brokers, scammers, and the next data breach with digital identities. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
-    "target": "Australia TeamPCP",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer",
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/"
-      },
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/australia-teampcp-hackers-arrested"
-      }
-    ]
-  },
-  {
-    "id": "2ab6a7d53a17f29c",
-    "date": "2026-08-27T13:15:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Cyberattack on Manchester Airports Group exposes data of 8.7 million customers",
-    "summary": "A spokesperson told The Yorkshire Post that roughly 8.7 million people were impacted, although they did not provide a date range. They added that in the “vast majority” of cases, the only information accessed was an email address.",
-    "article_text": "",
-    "quick_summary": [
-      "A spokesperson told The Yorkshire Post that roughly 8.7 million people were impacted, although they did not provide a date range.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/cyberattack-on-manchester-airports-group-exposes-millions-customer-info",
-    "target": "Cyberattack Manchester Airports Group",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/cyberattack-on-manchester-airports-group-exposes-millions-customer-info"
-      }
-    ]
-  },
-  {
-    "id": "049ceee0f25ea2fb",
-    "date": "2026-08-27T12:48:03+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Australia Arrests 2 Alleged TeamPCP Hackers",
-    "summary": "Australian and US authorities collaborated to identify and charge the alleged cybercriminals, who face many years in prison. The post Australia Arrests 2 Alleged TeamPCP Hackers appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Australian and US authorities collaborated to identify and charge the alleged cybercriminals, who face many years in prison.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/",
-    "target": "Australia Arrests Alleged TeamPCP",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/"
-      }
-    ]
-  },
-  {
-    "id": "36b15a778b29774e",
-    "date": "2026-08-27T12:16:32+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
-    "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
-    "article_text": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. On impacted PCs, users reported games crashing or failing to launch, as well as game freezes, \"EXCEPTION_ACCESS_VIOLATION\" errors, and even unexpected system restarts. When it confirmed it was investigating this known issue on Wednesday, Microsoft said it affects games like ARC Raiders, MARVEL Tōkon: Fighting Souls, and The Finals on systems running Windows 11 24H2 and 25H2. \"Following the release of Windows updates on August 11, 2026 (KB5121003) and later, Microsoft received reports of issues involving inability to run games as expected,\" Microsoft noted. In a Thursday update, the company linked the gaming issues to drivers or components installed by RGB devices on affected Windows systems. \"Ongoing investigation indicates that this issue is related to peripherals or internal device components which have RGB lighting features. Such devices may install drivers or code components with file names similar to inpoutx64. In systems where these drivers are found, the issue is then triggered by launching certain games,\" it said . \"We are presently working to understand the relationship between these RGB components and the games which trigger this issue. We will provide an update when more information is available.\" Embark Studios, the Swedish video game developer behind The Finals and ARC Raiders, confirmed Microsoft's conclusion that inpoutx64.sys causes these issues, but also added that they stem from changes made to the Windows kernel driver. Microsoft has now shared a temporary fix until it resolves the issue, which requires gamers to disable the inpoutx64 driver using the Windows Registry. It's also important to back up the registry , because you may need to undo the changes after Microsoft resolves this bug in a future update. To disable the driver from the registry, you have to go through the following steps: \"Please note, it is possible that disabling this registry key can result in unintended behavior, such as issues with RGB features on peripherals or components, or issues with the software used to control RGB features,\" Microsoft warned. \"If you experience such issues and want to restore that functionality, you may re-enable the driver by restoring the registry key to its previous value.\" Microsoft also asked gamers experiencing these issues to file a report via the Feedback Hub app, and said that it's still working to understand the relationship between the games that trigger these issues and these RGB components. This isn't the first time Microsoft has addressed gaming stability and performance issues caused by Windows updates. For instance, it removed several upgrade blocks that prevented players of Asphalt 8: Airborne, Star Wars Outlaws, Assassin's Creed, and Avatar: Frontiers of Pandora from upgrading their Windows devices to the latest version. Most recently, it lifted another compatibility hold after fixing a bug in the Auto HDR Windows feature that was breaking some games on Windows 11 24H2 devices. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft blames Windows gaming issues on RGB lighting devices Microsoft says August Windows updates may cause gaming issues Microsoft fixes known issue causing Windows Defender crashes Windows KB5121767 OOB update fixes shutdowns on some Dell PCs Microsoft: Some Dell PCs shut down after recent Windows updates Hundreds of leaked AWS keys give full control over corporate accounts Microsoft patches max severity code execution, privilege escalation flaws Microsoft rolls out Classic Outlook theme for New Outlook users Signature-based prevention fell to 50%. See what your controls still stop. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Protect yourself from data brokers, scammers, and the next data breach with digital identities. Discover how least agency keeps your AI tools capable, controlled, and secure. Certighost CVE is new. The privilege behind it isn't. Discover where yours is hiding. See how AI is reshaping email attacks. Download the 2026 Kaseya Email Security Report. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices.",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
-    "target": "Microsoft Windows",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/"
-      }
-    ]
-  },
-  {
-    "id": "d7bcf5da7e466b38",
-    "date": "2026-08-27T11:58:01+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack",
-    "summary": "New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels. The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/",
-    "target": "OpenAI Agents Coordinated Makeshift",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/"
-      }
-    ]
-  },
-  {
-    "id": "1caecebfb9f11f85",
-    "date": "2026-08-27T11:56:30+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-    "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle. The challenge is no longer just finding another vulnerability or",
-    "article_text": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle. The challenge is no longer just finding another vulnerability or generating another alert. It is knowing which exposures matter, what an attacker can reach, and which issues need to be fixed first. That is the focus of next week's webinar, How to Build AI Threat Readiness Across Your Security Operations , featuring an expert from Wiz. The session will show how security teams can improve visibility, prioritize real risk, and shorten the path from detection to remediation. Most security teams already have plenty of data. They have vulnerability findings, cloud alerts, identity signals, application telemetry, and threat detections. The harder problem is connecting those signals quickly enough to answer the questions that drive action. Is this vulnerability reachable? Does the exposed asset contain sensitive data? Can an attacker move from it to something more important? Who owns the affected system? What should be fixed first? When those answers live across different tools and teams, investigations slow down. That delay matters more when attackers can automate parts of the discovery and exploitation process. The webinar focuses on two practical needs: broad visibility and faster action. Security teams need enough context to understand risk across cloud infrastructure, code, identities, SaaS, AI services, and the software supply chain. They also need a way to identify exploitable paths, investigate suspicious activity, and deliver remediation to the right owner without having to rebuild the same context every time. A Wiz expert will explain how organizations can use unified security context to separate urgent exposure from background noise, understand attack paths, and bring security agents into investigation and remediation workflows. For SOC teams, that can mean less time spent manually assembling context. For vulnerability management, it means knowing which findings deserve immediate attention. For cloud and security engineering teams, it means connecting risk to the people and systems that can actually fix it. The goal is not to automate every security decision. It is to remove delays caused by fragmented tools, repetitive investigation, and unclear ownership. Attendees will leave with a framework for assessing whether their current security operations are ready for faster, AI-assisted attacks. The key questions are practical: Can you see enough of the environment to understand an attack path? Can you quickly determine whether a new issue affects something attackers can reach? Can you move a validated risk from detection to remediation fast enough? AI is increasing the speed at which weaknesses can be found and used. Security teams need to respond with better context and less delay. AI can find and chain vulnerabilities in minutes. This session gives you a practical roadmap to strengthen visibility, response, and remediation. Learn how to identify exploitable risk faster, prioritize what matters most, and reduce exposure before AI-powered attacks accelerate the threat. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "Security teams have spent years trying to detect threats faster.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-    "target": "Learn Build Operations Ready",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html"
-      }
-    ]
-  },
-  {
-    "id": "49696a8d05652772",
-    "date": "2026-08-27T11:56:26+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
-    "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source security scanners Trivy and Checkmarx KICS and the AI gateway LiteLLM. Louis Michael Gaebler, 23, and Ruben Ian Thomson, 21, appeared in Perth Magistrates Court on August 27,",
-    "article_text": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP , the cybercrime group behind the March 2026 compromise of the open-source security scanners Trivy and Checkmarx KICS and the AI gateway LiteLLM. Louis Michael Gaebler , 23, and Ruben Ian Thomson , 21, appeared in Perth Magistrates Court on August 27, 2026, a day after the AFP and the Western Australia Police Force (WAPF) executed search warrants at properties in Cottesloe, Hamilton Hill, and Mandurah and seized electronic devices for forensic analysis. Police allege the two men were principal participants in the syndicate and received payments in cryptocurrency, the value of which is still under investigation. The Federal Bureau of Investigation (FBI) said in a July 2 advisory that organizations impacted by the campaign should treat exfiltrated data and credentials as a persistent risk, since affiliated threat actors are \"likely to weaponize them long after the initial compromise.\" It advised rotating all continuous integration and continuous delivery (CI/CD) secrets, publishing tokens, and cloud credentials accessible during the exposure windows. FBI Cyber Division Assistant Director Brett E. Leatherman said in a joint media release that the two men are allegedly members of TeamPCP, whose malicious code \"potentially compromised more than a thousand organizations worldwide.\" The Cottesloe man, 21, was charged with one count of possessing data with intent to commit a computer offence, four counts of unauthorized modification of data with intent to commit a serious offence, one count of supplying data with intent to commit a computer offence, one count of failing to comply with a section 3LA order, and one count of dealing with proceeds of crime worth $100,000 or more. The Mandurah man, 23, was charged with one count of possessing data with intent, four counts of unauthorized modification of data with intent to commit a serious offence, and one count of supplying data with intent to commit a computer offence. The section 3LA count, brought under the Crimes Act 1914 (Cth), carries a maximum penalty of 10 years' imprisonment, and the proceeds of crime count carries a maximum of 20 years. None of the 14 charges names a specific compromised project. The syndicate worked by stealing publishing credentials from trusted open-source projects and pushing poisoned versions out through the projects' own release channels. The campaign spanned five distribution ecosystems, GitHub Actions, Docker Hub, npm, PyPI, and OpenVSX. The compromise of one project supplied the credentials used against the next. Credentials taken during the Trivy scanner compromise were turned on the Checkmarx KICS actions days later. LiteLLM's own build pipeline installed Trivy without pinning it to a verified version. The poisoned scanner then took the project's publishing token. The actor used that token to push the backdoored LiteLLM releases in late March. LiteLLM routes requests across large language model (LLM) providers, and sits where an organization's provider keys are consolidated. The AFP said the malicious code potentially compromised more than 1,000 organizations globally, enabled the theft of more than 500,000 credentials, and led to the exfiltration of at least 300 gigabytes of data. Unit 42 published the same two figures in March, hedged as what the actor \"may have exfiltrated.\" CloudSEK and Hudson Rock published the August exposure figures for the same campaign, with CloudSEK putting reconstructed exposure at more than 2,500 organizations and roughly 434,000 CI/CD pipelines, and Hudson Rock attributing 118,829 CI runner dumps to 2,488 corporate domains from a 153GB archive of the attackers' own exfiltrated data. CloudSEK said credential theft is not proof that a company was successfully compromised, and the confirmed victim count is the 16 organizations TeamPCP published on its leak site as of late March. StepSecurity said its analysis of the CloudSEK dataset found GitLab led the affected platforms with 1,064 organizations, ahead of GitHub Actions on 618, Azure DevOps on 233, Jenkins on 105, Bitbucket Pipelines on 94, and CircleCI on 15. The Hacker News confirmed via PyPI on August 27 that the two malicious LiteLLM builds no longer appear in the package's release history, and that both still return HTTP 200 from PyPI's content delivery network at their direct package URLs five months after removal",
-    "quick_summary": [
-      "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
-    "target": "Alleged TeamPCP Charged Australia",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html"
-      }
-    ]
-  },
-  {
-    "id": "5225ccb2596fb889",
-    "date": "2026-08-27T11:53:10+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security",
-    "summary": "The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities. The post Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/",
-    "target": "Okta Shares Surge Strong",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/"
-      }
-    ]
-  },
-  {
-    "id": "c383219f86e5818b",
-    "date": "2026-08-27T11:30:00+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "What the Data Says About AI in Security Operations in 2026",
-    "summary": "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use AI daily. Another 56% are currently testing it out, and only 4% have no plans to adopt it. For the teams already using AI, what is actually changing? Here are the ten biggest",
-    "article_text": "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use AI daily. Another 56% are currently testing it out, and only 4% have no plans to adopt it. For the teams already using AI, what is actually changing? Here are the ten biggest takeaways from the report. The average security team gets about 100 alerts every day, but larger companies often deal with close to 1,000. In fact, over a quarter of teams face more than 500 alerts daily. Unfortunately, team sizes haven't kept up with the workload. While some massive organizations have over 100 analysts, many are running on skeleton crews of fewer than ten people. Because of this, it takes an average of 75 minutes to thoroughly investigate a single alert, and alerts often sit untouched for nearly an hour before anyone even looks at them. When attackers can break out and start moving through a network in 29 minutes, a two-hour cycle from alert to answer stops being an efficiency problem and becomes a containment problem. Analysts are feeling the strain from high volume, slow alert triage , and constant noise. Because teams are so overwhelmed, about 28% of alerts are never investigated. This has very real consequences: 60% of respondents admitted that an alert they ignored or missed later turned into a serious issue, like a data breach or system downtime. For a third of those respondents, this happened three or more times last year. And the problem is actually worse than the numbers show. Up to 40% of organizations have simply turned off certain security alerts because they didn't have the manpower to check them. Tuning away a rule that never produces an escalation is sound detection engineering. Switching one off because nobody has time to read what it produces narrows coverage exactly where the team cannot afford to look, which means the real alert load and the real exposure are both bigger than the reported numbers. More than half (56%) of security pros saw AI-driven attacks increase over the past year, especially in the finance and healthcare industries. The most common threats are AI-written phishing emails, deepfake audio and video scams, massive credential-stuffing attacks, and AI-generated malware. For the first time, both securing AI systems and using AI for security are top priorities, beating out traditional concerns like cloud and data security. The drivers teams name are operational: faster response times (73%), better detection coverage (71%), doing more with the same team (56%), and less analyst burnout (37%). For teams using AI, it's delivering real results. Nearly three-quarters (72%) say AI has cut their investigation time by at least 25%, which works out to roughly 25 minutes back on every alert. Teams are also seeing better 24/7 coverage, fewer false alarms, and more time for analysts to focus on higher-level work. Most AI users (72%) tried to build their own internal AI tools, and for a lot of teams the question of whether you can build an autonomous SOC in-house is still open. Building brought no speed advantage: teams that attempted a build reported investigation-time gains of 25% or more at the same rate as AI users overall (73% versus 72%). Durability is where they differed. Almost half (46%) of these DIY projects were eventually abandoned, never reached production, or were replaced by a commercial product. Security teams generally trust AI, but with limits. While most say AI's conclusions match a human expert's opinion most of the time, 57% still require a human to review every single AI decision before closing an alert. Because of this, AI mostly acts as an assistant. Most teams (44%) use it to recommend actions for humans to execute, and 30% let it handle low-risk automated remediation on its own. Not one respondent grants AI full, unsupervised autonomy. When AI frees up time, teams use it to actively hunt for hidden threats. About half of the teams hunt regularly, and it pays off: 38% have found malicious activity that their automated tools missed. Teams that hunt weekly or more report a 49% hit rate, against 8% for teams that never hunt. Despite fears of AI replacing humans, 57% of respondents expect their team size to stay the exact same, and 9% even expect it to grow. Instead of firing people, companies are shifting roles. As AI takes over basic triage, human analysts are moving into m",
-    "quick_summary": [
-      "AI is officially mainstream in security operations.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
-    "target": "Data Operations",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html"
       }
     ]
   }
