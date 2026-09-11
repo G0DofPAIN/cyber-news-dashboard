@@ -1,7 +1,41 @@
 [
   {
+    "id": "5d71c79d5a435e53",
+    "date": "2026-09-11T18:40:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft sees some new wrinkles in invoice-scam emails",
+    "summary": "Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI.",
+    "article_text": "",
+    "quick_summary": [
+      "Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers",
+    "target": "Microsoft",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "The Record",
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/microsoft-vishing-on-employee-personal-phones-to-breach-m365"
+      }
+    ]
+  },
+  {
     "id": "7553325b69dae30c",
-    "date": "2026-09-11T14:25:43.292334+00:00",
+    "date": "2026-09-11T18:32:16.927165+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +64,7 @@
   },
   {
     "id": "fd34f510b1c61935",
-    "date": "2026-09-11T14:25:43.292233+00:00",
+    "date": "2026-09-11T18:32:16.927070+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +93,7 @@
   },
   {
     "id": "7c4643ab2ca48857",
-    "date": "2026-09-11T14:25:43.292130+00:00",
+    "date": "2026-09-11T18:32:16.926976+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +122,7 @@
   },
   {
     "id": "b1e13d20d2109739",
-    "date": "2026-09-11T14:25:43.292024+00:00",
+    "date": "2026-09-11T18:32:16.926873+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +151,7 @@
   },
   {
     "id": "9b42b172ac0cad24",
-    "date": "2026-09-11T14:25:43.291902+00:00",
+    "date": "2026-09-11T18:32:16.926767+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +180,7 @@
   },
   {
     "id": "b5d1a0879c19da19",
-    "date": "2026-09-11T14:25:43.291798+00:00",
+    "date": "2026-09-11T18:32:16.926678+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,37 +208,8 @@
     ]
   },
   {
-    "id": "74a462d37a8570bd",
-    "date": "2026-09-11T14:25:43.291697+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Adobe Acrobat Reader: DigSig Bug Enables RCE via PDF, Urgent Patch Released CYBERSEC CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/adobe-acrobat-reader-digsig-bug-enables-rce-via-pdf-urgent-patch-released",
-    "target": "Adobe Acrobat Reader",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/adobe-acrobat-reader-digsig-bug-enables-rce-via-pdf-urgent-patch-released"
-      }
-    ]
-  },
-  {
     "id": "7f8baa06afbbd114",
-    "date": "2026-09-11T14:25:43.291600+00:00",
+    "date": "2026-09-11T18:32:16.926586+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +238,7 @@
   },
   {
     "id": "b9c255bcc114c468",
-    "date": "2026-09-11T14:25:43.291507+00:00",
+    "date": "2026-09-11T18:32:16.926502+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +267,7 @@
   },
   {
     "id": "638889a603dc3584",
-    "date": "2026-09-11T14:25:43.291405+00:00",
+    "date": "2026-09-11T18:32:16.926411+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -290,37 +295,8 @@
     ]
   },
   {
-    "id": "096278acbc1c39ad",
-    "date": "2026-09-11T14:25:43.291287+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Microsoft: Vishing on Employee Personal Phones to Breach M365 CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/microsoft-vishing-on-employee-personal-phones-to-breach-m365",
-    "target": "Microsoft",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/microsoft-vishing-on-employee-personal-phones-to-breach-m365"
-      }
-    ]
-  },
-  {
     "id": "6ecc63af11c01942",
-    "date": "2026-09-11T14:25:43.291060+00:00",
+    "date": "2026-09-11T18:32:16.926106+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -348,13 +324,42 @@
     ]
   },
   {
-    "id": "b14ec3a72664a67f",
-    "date": "2026-09-11T14:25:43.290005+00:00",
+    "id": "348a2d1c35901bd6",
+    "date": "2026-09-11T18:32:16.926011+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Conti Ransomware Loader Developer Sentenced to Four Years in U.S. Federal Prison",
+    "title": "IDScan Confirms Breach: 153 Million Driver's Licenses for Sale on Dark Web CYBERSEC EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/idscan-confirms-breach-153-million-drivers-licenses-for-sale-on-dark-web",
+    "target": "IDScan Confirms Breach",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/idscan-confirms-breach-153-million-drivers-licenses-for-sale-on-dark-web"
+      }
+    ]
+  },
+  {
+    "id": "95af809a1e9cc386",
+    "date": "2026-09-11T18:32:16.925152+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ransomware Conti Ransomware Loader Developer Sentenced to Four Years in U.S. Federal Prison Sep 11, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -377,13 +382,42 @@
     ]
   },
   {
-    "id": "db5ae4d0a95a1fa3",
-    "date": "2026-09-11T14:25:43.289830+00:00",
+    "id": "bacbe515177127c8",
+    "date": "2026-09-11T18:32:16.925051+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 2 ZERO-DAY · 8 CVE · 7 EXPLOIT IN THE LAST 24H →",
+    "title": "Brevo breach: 138 accounts compromised, crypto phishing sent from legitimate domains",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/brevo-breach-138-accounts-compromised-crypto-phishing-sent-from-legitimate-domains",
+    "target": "Brevo",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/brevo-breach-138-accounts-compromised-crypto-phishing-sent-from-legitimate-domains"
+      }
+    ]
+  },
+  {
+    "id": "db5ae4d0a95a1fa3",
+    "date": "2026-09-11T18:32:16.924885+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CRITICAL · 1 ZERO-DAY · 4 CVE · 4 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -407,7 +441,7 @@
   },
   {
     "id": "e0d8432f646c7278",
-    "date": "2026-09-11T14:25:42.039643+00:00",
+    "date": "2026-09-11T18:32:15.868814+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -500,7 +534,7 @@
   },
   {
     "id": "35be8652aefbe26e",
-    "date": "2026-09-11T14:25:38.770746+00:00",
+    "date": "2026-09-11T18:32:14.535203+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -529,7 +563,7 @@
   },
   {
     "id": "ee429e2fce62a636",
-    "date": "2026-09-11T14:25:38.770618+00:00",
+    "date": "2026-09-11T18:32:14.535072+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -558,7 +592,7 @@
   },
   {
     "id": "6d3047374fd1bdcf",
-    "date": "2026-09-11T14:25:38.770463+00:00",
+    "date": "2026-09-11T18:32:14.534907+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -587,7 +621,7 @@
   },
   {
     "id": "242fee5359fc7df2",
-    "date": "2026-09-11T14:25:38.770331+00:00",
+    "date": "2026-09-11T18:32:14.534772+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -616,7 +650,7 @@
   },
   {
     "id": "90bed3691e27ca17",
-    "date": "2026-09-11T14:25:38.770233+00:00",
+    "date": "2026-09-11T18:32:14.534673+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -645,7 +679,7 @@
   },
   {
     "id": "d8c2664e5bb683df",
-    "date": "2026-09-11T14:25:38.770130+00:00",
+    "date": "2026-09-11T18:32:14.534569+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -674,7 +708,7 @@
   },
   {
     "id": "52169a3a875e2afb",
-    "date": "2026-09-11T14:25:38.770029+00:00",
+    "date": "2026-09-11T18:32:14.534469+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -708,7 +742,7 @@
   },
   {
     "id": "520fcc6d930148d9",
-    "date": "2026-09-11T14:25:38.769855+00:00",
+    "date": "2026-09-11T18:32:14.534303+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -737,7 +771,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-09-11T14:25:38.769737+00:00",
+    "date": "2026-09-11T18:32:14.534181+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -766,7 +800,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-09-11T14:25:38.769631+00:00",
+    "date": "2026-09-11T18:32:14.534075+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -795,7 +829,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-09-11T14:25:38.769519+00:00",
+    "date": "2026-09-11T18:32:14.533960+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -824,7 +858,7 @@
   },
   {
     "id": "6b0bbec6f46de8eb",
-    "date": "2026-09-11T14:25:38.769389+00:00",
+    "date": "2026-09-11T18:32:14.533824+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -853,7 +887,7 @@
   },
   {
     "id": "18fecdbaea4e7c85",
-    "date": "2026-09-11T14:25:38.769240+00:00",
+    "date": "2026-09-11T18:32:14.533668+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -882,7 +916,7 @@
   },
   {
     "id": "9ac30741d0a75104",
-    "date": "2026-09-11T14:25:38.769129+00:00",
+    "date": "2026-09-11T18:32:14.533549+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -911,7 +945,7 @@
   },
   {
     "id": "824b78ae23ccefa5",
-    "date": "2026-09-11T14:25:38.768878+00:00",
+    "date": "2026-09-11T18:32:14.533283+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -940,7 +974,7 @@
   },
   {
     "id": "948ec72c6df6739b",
-    "date": "2026-09-11T14:25:38.768776+00:00",
+    "date": "2026-09-11T18:32:14.533167+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -969,7 +1003,7 @@
   },
   {
     "id": "b8c744c15fe3cec1",
-    "date": "2026-09-11T14:25:38.768680+00:00",
+    "date": "2026-09-11T18:32:14.533054+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -998,7 +1032,7 @@
   },
   {
     "id": "ffed0c88cc3288da",
-    "date": "2026-09-11T14:25:38.768571+00:00",
+    "date": "2026-09-11T18:32:14.532914+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1027,7 +1061,7 @@
   },
   {
     "id": "ee96731ea43f4810",
-    "date": "2026-09-11T14:25:38.768460+00:00",
+    "date": "2026-09-11T18:32:14.532789+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1056,7 +1090,7 @@
   },
   {
     "id": "ebb60892b8b227ca",
-    "date": "2026-09-11T14:25:38.768314+00:00",
+    "date": "2026-09-11T18:32:14.532629+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1085,7 +1119,7 @@
   },
   {
     "id": "a2043269e22d0e49",
-    "date": "2026-09-11T14:25:38.768198+00:00",
+    "date": "2026-09-11T18:32:14.532503+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1114,7 +1148,7 @@
   },
   {
     "id": "fd81b5a489f547e9",
-    "date": "2026-09-11T14:25:38.768014+00:00",
+    "date": "2026-09-11T18:32:14.532307+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1143,7 +1177,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-09-11T14:25:38.765189+00:00",
+    "date": "2026-09-11T18:32:14.529164+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1172,7 +1206,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-09-11T14:25:38.764516+00:00",
+    "date": "2026-09-11T18:32:14.528417+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1201,7 +1235,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-09-11T14:25:38.764318+00:00",
+    "date": "2026-09-11T18:32:14.528196+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1229,37 +1263,8 @@
     ]
   },
   {
-    "id": "b6f8228b6502d937",
-    "date": "2026-09-11T14:25:38.348950+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Authentication bypass in EOL Proxmox VE 7 release",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Authentication bypass in EOL Proxmox VE 7 release",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1w4agtv/authentication_bypass_in_eol_proxmox_ve_7_release/",
-    "target": "Authentication EOL Proxmox",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1w4agtv/authentication_bypass_in_eol_proxmox_ve_7_release/"
-      }
-    ]
-  },
-  {
     "id": "5bfb1cce9ac96a97",
-    "date": "2026-09-11T14:25:38.348835+00:00",
+    "date": "2026-09-11T18:32:14.254167+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1288,7 +1293,7 @@
   },
   {
     "id": "be919922ba10c474",
-    "date": "2026-09-11T14:25:38.348729+00:00",
+    "date": "2026-09-11T18:32:14.254072+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1317,7 +1322,7 @@
   },
   {
     "id": "5ae26246be7e2cbc",
-    "date": "2026-09-11T14:25:38.348629+00:00",
+    "date": "2026-09-11T18:32:14.253983+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1346,7 +1351,7 @@
   },
   {
     "id": "490dbcb915c4683d",
-    "date": "2026-09-11T14:25:38.348533+00:00",
+    "date": "2026-09-11T18:32:14.253888+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1375,7 +1380,7 @@
   },
   {
     "id": "699e589a4f3f8e50",
-    "date": "2026-09-11T14:25:38.348423+00:00",
+    "date": "2026-09-11T18:32:14.253794+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1404,7 +1409,7 @@
   },
   {
     "id": "91b23b975a78838a",
-    "date": "2026-09-11T14:25:38.348315+00:00",
+    "date": "2026-09-11T18:32:14.253704+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1433,7 +1438,7 @@
   },
   {
     "id": "10484c47c3d9d4ac",
-    "date": "2026-09-11T14:25:38.348214+00:00",
+    "date": "2026-09-11T18:32:14.253618+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1462,7 +1467,7 @@
   },
   {
     "id": "8590e1bce283c0fb",
-    "date": "2026-09-11T14:25:38.348086+00:00",
+    "date": "2026-09-11T18:32:14.253513+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1491,7 +1496,7 @@
   },
   {
     "id": "cca1dd87ee1efb64",
-    "date": "2026-09-11T14:25:38.347977+00:00",
+    "date": "2026-09-11T18:32:14.253423+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1520,7 +1525,7 @@
   },
   {
     "id": "80ac94197eaa1ef8",
-    "date": "2026-09-11T14:25:38.347849+00:00",
+    "date": "2026-09-11T18:32:14.253326+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1553,7 +1558,7 @@
   },
   {
     "id": "0fc3eaabc8191ecb",
-    "date": "2026-09-11T14:25:38.347752+00:00",
+    "date": "2026-09-11T18:32:14.253241+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1582,7 +1587,7 @@
   },
   {
     "id": "5138b8fcbb281cf1",
-    "date": "2026-09-11T14:25:38.347647+00:00",
+    "date": "2026-09-11T18:32:14.253148+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1611,7 +1616,7 @@
   },
   {
     "id": "0f592eb1e736cb36",
-    "date": "2026-09-11T14:25:38.347536+00:00",
+    "date": "2026-09-11T18:32:14.253052+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1640,7 +1645,7 @@
   },
   {
     "id": "035a0f3956d405e9",
-    "date": "2026-09-11T14:25:38.347420+00:00",
+    "date": "2026-09-11T18:32:14.252911+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1669,7 +1674,7 @@
   },
   {
     "id": "44ce840c3f6fa82c",
-    "date": "2026-09-11T14:25:38.347309+00:00",
+    "date": "2026-09-11T18:32:14.252813+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1698,7 +1703,7 @@
   },
   {
     "id": "76339a6286d53c7c",
-    "date": "2026-09-11T14:25:38.347213+00:00",
+    "date": "2026-09-11T18:32:14.252731+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1727,7 +1732,7 @@
   },
   {
     "id": "d4dadee9f20512f5",
-    "date": "2026-09-11T14:25:38.347109+00:00",
+    "date": "2026-09-11T18:32:14.252642+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1756,7 +1761,7 @@
   },
   {
     "id": "1d5e17373a914a1a",
-    "date": "2026-09-11T14:25:38.347004+00:00",
+    "date": "2026-09-11T18:32:14.252555+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1785,7 +1790,7 @@
   },
   {
     "id": "2fb3965f02b838a4",
-    "date": "2026-09-11T14:25:38.346837+00:00",
+    "date": "2026-09-11T18:32:14.252444+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1814,7 +1819,7 @@
   },
   {
     "id": "8b1240944dc2dfce",
-    "date": "2026-09-11T14:25:38.346725+00:00",
+    "date": "2026-09-11T18:32:14.252345+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1843,7 +1848,7 @@
   },
   {
     "id": "cc671272a45e2e8e",
-    "date": "2026-09-11T14:25:38.346627+00:00",
+    "date": "2026-09-11T18:32:14.252261+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1871,8 +1876,37 @@
     ]
   },
   {
+    "id": "b93ac415e3ce155c",
+    "date": "2026-09-11T18:32:14.252170+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Uncontrolled Access Control: Compromising Paxton10",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Uncontrolled Access Control: Compromising Paxton10",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wdil38/uncontrolled_access_control_compromising_paxton10/",
+    "target": "Uncontrolled Access Control",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wdil38/uncontrolled_access_control_compromising_paxton10/"
+      }
+    ]
+  },
+  {
     "id": "26a0a661818d4fcb",
-    "date": "2026-09-11T14:25:38.346507+00:00",
+    "date": "2026-09-11T18:32:14.252064+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1901,7 +1935,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-09-11T14:25:38.346388+00:00",
+    "date": "2026-09-11T18:32:14.251954+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1942,7 +1976,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-09-11T14:25:38.346198+00:00",
+    "date": "2026-09-11T18:32:14.251769+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1970,6 +2004,383 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "e7eb20b5fb401253",
+    "date": "2026-09-11T18:14:06+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Why AI Is So Good at Scamming Humans",
+    "summary": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
+    "article_text": "",
+    "quick_summary": [
+      "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
+    "target": "Good Scamming Humans",
+    "type": "Phishing / Scam",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyber-risk/ai-scamming-humans"
+      }
+    ]
+  },
+  {
+    "id": "83b69cc383726fe9",
+    "date": "2026-09-11T17:26:50+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+    "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
+    "article_text": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. The activity has been observed since May 2026 and begins with the attackers researching targeted organizations and employees before calling or messaging victims while impersonating corporate IT help desks. The attackers tell employees that they must urgently update a passkey, multi-factor authentication (MFA), or single sign-on (SSO) configuration to avoid losing access to corporate systems. Victims are then directed to phishing sites designed to resemble legitimate Microsoft login pages, with links sometimes sent through SMS messages to employees' personal phones. Microsoft says that while the lures frequently revolve around passkeys, the attackers are not attempting to enroll a passkey. Instead, the passkey lures are used to trick targeted employees into signing in to adversary-in-the-middle (AiTM) phishing sites or using device-code authentication flows . AiTM attacks allow the threat actors to capture credentials and session tokens. Device code phishing tricks victims into authorizing access to their account via an attacker-controlled client using Microsoft's legitimate authentication pages. Microsoft says the attackers conduct extensive research before targeting employees. \"The actor appears to invest heavily in pre-attack research, likely gathering information about employees and organizational structure from public sources such as social networking and professional profiling platforms,\" explains Microsoft. The threat actors also register phishing domains that combine company names with words related to passkeys, SSO, key synchronization, account setup, and identity verification. Some examples seen by Microsoft include: passkeyhelpdesk[.]com , secure-passkey[.]com , setupmypasskey[.]com , add-passkey[.]com , integratedsso[.]com , oktasession[.]com , keysyncos[.]com , and oskeysync[.]com . The attackers commonly place the victim company's name in a subdomain, such as company-name.secure-passkey[.]com , to make the phishing portal appear more convincing. Microsoft attributes the initial-access activity to multiple threat actors operating in the same extortion ecosystem, including groups it tracks as Storm-3121 and Storm-3032. Storm-3121 is associated with ShinyHunters and Falcon extortion, while Storm-3032 is believed to be tied to BlackFile extortion group members that now work under the Helix name. This activity overlaps with attacks previously documented by Google Threat Intelligence under the UNC6671 threat cluster. Google previously reported that UNC6671 uses phone-based social engineering and passkey-themed phishing infrastructure to compromise corporate identities before accessing enterprise cloud environments. Google has also linked UNC6671 activity to the same extortion gangs, including BlackFile, Helix, Falcon, Pink, and Redact. Microsoft's new research gives a closer look at what happens inside Microsoft cloud environments after an account is compromised. In one investigated attack, Microsoft observed a suspicious sign-in from an unmanaged device to a Microsoft 365 service identified in Entra logs as \"OfficeHome.\" OfficeHome is associated with the Office 365 portal's shared infrastructure, including Office applications accessed through a browser. After completing MFA, Microsoft says the attacker established a valid session and began checking what resources the compromised account could access. Within minutes, the session was used to access My Apps to see what applications are assigned to the account, My Profile for organizational information, Microsoft Approval Management, account-management interfaces, and My Sign-Ins. The attacker then accessed SharePoint Online, Outlook Web, Microsoft 365 collaboration and search services, an internal business application, and authentication flows associated with virtual desktops. Microsoft says the session remained active for approximately one hour while the attacker listed sensitive files and internal applications. In another attack, the passkey social engineering attacks led to device-code phishing, where the victim was convinced to enter a supplied code into Microsoft's legitimate authentication page. This issues an authentication token to the attacker-controlled OAuth application, allowing the threat actor to access the v",
+    "quick_summary": [
+      "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from ",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+    "target": "Passkey-themed Microsoft 365",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/"
+      }
+    ]
+  },
+  {
+    "id": "ac6ea0e544269853",
+    "date": "2026-09-11T17:23:36+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+    "summary": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+    "target": "Phishing Research Challenges Conventional",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/"
+      }
+    ]
+  },
+  {
+    "id": "cd7d76fe94608eea",
+    "date": "2026-09-11T17:10:56+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "AI Governance Can't Wait",
+    "summary": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
+    "article_text": "",
+    "quick_summary": [
+      "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
+    "target": "Governance Cant Wait",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait"
+      }
+    ]
+  },
+  {
+    "id": "2fb5b43e9e78517c",
+    "date": "2026-09-11T16:30:18+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+    "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary files from the GitLab server under",
+    "article_text": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary files from the GitLab server under certain conditions. The problem, per GitLab, stems from \"improper path confinement and missing authentication enforcement in the repository commits API.\" The issue impacts the following versions of GitLab Community Edition (CE) and Enterprise Edition (EE) - According to preemptive exposure management firm watchTowr, the vulnerability is already witnessing active in-the-wild probes since 06:00 UTC on September 11, 2026. The issue, it said, allows an external attacker to read log files and GitLab-specific configuration files to obtain credentials, secrets, and sensitive information. \"This is the second instance of a critical severity GitLab vulnerability in recent weeks, following the previous GraphQL code injection ( CVE-2026-19478 ) that was almost immediately actively exploited,\" Jake Knott, head of threat intelligence at watchTowr, said in a statement shared with The Hacker News. \"Exploitation requires just one requirement, at least one public project must exist.\" \"The appeal to attackers of GitLab is obvious, as unauthorized access allows an attacker to gain access to source code, CI/CD secrets, credentials, and the ability to inject code into build pipelines, gaining access or poisoning anything downstream of it, which as we've seen throughout this year has been a favorite of attackers.\" Also patched by GitLab in versions 19.3.2, 19.2.6, and 19.1.8 is a critical insecure deserialization bug in GitLab EE (CVE-2026-87719, CVSS score: 9.9) that could result in information disclosure. The vulnerability could allow an authenticated user with Duo Chat access to obtain Advanced Search instance configurations and sensitive credentials using a specially crafted GraphQL subscription argument to bypass serialization and perform server object lookup,\" GitLab said. Organizations running self-managed GitLab instances that are exposed to the internet must apply the patches as soon as possible, or limit public access, if not required. \"Based on the history, the transition of this vulnerability to indiscriminate mass exploitation is likely not far away, and defenders have limited time to act,\" Knott said. \"Where possible, organizations should also review log files for HTTP POST requests to '/api/v4/projects/{id}/repository/commits/' URIs containing 'file.Path' parameters to identify potential exploitation attempts.\" See how to test new CVEs against your environment, confirm what attackers can actually exploit, and fix the exposures that pose the greatest risk. Learn how to identify exploitable risk faster, prioritize what matters most, and reduce exposure before AI-powered attacks accelerate the threat. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+    "target": "GitLab CVSS File-Read Draws",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
+      }
+    ]
+  },
+  {
+    "id": "31ed1c3f15ee7750",
+    "date": "2026-09-11T16:29:44+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+    "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+    "article_text": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. A new report from cloud security company Wiz confirmed exploitation across multiple environments, including an exploit chain that combines CVE-2026-42018 and CVE-2026-42016. The third vulnerability is CVE-2026-82329, a critical authentication bypass that offensive security company watchTowr observed being exploited earlier this month to mint administrator tokens . According to Wiz, attackers exploit CVE-2026-42018 to obtain a JSON Web Token (JWT) belonging to an internal Artifactory anonymous user, even when anonymous access is disabled, with low privileges. Then they increase permissions to admin level by exploiting CVE-2026-42016, caused by insufficient token validation. Between August 15 and September 8, multiple threat actors exploited the two vulnerabilities to obtain a JWT for the internal anonymous user and then exchange it for an admin-scoped token. The researchers note that in some cases the attacker took less than five minutes to create an administrator account. After creating admin accounts and generating long-lived access tokens, the attackers installed malicious Groovy plugins to execute arbitrary commands and established persistence by deploying a Rust-based backdoor. “Between August 15 and September 8, 2026, we observed multiple actors chain CVE-2026-42018 and CVE-2026-42016 against self-hosted Artifactory instances,” Wiz says . “Across multiple cases, we observed a custom Rust backdoor with C2 capabilities being dropped.” In the next stage, the threat actor downloaded additional payloads into /dev/shm , /tmp , and /var/tmp , uploaded webshells, stole Artifactory configuration data and cluster join keys, enumerated repositories, tokens, and users, and added their SSH keys to newly created accounts. Wiz warns that between 49% and 62% of reachable Artifactory instances are vulnerable to at least one of the three flaws. System administrators are recommended to upgrade immediately to one of the following Artifactory release versions or later: After upgrading, investigate internet-exposed instances for unexpected token creation, rogue administrator accounts, suspicious plugin activity, and enumeration requests, and restrict access to trusted systems only. Wiz has listed indicators of compromise (IoCs) associated with the observed attacks to help defenders detect them quickly. BleepingComputer has contacted JFrog to confirm the reported activity, but we have not received a response as of publication. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Hackers exploit critical JFrog Artifactory flaw to forge admin tokens Hackers target WordPress sites in miniOrange auth bypass attacks Hackers exploit macOS Screen Sharing flaw to deploy Monero miner N-able warns of N-central auth bypass flaw exploited in attacks Check Point warns of SmartConsole zero-day exploited in attacks Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days September Windows Server updates break Remote Desktop Services Microsoft Excel KB5002914 update breaks copy and paste for some users Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. EtherHiding Malware on macOS: How Attackers Hide C2 on the Blockchain Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+    "target": "Artifactory",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/"
+      }
+    ]
+  },
+  {
+    "id": "6d22660457ec929a",
+    "date": "2026-09-11T16:15:29+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+    "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a machine learning technique where a large, powerful AI model assumes the role of a \"teacher\" to",
+    "article_text": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method . It refers to a machine learning technique where a large, powerful AI model assumes the role of a \"teacher\" to train a smaller, less-capable or faster \"student\" model to copy its capabilities. Illicit distillation, on the other hand, is an industrial-scale campaign that covertly extracts a model's capabilities and replicates them in another model without authorization, typically by making use of networks of fake accounts created with stolen credit cards, login credentials, and API keys. Frontier AI labs in the West, including those from Google and OpenAI , have repeatedly called out distillation attacks aimed at their models. Anthropic said it has observed unauthorized labs employing \"increasingly sophisticated methods\" to get around defenses and harvest its capabilities, such as agentic capabilities and tool use, coding and data analysis, and logical reasoning, through prompt manipulation tricks. \"DeepSeek, Xiaomi, and Moonshot fed conversations between their own models and users into Claude,\" Anthropic said . \"These labs then used Claude’s responses as training data with which to distill Claude's capabilities. Some of these exchanges included sensitive information, including from individual users, major multinational companies, and state-affiliated actors.\" The AI company said these labs generally gain access to its models by routing requests through proxy services, also referred to as transfer or relay stations, which create thousands of new accounts under fictitious identities, fake or stolen credit cards, and illegally harvested API keys that belong to legitimate companies or individuals. According to Anthropic, unauthorized AI labs also acquire transcripts of user exchanges with U.S. frontier models by purchasing them off third-party resellers, who are the operators of proxy services that save such conversations without the users' knowledge or consent. \"In other cases, unauthorized labs rerouted requests from their users to Claude -- without the knowledge or permission of those users -- to harvest exchanges between users and Claude for training,\" Anthropic pointed out. Since February 2026, the AI company said it has detected six illicit distillation campaigns that were conducted by China-based AI labs to advance their own models - \"The proliferation of proxy services to circumvent Anthropic access restrictions has created a secondary market through which labs can purchase or otherwise acquire harvested exchanges between users and Claude,\" Anthropic said. \"Some proxy networks both provide Claude access to users in unsupported regions, and also save exchanges in order to sell them to other labs.\" To counter illicit distillation, the company said it bans reseller accounts or accounts operating from unsupported regions like China, Iran, and Russia when users fail to verify their identity. To make it harder for unauthorized labs to distill Claude's capabilities, the model has been updated to summarize its internal reasoning before responding, thereby making stolen transcripts less useful for follow-on training. \"And with Fable 5.1 we introduced preserved thinking, which stops new API accounts from altering the system prompt, tools, or messages that precede Claude's reasoning in multi-turn conversations,\" the company added. \"That reasoning is encrypted, but editing the context before it is a common technique attackers use to make Claude reveal it.\" The development comes as Anthropic said it took down a number of accounts that tried to use its models to surveil their citizens and to research diseases in ways that could support biological weapons. Earlier this week, U.S. cybersecurity and intelligence agencies accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks. See how to test new CVEs against your environment, confirm what attackers can actually exploit, and fix the exposures that pose the greatest risk. Learn how to identify exploitable risk faster, prioritize what matters most, and reduce exposure before AI-powered attacks accelerate the threat. Get the latest news, expert insights, exclus",
+    "quick_summary": [
+      "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+    "target": "Anthropic Seven China-Based Labs",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html"
+      }
+    ]
+  },
+  {
+    "id": "f986700de46da635",
+    "date": "2026-09-11T16:11:08+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+    "summary": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+    "target": "GitLab Vulnerability Exploited One",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/"
+      }
+    ]
+  },
+  {
+    "id": "d3fc038bf1757b34",
+    "date": "2026-09-11T15:48:27+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
+    "summary": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
+    "article_text": "",
+    "quick_summary": [
+      "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
+    "target": "Papercut Swarm Heralds Changes",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain"
+      }
+    ]
+  },
+  {
+    "id": "4de4b0f61d82e26d",
+    "date": "2026-09-11T14:40:32+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
+    "summary": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference capacity, and aggregating it behind a single gateway of their own.",
+    "article_text": "",
+    "quick_summary": [
+      "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33332",
+    "target": "Self-Expanding Stolen Inference Supply",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33332"
+      }
+    ]
+  },
+  {
+    "id": "e0c4234a72e39534",
+    "date": "2026-09-11T14:29:47+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+    "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative Threat Groups (GTGs), span state-sponsored groups, financially motivated criminals, commercial",
+    "article_text": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative Threat Groups (GTGs), span state-sponsored groups, financially motivated criminals, commercial spyware vendors, state propaganda institutions, and politically motivated individuals. \"The cybersecurity skills of AI models means that AI has collapsed the labor and tooling gap that used to separate well-resourced, state-sponsored operations from individual operators,\" Anthropic said . \"The use of AI went beyond simple questions and responses from a chatbot but rather involved the use of multi-agent frameworks executing reconnaissance, exploitation, and data exfiltration.\" Among the notable cases highlighted by Anthropic is the development of an AI-assisted workflow by a Russian state-sponsored threat actor it calls GTG-20006 , which shares tactical and tradecraft overlaps with a Russian advanced persistent threat (APT) group tracked as Midnight Blizzard (aka APT29 and Cozy Bear). Some of the other AI-enabled cyber campaigns highlighted by Anthropic in its 154-page report include - \"At one end, actors used Claude conversationally: it acted as an engineering assistant in the creation of malware, phishing kits, and surveillance tooling,\" Anthropic said. \"Further along the spectrum, threat actors directed Claude to execute operations (such as running commands against victim networks, harvesting credentials, and exfiltrating data) with a human making each individual targeting decision (GTG-20006).\" \"At the far end, operations ran autonomously, with minimal human input or supervision: these included multi-agent frameworks conducting reconnaissance, exploitation, and theft against multiple victims, in parallel, for hours or days at a time (GTG-50014, GTG-50020, GTG-50029).\" The AI company said it also identified and took down a number of influence operations in which Claude played the role of a \"sub-editor or content creator\" to churn out content and run them at a scale beyond what low-resourced actors could have accomplished on their own. However, Anthropic emphasized that none of these efforts amassed authentic engagement and that they were disrupted before they could even build an audience. Some of the influence and surveillance campaign clusters flagged by Anthropic at a high level are below - Elsewhere, Anthropic said it neutralized Claude misuse efforts by threat actors based in northern Yemen to develop guided weapons, two China-based operations to draft a Chinese-language specification for an anti-torpedo fire control system and build targeting software for electronic warfare, and a Russia-based operation to engineer a full-stack autonomous first-person-view (FPV) kamikaze drone swarm. \"As AI models become more widely used, providers will continue to acquire threat-relevant visibility into real-world use that even governments and intergovernmental organizations lack,\" the company said. \"We hope that sharing these early insights with the public helps inform governments, the industry, and the general public on the nature of these risks, and the safeguards that are necessary for ensuring the safe deployment of AI models.\" See how to test new CVEs against your environment, confirm what attackers can actually exploit, and fix the exposures that pose the greatest risk. Learn how to identify exploitable risk faster, prioritize what matters most, and reduce exposure before AI-powered attacks accelerate the threat. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+    "target": "Claude Automate Exploitation Data",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html"
+      }
+    ]
+  },
+  {
+    "id": "74a462d37a8570bd",
+    "date": "2026-09-11T14:25:43.291697+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Adobe Acrobat Reader: DigSig Bug Enables RCE via PDF, Urgent Patch Released CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/adobe-acrobat-reader-digsig-bug-enables-rce-via-pdf-urgent-patch-released",
+    "target": "Adobe Acrobat Reader",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/adobe-acrobat-reader-digsig-bug-enables-rce-via-pdf-urgent-patch-released"
+      }
+    ]
+  },
+  {
+    "id": "b6f8228b6502d937",
+    "date": "2026-09-11T14:25:38.348950+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Authentication bypass in EOL Proxmox VE 7 release",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Authentication bypass in EOL Proxmox VE 7 release",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1w4agtv/authentication_bypass_in_eol_proxmox_ve_7_release/",
+    "target": "Authentication EOL Proxmox",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1w4agtv/authentication_bypass_in_eol_proxmox_ve_7_release/"
       }
     ]
   },
@@ -2043,6 +2454,35 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/"
+      }
+    ]
+  },
+  {
+    "id": "7ffab88d8ae582ca",
+    "date": "2026-09-11T14:10:20+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+    "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands for Generative Threat Group), which aligns with broader reporting linking the cluster to Midnight",
+    "article_text": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands for Generative Threat Group), which aligns with broader reporting linking the cluster to Midnight Blizzard (aka APT29 and Cozy Bear). This actor is said to have developed an AI-driven process to automatically rebuild and re-deploy their toolkit if it was detected by security products, thereby undermining defenders' ability to block the artifacts via static detections. Attacks mounted by GTG-20006 have targeted military intelligence targets in Ukrainian and European governments, along with diplomatic and defense organizations and individuals connected to U.S. foreign policy. \"The actor also used AI to monitor how well their tools evaded detections from known security defenses,\" Anthropic explained. \"If their monitoring AI agents identified that any of their deployed malware was detected by a security product, agents would then set about the process of autonomously modifying and rebuilding the malware to evade the existing detections.\" Once the artifacts can bypass detection, they are staged on disposable hosting servers to which victims are redirected to so as to retrieve the malware via phishing, ClickFix , and DNS hijacking schemes. The threat actor has also been observed using AI workflows to register domains, set up the hosting infrastructure used to send phishing emails, as well as to deliver the messages and monitor command-and-control (C2) channels for successful compromises. More than 20 distinct organizations were singled out over the course of the reconnaissance and live operations. This included government ministries, defense and intelligence bodies, embassies and diplomatic missions, think tanks, and defense-industrial companies, mainly in Ukraine and Europe. The attacks also extended to the Middle East and maritime-related government agencies in Asia. These efforts also overlapped with a campaign dubbed CaptiveCrunch that was documented in July and August 2026 by ReliaQuest, Microsoft, Google, and Lumen Black Lotus Labs. \"The actor compromised at least three hospitality vendors that operate hotel guest Wi-Fi,\" Anthropic said. \"They used compromised admin credentials to modify DNS records so that they pointed to services owned by the actor (a technique known as DNS hijacking). Guests of hotels using the compromised vendors who connected to the hotel Wi-Fi had their traffic, device identifier, and IP address sent to the actor's servers.\" In the next stage, victims were served ClickFix-style lures to deliver Windows, Android, and iOS malware tailored to their device - Furthermore, the threat actor has been found to use data stolen from the hotel management systems and the individual guests' devices to identify additional targets, particularly individuals associated with Ukraine, such as government officials and drone manufacturers. This is complemented by attempts to take over victims' WhatsApp accounts using headless browsers to link victim accounts as companion devices and ultimately bulk-exporting Russian and Ukrainian language conversations from them while suppressing read receipts. \"The actor also targeted surveillance platforms,\" Anthropic said. \"They found authorization flaws in the application interface of camera streaming services, and from there they enumerated users and harvested tokens that granted them access to the victims’ live camera streams.\" GTG-20006 has been attributed to an intrusion targeting a North African government technology authority, leveraging credentials to a VPN appliance to hijack the central account server and exfiltrate the entire credential database consisting of over 300,000 national identity records and the commercial registry data of more than half a million companies operating in the country. Also developed by the threat actor is a cloud email espionage platform, which used a device code phishing framework codenamed Embassy Kit to orchestrate a Microsoft 365 token theft campaign targeting diplomatic and government personnel, resulting in the unauthorized access and exfiltration of mail records from at least eight organizations, including a national prosecutor's office, a military education institute, and a regional intergovernmental organization. The threat actor has also be",
+    "quick_summary": [
+      "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.",
+      "Risk: credentials/infostealer risk, ISNET vendor relevance",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+    "target": "Russian State-Sponsored Claude Rebuild",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html"
       }
     ]
   },
@@ -2229,7 +2669,7 @@
     "category": "",
     "title": "GitLab urges users to patch max severity path traversal flaw",
     "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
-    "article_text": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. The security flaw, discovered by a security researcher using the ' s3ntago ' handle and reported via GitLab's HackerOne bug bounty program, stems from improper path confinement and missing authentication enforcement in the repository commits API. Unauthenticated attackers can exploit CVE-2026-85706 \"under certain conditions\" to read arbitrary data (e.g., credentials, secrets, and sensitive information) from vulnerable servers. While GitLab has yet to flag this flaw as exploited in the wild, one day later, cybersecurity company watchTowr reported that attackers have already begun searching for Internet-exposed GitLab servers unpatched against CVE-2026-85706. \"watchTowr Intel is already observing in-the-wild probes for the latest critical GitLab Path Traversal vulnerability, CVE-2026-85706, which allows attackers to read arbitrary files in a single HTTP request,\" it warned . \"Based on recent GitLab vulnerabilities, we know the time until indiscriminate exploitation is likely not far away. [..] Defenders should also hunt through log files for HTTP POST requests to '/api/v4/projects/{id}/repository/commits/' URIs containing 'file.path' parameters to identify potential exploitation attempts.\" Yesterday, GitLab patched a second critical vulnerability tracked as CVE-2026-87719 that stems from an insecure deserialization weakness in the GraphQL subscription serializer. CVE-2026-87719 affects GitLab EE and allows authenticated users with Duo Chat access to steal sensitive credentials and Advanced Search instance configurations. GitLab fixed the two security issues in GitLab Community Edition (CE) and Enterprise Edition (EE) versions 19.3.2, 19.2.6, and 19.1 on Thursday, and urged users to patch their systems immediately. \"These versions contain important bug and security fixes, and we strongly recommend that all self-managed GitLab installations be upgraded to one of these versions immediately,\" the company warned on Thursday . \"GitLab.com is already running the patched version. GitLab Dedicated customers do not need to take action.\" In May 2023, GitLab addressed another maximum severity path traversal flaw (CVE-2023-2825) that exposes sensitive data, including proprietary software code, user credentials, tokens, and files on unpatched servers. One year later, CISA and the FBI urged software companies to weed out path traversal security vulnerabilities from their products before shipping, saying that such flaws \"have been called 'unforgivable' since at least 2007.\" More recently, in January, GitLab also patched a high-severity two-factor authentication bypass affecting community and enterprise editions that enables attackers who know the target's account ID to circumvent two-factor authentication. Since November 2021, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) has flagged four GitLab vulnerabilities as exploited in attacks, including two ( CVE-2021-22175 and CVE-2021-39935 ) in February this year. The GitLab DevSecOps platform has more than 30 million registered users and is used by over 50% of Fortune 100 companies, including Nvidia, Airbus, T-Mobile, Lockheed Martin, Goldman Sachs, and UBS. Update September 11, 09:39 EDT: Added watchTowr's report of CVE-2026-85706 probing. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Plex warns users to patch security vulnerabilities immediately CISA orders urgent patching of actively exploited Zimbra flaw Citrix urges admins to patch new NetScaler flaws as soon as possible Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days September Windows Server updates break Remote Desktop Services New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access EtherHiding Malware on macOS: How Attackers Hide C2 on the Blockchain Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. The security flaw, discovered by a security researcher using the ' s3ntago ' handle and reported via GitLab's HackerOne bug bounty program, stems from improper path confinement and missing authentication enforcement in the repository commits API. Unauthenticated attackers can exploit CVE-2026-85706 \"under certain conditions\" to read arbitrary data (e.g., credentials, secrets, and sensitive information) from vulnerable servers. While GitLab has yet to flag this flaw as exploited in the wild, one day later, cybersecurity company watchTowr reported that attackers have already begun searching for Internet-exposed GitLab servers unpatched against CVE-2026-85706. \"watchTowr Intel is already observing in-the-wild probes for the latest critical GitLab Path Traversal vulnerability, CVE-2026-85706, which allows attackers to read arbitrary files in a single HTTP request,\" it warned . \"Based on recent GitLab vulnerabilities, we know the time until indiscriminate exploitation is likely not far away. [..] Defenders should also hunt through log files for HTTP POST requests to '/api/v4/projects/{id}/repository/commits/' URIs containing 'file.path' parameters to identify potential exploitation attempts.\" Yesterday, GitLab patched a second critical vulnerability tracked as CVE-2026-87719 that stems from an insecure deserialization weakness in the GraphQL subscription serializer. CVE-2026-87719 affects GitLab EE and allows authenticated users with Duo Chat access to steal sensitive credentials and Advanced Search instance configurations. GitLab fixed the two security issues in GitLab Community Edition (CE) and Enterprise Edition (EE) versions 19.3.2, 19.2.6, and 19.1 on Thursday, and urged users to patch their systems immediately. \"These versions contain important bug and security fixes, and we strongly recommend that all self-managed GitLab installations be upgraded to one of these versions immediately,\" the company warned on Thursday . \"GitLab.com is already running the patched version. GitLab Dedicated customers do not need to take action.\" In May 2023, GitLab addressed another maximum severity path traversal flaw (CVE-2023-2825) that exposes sensitive data, including proprietary software code, user credentials, tokens, and files on unpatched servers. One year later, CISA and the FBI urged software companies to weed out path traversal security vulnerabilities from their products before shipping, saying that such flaws \"have been called 'unforgivable' since at least 2007.\" More recently, in January, GitLab also patched a high-severity two-factor authentication bypass affecting community and enterprise editions that enables attackers who know the target's account ID to circumvent two-factor authentication. Since November 2021, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) has flagged four GitLab vulnerabilities as exploited in attacks, including two ( CVE-2021-22175 and CVE-2021-39935 ) in February this year. The GitLab DevSecOps platform has more than 30 million registered users and is used by over 50% of Fortune 100 companies, including Nvidia, Airbus, T-Mobile, Lockheed Martin, Goldman Sachs, and UBS. Update September 11, 09:39 EDT: Added watchTowr's report of CVE-2026-85706 probing. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Plex warns users to patch security vulnerabilities immediately CISA orders urgent patching of actively exploited Zimbra flaw Citrix urges admins to patch new NetScaler flaws as soon as possible Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days September Windows Server updates break Remote Desktop Services Microsoft Excel KB5002914 update breaks copy and paste for some users EtherHiding Malware on macOS: How Attackers Hide C2 on the Blockchain Overdue a password health-check? Audit your Active Directory for free Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -26303,441 +26743,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/broadcom-vmware-ai-factory/"
-      }
-    ]
-  },
-  {
-    "id": "a4e63335c6570b99",
-    "date": "2026-08-31T16:40:42+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft Investigating New Exchange Online Outage Tracked as EX1464935 [Updated]",
-    "summary": "Microsoft has opened an active investigation into a new Exchange Online disruption after a wave of user reports flagged access and mail-flow problems across the cloud-based email service. The incident, logged in the Microsoft 365 admin center as EX1464935, began at 9:23 PM IST on August 31, 2026, with the company confirming at 9:25 PM […] The post Microsoft Investigating New Exchange Online Outage Tracked as EX1464935 [Updated] appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Microsoft has opened an active investigation into a new Exchange Online disruption after a wave of user reports flagged access and mail-flow problems across the cloud-based email service.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/microsof-new-exchange-online/",
-    "target": "Microsoft Investigating Exchange Online",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/microsof-new-exchange-online/"
-      }
-    ]
-  },
-  {
-    "id": "0a208ae4a7e340a3",
-    "date": "2026-08-31T15:56:28+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "CISA Warns of Multiple PaperCut NG/MF Vulnerabilities Actively Exploited in Attacks",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two vulnerabilities affecting PaperCut NG and PaperCut MF to its Known Exploited Vulnerabilities (KEV) Catalog, warning that threat actors are actively exploiting the flaws in real-world attacks. The flaws, addressing critical PaperCut vulnerabilities tracked as CVE-2026-81578 and CVE-2026-82078, can be chained to enable unauthenticated attackers […] The post CISA Warns of Multiple PaperCut NG/MF Vulnerabilities Actively Exploited in Attacks appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Cybersecurity and Infrastructure Security Agency (CISA) has added two vulnerabilities affecting PaperCut NG and PaperCut MF to its Known Exploited Vulnerabilities (KEV) Catalog, warning that threat actors are actively ex",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/papercut-ng-mf-vulnerabilities-exploited/",
-    "target": "CISA Multiple PaperCut NGMF",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/papercut-ng-mf-vulnerabilities-exploited/"
-      }
-    ]
-  },
-  {
-    "id": "b7a0d83c16be7cb2",
-    "date": "2026-08-31T15:44:40+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "D-Link Router Flaws Let Unauthenticated Attackers Change Admin Password and Steal Wi-Fi Credentials",
-    "summary": "D-Link has released a firmware update for critical access-control and information-disclosure flaws affecting its DIR-X1860Z router. The vulnerabilities could allow an unauthenticated attacker connected to the local network to change the router administrator password and recover wireless configuration details, including Wi-Fi credentials. The security issues were disclosed in D-Link advisory SAP10513, published on August 26, […] The post D-Link Router Flaws Let Unauthenticated Attackers Change Admin Password and Steal Wi-Fi Credentials appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "D-Link has released a firmware update for critical access-control and information-disclosure flaws affecting its DIR-X1860Z router.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/d-link-router-flaws/",
-    "target": "D-Link Router Let Unauthenticated",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/d-link-router-flaws/"
-      }
-    ]
-  },
-  {
-    "id": "9d1e8a544a839cdf",
-    "date": "2026-08-31T15:16:02+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "HardBreacher PoC Claims Kaspersky Endpoint 0-Day Privilege Escalation on Windows 11",
-    "summary": "HardBreacher’s newly published PoC claims a local privilege-escalation flaw in Kaspersky Endpoint Security on fully patched Windows 11 systems, but the issue remains unverified and has not been publicly confirmed or assigned a CVE by Kaspersky. The project, published by a researcher, MSNightmare, describes the alleged flaw as a zero-day elevation-of-privilege vulnerability in Kaspersky’s enterprise […] The post HardBreacher PoC Claims Kaspersky Endpoint 0-Day Privilege Escalation on Windows 11 appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "HardBreacher’s newly published PoC claims a local privilege-escalation flaw in Kaspersky Endpoint Security on fully patched Windows 11 systems, but the issue remains unverified and has not been publicly confirmed or assi",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/hardbreacher-kaspersky-zero-day/",
-    "target": "HardBreacher PoC Claims Kaspersky",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/hardbreacher-kaspersky-zero-day/"
-      }
-    ]
-  },
-  {
-    "id": "9f4814d8338c6560",
-    "date": "2026-08-31T14:52:03+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
-    "summary": "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit history. [...]",
-    "article_text": "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit history. According to incident response company Sygnia, the threat actor switched from targeting VMware hypervisors to compromising Cisco routers, TACACS authentication servers, and Linux management hosts. The researchers discovered Fire Ant's new tactic after finding on a Cisco IOS XR router an active GRE (Generic Routing Encapsulation) tunnel interface that could not be explained by a running configuration or commit history. Further analysis revealed that Fire Ant had deployed custom malware on the devices, enabling persistence through a fake system service that ran the implant only during alternating hours. The malware selectively suppressed syslog messages to hide tunnel-related information from legitimate administrators, established outbound Telnet connections to Fire Ant infrastructure, and supported interactive shell access with no logging. The attackers also used their administrative access to capture traffic from multiple routers and upload the resulting PCAP files to external FTP servers. These captures could expose internal topology, administrative connections, authentication flows, routing relationships, and traffic exchanged with connected networks. “This behavior shifts the router’s role from a transit device to a collection platform,” Sygnia explains . “Once the actor controlled the router, the device became a vantage point for observing traffic moving through trusted network paths.” The concealed GRE tunnel connected one compromised router to a legacy Linux server, which Fire Ant used as a staging and reconnaissance system. From there, the attackers probed systems in connected high-value environments, including systems associated with critical infrastructure, over ports commonly used for SSH, web services, SMB/RPC, and RDP. Sygnia believes that Fire Ant's operation aimed to compromise trusted infrastructure at an initial victim and use it as a covert bridge to explore access paths into connected high-value networks, a tactic which they dub “target behind the target.” The researchers also discovered a previously undocumented backdoor called ‘BridgeAgent,’ which Fire Ant disguised as a legitimate Zabbix monitoring agent. The backdoor persists as a root-level systemd service and supports TLS reverse shells and the execution of additional payloads on the compromised host. Sygnia says Fire Ant activity strongly overlaps with UNC3886, a Chinese espionage group previously documented by Google. However, the researchers say that there are differences in filenames, paths, and implementation details. The researchers warned that Fire Ant systematically tampers with system logs and records, even changing file timestamps to obscure evidence that would benefit investigators, noting that logs retrieved from compromised infrastructure should be validated against other data. Sygnia's report shares an extensive list of indicators of compromise (IoCs), along with hunting and YARA rules to detect Fire Ant activity. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Unpatched Calix flaw lets hackers bypass NAT to expose internal devices FBI disrupts proxy network enabling Chinese espionage operations US and allies warn of Russian critical infrastructure attacks Hackers exploit Roundcube flaw to spy on academic researchers Microsoft Exchange Online outage causes email failures, auth issues Anthropic is cutting Claude Code's current weekly limits by 17% Anthropic warns infostealer malware is hijacking Claude sessions to drain usage Overdue a password health-check? Audit your Active Directory for free AI-driven vulnerability discovery is accelerating. See how Action1 helps remediation keep pace. Learn how ESET MDR can enhance your organization’s security posture Pixellot discovered and secured hundreds of unmanaged AI agent identities in weeks, not months. Download the case study for how. Identity, Data Governance & Threat Detection in One Platform: Take our In-Browser Tour Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit hist",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
-    "target": "Chinese Fire Ant Cisco",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/"
-      }
-    ]
-  },
-  {
-    "id": "1696f03fe77761af",
-    "date": "2026-08-31T14:32:34+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit",
-    "summary": "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product. The post Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
-    "target": "Nightmare Eclipse Drops HardBreacher",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/"
-      }
-    ]
-  },
-  {
-    "id": "928ffade2474b761",
-    "date": "2026-08-31T14:12:41+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Hide ValleyRAT Backdoor Inside Adware Targeting Users in China and India",
-    "summary": "Hackers are using adware to deliver ValleyRAT, a Windows backdoor. The campaign primarily affects users in China and India, turning a program expected to display ads into a route for spying, theft, and further malware delivery. The installer changes its visible behavior according to its filename. One version installs a collaboration app, another installs a […] The post Hackers Hide ValleyRAT Backdoor Inside Adware Targeting Users in China and India appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Hackers are using adware to deliver ValleyRAT, a Windows backdoor.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/hackers-hide-valleyrat-backdoor/",
-    "target": "Hide ValleyRAT Backdoor Inside",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/hackers-hide-valleyrat-backdoor/"
-      }
-    ]
-  },
-  {
-    "id": "35f97564594954e6",
-    "date": "2026-08-31T14:04:18+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Security Risk Advisors Launches SCALR AI as a Free SOC AI Platform for Security Teams",
-    "summary": "Philadelphia, Pennsylvania, United States, August 24th, 2026, CyberNewswire Security Risk Advisors (SRA), the authors of the free VECTR platform, announce today another great free platform launch: SCALR AI. Security teams can get SCALR AI for free, delivered through the Azure Marketplace. SCALR AI is an agentive workbench that automates time-consuming security work and ships with […] The post Security Risk Advisors Launches SCALR AI as a Free SOC AI Platform for Security Teams appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Philadelphia, Pennsylvania, United States, August 24th, 2026, CyberNewswire Security Risk Advisors (SRA), the authors of the free VECTR platform, announce today another great free platform launch: SCALR AI.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/security-risk-advisors-launches-scalr-ai-as-a-free-soc-ai-platform-for-security-teams/",
-    "target": "Risk Advisors Launches SCALR",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/security-risk-advisors-launches-scalr-ai-as-a-free-soc-ai-platform-for-security-teams/"
-      }
-    ]
-  },
-  {
-    "id": "4cd335aa3c278168",
-    "date": "2026-08-31T14:00:10+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "File servers are here to stay. Here’s how to manage them securely",
-    "summary": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying file server administration and maintaining least-privilege access. [...]",
-    "article_text": "From soaring cloud costs to risk ownership, data sovereignty and legacy compatibility, there are many reasons why organizations continue to rely on file servers for inexpensive and abundant local storage. Yet no matter where your data lives, access governance is essential to keeping it in the right hands. Even firmly into the cloud era, countless organizations continue to maintain on-premises file servers alongside their various SaaS subscriptions. These kinds of hybrid setups help businesses preserve large volumes of data while maintaining full control over cost, risk, retention, backups and access. While the convenience of cloud services is still a big draw that drives many ongoing migration efforts, concerns like spiking subscription costs, data ownership and regulatory demands have caused others to pause or even rethink their cloud strategy. So despite predictions of a gleaming, cloud-only future, it appears that the humble file server will stick around as an IT mainstay for years to come. No matter the reason your organization continues to rely on file servers, the important part is that you administer them securely and efficiently. With the level of control and risk ownership that on-premises infrastructure affords you, effective access governance is essential to protecting your data. Here are five best practices that every file server administrator needs to know. In order to grant a user access to a directory, you should always use a dedicated, single-purpose security group that follows a consistent naming scheme such as fs_finance_read. Even though most admins are aware of this, sticking to the rule can be tricky in practice when some higher-up is shouting about how a team member needs access RIGHT NOW. The problem with assigning access directly to users is that there is no way to track these one-off permissions. When you inspect a user object, you can see every group they are a member of. By naming groups after the permission they grant, this effectively doubles as a list of everything a user has access to. However, when a user is privileged on a folder directly, the only place that permission shows up is in the properties of the folder itself. Even in a relatively small environment with only a few hundred directories, this makes one-off permissions effectively invisible. A must-read for sysadmins: Our best practice guide lays out essential tips and tricks for governing access in Microsoft environments. Clean up group structures, improve visibility and lower your workload – Dive in today! As we’ve established, dedicated security groups are the best way to grant users access to file server directories. However, that does not mean you should add users directly to these security groups. File server administration becomes even more efficient when you add another layer of abstraction. First, create global groups that map to the different roles in your organization: sales, customer support, human resources and so on. Next, make these global groups a member of the individual permission groups for each resource a user in that role needs access to. By layering groups this way, you can now provide new users with all the access they need simply by adding them to the global role group that matches their job. This approach is known as the AGDLP model, short for the nested structure of accounts, global groups, domain local groups and finally permissions. Following AGDLP or similar models allows you to implement a form of role-based access control for file server and Active Directory resources, streamlining access governance significantly. Share permissions control access to network resources such as file shares. However, since NTFS permissions apply to both network and local access while also giving you more granular control over permission levels, most admins prefer to use NTFS permissions for governing access. When NTFS and share permissions interact, the more restrictive permission level wins out. This makes it easiest to set share permissions to a high level – such as Change for users and Full Control for admins – while relying on NTFS permissions to restrict access from there. To streamline file server governance, focus on managing the top levels of your directory tree and let permissions propagate down from there. This works best with a clean folder structure that allows you to make full use of permission inheritance. Ideally, you never want to set explicit permissions deeper than two or three levels down your direc",
-    "quick_summary": [
-      "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
-    "target": "File Heres",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/"
-      }
-    ]
-  },
-  {
-    "id": "1636798bd4492aab",
-    "date": "2026-08-31T13:59:19+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
-    "summary": "Attackers could exploit the security defects to execute arbitrary code and access or tamper with data. The post ServiceNow Patches 3 Critical Code Injection Vulnerabilities appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Attackers could exploit the security defects to execute arbitrary code and access or tamper with data.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
-    "target": "ServiceNow Patches Critical Code",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/"
-      }
-    ]
-  },
-  {
-    "id": "331c38f61568188d",
-    "date": "2026-08-31T13:53:26+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Top 10 Best Cyber Threat Intelligence Companies in 2026",
-    "summary": "Cybersecurity defines survival in the digital-first era, where organizations battle advanced persistent threats daily. Cyber Threat Intelligence (CTI) companies deliver real-time insights, actionable intel, and defense strategies to shield sensitive data, critical infrastructure, and reputation from cybercriminals. Our Top 10 Best CTI Companies for 2026 showcase proven leaders with cutting-edge platforms and expertise. Detailed reviews […] The post Top 10 Best Cyber Threat Intelligence Companies in 2026 appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Cybersecurity defines survival in the digital-first era, where organizations battle advanced persistent threats daily.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/best-cyber-threat-intelligence-companies-2/",
-    "target": "Top Best Threat Intelligence",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/best-cyber-threat-intelligence-companies-2/"
-      }
-    ]
-  },
-  {
-    "id": "4bed57c8c7d36543",
-    "date": "2026-08-31T13:48:41.160063+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT Cosmos EVM: Bug Known Since April, $5.7M Exploit Across Six Chains",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/blockchain/cosmos-evm-bug-known-since-april-57m-exploit-across-six-chains",
-    "target": "EXPLOIT Cosmos EVM",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/blockchain/cosmos-evm-bug-known-since-april-57m-exploit-across-six-chains"
-      }
-    ]
-  },
-  {
-    "id": "14c03ca055fe87a9",
-    "date": "2026-08-31T13:48:41.159955+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT InstallFix Campaign Clones Claude Code to Spread Malware Without Exploits",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/malware/installfix-campaign-clones-claude-code-to-spread-malware-without-exploits",
-    "target": "EXPLOIT InstallFix Campaign Clones",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/installfix-campaign-clones-claude-code-to-spread-malware-without-exploits"
-      }
-    ]
-  },
-  {
-    "id": "b7e64fe57dae0eee",
-    "date": "2026-08-31T13:48:41.159498+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "TheHatman and the 3.6 Million Azure Records: The Gap Between Claim and Confirmation news",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/news/thehatman-and-the-36-million-azure-records-the-gap-between-claim-and-confirmation",
-    "target": "TheHatman 3.6 Million Azure",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/thehatman-and-the-36-million-azure-records-the-gap-between-claim-and-confirmation"
-      }
-    ]
-  },
-  {
-    "id": "0dd8a490e05d8649",
-    "date": "2026-08-31T13:48:41.158071+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CYBERSEC Infostealer on Attacker Workstation Exposes Blind Eagle Campaign Aug 31, 2026",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/infostealer-on-attacker-workstation-exposes-blind-eagle-campaign",
-    "target": "CYBERSEC Infostealer Attacker Workstation",
-    "type": "Malware",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/infostealer-on-attacker-workstation-exposes-blind-eagle-campaign"
       }
     ]
   }
