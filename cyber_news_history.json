@@ -1,36 +1,7 @@
 [
   {
-    "id": "ac59522cb815706c",
-    "date": "2026-09-16T16:54:49.998945+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT Active WSO2 API Manager Exploit: JWT Bypass with Forged Admin Tokens",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/active-wso2-api-manager-exploit-jwt-bypass-with-forged-admin-tokens",
-    "target": "EXPLOIT Active WSO2 API",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/active-wso2-api-manager-exploit-jwt-bypass-with-forged-admin-tokens"
-      }
-    ]
-  },
-  {
     "id": "f061c3f46454f253",
-    "date": "2026-09-16T16:54:49.998865+00:00",
+    "date": "2026-09-16T20:07:31.571589+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "311825a38532b946",
-    "date": "2026-09-16T16:54:49.998785+00:00",
+    "date": "2026-09-16T20:07:31.571507+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "13130b6ac83f2aed",
-    "date": "2026-09-16T16:54:49.998708+00:00",
+    "date": "2026-09-16T20:07:31.571432+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "4d786c99da27d8f8",
-    "date": "2026-09-16T16:54:49.998626+00:00",
+    "date": "2026-09-16T20:07:31.571354+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "08fa7b300eb19c79",
-    "date": "2026-09-16T16:54:49.998550+00:00",
+    "date": "2026-09-16T20:07:31.571282+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,37 +145,37 @@
     ]
   },
   {
-    "id": "6cc29638e280d4be",
-    "date": "2026-09-16T16:54:49.998469+00:00",
+    "id": "dfe57cc9d06158b1",
+    "date": "2026-09-16T20:07:31.571198+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Ransomware Recovery in 24–48 Hours Remains Out of Reach: 4 Cases Out of 800+ CYBERSEC",
+    "title": "CVE CVE-2026-89026: Hard-Coded JWT Key Enables RCE on Issabel PBX",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/ransomware-recovery-in-2448-hours-remains-out-of-reach-4-cases-out-of-800",
-    "target": "Ransomware Recovery",
-    "type": "Ransomware",
-    "severity": "High",
+    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-89026-hard-coded-jwt-key-enables-rce-on-issabel-pbx",
+    "target": "CVE CVE-2026-89026",
+    "type": "Vulnerability",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/ransomware-recovery-in-2448-hours-remains-out-of-reach-4-cases-out-of-800"
+        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-89026-hard-coded-jwt-key-enables-rce-on-issabel-pbx"
       }
     ]
   },
   {
     "id": "3b6d19fe94f21352",
-    "date": "2026-09-16T16:54:49.998371+00:00",
+    "date": "2026-09-16T20:07:31.571124+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "0c925cabca3c96d1",
-    "date": "2026-09-16T16:54:49.998295+00:00",
+    "date": "2026-09-16T20:07:31.571051+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +233,7 @@
   },
   {
     "id": "3b9d96e233689f15",
-    "date": "2026-09-16T16:54:49.998184+00:00",
+    "date": "2026-09-16T20:07:31.570942+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +262,7 @@
   },
   {
     "id": "b4b3790e75159394",
-    "date": "2026-09-16T16:54:49.998096+00:00",
+    "date": "2026-09-16T20:07:31.570857+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -320,7 +291,7 @@
   },
   {
     "id": "ff73bebe851cb721",
-    "date": "2026-09-16T16:54:49.997906+00:00",
+    "date": "2026-09-16T20:07:31.570683+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -348,8 +319,37 @@
     ]
   },
   {
+    "id": "5e96129fdee0ab6d",
+    "date": "2026-09-16T20:07:31.570595+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "TP-Link Tapo C200: Two Zero-Days Allow Video Feed Access for Adjacent Attackers CYBERSEC ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/tp-link-tapo-c200-two-zero-days-allow-video-feed-access-for-adjacent-attackers",
+    "target": "TP-Link Tapo C200",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/tp-link-tapo-c200-two-zero-days-allow-video-feed-access-for-adjacent-attackers"
+      }
+    ]
+  },
+  {
     "id": "db6d60d382e3c008",
-    "date": "2026-09-16T16:54:49.997197+00:00",
+    "date": "2026-09-16T20:07:31.569964+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -378,12 +378,12 @@
   },
   {
     "id": "3ddb3eaee7aec34c",
-    "date": "2026-09-16T16:54:49.996934+00:00",
+    "date": "2026-09-16T20:07:31.569649+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 7 ZERO-DAY · 9 CVE · 7 EXPLOIT IN THE LAST 24H →",
+    "title": "// 5 ZERO-DAY · 8 CVE · 7 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -407,7 +407,7 @@
   },
   {
     "id": "1865bcf4d9350814",
-    "date": "2026-09-16T16:54:48.714012+00:00",
+    "date": "2026-09-16T20:07:30.588307+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -504,7 +504,7 @@
   },
   {
     "id": "fd81b5a489f547e9",
-    "date": "2026-09-16T16:54:47.379279+00:00",
+    "date": "2026-09-16T20:07:29.747166+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -533,7 +533,7 @@
   },
   {
     "id": "ebe402366de43ace",
-    "date": "2026-09-16T16:54:47.379163+00:00",
+    "date": "2026-09-16T20:07:29.747050+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -586,7 +586,7 @@
   },
   {
     "id": "f89b3eb9b7142207",
-    "date": "2026-09-16T16:54:47.379057+00:00",
+    "date": "2026-09-16T20:07:29.746953+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -615,7 +615,7 @@
   },
   {
     "id": "43d4bed0b9fb855b",
-    "date": "2026-09-16T16:54:47.378960+00:00",
+    "date": "2026-09-16T20:07:29.746855+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -644,7 +644,7 @@
   },
   {
     "id": "4a76fb8c3e5300de",
-    "date": "2026-09-16T16:54:47.378806+00:00",
+    "date": "2026-09-16T20:07:29.746704+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -681,7 +681,7 @@
   },
   {
     "id": "837e29bbc8c5d806",
-    "date": "2026-09-16T16:54:47.378684+00:00",
+    "date": "2026-09-16T20:07:29.746585+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -710,7 +710,7 @@
   },
   {
     "id": "520fcc6d930148d9",
-    "date": "2026-09-16T16:54:47.378528+00:00",
+    "date": "2026-09-16T20:07:29.746429+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -739,7 +739,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-09-16T16:54:47.378414+00:00",
+    "date": "2026-09-16T20:07:29.746317+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -768,7 +768,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-09-16T16:54:47.378312+00:00",
+    "date": "2026-09-16T20:07:29.746209+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -797,7 +797,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-09-16T16:54:47.378207+00:00",
+    "date": "2026-09-16T20:07:29.746107+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -826,7 +826,7 @@
   },
   {
     "id": "6b0bbec6f46de8eb",
-    "date": "2026-09-16T16:54:47.378076+00:00",
+    "date": "2026-09-16T20:07:29.745985+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -855,7 +855,7 @@
   },
   {
     "id": "18fecdbaea4e7c85",
-    "date": "2026-09-16T16:54:47.377935+00:00",
+    "date": "2026-09-16T20:07:29.745846+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -884,7 +884,7 @@
   },
   {
     "id": "9ac30741d0a75104",
-    "date": "2026-09-16T16:54:47.377834+00:00",
+    "date": "2026-09-16T20:07:29.745744+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -913,7 +913,7 @@
   },
   {
     "id": "824b78ae23ccefa5",
-    "date": "2026-09-16T16:54:47.377598+00:00",
+    "date": "2026-09-16T20:07:29.745511+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -942,7 +942,7 @@
   },
   {
     "id": "948ec72c6df6739b",
-    "date": "2026-09-16T16:54:47.377500+00:00",
+    "date": "2026-09-16T20:07:29.745415+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -971,7 +971,7 @@
   },
   {
     "id": "b8c744c15fe3cec1",
-    "date": "2026-09-16T16:54:47.377408+00:00",
+    "date": "2026-09-16T20:07:29.745322+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1000,7 +1000,7 @@
   },
   {
     "id": "ee96731ea43f4810",
-    "date": "2026-09-16T16:54:47.377303+00:00",
+    "date": "2026-09-16T20:07:29.745211+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1029,7 +1029,7 @@
   },
   {
     "id": "ebb60892b8b227ca",
-    "date": "2026-09-16T16:54:47.377170+00:00",
+    "date": "2026-09-16T20:07:29.745080+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1058,7 +1058,7 @@
   },
   {
     "id": "c2543dc80e3ff65e",
-    "date": "2026-09-16T16:54:47.377020+00:00",
+    "date": "2026-09-16T20:07:29.744946+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1087,7 +1087,7 @@
   },
   {
     "id": "a9eebf09c4c282ee",
-    "date": "2026-09-16T16:54:47.376918+00:00",
+    "date": "2026-09-16T20:07:29.744847+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1116,7 +1116,7 @@
   },
   {
     "id": "fa90bc04677f4700",
-    "date": "2026-09-16T16:54:47.376814+00:00",
+    "date": "2026-09-16T20:07:29.744746+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1149,7 +1149,7 @@
   },
   {
     "id": "b76499b2a31f3cd6",
-    "date": "2026-09-16T16:54:47.376695+00:00",
+    "date": "2026-09-16T20:07:29.744635+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1178,7 +1178,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-09-16T16:54:47.373491+00:00",
+    "date": "2026-09-16T20:07:29.741643+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1207,7 +1207,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-09-16T16:54:47.372746+00:00",
+    "date": "2026-09-16T20:07:29.740934+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1236,7 +1236,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-09-16T16:54:47.372539+00:00",
+    "date": "2026-09-16T20:07:29.740739+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1264,37 +1264,8 @@
     ]
   },
   {
-    "id": "91b23b975a78838a",
-    "date": "2026-09-16T16:54:47.061194+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Hacking AI customer service agents (Bug Bounty Village DEF CON 34)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Hacking AI customer service agents (Bug Bounty Village DEF CON 34)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wae5zc/hacking_ai_customer_service_agents_bug_bounty/",
-    "target": "Bounty Village DEF",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wae5zc/hacking_ai_customer_service_agents_bug_bounty/"
-      }
-    ]
-  },
-  {
     "id": "10484c47c3d9d4ac",
-    "date": "2026-09-16T16:54:47.061105+00:00",
+    "date": "2026-09-16T20:07:29.563803+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1323,7 +1294,7 @@
   },
   {
     "id": "8590e1bce283c0fb",
-    "date": "2026-09-16T16:54:47.060986+00:00",
+    "date": "2026-09-16T20:07:29.563699+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1352,7 +1323,7 @@
   },
   {
     "id": "cca1dd87ee1efb64",
-    "date": "2026-09-16T16:54:47.060893+00:00",
+    "date": "2026-09-16T20:07:29.563609+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1381,7 +1352,7 @@
   },
   {
     "id": "80ac94197eaa1ef8",
-    "date": "2026-09-16T16:54:47.060803+00:00",
+    "date": "2026-09-16T20:07:29.563519+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1414,7 +1385,7 @@
   },
   {
     "id": "0fc3eaabc8191ecb",
-    "date": "2026-09-16T16:54:47.060723+00:00",
+    "date": "2026-09-16T20:07:29.563439+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1443,7 +1414,7 @@
   },
   {
     "id": "5138b8fcbb281cf1",
-    "date": "2026-09-16T16:54:47.060637+00:00",
+    "date": "2026-09-16T20:07:29.563352+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1472,7 +1443,7 @@
   },
   {
     "id": "44ce840c3f6fa82c",
-    "date": "2026-09-16T16:54:47.060550+00:00",
+    "date": "2026-09-16T20:07:29.563252+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1501,7 +1472,7 @@
   },
   {
     "id": "d4dadee9f20512f5",
-    "date": "2026-09-16T16:54:47.060468+00:00",
+    "date": "2026-09-16T20:07:29.563170+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1530,7 +1501,7 @@
   },
   {
     "id": "8b1240944dc2dfce",
-    "date": "2026-09-16T16:54:47.060376+00:00",
+    "date": "2026-09-16T20:07:29.563082+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1559,7 +1530,7 @@
   },
   {
     "id": "cc671272a45e2e8e",
-    "date": "2026-09-16T16:54:47.060298+00:00",
+    "date": "2026-09-16T20:07:29.563006+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1588,7 +1559,7 @@
   },
   {
     "id": "b93ac415e3ce155c",
-    "date": "2026-09-16T16:54:47.060216+00:00",
+    "date": "2026-09-16T20:07:29.562928+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1617,7 +1588,7 @@
   },
   {
     "id": "94dc24b9ca5beff1",
-    "date": "2026-09-16T16:54:47.060121+00:00",
+    "date": "2026-09-16T20:07:29.562840+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1646,7 +1617,7 @@
   },
   {
     "id": "66f404f60046bb55",
-    "date": "2026-09-16T16:54:47.060030+00:00",
+    "date": "2026-09-16T20:07:29.562759+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1675,7 +1646,7 @@
   },
   {
     "id": "d125ccf98cd86693",
-    "date": "2026-09-16T16:54:47.059950+00:00",
+    "date": "2026-09-16T20:07:29.562681+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1704,7 +1675,7 @@
   },
   {
     "id": "44e26d5e690a9e72",
-    "date": "2026-09-16T16:54:47.059869+00:00",
+    "date": "2026-09-16T20:07:29.562601+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1733,7 +1704,7 @@
   },
   {
     "id": "8d81d7929b0454e2",
-    "date": "2026-09-16T16:54:47.059784+00:00",
+    "date": "2026-09-16T20:07:29.562516+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1762,7 +1733,7 @@
   },
   {
     "id": "d86e57aae03527bb",
-    "date": "2026-09-16T16:54:47.059702+00:00",
+    "date": "2026-09-16T20:07:29.562433+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1791,7 +1762,7 @@
   },
   {
     "id": "0ee23bf39966693a",
-    "date": "2026-09-16T16:54:47.059599+00:00",
+    "date": "2026-09-16T20:07:29.562333+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1820,7 +1791,7 @@
   },
   {
     "id": "884d04f5690d682b",
-    "date": "2026-09-16T16:54:47.059503+00:00",
+    "date": "2026-09-16T20:07:29.562223+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1849,7 +1820,7 @@
   },
   {
     "id": "a6946feac5a72683",
-    "date": "2026-09-16T16:54:47.059413+00:00",
+    "date": "2026-09-16T20:07:29.562133+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1878,7 +1849,7 @@
   },
   {
     "id": "140b6fa5e9f19f10",
-    "date": "2026-09-16T16:54:47.059311+00:00",
+    "date": "2026-09-16T20:07:29.562032+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1906,8 +1877,37 @@
     ]
   },
   {
+    "id": "b13a4272a98fc028",
+    "date": "2026-09-16T20:07:29.561935+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "SilkParasite Infrastructure Exposed: pivoting from one page hash and a single TLS cert to a 13-server SpiceRAT cluster",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "SilkParasite Infrastructure Exposed: pivoting from one page hash and a single TLS cert to a 13-server SpiceRAT cluster",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wi30km/silkparasite_infrastructure_exposed_pivoting_from/",
+    "target": "SilkParasite Infrastructure Exposed",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wi30km/silkparasite_infrastructure_exposed_pivoting_from/"
+      }
+    ]
+  },
+  {
     "id": "47914b75adac5138",
-    "date": "2026-09-16T16:54:47.059205+00:00",
+    "date": "2026-09-16T20:07:29.561828+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1936,7 +1936,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-09-16T16:54:47.059099+00:00",
+    "date": "2026-09-16T20:07:29.561724+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1977,7 +1977,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-09-16T16:54:47.058906+00:00",
+    "date": "2026-09-16T20:07:29.561549+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2005,6 +2005,354 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "e8759fd8d3b6aa68",
+    "date": "2026-09-16T18:50:53+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+    "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "article_text": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. Researchers at Elastic Security Labs found that the malicious extensions bypass Chromium’s integrity mechanisms and load in browsers as if they had been approved by the user. The infection chain starts after the target user opens a JavaScript file disguised as a bank receipt, invoice, payment record, or business document. After passing anti-sandbox checks, the file triggers a fake error while simultaneously downloading Node.js, establishing persistence through a scheduled task, and retrieving the additional payload location from an Ethereum smart contract. Despite the name, KREMLIN is linked to a Brazilian operation responsible for at least seven campaigns since May 2025 that use lures impersonating 12 banks. A standout feature of KREMLIN is its capability to install extensions on Chrome and Edge browsers without asking the user to approve them. It waits for the browser to close or terminates it when it detects idle status, and then copies the extension into the app’s profile directories. Next, it enables developer mode and adds the extension to Chromium’s Secure Preferences. To hide its activity, the malware uses the encryption keys the browser uses to protect sensitive data and then recreates the integrity checks Chrome uses to detect changes in browser preferences. This makes the malicious extension appear valid to the browser despite never being approved by the user, a documented but rarely used technique according to the researchers. “KREMLIN uses a documented technique rarely observed in malware: it manually copies the extension into the browser's profile directories and registers it in the Secure Preferences file,” Elastic explains . “Because Chromium protects these entries with cryptographic integrity checks, the malware must retrieve the required keys and regenerate the associated HMACs and encrypted hashes.” Once installed, the extension masquerades as AVSync and performs the following actions: Elastic Security Labs researchers found that KREMLIN malware campaigns use Ethereum smart contracts as dead-drop resolvers and also abuse the Internet Archive service to host payloads hidden inside JPEG images. In more recent campaigns, the threat actor deployed the REMCOS remote access tool, but past operations pushed the Pulsar RAT. According to the researchers, the switch was likely due to REMCOS being more feature rich. By connecting the dots through infrastructure analysis and code artifacts, the researchers found the Ethereum wallet that deployed and updated the smart contracts According to the researchers, the wallet handled roughly 20,800 USDT (Tether) and 19,000 USDT in incoming and outgoing transfers, respectively. Elastic has confirmed 1,515 infected systems, almost all located in Brazil. The security firm disrupted the current KREMLIN campaign by registering a domain that the malware used as an anti-sandbox canary, causing the loader to stop due to false flags on systems that would otherwise qualify for infection. Elastic Security Labs researchers shared the tactics and techniques used in KREMLIN attacks, as well as a set of indicators of compromise . Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Chrome Web Store extensions caught stealing crypto, browser data Twitch extension with 30K installs exposes users’ OAuth tokens VoidStealer malware steals Chrome master key via debugger trick Hundreds of fake Chrome VPN extensions route traffic through a proxy Google Chrome may soon block New Tab hijacker extensions by default Microsoft releases emergency Windows updates to fix RDS failures Microsoft confirms KB5002914 Excel update breaks copy and paste Microsoft: September updates cause RDS failures on Windows Server Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Find out how long recovery really takes — and what it costs. Read the 2025 BCDR Report. Watch a working exploit hit live controls and see exactly what blocks, detects, or misses EtherHiding Malware on macOS: How Attackers Hide C2 on the Blockchain Patch automation needs more than speed. Action1 brings control into",
+    "quick_summary": [
+      "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+    "target": "Malware Chrome Edge",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/"
+      }
+    ]
+  },
+  {
+    "id": "5ec82fe111c0392e",
+    "date": "2026-09-16T18:46:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Coast Guard, FBI boarded tanker after attack by ‘foreign cyber actors’",
+    "summary": "U.S. personnel boarded an oil tanker in the Gulf of Mexico to “ensure integrity of the vessel’s operational and information technology systems,\" after an apparent cyberattack, the U.S. Coast Guard said.",
+    "article_text": "",
+    "quick_summary": [
+      "personnel boarded an oil tanker in the Gulf of Mexico to “ensure integrity of the vessel’s operational and information technology systems,\" after an apparent cyberattack, the U.S.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi",
+    "target": "Coast Guard FBI",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi"
+      }
+    ]
+  },
+  {
+    "id": "4017ae210612bccb",
+    "date": "2026-09-16T18:44:04+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
+    "summary": "Earlier today, I noted an odd request showing up in our \"First Seen\" report:",
+    "article_text": "",
+    "quick_summary": [
+      "Earlier today, I noted an odd request showing up in our \"First Seen\" report:",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33344",
+    "target": "Scans Targeting Hospitality Applications",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33344"
+      }
+    ]
+  },
+  {
+    "id": "f2236679b5e1f6cb",
+    "date": "2026-09-16T18:28:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "House passes bill to equip local law enforcement with scam-fighting tools",
+    "summary": "The Guarding Unprotected Aging Retirees from Deception Act (GUARD) attempts to address a common complaint from the victims of online scams like pig butchering — that such cases typically do not rise to the level of a federal investigation but local law enforcement is unequipped to properly investigate them.",
+    "article_text": "",
+    "quick_summary": [
+      "The Guarding Unprotected Aging Retirees from Deception Act (GUARD) attempts to address a common complaint from the victims of online scams like pig butchering — that such cases typically do not rise to the level of a fed",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://therecord.media/house-passes-bill-to-equip-local-law-enforcement-scams",
+    "target": "House",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/house-passes-bill-to-equip-local-law-enforcement-scams"
+      }
+    ]
+  },
+  {
+    "id": "09c14288fb59713a",
+    "date": "2026-09-16T18:14:22+00:00",
+    "source": "KrebsOnSecurity",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+    "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs.",
+    "article_text": "",
+    "quick_summary": [
+      "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+    "target": "Data Broker Radaris Loses",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "KrebsOnSecurity"
+    ],
+    "links": [
+      {
+        "source": "KrebsOnSecurity",
+        "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/"
+      }
+    ]
+  },
+  {
+    "id": "96c960818a834c62",
+    "date": "2026-09-16T18:00:54+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Fighting Your Dragons Through Tough Tech Times",
+    "summary": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns.",
+    "article_text": "",
+    "quick_summary": [
+      "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
+    "target": "Fighting Your Dragons Through",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market"
+      }
+    ]
+  },
+  {
+    "id": "f29ddb0965833e2c",
+    "date": "2026-09-16T17:26:41+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Spain's data agency gets first report of AI-powered data breach",
+    "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+    "article_text": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). The organization reporting the incident said that the AI agent searched for flaws, logged into their systems, and then probed apps for additional security issues. In the final stages of the attack, the agent modified personal data and accessed financial documents. Although the Spanish agency has yet to investigate the incident and verify the information, the AEPD says the notification shows AI-related data breaches are no longer merely theoretical. “The attacking agent began searching for vulnerabilities in generic files and successfully logged in,” describes AEPD. “Once it gained access to the system, it began autonomously searching for vulnerabilities in the application. After finding them, it was able to modify personal data and access invoices.” AEPD underlined that AI does not create new threats, but it can increase the speed, scale, and adaptability of cyberattacks, as well as reduce defenders' response-time margins, a paradigm shift recently highlighted by the country's National Cryptologic Center . The notification signals a shift in risk management, which should explicitly account for AI-assisted and AI-driven attacks, as automation can affect an incident’s likelihood, speed, and scope. Response time procedures should also be revised, since actions designed for manual attacks may be insufficient against agents that simultaneously analyze assets, test access methods, and adapt their behavior. AEPD also highlights the importance of strengthening digital identity and credential security, because agents can use compromised accounts, API keys, or tokens with excessive permissions to access multiple services at machine speed. Manual intervention is no longer sufficient, and human oversight should be supported by fast detection, containment, and response mechanisms. \"The arrival of AI agents in the offensive arena should prompt an immediate review of security and data protection models,\" the Spanish agency warns. Even if the AEPD confirms that autonomous AI was used in the reported data breach, the agency says this would not necessarily mean that the model powering the attack or its provider’s infrastructure was compromised, or that the model was designed to facilitate malicious cyber operations. Agentic attack activity has been reported recently in large-scale cyber operations. OpenAI’s agents escaped a testing environment and coordinated an intrusion into Hugging Face ’s production infrastructure. Threat actors used Google Gemini multi-agent systems to scan for vulnerabilities and mass credential theft , and Anthropic Claude to scan 1.8 million Android apps for secrets left in the code. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. JadePuffer ransomware used AI agent to automate entire attack AI-powered attack exploited PaperCut flaws to hack 395 organizations Nearly 700 rogue AI agents coordinated in the Hugging Face attack FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware Microsoft releases emergency Windows updates to fix RDS failures Microsoft confirms KB5002914 Excel update breaks copy and paste Microsoft: September updates cause RDS failures on Windows Server Watch a working exploit hit live controls and see exactly what blocks, detects, or misses Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. EtherHiding Malware on macOS: How Attackers Hide C2 on the Blockchain Find out how long recovery really takes — and what it costs. Read the 2025 BCDR Report. Patch automation needs more than speed. Action1 brings control into every stage of deployment. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM).",
+      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+    "target": "Spains AI-powered",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/"
+      }
+    ]
+  },
+  {
+    "id": "ddad26d6461e669f",
+    "date": "2026-09-16T17:14:35+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Check Point Vulnerability Lets Remote Hackers Gain Root Access Without Authentication",
+    "summary": "Check Point has released an urgent security fix for CVE-2026-91843, a critical stack-based buffer overflow that could let an unauthenticated remote attacker execute arbitrary code with root privileges on vulnerable security management and logging systems. The flaw carries a CVSS 3.1 score of 9.8, reflecting a network-accessible attack requiring low complexity, no privileges, and no […] The post Check Point Vulnerability Lets Remote Hackers Gain Root Access Without Authentication appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Check Point has released an urgent security fix for CVE-2026-91843, a critical stack-based buffer overflow that could let an unauthenticated remote attacker execute arbitrary code with root privileges on vulnerable secur",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/check-point-root-access-flaw/",
+    "target": "Check Point Vulnerability Lets",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/check-point-root-access-flaw/"
+      }
+    ]
+  },
+  {
+    "id": "ac59522cb815706c",
+    "date": "2026-09-16T16:54:49.998945+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT Active WSO2 API Manager Exploit: JWT Bypass with Forged Admin Tokens",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/active-wso2-api-manager-exploit-jwt-bypass-with-forged-admin-tokens",
+    "target": "EXPLOIT Active WSO2 API",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/active-wso2-api-manager-exploit-jwt-bypass-with-forged-admin-tokens"
+      }
+    ]
+  },
+  {
+    "id": "6cc29638e280d4be",
+    "date": "2026-09-16T16:54:49.998469+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Ransomware Recovery in 24–48 Hours Remains Out of Reach: 4 Cases Out of 800+ CYBERSEC",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/ransomware-recovery-in-2448-hours-remains-out-of-reach-4-cases-out-of-800",
+    "target": "Ransomware Recovery",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/ransomware-recovery-in-2448-hours-remains-out-of-reach-4-cases-out-of-800"
+      }
+    ]
+  },
+  {
+    "id": "91b23b975a78838a",
+    "date": "2026-09-16T16:54:47.061194+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Hacking AI customer service agents (Bug Bounty Village DEF CON 34)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Hacking AI customer service agents (Bug Bounty Village DEF CON 34)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wae5zc/hacking_ai_customer_service_agents_bug_bounty/",
+    "target": "Bounty Village DEF",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wae5zc/hacking_ai_customer_service_agents_bug_bounty/"
+      }
+    ]
+  },
+  {
+    "id": "5322f5f1773b1be2",
+    "date": "2026-09-16T16:43:37+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
+    "summary": "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data.",
+    "article_text": "",
+    "quick_summary": [
+      "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
+    "target": "BragJack Can Turn Browsers",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai"
       }
     ]
   },
@@ -2096,6 +2444,64 @@
     ]
   },
   {
+    "id": "0b5255c275716d4e",
+    "date": "2026-09-16T15:32:51+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "CenterPoint Energy Data Breach – Hackers Stolen Customer’s Personal Data",
+    "summary": "CenterPoint Energy disclosed a data breach after an unauthorized third party obtained personal information from some of its customers through an internet-facing company system. The Houston-based utility company revealed the incident in a Form 8-K filing with the U.S. Securities and Exchange Commission on September 14, 2026. CenterPoint said it learned of an online post […] The post CenterPoint Energy Data Breach – Hackers Stolen Customer’s Personal Data appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "CenterPoint Energy disclosed a data breach after an unauthorized third party obtained personal information from some of its customers through an internet-facing company system.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/centerpoint-energy-data-breach/",
+    "target": "CenterPoint Energy Data Breach",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/centerpoint-energy-data-breach/"
+      }
+    ]
+  },
+  {
+    "id": "8162a2d22adae9bf",
+    "date": "2026-09-16T15:31:36+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "CISA Warns of Critical ScreenConnect Vulnerability Actively Exploited in Attacks",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical ConnectWise ScreenConnect vulnerability, tracked as CVE-2026-84869, to its Known Exploited Vulnerabilities (KEV) Catalog after confirming that threat actors are actively exploiting the flaw in attacks. The issue affects ScreenConnect, a widely used remote monitoring and support platform that enables administrators and managed service […] The post CISA Warns of Critical ScreenConnect Vulnerability Actively Exploited in Attacks appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Cybersecurity and Infrastructure Security Agency (CISA) has added a critical ConnectWise ScreenConnect vulnerability, tracked as CVE-2026-84869, to its Known Exploited Vulnerabilities (KEV) Catalog after confirming that ",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/screenconnect-vulnerability-exploited/",
+    "target": "CISA Critical ScreenConnect Vulnerability",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/screenconnect-vulnerability-exploited/"
+      }
+    ]
+  },
+  {
     "id": "a149ac23b72fc267",
     "date": "2026-09-16T15:27:49+00:00",
     "source": "The Hacker News",
@@ -2125,6 +2531,122 @@
     ]
   },
   {
+    "id": "db529dcf4f7b3114",
+    "date": "2026-09-16T15:12:24+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "German Manufacturer Shrinks Security Alert Response While Protecting 10,000 Endpoints",
+    "summary": "A five-person security team at an unnamed German manufacturer has cut a reported 15 minutes from each alert investigation after replacing an air-gapped forensic laptop with ANY.RUN’s cloud-managed Interactive Sandbox. The team protects approximately 10,000 endpoints and 10,000 users across office systems and servers, illustrating how smaller security operations centers can scale enterprise malware and […] The post German Manufacturer Shrinks Security Alert Response While Protecting 10,000 Endpoints appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A five-person security team at an unnamed German manufacturer has cut a reported 15 minutes from each alert investigation after replacing an air-gapped forensic laptop with ANY.RUN’s cloud-managed Interactive Sandbox.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/german-manufacturer-security-alerts/",
+    "target": "German Manufacturer Shrinks Alert",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/german-manufacturer-security-alerts/"
+      }
+    ]
+  },
+  {
+    "id": "1e75ea23c94648de",
+    "date": "2026-09-16T15:05:48+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Critical WSO2 Vulnerability Allow Hackers to Gain Full Admin Access",
+    "summary": "WSO2 has disclosed a critical authentication bypass vulnerability that could allow remote attackers to take over accounts, including administrative accounts, in affected API management products. Tracked as CVE-2026-5430, the flaw has received a CVSS score of 10.0 and requires no authentication or user interaction to exploit. Security Advisory WSO2-2026-5328 details the issue, published on May […] The post Critical WSO2 Vulnerability Allow Hackers to Gain Full Admin Access appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "WSO2 has disclosed a critical authentication bypass vulnerability that could allow remote attackers to take over accounts, including administrative accounts, in affected API management products.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/critical-wso2-vulnerability/",
+    "target": "Critical WSO2 Vulnerability Allow",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/critical-wso2-vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "3eec601c06bc13aa",
+    "date": "2026-09-16T14:54:18+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "GhostCode Phishing Kit Bypasses Microsoft 365 MFA to Hijack Accounts in 78 Seconds",
+    "summary": "GhostCode is a newly identified phishing kit that turns a normal Microsoft 365 sign-in into an account takeover. It does not need to steal a password. Instead, it persuades people to approve a login that gives criminals access to their work account. The campaign began with ordinary-looking messages submitted through business contact forms. Attackers posed […] The post GhostCode Phishing Kit Bypasses Microsoft 365 MFA to Hijack Accounts in 78 Seconds appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "GhostCode is a newly identified phishing kit that turns a normal Microsoft 365 sign-in into an account takeover.",
+      "Risk: credentials/infostealer risk, ISNET vendor relevance",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/ghostcode-phishing-kit/",
+    "target": "GhostCode Phishing Kit Bypasses",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/ghostcode-phishing-kit/"
+      }
+    ]
+  },
+  {
+    "id": "938cf0a14398bc60",
+    "date": "2026-09-16T14:37:38+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft 365 Hit by New Outage as Users Report Widespread 502 and 503 Errors",
+    "summary": "Microsoft has confirmed a fresh service degradation affecting its Microsoft 365 suite, with users worldwide reporting an inability to access core applications since the evening of September 16, 2026. The incident, tracked internally as MO1472904, began at 7:17 PM GMT+5:30 and has been classified by Microsoft as an active service degradation rather than a full […] The post Microsoft 365 Hit by New Outage as Users Report Widespread 502 and 503 Errors appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Microsoft has confirmed a fresh service degradation affecting its Microsoft 365 suite, with users worldwide reporting an inability to access core applications since the evening of September 16, 2026.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/microsoft-365-hit-by-new-outage/",
+    "target": "Microsoft 365 Hit Outage",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/microsoft-365-hit-by-new-outage/"
+      }
+    ]
+  },
+  {
     "id": "136dd191c2f9e159",
     "date": "2026-09-16T14:36:44+00:00",
     "source": "The Hacker News",
@@ -2150,6 +2672,35 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html"
+      }
+    ]
+  },
+  {
+    "id": "240f6eb9cda07f71",
+    "date": "2026-09-16T14:36:15+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Can Rent VectraRAT for $250 a Month to Take Control of Windows PCs",
+    "summary": "Hackers can now rent a Windows-focused remote access tool called VectraRAT for $250 a month, lowering the barrier to deep and persistent compromise. The malware gives paying operators a way to watch victims, steal data, run commands, and move traffic through an infected computer. VectraRAT has surfaced as a rental-only malware service rather than a […] The post Hackers Can Rent VectraRAT for $250 a Month to Take Control of Windows PCs appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Hackers can now rent a Windows-focused remote access tool called VectraRAT for $250 a month, lowering the barrier to deep and persistent compromise.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/hackers-can-rent-vectrarat/",
+    "target": "Can Rent VectraRAT 250",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/hackers-can-rent-vectrarat/"
       }
     ]
   },
@@ -2241,6 +2792,35 @@
     ]
   },
   {
+    "id": "c95364610c222055",
+    "date": "2026-09-16T14:03:51+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Use Cross-Platform Noodle RAT to Secretly Control Windows and Linux Systems",
+    "summary": "Noodle RAT is a remote-access trojan that gives attackers control of compromised computers and servers. Its renewed visibility matters because it runs on both Windows and Linux, allowing one malware family to follow victims across corporate networks. The tool has appeared in operations against organisations across Asia-Pacific, including Thailand, India, Japan, Malaysia and Taiwan. Operators […] The post Hackers Use Cross-Platform Noodle RAT to Secretly Control Windows and Linux Systems appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Noodle RAT is a remote-access trojan that gives attackers control of compromised computers and servers.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/cross-platform-noodle-rat/",
+    "target": "Cross-Platform Noodle RAT Secretly",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/cross-platform-noodle-rat/"
+      }
+    ]
+  },
+  {
     "id": "62dd3bd0ddee65cc",
     "date": "2026-09-16T14:00:10+00:00",
     "source": "BleepingComputer",
@@ -2295,6 +2875,35 @@
       {
         "source": "The Record",
         "url": "https://therecord.media/dc-police-union-opposes-flock-camera-use-probing-officers"
+      }
+    ]
+  },
+  {
+    "id": "49a7f2be0322aa01",
+    "date": "2026-09-16T13:39:36+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Smishing Hackers Can Watch Every Keystroke as Victims Enter Card Details and OTPs",
+    "summary": "A new SMS phishing campaign turns a routine payment check into a live fraud session. Victims who tap a link reach convincing pages seeking card details, passwords, and one-time passcodes, while criminals see information as it is entered. The operation uses urgent messages impersonating official services and claiming a fee must be settled, a delivery […] The post Smishing Hackers Can Watch Every Keystroke as Victims Enter Card Details and OTPs appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A new SMS phishing campaign turns a routine payment check into a live fraud session.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/smishing-hackers/",
+    "target": "Smishing Can Watch Every",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/smishing-hackers/"
       }
     ]
   },
@@ -26190,619 +26799,6 @@
       {
         "source": "The Record",
         "url": "https://therecord.media/scam-compounds-coordination-us-uk-memorandum"
-      }
-    ]
-  },
-  {
-    "id": "ed43c853e497913d",
-    "date": "2026-09-04T15:25:59+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-    "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
-    "article_text": "Attackers have begun targeting a critical-severity Citrix NetScaler flaw in the wild, according to vulnerability intelligence company Previdian. Tracked as CVE-2026-19490 , this security flaw can allow unprivileged threat actors to bypass authentication remotely when the NetScaler appliance is configured as an AAA virtual server or as a Gateway (SSL VPN, ICA Proxy, CVPN, RDP Proxy), depending on the NetScaler firmware version and whether SAML Action is configured. \"We strongly recommend that customers review the official NetScaler ADC and NetScaler Gateway security bulletin , assess whether their deployments are affected, and upgrade impacted appliances to the recommended builds as soon as possible,\" Citrix warned in mid-August when it addressed the flaw and urged admins to patch it as soon as possible . While the company has yet to flag the vulnerability as actively exploited in its August 19 security advisory , Previdian founder and security researcher Ryan Dewhurst told BleepingComputer on Thursday that attackers have begun targeting CVE-2026-19490 in the wild after a \"credible\" proof-of-concept exploit was published online. \"On 3 September, one of our NetScaler sensors received requests matching the PoC from three distinct source IPs, geolocated to Australia, the United States and Germany,\" Dewhurst told BleepingComputer. \"Our current assessment is that this provides evidence of exploitation attempts, but it does not confirm successful compromise of real-world systems.\" The Centre for Cybersecurity Belgium, the country's National Cybersecurity Coordination Centre for Belgium (NCC-BE), also warned on Friday of exploitation attempts targeting the CVE-2026-19490 vulnerability and urged admins to prioritize patching all vulnerable Citrix NetScaler appliances on their organizations' networks. Although Internet threat watchdog Shadowserver tracks over 22,000 NetScaler ADC appliances and nearly 1,700 Gateway instances exposed online, there is no information on how many are honeypots, have vulnerable configurations, or have already been patched against CVE-2026-19490 attacks. Citrix urged admins to patch two other NetScaler flaws ( CVE-2026-3055 and CVE-2026-4368 ) in March, just days before threat actors began exploiting them in attacks . The Cybersecurity and Infrastructure Security Agency (CISA) added the CVE-2026-3055 flaw to its catalog of actively exploited vulnerabilities one week later and ordered federal agencies to patch vulnerable Citrix appliances within three days. Since November 2021, the U.S. cybersecurity agency has tagged 23 Citrix vulnerabilities as exploited in the wild, six of which have also been abused by ransomware gangs. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday Citrix urges admins to patch new NetScaler flaws as soon as possible Hackers leverage new Microsoft SharePoint exploit in attacks Hackers exploit critical JFrog Artifactory flaw to forge admin tokens Hackers target WordPress sites in miniOrange auth bypass attacks Plex warns users to patch security vulnerabilities immediately Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks Recently patched PaperCut zero-days used in data theft attacks See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Can you trust every session? See how session enrichment enables better authentication decisions. Identity, Data Governance & Threat Detection in One Platform: Take our In-Browser Tour Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-    "target": "Critical Citrix NetScaler",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/"
-      }
-    ]
-  },
-  {
-    "id": "514fd07576777d6f",
-    "date": "2026-09-04T15:20:19+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-    "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are",
-    "article_text": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are affected. Exploitation requires an account carrying the REPLICATION attribute and a server running with wal_level = logical. Backup tools, standby servers, change data capture (CDC) pipelines, and monitoring systems routinely hold that attribute. The fix, shipped on August 13, adds a server parameter called output_plugin_libraries that lists which libraries may be loaded as logical decoding output plugins, defaulting to 'pgoutput, test_decoding'. Installations using any other output plugin, wal2json, and decoderbufs among them, will have logical decoding refused after updating until an administrator adds the library to that list and reloads the server configuration. \"Previously, a replication user could select any loadable library for logical decoding, allowing exploits of various sorts. To allow locking this down without breaking setups that worked before, introduce a whitelist of allowed output plugins,\" the PostgreSQL Global Development Group said in the 18.6 release notes . The PostgreSQL Project credited Vladimir Tokarev and Yu Kunpeng with reporting the problem. Tokarev detailed it in a September 1 write-up for data security firm Cyera Research, which names the flaw PostGREShell . The plugin name supplied in a CREATE_REPLICATION_SLOT command is passed directly to the function that loads the library, Cyera said. PostgreSQL's existing restriction on plugin paths, which confines non-superusers to a single administrator-controlled directory, is never called on the replication path. The replication protocol's parser accepts almost any character inside a double-quoted plugin name, including path separators and ../ traversal, so a full filesystem path reaches the loader as typed. On Windows, the server resolves a network path over Server Message Block (SMB) and fetches the library from a machine the attacker controls, writing nothing to the target, Cyera said. On Linux and macOS, the same result requires enabling Network File System (NFS) automounting. Everywhere else the attacker needs an existing way to write a file to the server's disk. Code loaded this way runs inside the database backend process as the postgres operating-system user. Cyera's test plugin then wrote the role catalog directly to make the replication account a PostgreSQL superuser. It also set up three persistence mechanisms that survive a server restart. Cyera describes the REPLICATION attribute as a low-privilege backup credential, but PostgreSQL scored the flaw with Privileges Required set to High, a rating reproduced in SUSE's own assessment . PostgreSQL rejected applying its existing LOAD restriction to the replication path. \"REPLICATION users were not previously subject to restrictions on output plugin paths, so they were able to bypass LOAD-time protections during logical decoding. Unfortunately, adding the standard LOAD restrictions now would retroactively require all third-party output plugins to be installed under the $libdir/plugins directory,\" Jacob Champion, who wrote the fix, said in the commit message . Failed loads appear in the server log as ERROR: library \"...\" may not be used as an output plugin, with a hint naming the setting, according to the parameter's documentation . Fixed packages are available on Amazon RDS for all five branches, as well as from Debian, SUSE, and Ubuntu. PostgreSQL's advisory covers supported branches 14 through 18 and does not address earlier ones. PostgreSQL 14 stops receiving fixes on November 12, 2026, the project said in its release announcement . The upstream fix \"requires additional changes to the configuration if some extensions are used,\" Debian's advisory warns, naming its wal2json and decoderbufs packages. Ubuntu's USN-8653-1 , which shipped the fix for 22.04, 24.04, and 26.04 LTS on August 20, makes no mention of the parameter and tells administrators only to restart PostgreSQL after the update. As of September 4, the wal2json project had updated its documentation to tell users to add the plugin to output_plugin_libraries, citing the CVE. A patch was under review and had not been committed as of September 4",
-    "quick_summary": [
-      "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-    "target": "PostgreSQL Fixes 12-Year-Old Logical",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html"
-      }
-    ]
-  },
-  {
-    "id": "762aadb5e02e25ca",
-    "date": "2026-09-04T14:51:13+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-    "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and",
-    "article_text": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and the ability to replace the running binary. Rapid7 Labs attributed the toolkit with medium confidence to North Korean state-sponsored actors and put the two victims in South Korea's automotive and media sectors. Command-and-control (C2) requests never reach a backend server and are erased from HAProxy's own connection counters, so neither the backend logs nor the load balancer's statistics record them. \"Further evidence is necessary to make a more definitive assessment,\" Rapid7 said. A request for one specific image path puts the filter into C2 mode, Rapid7 said in a report published Friday . The implant decrements HAProxy's live connection counters, thereby dropping the connection from the load balancer's statistics. It writes the command body to a named pipe under /tmp. Zeroing the request channel afterwards leaves nothing to forward, and the command terminates at the load balancer. Output returns on the raw socket under a standard HTTP/1.0 200 OK header, which is what makes the exchange look like ordinary web traffic. Through that channel, the operator can beacon, upload and download files, run shell commands, and replace the implant's configuration. Only requests clearing four checks receive a modified page. The request has to carry a User-Agent and match a rule whose URL and referer patterns both fit. Delivery then falls to either whitelist membership on the client address, checked exactly and again at the /24 level, or an operator key in the Accept-Language header that overrides the address filtering entirely. The implant rewrites the content type and length on the way out, forces the response status to 200, and deletes the Accept-Ranges header so a client cannot request byte ranges and notice the size change. Rapid7 said its evidence was not enough to establish a timeline or determine how the attackers first got in. Its hypothesis that they came in through an exposed Groupware portal, a class of Korean enterprise collaboration software, rests on the ENKI research it points to . That report documented Kimsuky compromising a groupware vendor through a mail server flaw. The stager deploys only where HAProxy or cron is already running, and it verifies root before dropping anything. It overwrites the legitimate crond binary and gives the replacement the creation timestamp of /usr/bin/ssh. It then strips the keywords tmp, wget, cron and crond from root's bash history and from six system logs, among them auth.log and audit/audit.log. A trojanized sshd in the same toolkit encrypts captured plaintext passwords and writes them to a fixed path. Rapid7 found the same code in trojanized agetty, atd, and polkitd binaries. A companion remote access trojan (RAT) that Rapid7 calls curlRAT beacons every 12 hours by default and drops to a 30-second interval when the operator sets a flag. It aborts unless it finds a marker file showing the host is virtualized. curlRAT is distinct from CurlBack RAT, a separate family of that name attributed to the Pakistan-linked SideCopy group. Rapid7 shared the following indicators of compromise (IoCs) - The Hacker News confirmed on September 4 that none of the six domains resolves, returning NXDOMAIN, meaning no such name exists, for both A and NS records via Google Public DNS. They are useful for reviewing historical logs rather than for blocking live traffic. Part of the attribution rests on a listing of those domains under APT37 in maltrail, an open-source detection project. The maltrail file Rapid7 links stopped resolving after a repository restructure in August moved the project's static trail data elsewhere. The Hacker News confirmed on September 4 that all six are present at the new location, each labelled as APT37 infrastructure. maltrail's APT37 source file credits those entries to two posts on X from July 2025 and carries no reference to Rapid7. Six further domains sit in the same two maltrail entries but not in Rapid7's list: primgs[.]lol, admin.primgs[.]lol, grip-cdns[.]space, show.grip-cdns[.]space, cleanos[.]online and app.cleanos[.]online. Rapid7 has not said whether they are the same infras",
-    "quick_summary": [
-      "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-    "target": "Ted Backdoor Hides Inside",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html"
-      }
-    ]
-  },
-  {
-    "id": "f1ba5d259292c3ed",
-    "date": "2026-09-04T14:45:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
-    "summary": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a year earlier.",
-    "article_text": "",
-    "quick_summary": [
-      "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a yea",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
-    "target": "Unknown",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes"
-      }
-    ]
-  },
-  {
-    "id": "2d295c95d95a1cfd",
-    "date": "2026-09-04T14:44:43+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Use Popular Messaging Services to Control New Windows Backdoors",
-    "summary": "A financially motivated threat group known as Toy Ghouls has begun using two custom Windows backdoors that communicate through popular messaging and broker services. The tools give attackers a discreet way to run commands, collect system details, and maintain control over compromised devices. The campaign marks a change for the group, which had previously relied […] The post Hackers Use Popular Messaging Services to Control New Windows Backdoors appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A financially motivated threat group known as Toy Ghouls has begun using two custom Windows backdoors that communicate through popular messaging and broker services.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/popular-messaging-services/",
-    "target": "Popular Messaging Services Control",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/popular-messaging-services/"
-      }
-    ]
-  },
-  {
-    "id": "32ad3894e6fa1235",
-    "date": "2026-09-04T14:30:15+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft says some users can’t open the Teams desktop client",
-    "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
-    "article_text": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. This new feature builds on another Teams policy introduced in June that added smarter bot protection , ensuring all detected bots are tagged in the lobby and require organizer approval before joining. The new policy goes one step further and will automatically prevent external bots from joining Teams meetings, without requiring explicit organizer confirmation before they're admitted. \"With this update, organizations can strengthen meeting security by configuring Teams policies to automatically block detected external meeting bots from joining meetings,\" the company said in a Microsoft 365 Message Center update on Friday. \"This gives administrators additional control over how identified bots are handled and can help reduce organizational risk.\" This new admin policy is rolling out as part of a targeted release until the end of August and should reach general availability worldwide by late September. It will be available under the \"Manage bots\" meeting protection settings in the Teams admin center, will be off by default, and will require admin activation and evaluation before deployment. After being enabled, the policy can be assigned to specific users or groups through existing Teams meeting policy management, and all identified external meeting bots will be blocked from joining meetings governed by the newly assigned policy. The change ensures that third-party bots (which can have various uses, from note-taking and transcription to other automated tasks) and malicious apps controlled by threat actors cannot join Teams meetings without attendees and organizers realizing that a non-human participant has been added. As Microsoft warned in April, attacks abusing Teams for access and lateral movement on enterprise networks are surging, with threat actors impersonating IT or helpdesk staff to contact employees via cross-tenant chats and trick them into granting remote access to steal data. Since December, admins can also block external Teams users via the Defender portal to thwart cybercrime gangs (including ransomware groups ) attempting to abuse Teams in social engineering attacks targeting victims' employees. As announced in June, Microsoft is also planning to add additional admin controls, including policies to block external bots entirely, allow lists for approved bots, admin reports and audit logs on bot detection and presence, and more granular controls for different security requirements.​ Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft 365 outage affects Teams, SharePoint and other services Microsoft PowerToys adds Alt+Tab-style switching for an app's windows Microsoft: August updates break printing, PDF export in WPF apps Microsoft patches max severity code execution, privilege escalation flaws Hackers infect Android car head units with proxy botnet malware ToxicPanda Android malware uses VPN permissions to block Google Play ReliaQuest confirms failed data-theft attack after ShinyHunters breach Discover how least agency keeps your AI tools capable, controlled, and secure. Protect yourself from data brokers, scammers, and the next data breach with digital identities. See how AI is reshaping email attacks. Download the 2026 Kaseya Email Security Report. Discover why encryption and key management are critical for modern business. Overdue a password health-check? Audit your Active Directory for free Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-    "target": "Microsoft Teams",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/"
-      }
-    ]
-  },
-  {
-    "id": "c90ba230de06dd68",
-    "date": "2026-09-04T14:29:44+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "NodeStealer Can Now Record Everything Victims Type and Steal Their Screenshots",
-    "summary": "NodeStealer has returned with a more invasive toolkit. The Python-based information stealer can now record keystrokes, watch copied text, and capture victims’ screens, turning an account-stealing infection into continuous surveillance. The change raises the stakes for people whose browsers hold work, banking, or social-media access. First tracked in 2023, NodeStealer initially focused on sensitive browser […] The post NodeStealer Can Now Record Everything Victims Type and Steal Their Screenshots appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "NodeStealer has returned with a more invasive toolkit.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/nodestealer-record-everything/",
-    "target": "NodeStealer Can Now Record",
-    "type": "Malware",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/nodestealer-record-everything/"
-      }
-    ]
-  },
-  {
-    "id": "2d2a169ca84f3b96",
-    "date": "2026-09-04T14:21:30.520065+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY FalconFlank PoC: Zero-Day Privilege Escalation in CrowdStrike Falcon Sensor",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/falconflank-poc-zero-day-privilege-escalation-in-crowdstrike-falcon-sensor",
-    "target": "ZERO-DAY FalconFlank PoC",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/falconflank-poc-zero-day-privilege-escalation-in-crowdstrike-falcon-sensor"
-      }
-    ]
-  },
-  {
-    "id": "82f9434bebd5fdab",
-    "date": "2026-09-04T14:21:30.519375+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Node.js Turns Trojan Horse: Signed Runtime Hides Targeted Malware malware",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/malware/nodejs-turns-trojan-horse-signed-runtime-hides-targeted-malware",
-    "target": "Node.js Turns Trojan Horse",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/nodejs-turns-trojan-horse-signed-runtime-hides-targeted-malware"
-      }
-    ]
-  },
-  {
-    "id": "60fee22e11fa1d73",
-    "date": "2026-09-04T14:21:30.519262+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "BraZetsu: The Brazilian Malware Turning Every PC into a Dark Web Product malware",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/malware/brazetsu-the-brazilian-malware-turning-every-pc-into-a-dark-web-product",
-    "target": "BraZetsu",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/brazetsu-the-brazilian-malware-turning-every-pc-into-a-dark-web-product"
-      }
-    ]
-  },
-  {
-    "id": "40755a11d9c78562",
-    "date": "2026-09-04T14:21:28.064542+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ValleyRAT campaign uses fake GSTR-3B overdue notice targeting Indian taxpayers",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ValleyRAT campaign uses fake GSTR-3B overdue notice targeting Indian taxpayers",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1vsm77y/valleyrat_campaign_uses_fake_gstr3b_overdue/",
-    "target": "ValleyRAT GSTR-3B Indian",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vsm77y/valleyrat_campaign_uses_fake_gstr3b_overdue/"
-      }
-    ]
-  },
-  {
-    "id": "602e4825272a3f71",
-    "date": "2026-09-04T14:09:55+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Use Invisible Unicode Characters to Evade Phishing Detection in Millions of Emails",
-    "summary": "Attackers are using invisible Unicode characters to make phishing emails appear harmless while disrupting the security systems built to spot suspicious language. The campaign pushed finance-themed messages at massive scale, showing how a tiny change inside a word can weaken standard filtering. Recipients saw ordinary offers for funding, loans, or credit, but the underlying text […] The post Hackers Use Invisible Unicode Characters to Evade Phishing Detection in Millions of Emails appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Attackers are using invisible Unicode characters to make phishing emails appear harmless while disrupting the security systems built to spot suspicious language.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/hackers-use-invisible-unicode/",
-    "target": "Invisible Unicode Characters Evade",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/hackers-use-invisible-unicode/"
-      }
-    ]
-  },
-  {
-    "id": "6c39170a15364746",
-    "date": "2026-09-04T14:01:11+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "39 New Methods That Compromise Passkey Authentication",
-    "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cryptography. [...]",
-    "article_text": "Passkeys were introduced with a strong security proposition. Replace passwords with public key cryptography, bind the credential to the legitimate service, keep the private key away from the server, and many of the phishing and credential theft attacks that have plagued enterprise security for decades become dramatically harder. All of that is true. But the security conversation has changed very quickly. There are now at least 39 publicly documented methods, attack paths, research techniques, and exploitation scenarios involving passkeys and the infrastructure around them. Many already have working proof of concept tools or published research showing exactly how the techniques can be executed. Some are already appearing in real world attack patterns. That does not mean criminals have operationalized all 39. It does mean the playbook is being written in public, and attackers no longer have to invent these techniques themselves. More importantly, the research exposes a fundamental distinction that enterprises need to understand. The cryptography inside FIDO2 can remain completely intact while the account protected by the passkey is still compromised. A modern passkey authentication ceremony crosses an extraordinary number of trust boundaries. It can involve the web application, browser, operating system, password manager, cloud synchronization service, mobile device, Bluetooth transport, account recovery system, enrollment process, help desk, and ultimately the human being approving the authentication. Researchers are attacking almost every one of those layers. Published techniques now include assertion mining, assertion replay, circuit breaker attacks, assertion phishing, browser hooking, assertion capture, challenge injection, detour replay, user verification manipulation, and user presence manipulation. SpecterOps demonstrated the significance of this problem in its Pass the Passkey research. One of its most important observations was that malware does not necessarily need to extract a private key. A malicious Windows application can ask the legitimate WebAuthn infrastructure to generate a signed assertion. The user sees what appears to be a legitimate Windows authentication experience, completes verification, and the attacker receives the resulting assertion. The private key never left its protected location. The cryptography was not cracked. Yet the authentication process was successfully manipulated. That distinction is central to understanding the new passkey threat model. Passkeys are not completely secure unless they are tied to dedicated biometric hardware. Learn how attackers exploit passkey enrollment rather than breaking passkey cryptography, and why dedicated biometric hardware strengthens enterprise identity assurance. Several of the 39 published techniques target the user interface surrounding authentication. Researchers have demonstrated passkey prompt flooding, credential interface deception, application metadata spoofing, window handle spoofing, remote desktop passkey phishing, and FIDO interface overlay attacks. This recreates a problem the security industry already encountered with push-based MFA. Users become accustomed to authentication prompts. Once authentication becomes a routine visual interaction, attackers can manufacture, repeat, disguise, or strategically time those interactions. SpecterOps demonstrated tooling capable of repeatedly invoking legitimate looking Windows passkey prompts. Researchers also demonstrated techniques that can make malicious authentication activity appear to originate from an application the employee already trusts. The lesson is important. Phishing resistance at the cryptographic protocol layer does not guarantee deception resistance across the operating system, browser, application, and user interface layers surrounding that protocol. The attack surface grows significantly when passkeys can be shared, synchronized, exported, restored, or moved between devices. The published inventory now includes synced vault compromise, Apple or Google account takeover, cloud recovery takeover, stolen or compromised phones, mobile malware, rooted mobile devices, hybrid authentication manipulation, KeePassXC export theft, Bitwarden export theft, credential exchange theft, malicious browser extensions, and attacks involving CTAP and Bluetooth communication. This is not fundamentally a cryptography problem. It is an architectural problem. Once a credential can move between devices,",
-    "quick_summary": [
-      "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-    "target": "Methods That Compromise Passkey",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/"
-      }
-    ]
-  },
-  {
-    "id": "43ab0e036539978f",
-    "date": "2026-09-04T13:39:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
-    "summary": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
-    "article_text": "",
-    "quick_summary": [
-      "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
-    "target": "Russian Ukraines",
-    "type": "Data Leak / Breach",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/russia-data-centers-ukraine-drone-threats"
-      }
-    ]
-  },
-  {
-    "id": "9577110714b574b5",
-    "date": "2026-09-04T13:23:12+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
-    "summary": "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution. The post Sangoma Switchvox Vulnerabilities Exploited in the Wild appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
-    "target": "Sangoma Switchvox Vulnerabilities Exploited",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/"
-      }
-    ]
-  },
-  {
-    "id": "47b29ec4460a0069",
-    "date": "2026-09-04T13:22:01+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-    "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-    "article_text": "An anonymous security researcher who uses the \" Nightmare Eclipse \" handle released a CrowdStrike Falcon zero-day exploit named \" FalconFlank \" that lets attackers escalate privileges on up-to-date Windows systems. Nightmare Eclipse says the new vulnerability (which has yet to be assigned a CVE ID) affects devices running the latest versions of Windows 11 and Windows Server, as well as CrowdStrike's endpoint security platform. Successful exploitation allows attackers to spawn a command prompt with SYSTEM privileges by abusing CrowdStrike Falcon's Office malicious macros remediation feature. \"FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in Crowdstrike Falcon Sensor, obviously by the time I drop this Crowdstrike would already have detections for it so if you want to test you either have to add it to the exclusions or obfuscate the PoC and change the dll load technique,\" Nightmare Eclipse said . \"As of now it works in a fully updated windows 11 25H2 / Windows Server 2025 with Crowdstrike Falcon.\" When BleepingComputer asked for more details about this vulnerability, a CrowdStrike spokesperson said the company is investigating the researcher's claims and advised customers to disable the Microsoft Office Windows policy setting that toggles the security software's File Suspicious Macro Removal feature. \"We are actively investigating these claims and advise customers to disable the Microsoft Office File Suspicious Macro Removal Windows policy setting,\" the spokesperson told BleepingComputer. \"Customers remain protected through the Cloud Anti-malware for Microsoft Office Files settings. We refer customers to the FalconFlank Tech Alert in the CrowdStrike support portal.\" Although the company also shared this link to the tech alert regarding the FalconFlank zero-day exploit, the advisory is not public, and customers can access it only if they have an account on CrowdStrike's support portal. CrowdStrike has yet to reply to a second email asking for a copy of the FalconFlank tech alert and whether a CVE ID has been assigned to the FalconFlank flaw. This week, Nightmare Eclipse has also released privilege escalation zero-day exploits for Kaspersky Antivirus for Endpoint (named HardBreacher ) and GenDigital Avast Antivirus ( PrettyPrague ), as well as a denial-of-service zero-day for Nvidia (named GreenSection ) that will crash the system. Cybersecurity expert Kevin Beaumont confirmed on Thursday that the privilege escalation exploits released by Nightmare Eclipse this week are real and work. Nightmare Eclipse has also disclosed multiple zero-day exploits targeting multiple Microsoft products since April, including Microsoft Defender, BitLocker, and various other Windows components. These Microsoft zero-days are known as LegacyHive , RoguePlanet , BlueHammer , RedSun , YellowKey , GreenPlasma , MiniPlasma , and UnDefend . While the LegacyHive, RoguePlanet, YellowKey, GreenPlasma, and MiniPlasma flaws have since been fixed, the other security flaws remain zero-days and are still awaiting an official patch. After Nightmare Eclipse disclosed the first zero-days, Microsoft responded with warnings of legal action against people engaging in \"malicious activity causing real harm to our customers,\" prompting many to believe that the company was directly threatening the security researcher. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Sonicwall warns of new SMA1000 zero-day exploited in attacks Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks ServiceNow warns of three max severity security vulnerabilities CISA: Windows Task Host flaw now exploited by ransomware gangs Microsoft working on Defender patch for ShieldBreak zero-day Plex warns users to patch security vulnerabilities immediately Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks Recently patched PaperCut zero-days used in data theft attacks Identity, Data Governance & Threat Detection in One Platform: Take our In-Browser Tour See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Can you trust every session? See how session enrichment enables better authentication decisions. Read our posting guidelinese to",
-    "quick_summary": [
-      "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-    "target": "CrowdStrike FalconFlank SYSTEM",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/"
-      }
-    ]
-  },
-  {
-    "id": "16abffda11729136",
-    "date": "2026-09-04T13:21:43+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Turn Claude, Qwen and DeepSeek Into AI Agents for Real-World Cyberattacks",
-    "summary": "Hackers have turned commercial AI models into working parts of a cyberattack operation. The campaign paired AI-directed tasking with familiar methods such as vulnerable public-facing servers, stolen credentials, webshells, and custom remote-access malware. The operation reached Taiwan’s Kuomintang Party History Archives, Indonesia’s Ministry of Foreign Affairs, and government and education networks in mainland China. A […] The post Hackers Turn Claude, Qwen and DeepSeek Into AI Agents for Real-World Cyberattacks appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Hackers have turned commercial AI models into working parts of a cyberattack operation.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/ai-agents-for-real-world-cyberattacks/",
-    "target": "Turn Claude Qwen DeepSeek",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/ai-agents-for-real-world-cyberattacks/"
-      }
-    ]
-  },
-  {
-    "id": "d1e840498ba5f5f3",
-    "date": "2026-09-04T13:00:28+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft Confirms New Exchange Online Outage Delaying Emails from External Domains",
-    "summary": "Microsoft has confirmed a fresh Exchange Online incident, tracked as EX1467029, causing delays for users sending and receiving email messages from external domains. The company first acknowledged the disruption on September 4, 2026, flagging it as a service degradation issue affecting Exchange Online, one of the most widely used business email platforms in the world. […] The post Microsoft Confirms New Exchange Online Outage Delaying Emails from External Domains appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Microsoft has confirmed a fresh Exchange Online incident, tracked as EX1467029, causing delays for users sending and receiving email messages from external domains.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/exchange-online-outage-delaying-emails/",
-    "target": "Microsoft Confirms Exchange Online",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/exchange-online-outage-delaying-emails/"
-      }
-    ]
-  },
-  {
-    "id": "5106c38994e78dcd",
-    "date": "2026-09-04T13:00:00+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
-    "summary": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
-    "article_text": "",
-    "quick_summary": [
-      "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
-    "target": "Ending Era Hidden Vulnerabilities",
-    "type": "General Cybersecurity",
-    "severity": "Medium",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready"
-      }
-    ]
-  },
-  {
-    "id": "2b54e96a56a09ff2",
-    "date": "2026-09-04T12:34:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "G7 urges organizations to prepare for quantum cyber threats",
-    "summary": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.",
-    "article_text": "",
-    "quick_summary": [
-      "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
-    "target": "Unknown",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats"
-      }
-    ]
-  },
-  {
-    "id": "dfb5512371c6f31c",
-    "date": "2026-09-04T12:22:30+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-    "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
-    "article_text": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. The company first acknowledged this incident (tracked under EX1467029 ) at 02:19 AM EDT, when it began investigating reports of intermittent \"Server busy\" errors. \"This issue impacts users who may be attempting to send and receive email messages from external domains in Exchange Online. Users may experience intermittent 'Server busy' errors, affecting multiple mailboxes,\" Microsoft said in a service alert seen by BleepingComputer. \"Depending on the client, the service should attempt to periodically retry sending the email previously impacted by the issue. If the initial sender received an NDR after 24-72 hours (different clients or email providers can vary), they will need to send a new email.\" Microsoft says these ongoing email issues may be aggravated by anti-spam protections, which further delay affected accounts. The company did not provide a timeline for full remediation, saying it's still investigating the issue to understand the root cause and will provide further details later today. \"Our initial investigation has identified instances where anti-spam protections may be contributing to impact for a subset of users,\" the company added. \"We are continuing to analyse the behaviour and review service telemetry to better understand the underlying cause and determine the most effective mitigation path.\" While Microsoft has yet to disclose which regions are impacted by this ongoing outage or how many users are affected, it has flagged it as an incident, which usually involves noticeable user impact. In April, Microsoft also resolved an Exchange Online outage that prevented users from accessing mailboxes and calendars via Outlook on the web, Outlook desktop, Exchange ActiveSync, and other Exchange Online connection protocols. and Exchange Online mailbox access issues that intermittently affected Outlook mobile and macOS users for weeks. More recently, in June, it addressed a similar service issue affecting the mail flow for customers in North America, Asia-Pacific (APAC), and Europe. Earlier this week, on Thursday, it also mitigated a massive outage that caused authentication issues, connection problems, service delays and failures, and other issues for Microsoft 365 customers. Update September 04, 10:26 EDT: Microsoft says that the EX1467029 issue has been resolved for new emails. \"Telemetry shows that the service is performing as expected for new emails and this is in line with organizations confirming that the issue no longer occurring,\" Microsoft said. \"We're monitoring email queues and performing final validations to confirm the issue is fully resolved.\" Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Massive Microsoft 365 outage causes auth issues, service failures Exchange Online to block emails from vulnerable on-prem servers Microsoft working to fix Exchange Online mailbox quarantine issue Microsoft says some users can’t open the Teams desktop client Microsoft confirms outage affecting search in Microsoft 365 apps Plex warns users to patch security vulnerabilities immediately Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks Recently patched PaperCut zero-days used in data theft attacks Identity, Data Governance & Threat Detection in One Platform: Take our In-Browser Tour See how attackers exploit passkey enrollment, and why hardware-bound biometrics raise enterprise identity assurance. Can you trust every session? See how session enrichment enables better authentication decisions. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-    "target": "Exchange Online Server",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/"
       }
     ]
   }
