@@ -1,69 +1,7 @@
 [
   {
-    "id": "8b002eb6f6eb195c",
-    "date": "2026-09-23T20:21:31.542081+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY BigDiskBuster: The Zero-Day That Leaves Microsoft Defender Stuck on Stale Definitions",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/bigdiskbuster-the-zero-day-that-leaves-microsoft-defender-stuck-on-stale-definitions",
-    "target": "ZERO-DAY BigDiskBuster",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/bigdiskbuster-the-zero-day-that-leaves-microsoft-defender-stuck-on-stale-definitions"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/bigdiskbuster-researcher-naceri-claims-tool-blocks-windows-defender-updates"
-      }
-    ]
-  },
-  {
-    "id": "ab0055d8b6a52572",
-    "date": "2026-09-23T20:21:31.542004+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL WordPress 7.1.2: Critical Core Path Traversal Patch, Conditional RCE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/wordpress-712-critical-core-path-traversal-patch-conditional-rce",
-    "target": "CRITICAL WordPress 7.1.2",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/wordpress-712-critical-core-path-traversal-patch-conditional-rce"
-      }
-    ]
-  },
-  {
     "id": "5562b947266d4f01",
-    "date": "2026-09-23T20:21:31.541926+00:00",
+    "date": "2026-09-23T23:41:29.852085+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -92,7 +30,7 @@
   },
   {
     "id": "decea335140e5cfc",
-    "date": "2026-09-23T20:21:31.541849+00:00",
+    "date": "2026-09-23T23:41:29.851967+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -121,7 +59,7 @@
   },
   {
     "id": "de73624452be1179",
-    "date": "2026-09-23T20:21:31.541766+00:00",
+    "date": "2026-09-23T23:41:29.851841+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -150,7 +88,7 @@
   },
   {
     "id": "b2955f06634b9250",
-    "date": "2026-09-23T20:21:31.541674+00:00",
+    "date": "2026-09-23T23:41:29.851722+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -178,47 +116,13 @@
     ]
   },
   {
-    "id": "742daef5e143e67f",
-    "date": "2026-09-23T20:21:31.541600+00:00",
+    "id": "dfdb4242a6c44e8a",
+    "date": "2026-09-23T23:41:29.851608+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "LausivLoader: The Malware That Defeats Fragmented Analysis malware",
-    "summary": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable â€“ it asked the recipient to review some attached requirements and provide a price quotation for a fiber optic system and appeared to impersonate an employee of a legitimate company.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/malware/lausivloader-the-malware-that-defeats-fragmented-analysis",
-    "target": "LausivLoader",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "DeafNews",
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/lausivloader-the-malware-that-defeats-fragmented-analysis"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33348"
-      }
-    ]
-  },
-  {
-    "id": "d7f479081f662d3e",
-    "date": "2026-09-23T20:21:31.541527+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "F5 BIG-IP APM Zero-Day: RCE on OAuth Authorization Server, 14,700+ IPs Exposed CYBERSEC ZERO-DAY",
+    "title": "CRITICAL Foxit PDF Reader: RCE via Malicious PDF, 68 Days to Patch",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -226,9 +130,9 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/f5-big-ip-apm-zero-day-rce-on-oauth-authorization-server-14700-ips-exposed",
-    "target": "BIG-IP APM Zero-Day",
-    "type": "Data Leak / Breach",
+    "link": "https://deafnews.it/en/news/cybersecurity/foxit-pdf-reader-rce-via-malicious-pdf-68-days-to-patch",
+    "target": "CRITICAL Foxit PDF Reader",
+    "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
       "DeafNews"
@@ -236,13 +140,42 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/f5-big-ip-apm-zero-day-rce-on-oauth-authorization-server-14700-ips-exposed"
+        "url": "https://deafnews.it/en/news/cybersecurity/foxit-pdf-reader-rce-via-malicious-pdf-68-days-to-patch"
+      }
+    ]
+  },
+  {
+    "id": "28a177419b3e7ae2",
+    "date": "2026-09-23T23:41:29.851474+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Wireshark: RCE Vulnerability in RF4CE Parser, Patch Available",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/wireshark-rce-vulnerability-in-rf4ce-parser-patch-available",
+    "target": "CRITICAL Wireshark",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/wireshark-rce-vulnerability-in-rf4ce-parser-patch-available"
       }
     ]
   },
   {
     "id": "4297403022f575d8",
-    "date": "2026-09-23T20:21:31.541448+00:00",
+    "date": "2026-09-23T23:41:29.851370+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -275,7 +208,7 @@
   },
   {
     "id": "6033a5b8f3a45845",
-    "date": "2026-09-23T20:21:31.541286+00:00",
+    "date": "2026-09-23T23:41:29.851146+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -304,7 +237,7 @@
   },
   {
     "id": "2b357c3baa6b77b3",
-    "date": "2026-09-23T20:21:31.541198+00:00",
+    "date": "2026-09-23T23:41:29.851020+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -333,7 +266,7 @@
   },
   {
     "id": "1eaa06b4796c703b",
-    "date": "2026-09-23T20:21:31.541114+00:00",
+    "date": "2026-09-23T23:41:29.850900+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -362,7 +295,7 @@
   },
   {
     "id": "02a8179c7d57ec38",
-    "date": "2026-09-23T20:21:31.541015+00:00",
+    "date": "2026-09-23T23:41:29.850768+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -390,15 +323,15 @@
     ]
   },
   {
-    "id": "3b1831bcab294495",
-    "date": "2026-09-23T20:21:31.540510+00:00",
+    "id": "10c5d4468026fcf6",
+    "date": "2026-09-23T23:41:29.850648+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "ransomware Ryuk: 24 Months for Core Affiliate Highlights Federal Sentencing Disparity Sep 23, 2026",
+    "title": "Ryuk: 24 Months for Core Affiliate Highlights Federal Sentencing Disparity ransomware",
     "summary": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-    "article_text": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. 35-year-old Karen Serobovich Vardanyan (also known online as \"Maneeken\" or \"Karl Lagerfeld\"), who specialized in gaining initial access to corporate networks, pleaded guilty in July after being extradited from Kyiv, Ukraine, following his April 2025 arrest. According to court documents , Vardanyan hacked into the networks of multiple U.S. organizations in Ryuk ransomware attacks between March 2019 and approximately June 2020. In one of these attacks, Vardanyan and his accomplices breached a Michigan company that paid 200 BTC (worth over $1.1 million at the time). Prosecutors also said the cybercriminals breached a school in Texas and a technology company in Wilsonville, Oregon. \"Vardanyan and his co-conspirators illegally accessed computer networks of victim companies and deployed ransomware on hundreds of compromised servers and workstations,\" the U.S. Department of Justice said in July. \"Vardanyan and his co-conspirators are alleged to have received approximately 1,610 bitcoins in ransom payments from the victim companies, which was valued at over $15 million at the time of payment.\" Ryuk was a ransomware-as-a-service (RaaS) operation active between August 2018 and mid-2020 that became notorious after launching a massive wave of attacks targeting the healthcare sector during the COVID-19 pandemic. At its peak, the Ryuk ransomware group hacked around 20 victims every week , collecting more than $150 million in ransoms. Following Ryuk's shutdown in 2020, the Wizard Spider cybercrime gang behind it switched to Conti ransomware , which quickly became one of the most prolific hacker groups. However, Conti also disbanded in 2022 after its internal chats and source code were leaked in May 2022, and it splintered into multiple smaller units that infiltrated existing ransomware gangs or launched new operations. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Man gets six years for hacking 750 women's Snapchat accounts ATF confirms “major incident” after recent Qilin breach claims CISA: Medusa ransomware hit over 500 critical infrastructure orgs Data analyst sent to prison for stealing data, extorting employer 2 things: 1) this is nothing but a slap on the wrist, until we actually persecute these aholes with 30+ year prison sentences, they will continue. 24 months is nothing 2) its always Ukraine...people say Russia hacks alot, but its 90% of the time Ukrainians...this is why we shouldn't support them Researchers escape OpenAI Codex sandbox to run commands on host Malicious npm packages evade install-script defenses at runtime Microsoft reminds admins to migrate Entra ID users to passkeys Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. 35-year-old Karen Serobovich Vardanyan (also known online as \"Maneeken\" or \"Karl Lagerfeld\"), who specialized in gaining initial access to corporate networks, pleaded guilty in July after being extradited from Kyiv, Ukraine, following his April 2025 arrest. According to court documents , Vardanyan hacked into the networks of multiple U.S. organizations in Ryuk ransomware attacks between March 2019 and approximately June 2020. In one of these attacks, Vardanyan and his accomplices breached a Michigan company that paid 200 BTC (worth over $1.1 million at the time). Prosecutors also said the cybercriminals breached a school in Texas and a technology company in Wilsonville, Oregon. \"Vardanyan and his co-conspirators illegally accessed computer networks of victim companies and deployed ransomware on hundreds of compromised servers and workstations,\" the U.S. Department of Justice said in July. \"Vardanyan and his co-conspirators are alleged to have received approximately 1,610 bitcoins in ransom payments from the victim companies, which was valued at over $15 million at the time of payment.\" Ryuk was a ransomware-as-a-service (RaaS) operation active between August 2018 and mid-2020 that became notorious after launching a massive wave of attacks targeting the healthcare sector during the COVID-19 pandemic. At its peak, the Ryuk ransomware group hacked around 20 victims every week , collecting more than $150 million in ransoms. Following Ryuk's shutdown in 2020, the Wizard Spider cybercrime gang behind it switched to Conti ransomware , which quickly became one of the most prolific hacker groups. However, Conti also disbanded in 2022 after its internal chats and source code were leaked in May 2022, and it splintered into multiple smaller units that infiltrated existing ransomware gangs or launched new operations. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Man gets six years for hacking 750 women's Snapchat accounts ATF confirms “major incident” after recent Qilin breach claims CISA: Medusa ransomware hit over 500 critical infrastructure orgs Data analyst sent to prison for stealing data, extorting employer 2 things: 1) this is nothing but a slap on the wrist, until we actually persecute these aholes with 30+ year prison sentences, they will continue. 24 months is nothing 2) its always Ukraine...people say Russia hacks alot, but its 90% of the time Ukrainians...this is why we shouldn't support them Researchers escape OpenAI Codex sandbox to run commands on host Malicious npm packages evade install-script defenses at runtime ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Automate Onboarding and Access Reviews with No-Code IGA: See how it works Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Overdue a password health-check? Audit your Active Directory for free Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: ransomware/extortion",
@@ -424,13 +357,13 @@
     ]
   },
   {
-    "id": "1355c05a14580c37",
-    "date": "2026-09-23T20:21:31.540417+00:00",
+    "id": "9dacb9edfe130d92",
+    "date": "2026-09-23T23:41:29.850474+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "news MikroTrick: The SSH Chain That Empties RouterOS Before Login Even Happens Sep 23, 2026",
+    "title": "MikroTrick: The SSH Chain That Empties RouterOS Before Login Even Happens news",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -454,7 +387,7 @@
   },
   {
     "id": "13253f1cb60b98a1",
-    "date": "2026-09-23T20:21:31.540311+00:00",
+    "date": "2026-09-23T23:41:29.849802+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -482,13 +415,13 @@
     ]
   },
   {
-    "id": "c9e08ba2a41949c0",
-    "date": "2026-09-23T20:21:31.540183+00:00",
+    "id": "a2073c56baf9cd6a",
+    "date": "2026-09-23T23:41:29.849622+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Malware in Terraform Providers: SHA256 Hash and Blockchain Used for Activation",
+    "title": "malware Malware in Terraform Providers: SHA256 Hash and Blockchain Used for Activation Sep 23, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -512,12 +445,12 @@
   },
   {
     "id": "db5ae4d0a95a1fa3",
-    "date": "2026-09-23T20:21:31.540043+00:00",
+    "date": "2026-09-23T23:41:29.849160+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 CRITICAL · 3 ZERO-DAY · 5 CVE · 7 EXPLOIT IN THE LAST 24H →",
+    "title": "// 1 CRITICAL · 1 ZERO-DAY · 5 CVE · 6 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -541,7 +474,7 @@
   },
   {
     "id": "6533f03d16ee4a97",
-    "date": "2026-09-23T20:21:30.312451+00:00",
+    "date": "2026-09-23T23:41:29.011055+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -642,7 +575,7 @@
   },
   {
     "id": "3cfbd57d44ddba74",
-    "date": "2026-09-23T20:21:29.265884+00:00",
+    "date": "2026-09-23T23:41:28.311958+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -671,7 +604,7 @@
   },
   {
     "id": "d45d3213fedb7281",
-    "date": "2026-09-23T20:21:29.265796+00:00",
+    "date": "2026-09-23T23:41:28.311828+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -700,7 +633,7 @@
   },
   {
     "id": "a22a78a4b5668751",
-    "date": "2026-09-23T20:21:29.265706+00:00",
+    "date": "2026-09-23T23:41:28.311698+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -729,7 +662,7 @@
   },
   {
     "id": "2ce793ec6398d29d",
-    "date": "2026-09-23T20:21:29.265614+00:00",
+    "date": "2026-09-23T23:41:28.311569+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -758,7 +691,7 @@
   },
   {
     "id": "6873c15a45bad3b2",
-    "date": "2026-09-23T20:21:29.265521+00:00",
+    "date": "2026-09-23T23:41:28.311413+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -787,7 +720,7 @@
   },
   {
     "id": "520fcc6d930148d9",
-    "date": "2026-09-23T20:21:29.265363+00:00",
+    "date": "2026-09-23T23:41:28.311191+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -816,7 +749,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-09-23T20:21:29.265254+00:00",
+    "date": "2026-09-23T23:41:28.311035+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -845,7 +778,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-09-23T20:21:29.265154+00:00",
+    "date": "2026-09-23T23:41:28.310895+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -874,7 +807,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-09-23T20:21:29.265053+00:00",
+    "date": "2026-09-23T23:41:28.310749+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -903,7 +836,7 @@
   },
   {
     "id": "1a87663ef973d472",
-    "date": "2026-09-23T20:21:29.264915+00:00",
+    "date": "2026-09-23T23:41:28.310553+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -932,7 +865,7 @@
   },
   {
     "id": "f29feab6f4f0ee32",
-    "date": "2026-09-23T20:21:29.264814+00:00",
+    "date": "2026-09-23T23:41:28.310390+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -961,7 +894,7 @@
   },
   {
     "id": "824b78ae23ccefa5",
-    "date": "2026-09-23T20:21:29.264574+00:00",
+    "date": "2026-09-23T23:41:28.310075+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -990,7 +923,7 @@
   },
   {
     "id": "948ec72c6df6739b",
-    "date": "2026-09-23T20:21:29.264480+00:00",
+    "date": "2026-09-23T23:41:28.309936+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1019,7 +952,7 @@
   },
   {
     "id": "6b6ac0d8430f7f6e",
-    "date": "2026-09-23T20:21:29.264393+00:00",
+    "date": "2026-09-23T23:41:28.309805+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1048,7 +981,7 @@
   },
   {
     "id": "8f5b45c66c9b3ea2",
-    "date": "2026-09-23T20:21:29.264296+00:00",
+    "date": "2026-09-23T23:41:28.309659+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1077,7 +1010,7 @@
   },
   {
     "id": "43cc6fecf4fc2907",
-    "date": "2026-09-23T20:21:29.264199+00:00",
+    "date": "2026-09-23T23:41:28.309500+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1106,7 +1039,7 @@
   },
   {
     "id": "82a693415895e590",
-    "date": "2026-09-23T20:21:29.264090+00:00",
+    "date": "2026-09-23T23:41:28.309346+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1135,7 +1068,7 @@
   },
   {
     "id": "7be7a0837d121ceb",
-    "date": "2026-09-23T20:21:29.263959+00:00",
+    "date": "2026-09-23T23:41:28.309173+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1164,7 +1097,7 @@
   },
   {
     "id": "341b37ed21432efe",
-    "date": "2026-09-23T20:21:29.263869+00:00",
+    "date": "2026-09-23T23:41:28.309046+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1197,7 +1130,7 @@
   },
   {
     "id": "766fb109e7508d3b",
-    "date": "2026-09-23T20:21:29.263768+00:00",
+    "date": "2026-09-23T23:41:28.308909+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1226,7 +1159,7 @@
   },
   {
     "id": "684fb15c49925c8f",
-    "date": "2026-09-23T20:21:29.263643+00:00",
+    "date": "2026-09-23T23:41:28.308775+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1255,7 +1188,7 @@
   },
   {
     "id": "b0934e6b9a0aae82",
-    "date": "2026-09-23T20:21:29.263538+00:00",
+    "date": "2026-09-23T23:41:28.308629+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1284,7 +1217,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-09-23T20:21:29.260595+00:00",
+    "date": "2026-09-23T23:41:28.305183+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1313,7 +1246,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-09-23T20:21:29.259885+00:00",
+    "date": "2026-09-23T23:41:28.304192+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1342,7 +1275,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-09-23T20:21:29.259644+00:00",
+    "date": "2026-09-23T23:41:28.303757+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1366,6 +1299,1050 @@
       {
         "source": "TechNadu",
         "url": "https://www.technadu.com/tag/business-email-compromise/"
+      }
+    ]
+  },
+  {
+    "id": "fa521e87001ba0df",
+    "date": "2026-09-23T23:41:28.123444+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Hacking OpenAI",
+    "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
+    "article_text": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. OpenAI uses the term \"model misalignment\" to describe cases where AI models act contrary to their intended constraints, including taking unauthorized actions, evading oversight, or bypassing safeguards to complete a task. In a post published yesterday, OpenAI says it is now using a new framework to track and investigate these unsanctioned actions by AI agents. \"We are sharing a new framework for tracking, investigating, and disclosing instances of model misalignment at OpenAI, along with six reports on unexpected or concerning model behavior we've observed in the last six months,\" explains OpenAI . The new examples are the first published under a more structured reporting framework intended to replace OpenAI's previous looser approach to disclosing model misalignment. Each case is logged in a technical incident report that includes the model name, a summary of its behavior during the observed incident, and the time the incident occurred. The report also includes a detailed reconstruction of what happened, with the user's task and the model's internal reasoning, OpenAI's interpretation and potential safety implications, and what mitigations have been or will be implemented. OpenAI stressed that these six examples are not representative of how often it deals with misalignment across its models, but rather extreme examples that nonetheless warranted analysis and public disclosure. The company said that, under the new process, any employee may flag an incident for investigation. The incident will be evaluated and placed into three categories: 'Ready for Disclosure', 'Minor Investigation', or 'Larger Investigation,' depending on its complexity, third-party involvement, security flaws, and misuse risks. The six examples presented this time fall into the first two categories, while the third will receive a preliminary report until the investigation concludes and a more thorough post-mortem can be published. OpenAI says the Hugging Face intrusion from earlier this year, which involved a 700-strong \"misaligned\" AI agents swarm , would qualify for that third category of severity. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Nearly 700 rogue AI agents coordinated in the Hugging Face attack Anthropic wants Claude to analyze your bank account and financial data Spain's data agency gets first report of AI-powered data breach OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor I love that sentence: \"OpenAI stressed that these six examples are not representative of how often it deals with misalignment across its models, but rather extreme examples that nonetheless warranted analysis and public disclosure.\" Six extreme examples that \"nonetheless\" warrant analysis.... The other 8733 example... forget it... Mr Altman at work, brilliant! Microsoft confirms KB5002914 Excel update breaks copy and paste Windows 11 KB5124008 update breaks domain trust for some users Malware bypasses browser checks to force install Chrome, Edge extensions Overdue a password health-check? Audit your Active Directory for free Patch automation needs more than speed. Action1 brings control into every stage of deployment. Watch a working exploit hit live controls and see exactly what blocks, detects, or misses Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Find out how long recovery really takes — and what it costs. Read the 2025 BCDR Report. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Hacking OpenAI",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wjgti2/hacking_openai/",
+    "target": "OpenAI",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wjgti2/hacking_openai/"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/"
+      }
+    ]
+  },
+  {
+    "id": "db9d2ec8607538a4",
+    "date": "2026-09-23T23:41:28.123311+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Quantum Computers Are Not a Threat to 128-bit Symmetric Keys",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Quantum Computers Are Not a Threat to 128-bit Symmetric Keys",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wjg8d8/quantum_computers_are_not_a_threat_to_128bit/",
+    "target": "Quantum Computers Not Threat",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wjg8d8/quantum_computers_are_not_a_threat_to_128bit/"
+      }
+    ]
+  },
+  {
+    "id": "dbb9a724728e797a",
+    "date": "2026-09-23T23:41:28.123188+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CVE-2026-77179: Docker's hypervisor for Mac compromised (Docker Desktop, Docker Sandboxes)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2026-77179: Docker's hypervisor for Mac compromised (Docker Desktop, Docker Sandboxes)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wkeh8n/cve202677179_dockers_hypervisor_for_mac/",
+    "target": "CVE-2026-77179",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wkeh8n/cve202677179_dockers_hypervisor_for_mac/"
+      }
+    ]
+  },
+  {
+    "id": "79b067854eade772",
+    "date": "2026-09-23T23:41:28.123042+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "BragJack - $20K in bounty rewards from Anthropic, Perplexity, Google, Microsoft and Opera Using 1 Extension",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "BragJack - $20K in bounty rewards from Anthropic, Perplexity, Google, Microsoft and Opera Using 1 Extension",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wkrcgz/bragjack_20k_in_bounty_rewards_from_anthropic/",
+    "target": "BragJack 20K Anthropic Perplexity",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wkrcgz/bragjack_20k_in_bounty_rewards_from_anthropic/"
+      }
+    ]
+  },
+  {
+    "id": "d51538970d81c3c8",
+    "date": "2026-09-23T23:41:28.122904+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ChatGPT now knows what you do on other websites via ad collector",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wlk4wc/chatgpt_now_knows_what_you_do_on_other_websites/",
+    "target": "ChatGPT",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wlk4wc/chatgpt_now_knows_what_you_do_on_other_websites/"
+      }
+    ]
+  },
+  {
+    "id": "60d69d95f4e903bc",
+    "date": "2026-09-23T23:41:28.122767+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "AI Agents Keep Falling to 'Goal Hijack' (Copilot, Cursor, Grok)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "AI Agents Keep Falling to 'Goal Hijack' (Copilot, Cursor, Grok)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wlnmg6/ai_agents_keep_falling_to_goal_hijack_copilot/",
+    "target": "Agents Keep Falling Goal",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wlnmg6/ai_agents_keep_falling_to_goal_hijack_copilot/"
+      }
+    ]
+  },
+  {
+    "id": "d8eb952f7833d353",
+    "date": "2026-09-23T23:41:28.122630+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Three memory-safety bugs in Godot's untrusted-file parsers",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Three memory-safety bugs in Godot's untrusted-file parsers",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wm7krn/three_memorysafety_bugs_in_godots_untrustedfile/",
+    "target": "Three Godots",
+    "type": "General Cybersecurity",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wm7krn/three_memorysafety_bugs_in_godots_untrustedfile/"
+      }
+    ]
+  },
+  {
+    "id": "da5baa0ad8f37a16",
+    "date": "2026-09-23T23:41:28.122474+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Implant Encryption via the Dump Encoding Library",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Implant Encryption via the Dump Encoding Library",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/",
+    "target": "Implant Encryption Dump Encoding",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/"
+      }
+    ]
+  },
+  {
+    "id": "677a243fe8062953",
+    "date": "2026-09-23T23:41:28.122333+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Free, hands-on 14-week university security course (open to anyone online)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Free, hands-on 14-week university security course (open to anyone online)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/",
+    "target": "Free 14-week",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/"
+      }
+    ]
+  },
+  {
+    "id": "41f0718f93cc1c67",
+    "date": "2026-09-23T23:41:28.122200+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/",
+    "target": "ZTE SmartHome Account Takeover",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/"
+      }
+    ]
+  },
+  {
+    "id": "22f61965eb72f7ca",
+    "date": "2026-09-23T23:41:28.122069+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Windows Exploitation Techniques: Dangling COM Object Registrations",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/",
+    "target": "Windows Exploitation Techniques",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/"
+      }
+    ]
+  },
+  {
+    "id": "08b51f852fa7c9f9",
+    "date": "2026-09-23T23:41:28.121943+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/",
+    "target": "CVE-2026-45756",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/"
+      }
+    ]
+  },
+  {
+    "id": "340cb7fe68c56b32",
+    "date": "2026-09-23T23:41:28.121820+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "vCenter pre-auth RCE: CVE-2026-59309/59310",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "vCenter pre-auth RCE: CVE-2026-59309/59310",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/",
+    "target": "RCE",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/"
+      }
+    ]
+  },
+  {
+    "id": "07d8e6f4e30d5c56",
+    "date": "2026-09-23T23:41:28.121671+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "I asked my AI agent to inspect a website. The website took over my machine (34-run measurement across 5 agent harnesses)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "I asked my AI agent to inspect a website. The website took over my machine (34-run measurement across 5 agent harnesses)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wogg6h/i_asked_my_ai_agent_to_inspect_a_website_the/",
+    "target": "Unknown",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wogg6h/i_asked_my_ai_agent_to_inspect_a_website_the/"
+      }
+    ]
+  },
+  {
+    "id": "0797dcb4f2ba92d8",
+    "date": "2026-09-23T23:41:28.121516+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Frame: Grounding LLM Vulnerability Detection with a Sound Separation-Logic Core",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Frame: Grounding LLM Vulnerability Detection with a Sound Separation-Logic Core",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wnr20b/frame_grounding_llm_vulnerability_detection_with/",
+    "target": "Frame",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wnr20b/frame_grounding_llm_vulnerability_detection_with/"
+      }
+    ]
+  },
+  {
+    "id": "179b308471c86534",
+    "date": "2026-09-23T23:41:28.121374+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/",
+    "target": "ATTCKing TACACS Pwn Your",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/"
+      }
+    ]
+  },
+  {
+    "id": "b369fd70e0b6cc94",
+    "date": "2026-09-23T23:41:28.121227+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Inside Corp MDM, the Android spyware targeting logistics companies",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Inside Corp MDM, the Android spyware targeting logistics companies",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/",
+    "target": "Inside Corp MDM Android",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/"
+      }
+    ]
+  },
+  {
+    "id": "714cfaa28dae751e",
+    "date": "2026-09-23T23:41:28.121099+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "September 23 | 24h Recap: Ubuntu container escape, F5 OAuth RCE and Windows process injection",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "September 23 | 24h Recap: Ubuntu container escape, F5 OAuth RCE and Windows process injection",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1woiusv/september_23_24h_recap_ubuntu_container_escape_f5/",
+    "target": "September",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1woiusv/september_23_24h_recap_ubuntu_container_escape_f5/"
+      }
+    ]
+  },
+  {
+    "id": "dee567bbe7e1a72b",
+    "date": "2026-09-23T23:41:28.120963+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/",
+    "target": "Breaking Superuser Guardrails Providers",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/"
+      }
+    ]
+  },
+  {
+    "id": "dc6b9e658dd7f6c7",
+    "date": "2026-09-23T23:41:28.120836+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Loopjacking: Hijacking Human-in-the-Loop Approval",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Loopjacking: Hijacking Human-in-the-Loop Approval",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wok8c2/loopjacking_hijacking_humanintheloop_approval/",
+    "target": "Loopjacking",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wok8c2/loopjacking_hijacking_humanintheloop_approval/"
+      }
+    ]
+  },
+  {
+    "id": "d60c6f45f7d63b4d",
+    "date": "2026-09-23T23:41:28.120695+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/",
+    "target": "This Joke Auth Header",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/"
+      }
+    ]
+  },
+  {
+    "id": "148d70f4b48af49d",
+    "date": "2026-09-23T23:41:28.120519+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/",
+    "target": "Leaked GitHub App 440",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/"
+      }
+    ]
+  },
+  {
+    "id": "c7a91abff2298e71",
+    "date": "2026-09-23T23:41:28.120370+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Android 17 enables certificate transparency, and breaks custom CAs",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Android 17 enables certificate transparency, and breaks custom CAs",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/",
+    "target": "Android CAs",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/"
+      }
+    ]
+  },
+  {
+    "id": "d29a549c775ffe8f",
+    "date": "2026-09-23T23:41:28.120221+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "r/netsec monthly discussion & tool thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "r/netsec monthly discussion & tool thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/",
+    "target": "Unknown",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
+      }
+    ]
+  },
+  {
+    "id": "46631edb097f535e",
+    "date": "2026-09-23T23:41:28.120040+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "/r/netsec's Q3 2026 Information Security Hiring Thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
+    "target": "2026 Information Hiring Thread",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "cc7c4e4f3f62da9b",
+    "date": "2026-09-23T23:41:23.325152+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "[Virtual Event] Cybersecurity Outlook 2027",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "[Virtual Event] Cybersecurity Outlook 2027",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
+    "target": "Virtual Event Outlook 2027",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027"
+      }
+    ]
+  },
+  {
+    "id": "a763ae48c76293fd",
+    "date": "2026-09-23T22:46:01+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+    "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
+    "article_text": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. The domain third-party.com has long been used in documentation to represent an arbitrary external website, API, or service, similar to how developers use domains such as example.com. However, unlike example.com, example.net, and example.org, which IANA reserves specifically for documentation, third-party.com is a normally registered domain whose content its owner can control. This difference is now a security concern after the domain began serving a ClickFix attack that impersonates a Cloudflare security check. Manifold Security first reported the malicious use of the domain after discovering it while examining public AI skills and MCP server documentation that referenced the domain. BleepingComputer has since confirmed that the page displays a fake Cloudflare \"Performing security verification\" CAPTCHA screen containing a \"Verify you are human\" prompt. After the user clicks the verification box, the site copies a malicious PowerShell command into the Windows Clipboard, and then instructs the user to press the Windows key + R, paste the contents of their clipboard using Ctrl+V, and press Enter. When the PowerShell command runs, it reconstructs the payload URL elxxvvx[.]xyz/f, downloads a PowerShell script from that address, and then executes it. This technique is commonly known as ClickFix, where attackers use fake errors, CAPTCHA prompts, or verification pages to convince victims to manually execute commands copied to their clipboard. ClickFix attacks have become a popular way to distribute malware, as the malware is installed via commands executed by the user rather than downloaded from websites or as email attachments. In some cases, this could allow malware to install while bypassing traditional antivirus software. At the time of BleepingComputer's testing, elxxvvx[.]xyz no longer resolved, leaving the current attack chain broken. However, a Hybrid Analysis report from May 2, 2026, shows the site distributed a PowerShell script configured to download a 134MB zip archive from: https://elxxvvx[.]xyz/update2.zip The PowerShell script saved the archive as update26.zip, extracted it, and then attempted to launch an executable named draw.io.exe. Because the update2.zip archive is no longer available, BleepingComputer couldn't determine what the payload does. Manifold's Ax Sharma says the attack specifically targets Windows users, and Linux and Mac visitors will see errors stating their operating system is unsupported. \"A macOS or Linux user-agent gets none of that. It gets a near-identical page that stops at an error: \"macOS is not supported. This website requires a Windows PC to access.\" No clipboard poisoning, no payload,\" explains Sharma. \"The attacker only shows the weapon to the targets it works against, which is precisely why a casual look, or a scanner on a Linux datacenter IP, sees nothing wrong.\" The more interesting aspect of the attack is the third-party.com domain chosen to host the ClickFix page. Public developer documentation has treated third-party.com as a generic example hostname for many years. For example, the W3C Geolocation specification currently demonstrates granting geolocation permissions to an external iframe using third-party.com as a placeholder domain: The W3C Compute Pressure specification similarly uses the domain when demonstrating how a website can enable the API for remote content: Chromium's documentation for its Telemetry Extension API also uses third-party.com as an example website permitted to communicate with a Chrome extension: Other examples go further and use the domain in code that would actually make network requests if copied literally. A PrivacyCG proposal on GitHub also uses the domain as the destination of a JavaScript fetch() request from a service worker. Posts online indicate that developers have copied these and similar examples into their own code and projects. In a 2015 Stack Overflow question , a developer said they had applied an asynchronous loading example containing https://third-party.com/resource.js to their website before discovering that it did not behave as expected after publishing the site. These examples do not mean that the associated projects or documentation are compromised. However, applications or test code that copied such pl",
+    "quick_summary": [
+      "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell com",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+    "target": "Placeholder ClickFix",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/"
+      }
+    ]
+  },
+  {
+    "id": "cf0037aeb47f831e",
+    "date": "2026-09-23T21:25:13+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "New RemControl Android banking malware targets users in Europe and Canada",
+    "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+    "article_text": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. Although the infrastructure has been active since at least May, the first samples were observed in July and contained more than 30 phishing overlays designed to steal banking credentials. Researchers at cybersecurity company Group-IB say that the malware targets users in Europe (Italy, France, Spain, Poland, Portugal), Canada, and countries in the Middle East. In one of the overlays, the malware displays an AI assistant response, a strong indication that it has been built with the help of AI models. RemControl is distributed through fake Google Play pages impersonating the TVTap IPTV app, with at least one Italian campaign using geofencing and mobile User-Agent checks. The malicious sites include Meta Pixel tracking IDs, which Group-IB sees as a hint that the operator abused Meta’s advertising ecosystem to drive victims to the download pages. When launched, the dropper starts a VPN service that blocks traffic from Google Play services, preventing Play Protect from performing real-time checks against known malware. The feature has also been observed in a recent version of the ToxicPanda malware , a much bigger operation that uses phishing overlays for 349 financial, cryptocurrency, and digital wallets applications used in 16 countries. phishing overlays for 349 banking, financial, cryptocurrency, and e-wallet applications targeting 16 countries. During installation, the malware requests approval for Accessibility Service permissions. If the requested permissions are granted, RemControl can perform the following actions: RemControl retrieves encrypted C2 information from Telegram channels, so it can rotate infrastructure dynamically in case of disruptions. Group-IB found FastAPI documentation exposed in the initial C2 proxy that revealed the endpoints the malware used to fetch banking overlays and to submit stolen credentials. The origin of the threat actor behind RemControl is unclear, but the researchers found Russian language in the HTML files of some overlays, indicating a Russian speaker as the developer of at least some of them . Based on a common identifier in the analyzed samples, the researchers track the RemControl operator as UNKK and suspect a connection to the Medusa banking trojan . Android users are advised to avoid downloading APK files from outside Google Play unless they explicitly trust the publisher. Regular Play Protect scans and declining Accessibility Service permission requests from apps that do not require them for accessibility purposes are also recommended security practices. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. New RatHat Android malware uses AI to automate device control ToxicPanda Android malware uses VPN permissions to block Google Play New Manic Android malware can exfiltrate data through nearby devices Anthropic warns infostealer malware is hijacking Claude sessions to drain usage New ClosedQuorum Windows malware uses AI for attack decisions Researchers escape OpenAI Codex sandbox to run commands on host Malicious npm packages evade install-script defenses at runtime ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Overdue a password health-check? Audit your Active Directory for free Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+    "target": "RemControl Android Europe",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/"
+      }
+    ]
+  },
+  {
+    "id": "0c1228d0d61de352",
+    "date": "2026-09-23T21:03:01+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
+    "summary": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
+    "article_text": "",
+    "quick_summary": [
+      "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
+    "target": "EDR Evasion Stack Helps",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses"
+      }
+    ]
+  },
+  {
+    "id": "fe8f10175ebc7282",
+    "date": "2026-09-23T20:53:38+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
+    "summary": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
+    "article_text": "",
+    "quick_summary": [
+      "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+    "target": "GitLab Email Addresses Can",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks"
+      }
+    ]
+  },
+  {
+    "id": "26cd04bae833d07d",
+    "date": "2026-09-23T20:25:17+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Mobile App Security in HealthTech: Safeguarding Patient Data Against Cybersecurity Threats",
+    "summary": "HealthTech apps need secure architecture, encrypted data, strong access controls, continuous testing, and post-launch monitoring to protect patient information.",
+    "article_text": "",
+    "quick_summary": [
+      "HealthTech apps need secure architecture, encrypted data, strong access controls, continuous testing, and post-launch monitoring to protect patient information.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://hackread.com/mobile-app-security-healthtech-data-cybersecurity-threats/",
+    "target": "Mobile App HealthTech",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/mobile-app-security-healthtech-data-cybersecurity-threats/"
+      }
+    ]
+  },
+  {
+    "id": "8b002eb6f6eb195c",
+    "date": "2026-09-23T20:21:31.542081+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ZERO-DAY BigDiskBuster: The Zero-Day That Leaves Microsoft Defender Stuck on Stale Definitions",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/bigdiskbuster-the-zero-day-that-leaves-microsoft-defender-stuck-on-stale-definitions",
+    "target": "ZERO-DAY BigDiskBuster",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/bigdiskbuster-the-zero-day-that-leaves-microsoft-defender-stuck-on-stale-definitions"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/bigdiskbuster-researcher-naceri-claims-tool-blocks-windows-defender-updates"
+      }
+    ]
+  },
+  {
+    "id": "ab0055d8b6a52572",
+    "date": "2026-09-23T20:21:31.542004+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL WordPress 7.1.2: Critical Core Path Traversal Patch, Conditional RCE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/wordpress-712-critical-core-path-traversal-patch-conditional-rce",
+    "target": "CRITICAL WordPress 7.1.2",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/wordpress-712-critical-core-path-traversal-patch-conditional-rce"
+      }
+    ]
+  },
+  {
+    "id": "742daef5e143e67f",
+    "date": "2026-09-23T20:21:31.541600+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "LausivLoader: The Malware That Defeats Fragmented Analysis malware",
+    "summary": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable â€“ it asked the recipient to review some attached requirements and provide a price quotation for a fiber optic system and appeared to impersonate an employee of a legitimate company.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/malware/lausivloader-the-malware-that-defeats-fragmented-analysis",
+    "target": "LausivLoader",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews",
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/malware/lausivloader-the-malware-that-defeats-fragmented-analysis"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33348"
+      }
+    ]
+  },
+  {
+    "id": "d7f479081f662d3e",
+    "date": "2026-09-23T20:21:31.541527+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "F5 BIG-IP APM Zero-Day: RCE on OAuth Authorization Server, 14,700+ IPs Exposed CYBERSEC ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/f5-big-ip-apm-zero-day-rce-on-oauth-authorization-server-14700-ips-exposed",
+    "target": "BIG-IP APM Zero-Day",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/f5-big-ip-apm-zero-day-rce-on-oauth-authorization-server-14700-ips-exposed"
       }
     ]
   },
@@ -1457,693 +2434,6 @@
     ]
   },
   {
-    "id": "fa521e87001ba0df",
-    "date": "2026-09-23T20:21:28.988434+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Hacking OpenAI",
-    "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
-    "article_text": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. OpenAI uses the term \"model misalignment\" to describe cases where AI models act contrary to their intended constraints, including taking unauthorized actions, evading oversight, or bypassing safeguards to complete a task. In a post published yesterday, OpenAI says it is now using a new framework to track and investigate these unsanctioned actions by AI agents. \"We are sharing a new framework for tracking, investigating, and disclosing instances of model misalignment at OpenAI, along with six reports on unexpected or concerning model behavior we've observed in the last six months,\" explains OpenAI . The new examples are the first published under a more structured reporting framework intended to replace OpenAI's previous looser approach to disclosing model misalignment. Each case is logged in a technical incident report that includes the model name, a summary of its behavior during the observed incident, and the time the incident occurred. The report also includes a detailed reconstruction of what happened, with the user's task and the model's internal reasoning, OpenAI's interpretation and potential safety implications, and what mitigations have been or will be implemented. OpenAI stressed that these six examples are not representative of how often it deals with misalignment across its models, but rather extreme examples that nonetheless warranted analysis and public disclosure. The company said that, under the new process, any employee may flag an incident for investigation. The incident will be evaluated and placed into three categories: 'Ready for Disclosure', 'Minor Investigation', or 'Larger Investigation,' depending on its complexity, third-party involvement, security flaws, and misuse risks. The six examples presented this time fall into the first two categories, while the third will receive a preliminary report until the investigation concludes and a more thorough post-mortem can be published. OpenAI says the Hugging Face intrusion from earlier this year, which involved a 700-strong \"misaligned\" AI agents swarm , would qualify for that third category of severity. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Nearly 700 rogue AI agents coordinated in the Hugging Face attack Anthropic wants Claude to analyze your bank account and financial data Spain's data agency gets first report of AI-powered data breach OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor I love that sentence: \"OpenAI stressed that these six examples are not representative of how often it deals with misalignment across its models, but rather extreme examples that nonetheless warranted analysis and public disclosure.\" Six extreme examples that \"nonetheless\" warrant analysis.... The other 8733 example... forget it... Mr Altman at work, brilliant! Microsoft confirms KB5002914 Excel update breaks copy and paste Windows 11 KB5124008 update breaks domain trust for some users Malware bypasses browser checks to force install Chrome, Edge extensions Overdue a password health-check? Audit your Active Directory for free Patch automation needs more than speed. Action1 brings control into every stage of deployment. Watch a working exploit hit live controls and see exactly what blocks, detects, or misses Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Find out how long recovery really takes — and what it costs. Read the 2025 BCDR Report. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Hacking OpenAI",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wjgti2/hacking_openai/",
-    "target": "OpenAI",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wjgti2/hacking_openai/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/"
-      }
-    ]
-  },
-  {
-    "id": "db9d2ec8607538a4",
-    "date": "2026-09-23T20:21:28.988350+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Quantum Computers Are Not a Threat to 128-bit Symmetric Keys",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Quantum Computers Are Not a Threat to 128-bit Symmetric Keys",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wjg8d8/quantum_computers_are_not_a_threat_to_128bit/",
-    "target": "Quantum Computers Not Threat",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wjg8d8/quantum_computers_are_not_a_threat_to_128bit/"
-      }
-    ]
-  },
-  {
-    "id": "dbb9a724728e797a",
-    "date": "2026-09-23T20:21:28.988273+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2026-77179: Docker's hypervisor for Mac compromised (Docker Desktop, Docker Sandboxes)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-77179: Docker's hypervisor for Mac compromised (Docker Desktop, Docker Sandboxes)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wkeh8n/cve202677179_dockers_hypervisor_for_mac/",
-    "target": "CVE-2026-77179",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wkeh8n/cve202677179_dockers_hypervisor_for_mac/"
-      }
-    ]
-  },
-  {
-    "id": "79b067854eade772",
-    "date": "2026-09-23T20:21:28.988180+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "BragJack - $20K in bounty rewards from Anthropic, Perplexity, Google, Microsoft and Opera Using 1 Extension",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "BragJack - $20K in bounty rewards from Anthropic, Perplexity, Google, Microsoft and Opera Using 1 Extension",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wkrcgz/bragjack_20k_in_bounty_rewards_from_anthropic/",
-    "target": "BragJack 20K Anthropic Perplexity",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wkrcgz/bragjack_20k_in_bounty_rewards_from_anthropic/"
-      }
-    ]
-  },
-  {
-    "id": "d51538970d81c3c8",
-    "date": "2026-09-23T20:21:28.988094+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ChatGPT now knows what you do on other websites via ad collector",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wlk4wc/chatgpt_now_knows_what_you_do_on_other_websites/",
-    "target": "ChatGPT",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wlk4wc/chatgpt_now_knows_what_you_do_on_other_websites/"
-      }
-    ]
-  },
-  {
-    "id": "60d69d95f4e903bc",
-    "date": "2026-09-23T20:21:28.988008+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "AI Agents Keep Falling to 'Goal Hijack' (Copilot, Cursor, Grok)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "AI Agents Keep Falling to 'Goal Hijack' (Copilot, Cursor, Grok)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wlnmg6/ai_agents_keep_falling_to_goal_hijack_copilot/",
-    "target": "Agents Keep Falling Goal",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wlnmg6/ai_agents_keep_falling_to_goal_hijack_copilot/"
-      }
-    ]
-  },
-  {
-    "id": "d8eb952f7833d353",
-    "date": "2026-09-23T20:21:28.987924+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Three memory-safety bugs in Godot's untrusted-file parsers",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Three memory-safety bugs in Godot's untrusted-file parsers",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wm7krn/three_memorysafety_bugs_in_godots_untrustedfile/",
-    "target": "Three Godots",
-    "type": "General Cybersecurity",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wm7krn/three_memorysafety_bugs_in_godots_untrustedfile/"
-      }
-    ]
-  },
-  {
-    "id": "da5baa0ad8f37a16",
-    "date": "2026-09-23T20:21:28.987841+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Implant Encryption via the Dump Encoding Library",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Implant Encryption via the Dump Encoding Library",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/",
-    "target": "Implant Encryption Dump Encoding",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/"
-      }
-    ]
-  },
-  {
-    "id": "677a243fe8062953",
-    "date": "2026-09-23T20:21:28.987748+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Free, hands-on 14-week university security course (open to anyone online)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Free, hands-on 14-week university security course (open to anyone online)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/",
-    "target": "Free 14-week",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/"
-      }
-    ]
-  },
-  {
-    "id": "41f0718f93cc1c67",
-    "date": "2026-09-23T20:21:28.987650+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/",
-    "target": "ZTE SmartHome Account Takeover",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/"
-      }
-    ]
-  },
-  {
-    "id": "22f61965eb72f7ca",
-    "date": "2026-09-23T20:21:28.987568+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Windows Exploitation Techniques: Dangling COM Object Registrations",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/",
-    "target": "Windows Exploitation Techniques",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/"
-      }
-    ]
-  },
-  {
-    "id": "08b51f852fa7c9f9",
-    "date": "2026-09-23T20:21:28.987490+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/",
-    "target": "CVE-2026-45756",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/"
-      }
-    ]
-  },
-  {
-    "id": "340cb7fe68c56b32",
-    "date": "2026-09-23T20:21:28.987414+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "vCenter pre-auth RCE: CVE-2026-59309/59310",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "vCenter pre-auth RCE: CVE-2026-59309/59310",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/",
-    "target": "RCE",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/"
-      }
-    ]
-  },
-  {
-    "id": "0797dcb4f2ba92d8",
-    "date": "2026-09-23T20:21:28.987335+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Frame: Grounding LLM Vulnerability Detection with a Sound Separation-Logic Core",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Frame: Grounding LLM Vulnerability Detection with a Sound Separation-Logic Core",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wnr20b/frame_grounding_llm_vulnerability_detection_with/",
-    "target": "Frame",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wnr20b/frame_grounding_llm_vulnerability_detection_with/"
-      }
-    ]
-  },
-  {
-    "id": "179b308471c86534",
-    "date": "2026-09-23T20:21:28.987244+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/",
-    "target": "ATTCKing TACACS Pwn Your",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/"
-      }
-    ]
-  },
-  {
-    "id": "dee567bbe7e1a72b",
-    "date": "2026-09-23T20:21:28.987149+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/",
-    "target": "Breaking Superuser Guardrails Providers",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/"
-      }
-    ]
-  },
-  {
-    "id": "07d8e6f4e30d5c56",
-    "date": "2026-09-23T20:21:28.987049+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "I asked my AI agent to inspect a website. The website took over my machine (34-run measurement across 5 agent harnesses)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "I asked my AI agent to inspect a website. The website took over my machine (34-run measurement across 5 agent harnesses)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wogg6h/i_asked_my_ai_agent_to_inspect_a_website_the/",
-    "target": "Unknown",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wogg6h/i_asked_my_ai_agent_to_inspect_a_website_the/"
-      }
-    ]
-  },
-  {
-    "id": "b369fd70e0b6cc94",
-    "date": "2026-09-23T20:21:28.986953+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Inside Corp MDM, the Android spyware targeting logistics companies",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Inside Corp MDM, the Android spyware targeting logistics companies",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/",
-    "target": "Inside Corp MDM Android",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/"
-      }
-    ]
-  },
-  {
-    "id": "148d70f4b48af49d",
-    "date": "2026-09-23T20:21:28.986859+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/",
-    "target": "Leaked GitHub App 440",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/"
-      }
-    ]
-  },
-  {
-    "id": "c7a91abff2298e71",
-    "date": "2026-09-23T20:21:28.986755+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Android 17 enables certificate transparency, and breaks custom CAs",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Android 17 enables certificate transparency, and breaks custom CAs",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/",
-    "target": "Android CAs",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/"
-      }
-    ]
-  },
-  {
-    "id": "d29a549c775ffe8f",
-    "date": "2026-09-23T20:21:28.986638+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "r/netsec monthly discussion & tool thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "r/netsec monthly discussion & tool thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/",
-    "target": "Unknown",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
-      }
-    ]
-  },
-  {
-    "id": "46631edb097f535e",
-    "date": "2026-09-23T20:21:28.986470+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "/r/netsec's Q3 2026 Information Security Hiring Thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
-    "target": "2026 Information Hiring Thread",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
-      }
-    ]
-  },
-  {
-    "id": "cc7c4e4f3f62da9b",
-    "date": "2026-09-23T20:21:22.293723+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "[Virtual Event] Cybersecurity Outlook 2027",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "[Virtual Event] Cybersecurity Outlook 2027",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
-    "target": "Virtual Event Outlook 2027",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027"
-      }
-    ]
-  },
-  {
     "id": "230adb7f8bc973dd",
     "date": "2026-09-23T19:53:54+00:00",
     "source": "BleepingComputer",
@@ -2152,7 +2442,7 @@
     "category": "",
     "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
     "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
-    "article_text": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. The same advisory also warns of threat actors exploiting a pre-authentication path traversal flaw tracked as CVE-2026-93616, which impacts the Management web service and can allow script execution and Java class loading. The company says that CVE-2026-93616 has been exploited as a zero-day since July 23. On September 10, the Dutch Nationaal Cyber Security Centrum (NCSC) alerted of the Security Gateway issue and urged users to apply available security updates as imminent exploitation was expected. Check Point has now confirmed that malicious activity started on September 12, with attackers using VPNs and proxies to hide their location. “Starting September 12, 2026, we observed a wave of exploitation attempts against Spark customers,” reads Check Point’s alert . “The attempts originated from anonymization infrastructure, including VPN services and proxies,\" the company said, adding that certificates with the following subjects were used: However, the cybersecurity company noted that the three subjects only reflect current observations and more may be in use. CISA has now added the two flaws in its Known Exploited Vulnerabilities (KEV) catalog , urging federal agencies to apply the available fixes and/or mitigations by September 25, 2026. Check Point’s advisory on CVE-2026-85102 recommends that administrators install Check Point LivePatch Take 26 on supported R81.20, R82, or R82.10 gateways, or install a fixed Jumbo Hotfix: R81.20 Take 166, R82 Take 126, R82.10 Take 44, or R81.10 Take 190, or later. Customers should also update Spark firewalls to R82.00.10 Build 2325 or R81.10.17 Build 4968, or later. System administrators are advised to verify if LivePatch is active by running the cpinfo -y CPupdates command on the Security Gateway in expert mode. The advisory specifically warns that some customers who installed an earlier offline LivePatch package need Take 26 for full coverage. If updating isn’t possible, it is recommended to disable the VPN implied rules and create explicit rules that restrict Site-to-Site VPN on UDP/500 and UDP/4500 to specific peer IP addresses. For Remote Access VPN, allow only the required services over UDP/500, UDP/4500, TCP/443, and TCP/80 where applicable, and restrict source client IP ranges where possible. Check Point notes that these mitigation measures do not apply to locally managed Spark firewalls. For mitigation and hunting advice for the Management web service CVE-2026-93616, Check Point points to this support article . Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Hackers start exploiting critical WordPress flaw for code execution New Check Point flaw lets hackers execute code with root privileges Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent Critical Elementor Pro flaw exploited to take over WordPress sites Hackers exploit Sangoma Switchvox flaw to deploy reverse shells Researchers escape OpenAI Codex sandbox to run commands on host Malicious npm packages evade install-script defenses at runtime Microsoft reminds admins to migrate Entra ID users to passkeys Overdue a password health-check? Audit your Active Directory for free Overdue a password health-check? Audit your Active Directory for free Automate Onboarding and Access Reviews with No-Code IGA: See how it works Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. The same advisory also warns of threat actors exploiting a pre-authentication path traversal flaw tracked as CVE-2026-93616, which impacts the Management web service and can allow script execution and Java class loading. The company says that CVE-2026-93616 has been exploited as a zero-day since July 23. On September 10, the Dutch Nationaal Cyber Security Centrum (NCSC) alerted of the Security Gateway issue and urged users to apply available security updates as imminent exploitation was expected. Check Point has now confirmed that malicious activity started on September 12, with attackers using VPNs and proxies to hide their location. “Starting September 12, 2026, we observed a wave of exploitation attempts against Spark customers,” reads Check Point’s alert . “The attempts originated from anonymization infrastructure, including VPN services and proxies,\" the company said, adding that certificates with the following subjects were used: However, the cybersecurity company noted that the three subjects only reflect current observations and more may be in use. CISA has now added the two flaws in its Known Exploited Vulnerabilities (KEV) catalog , urging federal agencies to apply the available fixes and/or mitigations by September 25, 2026. Check Point’s advisory on CVE-2026-85102 recommends that administrators install Check Point LivePatch Take 26 on supported R81.20, R82, or R82.10 gateways, or install a fixed Jumbo Hotfix: R81.20 Take 166, R82 Take 126, R82.10 Take 44, or R81.10 Take 190, or later. Customers should also update Spark firewalls to R82.00.10 Build 2325 or R81.10.17 Build 4968, or later. System administrators are advised to verify if LivePatch is active by running the cpinfo -y CPupdates command on the Security Gateway in expert mode. The advisory specifically warns that some customers who installed an earlier offline LivePatch package need Take 26 for full coverage. If updating isn’t possible, it is recommended to disable the VPN implied rules and create explicit rules that restrict Site-to-Site VPN on UDP/500 and UDP/4500 to specific peer IP addresses. For Remote Access VPN, allow only the required services over UDP/500, UDP/4500, TCP/443, and TCP/80 where applicable, and restrict source client IP ranges where possible. Check Point notes that these mitigation measures do not apply to locally managed Spark firewalls. For mitigation and hunting advice for the Management web service CVE-2026-93616, Check Point points to this support article . Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Hackers start exploiting critical WordPress flaw for code execution New Check Point flaw lets hackers execute code with root privileges Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent Critical Elementor Pro flaw exploited to take over WordPress sites Hackers exploit Sangoma Switchvox flaw to deploy reverse shells Researchers escape OpenAI Codex sandbox to run commands on host Malicious npm packages evade install-script defenses at runtime ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Automate Onboarding and Access Reviews with No-Code IGA: See how it works Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Overdue a password health-check? Audit your Active Directory for free Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway ",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -2239,7 +2529,7 @@
     "category": "",
     "title": "Hackers start exploiting critical WordPress flaw for code execution",
     "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-    "article_text": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. Initial attack traffic was only for reconnaissance and started less than five hours after the patch was released in WordPress 7.1.2. Malicious activity increased by ten times, and attackers are now trying to deliver payloads. WordPress security firm Patchstack reports that it observed the first malicious requests at 17:44 UTC on September 22 from a small group of IP addresses targeting multiple sites under its protection. Discovered by security researcher Robert Ressl, the issue is an unauthenticated path traversal bug that can lead to remote code execution (RCE) under certain conditions. The WordPress security team assesses that CVE-2026-87902 has critical severity, assigning a score of 9.2 out of 10. \"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file outside the active theme directories,\" reads the official advisory . For RCE to be possible, the following conditions are required: The WordPress advisory notes that the official PHP image for Docker is affected, and so is the default cPanel configuration when a PHP version before 8.5 is used. WordPress addressed CVE-2026-87902 yesterday with the release of version 7.1.2 , and fixes have also been backported to all branches down to 4.7 because of the critical severity of the flaw. Releases before 4.6 will not be getting a fix for this flaw. Patchstack reports that in the observed reconnaissance activity, the attackers attempted to include ordinary WordPress core files, apparently to identify vulnerable sites. Starting today, the researchers noticed that traffic related to the vulnerability increased tenfold and includes a writing to disk stage. \"The third stage swaps config-show for config-create, which pearcmd will happily use to write a file wherever it is told, with content the attacker controls.\" Some of the payloads only write a string that marks the host as exploitable via CVE-2026-87902. However, the researchers also saw payloads that \"write a short tag that executes a shell command on access,\" which indicates malicious activity. The files are delivered to /tmp and /var/tmp and have names like wp-pear-rce-flag.php, poc87902.php, luci_ .php, and zeta_ .php. Although the security firm did not publish a working request example, it warned that the observed probes use double-encoded traversal sequences in ‘pagename’ alongside a valid ‘page_id.’ The source IPs that should be added to a blocklist are 169.58.48.193, 169.58.48.195, and 2001:df1:e8c0::106b. Given the active exploitation of CVE-2026-87902, website administrators should update to WordPress version 7.1.2 as soon as possible and review the logs for malicious activity. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Critical Elementor Pro flaw exploited to take over WordPress sites WordPress backup plugin flaw exposes millions of sites to takeover attacks Hackers exploit Sangoma Switchvox flaw to deploy reverse shells Critical Langflow flaw exploited to steal OpenAI and AWS keys Researchers escape OpenAI Codex sandbox to run commands on host Malicious npm packages evade install-script defenses at runtime Microsoft reminds admins to migrate Entra ID users to passkeys Overdue a password health-check? Audit your Active Directory for free Overdue a password health-check? Audit your Active Directory for free Automate Onboarding and Access Reviews with No-Code IGA: See how it works Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. Initial attack traffic was only for reconnaissance and started less than five hours after the patch was released in WordPress 7.1.2. Malicious activity increased by ten times, and attackers are now trying to deliver payloads. WordPress security firm Patchstack reports that it observed the first malicious requests at 17:44 UTC on September 22 from a small group of IP addresses targeting multiple sites under its protection. Discovered by security researcher Robert Ressl, the issue is an unauthenticated path traversal bug that can lead to remote code execution (RCE) under certain conditions. The WordPress security team assesses that CVE-2026-87902 has critical severity, assigning a score of 9.2 out of 10. \"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file outside the active theme directories,\" reads the official advisory . For RCE to be possible, the following conditions are required: The WordPress advisory notes that the official PHP image for Docker is affected, and so is the default cPanel configuration when a PHP version before 8.5 is used. WordPress addressed CVE-2026-87902 yesterday with the release of version 7.1.2 , and fixes have also been backported to all branches down to 4.7 because of the critical severity of the flaw. Releases before 4.6 will not be getting a fix for this flaw. Patchstack reports that in the observed reconnaissance activity, the attackers attempted to include ordinary WordPress core files, apparently to identify vulnerable sites. Starting today, the researchers noticed that traffic related to the vulnerability increased tenfold and includes a writing to disk stage. \"The third stage swaps config-show for config-create, which pearcmd will happily use to write a file wherever it is told, with content the attacker controls.\" Some of the payloads only write a string that marks the host as exploitable via CVE-2026-87902. However, the researchers also saw payloads that \"write a short tag that executes a shell command on access,\" which indicates malicious activity. The files are delivered to /tmp and /var/tmp and have names like wp-pear-rce-flag.php, poc87902.php, luci_ .php, and zeta_ .php. Although the security firm did not publish a working request example, it warned that the observed probes use double-encoded traversal sequences in ‘pagename’ alongside a valid ‘page_id.’ The source IPs that should be added to a blocklist are 169.58.48.193, 169.58.48.195, and 2001:df1:e8c0::106b. Given the active exploitation of CVE-2026-87902, website administrators should update to WordPress version 7.1.2 as soon as possible and review the logs for malicious activity. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Critical Elementor Pro flaw exploited to take over WordPress sites WordPress backup plugin flaw exposes millions of sites to takeover attacks Hackers exploit Sangoma Switchvox flaw to deploy reverse shells Critical Langflow flaw exploited to steal OpenAI and AWS keys Researchers escape OpenAI Codex sandbox to run commands on host Malicious npm packages evade install-script defenses at runtime ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Overdue a password health-check? Audit your Active Directory for free Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -3254,7 +3544,7 @@
     "category": "",
     "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
     "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-    "article_text": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. VCO is a cloud-based centralized management platform that helps admins configure, monitor, and manage VeloCloud SD-WANs (Software-Defined Wide Area Networks) and associated edge devices. Tracked as CVE-2026-93952 , this maximum-severity flaw stems from an improper input validation weakness and affects VCO deployments where certificate-based authentication from the VeloCloud Edge to VeloCloud Orchestrator (VCO) is configured. Remote threat actors can exploit the vulnerability to access privileged internal VCO host functionality in low-complexity attacks that don't require privileges on the targeted system or user interaction. \"This issue was discovered externally and is known to be actively exploited,\" the company warned in a Tuesday advisory . \"Access to the public portion of the VeloCloud Edge authentication certificate is required. A successful attack requires network access to the VCO web interface. VCO tenant or operator credentials are not required for this exposure.\" Arista says that it has already patched hosted deployments running VCO 5.2.3.16 or later and VCO 6.4.2.8 or later and that it will also release security patches for VCO instances running 6.1.3.7 and below and 7.0.0.2 and below. The U.S. Cybersecurity and Infrastructure Security Agency has also added CVE-2026-93952 to its Known Exploited Vulnerabilities catalog on Tuesday and ordered U.S. federal civilian executive branch agencies to secure their networks by Friday, September 25 . While security patches are being deployed, admins should restrict access to the VCO web interface to administrative networks, review recent administrator activity for unusual changes, and monitor for connections from known malicious IP addresses. Admins should review VCO web access logs for suspicious activity, such as requests containing encoded characters, unusual URL-like path components, references to local or internal services, or high request rates. Arista also advised security teams to block the 142[.]93.149.77 and 104[.]248.126.159 IP addresses and review nginx logs for the x-vc-opt HTTP header, and said that unexpected outbound HTTP or HTTPS activity originating from the VCO host may also warrant further review. \"If compromise is suspected, operators should preserve VCO web access logs, backend application logs, system logs, database logs, and relevant file-system timestamps before remediation where operationally feasible,\" it added, and advised customers to contact the Arista Networks Technical Assistance Center (TAC) if they need additional assistance. Since the start of the year, Arista patched two other zero-day flaws ( CVE-2026-7473 in May and CVE-2026-16812 in July) that were being actively exploited in attacks and affected Extensible Operating System (EOS) and on-premises VeloCloud Orchestrator deployments, respectively. Arista Networks is a Fortune 500 company and one of the largest United States corporations by revenue, with more than 10,000 customers worldwide. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Arista patches VeloCloud Orchestrator zero-day exploited in attacks F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks Magento StyleSmuggler zero-day exploited to deploy Linux backdoor PaperCut releases second emergency patch for exploited flaws Researchers escape OpenAI Codex sandbox to run commands on host Malicious npm packages evade install-script defenses at runtime Microsoft reminds admins to migrate Entra ID users to passkeys Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. VCO is a cloud-based centralized management platform that helps admins configure, monitor, and manage VeloCloud SD-WANs (Software-Defined Wide Area Networks) and associated edge devices. Tracked as CVE-2026-93952 , this maximum-severity flaw stems from an improper input validation weakness and affects VCO deployments where certificate-based authentication from the VeloCloud Edge to VeloCloud Orchestrator (VCO) is configured. Remote threat actors can exploit the vulnerability to access privileged internal VCO host functionality in low-complexity attacks that don't require privileges on the targeted system or user interaction. \"This issue was discovered externally and is known to be actively exploited,\" the company warned in a Tuesday advisory . \"Access to the public portion of the VeloCloud Edge authentication certificate is required. A successful attack requires network access to the VCO web interface. VCO tenant or operator credentials are not required for this exposure.\" Arista says that it has already patched hosted deployments running VCO 5.2.3.16 or later and VCO 6.4.2.8 or later and that it will also release security patches for VCO instances running 6.1.3.7 and below and 7.0.0.2 and below. The U.S. Cybersecurity and Infrastructure Security Agency has also added CVE-2026-93952 to its Known Exploited Vulnerabilities catalog on Tuesday and ordered U.S. federal civilian executive branch agencies to secure their networks by Friday, September 25 . While security patches are being deployed, admins should restrict access to the VCO web interface to administrative networks, review recent administrator activity for unusual changes, and monitor for connections from known malicious IP addresses. Admins should review VCO web access logs for suspicious activity, such as requests containing encoded characters, unusual URL-like path components, references to local or internal services, or high request rates. Arista also advised security teams to block the 142[.]93.149.77 and 104[.]248.126.159 IP addresses and review nginx logs for the x-vc-opt HTTP header, and said that unexpected outbound HTTP or HTTPS activity originating from the VCO host may also warrant further review. \"If compromise is suspected, operators should preserve VCO web access logs, backend application logs, system logs, database logs, and relevant file-system timestamps before remediation where operationally feasible,\" it added, and advised customers to contact the Arista Networks Technical Assistance Center (TAC) if they need additional assistance. Since the start of the year, Arista patched two other zero-day flaws ( CVE-2026-7473 in May and CVE-2026-16812 in July) that were being actively exploited in attacks and affected Extensible Operating System (EOS) and on-premises VeloCloud Orchestrator deployments, respectively. Arista Networks is a Fortune 500 company and one of the largest United States corporations by revenue, with more than 10,000 customers worldwide. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Arista patches VeloCloud Orchestrator zero-day exploited in attacks F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks Magento StyleSmuggler zero-day exploited to deploy Linux backdoor PaperCut releases second emergency patch for exploited flaws Researchers escape OpenAI Codex sandbox to run commands on host Malicious npm packages evade install-script defenses at runtime ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -4471,6 +4761,381 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html"
+      }
+    ]
+  },
+  {
+    "id": "c408ab7c0b6b3c8a",
+    "date": "2026-09-23T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-748: Luxion KeyShot BIP File Parsing Uncontrolled Search Path Element Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Luxion KeyShot. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-92202.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Luxion KeyShot.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-748/",
+    "target": "ZDI-26-748",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-748/"
+      }
+    ]
+  },
+  {
+    "id": "7d9d7160a3c79ec8",
+    "date": "2026-09-23T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-747: Wireshark RF4CE Packet Parsing Buffer Overflow Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Wireshark. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-96417.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Wireshark.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-747/",
+    "target": "ZDI-26-747",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-747/"
+      }
+    ]
+  },
+  {
+    "id": "d225d792522df78c",
+    "date": "2026-09-23T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-746: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-91818.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-746/",
+    "target": "ZDI-26-746",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-746/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-744/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-727/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-724/"
+      }
+    ]
+  },
+  {
+    "id": "8ec03bfd8134c4d0",
+    "date": "2026-09-23T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-745: Foxit PDF Reader AcroForm Out-of-Bounds Read Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-91817.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-745/",
+    "target": "ZDI-26-745",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-745/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-740/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-730/"
+      }
+    ]
+  },
+  {
+    "id": "93303113f47cb7fe",
+    "date": "2026-09-23T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-743: Foxit PDF Reader JPEG2000 Parsing Memory Corruption Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-91815.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-743/",
+    "target": "ZDI-26-743",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-743/"
+      }
+    ]
+  },
+  {
+    "id": "e45d70f059559212",
+    "date": "2026-09-23T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-742: Foxit PDF Reader FoxitUpdater Race Condition Local Privilege Escalation Vulnerability",
+    "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.1. The following CVEs are assigned: CVE-2026-91812.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows local attackers to escalate privileges on affected installations of Foxit PDF Reader.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-742/",
+    "target": "ZDI-26-742",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-742/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-741/"
+      }
+    ]
+  },
+  {
+    "id": "79cf57706d00e412",
+    "date": "2026-09-23T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-739: Foxit PDF Reader Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability",
+    "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 3.3. The following CVEs are assigned: CVE-2026-91810.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-739/",
+    "target": "ZDI-26-739",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-739/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-737/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-736/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-735/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-729/"
+      }
+    ]
+  },
+  {
+    "id": "8e91a6214ea78018",
+    "date": "2026-09-23T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-738: Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability",
+    "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 3.3. The following CVEs are assigned: CVE-2026-91809.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to disclose sensitive information on affected installations of Foxit PDF Reader.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-738/",
+    "target": "ZDI-26-738",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-738/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-728/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-726/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-725/"
+      }
+    ]
+  },
+  {
+    "id": "809eaea829d67d89",
+    "date": "2026-09-23T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-734: Foxit PDF Reader RichMedia Annotation Directory Traversal Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-91801.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-734/",
+    "target": "ZDI-26-734",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-734/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-733/"
+      }
+    ]
+  },
+  {
+    "id": "c168661824d62093",
+    "date": "2026-09-23T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-732: Foxit PDF Reader importIcon NTLM Response Information Disclosure Vulnerability",
+    "summary": "This vulnerability allows remote attackers to disclose NTLM responses on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 3.3. The following CVEs are assigned: CVE-2026-91796.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to disclose NTLM responses on affected installations of Foxit PDF Reader.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-732/",
+    "target": "ZDI-26-732",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-732/"
+      }
+    ]
+  },
+  {
+    "id": "6d588bd548344959",
+    "date": "2026-09-23T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-731: Foxit PDF Reader FileOpen Uninitialized Variable Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-91795.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Foxit PDF Reader.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-731/",
+    "target": "ZDI-26-731",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-731/"
       }
     ]
   },
@@ -26137,615 +26802,6 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html"
-      }
-    ]
-  },
-  {
-    "id": "74a462d37a8570bd",
-    "date": "2026-09-11T14:25:43.291697+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Adobe Acrobat Reader: DigSig Bug Enables RCE via PDF, Urgent Patch Released CYBERSEC CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/adobe-acrobat-reader-digsig-bug-enables-rce-via-pdf-urgent-patch-released",
-    "target": "Adobe Acrobat Reader",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/adobe-acrobat-reader-digsig-bug-enables-rce-via-pdf-urgent-patch-released"
-      }
-    ]
-  },
-  {
-    "id": "0284bc3226790079",
-    "date": "2026-09-11T14:17:53+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New KATARU IoT Malware Packs Linux Privilege Escalation Exploits and Mirai-Style DDoS Attacks",
-    "summary": "KATARU is a newly observed IoT malware strain that can turn poorly secured devices into DDoS attack nodes. The sample was captured after an attacker used repeated Telnet password guesses against a honeypot, then downloaded an ARM payload. It shows how old entry points still give attackers a foothold. The malware resembles the Mirai botnet […] The post New KATARU IoT Malware Packs Linux Privilege Escalation Exploits and Mirai-Style DDoS Attacks appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "KATARU is a newly observed IoT malware strain that can turn poorly secured devices into DDoS attack nodes.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/new-kataru-iot-malware/",
-    "target": "KATARU IoT Malware Packs",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/new-kataru-iot-malware/"
-      }
-    ]
-  },
-  {
-    "id": "7ffab88d8ae582ca",
-    "date": "2026-09-11T14:10:20+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-    "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands for Generative Threat Group), which aligns with broader reporting linking the cluster to Midnight",
-    "article_text": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands for Generative Threat Group), which aligns with broader reporting linking the cluster to Midnight Blizzard (aka APT29 and Cozy Bear). This actor is said to have developed an AI-driven process to automatically rebuild and re-deploy their toolkit if it was detected by security products, thereby undermining defenders' ability to block the artifacts via static detections. Attacks mounted by GTG-20006 have targeted military intelligence targets in Ukrainian and European governments, along with diplomatic and defense organizations and individuals connected to U.S. foreign policy. \"The actor also used AI to monitor how well their tools evaded detections from known security defenses,\" Anthropic explained. \"If their monitoring AI agents identified that any of their deployed malware was detected by a security product, agents would then set about the process of autonomously modifying and rebuilding the malware to evade the existing detections.\" Once the artifacts can bypass detection, they are staged on disposable hosting servers to which victims are redirected to so as to retrieve the malware via phishing, ClickFix , and DNS hijacking schemes. The threat actor has also been observed using AI workflows to register domains, set up the hosting infrastructure used to send phishing emails, as well as to deliver the messages and monitor command-and-control (C2) channels for successful compromises. More than 20 distinct organizations were singled out over the course of the reconnaissance and live operations. This included government ministries, defense and intelligence bodies, embassies and diplomatic missions, think tanks, and defense-industrial companies, mainly in Ukraine and Europe. The attacks also extended to the Middle East and maritime-related government agencies in Asia. These efforts also overlapped with a campaign dubbed CaptiveCrunch that was documented in July and August 2026 by ReliaQuest, Microsoft, Google, and Lumen Black Lotus Labs. \"The actor compromised at least three hospitality vendors that operate hotel guest Wi-Fi,\" Anthropic said. \"They used compromised admin credentials to modify DNS records so that they pointed to services owned by the actor (a technique known as DNS hijacking). Guests of hotels using the compromised vendors who connected to the hotel Wi-Fi had their traffic, device identifier, and IP address sent to the actor's servers.\" In the next stage, victims were served ClickFix-style lures to deliver Windows, Android, and iOS malware tailored to their device - Furthermore, the threat actor has been found to use data stolen from the hotel management systems and the individual guests' devices to identify additional targets, particularly individuals associated with Ukraine, such as government officials and drone manufacturers. This is complemented by attempts to take over victims' WhatsApp accounts using headless browsers to link victim accounts as companion devices and ultimately bulk-exporting Russian and Ukrainian language conversations from them while suppressing read receipts. \"The actor also targeted surveillance platforms,\" Anthropic said. \"They found authorization flaws in the application interface of camera streaming services, and from there they enumerated users and harvested tokens that granted them access to the victims’ live camera streams.\" GTG-20006 has been attributed to an intrusion targeting a North African government technology authority, leveraging credentials to a VPN appliance to hijack the central account server and exfiltrate the entire credential database consisting of over 300,000 national identity records and the commercial registry data of more than half a million companies operating in the country. Also developed by the threat actor is a cloud email espionage platform, which used a device code phishing framework codenamed Embassy Kit to orchestrate a Microsoft 365 token theft campaign targeting diplomatic and government personnel, resulting in the unauthorized access and exfiltration of mail records from at least eight organizations, including a national prosecutor's office, a military education institute, and a regional intergovernmental organization. The threat actor has also be",
-    "quick_summary": [
-      "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-    "target": "Russian State-Sponsored Claude Rebuild",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html"
-      }
-    ]
-  },
-  {
-    "id": "86f2cd60d97a9ad3",
-    "date": "2026-09-11T14:01:11+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-    "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations, sponsored search results, and ClickFix-style lures. [...]",
-    "article_text": "As AI platforms become part of daily workflows, attackers have found a new way in: the platforms themselves. The Huntress Security Operations Center (SOC) says the bigger day-to-day risk comes from threat actors abusing the AI features people already trust and rely on, rather than attacks on the AI companies or models themselves. Over the past nine months, Huntress has tracked incidents in which attackers weaponized shareable AI content, public mini-apps, and sponsored search placement to target AI users and deliver malware. Huntress has observed threat actors abuse a handful of real AI platform features, including: Claude Artifacts: content Claude generates and displays in a chat preview pane, which users can publish and share via a public link. claude.ai/share links: shareable URLs created when someone publishes a Claude conversation; these can surface in search engines when posted to crawlable spots like forums or social media. ChatGPT and Grok conversations: shared, indexable conversations hosted on chatgpt.com and grok.com that can rank for troubleshooting searches. Each of these sits inside a trust boundary. Users recognize the platform, the branding, and the surrounding content, so malicious instructions or downloads look legitimate. These campaigns often only run for hours or days before a provider pulls the content down, but that's enough time to trick victims before getting caught. Your files are encrypted, your operations are down, an attacker has named their price, and they're waiting for you to respond. Do you pay? Do you negotiate? Do you even engage at all? Choose your next move in a simulated ransomware incident, built from tactics Huntress has seen used against real businesses. You'll see how ransomware operators behave when they think they're in control, and what steps you can take for catching an attack before it becomes a negotiation. In July, Huntress saw a campaign called FakeAgent hit more than 29 organizations. It started with a malicious Claude Artifact hosted on the real claude.ai domain. Since public Artifacts are meant for lightweight demos and get minimal vetting from Anthropic beyond a generic disclaimer, attackers built a convincing fake Claude Desktop download page. Victims searching Bing for the Claude desktop app landed on the fake page and clicked what looked like a legitimate download link. Instead, they were redirected to an external domain that delivered the SectopRAT malware. Huntress reported the Artifact and Anthropic removed it by July 22, but incidents tied to the same redirect domain continued into August. In a separate incident, a victim searching Google for \"Claude on Mac\" clicked a sponsored result that led to a claude.ai/share link posing as an Apple Support install guide. Because the page lived on Anthropic's own domain, it carried none of the usual red flags: no lookalike URL, no certificate warning. A third pattern targets AI-generated troubleshooting advice itself. In December, a routine search for \"clear disk space on macOS\" surfaced high-ranking ChatGPT and Grok conversations that gave ClickFix-style instructions instead of real fixes. Attackers had crafted the conversations, hit \"share\" to generate a public URL on the platform's trusted domain, and used SEO poisoning to push the link to the top of Google's results. Because the links lived on real chatgpt.com and grok.com domains, victims trusted the advice and ran the suggested Terminal commands, which delivered the AMOS stealer. None of these attacks broke through the AI platform security. They exploited the trust users place in familiar brands and real domains. Defenders should treat clipboard-driven execution and AI-assisted troubleshooting as security risks. Restrict script execution from the clipboard and enforce application allow-listing. Watch for new scheduled tasks and antivirus exclusion changes, and train users to spot ClickFix-style lures . Report suspicious AI-hosted content to the platform vendor quickly. These campaigns tend to be short-lived, but fast reporting and layered controls can shrink the window attackers get to exploit them. If you’re interested in this kind of tradecraft and exploring how attackers evolve their tactics, join our experts at Tradecraft Tuesday , where we break it all down every month. Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days September Windows Server updates break Remote Desktop Services New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM ",
-    "quick_summary": [
-      "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-    "target": "Threat Actors Turning Trusted",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/"
-      }
-    ]
-  },
-  {
-    "id": "c65756defb5bec57",
-    "date": "2026-09-11T13:38:23+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Impersonate CEOs in 1 Million Emails to Trick Employees Into $50,000 Payments",
-    "summary": "A large email fraud campaign used fake CEO messages and invoices to push employees toward payments of nearly $50,000. The operation did not rely on a malicious attachment or software flaw. Instead, it used ordinary email to deliver a scam. The attackers sent over one million messages to users between August 3 and 5. Most […] The post Hackers Impersonate CEOs in 1 Million Emails to Trick Employees Into $50,000 Payments appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A large email fraud campaign used fake CEO messages and invoices to push employees toward payments of nearly $50,000.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/hackers-impersonate-ceos/",
-    "target": "Impersonate CEOs Million Emails",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/hackers-impersonate-ceos/"
-      }
-    ]
-  },
-  {
-    "id": "73cb3b9413f24bd3",
-    "date": "2026-09-11T13:11:35+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Windows 11 Security Update KB5124008 Breaks Always-On VPN Connections",
-    "summary": "Microsoft’s September 2026 security update KB5124008 is knocking some Windows 11 enterprise clients off Always On VPN after the Patch Tuesday package landed on September 8. Administrators who can reproduce the failure say certificate-based tunnels that worked immediately before the patch stop connecting afterward, then recover as soon as the cumulative update is removed and […] The post Windows 11 Security Update KB5124008 Breaks Always-On VPN Connections appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Microsoft’s September 2026 security update KB5124008 is knocking some Windows 11 enterprise clients off Always On VPN after the Patch Tuesday package landed on September 8.",
-      "Risk: ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/windows-11-security-update-kb5124008/",
-    "target": "Windows KB5124008 Breaks Always-On",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/windows-11-security-update-kb5124008/"
-      }
-    ]
-  },
-  {
-    "id": "a0ee2633cd9def24",
-    "date": "2026-09-11T12:48:04+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
-    "summary": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking. The post Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
-    "target": "Trezor 347000 Users Received",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/"
-      }
-    ]
-  },
-  {
-    "id": "6a40efec551ab3a3",
-    "date": "2026-09-11T12:45:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Anthropic caught Russia-linked spies using Claude in hacking operations",
-    "summary": "Anthropic detected and disrupted a Russia-linked cyber-espionage group that used its AI tool Claude in a hacking campaign targeting more than 20 government, intelligence, diplomatic and defense organizations.",
-    "article_text": "",
-    "quick_summary": [
-      "Anthropic detected and disrupted a Russia-linked cyber-espionage group that used its AI tool Claude in a hacking campaign targeting more than 20 government, intelligence, diplomatic and defense organizations.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/anthropic-russia-hackers-claude",
-    "target": "Anthropic Russia-linked Claude",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/anthropic-russia-hackers-claude"
-      }
-    ]
-  },
-  {
-    "id": "c3366c9d223a521d",
-    "date": "2026-09-11T12:31:07+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Conti Ransomware Hacker Sentenced After Group Attacked Over 1,000 Victims Worldwide",
-    "summary": "A Ukrainian national has been sentenced to four years in U.S. prison for his role in the Conti ransomware operation, which compromised more than 1,000 victims worldwide and generated at least $150 million in ransom payments. Oleksii Oleksiyovych Lytvynenko, 44, previously living in Cork, Ireland, was sentenced for conspiracy to commit wire fraud. U.S. prosecutors […] The post Conti Ransomware Hacker Sentenced After Group Attacked Over 1,000 Victims Worldwide appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A Ukrainian national has been sentenced to four years in U.S.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://cybersecuritynews.com/conti-ransomware-hacker-sentenced/",
-    "target": "Conti Ransomware Sentenced Group",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/conti-ransomware-hacker-sentenced/"
-      }
-    ]
-  },
-  {
-    "id": "63c597b80d9228e9",
-    "date": "2026-09-11T12:14:12+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New Android Ransomware Records Screens, Steals OTPs and Secretly Takes Photos of Victims",
-    "summary": "A newly uncovered Android threat combines ransomware with spying, creating a trap for people who install apps from untrusted links. Called Mantax Otax, the malware can lock files, watch the screen, intercept verification codes and secretly use a phone’s cameras, making one infection both an extortion and privacy crisis. The campaign appears built around standalone […] The post New Android Ransomware Records Screens, Steals OTPs and Secretly Takes Photos of Victims appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A newly uncovered Android threat combines ransomware with spying, creating a trap for people who install apps from untrusted links.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/new-android-ransomware/",
-    "target": "Android Ransomware Records Screens",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/new-android-ransomware/"
-      }
-    ]
-  },
-  {
-    "id": "362ae2f6f812c08f",
-    "date": "2026-09-11T12:03:45+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Ubuntu 24.04.5 LTS Released With Linux 7.0 Kernel and Latest Security Updates",
-    "summary": "Canonical has officially rolled out Ubuntu 24.04.5 LTS, the fifth maintenance update to the “Noble Numbat” long-term support release, delivering a fresh installation image packed with the latest security patches, bug fixes, and an upgraded hardware enablement stack built around the Linux 7.0 kernel. For a distribution that underpins millions of servers, cloud instances, and […] The post Ubuntu 24.04.5 LTS Released With Linux 7.0 Kernel and Latest Security Updates appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Canonical has officially rolled out Ubuntu 24.04.5 LTS, the fifth maintenance update to the “Noble Numbat” long-term support release, delivering a fresh installation image packed with the latest security patches, bug fix",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/ubuntu-24-04-5-lts-linux-7/",
-    "target": "Ubuntu 24.04.5 LTS Released",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/ubuntu-24-04-5-lts-linux-7/"
-      }
-    ]
-  },
-  {
-    "id": "9c91ec21916aa312",
-    "date": "2026-09-11T12:00:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
-    "summary": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022.",
-    "article_text": "",
-    "quick_summary": [
-      "A Ukrainian national was sentenced to four years in a U.S.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://therecord.media/conti-ransomware-ukraine-hacker",
-    "target": "Ukrainian",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/conti-ransomware-ukraine-hacker"
-      }
-    ]
-  },
-  {
-    "id": "3ec81a6559c22fac",
-    "date": "2026-09-11T11:30:00+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-    "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise. A critical vulnerability may look alarming on a scanner report, but if it sits behind strong segmentation, identity controls, and other defenses that prevent an attacker",
-    "article_text": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise. A critical vulnerability may look alarming on a scanner report, but if it sits behind strong segmentation, identity controls, and other defenses that prevent an attacker from reaching anything important, then it doesn’t necessarily need immediate attention. On the other hand, a medium-severity vulnerability may appear less important, but if it can be used to provide a foothold that can be chained with other weaknesses to reach sensitive data or privileged systems, then fixing that gap becomes a priority. Severity scores tell you what vulnerabilities could mean in isolation. Autonomous penetration testing tells you what an attacker can actually do with the vulnerabilities. The security industry has been moving toward continuous validation because point-in-time assessments and periodic vulnerability scanning can't fully account for complex environments that change every day. The missing piece to continuous security testing has been an execution model capable of performing meaningful penetration testing on an ongoing basis and at scale. Autonomous penetration testing is the missing execution layer for continuous security validation. Vulnerability severity remains useful because security teams need a consistent way to understand the potential impact of a vulnerability and prioritize remediation. The second vulnerability may represent more actionable risk because attackers look for opportunities to gain access, escalate privileges, move laterally, bypass controls, and reach something valuable. This expertise was once exclusive to skilled threat actors, but the use of AI is lowering the knowledge barrier for bad actors to conduct cyberattacks. Attack path validation provides the missing context. Rather than asking only whether a vulnerability exists, autonomous penetration testing performs attack path validation to ask whether it can be reached, exploited, chained with other weaknesses, and used to advance toward a meaningful objective. The latest autonomous pentesting capabilities are no longer an advantage reserved for large security teams with deep budgets. By shifting a security strategy from reactive remediation to proactive validation, organizations of all sizes can continuously test their environments, prioritize the risks that matter, and prove where attackers could actually gain ground. Traditional penetration testing earns its value from human expertise. An experienced pentester can reason through complex scenarios, chain multiple vulnerabilities, test business logic, and determine whether a theoretical weakness can become a real compromise. That expertise remains invaluable. What's changing now is the environment that security testing has to keep up with. In a typical process, a penetration test happens, a report is delivered, and the organization begins remediation. Then, the environment continues to change. Cloud infrastructure is modified. Applications are deployed. Identities are created and removed. Configurations drift. New assets appear. Security controls change. New vulnerabilities emerge. The assessment may have been accurate when it was performed, but the environment it described may no longer exist weeks or months later. Point-in-time pentesting is becoming insufficient as the only mechanism for validating security posture. The answer isn't necessarily more annual penetration tests. It's a testing model capable of keeping pace with the ongoing change of the environment itself. That's where autonomous penetration testing levels the playing field. Continuous security validation has been on the radar for a while. Continuous attack surface management, continuous vulnerability discovery, continuous control validation, and continuous exposure management all reflect the same underlying realization that security teams need to know what is true about their environments in real time. Offensive security professionals bring judgment and creativity developed through years of hands-on experience. But there are practical limits to how many applications, network segments, identities, attack paths, and security controls a human team can test on an ongoing basis. Autonomous penetration testing gives continuous testing the execution model it has been missing. Instead of waiting for the next schedul",
-    "quick_summary": [
-      "Security teams have become exceptionally talented at finding vulnerabilities.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-    "target": "Your Critical Vulnerabilities Might",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html"
-      }
-    ]
-  },
-  {
-    "id": "b7570223427a0fb0",
-    "date": "2026-09-11T11:29:09+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
-    "summary": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023. The post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
-    "target": "Ukrainian Conti Ransomware Developer",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/"
-      }
-    ]
-  },
-  {
-    "id": "d657f99dad1c0394",
-    "date": "2026-09-11T11:28:53+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "cPanel ConfigServer Security & Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands",
-    "summary": "A critical vulnerability in ConfigServer Security & Firewall (CSF), used on cPanel and WHM servers, could allow an unauthenticated remote attacker to execute arbitrary commands through the software’s MESSENGER service. The issue is tracked as CVE-2026-65638 and affects CSF versions 14.00 through 16.29. CSF version 16.30 and later fixes the vulnerability. Administrators running affected installations […] The post cPanel ConfigServer Security & Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A critical vulnerability in ConfigServer Security & Firewall (CSF), used on cPanel and WHM servers, could allow an unauthenticated remote attacker to execute arbitrary commands through the software’s MESSENGER service.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/cpanel-configserver-security-firewall-vulnerability/",
-    "target": "ConfigServer Firewall Vulnerability Allows",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/cpanel-configserver-security-firewall-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "d0f5b70836b2dfb7",
-    "date": "2026-09-11T11:15:22+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "GitLab urges users to patch max severity path traversal flaw",
-    "summary": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]",
-    "article_text": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. The security flaw, discovered by a security researcher using the ' s3ntago ' handle and reported via GitLab's HackerOne bug bounty program, stems from improper path confinement and missing authentication enforcement in the repository commits API. Unauthenticated attackers can exploit CVE-2026-85706 \"under certain conditions\" to read arbitrary data (e.g., credentials, secrets, and sensitive information) from vulnerable servers. While GitLab has yet to flag this flaw as exploited in the wild, one day later, cybersecurity company watchTowr reported that attackers have already begun searching for Internet-exposed GitLab servers unpatched against CVE-2026-85706. \"watchTowr Intel is already observing in-the-wild probes for the latest critical GitLab Path Traversal vulnerability, CVE-2026-85706, which allows attackers to read arbitrary files in a single HTTP request,\" it warned . \"Based on recent GitLab vulnerabilities, we know the time until indiscriminate exploitation is likely not far away. [..] Defenders should also hunt through log files for HTTP POST requests to '/api/v4/projects/{id}/repository/commits/' URIs containing 'file.path' parameters to identify potential exploitation attempts.\" Yesterday, GitLab patched a second critical vulnerability tracked as CVE-2026-87719 that stems from an insecure deserialization weakness in the GraphQL subscription serializer. CVE-2026-87719 affects GitLab EE and allows authenticated users with Duo Chat access to steal sensitive credentials and Advanced Search instance configurations. GitLab fixed the two security issues in GitLab Community Edition (CE) and Enterprise Edition (EE) versions 19.3.2, 19.2.6, and 19.1 on Thursday, and urged users to patch their systems immediately. \"These versions contain important bug and security fixes, and we strongly recommend that all self-managed GitLab installations be upgraded to one of these versions immediately,\" the company warned on Thursday . \"GitLab.com is already running the patched version. GitLab Dedicated customers do not need to take action.\" In May 2023, GitLab addressed another maximum severity path traversal flaw (CVE-2023-2825) that exposes sensitive data, including proprietary software code, user credentials, tokens, and files on unpatched servers. One year later, CISA and the FBI urged software companies to weed out path traversal security vulnerabilities from their products before shipping, saying that such flaws \"have been called 'unforgivable' since at least 2007.\" More recently, in January, GitLab also patched a high-severity two-factor authentication bypass affecting community and enterprise editions that enables attackers who know the target's account ID to circumvent two-factor authentication. Since November 2021, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) has flagged four GitLab vulnerabilities as exploited in attacks, including two ( CVE-2021-22175 and CVE-2021-39935 ) in February this year. The GitLab DevSecOps platform has more than 30 million registered users and is used by over 50% of Fortune 100 companies, including Nvidia, Airbus, T-Mobile, Lockheed Martin, Goldman Sachs, and UBS. Update September 11, 09:39 EDT: Added watchTowr's report of CVE-2026-85706 probing. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Plex warns users to patch security vulnerabilities immediately CISA orders urgent patching of actively exploited Zimbra flaw Citrix urges admins to patch new NetScaler flaws as soon as possible Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown September Windows Server updates break Remote Desktop Services Microsoft Excel KB5002914 update breaks copy and paste for some users New Android malware encrypts files, steals data, and harasses victims Overdue a password health-check? Audit your Active Directory for free Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. EtherHiding Malware on macOS: How Attackers Hide C2 on the Blockchain Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-    "target": "GitLab",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/"
-      }
-    ]
-  },
-  {
-    "id": "40e63460b7e3a640",
-    "date": "2026-09-11T11:10:02+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Check Point Patches Critical VPN Vulnerabilities",
-    "summary": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution. The post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
-    "target": "Check Point Patches Critical",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/"
-      }
-    ]
-  },
-  {
-    "id": "9c0b25460e70123c",
-    "date": "2026-09-11T10:56:16+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
-    "summary": "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars. The post Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
-    "target": "Kiteworks Acquires Bonfy.AI Fill",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/"
-      }
-    ]
-  },
-  {
-    "id": "0785d10ad78fdf4e",
-    "date": "2026-09-11T09:59:45+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "IDScan Confirms Data Breach Following 153 Million Driver’s Licenses Leaked on the Dark Web",
-    "summary": "IDScan.net, a Louisiana-based identity verification firm whose technology underpins age and identity checks for retailers, bars, and other Fortune 500 clients, has confirmed a data breach after a criminal marketplace began advertising more than 153 million driver’s licenses from the United States and Canada. The company disclosed that it detected unauthorized access to its systems […] The post IDScan Confirms Data Breach Following 153 Million Driver’s Licenses Leaked on the Dark Web appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "IDScan.net, a Louisiana-based identity verification firm whose technology underpins age and identity checks for retailers, bars, and other Fortune 500 clients, has confirmed a data breach after a criminal marketplace beg",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/idscan-confirms-data-breach/",
-    "target": "IDScan Confirms Data Breach",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/idscan-confirms-data-breach/"
-      }
-    ]
-  },
-  {
-    "id": "d95b6dd490d28913",
-    "date": "2026-09-11T09:41:03+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Surfshark Systems Targeted by Hackers",
-    "summary": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-    "target": "Surfshark Systems Targeted",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/"
-      }
-    ]
-  },
-  {
-    "id": "e9a45efa06075f93",
-    "date": "2026-09-11T09:40:56.353710+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT PivotC2: The Native FortiGate RAT That Hit 178 Devices",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/pivotc2-the-native-fortigate-rat-that-hit-178-devices",
-    "target": "EXPLOIT PivotC2",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/pivotc2-the-native-fortigate-rat-that-hit-178-devices"
       }
     ]
   }
