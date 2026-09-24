@@ -1,7 +1,7 @@
 [
   {
     "id": "28a177419b3e7ae2",
-    "date": "2026-09-24T19:09:42.883629+00:00",
+    "date": "2026-09-24T22:23:44.941731+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "d2c3402c3affc5b7",
-    "date": "2026-09-24T19:09:42.883523+00:00",
+    "date": "2026-09-24T22:23:44.941661+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "930c2dc80127f60a",
-    "date": "2026-09-24T19:09:42.883407+00:00",
+    "date": "2026-09-24T22:23:44.941583+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "44317c04c18a2ba8",
-    "date": "2026-09-24T19:09:42.883287+00:00",
+    "date": "2026-09-24T22:23:44.941500+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "1ec8120fa644ae2b",
-    "date": "2026-09-24T19:09:42.883163+00:00",
+    "date": "2026-09-24T22:23:44.941417+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -150,7 +150,7 @@
   },
   {
     "id": "4917c8e1cd171755",
-    "date": "2026-09-24T19:09:42.883020+00:00",
+    "date": "2026-09-24T22:23:44.941328+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -178,71 +178,8 @@
     ]
   },
   {
-    "id": "a60891509cbccff3",
-    "date": "2026-09-24T19:09:42.882878+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ShinyHunters Claims FBI Breach in Retaliation for IC3 Report CYBERSEC",
-    "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job,\" the group said in a statement posted on their dark",
-    "article_text": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job,\" the group said in a statement posted on their dark web site. \"Whether it be a Special Agent or any other role within your agency. The following FBI services were compromised: Criminal Justice (CJ), HR, Medlink, and more.\" The development was first reported by 404 Media. ShinyHunters said the FBI was targeted in response to a May 2026 public service announcement (PSA) that detailed the threat actor's targeting of Canvas , an online Learning Management System (LMS), while urging victims not to pay. The attackers, in their own counter PSA, described them as \"substantial false allegations,\" adding, \"we were very disappointed to see an agency of your standing would resort to such circulation of disinformation in an attempt to 'disrupt' our operations, an effort that ultimately proved unsuccessful.\" The group has also rejected claims that it's part of The Com decentralized collective, calling it a \"propaganda started by the Information Security Industry which has brainwashed past FBI and DOJ officials into formalizing this nonsense.\" A ShinyHunters spokesperson told The Register that the group exploited a new Oracle PeopleSoft zero-day vulnerability to gain remote code execution and deface the FBI's jobs site with a \"This site has been seized by ShinyHunters\" banner. Visiting the site now reads: \"Scheduled Maintenance Underway. We're Sniffing Out Site Updates for You!\" There are currently no details of a PeopleSoft pre-authenticated RCE zero-day. However, ShinyHunters weaponized a similar flaw ( CVE-2026-35273 ) in June 2026 to break into enterprise networks and extort victims. In a statement shared with Reuters, the FBI said it's \"aware of claims regarding unauthorized activity affecting FBIjobs.gov and is currently investigating.\" The disclosure comes after the high-profile hacking group hijacked the dark web leak site of the Clop (aka Cl0p) ransomware crew. \"IF YOU WANT TO SAVE YOUR BRAND AND NOT DIE BY MY HANDS: [...] let's see how rich you really are,\" the notice read. \"2.333% of my net worth is a 8 figure amount, I hope you can pay that much because that is the demand, negotiable. Get your bosses in front of the white board in the war room. Clock is ticking moron. Kindly excuse our unprofessionalism.\" \"ShinyHunters; claim of an FBI breach is an unusually provocative move in the ongoing contest between law enforcement and cybercrime groups and should absolutely be taken seriously,\" Etay Maor, VP of threat intelligence at Cato Networks, said. \"We have seen threat actors target businesses countless times, and nation states or nation-state-connected groups have compromised law-enforcement organizations before—the 2015 OPM breach remains the most notable example—but a cybercrime brand publicly claiming an FBI compromise is different.\" \"One small operational clue is the September 23 timestamp on the group's post, while the news emerged on September 22 in the U.S. If that timestamp reflects the group's real operating environment, it points toward activity in Asia. It is not a definitive attribution, but it is a detail investigators will examine alongside the technical evidence.\" Maor also described ShinyHunters as a resilient criminal brand that has managed to outlast takedowns, arrests, and forum seizures by evolving its methods and attracting new operators, suggesting it's more than a \"fixed set of people or infrastructure.\" \"Its recent playbook has emphasized abusing trusted identity paths through help-desk social engineering, malicious OAuth applications, and stolen SaaS integration tokens, rather than simply breaking through a technical perimeter. That is the larger lesson here: organizations, including public-sector agencies, need to protect the identity and third-party trust relationships that attackers increasingly exploit.\" AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identit",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/shinyhunters-claims-fbi-breach-in-retaliation-for-ic3-report",
-    "target": "ShinyHunters Claims FBI Breach",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews",
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/shinyhunters-claims-fbi-breach-in-retaliation-for-ic3-report"
-      },
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html"
-      }
-    ]
-  },
-  {
-    "id": "6fc2011c526477d1",
-    "date": "2026-09-24T19:09:42.882736+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "LausivLoader Weaponizes Environment Variables to Break Staged Analysis malware",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/malware/lausivloader-weaponizes-environment-variables-to-break-staged-analysis",
-    "target": "LausivLoader Weaponizes Environment Variables",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/lausivloader-weaponizes-environment-variables-to-break-staged-analysis"
-      }
-    ]
-  },
-  {
     "id": "0af1c3c938bef676",
-    "date": "2026-09-24T19:09:42.882616+00:00",
+    "date": "2026-09-24T22:23:44.941248+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -271,7 +208,7 @@
   },
   {
     "id": "c3b1c82861b31d4e",
-    "date": "2026-09-24T19:09:42.882458+00:00",
+    "date": "2026-09-24T22:23:44.941132+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -300,7 +237,7 @@
   },
   {
     "id": "ff3dda9729ebc5dd",
-    "date": "2026-09-24T19:09:42.882329+00:00",
+    "date": "2026-09-24T22:23:44.941039+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -328,13 +265,13 @@
     ]
   },
   {
-    "id": "859fd7dd03bc959f",
-    "date": "2026-09-24T19:09:42.881412+00:00",
+    "id": "ff7f08969a989319",
+    "date": "2026-09-24T22:23:44.940774+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "malware Fake SSN Site Delivers StreamRat and XWorm with Platform-Specific Payloads Sep 24, 2026",
+    "title": "Fake SSN Site Delivers StreamRat and XWorm with Platform-Specific Payloads malware",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -357,13 +294,13 @@
     ]
   },
   {
-    "id": "22a4e52b9aa3d312",
-    "date": "2026-09-24T19:09:42.881285+00:00",
+    "id": "db9a2e80078803da",
+    "date": "2026-09-24T22:23:44.940685+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC CVE Roundcube CVE-2026-48842: Passwordless Attack on Webmail Sep 24, 2026",
+    "title": "Roundcube CVE-2026-48842: Passwordless Attack on Webmail CYBERSEC CVE",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -372,7 +309,7 @@
       "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/roundcube-cve-2026-48842-passwordless-attack-on-webmail",
-    "target": "CYBERSEC CVE Roundcube CVE-2026-48842",
+    "target": "Roundcube CVE-2026-48842",
     "type": "Vulnerability",
     "severity": "Medium",
     "sources": [
@@ -386,13 +323,13 @@
     ]
   },
   {
-    "id": "5778d6d04986aad6",
-    "date": "2026-09-24T19:09:42.881102+00:00",
+    "id": "cd8dd2bc284df00a",
+    "date": "2026-09-24T22:23:44.940138+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "n0n Ransomware Threatens to Wipe Backups to Force Payment",
+    "title": "news n0n Ransomware Threatens to Wipe Backups to Force Payment Sep 24, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -415,13 +352,42 @@
     ]
   },
   {
-    "id": "5da6e6261199afb1",
-    "date": "2026-09-24T19:09:42.880918+00:00",
+    "id": "a05df4c67c48456c",
+    "date": "2026-09-24T22:23:44.940051+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 8 CVE · 6 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
+    "title": "CYBERSEC Carbonato: The Botnet That Weapons AI Agents Against Exposed Docker Hosts Sep 24, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/carbonato-the-botnet-that-weapons-ai-agents-against-exposed-docker-hosts",
+    "target": "CYBERSEC Carbonato",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/carbonato-the-botnet-that-weapons-ai-agents-against-exposed-docker-hosts"
+      }
+    ]
+  },
+  {
+    "id": "5da6e6261199afb1",
+    "date": "2026-09-24T22:23:44.939887+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CRITICAL · 7 CVE · 5 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -445,7 +411,7 @@
   },
   {
     "id": "6533f03d16ee4a97",
-    "date": "2026-09-24T19:09:38.538897+00:00",
+    "date": "2026-09-24T22:23:43.713141+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -546,7 +512,7 @@
   },
   {
     "id": "6873c15a45bad3b2",
-    "date": "2026-09-24T19:09:37.270563+00:00",
+    "date": "2026-09-24T22:23:42.460409+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -575,7 +541,7 @@
   },
   {
     "id": "7be7a0837d121ceb",
-    "date": "2026-09-24T19:09:37.270417+00:00",
+    "date": "2026-09-24T22:23:42.460302+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -604,7 +570,7 @@
   },
   {
     "id": "341b37ed21432efe",
-    "date": "2026-09-24T19:09:37.270286+00:00",
+    "date": "2026-09-24T22:23:42.460216+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -637,7 +603,7 @@
   },
   {
     "id": "766fb109e7508d3b",
-    "date": "2026-09-24T19:09:37.270146+00:00",
+    "date": "2026-09-24T22:23:42.460126+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -666,7 +632,7 @@
   },
   {
     "id": "684fb15c49925c8f",
-    "date": "2026-09-24T19:09:37.270011+00:00",
+    "date": "2026-09-24T22:23:42.460039+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -695,7 +661,7 @@
   },
   {
     "id": "520fcc6d930148d9",
-    "date": "2026-09-24T19:09:37.269769+00:00",
+    "date": "2026-09-24T22:23:42.459887+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -724,7 +690,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-09-24T19:09:37.269606+00:00",
+    "date": "2026-09-24T22:23:42.459778+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -753,7 +719,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-09-24T19:09:37.269459+00:00",
+    "date": "2026-09-24T22:23:42.459680+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -782,7 +748,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-09-24T19:09:37.269306+00:00",
+    "date": "2026-09-24T22:23:42.459579+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -811,7 +777,7 @@
   },
   {
     "id": "1a87663ef973d472",
-    "date": "2026-09-24T19:09:37.269105+00:00",
+    "date": "2026-09-24T22:23:42.459438+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -840,7 +806,7 @@
   },
   {
     "id": "f29feab6f4f0ee32",
-    "date": "2026-09-24T19:09:37.268949+00:00",
+    "date": "2026-09-24T22:23:42.459297+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -869,7 +835,7 @@
   },
   {
     "id": "824b78ae23ccefa5",
-    "date": "2026-09-24T19:09:37.268599+00:00",
+    "date": "2026-09-24T22:23:42.459070+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -898,7 +864,7 @@
   },
   {
     "id": "948ec72c6df6739b",
-    "date": "2026-09-24T19:09:37.268458+00:00",
+    "date": "2026-09-24T22:23:42.458976+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -927,7 +893,7 @@
   },
   {
     "id": "6b6ac0d8430f7f6e",
-    "date": "2026-09-24T19:09:37.268325+00:00",
+    "date": "2026-09-24T22:23:42.458887+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -956,7 +922,7 @@
   },
   {
     "id": "43cc6fecf4fc2907",
-    "date": "2026-09-24T19:09:37.268177+00:00",
+    "date": "2026-09-24T22:23:42.458787+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -985,7 +951,7 @@
   },
   {
     "id": "82a693415895e590",
-    "date": "2026-09-24T19:09:37.268012+00:00",
+    "date": "2026-09-24T22:23:42.458677+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1014,7 +980,7 @@
   },
   {
     "id": "be20f068fa081368",
-    "date": "2026-09-24T19:09:37.267816+00:00",
+    "date": "2026-09-24T22:23:42.458564+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1043,7 +1009,7 @@
   },
   {
     "id": "ea26aa0c6afd4464",
-    "date": "2026-09-24T19:09:37.267678+00:00",
+    "date": "2026-09-24T22:23:42.458469+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1072,7 +1038,7 @@
   },
   {
     "id": "c49486b4aaf71150",
-    "date": "2026-09-24T19:09:37.267535+00:00",
+    "date": "2026-09-24T22:23:42.458363+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1101,7 +1067,7 @@
   },
   {
     "id": "617da6fb2cf529ac",
-    "date": "2026-09-24T19:09:37.267405+00:00",
+    "date": "2026-09-24T22:23:42.458275+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1130,7 +1096,7 @@
   },
   {
     "id": "58ec58fb7d0f6d1f",
-    "date": "2026-09-24T19:09:37.267267+00:00",
+    "date": "2026-09-24T22:23:42.458181+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1159,7 +1125,7 @@
   },
   {
     "id": "24fa026641b72378",
-    "date": "2026-09-24T19:09:37.267121+00:00",
+    "date": "2026-09-24T22:23:42.458081+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1188,7 +1154,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-09-24T19:09:37.263592+00:00",
+    "date": "2026-09-24T22:23:42.455020+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1217,7 +1183,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-09-24T19:09:37.262576+00:00",
+    "date": "2026-09-24T22:23:42.454313+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1246,7 +1212,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-09-24T19:09:37.262309+00:00",
+    "date": "2026-09-24T22:23:42.454113+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1270,6 +1236,1071 @@
       {
         "source": "TechNadu",
         "url": "https://www.technadu.com/tag/business-email-compromise/"
+      }
+    ]
+  },
+  {
+    "id": "d51538970d81c3c8",
+    "date": "2026-09-24T22:23:42.266638+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ChatGPT now knows what you do on other websites via ad collector",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wlk4wc/chatgpt_now_knows_what_you_do_on_other_websites/",
+    "target": "ChatGPT",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wlk4wc/chatgpt_now_knows_what_you_do_on_other_websites/"
+      }
+    ]
+  },
+  {
+    "id": "60d69d95f4e903bc",
+    "date": "2026-09-24T22:23:42.266549+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "AI Agents Keep Falling to 'Goal Hijack' (Copilot, Cursor, Grok)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "AI Agents Keep Falling to 'Goal Hijack' (Copilot, Cursor, Grok)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wlnmg6/ai_agents_keep_falling_to_goal_hijack_copilot/",
+    "target": "Agents Keep Falling Goal",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wlnmg6/ai_agents_keep_falling_to_goal_hijack_copilot/"
+      }
+    ]
+  },
+  {
+    "id": "d8eb952f7833d353",
+    "date": "2026-09-24T22:23:42.266463+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Three memory-safety bugs in Godot's untrusted-file parsers",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Three memory-safety bugs in Godot's untrusted-file parsers",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wm7krn/three_memorysafety_bugs_in_godots_untrustedfile/",
+    "target": "Three Godots",
+    "type": "General Cybersecurity",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wm7krn/three_memorysafety_bugs_in_godots_untrustedfile/"
+      }
+    ]
+  },
+  {
+    "id": "da5baa0ad8f37a16",
+    "date": "2026-09-24T22:23:42.266363+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Implant Encryption via the Dump Encoding Library",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Implant Encryption via the Dump Encoding Library",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/",
+    "target": "Implant Encryption Dump Encoding",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/"
+      }
+    ]
+  },
+  {
+    "id": "41f0718f93cc1c67",
+    "date": "2026-09-24T22:23:42.266275+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/",
+    "target": "ZTE SmartHome Account Takeover",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/"
+      }
+    ]
+  },
+  {
+    "id": "ab0b25280fb4518a",
+    "date": "2026-09-24T22:23:42.266171+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Leveraging undocumented CodeConnection APIs in a CodePipeline build job or SageMaker Studio Notebook to enumerate, clone, push and delete code repositories.",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Leveraging undocumented CodeConnection APIs in a CodePipeline build job or SageMaker Studio Notebook to enumerate, clone, push and delete code repositories.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wn2nxc/leveraging_undocumented_codeconnection_apis_in_a/",
+    "target": "Leveraging CodeConnection APIs CodePipeline",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wn2nxc/leveraging_undocumented_codeconnection_apis_in_a/"
+      }
+    ]
+  },
+  {
+    "id": "677a243fe8062953",
+    "date": "2026-09-24T22:23:42.266077+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Free, hands-on 14-week university security course (open to anyone online)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Free, hands-on 14-week university security course (open to anyone online)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/",
+    "target": "Free 14-week",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/"
+      }
+    ]
+  },
+  {
+    "id": "22f61965eb72f7ca",
+    "date": "2026-09-24T22:23:42.265993+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Windows Exploitation Techniques: Dangling COM Object Registrations",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/",
+    "target": "Windows Exploitation Techniques",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/"
+      }
+    ]
+  },
+  {
+    "id": "08b51f852fa7c9f9",
+    "date": "2026-09-24T22:23:42.265915+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/",
+    "target": "CVE-2026-45756",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/"
+      }
+    ]
+  },
+  {
+    "id": "340cb7fe68c56b32",
+    "date": "2026-09-24T22:23:42.265838+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "vCenter pre-auth RCE: CVE-2026-59309/59310",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "vCenter pre-auth RCE: CVE-2026-59309/59310",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/",
+    "target": "RCE",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/"
+      }
+    ]
+  },
+  {
+    "id": "179b308471c86534",
+    "date": "2026-09-24T22:23:42.265750+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/",
+    "target": "ATTCKing TACACS Pwn Your",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/"
+      }
+    ]
+  },
+  {
+    "id": "b369fd70e0b6cc94",
+    "date": "2026-09-24T22:23:42.265649+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Inside Corp MDM, the Android spyware targeting logistics companies",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Inside Corp MDM, the Android spyware targeting logistics companies",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/",
+    "target": "Inside Corp MDM Android",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/"
+      }
+    ]
+  },
+  {
+    "id": "148d70f4b48af49d",
+    "date": "2026-09-24T22:23:42.265558+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/",
+    "target": "Leaked GitHub App 440",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/"
+      }
+    ]
+  },
+  {
+    "id": "dee567bbe7e1a72b",
+    "date": "2026-09-24T22:23:42.265469+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/",
+    "target": "Breaking Superuser Guardrails Providers",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/"
+      }
+    ]
+  },
+  {
+    "id": "c7a91abff2298e71",
+    "date": "2026-09-24T22:23:42.265361+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Android 17 enables certificate transparency, and breaks custom CAs",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Android 17 enables certificate transparency, and breaks custom CAs",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/",
+    "target": "Android CAs",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/"
+      }
+    ]
+  },
+  {
+    "id": "d60c6f45f7d63b4d",
+    "date": "2026-09-24T22:23:42.265271+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/",
+    "target": "This Joke Auth Header",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/"
+      }
+    ]
+  },
+  {
+    "id": "5f2673b7e18d6fbf",
+    "date": "2026-09-24T22:23:42.265185+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Lunex Unmasked: A New Information Stealer Deployed Through BYOVD",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Lunex Unmasked: A New Information Stealer Deployed Through BYOVD",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wpddil/lunex_unmasked_a_new_information_stealer_deployed/",
+    "target": "Lunex Unmasked",
+    "type": "Malware",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wpddil/lunex_unmasked_a_new_information_stealer_deployed/"
+      }
+    ]
+  },
+  {
+    "id": "49d1b0d750ec79aa",
+    "date": "2026-09-24T22:23:42.265097+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "One Tap Too Far: Using Shortcuts to Bypass Chrome for iOS Call Prompts",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "One Tap Too Far: Using Shortcuts to Bypass Chrome for iOS Call Prompts",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wp56y2/one_tap_too_far_using_shortcuts_to_bypass_chrome/",
+    "target": "One Tap Too Far",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wp56y2/one_tap_too_far_using_shortcuts_to_bypass_chrome/"
+      }
+    ]
+  },
+  {
+    "id": "c1ae1bcc79b9d4f0",
+    "date": "2026-09-24T22:23:42.264998+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "The 2026 State of AI Security Report has three numbers that really stuck with me: 81%, 50.1%, 99.9%",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "The 2026 State of AI Security Report has three numbers that really stuck with me: 81%, 50.1%, 99.9%",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wpetk9/the_2026_state_of_ai_security_report_has_three/",
+    "target": "2026 State",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wpetk9/the_2026_state_of_ai_security_report_has_three/"
+      }
+    ]
+  },
+  {
+    "id": "76160d04e5b7eb2f",
+    "date": "2026-09-24T22:23:42.264904+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wp466a/how_cloudflare_addressed_a_crosstenant_data/",
+    "target": "Cloudflare",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wp466a/how_cloudflare_addressed_a_crosstenant_data/"
+      }
+    ]
+  },
+  {
+    "id": "712d77ebe16b35c0",
+    "date": "2026-09-24T22:23:42.264805+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Getting root on OnePlus 15 from an untrusted app, via an audio debug service and a vendor HAL",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Getting root on OnePlus 15 from an untrusted app, via an audio debug service and a vendor HAL",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1woylqf/getting_root_on_oneplus_15_from_an_untrusted_app/",
+    "target": "Getting OnePlus",
+    "type": "General Cybersecurity",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1woylqf/getting_root_on_oneplus_15_from_an_untrusted_app/"
+      }
+    ]
+  },
+  {
+    "id": "8723c73403ec370c",
+    "date": "2026-09-24T22:23:42.264701+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Uncensored Qwen 3.8 27b helped write a LSASS Dumper which bypassed EDR while I made myself coffee",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Uncensored Qwen 3.8 27b helped write a LSASS Dumper which bypassed EDR while I made myself coffee",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wotpuj/uncensored_qwen_38_27b_helped_write_a_lsass/",
+    "target": "Uncensored Qwen 3.8 27b",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wotpuj/uncensored_qwen_38_27b_helped_write_a_lsass/"
+      }
+    ]
+  },
+  {
+    "id": "e1bd3212072f945d",
+    "date": "2026-09-24T22:23:42.264609+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CVE-2026-91766: PHP had the redirect credential leak curl fixed in 2018",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2026-91766: PHP had the redirect credential leak curl fixed in 2018",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wpcgf9/cve202691766_php_had_the_redirect_credential_leak/",
+    "target": "CVE-2026-91766",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wpcgf9/cve202691766_php_had_the_redirect_credential_leak/"
+      }
+    ]
+  },
+  {
+    "id": "d29a549c775ffe8f",
+    "date": "2026-09-24T22:23:42.264505+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "r/netsec monthly discussion & tool thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "r/netsec monthly discussion & tool thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/",
+    "target": "Unknown",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
+      }
+    ]
+  },
+  {
+    "id": "46631edb097f535e",
+    "date": "2026-09-24T22:23:42.264298+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "/r/netsec's Q3 2026 Information Security Hiring Thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
+    "target": "2026 Information Hiring Thread",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "68b5215e7b777e79",
+    "date": "2026-09-24T21:04:03+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
+    "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
+    "article_text": "",
+    "quick_summary": [
+      "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
+    "target": "Salesbleed Exploits Salesforce Agents",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing"
+      }
+    ]
+  },
+  {
+    "id": "170fe133fbebad20",
+    "date": "2026-09-24T20:53:35+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+    "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+    "article_text": "A new variant of the MacSync info-stealing malware targeting macOS systems now uses public iCloud calendar events to deliver fresh payloads. MacSync is a Swift-based malware that emerged in April 2025 and has been observed recently being delivered in ClickFix campaigns disguised as Homebrew and macOS disk space analyzer tools. Kaspersky researchers say that while earlier versions of the malware were derived from the AMOS stealer family, MacSync evolved and added new capabilities via modules. MacSync has been distributed to victims through social engineering, including ClickFix-style attacks, and through software presented as free, cracked, or as new applications. The researchers note that the threat actor delivered the malware as a fake crypto wallet called Toria, which had a dedicated website and was promoted over social media platforms. Kaspersky discovered the MacSync campaign that had two delivery methods. In the more complex one, a downloader fetches commands hidden in the description of a public iCloud calendar event, and then downloads the next-stage payload from iCloud. The downloader feeds the retrieved calendar data to macOS's zsh shell. Most of the calendar text produces errors, but commands placed after the event’s DESCRIPTION: line run and fetch an archive with the malware components. The archive contains an ‘APP’ bundle that acts as a dropper, leading to more stages that eventually retrieve the MacSync malware. The new module observed is an Objective-C backdoor that disguises itself as Finder, the default file manager on macOS. Its installer establishes persistence through a LaunchAgent, .zshrc modifications, and global Git hooks, while terminating macOS notification processes to prevent alerts from reaching the user. The backdoor can perform the following actions on infected systems: Kaspersky inferred the commands’ purposes from their names and status messages because it did not have the AppleScript code they would execute The researchers also identified a “mystery” command, live_browser , which downloads and executes a component called sn_relay , whose purpose Kaspersky could not determine. As MacSync continues to evolve and adopt more evasive and effective distribution chains, macOS users are advised to avoid executing commands they find online It is also recommended to avoid downloading DMG files from suspicious sites and treat admin password prompts with caution. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. New Infinity Stealer malware grabs macOS data via ClickFix lures Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer New AmnesiaStealer macOS malware hijacks browser sessions via remote control Fake Roblox Xeno script launcher pushes infostealer, RAT malware Arch Linux disables AUR package adoption to stop malware flood ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Microsoft reminds admins to migrate Entra ID users to passkeys New Windows Defender zero-day blocks Microsoft antivirus updates Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+    "target": "MacSync",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/"
+      }
+    ]
+  },
+  {
+    "id": "670060bc0dbefd42",
+    "date": "2026-09-24T20:35:21+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
+    "summary": "The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden. The post Autonomous AI Hacks Raise Thorny Questions of Legal Accountability appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The prospect of legal accountability is unclear.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
+    "target": "Autonomous Hacks Raise Thorny",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/"
+      }
+    ]
+  },
+  {
+    "id": "ccd2a6517e9a6f4d",
+    "date": "2026-09-24T20:32:50+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+    "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
+    "article_text": "",
+    "quick_summary": [
+      "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+    "target": "SectopRAT Returns Hiding Inside",
+    "type": "Malware",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application"
+      }
+    ]
+  },
+  {
+    "id": "c6701ca8f5df2b85",
+    "date": "2026-09-24T20:30:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges",
+    "summary": "Two executives at a data extraction and digital forensics company that sold several U.S. agencies its software were arrested for allegedly lying about the fact that its technology is made in Russia.",
+    "article_text": "",
+    "quick_summary": [
+      "Two executives at a data extraction and digital forensics company that sold several U.S.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/russia-forensics-technology-doj",
+    "target": "Digital",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/russia-forensics-technology-doj"
+      }
+    ]
+  },
+  {
+    "id": "d33817aa48ad1282",
+    "date": "2026-09-24T20:15:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
+    "summary": "U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw Chinese hackers breach nearly all of the major telecommunications giants in the U.S.",
+    "article_text": "",
+    "quick_summary": [
+      "Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw Chinese hack",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
+    "target": "Lawmakers",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules"
+      }
+    ]
+  },
+  {
+    "id": "ea3f737b455a6344",
+    "date": "2026-09-24T20:10:48+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+    "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+    "article_text": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. The malware features worm-like capabilities and was discovered in an unauthenticated Docker registry that contained nearly 60 repositories and 4.3 GB of image data. ThreatDown researchers at cybersecurity company Malwarebytes retrieved operational evidence spanning October 2024 to August 2026. The archive also included details about the botnet and a separate campaign that distributed counterfeit cryptocurrency wallet apps. According to Malwarebytes, Carbonato spreads across Docker hosts with an API exposed on port 2375 without authentication. The malware connects to that API and instructs the daemon to launch a privileged container, giving it access to the host. It then opens a reverse SSH tunnel, installs an SSH server with the operators’ key, and reports the new deployment through Telegram. At the same time, scripts set up cron jobs, systemd timers, rc.local, and OpenRC hooks for persistence. One notable aspect of the attack is that the AI agent framework Hermes Agent is installed on the hosts, using an agent named “GH0ST,” with instructions that overwrite the default ‘SOUL.md’ persona file. Hermes has been extensively abused in malicious cyber-operations recently . Recently, cybersecurity company Gambit documented a large-scale card-skimming operation that stole 600.000 credit card details . In the case of Carbonato, Hermes handles task commands received through Telegram, including collecting AI API keys, SSH credentials, access tokens, and other data, running commands, and sending back the results. The researchers describe this as an operator-driven process involving an “interactive command loop” exchange. “The​ ​model​ ​interprets​ ​the​ ​task,​ ​writes​ ​terminal​ ​commands,​ ​reads​ ​the​ ​output,​ ​and​ ​decides​​ what ​​to​​ do ​​next,” ThreatDown researchers note . “​The​​ agent ​​runs ​​those​​ commands ​​on ​​the ​​victim​​ and​ ​returns​ ​its​ ​report​ ​to​ ​the​ ​Telegram​ ​chat​ ​that​ ​also​ ​receives​ ​deployment​ ​reports.​​” The malware’s worm-like capability allow it to spread to other exposed Docker daemons and is handled by scripts that scan networks attached to the host every five minutes. Each new compromise pulls the implant from the registry, launches the same privileged container, and enters the persistence and scanning loop. ThreatDown could not attribute Carbonato to any known threat clusters, but based on various evidence, points to Costa Rica as a possible location of the operator. To prevent infection, the researchers recommend keeping Docker daemon APIs off the network and requiring authentication on registries. Signs of Carbonato attacks include a GH0ST persona file, the CARBONATO_API_KEY setting, unexpected Telegram traffic, and reverse SSH tunnels toward AS262145. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. New ClosedQuorum Windows malware uses AI for attack decisions New RatHat Android malware uses AI to automate device control Spain's data agency gets first report of AI-powered data breach AI-powered attack exploited PaperCut flaws to hack 395 organizations ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Microsoft reminds admins to migrate Entra ID users to passkeys New Windows Defender zero-day blocks Microsoft antivirus updates Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+    "target": "Carbonato",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/"
+      }
+    ]
+  },
+  {
+    "id": "fb27f0d3a36828ef",
+    "date": "2026-09-24T19:47:19+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI Agent Breached Australian Medicare Statistics Portal",
+    "summary": "An OpenAI agent bypassed controls on Australia's Medicare statistics portal, accessed non-public data and was not reported to officials for nearly 3 months.",
+    "article_text": "",
+    "quick_summary": [
+      "An OpenAI agent bypassed controls on Australia's Medicare statistics portal, accessed non-public data and was not reported to officials for nearly 3 months.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://hackread.com/openai-agent-breached-australian-medicare-portal/",
+    "target": "OpenAI Agent Breached Australian",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/openai-agent-breached-australian-medicare-portal/"
+      }
+    ]
+  },
+  {
+    "id": "a60891509cbccff3",
+    "date": "2026-09-24T19:09:42.882878+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ShinyHunters Claims FBI Breach in Retaliation for IC3 Report CYBERSEC",
+    "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job,\" the group said in a statement posted on their dark",
+    "article_text": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job,\" the group said in a statement posted on their dark web site. \"Whether it be a Special Agent or any other role within your agency. The following FBI services were compromised: Criminal Justice (CJ), HR, Medlink, and more.\" The development was first reported by 404 Media. ShinyHunters said the FBI was targeted in response to a May 2026 public service announcement (PSA) that detailed the threat actor's targeting of Canvas , an online Learning Management System (LMS), while urging victims not to pay. The attackers, in their own counter PSA, described them as \"substantial false allegations,\" adding, \"we were very disappointed to see an agency of your standing would resort to such circulation of disinformation in an attempt to 'disrupt' our operations, an effort that ultimately proved unsuccessful.\" The group has also rejected claims that it's part of The Com decentralized collective, calling it a \"propaganda started by the Information Security Industry which has brainwashed past FBI and DOJ officials into formalizing this nonsense.\" A ShinyHunters spokesperson told The Register that the group exploited a new Oracle PeopleSoft zero-day vulnerability to gain remote code execution and deface the FBI's jobs site with a \"This site has been seized by ShinyHunters\" banner. Visiting the site now reads: \"Scheduled Maintenance Underway. We're Sniffing Out Site Updates for You!\" There are currently no details of a PeopleSoft pre-authenticated RCE zero-day. However, ShinyHunters weaponized a similar flaw ( CVE-2026-35273 ) in June 2026 to break into enterprise networks and extort victims. In a statement shared with Reuters, the FBI said it's \"aware of claims regarding unauthorized activity affecting FBIjobs.gov and is currently investigating.\" The disclosure comes after the high-profile hacking group hijacked the dark web leak site of the Clop (aka Cl0p) ransomware crew. \"IF YOU WANT TO SAVE YOUR BRAND AND NOT DIE BY MY HANDS: [...] let's see how rich you really are,\" the notice read. \"2.333% of my net worth is a 8 figure amount, I hope you can pay that much because that is the demand, negotiable. Get your bosses in front of the white board in the war room. Clock is ticking moron. Kindly excuse our unprofessionalism.\" \"ShinyHunters; claim of an FBI breach is an unusually provocative move in the ongoing contest between law enforcement and cybercrime groups and should absolutely be taken seriously,\" Etay Maor, VP of threat intelligence at Cato Networks, said. \"We have seen threat actors target businesses countless times, and nation states or nation-state-connected groups have compromised law-enforcement organizations before—the 2015 OPM breach remains the most notable example—but a cybercrime brand publicly claiming an FBI compromise is different.\" \"One small operational clue is the September 23 timestamp on the group's post, while the news emerged on September 22 in the U.S. If that timestamp reflects the group's real operating environment, it points toward activity in Asia. It is not a definitive attribution, but it is a detail investigators will examine alongside the technical evidence.\" Maor also described ShinyHunters as a resilient criminal brand that has managed to outlast takedowns, arrests, and forum seizures by evolving its methods and attracting new operators, suggesting it's more than a \"fixed set of people or infrastructure.\" \"Its recent playbook has emphasized abusing trusted identity paths through help-desk social engineering, malicious OAuth applications, and stolen SaaS integration tokens, rather than simply breaking through a technical perimeter. That is the larger lesson here: organizations, including public-sector agencies, need to protect the identity and third-party trust relationships that attackers increasingly exploit.\" AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identit",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/shinyhunters-claims-fbi-breach-in-retaliation-for-ic3-report",
+    "target": "ShinyHunters Claims FBI Breach",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/shinyhunters-claims-fbi-breach-in-retaliation-for-ic3-report"
+      },
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html"
+      }
+    ]
+  },
+  {
+    "id": "6fc2011c526477d1",
+    "date": "2026-09-24T19:09:42.882736+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "LausivLoader Weaponizes Environment Variables to Break Staged Analysis malware",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/malware/lausivloader-weaponizes-environment-variables-to-break-staged-analysis",
+    "target": "LausivLoader Weaponizes Environment Variables",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/malware/lausivloader-weaponizes-environment-variables-to-break-staged-analysis"
+      }
+    ]
+  },
+  {
+    "id": "22a4e52b9aa3d312",
+    "date": "2026-09-24T19:09:42.881285+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC CVE Roundcube CVE-2026-48842: Passwordless Attack on Webmail Sep 24, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/roundcube-cve-2026-48842-passwordless-attack-on-webmail",
+    "target": "CYBERSEC CVE Roundcube CVE-2026-48842",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/roundcube-cve-2026-48842-passwordless-attack-on-webmail"
       }
     ]
   },
@@ -1357,660 +2388,6 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1wkrcgz/bragjack_20k_in_bounty_rewards_from_anthropic/"
-      }
-    ]
-  },
-  {
-    "id": "d51538970d81c3c8",
-    "date": "2026-09-24T19:09:37.129912+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ChatGPT now knows what you do on other websites via ad collector",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ChatGPT now knows what you do on other websites via ad collector",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wlk4wc/chatgpt_now_knows_what_you_do_on_other_websites/",
-    "target": "ChatGPT",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wlk4wc/chatgpt_now_knows_what_you_do_on_other_websites/"
-      }
-    ]
-  },
-  {
-    "id": "60d69d95f4e903bc",
-    "date": "2026-09-24T19:09:37.129755+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "AI Agents Keep Falling to 'Goal Hijack' (Copilot, Cursor, Grok)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "AI Agents Keep Falling to 'Goal Hijack' (Copilot, Cursor, Grok)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wlnmg6/ai_agents_keep_falling_to_goal_hijack_copilot/",
-    "target": "Agents Keep Falling Goal",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wlnmg6/ai_agents_keep_falling_to_goal_hijack_copilot/"
-      }
-    ]
-  },
-  {
-    "id": "d8eb952f7833d353",
-    "date": "2026-09-24T19:09:37.129620+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Three memory-safety bugs in Godot's untrusted-file parsers",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Three memory-safety bugs in Godot's untrusted-file parsers",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wm7krn/three_memorysafety_bugs_in_godots_untrustedfile/",
-    "target": "Three Godots",
-    "type": "General Cybersecurity",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wm7krn/three_memorysafety_bugs_in_godots_untrustedfile/"
-      }
-    ]
-  },
-  {
-    "id": "da5baa0ad8f37a16",
-    "date": "2026-09-24T19:09:37.129489+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Implant Encryption via the Dump Encoding Library",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Implant Encryption via the Dump Encoding Library",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/",
-    "target": "Implant Encryption Dump Encoding",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/"
-      }
-    ]
-  },
-  {
-    "id": "41f0718f93cc1c67",
-    "date": "2026-09-24T19:09:37.129358+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/",
-    "target": "ZTE SmartHome Account Takeover",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/"
-      }
-    ]
-  },
-  {
-    "id": "ab0b25280fb4518a",
-    "date": "2026-09-24T19:09:37.129205+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Leveraging undocumented CodeConnection APIs in a CodePipeline build job or SageMaker Studio Notebook to enumerate, clone, push and delete code repositories.",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Leveraging undocumented CodeConnection APIs in a CodePipeline build job or SageMaker Studio Notebook to enumerate, clone, push and delete code repositories.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wn2nxc/leveraging_undocumented_codeconnection_apis_in_a/",
-    "target": "Leveraging CodeConnection APIs CodePipeline",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wn2nxc/leveraging_undocumented_codeconnection_apis_in_a/"
-      }
-    ]
-  },
-  {
-    "id": "677a243fe8062953",
-    "date": "2026-09-24T19:09:37.129058+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Free, hands-on 14-week university security course (open to anyone online)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Free, hands-on 14-week university security course (open to anyone online)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/",
-    "target": "Free 14-week",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/"
-      }
-    ]
-  },
-  {
-    "id": "22f61965eb72f7ca",
-    "date": "2026-09-24T19:09:37.128928+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Windows Exploitation Techniques: Dangling COM Object Registrations",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/",
-    "target": "Windows Exploitation Techniques",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/"
-      }
-    ]
-  },
-  {
-    "id": "08b51f852fa7c9f9",
-    "date": "2026-09-24T19:09:37.128777+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/",
-    "target": "CVE-2026-45756",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/"
-      }
-    ]
-  },
-  {
-    "id": "340cb7fe68c56b32",
-    "date": "2026-09-24T19:09:37.128653+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "vCenter pre-auth RCE: CVE-2026-59309/59310",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "vCenter pre-auth RCE: CVE-2026-59309/59310",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/",
-    "target": "RCE",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/"
-      }
-    ]
-  },
-  {
-    "id": "179b308471c86534",
-    "date": "2026-09-24T19:09:37.128514+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/",
-    "target": "ATTCKing TACACS Pwn Your",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/"
-      }
-    ]
-  },
-  {
-    "id": "b369fd70e0b6cc94",
-    "date": "2026-09-24T19:09:37.128364+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Inside Corp MDM, the Android spyware targeting logistics companies",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Inside Corp MDM, the Android spyware targeting logistics companies",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/",
-    "target": "Inside Corp MDM Android",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/"
-      }
-    ]
-  },
-  {
-    "id": "148d70f4b48af49d",
-    "date": "2026-09-24T19:09:37.128223+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/",
-    "target": "Leaked GitHub App 440",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/"
-      }
-    ]
-  },
-  {
-    "id": "dee567bbe7e1a72b",
-    "date": "2026-09-24T19:09:37.128086+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/",
-    "target": "Breaking Superuser Guardrails Providers",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/"
-      }
-    ]
-  },
-  {
-    "id": "c7a91abff2298e71",
-    "date": "2026-09-24T19:09:37.127934+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Android 17 enables certificate transparency, and breaks custom CAs",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Android 17 enables certificate transparency, and breaks custom CAs",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/",
-    "target": "Android CAs",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/"
-      }
-    ]
-  },
-  {
-    "id": "d60c6f45f7d63b4d",
-    "date": "2026-09-24T19:09:37.127768+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/",
-    "target": "This Joke Auth Header",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/"
-      }
-    ]
-  },
-  {
-    "id": "76160d04e5b7eb2f",
-    "date": "2026-09-24T19:09:37.127625+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wp466a/how_cloudflare_addressed_a_crosstenant_data/",
-    "target": "Cloudflare",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wp466a/how_cloudflare_addressed_a_crosstenant_data/"
-      }
-    ]
-  },
-  {
-    "id": "49d1b0d750ec79aa",
-    "date": "2026-09-24T19:09:37.127491+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "One Tap Too Far: Using Shortcuts to Bypass Chrome for iOS Call Prompts",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "One Tap Too Far: Using Shortcuts to Bypass Chrome for iOS Call Prompts",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wp56y2/one_tap_too_far_using_shortcuts_to_bypass_chrome/",
-    "target": "One Tap Too Far",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wp56y2/one_tap_too_far_using_shortcuts_to_bypass_chrome/"
-      }
-    ]
-  },
-  {
-    "id": "712d77ebe16b35c0",
-    "date": "2026-09-24T19:09:37.127338+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Getting root on OnePlus 15 from an untrusted app, via an audio debug service and a vendor HAL",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Getting root on OnePlus 15 from an untrusted app, via an audio debug service and a vendor HAL",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1woylqf/getting_root_on_oneplus_15_from_an_untrusted_app/",
-    "target": "Getting OnePlus",
-    "type": "General Cybersecurity",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1woylqf/getting_root_on_oneplus_15_from_an_untrusted_app/"
-      }
-    ]
-  },
-  {
-    "id": "8723c73403ec370c",
-    "date": "2026-09-24T19:09:37.127180+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Uncensored Qwen 3.8 27b helped write a LSASS Dumper which bypassed EDR while I made myself coffee",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Uncensored Qwen 3.8 27b helped write a LSASS Dumper which bypassed EDR while I made myself coffee",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wotpuj/uncensored_qwen_38_27b_helped_write_a_lsass/",
-    "target": "Uncensored Qwen 3.8 27b",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wotpuj/uncensored_qwen_38_27b_helped_write_a_lsass/"
-      }
-    ]
-  },
-  {
-    "id": "d29a549c775ffe8f",
-    "date": "2026-09-24T19:09:37.127026+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "r/netsec monthly discussion & tool thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "r/netsec monthly discussion & tool thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/",
-    "target": "Unknown",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
-      }
-    ]
-  },
-  {
-    "id": "46631edb097f535e",
-    "date": "2026-09-24T19:09:37.126791+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "/r/netsec's Q3 2026 Information Security Hiring Thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
-    "target": "2026 Information Hiring Thread",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
       }
     ]
   },
@@ -26427,383 +26804,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/"
-      }
-    ]
-  },
-  {
-    "id": "0db1431c6978c9e7",
-    "date": "2026-09-14T11:58:00+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-    "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action. In the first half of 2026, a whopping 35,853 CVEs were published, roughly 49% more than in the",
-    "article_text": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action. In the first half of 2026, a whopping 35,853 CVEs were published, roughly 49% more than in the year before. Yet only 495 were catalogued as exploited in the wild during that same period, and 116 were already under attack on the day they became public. Meanwhile, Anthropic’s own disclosure data shows Mythos-class models surfacing 26,153 vulnerability candidates in open-source software, with only 421 of those getting patched upstream. That small exploited subset is a very important point. It tells defenders that treating every vulnerability with a High or Critical CVSS rating as an emergency is not only impossible, it’s actually the wrong model . The critical task security teams face is deciding which exposures, on which assets, require immediate action , especially as both the number of findings grows and the gap between disclosure and exploitation narrows. The same CVE can affect hundreds of assets, but the impact is rarely the same across them . Some instances are unreachable. Some sit behind controls that interrupt the techniques required for exploitation. Others are exposed on business-critical systems where prevention fails, and detection never fires. The CVSS gives you a common severity baseline. It can’t give you the context that determines impact to your organization. This is why defenders need evidence from their own environment to find out whether the exposure is actually exploitable, which assets it affects, and whether those assets are reachable and important to the business. As vulnerability volume grows, this distinction becomes more and more important. Once you move beyond severity scores, automated pentesting gives you some of the strongest evidence you can gather. It can run real exploits, prove that an exposure is exploitable in your environment, chain vulnerabilities, credentials, and misconfigurations into attack paths, and show how far an attacker could actually progress across your network. Yet coverage remains limited in practice. Omdia research found that while 95% of organizations rank pentesting as a top or high priority, only 32% of their average attack surface is tested each year. Agentic and automated approaches can expand that coverage, but they don’t remove every constraint of live exploitation . For CVE-based exploitation, a working exploit still has to exist, and the target has to be safe to test. Newly disclosed CVEs may have no working exploit yet, while it simply may not be possible to test a live exploit on business-critical, restricted, and air-gapped assets. Those exposures still need an exploitability verdict, even when there’s nothing an automated pentest can safely run. This is the gap automated pentesting can’t close on its own. It’s a required part of validation , but it can’t validate every exposure . These methods answer different questions under different exposure conditions. Mythos readiness requires all three capabilities, brought together in one platform with the same goal: validating exposures across your unique environment. This doesn’t mean you have to always use all three against every exposure. The goal is to apply each method where it fits best and let the evidence contribute to the same decision process . These three key pieces become even more powerful when they operate as one program. A finding can trigger the validation step it actually needs , new evidence can change remediation priority , and fixes can be re-validated instead of disappearing into a closed ticket. That keeps exploitability, control effectiveness, and attack-path evidence connected instead of leaving them to wallow in separate workflows. This is also where Gartner®’s May research note points: toward validated attack paths, decision-driven response, and exposure reduction all integrated into operational workflows. This also happens to be the working model behind our Validation Summit ’26 . On October 14 and 15, Picus Security will host The Validation Summit ’26 to bring together an independent view of what's changed, our approach to validation, and lessons from security leaders who’ve already put it into practice. Mikko Hyppönen will open with why this shift is different from past ones. Picus CTO Vol",
-    "quick_summary": [
-      "There's a lot of noise around AI and cybersecurity right now.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-    "target": "Changed Exposure Problem. Validation",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html"
-      }
-    ]
-  },
-  {
-    "id": "578733d91ba912e9",
-    "date": "2026-09-14T11:51:29+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
-    "summary": "The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely. The post Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
-    "target": "Chinese Exploit Critical Tencent",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/"
-      }
-    ]
-  },
-  {
-    "id": "7c4643ab2ca48857",
-    "date": "2026-09-14T10:38:10.702858+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT IDScan Confirms Breach: 153 Million Driver's Licenses for Sale on Dark Web",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/idscan-confirms-breach-153-million-drivers-licenses-for-sale-on-dark-web",
-    "target": "EXPLOIT IDScan Confirms Breach",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/idscan-confirms-breach-153-million-drivers-licenses-for-sale-on-dark-web"
-      }
-    ]
-  },
-  {
-    "id": "9e6d28986fae3617",
-    "date": "2026-09-14T10:38:10.702026+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Cl0p Adds Harley-Davidson to Leak Site; No Breach Evidence, Company Says news",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/news/cl0p-adds-harley-davidson-to-leak-site-no-breach-evidence-company-says",
-    "target": "Cl0p Adds Harley-Davidson Leak",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/cl0p-adds-harley-davidson-to-leak-site-no-breach-evidence-company-says"
-      }
-    ]
-  },
-  {
-    "id": "35be8652aefbe26e",
-    "date": "2026-09-14T10:38:08.610426+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "ShinyHunters Names Florida DMV in New Extortion Claim, Sets September 11 Deadline",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/shinyhunters-names-florida-dmv-in-new-extortion-claim-sets-september-11-deadline/635951/",
-    "target": "ShinyHunters Names Florida DMV",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/shinyhunters-names-florida-dmv-in-new-extortion-claim-sets-september-11-deadline/635951/"
-      }
-    ]
-  },
-  {
-    "id": "ee429e2fce62a636",
-    "date": "2026-09-14T10:38:08.610220+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Check Point Research Exposes Cross-Account Data Leak in ChatGPT",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/check-point-research-exposes-cross-account-data-leak-in-chatgpt/636223/",
-    "target": "Check Point Research Exposes",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/check-point-research-exposes-cross-account-data-leak-in-chatgpt/636223/"
-      }
-    ]
-  },
-  {
-    "id": "34ec224afed1d185",
-    "date": "2026-09-14T10:38:08.339649+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "From Patch to Exploit; Using Claude Code to reverse engineer an n-day in Papercut NG",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "From Patch to Exploit; Using Claude Code to reverse engineer an n-day in Papercut NG",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1w4dvux/from_patch_to_exploit_using_claude_code_to/",
-    "target": "Patch Exploit Claude Code",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1w4dvux/from_patch_to_exploit_using_claude_code_to/"
-      }
-    ]
-  },
-  {
-    "id": "b6f8228b6502d937",
-    "date": "2026-09-14T10:38:08.339516+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Authentication bypass in EOL Proxmox VE 7 release",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Authentication bypass in EOL Proxmox VE 7 release",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1w4agtv/authentication_bypass_in_eol_proxmox_ve_7_release/",
-    "target": "Authentication EOL Proxmox",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1w4agtv/authentication_bypass_in_eol_proxmox_ve_7_release/"
-      }
-    ]
-  },
-  {
-    "id": "b7889bd582fc9fa4",
-    "date": "2026-09-14T10:30:00+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "CISOs Race to Control AI Agents Without Destroying Their Value",
-    "summary": "Security leaders are struggling to modernize cyber hygiene and prevent over-privileged agents from causing unintended harm. The post CISOs Race to Control AI Agents Without Destroying Their Value appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Security leaders are struggling to modernize cyber hygiene and prevent over-privileged agents from causing unintended harm.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/",
-    "target": "CISOs Race Control Agents",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/"
-      }
-    ]
-  },
-  {
-    "id": "e30fb6c5df4363f9",
-    "date": "2026-09-14T10:00:01+00:00",
-    "source": "Palo Alto Unit 42",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection",
-    "summary": "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries. The post Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection appeared first on Unit 42 .",
-    "article_text": "",
-    "quick_summary": [
-      "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/",
-    "target": "Unmasking Cloud Identities",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Palo Alto Unit 42"
-    ],
-    "links": [
-      {
-        "source": "Palo Alto Unit 42",
-        "url": "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/"
-      }
-    ]
-  },
-  {
-    "id": "a41efe999d522612",
-    "date": "2026-09-14T09:56:57+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Telus Warns Customers of Account Breaches",
-    "summary": "Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records. The post Telus Warns Customers of Account Breaches appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/",
-    "target": "Telus Customers Account Breaches",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/"
-      }
-    ]
-  },
-  {
-    "id": "89dc84d836a8e97c",
-    "date": "2026-09-14T09:27:29+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment",
-    "summary": "The vulnerabilities can allow attackers to bypass authentication and elevate their privileges to administrator. The post Three JFrog Artifactory Flaws Exploited for Backdoor Deployment appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The vulnerabilities can allow attackers to bypass authentication and elevate their privileges to administrator.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/",
-    "target": "Three JFrog Artifactory Exploited",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/"
-      }
-    ]
-  },
-  {
-    "id": "081d7bf95a4f153b",
-    "date": "2026-09-14T08:50:25+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "GitHub Pays $100,000 Bounty for Critical RCE Flaw in Git Push Pipeline",
-    "summary": "GitHub has awarded security researcher Saif Ghani a $100,000 bug bounty after the disclosure of CVE-2026-3854, a critical remote code execution vulnerability affecting GitHub’s Git push processing pipeline. The reward is reportedly the largest publicly disclosed payment made through GitHub’s Vulnerability Reward Program. Ghani, known on X as @sagitz_, announced the bounty on July 22, […] The post GitHub Pays $100,000 Bounty for Critical RCE Flaw in Git Push Pipeline appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "GitHub has awarded security researcher Saif Ghani a $100,000 bug bounty after the disclosure of CVE-2026-3854, a critical remote code execution vulnerability affecting GitHub’s Git push processing pipeline.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/github-pays-bounty-for-rce-flaw-in-git-push/",
-    "target": "GitHub Pays 100000 Bounty",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/github-pays-bounty-for-rce-flaw-in-git-push/"
       }
     ]
   }
