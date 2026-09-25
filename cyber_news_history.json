@@ -1,7 +1,7 @@
 [
   {
     "id": "28a177419b3e7ae2",
-    "date": "2026-09-25T01:29:58.459829+00:00",
+    "date": "2026-09-25T07:47:48.294934+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "d2c3402c3affc5b7",
-    "date": "2026-09-25T01:29:58.459771+00:00",
+    "date": "2026-09-25T07:47:48.294878+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "930c2dc80127f60a",
-    "date": "2026-09-25T01:29:58.459706+00:00",
+    "date": "2026-09-25T07:47:48.294816+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "44317c04c18a2ba8",
-    "date": "2026-09-25T01:29:58.459637+00:00",
+    "date": "2026-09-25T07:47:48.294751+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "1ec8120fa644ae2b",
-    "date": "2026-09-25T01:29:58.459570+00:00",
+    "date": "2026-09-25T07:47:48.294687+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -150,7 +150,7 @@
   },
   {
     "id": "4917c8e1cd171755",
-    "date": "2026-09-25T01:29:58.459506+00:00",
+    "date": "2026-09-25T07:47:48.294627+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -178,37 +178,8 @@
     ]
   },
   {
-    "id": "ff3dda9729ebc5dd",
-    "date": "2026-09-25T01:29:58.459438+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "OpenAI AI Agent Bypasses Australian Medicare Portal Controls ai",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/ai/openai-ai-agent-bypasses-australian-medicare-portal-controls",
-    "target": "OpenAI Agent Bypasses Australian",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ai/openai-ai-agent-bypasses-australian-medicare-portal-controls"
-      }
-    ]
-  },
-  {
     "id": "ff7f08969a989319",
-    "date": "2026-09-25T01:29:58.459228+00:00",
+    "date": "2026-09-25T07:47:48.294417+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -237,7 +208,7 @@
   },
   {
     "id": "db9a2e80078803da",
-    "date": "2026-09-25T01:29:58.459161+00:00",
+    "date": "2026-09-25T07:47:48.294353+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +237,7 @@
   },
   {
     "id": "58e41b24b87e218a",
-    "date": "2026-09-25T01:29:58.459051+00:00",
+    "date": "2026-09-25T07:47:48.294260+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -294,37 +265,42 @@
     ]
   },
   {
-    "id": "a05df4c67c48456c",
-    "date": "2026-09-25T01:29:58.458671+00:00",
+    "id": "8d4ae1f56b664825",
+    "date": "2026-09-25T07:47:48.294195+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC Carbonato: The Botnet That Weapons AI Agents Against Exposed Docker Hosts Sep 24, 2026",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
+    "title": "Carbonato: The Botnet That Weapons AI Agents Against Exposed Docker Hosts CYBERSEC",
+    "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+    "article_text": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. The malware features worm-like capabilities and was discovered in an unauthenticated Docker registry that contained nearly 60 repositories and 4.3 GB of image data. ThreatDown researchers at cybersecurity company Malwarebytes retrieved operational evidence spanning October 2024 to August 2026. The archive also included details about the botnet and a separate campaign that distributed counterfeit cryptocurrency wallet apps. According to Malwarebytes, Carbonato spreads across Docker hosts with an API exposed on port 2375 without authentication. The malware connects to that API and instructs the daemon to launch a privileged container, giving it access to the host. It then opens a reverse SSH tunnel, installs an SSH server with the operators’ key, and reports the new deployment through Telegram. At the same time, scripts set up cron jobs, systemd timers, rc.local, and OpenRC hooks for persistence. One notable aspect of the attack is that the AI agent framework Hermes Agent is installed on the hosts, using an agent named “GH0ST,” with instructions that overwrite the default ‘SOUL.md’ persona file. Hermes has been extensively abused in malicious cyber-operations recently . Recently, cybersecurity company Gambit documented a large-scale card-skimming operation that stole 600.000 credit card details . In the case of Carbonato, Hermes handles task commands received through Telegram, including collecting AI API keys, SSH credentials, access tokens, and other data, running commands, and sending back the results. The researchers describe this as an operator-driven process involving an “interactive command loop” exchange. “The​ ​model​ ​interprets​ ​the​ ​task,​ ​writes​ ​terminal​ ​commands,​ ​reads​ ​the​ ​output,​ ​and​ ​decides​​ what ​​to​​ do ​​next,” ThreatDown researchers note . “​The​​ agent ​​runs ​​those​​ commands ​​on ​​the ​​victim​​ and​ ​returns​ ​its​ ​report​ ​to​ ​the​ ​Telegram​ ​chat​ ​that​ ​also​ ​receives​ ​deployment​ ​reports.​​” The malware’s worm-like capability allow it to spread to other exposed Docker daemons and is handled by scripts that scan networks attached to the host every five minutes. Each new compromise pulls the implant from the registry, launches the same privileged container, and enters the persistence and scanning loop. ThreatDown could not attribute Carbonato to any known threat clusters, but based on various evidence, points to Costa Rica as a possible location of the operator. To prevent infection, the researchers recommend keeping Docker daemon APIs off the network and requiring authentication on registries. Signs of Carbonato attacks include a GH0ST persona file, the CARBONATO_API_KEY setting, unexpected Telegram traffic, and reverse SSH tunnels toward AS262145. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. New ClosedQuorum Windows malware uses AI for attack decisions New RatHat Android malware uses AI to automate device control Spain's data agency gets first report of AI-powered data breach AI-powered attack exploited PaperCut flaws to hack 395 organizations ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Microsoft reminds admins to migrate Entra ID users to passkeys New Windows Defender zero-day blocks Microsoft antivirus updates Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: general cybersecurity update",
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/carbonato-the-botnet-that-weapons-ai-agents-against-exposed-docker-hosts",
-    "target": "CYBERSEC Carbonato",
+    "target": "Carbonato",
     "type": "Data Leak / Breach",
-    "severity": "Low",
+    "severity": "Critical",
     "sources": [
-      "DeafNews"
+      "DeafNews",
+      "BleepingComputer"
     ],
     "links": [
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/carbonato-the-botnet-that-weapons-ai-agents-against-exposed-docker-hosts"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/"
       }
     ]
   },
   {
     "id": "1403612fa6d6288f",
-    "date": "2026-09-25T01:29:58.458598+00:00",
+    "date": "2026-09-25T07:47:48.293822+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -352,13 +328,13 @@
     ]
   },
   {
-    "id": "5201ff82a675259d",
-    "date": "2026-09-25T01:29:58.458486+00:00",
+    "id": "bdf6bb3d146844f6",
+    "date": "2026-09-25T07:47:48.293719+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Astrana Health Breach via Vishing: SEC Filing in 24 Hours, Patients Still in the Dark",
+    "title": "CYBERSEC Astrana Health Breach via Vishing: SEC Filing in 24 Hours, Patients Still in the Dark Sep 25, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -367,7 +343,7 @@
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/astrana-health-breach-via-vishing-sec-filing-in-24-hours-patients-still-in-the-dark",
-    "target": "Astrana Health Breach Vishing",
+    "target": "CYBERSEC Astrana Health Breach",
     "type": "Data Leak / Breach",
     "severity": "High",
     "sources": [
@@ -381,13 +357,42 @@
     ]
   },
   {
-    "id": "5da6e6261199afb1",
-    "date": "2026-09-25T01:29:58.458365+00:00",
+    "id": "0d1a8ecad092ef78",
+    "date": "2026-09-25T07:47:48.293633+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 5 CVE · 3 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
+    "title": "Three Summer 2026 Attacks Mark the Shift: AI Becomes an Author of Offensive Operations",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/news/three-summer-2026-attacks-mark-the-shift-ai-becomes-an-author-of-offensive-operations",
+    "target": "Three Summer 2026 Mark",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/three-summer-2026-attacks-mark-the-shift-ai-becomes-an-author-of-offensive-operations"
+      }
+    ]
+  },
+  {
+    "id": "5da6e6261199afb1",
+    "date": "2026-09-25T07:47:48.293525+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CRITICAL · 4 CVE · 3 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -411,7 +416,7 @@
   },
   {
     "id": "6533f03d16ee4a97",
-    "date": "2026-09-25T01:29:57.874382+00:00",
+    "date": "2026-09-25T07:47:47.320365+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -511,37 +516,8 @@
     ]
   },
   {
-    "id": "6873c15a45bad3b2",
-    "date": "2026-09-25T01:29:56.755719+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "AI Agents Are Opening New Doors for Attackers Into SMBs, ESET Warns",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/ai-agents-are-opening-new-doors-for-attackers-into-smbs-eset-warns/638461/",
-    "target": "Agents Opening Doors Attackers",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/ai-agents-are-opening-new-doors-for-attackers-into-smbs-eset-warns/638461/"
-      }
-    ]
-  },
-  {
     "id": "7be7a0837d121ceb",
-    "date": "2026-09-25T01:29:56.755639+00:00",
+    "date": "2026-09-25T07:47:46.057249+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -570,7 +546,7 @@
   },
   {
     "id": "341b37ed21432efe",
-    "date": "2026-09-25T01:29:56.755568+00:00",
+    "date": "2026-09-25T07:47:46.057179+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -603,7 +579,7 @@
   },
   {
     "id": "766fb109e7508d3b",
-    "date": "2026-09-25T01:29:56.755492+00:00",
+    "date": "2026-09-25T07:47:46.057103+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -632,7 +608,7 @@
   },
   {
     "id": "684fb15c49925c8f",
-    "date": "2026-09-25T01:29:56.755420+00:00",
+    "date": "2026-09-25T07:47:46.057033+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -660,8 +636,37 @@
     ]
   },
   {
+    "id": "ea26aa0c6afd4464",
+    "date": "2026-09-25T07:47:46.056965+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "ShinyHunters FBI Data Breach: Leaked Spreadsheet Names Staff in China, Russia and HUMINT Roles",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/shinyhunters-fbi-data-breach-leaked-spreadsheet-names-staff-in-china-russia-and-humint-roles/638578/",
+    "target": "ShinyHunters FBI Data Breach",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/shinyhunters-fbi-data-breach-leaked-spreadsheet-names-staff-in-china-russia-and-humint-roles/638578/"
+      }
+    ]
+  },
+  {
     "id": "520fcc6d930148d9",
-    "date": "2026-09-25T01:29:56.755295+00:00",
+    "date": "2026-09-25T07:47:46.056837+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -690,7 +695,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-09-25T01:29:56.755206+00:00",
+    "date": "2026-09-25T07:47:46.056748+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -719,7 +724,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-09-25T01:29:56.755119+00:00",
+    "date": "2026-09-25T07:47:46.056667+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -748,7 +753,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-09-25T01:29:56.755035+00:00",
+    "date": "2026-09-25T07:47:46.056584+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -777,7 +782,7 @@
   },
   {
     "id": "1a87663ef973d472",
-    "date": "2026-09-25T01:29:56.754925+00:00",
+    "date": "2026-09-25T07:47:46.056466+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -806,7 +811,7 @@
   },
   {
     "id": "f29feab6f4f0ee32",
-    "date": "2026-09-25T01:29:56.754840+00:00",
+    "date": "2026-09-25T07:47:46.056381+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -835,7 +840,7 @@
   },
   {
     "id": "824b78ae23ccefa5",
-    "date": "2026-09-25T01:29:56.754654+00:00",
+    "date": "2026-09-25T07:47:46.056193+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -864,7 +869,7 @@
   },
   {
     "id": "948ec72c6df6739b",
-    "date": "2026-09-25T01:29:56.754575+00:00",
+    "date": "2026-09-25T07:47:46.056116+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -893,7 +898,7 @@
   },
   {
     "id": "6b6ac0d8430f7f6e",
-    "date": "2026-09-25T01:29:56.754502+00:00",
+    "date": "2026-09-25T07:47:46.056042+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -922,7 +927,7 @@
   },
   {
     "id": "43cc6fecf4fc2907",
-    "date": "2026-09-25T01:29:56.754421+00:00",
+    "date": "2026-09-25T07:47:46.055961+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -951,7 +956,7 @@
   },
   {
     "id": "82a693415895e590",
-    "date": "2026-09-25T01:29:56.754329+00:00",
+    "date": "2026-09-25T07:47:46.055875+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -980,7 +985,7 @@
   },
   {
     "id": "be20f068fa081368",
-    "date": "2026-09-25T01:29:56.754237+00:00",
+    "date": "2026-09-25T07:47:46.055786+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1008,37 +1013,8 @@
     ]
   },
   {
-    "id": "ea26aa0c6afd4464",
-    "date": "2026-09-25T01:29:56.754160+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "ShinyHunters FBI Data Breach: Leaked Spreadsheet Names Staff in China, Russia and HUMINT Roles",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/shinyhunters-fbi-data-breach-leaked-spreadsheet-names-staff-in-china-russia-and-humint-roles/638578/",
-    "target": "ShinyHunters FBI Data Breach",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/shinyhunters-fbi-data-breach-leaked-spreadsheet-names-staff-in-china-russia-and-humint-roles/638578/"
-      }
-    ]
-  },
-  {
     "id": "c49486b4aaf71150",
-    "date": "2026-09-25T01:29:56.754074+00:00",
+    "date": "2026-09-25T07:47:46.055706+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1067,7 +1043,7 @@
   },
   {
     "id": "617da6fb2cf529ac",
-    "date": "2026-09-25T01:29:56.754003+00:00",
+    "date": "2026-09-25T07:47:46.055636+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1096,7 +1072,7 @@
   },
   {
     "id": "58ec58fb7d0f6d1f",
-    "date": "2026-09-25T01:29:56.753927+00:00",
+    "date": "2026-09-25T07:47:46.055561+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1125,7 +1101,7 @@
   },
   {
     "id": "24fa026641b72378",
-    "date": "2026-09-25T01:29:56.753848+00:00",
+    "date": "2026-09-25T07:47:46.055484+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1153,8 +1129,37 @@
     ]
   },
   {
+    "id": "28f7af3ff98af5e2",
+    "date": "2026-09-25T07:47:46.055381+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Windscribe joins NordVPN, ExpressVPN and others in call to amend Canada’s Bill C-22",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/bill-c-22-faces-new-industry-concerns-over-privacy-risks/638628/",
+    "target": "Windscribe NordVPN ExpressVPN",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/bill-c-22-faces-new-industry-concerns-over-privacy-risks/638628/"
+      }
+    ]
+  },
+  {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-09-25T01:29:56.751677+00:00",
+    "date": "2026-09-25T07:47:46.053228+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1183,7 +1188,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-09-25T01:29:56.751120+00:00",
+    "date": "2026-09-25T07:47:46.052687+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1212,7 +1217,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-09-25T01:29:56.750952+00:00",
+    "date": "2026-09-25T07:47:46.052538+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1236,6 +1241,1119 @@
       {
         "source": "TechNadu",
         "url": "https://www.technadu.com/tag/business-email-compromise/"
+      }
+    ]
+  },
+  {
+    "id": "da5baa0ad8f37a16",
+    "date": "2026-09-25T07:47:45.806082+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Implant Encryption via the Dump Encoding Library",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Implant Encryption via the Dump Encoding Library",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/",
+    "target": "Implant Encryption Dump Encoding",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/"
+      }
+    ]
+  },
+  {
+    "id": "41f0718f93cc1c67",
+    "date": "2026-09-25T07:47:45.806015+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/",
+    "target": "ZTE SmartHome Account Takeover",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/"
+      }
+    ]
+  },
+  {
+    "id": "ab0b25280fb4518a",
+    "date": "2026-09-25T07:47:45.805935+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Leveraging undocumented CodeConnection APIs in a CodePipeline build job or SageMaker Studio Notebook to enumerate, clone, push and delete code repositories.",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Leveraging undocumented CodeConnection APIs in a CodePipeline build job or SageMaker Studio Notebook to enumerate, clone, push and delete code repositories.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wn2nxc/leveraging_undocumented_codeconnection_apis_in_a/",
+    "target": "Leveraging CodeConnection APIs CodePipeline",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wn2nxc/leveraging_undocumented_codeconnection_apis_in_a/"
+      }
+    ]
+  },
+  {
+    "id": "677a243fe8062953",
+    "date": "2026-09-25T07:47:45.805863+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Free, hands-on 14-week university security course (open to anyone online)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Free, hands-on 14-week university security course (open to anyone online)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/",
+    "target": "Free 14-week",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/"
+      }
+    ]
+  },
+  {
+    "id": "22f61965eb72f7ca",
+    "date": "2026-09-25T07:47:45.805801+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Windows Exploitation Techniques: Dangling COM Object Registrations",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/",
+    "target": "Windows Exploitation Techniques",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/"
+      }
+    ]
+  },
+  {
+    "id": "08b51f852fa7c9f9",
+    "date": "2026-09-25T07:47:45.805740+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/",
+    "target": "CVE-2026-45756",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/"
+      }
+    ]
+  },
+  {
+    "id": "340cb7fe68c56b32",
+    "date": "2026-09-25T07:47:45.805682+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "vCenter pre-auth RCE: CVE-2026-59309/59310",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "vCenter pre-auth RCE: CVE-2026-59309/59310",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/",
+    "target": "RCE",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/"
+      }
+    ]
+  },
+  {
+    "id": "179b308471c86534",
+    "date": "2026-09-25T07:47:45.805614+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/",
+    "target": "ATTCKing TACACS Pwn Your",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/"
+      }
+    ]
+  },
+  {
+    "id": "b369fd70e0b6cc94",
+    "date": "2026-09-25T07:47:45.805537+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Inside Corp MDM, the Android spyware targeting logistics companies",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Inside Corp MDM, the Android spyware targeting logistics companies",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/",
+    "target": "Inside Corp MDM Android",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/"
+      }
+    ]
+  },
+  {
+    "id": "148d70f4b48af49d",
+    "date": "2026-09-25T07:47:45.805461+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/",
+    "target": "Leaked GitHub App 440",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/"
+      }
+    ]
+  },
+  {
+    "id": "dee567bbe7e1a72b",
+    "date": "2026-09-25T07:47:45.805394+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/",
+    "target": "Breaking Superuser Guardrails Providers",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/"
+      }
+    ]
+  },
+  {
+    "id": "c7a91abff2298e71",
+    "date": "2026-09-25T07:47:45.805319+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Android 17 enables certificate transparency, and breaks custom CAs",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Android 17 enables certificate transparency, and breaks custom CAs",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/",
+    "target": "Android CAs",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/"
+      }
+    ]
+  },
+  {
+    "id": "c1ae1bcc79b9d4f0",
+    "date": "2026-09-25T07:47:45.805244+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "The 2026 State of AI Security Report has three numbers that really stuck with me: 81%, 50.1%, 99.9%",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "The 2026 State of AI Security Report has three numbers that really stuck with me: 81%, 50.1%, 99.9%",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wpetk9/the_2026_state_of_ai_security_report_has_three/",
+    "target": "2026 State",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wpetk9/the_2026_state_of_ai_security_report_has_three/"
+      }
+    ]
+  },
+  {
+    "id": "b075b18f0e658b26",
+    "date": "2026-09-25T07:47:45.805172+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wp3kdy/how_i_found_a_113337_af_alg_linux_local_privilege/",
+    "target": "Found 113337 AFALG Linux",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wp3kdy/how_i_found_a_113337_af_alg_linux_local_privilege/"
+      }
+    ]
+  },
+  {
+    "id": "d60c6f45f7d63b4d",
+    "date": "2026-09-25T07:47:45.805104+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/",
+    "target": "This Joke Auth Header",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/"
+      }
+    ]
+  },
+  {
+    "id": "49d1b0d750ec79aa",
+    "date": "2026-09-25T07:47:45.805036+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "One Tap Too Far: Using Shortcuts to Bypass Chrome for iOS Call Prompts",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "One Tap Too Far: Using Shortcuts to Bypass Chrome for iOS Call Prompts",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wp56y2/one_tap_too_far_using_shortcuts_to_bypass_chrome/",
+    "target": "One Tap Too Far",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wp56y2/one_tap_too_far_using_shortcuts_to_bypass_chrome/"
+      }
+    ]
+  },
+  {
+    "id": "5f2673b7e18d6fbf",
+    "date": "2026-09-25T07:47:45.804970+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Lunex Unmasked: A New Information Stealer Deployed Through BYOVD",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Lunex Unmasked: A New Information Stealer Deployed Through BYOVD",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wpddil/lunex_unmasked_a_new_information_stealer_deployed/",
+    "target": "Lunex Unmasked",
+    "type": "Malware",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wpddil/lunex_unmasked_a_new_information_stealer_deployed/"
+      }
+    ]
+  },
+  {
+    "id": "76160d04e5b7eb2f",
+    "date": "2026-09-25T07:47:45.804900+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wp466a/how_cloudflare_addressed_a_crosstenant_data/",
+    "target": "Cloudflare",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wp466a/how_cloudflare_addressed_a_crosstenant_data/"
+      }
+    ]
+  },
+  {
+    "id": "1e85d461b0c8ae5d",
+    "date": "2026-09-25T07:47:45.804834+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Argus Monitor Local Denial-of-Service Vulnerability (CVE-2026-79417)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Argus Monitor Local Denial-of-Service Vulnerability (CVE-2026-79417)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wpkc7q/argus_monitor_local_denialofservice_vulnerability/",
+    "target": "Argus Monitor Local Denial-of-Service",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wpkc7q/argus_monitor_local_denialofservice_vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "712d77ebe16b35c0",
+    "date": "2026-09-25T07:47:45.804760+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Getting root on OnePlus 15 from an untrusted app, via an audio debug service and a vendor HAL",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Getting root on OnePlus 15 from an untrusted app, via an audio debug service and a vendor HAL",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1woylqf/getting_root_on_oneplus_15_from_an_untrusted_app/",
+    "target": "Getting OnePlus",
+    "type": "General Cybersecurity",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1woylqf/getting_root_on_oneplus_15_from_an_untrusted_app/"
+      }
+    ]
+  },
+  {
+    "id": "8723c73403ec370c",
+    "date": "2026-09-25T07:47:45.804682+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Uncensored Qwen 3.8 27b helped write a LSASS Dumper which bypassed EDR while I made myself coffee",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Uncensored Qwen 3.8 27b helped write a LSASS Dumper which bypassed EDR while I made myself coffee",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wotpuj/uncensored_qwen_38_27b_helped_write_a_lsass/",
+    "target": "Uncensored Qwen 3.8 27b",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wotpuj/uncensored_qwen_38_27b_helped_write_a_lsass/"
+      }
+    ]
+  },
+  {
+    "id": "e6efedb5d407cbc8",
+    "date": "2026-09-25T07:47:45.804612+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CDC-ACM Serial Interface Bypasses TCC on macOS",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CDC-ACM Serial Interface Bypasses TCC on macOS",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wplpp1/cdcacm_serial_interface_bypasses_tcc_on_macos/",
+    "target": "CDC-ACM Serial Interface Bypasses",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wplpp1/cdcacm_serial_interface_bypasses_tcc_on_macos/"
+      }
+    ]
+  },
+  {
+    "id": "e1bd3212072f945d",
+    "date": "2026-09-25T07:47:45.804545+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "CVE-2026-91766: PHP had the redirect credential leak curl fixed in 2018",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2026-91766: PHP had the redirect credential leak curl fixed in 2018",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wpcgf9/cve202691766_php_had_the_redirect_credential_leak/",
+    "target": "CVE-2026-91766",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wpcgf9/cve202691766_php_had_the_redirect_credential_leak/"
+      }
+    ]
+  },
+  {
+    "id": "d29a549c775ffe8f",
+    "date": "2026-09-25T07:47:45.804452+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "r/netsec monthly discussion & tool thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "r/netsec monthly discussion & tool thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/",
+    "target": "Unknown",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
+      }
+    ]
+  },
+  {
+    "id": "46631edb097f535e",
+    "date": "2026-09-25T07:47:45.804336+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "/r/netsec's Q3 2026 Information Security Hiring Thread",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
+    "target": "2026 Information Hiring Thread",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "f136ddb05b79c8ef",
+    "date": "2026-09-25T07:00:00+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
+    "summary": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
+    "article_text": "",
+    "quick_summary": [
+      "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
+    "target": "Russias Hybrid Cyber-Physical War",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe"
+      }
+    ]
+  },
+  {
+    "id": "723f0ee5c81d74ea",
+    "date": "2026-09-25T06:57:40+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
+    "summary": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
+    "target": "Roundcube Webmail Vulnerability Attackers",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/"
+      }
+    ]
+  },
+  {
+    "id": "242b45fbea572683",
+    "date": "2026-09-25T06:45:47+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
+    "summary": "Introduction",
+    "article_text": "",
+    "quick_summary": [
+      "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33368",
+    "target": "Closer Look Malware Macfinger",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33368"
+      }
+    ]
+  },
+  {
+    "id": "61222d9aa3aa374c",
+    "date": "2026-09-25T05:41:52+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Duelbits Confirms $7 Million Hot-Wallet Hack, forcing Systems offline",
+    "summary": "Crypto casino Duelbits has confirmed a cybersecurity breach that drained approximately $7 million from its hot wallets, forcing the platform offline while investigators establish the attack’s root cause. Co-founder Joe disclosed the incident on X, assured customers that user funds remain safe, and said operations would resume after the investigation and wallet replenishment are completed. […] The post Duelbits Confirms $7 Million Hot-Wallet Hack, forcing Systems offline appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Crypto casino Duelbits has confirmed a cybersecurity breach that drained approximately $7 million from its hot wallets, forcing the platform offline while investigators establish the attack’s root cause.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/duelbits-7-million-hack/",
+    "target": "Duelbits Confirms Million Hot-Wallet",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/duelbits-7-million-hack/"
+      }
+    ]
+  },
+  {
+    "id": "9c4f591a7e6dd957",
+    "date": "2026-09-25T05:18:27+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Exploited Ethereum Bridge Contract to Drain Full Balance from Payy Network",
+    "summary": "Payy Network has confirmed that attackers exploited its Ethereum bridge contract and drained the contract’s entire balance, forcing the stablecoin payments platform to suspend network and wallet functions. According to a public statement from Payy, the incident occurred at approximately 4:21 UTC on September 24. The affected bridge contract supported transfers between Ethereum and the […] The post Hackers Exploited Ethereum Bridge Contract to Drain Full Balance from Payy Network appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Payy Network has confirmed that attackers exploited its Ethereum bridge contract and drained the contract’s entire balance, forcing the stablecoin payments platform to suspend network and wallet functions.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/payy-ethereum-bridge-contract-drain/",
+    "target": "Exploited Ethereum Bridge Contract",
+    "type": "Vulnerability",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/payy-ethereum-bridge-contract-drain/"
+      }
+    ]
+  },
+  {
+    "id": "cf579a7f7aaf371f",
+    "date": "2026-09-25T04:49:22+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+    "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got, according to Cloudflare. The company",
+    "article_text": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got, according to Cloudflare . The company has fixed the flaw across its service and says customers need to do nothing. Cloudflare Containers runs customers' programs inside containers on servers shared by many accounts, and Cloudflare, not the customer, picks the server. Cloudflare Sandboxes, which runs on Containers and is sold as a safe place to run untrusted code, including code written by AI agents, was affected too. The flaw was reported on September 4 by Oren Yomtov of the security firm Accomplish , through Cloudflare's bug bounty program. The problem was in how the shared disks were set up. Each container gets a disk built using a Linux feature called thin provisioning, which allocates storage in 64-kilobyte blocks. When a container was deleted, its blocks returned to a pool shared across customer accounts. That pool was set to skip wiping a block before handing it to the next container, and wiping is normally the default. So when a new container wrote only a small amount into a reused block, the rest of the block still held the previous container's data. To reach it, the researchers wrote a small four-kilobyte block into unused space and then read the whole block back at the raw disk level. The 60 kilobytes they had not written still held bytes from a previous container. Across production tests, they reported finding leftover material on 18 of 24 tries, each on a server Cloudflare chose, and on 20 of 22 underlying machines across four continents. The recovered blocks held directory structures, database pages, and structurally complete SQLite databases, Cloudflare said; the researchers' own write-up lists directory listings, SQLite databases, Chromium browser profiles, .env files, and credential files, and describes them as other customers' files. The researchers reported that their analysis scripts output only counts and format checks, not file contents, and that the material they sent Cloudflare contained no third-party names, identifiers, credentials, or recovered content. They also confirmed the recovered data was kept private and securely deleted after they submitted it, Cloudflare said. The researchers did not show that the flaw could change another customer's live data or take a workload offline. Cloudflare fixed the flaw in two steps. It first turned wiping back on for newly handed-out blocks, which stopped the reported method; the researchers confirmed on September 14 that their proof of concept no longer worked. But that change did not clean blocks already mapped into running container disks or into each server's cache of prepared image layers, which a new container could inherit and read. So Cloudflare also retired every running container disk and cleared those caches, draining and restarting servers during quiet hours. It finished that cleanup on September 19, and disclosed the flaw five days later. Cloudflare said it looked for signs that anyone else had used the method. It built detection signatures from the researchers' proof of concept and its own copy of the attack and ran them against the disk-activity records it had kept. It found only the researchers' and its own engineers' authorized testing, and said it saw no evidence that this specific method was used by anyone else. That finding covers the records Cloudflare retained, though it did not state the time span or when the unsafe setting was first put in place, so how long the exposure lasted is not clear from its account. The researchers, who separately say the same disk setup affected Cloudflare's Browser Run product, described the flaw as their sixth escape from a code sandbox published since July, after findings in Anthropic's Claude Cowork and Claude Code, Cursor's command-line tool, Docker, and OpenAI's Codex. Cloudflare's post named Containers and Sandboxes as affected and did not mention Browser Run. AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate acc",
+    "quick_summary": [
+      "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+    "target": "Cloudflare Fixes That Let",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html"
+      }
+    ]
+  },
+  {
+    "id": "5642a91c49bb3b1d",
+    "date": "2026-09-25T04:46:34+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-5430 (CVS score: 9.8) - A path traversal vulnerability in WSO2 API Control Plane,",
+    "article_text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active exploitation. The addition of CVE-2026-5430 to the KEV comes a little over a week after watchTowr said it's seeing in-the-wild exploitation efforts against its honeypots since at least September 13, 2026. As for CVE-2026-71362 , Sansec noted in August 2026 that it had detected and blocked exploitation attempts aimed at the flaw. \"The vulnerability lets attackers switch a customer session to another customer account,\" the Dutch e-commerce security company said . \"This gives them access to the victim's account and private customer data.\" Previdian's telemetry indicates that a lone IP address from Australia attempted to exploit the flaw targeting its honeypot sensors on September 10, 2026. Adobe has yet to update its advisory to confirm exploitation status. Federal Civilian Executive Branch (FCEB) agencies are advised to apply fixes for both vulnerabilities by September 27, 2026, to safeguard their networks against active threats. AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identity controls. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidenc",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+    "target": "WSO2 Adobe Commerce Exploited",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html"
+      }
+    ]
+  },
+  {
+    "id": "b2e2b35bc7e6cead",
+    "date": "2026-09-25T03:45:12+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33370",
+    "target": "ISC Stormcast Friday September",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33370"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33364"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33356"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33354"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33350"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33342"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33346"
+      }
+    ]
+  },
+  {
+    "id": "b5f40fa27584aaed",
+    "date": "2026-09-25T03:34:38+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Bitget Hot Wallet Hacked – Attackers Stole $351.6 Million From Hot Wallets",
+    "summary": "Cryptocurrency exchange Bitget has confirmed a security breach affecting approximately $351.6 million in assets after unauthorized transfers were detected in parts of its hot and warm wallet infrastructure. The incident was identified at 18:31 UTC on September 24, 2026, prompting the security team to activate emergency response procedures within minutes. Bitget said its offline cold […] The post Bitget Hot Wallet Hacked – Attackers Stole $351.6 Million From Hot Wallets appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Cryptocurrency exchange Bitget has confirmed a security breach affecting approximately $351.6 million in assets after unauthorized transfers were detected in parts of its hot and warm wallet infrastructure.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/bitget-hot-wallet-hacked/",
+    "target": "Bitget Hot Wallet Hacked",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/bitget-hot-wallet-hacked/"
+      }
+    ]
+  },
+  {
+    "id": "68f646ffc6177c62",
+    "date": "2026-09-25T03:13:12+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Cloudflare Containers Vulnerability Could Leak Data Between Customer Workloads",
+    "summary": "Cloudflare has patched a cross-tenant data exposure vulnerability in its Containers platform across its global, multi-tenant cloud computing infrastructure that could allow one customer’s workload to recover residual disk data left by another tenant on the same physical host. The issue also affected Cloudflare Sandboxes, which is built on Containers, but Cloudflare says it found […] The post Cloudflare Containers Vulnerability Could Leak Data Between Customer Workloads appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Cloudflare has patched a cross-tenant data exposure vulnerability in its Containers platform across its global, multi-tenant cloud computing infrastructure that could allow one customer’s workload to recover residual dis",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/cloudflare-containers-vulnerability/",
+    "target": "Cloudflare Containers Vulnerability Could",
+    "type": "Data Leak / Breach",
+    "severity": "Medium",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/cloudflare-containers-vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "ff3dda9729ebc5dd",
+    "date": "2026-09-25T01:29:58.459438+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "OpenAI AI Agent Bypasses Australian Medicare Portal Controls ai",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/ai/openai-ai-agent-bypasses-australian-medicare-portal-controls",
+    "target": "OpenAI Agent Bypasses Australian",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ai/openai-ai-agent-bypasses-australian-medicare-portal-controls"
+      }
+    ]
+  },
+  {
+    "id": "6873c15a45bad3b2",
+    "date": "2026-09-25T01:29:56.755719+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "AI Agents Are Opening New Doors for Attackers Into SMBs, ESET Warns",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/ai-agents-are-opening-new-doors-for-attackers-into-smbs-eset-warns/638461/",
+    "target": "Agents Opening Doors Attackers",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/ai-agents-are-opening-new-doors-for-attackers-into-smbs-eset-warns/638461/"
       }
     ]
   },
@@ -1323,660 +2441,6 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1wm7krn/three_memorysafety_bugs_in_godots_untrustedfile/"
-      }
-    ]
-  },
-  {
-    "id": "da5baa0ad8f37a16",
-    "date": "2026-09-25T01:29:56.456740+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Implant Encryption via the Dump Encoding Library",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Implant Encryption via the Dump Encoding Library",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/",
-    "target": "Implant Encryption Dump Encoding",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wmkcg0/implant_encryption_via_the_dump_encoding_library/"
-      }
-    ]
-  },
-  {
-    "id": "41f0718f93cc1c67",
-    "date": "2026-09-25T01:29:56.456669+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/",
-    "target": "ZTE SmartHome Account Takeover",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/"
-      }
-    ]
-  },
-  {
-    "id": "ab0b25280fb4518a",
-    "date": "2026-09-25T01:29:56.456585+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Leveraging undocumented CodeConnection APIs in a CodePipeline build job or SageMaker Studio Notebook to enumerate, clone, push and delete code repositories.",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Leveraging undocumented CodeConnection APIs in a CodePipeline build job or SageMaker Studio Notebook to enumerate, clone, push and delete code repositories.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wn2nxc/leveraging_undocumented_codeconnection_apis_in_a/",
-    "target": "Leveraging CodeConnection APIs CodePipeline",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wn2nxc/leveraging_undocumented_codeconnection_apis_in_a/"
-      }
-    ]
-  },
-  {
-    "id": "677a243fe8062953",
-    "date": "2026-09-25T01:29:56.456509+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Free, hands-on 14-week university security course (open to anyone online)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Free, hands-on 14-week university security course (open to anyone online)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/",
-    "target": "Free 14-week",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wn4zku/free_handson_14week_university_security_course/"
-      }
-    ]
-  },
-  {
-    "id": "22f61965eb72f7ca",
-    "date": "2026-09-25T01:29:56.456443+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Windows Exploitation Techniques: Dangling COM Object Registrations",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/",
-    "target": "Windows Exploitation Techniques",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wmy5go/windows_exploitation_techniques_dangling_com/"
-      }
-    ]
-  },
-  {
-    "id": "08b51f852fa7c9f9",
-    "date": "2026-09-25T01:29:56.456380+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-45756: attacker-controlled regex in Symfony JsonPath filters (ReDoS)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/",
-    "target": "CVE-2026-45756",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wn6m39/cve202645756_attackercontrolled_regex_in_symfony/"
-      }
-    ]
-  },
-  {
-    "id": "340cb7fe68c56b32",
-    "date": "2026-09-25T01:29:56.456319+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "vCenter pre-auth RCE: CVE-2026-59309/59310",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "vCenter pre-auth RCE: CVE-2026-59309/59310",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/",
-    "target": "RCE",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/"
-      }
-    ]
-  },
-  {
-    "id": "179b308471c86534",
-    "date": "2026-09-25T01:29:56.456248+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ATT&CKing TACACS+ to Pwn Your Network via a Pre-Auth RCE - elttam",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/",
-    "target": "ATTCKing TACACS Pwn Your",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wnvaik/attcking_tacacs_to_pwn_your_network_via_a_preauth/"
-      }
-    ]
-  },
-  {
-    "id": "b369fd70e0b6cc94",
-    "date": "2026-09-25T01:29:56.456170+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Inside Corp MDM, the Android spyware targeting logistics companies",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Inside Corp MDM, the Android spyware targeting logistics companies",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/",
-    "target": "Inside Corp MDM Android",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wo6oo5/inside_corp_mdm_the_android_spyware_targeting/"
-      }
-    ]
-  },
-  {
-    "id": "148d70f4b48af49d",
-    "date": "2026-09-25T01:29:56.456089+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/",
-    "target": "Leaked GitHub App 440",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/"
-      }
-    ]
-  },
-  {
-    "id": "dee567bbe7e1a72b",
-    "date": "2026-09-25T01:29:56.456019+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Breaking the Superuser Guardrails of managed-PostgreSQL Providers",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/",
-    "target": "Breaking Superuser Guardrails Providers",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wogfid/breaking_the_superuser_guardrails_of/"
-      }
-    ]
-  },
-  {
-    "id": "c7a91abff2298e71",
-    "date": "2026-09-25T01:29:56.455947+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Android 17 enables certificate transparency, and breaks custom CAs",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Android 17 enables certificate transparency, and breaks custom CAs",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/",
-    "target": "Android CAs",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wo4kk4/android_17_enables_certificate_transparency_and/"
-      }
-    ]
-  },
-  {
-    "id": "c1ae1bcc79b9d4f0",
-    "date": "2026-09-25T01:29:56.455870+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "The 2026 State of AI Security Report has three numbers that really stuck with me: 81%, 50.1%, 99.9%",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "The 2026 State of AI Security Report has three numbers that really stuck with me: 81%, 50.1%, 99.9%",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wpetk9/the_2026_state_of_ai_security_report_has_three/",
-    "target": "2026 State",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wpetk9/the_2026_state_of_ai_security_report_has_three/"
-      }
-    ]
-  },
-  {
-    "id": "d60c6f45f7d63b4d",
-    "date": "2026-09-25T01:29:56.455797+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/",
-    "target": "This Joke Auth Header",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1woli59/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/"
-      }
-    ]
-  },
-  {
-    "id": "5f2673b7e18d6fbf",
-    "date": "2026-09-25T01:29:56.455726+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Lunex Unmasked: A New Information Stealer Deployed Through BYOVD",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Lunex Unmasked: A New Information Stealer Deployed Through BYOVD",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wpddil/lunex_unmasked_a_new_information_stealer_deployed/",
-    "target": "Lunex Unmasked",
-    "type": "Malware",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wpddil/lunex_unmasked_a_new_information_stealer_deployed/"
-      }
-    ]
-  },
-  {
-    "id": "49d1b0d750ec79aa",
-    "date": "2026-09-25T01:29:56.455655+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "One Tap Too Far: Using Shortcuts to Bypass Chrome for iOS Call Prompts",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "One Tap Too Far: Using Shortcuts to Bypass Chrome for iOS Call Prompts",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wp56y2/one_tap_too_far_using_shortcuts_to_bypass_chrome/",
-    "target": "One Tap Too Far",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wp56y2/one_tap_too_far_using_shortcuts_to_bypass_chrome/"
-      }
-    ]
-  },
-  {
-    "id": "76160d04e5b7eb2f",
-    "date": "2026-09-25T01:29:56.455581+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wp466a/how_cloudflare_addressed_a_crosstenant_data/",
-    "target": "Cloudflare",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wp466a/how_cloudflare_addressed_a_crosstenant_data/"
-      }
-    ]
-  },
-  {
-    "id": "712d77ebe16b35c0",
-    "date": "2026-09-25T01:29:56.455501+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Getting root on OnePlus 15 from an untrusted app, via an audio debug service and a vendor HAL",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Getting root on OnePlus 15 from an untrusted app, via an audio debug service and a vendor HAL",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1woylqf/getting_root_on_oneplus_15_from_an_untrusted_app/",
-    "target": "Getting OnePlus",
-    "type": "General Cybersecurity",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1woylqf/getting_root_on_oneplus_15_from_an_untrusted_app/"
-      }
-    ]
-  },
-  {
-    "id": "8723c73403ec370c",
-    "date": "2026-09-25T01:29:56.455416+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Uncensored Qwen 3.8 27b helped write a LSASS Dumper which bypassed EDR while I made myself coffee",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Uncensored Qwen 3.8 27b helped write a LSASS Dumper which bypassed EDR while I made myself coffee",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wotpuj/uncensored_qwen_38_27b_helped_write_a_lsass/",
-    "target": "Uncensored Qwen 3.8 27b",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wotpuj/uncensored_qwen_38_27b_helped_write_a_lsass/"
-      }
-    ]
-  },
-  {
-    "id": "e1bd3212072f945d",
-    "date": "2026-09-25T01:29:56.455344+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2026-91766: PHP had the redirect credential leak curl fixed in 2018",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-91766: PHP had the redirect credential leak curl fixed in 2018",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wpcgf9/cve202691766_php_had_the_redirect_credential_leak/",
-    "target": "CVE-2026-91766",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wpcgf9/cve202691766_php_had_the_redirect_credential_leak/"
-      }
-    ]
-  },
-  {
-    "id": "d29a549c775ffe8f",
-    "date": "2026-09-25T01:29:56.455260+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "r/netsec monthly discussion & tool thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "r/netsec monthly discussion & tool thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/",
-    "target": "Unknown",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1w4c1cg/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1uklqx3/rnetsec_monthly_discussion_tool_thread/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
-      }
-    ]
-  },
-  {
-    "id": "46631edb097f535e",
-    "date": "2026-09-25T01:29:56.455091+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "/r/netsec's Q3 2026 Information Security Hiring Thread",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
-    "target": "2026 Information Hiring Thread",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
       }
     ]
   },
@@ -2105,7 +2569,7 @@
     "category": "",
     "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
     "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
-    "article_text": "A new variant of the MacSync info-stealing malware targeting macOS systems now uses public iCloud calendar events to deliver fresh payloads. MacSync is a Swift-based malware that emerged in April 2025 and has been observed recently being delivered in ClickFix campaigns disguised as Homebrew and macOS disk space analyzer tools. Kaspersky researchers say that while earlier versions of the malware were derived from the AMOS stealer family, MacSync evolved and added new capabilities via modules. MacSync has been distributed to victims through social engineering, including ClickFix-style attacks, and through software presented as free, cracked, or as new applications. The researchers note that the threat actor delivered the malware as a fake crypto wallet called Toria, which had a dedicated website and was promoted over social media platforms. Kaspersky discovered the MacSync campaign that had two delivery methods. In the more complex one, a downloader fetches commands hidden in the description of a public iCloud calendar event, and then downloads the next-stage payload from iCloud. The downloader feeds the retrieved calendar data to macOS's zsh shell. Most of the calendar text produces errors, but commands placed after the event’s DESCRIPTION: line run and fetch an archive with the malware components. The archive contains an ‘APP’ bundle that acts as a dropper, leading to more stages that eventually retrieve the MacSync malware. The new module observed is an Objective-C backdoor that disguises itself as Finder, the default file manager on macOS. Its installer establishes persistence through a LaunchAgent, .zshrc modifications, and global Git hooks, while terminating macOS notification processes to prevent alerts from reaching the user. The backdoor can perform the following actions on infected systems: Kaspersky inferred the commands’ purposes from their names and status messages because it did not have the AppleScript code they would execute The researchers also identified a “mystery” command, live_browser , which downloads and executes a component called sn_relay , whose purpose Kaspersky could not determine. As MacSync continues to evolve and adopt more evasive and effective distribution chains, macOS users are advised to avoid executing commands they find online It is also recommended to avoid downloading DMG files from suspicious sites and treat admin password prompts with caution. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. New Infinity Stealer malware grabs macOS data via ClickFix lures Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer New AmnesiaStealer macOS malware hijacks browser sessions via remote control Fake Roblox Xeno script launcher pushes infostealer, RAT malware Arch Linux disables AUR package adoption to stop malware flood ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Microsoft reminds admins to migrate Entra ID users to passkeys New Windows Defender zero-day blocks Microsoft antivirus updates Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "A new variant of the MacSync info-stealing malware targeting macOS systems now uses public iCloud calendar events to deliver fresh payloads. MacSync is a Swift-based malware that emerged in April 2025 and has been observed recently being delivered in ClickFix campaigns disguised as Homebrew and macOS disk space analyzer tools. Kaspersky researchers say that while earlier versions of the malware were derived from the AMOS stealer family, MacSync evolved and added new capabilities via modules. MacSync has been distributed to victims through social engineering, including ClickFix-style attacks, and through software presented as free, cracked, or as new applications. The researchers note that the threat actor delivered the malware as a fake crypto wallet called Toria, which had a dedicated website and was promoted over social media platforms. Kaspersky discovered the MacSync campaign that had two delivery methods. In the more complex one, a downloader fetches commands hidden in the description of a public iCloud calendar event, and then downloads the next-stage payload from iCloud. The downloader feeds the retrieved calendar data to macOS's zsh shell. Most of the calendar text produces errors, but commands placed after the event’s DESCRIPTION: line run and fetch an archive with the malware components. The archive contains an ‘APP’ bundle that acts as a dropper, leading to more stages that eventually retrieve the MacSync malware. The new module observed is an Objective-C backdoor that disguises itself as Finder, the default file manager on macOS. Its installer establishes persistence through a LaunchAgent, .zshrc modifications, and global Git hooks, while terminating macOS notification processes to prevent alerts from reaching the user. The backdoor can perform the following actions on infected systems: Kaspersky inferred the commands’ purposes from their names and status messages because it did not have the AppleScript code they would execute The researchers also identified a “mystery” command, live_browser , which downloads and executes a component called sn_relay , whose purpose Kaspersky could not determine. As MacSync continues to evolve and adopt more evasive and effective distribution chains, macOS users are advised to avoid executing commands they find online It is also recommended to avoid downloading DMG files from suspicious sites and treat admin password prompts with caution. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. New Infinity Stealer malware grabs macOS data via ClickFix lures Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer New AmnesiaStealer macOS malware hijacks browser sessions via remote control Fake Roblox Xeno script launcher pushes infostealer, RAT malware Arch Linux disables AUR package adoption to stop malware flood ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach New Windows Defender zero-day blocks Microsoft antivirus updates Microsoft: September Windows updates break Always On VPN connections Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -2238,35 +2702,6 @@
       {
         "source": "The Record",
         "url": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules"
-      }
-    ]
-  },
-  {
-    "id": "ea3f737b455a6344",
-    "date": "2026-09-24T20:10:48+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-    "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-    "article_text": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. The malware features worm-like capabilities and was discovered in an unauthenticated Docker registry that contained nearly 60 repositories and 4.3 GB of image data. ThreatDown researchers at cybersecurity company Malwarebytes retrieved operational evidence spanning October 2024 to August 2026. The archive also included details about the botnet and a separate campaign that distributed counterfeit cryptocurrency wallet apps. According to Malwarebytes, Carbonato spreads across Docker hosts with an API exposed on port 2375 without authentication. The malware connects to that API and instructs the daemon to launch a privileged container, giving it access to the host. It then opens a reverse SSH tunnel, installs an SSH server with the operators’ key, and reports the new deployment through Telegram. At the same time, scripts set up cron jobs, systemd timers, rc.local, and OpenRC hooks for persistence. One notable aspect of the attack is that the AI agent framework Hermes Agent is installed on the hosts, using an agent named “GH0ST,” with instructions that overwrite the default ‘SOUL.md’ persona file. Hermes has been extensively abused in malicious cyber-operations recently . Recently, cybersecurity company Gambit documented a large-scale card-skimming operation that stole 600.000 credit card details . In the case of Carbonato, Hermes handles task commands received through Telegram, including collecting AI API keys, SSH credentials, access tokens, and other data, running commands, and sending back the results. The researchers describe this as an operator-driven process involving an “interactive command loop” exchange. “The​ ​model​ ​interprets​ ​the​ ​task,​ ​writes​ ​terminal​ ​commands,​ ​reads​ ​the​ ​output,​ ​and​ ​decides​​ what ​​to​​ do ​​next,” ThreatDown researchers note . “​The​​ agent ​​runs ​​those​​ commands ​​on ​​the ​​victim​​ and​ ​returns​ ​its​ ​report​ ​to​ ​the​ ​Telegram​ ​chat​ ​that​ ​also​ ​receives​ ​deployment​ ​reports.​​” The malware’s worm-like capability allow it to spread to other exposed Docker daemons and is handled by scripts that scan networks attached to the host every five minutes. Each new compromise pulls the implant from the registry, launches the same privileged container, and enters the persistence and scanning loop. ThreatDown could not attribute Carbonato to any known threat clusters, but based on various evidence, points to Costa Rica as a possible location of the operator. To prevent infection, the researchers recommend keeping Docker daemon APIs off the network and requiring authentication on registries. Signs of Carbonato attacks include a GH0ST persona file, the CARBONATO_API_KEY setting, unexpected Telegram traffic, and reverse SSH tunnels toward AS262145. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. New ClosedQuorum Windows malware uses AI for attack decisions New RatHat Android malware uses AI to automate device control Spain's data agency gets first report of AI-powered data breach AI-powered attack exploited PaperCut flaws to hack 395 organizations ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Microsoft reminds admins to migrate Entra ID users to passkeys New Windows Defender zero-day blocks Microsoft antivirus updates Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-    "target": "Carbonato",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/"
       }
     ]
   },
@@ -3298,7 +3733,7 @@
     "category": "",
     "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
     "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
-    "article_text": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. Roundcube Webmail is a browser-based IMAP email client used as the default mail interface by thousands of services with millions of users, and it is pre-installed with the widely used cPanel web hosting control panel. In May, the Roundcube security team patched the flaw (tracked as CVE-2026-48842 ), describing it as a pre-authenticated SQL injection in the virtuser_query built-in plugin, which handles database-driven user lookups and maps users to email addresses. Successful exploitation can let threat actors with no privileges bypass authentication, inject and execute malicious database commands, and steal data from Roundcube's database in high-complexity attacks that don't require user interaction. Roundcube also \"strongly\" recommended that users update their servers to versions 1.6.16 and 1.7.1, which address this vulnerability. Threat monitoring non-profit Shadowserver now tracks over 523,000 Roundcube instances exposed on the Internet. However, there is no information on how many are honeypots or have already been patched against this flaw. On Monday, four months after CVE-2026-48842 was patched, the Canadian Centre for Cyber Security updated its May advisory to warn that attackers are now actively exploiting it. \"Open-source reporting indicates that CVE-2026-48842 is being exploited in the wild,\" the Cyber Center warned , urging administrators to secure their webmail servers. While a security update is available to block ongoing attacks, admins who can't immediately upgrade their servers should disable or remove the virtuser_query plugin to eliminate the attack vector. Roundcube security flaws have been a popular target for both cybercrime and state-backed hacking groups, with the Winter Vivern (TA473) Russian threat group exploiting a cross-site scripting (XSS) zero-day (CVE-2023-5631) in attacks targeting European government entities and the Russian APT28 cyber-espionage group abusing multiple flaws (CVE-2020-35730, CVE-2020-12641, and CVE-2021-44026) to breach Ukrainian government email systems . More recently, in February, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) flagged two other Roundcube flaws (CVE-2025-49113 and CVE-2025-68461) as actively exploited and ordered government agencies to secure their networks within three weeks. Since May 2022, the cybersecurity agency has tagged 11 Roundcube Webmail vulnerabilities as exploited in the wild. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Check Point warns of hackers exploiting Security Gateway VPN RCE flaw Hackers start exploiting critical WordPress flaw for code execution InfraTrust report warns network management systems under attack Arista patches actively exploited VeloCloud Orchestrator zero-day F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Microsoft reminds admins to migrate Entra ID users to passkeys New Windows Defender zero-day blocks Microsoft antivirus updates Overdue a password health-check? Audit your Active Directory for free Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Automate Onboarding and Access Reviews with No-Code IGA: See how it works Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. Roundcube Webmail is a browser-based IMAP email client used as the default mail interface by thousands of services with millions of users, and it is pre-installed with the widely used cPanel web hosting control panel. In May, the Roundcube security team patched the flaw (tracked as CVE-2026-48842 ), describing it as a pre-authenticated SQL injection in the virtuser_query built-in plugin, which handles database-driven user lookups and maps users to email addresses. Successful exploitation can let threat actors with no privileges bypass authentication, inject and execute malicious database commands, and steal data from Roundcube's database in high-complexity attacks that don't require user interaction. Roundcube also \"strongly\" recommended that users update their servers to versions 1.6.16 and 1.7.1, which address this vulnerability. Threat monitoring non-profit Shadowserver now tracks over 523,000 Roundcube instances exposed on the Internet. However, there is no information on how many are honeypots or have already been patched against this flaw. On Monday, four months after CVE-2026-48842 was patched, the Canadian Centre for Cyber Security updated its May advisory to warn that attackers are now actively exploiting it. \"Open-source reporting indicates that CVE-2026-48842 is being exploited in the wild,\" the Cyber Center warned , urging administrators to secure their webmail servers. While a security update is available to block ongoing attacks, admins who can't immediately upgrade their servers should disable or remove the virtuser_query plugin to eliminate the attack vector. Roundcube security flaws have been a popular target for both cybercrime and state-backed hacking groups, with the Winter Vivern (TA473) Russian threat group exploiting a cross-site scripting (XSS) zero-day (CVE-2023-5631) in attacks targeting European government entities and the Russian APT28 cyber-espionage group abusing multiple flaws (CVE-2020-35730, CVE-2020-12641, and CVE-2021-44026) to breach Ukrainian government email systems . More recently, in February, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) flagged two other Roundcube flaws (CVE-2025-49113 and CVE-2025-68461) as actively exploited and ordered government agencies to secure their networks within three weeks. Since May 2022, the cybersecurity agency has tagged 11 Roundcube Webmail vulnerabilities as exploited in the wild. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Check Point warns of hackers exploiting Security Gateway VPN RCE flaw Hackers start exploiting critical WordPress flaw for code execution InfraTrust report warns network management systems under attack Arista patches actively exploited VeloCloud Orchestrator zero-day F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach New Windows Defender zero-day blocks Microsoft antivirus updates Microsoft: September Windows updates break Always On VPN connections Automate Onboarding and Access Reviews with No-Code IGA: See how it works Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Overdue a password health-check? Audit your Active Directory for free Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -3443,7 +3878,7 @@
     "category": "",
     "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
     "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
-    "article_text": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. KB5124010 is a preview update that lets administrators and users test Windows improvements, bug fixes, and new features before they become generally available during next month's Patch Tuesday release. However, unlike regular cumulative updates, monthly optional updates like KB5124010 provide only quality improvements and don't include security fixes. The September 2026 preview update adds support for Emoji 17.0 , a new \"Open apps maximized\" accessibility setting that automatically maximizes app windows as they open, and a recovery remote management plug-in for extending Windows Recovery (WinRE) management capabilities. Microsoft also resolved an issue where the Bluetooth radio could be turned off while the Bluetooth radio control toggle in Settings still showed as on, and a bug that could cause crashes with error code 0x139 while streaming Bluetooth audio. It also improved microphone compatibility with certain Bluetooth Classic audio accessories, as well as reliability and performance with LE Audio accessories. After deploying this preview update, users can also remap the Copilot key on their Windows devices via a new Windows 11 setting to function as the Right Ctrl or Context Menu key. You can install the KB5124010 update by opening Settings , clicking on Windows Update, and then \"Check for Updates .\" ​Because this is an optional update, you will need to click the \"Download and install\" link unless you already have the \"Get the latest updates as soon as they're available\" option enabled, which will prompt the OS to install it automatically. You can also manually download and install the KB5124010 preview update from the Microsoft Update Catalog . Once installed, this optional non-security update will upgrade Windows 11 25H2 and 24H2 devices to builds 26200.9550 and 26100.9550, respectively. The September 2026 preview update comes with many other changes, some of the more important ones highlighted below: In this update, Microsoft also fixed a known issue that was causing the built-in File History backup feature on some Windows systems to fail after installing the September 2026 security updates. KB5124010 also removes PC-to-PC Migration , a tool that helped users transfer their files, settings, and preferences to a new Windows device. Microsoft now recommends using Windows Backup to migrate to a new PC using OneDrive. Microsoft also reminded users that KB5124010 is the final preview update for Windows 11 24H2, which reaches end of support in October 2026 . Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Microsoft says KB5120998 Windows update resets desktop settings Microsoft: KB5120998 mouse reset bug affects only non-English PCs Microsoft says Windows 11 KB5120998 update resets mouse settings Windows 11 KB5120998 update released with 35 changes and fixes ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Microsoft reminds admins to migrate Entra ID users to passkeys New Windows Defender zero-day blocks Microsoft antivirus updates Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. KB5124010 is a preview update that lets administrators and users test Windows improvements, bug fixes, and new features before they become generally available during next month's Patch Tuesday release. However, unlike regular cumulative updates, monthly optional updates like KB5124010 provide only quality improvements and don't include security fixes. The September 2026 preview update adds support for Emoji 17.0 , a new \"Open apps maximized\" accessibility setting that automatically maximizes app windows as they open, and a recovery remote management plug-in for extending Windows Recovery (WinRE) management capabilities. Microsoft also resolved an issue where the Bluetooth radio could be turned off while the Bluetooth radio control toggle in Settings still showed as on, and a bug that could cause crashes with error code 0x139 while streaming Bluetooth audio. It also improved microphone compatibility with certain Bluetooth Classic audio accessories, as well as reliability and performance with LE Audio accessories. After deploying this preview update, users can also remap the Copilot key on their Windows devices via a new Windows 11 setting to function as the Right Ctrl or Context Menu key. You can install the KB5124010 update by opening Settings , clicking on Windows Update, and then \"Check for Updates .\" ​Because this is an optional update, you will need to click the \"Download and install\" link unless you already have the \"Get the latest updates as soon as they're available\" option enabled, which will prompt the OS to install it automatically. You can also manually download and install the KB5124010 preview update from the Microsoft Update Catalog . Once installed, this optional non-security update will upgrade Windows 11 25H2 and 24H2 devices to builds 26200.9550 and 26100.9550, respectively. The September 2026 preview update comes with many other changes, some of the more important ones highlighted below: In this update, Microsoft also fixed a known issue that was causing the built-in File History backup feature on some Windows systems to fail after installing the September 2026 security updates. KB5124010 also removes PC-to-PC Migration , a tool that helped users transfer their files, settings, and preferences to a new Windows device. Microsoft now recommends using Windows Backup to migrate to a new PC using OneDrive. Microsoft also reminded users that KB5124010 is the final preview update for Windows 11 24H2, which reaches end of support in October 2026 . Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Microsoft says KB5120998 Windows update resets desktop settings Microsoft: KB5120998 mouse reset bug affects only non-English PCs Microsoft says Windows 11 KB5120998 update resets mouse settings Windows 11 KB5120998 update released with 35 changes and fixes ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach New Windows Defender zero-day blocks Microsoft antivirus updates Microsoft: September Windows updates break Always On VPN connections Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -3679,7 +4114,7 @@
     "category": "",
     "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]",
-    "article_text": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. JetBrains patched the security flaw (tracked as CVE-2026-63077 ) on July 25 in TeamCity On-Premises versions 2025.11.7 and 2026.1.3, saying it is a critical authentication bypass vulnerability that lets attackers with HTTP(S) access execute arbitrary operating system commands. \"An unauthenticated attacker could exploit the vulnerability via the TeamCity agent polling protocol to bypass authentication checks and execute arbitrary operating system commands with the privileges of the TeamCity server process,\" it said. \"Depending on the privileges granted to the TeamCity server process, a successful attack could expose TeamCity data, configurations, and stored credentials, modify server state, and potentially compromise the integrity of build artifacts and downstream CI/CD pipelines.\" Almost two weeks later, on August 5, CISA added CVE-2026-63077 to its catalog of actively exploited vulnerabilities and ordered U.S. federal agencies to secure their networks against ongoing attacks within three days. JetBrains confirmed that the flaw was exploited in the wild on August 7, shared indicators of compromise, and urged customers who couldn't immediately patch their servers to limit access to trusted networks. While CISA has not yet shared information about attacks targeting CVE-2026-63077 , it updated its Known Exploited Vulnerabilities Catalog (KEV) again on Wednesday, flagging the vulnerability as being abused by ransomware gangs . In total, since October 2023, the cybersecurity agency has tagged four TeamCity security issues as exploited in the wild, all of which have also been abused in ransomware attacks. Security threat watchdog Shadowserver is now tracking just over 160 TeamCity servers unpatched against the CVE-2026-63077 flaw, down from an initial 700 Internet-exposed servers vulnerable to attacks spotted right after the vulnerability was patched. ​Because state-backed hacking groups and ransomware gangs have often leveraged TeamCity vulnerabilities in attacks, IT administrators are advised to patch Internet-exposed servers immediately. For instance, in October 2024, U.S. and U.K. cyber agencies warned that APT29 hackers linked to Russia's Foreign Intelligence Service (SVR) were targeting vulnerable JetBrains TeamCity and Zimbra servers \"at a mass scale.\" TeamCity is a Continuous Integration and Continuous Deployment (CI/CD) platform used by software developers and DevOps teams to automate building, testing, and deploying software code. JetBrains says more than 30,000 DevOps teams use TeamCity at many high-profile companies, including Citibank, Amazon Games, Tesla, and Samsung. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. CISA: Critical VMware RCE flaw now exploited by ransomware gangs CISA: WatchGuard RCE flaw now exploited in ransomware attacks CISA: Microsoft SharePoint flaw now exploited in ransomware attacks CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday CISA orders urgent patching of actively exploited Zimbra flaw ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Microsoft reminds admins to migrate Entra ID users to passkeys New Windows Defender zero-day blocks Microsoft antivirus updates Automate Onboarding and Access Reviews with No-Code IGA: See how it works Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. JetBrains patched the security flaw (tracked as CVE-2026-63077 ) on July 25 in TeamCity On-Premises versions 2025.11.7 and 2026.1.3, saying it is a critical authentication bypass vulnerability that lets attackers with HTTP(S) access execute arbitrary operating system commands. \"An unauthenticated attacker could exploit the vulnerability via the TeamCity agent polling protocol to bypass authentication checks and execute arbitrary operating system commands with the privileges of the TeamCity server process,\" it said. \"Depending on the privileges granted to the TeamCity server process, a successful attack could expose TeamCity data, configurations, and stored credentials, modify server state, and potentially compromise the integrity of build artifacts and downstream CI/CD pipelines.\" Almost two weeks later, on August 5, CISA added CVE-2026-63077 to its catalog of actively exploited vulnerabilities and ordered U.S. federal agencies to secure their networks against ongoing attacks within three days. JetBrains confirmed that the flaw was exploited in the wild on August 7, shared indicators of compromise, and urged customers who couldn't immediately patch their servers to limit access to trusted networks. While CISA has not yet shared information about attacks targeting CVE-2026-63077 , it updated its Known Exploited Vulnerabilities Catalog (KEV) again on Wednesday, flagging the vulnerability as being abused by ransomware gangs . In total, since October 2023, the cybersecurity agency has tagged four TeamCity security issues as exploited in the wild, all of which have also been abused in ransomware attacks. Security threat watchdog Shadowserver is now tracking just over 160 TeamCity servers unpatched against the CVE-2026-63077 flaw, down from an initial 700 Internet-exposed servers vulnerable to attacks spotted right after the vulnerability was patched. ​Because state-backed hacking groups and ransomware gangs have often leveraged TeamCity vulnerabilities in attacks, IT administrators are advised to patch Internet-exposed servers immediately. For instance, in October 2024, U.S. and U.K. cyber agencies warned that APT29 hackers linked to Russia's Foreign Intelligence Service (SVR) were targeting vulnerable JetBrains TeamCity and Zimbra servers \"at a mass scale.\" TeamCity is a Continuous Integration and Continuous Deployment (CI/CD) platform used by software developers and DevOps teams to automate building, testing, and deploying software code. JetBrains says more than 30,000 DevOps teams use TeamCity at many high-profile companies, including Citibank, Amazon Games, Tesla, and Samsung. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. CISA: Critical VMware RCE flaw now exploited by ransomware gangs CISA: WatchGuard RCE flaw now exploited in ransomware attacks CISA: Microsoft SharePoint flaw now exploited in ransomware attacks CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday CISA orders urgent patching of actively exploited Zimbra flaw ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach New Windows Defender zero-day blocks Microsoft antivirus updates Microsoft: September Windows updates break Always On VPN connections Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Overdue a password health-check? Audit your Active Directory for free Automate Onboarding and Access Reviews with No-Code IGA: See how it works Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -4304,7 +4739,7 @@
     "category": "",
     "title": "Microsoft fixes bug that broke Windows File History backup feature",
     "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
-    "article_text": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. File History , introduced in Windows 8 and later replaced by Windows Backup , automatically backs up the user's account profile (Documents, Music, Pictures, Videos, and Desktop) to an external hard drive, such as a USB flash drive, or a network storage location (NAS) and then lets them restore accidentally deleted or damaged files using an older version from hours, days, or weeks ago. In a Saturday service alert seen by BleepingComputer, Microsoft warned that the automated backup feature might stop working after installing this month's security updates and triggering application crash events in Event Viewer referencing FileHistory.exe and KERNELBASE.dll. On impacted systems running Windows 10 21H2 or later, Windows 10 Enterprise LTSC 2016/2019, and Windows 11 23H2 and later, users are also seeing \"Reconnect your drive\" alerts even though compatible backup drives are connected and working properly. Other symptoms include previously backed-up files showing \"No previous version available\" and the \"Last Backup\" timestamp not updating. \"After installing the September 2026 Windows security update [..], some customers using File History, might be unable to create or update backups,\" Microsoft said. \"File History, available through Control Panel > System and Security > File History, is used to back up files to an external drive or network location.\" On Tuesday, Microsoft said the known issue has been fixed for Windows 11 customers and is rolling out with this month's KB5124006 and KB5124010 optional cumulative updates for devices running Windows 11 26H1 and Windows 11 24H2/25H2, respectively. \"This update addresses an issue where File History might fail to back up or restore files to an external drive or network location,\" Microsoft said. \"We recommend you install the latest update for your device as it contains important improvements and issue resolutions, including this one.\" Windows users who don't want to install the optional updates will get the fix with next month's Patch Tuesday updates, which will roll out on October 13. One week ago, Microsoft also released out-of-band updates to fix Hyper-V problems , Remote Desktop Services failures , and USB audio issues triggered by the September Patch Tuesday security updates. Days later, it also shared a temporary fix for a bug that prevents some Windows 11 users from logging in with valid domain credentials after installing the same buggy updates. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Microsoft: September updates break File History backup feature Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts Microsoft: September updates cause RDS failures on Windows Server Microsoft asks users to ignore 'Antivirus is turned off' errors Microsoft: September Windows updates break Always On VPN connections ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Microsoft reminds admins to migrate Entra ID users to passkeys New Windows Defender zero-day blocks Microsoft antivirus updates Automate Onboarding and Access Reviews with No-Code IGA: See how it works Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. File History , introduced in Windows 8 and later replaced by Windows Backup , automatically backs up the user's account profile (Documents, Music, Pictures, Videos, and Desktop) to an external hard drive, such as a USB flash drive, or a network storage location (NAS) and then lets them restore accidentally deleted or damaged files using an older version from hours, days, or weeks ago. In a Saturday service alert seen by BleepingComputer, Microsoft warned that the automated backup feature might stop working after installing this month's security updates and triggering application crash events in Event Viewer referencing FileHistory.exe and KERNELBASE.dll. On impacted systems running Windows 10 21H2 or later, Windows 10 Enterprise LTSC 2016/2019, and Windows 11 23H2 and later, users are also seeing \"Reconnect your drive\" alerts even though compatible backup drives are connected and working properly. Other symptoms include previously backed-up files showing \"No previous version available\" and the \"Last Backup\" timestamp not updating. \"After installing the September 2026 Windows security update [..], some customers using File History, might be unable to create or update backups,\" Microsoft said. \"File History, available through Control Panel > System and Security > File History, is used to back up files to an external drive or network location.\" On Tuesday, Microsoft said the known issue has been fixed for Windows 11 customers and is rolling out with this month's KB5124006 and KB5124010 optional cumulative updates for devices running Windows 11 26H1 and Windows 11 24H2/25H2, respectively. \"This update addresses an issue where File History might fail to back up or restore files to an external drive or network location,\" Microsoft said. \"We recommend you install the latest update for your device as it contains important improvements and issue resolutions, including this one.\" Windows users who don't want to install the optional updates will get the fix with next month's Patch Tuesday updates, which will roll out on October 13. One week ago, Microsoft also released out-of-band updates to fix Hyper-V problems , Remote Desktop Services failures , and USB audio issues triggered by the September Patch Tuesday security updates. Days later, it also shared a temporary fix for a bug that prevents some Windows 11 users from logging in with valid domain credentials after installing the same buggy updates. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Microsoft: September updates break File History backup feature Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts Microsoft: September updates cause RDS failures on Windows Server Microsoft asks users to ignore 'Antivirus is turned off' errors Microsoft: September Windows updates break Always On VPN connections ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach New Windows Defender zero-day blocks Microsoft antivirus updates Microsoft: September Windows updates break Always On VPN connections Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -5055,55 +5490,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/apache-tomcat-update/"
-      }
-    ]
-  },
-  {
-    "id": "c1f18180d395c79a",
-    "date": "2026-09-24T03:50:11+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33364",
-    "target": "ISC Stormcast Thursday September",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33364"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33356"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33354"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33350"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33342"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33346"
       }
     ]
   },
@@ -26422,383 +26808,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/nintendo-switch-code-execution-flaw/"
-      }
-    ]
-  },
-  {
-    "id": "36e5a14401dbc7cf",
-    "date": "2026-09-14T16:15:58+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-    "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
-    "article_text": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. The operation leverages an exploit for CVE-2026-39364, a high-severity vulnerability that allows bypassing file read/access controls in Vite versions 7.1.0 through 7.3.2, as well as the 8.x branch before 8.0.5. The flaw was disclosed on April 7 and allows an unauthenticated attacker to manipulate query parameters in an HTTP GET request to bypass security restrictions and retrieve files in plaintext from locations that should normally be out of their reach. Technology company F5 detected the attacks through its honeypot sensors, observing more than 800 attacks and approximately 32,000 raw events over a month. “When specific parameters such as ?raw, ?import&raw, or ?import&url&inline are appended to a request, the server fails to enforce deny-list filtering and serves the target file with an HTTP 200 response,” F5 explains. After breaching a system, the scanning focused on valuable secrets by using extensive wordlists for the following types of data: F5 notes that the operation also tried traversal and encoding variants, including double-encoded traversal sequences, apparently to get past reverse proxies or WAF normalization. Most of the observed malicious activity originated from the United States, Belgium, and the Netherlands, with the attackers using Google Cloud IP ranges for evasion. The most active IP addresses also leveraged other access control flaws in Vite: CVE-2025-30208, CVE-2025-31125 ( flagged as actively exploited ), and CVE-2024-45811. Although Vite normally binds to localhost, F5 researchers say that developers often expose it online through passing the --host flag, setting the server.host, or misconfigured Docker port mappings. The technology company recommends updating Vite servers to the latest version, which addresses the exploited flaws. Developers should also block access through port 5173, block suspicious /@fs/ requests, and avoid trusting crawler User-Agent strings. The top sources for the malicious attempts are 34.14.15[.]105, 34.16.200[.]129, and 34.11.196[.]206, which should be blocklisted. If unpatched Vite servers were publicly exposed, it is recommended to rotate all secrets in the reach of the vulnerable system. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Hundreds of leaked AWS keys give full control over corporate accounts whoAMI attacks give hackers code execution on Amazon EC2 instances Japan's Digital Agency says VPN flaw exposed 246,000 personnel records CISA: Hackers now exploit max severity GitLab flaw in attacks Hackers exploit Tencent app flaw to deploy GrayRabbit malware Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent Hackers exploit Tencent app flaw to deploy GrayRabbit malware Microsoft: September updates cause RDS failures on Windows Server Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Overdue a password health-check? Audit your Active Directory for free Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Patch automation needs more than speed. Action1 brings control into every stage of deployment. EtherHiding Malware on macOS: How Attackers Hide C2 on the Blockchain Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-    "target": "Vite AWS",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/"
-      }
-    ]
-  },
-  {
-    "id": "69f4f26dcede01fd",
-    "date": "2026-09-14T16:15:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Pro-Ukraine Hacking Cat group deploying new malware against Russian targets",
-    "summary": "The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said.",
-    "article_text": "",
-    "quick_summary": [
-      "The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/ukraine-malware-russia-ransomware",
-    "target": "Pro-Ukraine Cat Russian",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/ukraine-malware-russia-ransomware"
-      }
-    ]
-  },
-  {
-    "id": "5e550426c86526a2",
-    "date": "2026-09-14T16:11:38+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft Offers Up to $30,000 for Critical AI Flaws in Dynamics 365 and Power Platform",
-    "summary": "Microsoft is offering security researchers up to $30,000 for finding critical AI vulnerabilities in Dynamics 365 and Power Platform, sharpening its focus on flaws that could manipulate AI inference or expose information through model behavior. The program covers qualifying bugs in Microsoft-hosted services and third-party or open-source components embedded in them, provided researchers demonstrate a […] The post Microsoft Offers Up to $30,000 for Critical AI Flaws in Dynamics 365 and Power Platform appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Microsoft is offering security researchers up to $30,000 for finding critical AI vulnerabilities in Dynamics 365 and Power Platform, sharpening its focus on flaws that could manipulate AI inference or expose information ",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/microsoft-ai-bug-bounty/",
-    "target": "Microsoft Offers 30000 Critical",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/microsoft-ai-bug-bounty/"
-      }
-    ]
-  },
-  {
-    "id": "cd708da06e0c561a",
-    "date": "2026-09-14T16:02:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Hundreds of fake government websites target users in Central Asia",
-    "summary": "The sites are designed to collect victims’ contact details, which scammers then use to target them through phone or email to steal money, personal information or gain access to their devices.",
-    "article_text": "",
-    "quick_summary": [
-      "The sites are designed to collect victims’ contact details, which scammers then use to target them through phone or email to steal money, personal information or gain access to their devices.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/hundreds-of-fake-gov-websites-central-asia-scam",
-    "target": "Hundreds Central",
-    "type": "Phishing / Scam",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/hundreds-of-fake-gov-websites-central-asia-scam"
-      }
-    ]
-  },
-  {
-    "id": "8f4f8656b8dfe941",
-    "date": "2026-09-14T16:00:04+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-    "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the directory, but updates ship continuously after that,\" David Perez, WordPress Official Plugin",
-    "article_text": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the directory, but updates ship continuously after that,\" David Perez, WordPress Official Plugin Repository Team Co-Lead, said . \"A plugin can be secure today and introduce a vulnerability, or malicious code, in a future release.\" WordPress said the lack of a \"consistent review step\" between the commit of a release and the release of a plugin to downstream users meant that it could open the door for malicious attacks. The content management system (CMS) platform noted that its automated review detected a backdoor committed to a release of a plugin with about 20,000 active installations on July 28, 2026. Because the release was within a cooldown window, the compromised version of the plugin never ended up getting distributed through the WordPress.org update API. The plugin was closed for downloads 26 minutes after the Plugins Team was alerted to the update by WordPress security company Wordfence. WordPress did not disclose the name of the plugin. Since June 5, 2026, every WordPress plugin and theme goes through a cooldown period before being distributed through auto-updates as part of a new security initiative called Protect The Shire. The idea is to introduce some friction to the process so that malicious updates do not reach end users immediately. The cooldown period is currently at six hours, down from 24 hours when it was first introduced. The latest effort aims to close another critical security gap: a high-risk score for a plugin or theme release should automatically halt distribution without involvement from the Plugins Team. The entire process goes through the following steps - That said, it's worth noting that a high risk score does not necessarily indicate malicious intent, as the score also takes into account inadvertently introduced security flaws just as it flags intentional malware. In a follow-up comment, Perez elaborated that the security review \"looks for the same vulnerability classes any security audit looks for,\" urging developers to follow WordPress Coding Standards and PHP_CodeSniffer ( PHPCS ) rules to validate their code and ensure code quality. Developers publishing WooCommerce extensions are recommended to use the Quality Insights Toolkit ( QIT ) testing platform. Other patterns that could also drive the risk score up are below - Once a release is blocked, the only way for the developer to get the restrictions removed is to review the findings, fix the issues, and publish a new release. Should the new release score below the high-risk threshold, it continues through the normal cooldown process. \"If a finding looks incorrect, authors can contact the Plugins Team,\" Perez said. \"Please understand that the team handles a high volume of reviews, so publishing a fixed release is almost always faster than waiting for a manual review of an appeal.\" See how to test new CVEs against your environment, confirm what attackers can actually exploit, and fix the exposures that pose the greatest risk. Learn how to identify exploitable risk faster, prioritize what matters most, and reduce exposure before AI-powered attacks accelerate the threat. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure ",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-    "target": "WordPress Adds Automated Plugin",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html"
-      }
-    ]
-  },
-  {
-    "id": "49f52c7162b4894b",
-    "date": "2026-09-14T15:14:39+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "AWS Systems Manager Agent Vulnerability Allows Attackers to Bypass Port-Forwarding Restrictions",
-    "summary": "A critical vulnerability in the AWS Systems Manager Agent could let authenticated attackers bypass remote-host port-forwarding restrictions and access sensitive link-local services, including the Amazon EC2 Instance Metadata Service. The flaw, tracked as CVE-2026-89049, affects Amazon SSM Agent versions earlier than 3.3.4851.0 and has been fixed in version 3.3.4851.0. AWS Systems Manager Agent runs on […] The post AWS Systems Manager Agent Vulnerability Allows Attackers to Bypass Port-Forwarding Restrictions appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A critical vulnerability in the AWS Systems Manager Agent could let authenticated attackers bypass remote-host port-forwarding restrictions and access sensitive link-local services, including the Amazon EC2 Instance Meta",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/aws-systems-manager-agent-vulnerability/",
-    "target": "AWS Systems Manager Agent",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/aws-systems-manager-agent-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "0c349cd18d6e13a9",
-    "date": "2026-09-14T14:28:26+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
-    "summary": "China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI. The post Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "China’s Ministry of Foreign Affairs responded to a question about Amodei’s essay by saying that all parties should work together on AI.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
-    "target": "Beijing Hits Back Anthropic",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/"
-      }
-    ]
-  },
-  {
-    "id": "ce4a81c80937c8f9",
-    "date": "2026-09-14T14:01:11+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-    "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing control. [...]",
-    "article_text": "The pace at which software changes is increasing, while the time available to IT teams to evaluate those changes is not. The count and frequency of updates are both increasing, with no clear sign of slowing down anytime soon. New vulnerabilities are disclosed every day. Vendors release fixes on their own schedules. Browsers, operating systems, applications, and infrastructure all produce updates that need attention. Meanwhile, the teams responsible for analyzing and deploying them are often dealing with limited staff, competing priorities, increasingly complex environments, and policies from a simpler age. The result is predictable: the backlog grows. And when it happens, organizations start making trade-offs out of necessity. Testing time gets compressed. Review gets skimmed or skipped. Updates that ideally would spend time in a controlled test environment move directly into production because waiting another week may leave a known exposure open for another week, and the risk is too great. Sometimes there is a legitimate argument behind that decision. A failure you control is generally preferable to a failure induced by an attacker. But that does not mean the answer is to become reckless about deployment. Pressing times sometimes call for hasty decisions. What you can control, however, is how those pressures affect the parts of the process that remain within your control. Automation can produce failure at least as quickly as success. A common way to think about patch automation is simple: find the update, approve it, deploy it, and do it faster. While that solves one part of the problem, it introduces another, more complex one in the process. If automation allows an update to reach 10,000 endpoints faster, it also allows a bad update to reach 10,000 endpoints faster. The problem, therefore, is not automation. Problems begin when you start treating speed as the primary measure of automation. Good patch automation needs an accelerator, but it also needs brakes. Those brakes determine where an update goes, when it gets there, what happens before it moves farther, and when deployment should stop. Automation is only useful as long as it remains effective. Once effectiveness fails, it takes efficiency away, not creating it. The traditional answer to patch testing has generally been a test lab. That is still useful, but no lab can reproduce every combination of hardware, software, configuration, and user behavior found across a production environment. And while everyone has a test environment, not everyone is fortunate enough to have one entirely independent of production systems. Since we all contend with that to some degree, a better approach is to make controlled production deployment part of the validation process. This is where business context and intimate infrastructure knowledge are critical. Think about the process you are automating. There is far more to it than sending a file and executing it. End to end, the process involves many decisions, along with knowledge and experience specific to your environment. That needs to be automated too, or you are simply accelerating execution, not processes. Start small. Perhaps, with IT staff, a representative collection of endpoints, or systems that reflect some of the more complicated configurations in the environment. Success starts with planning and ends with a desired outcome, so establish upfront what success looks like. What does an automation do, to what, and when? What is the desired outcome? And where are the brakes if it deviates from the path to success? Did the update apply successfully? Did endpoints remain healthy? Did applications continue functioning? Did failure rates stay within an acceptable threshold? Only after those conditions are met should the update move to a larger group. This is the fundamental idea behind staged deployment, or update rings. Instead of making one binary decision — deploy everywhere or don't deploy — the organization creates a progression of increasingly larger groups. The important part is that this progression should not have to depend on someone's judgment every time. It can be governed by predefined criteria for when to proceed and when to stop because conditions no longer meet the expected baseline. That is where automation becomes considerably more useful. Automate every decision you can define. If it requires human judgment, keep it. But anything you do the same way more than twice is just wasted time. There is a temptation t",
-    "quick_summary": [
-      "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-    "target": "Patch Automation Needs Brakes",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/"
-      }
-    ]
-  },
-  {
-    "id": "2e411e5fa179f0fd",
-    "date": "2026-09-14T13:50:00+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Malicious Twitch Extension Exposes OAuth Tokens of 30,000 Chrome and Firefox Users",
-    "summary": "A browser extension promoted as a Twitch viewing helper has been found sending live account tokens through servers controlled by its operator. The add-on, called “Twitch Enhanced Viewer | JeetBot,” was available to Chrome and Firefox users and advertised conveniences such as ad blocking, higher-quality playback, region-unlocked streams, and automatic channel-point collection. The risk sits […] The post Malicious Twitch Extension Exposes OAuth Tokens of 30,000 Chrome and Firefox Users appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A browser extension promoted as a Twitch viewing helper has been found sending live account tokens through servers controlled by its operator.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/malicious-twitch-extension/",
-    "target": "Malicious Twitch Extension Exposes",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/malicious-twitch-extension/"
-      }
-    ]
-  },
-  {
-    "id": "73a5081d2f840b97",
-    "date": "2026-09-14T13:40:09+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "WhatsApp’s New Restricted Chat Feature Locks Conversation on Your Primary Phone",
-    "summary": "WhatsApp is developing a new privacy control called Restricted Chat that will keep selected conversations accessible only from a user’s primary mobile phone. The feature is designed to prevent protected chats from syncing to WhatsApp Web, desktop sessions, and secondary phones linked to the same account. WhatsApp identified the capability in Android beta version 2.26.36.5. […] The post WhatsApp’s New Restricted Chat Feature Locks Conversation on Your Primary Phone appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "WhatsApp is developing a new privacy control called Restricted Chat that will keep selected conversations accessible only from a user’s primary mobile phone.",
-      "Risk: credentials/infostealer risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/whatsapps-new-restricted-chat-feature/",
-    "target": "WhatsApps Restricted Chat Feature",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/whatsapps-new-restricted-chat-feature/"
-      }
-    ]
-  },
-  {
-    "id": "a97236de04645682",
-    "date": "2026-09-14T13:33:25+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Cyclops Blink Evolves Into x86-64 Linux Implant With Packet Sniffing and Internal Network Scanning",
-    "summary": "Cyclops Blink has returned in a form that gives attackers a deeper view inside corporate networks. The malware was found on compromised Cisco Firewall Management Center devices, where it can maintain remote access, inspect traffic, and map systems behind the network edge. The activity is concerning because management appliances occupy trusted positions. Recent reporting that […] The post Cyclops Blink Evolves Into x86-64 Linux Implant With Packet Sniffing and Internal Network Scanning appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Cyclops Blink has returned in a form that gives attackers a deeper view inside corporate networks.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/cyclops-blink-evolves/",
-    "target": "Cyclops Blink Evolves x86-64",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/cyclops-blink-evolves/"
-      }
-    ]
-  },
-  {
-    "id": "e2c8f7605be476ff",
-    "date": "2026-09-14T13:31:15+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
-    "summary": "Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims. The post New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
-    "target": "Warnings Risks Humanity",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/"
-      }
-    ]
-  },
-  {
-    "id": "418eda01494bf768",
-    "date": "2026-09-14T13:29:59+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New ZcopyReaper Linux Kernel Vulnerability Enables Privilege Escalation Attacks",
-    "summary": "A new Linux kernel vulnerability dubbed ZcopyReaper allows an unprivileged local attacker to escalate privileges and potentially gain root-level control. Tracked as CVE-2026-43502, the flaw was demonstrated through an exploit called ZcopyReaper by security researchers at NebuSec. This vulnerability affects the Reliable Datagram Sockets (RDS) zero-copy send path and has existed in the kernel since Linux version […] The post New ZcopyReaper Linux Kernel Vulnerability Enables Privilege Escalation Attacks appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A new Linux kernel vulnerability dubbed ZcopyReaper allows an unprivileged local attacker to escalate privileges and potentially gain root-level control.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/zcopyreaper-linux-kernel-vulnerability/",
-    "target": "ZcopyReaper Linux Kernel Vulnerability",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/zcopyreaper-linux-kernel-vulnerability/"
       }
     ]
   }
