@@ -1,7 +1,7 @@
 [
   {
     "id": "930c2dc80127f60a",
-    "date": "2026-09-26T07:40:25.341724+00:00",
+    "date": "2026-09-26T13:04:49.382328+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "44317c04c18a2ba8",
-    "date": "2026-09-26T07:40:25.341604+00:00",
+    "date": "2026-09-26T13:04:49.382245+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "1ec8120fa644ae2b",
-    "date": "2026-09-26T07:40:25.341466+00:00",
+    "date": "2026-09-26T13:04:49.382162+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -92,7 +92,7 @@
   },
   {
     "id": "4917c8e1cd171755",
-    "date": "2026-09-26T07:40:25.341357+00:00",
+    "date": "2026-09-26T13:04:49.382085+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -121,7 +121,7 @@
   },
   {
     "id": "4696e6d7b8d67729",
-    "date": "2026-09-26T07:40:25.341246+00:00",
+    "date": "2026-09-26T13:04:49.382007+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -150,7 +150,7 @@
   },
   {
     "id": "509f99e1a2ce10a2",
-    "date": "2026-09-26T07:40:25.341127+00:00",
+    "date": "2026-09-26T13:04:49.381923+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -178,42 +178,8 @@
     ]
   },
   {
-    "id": "8d4ae1f56b664825",
-    "date": "2026-09-26T07:40:25.341011+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Carbonato: The Botnet That Weapons AI Agents Against Exposed Docker Hosts CYBERSEC",
-    "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-    "article_text": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. The malware features worm-like capabilities and was discovered in an unauthenticated Docker registry that contained nearly 60 repositories and 4.3 GB of image data. ThreatDown researchers at cybersecurity company Malwarebytes retrieved operational evidence spanning October 2024 to August 2026. The archive also included details about the botnet and a separate campaign that distributed counterfeit cryptocurrency wallet apps. According to Malwarebytes, Carbonato spreads across Docker hosts with an API exposed on port 2375 without authentication. The malware connects to that API and instructs the daemon to launch a privileged container, giving it access to the host. It then opens a reverse SSH tunnel, installs an SSH server with the operators’ key, and reports the new deployment through Telegram. At the same time, scripts set up cron jobs, systemd timers, rc.local, and OpenRC hooks for persistence. One notable aspect of the attack is that the AI agent framework Hermes Agent is installed on the hosts, using an agent named “GH0ST,” with instructions that overwrite the default ‘SOUL.md’ persona file. Hermes has been extensively abused in malicious cyber-operations recently . Recently, cybersecurity company Gambit documented a large-scale card-skimming operation that stole 600.000 credit card details . In the case of Carbonato, Hermes handles task commands received through Telegram, including collecting AI API keys, SSH credentials, access tokens, and other data, running commands, and sending back the results. The researchers describe this as an operator-driven process involving an “interactive command loop” exchange. “The​ ​model​ ​interprets​ ​the​ ​task,​ ​writes​ ​terminal​ ​commands,​ ​reads​ ​the​ ​output,​ ​and​ ​decides​​ what ​​to​​ do ​​next,” ThreatDown researchers note . “​The​​ agent ​​runs ​​those​​ commands ​​on ​​the ​​victim​​ and​ ​returns​ ​its​ ​report​ ​to​ ​the​ ​Telegram​ ​chat​ ​that​ ​also​ ​receives​ ​deployment​ ​reports.​​” The malware’s worm-like capability allow it to spread to other exposed Docker daemons and is handled by scripts that scan networks attached to the host every five minutes. Each new compromise pulls the implant from the registry, launches the same privileged container, and enters the persistence and scanning loop. ThreatDown could not attribute Carbonato to any known threat clusters, but based on various evidence, points to Costa Rica as a possible location of the operator. To prevent infection, the researchers recommend keeping Docker daemon APIs off the network and requiring authentication on registries. Signs of Carbonato attacks include a GH0ST persona file, the CARBONATO_API_KEY setting, unexpected Telegram traffic, and reverse SSH tunnels toward AS262145. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. New ClosedQuorum Windows malware uses AI for attack decisions New RatHat Android malware uses AI to automate device control Spain's data agency gets first report of AI-powered data breach AI-powered attack exploited PaperCut flaws to hack 395 organizations ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Microsoft reminds admins to migrate Entra ID users to passkeys New Windows Defender zero-day blocks Microsoft antivirus updates Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/carbonato-the-botnet-that-weapons-ai-agents-against-exposed-docker-hosts",
-    "target": "Carbonato",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews",
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/carbonato-the-botnet-that-weapons-ai-agents-against-exposed-docker-hosts"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/"
-      }
-    ]
-  },
-  {
     "id": "306f8ef890aeede2",
-    "date": "2026-09-26T07:40:25.340892+00:00",
+    "date": "2026-09-26T13:04:49.381838+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -242,7 +208,7 @@
   },
   {
     "id": "2681ea3691a73c2b",
-    "date": "2026-09-26T07:40:25.340730+00:00",
+    "date": "2026-09-26T13:04:49.381717+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -271,7 +237,7 @@
   },
   {
     "id": "557ce71ee6b4561b",
-    "date": "2026-09-26T07:40:25.340597+00:00",
+    "date": "2026-09-26T13:04:49.381624+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -300,7 +266,7 @@
   },
   {
     "id": "524ddff067e74358",
-    "date": "2026-09-26T07:40:25.340436+00:00",
+    "date": "2026-09-26T13:04:49.381527+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -329,7 +295,7 @@
   },
   {
     "id": "67eaf450e1bae23b",
-    "date": "2026-09-26T07:40:25.340306+00:00",
+    "date": "2026-09-26T13:04:49.381436+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -357,13 +323,13 @@
     ]
   },
   {
-    "id": "180c900e8666b25b",
-    "date": "2026-09-26T07:40:25.339678+00:00",
+    "id": "1634848e4d8941af",
+    "date": "2026-09-26T13:04:49.381331+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "malware PamStealer Wavel: The C2 Becomes the Cryptographic Key, Static Analysis Hits a Wall Sep 25, 2026",
+    "title": "PamStealer Wavel: The C2 Becomes the Cryptographic Key, Static Analysis Hits a Wall malware",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -387,7 +353,7 @@
   },
   {
     "id": "8cfbaf3838f205a4",
-    "date": "2026-09-26T07:40:25.339539+00:00",
+    "date": "2026-09-26T13:04:49.380826+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -415,13 +381,13 @@
     ]
   },
   {
-    "id": "3a1d6e3d23676915",
-    "date": "2026-09-26T07:40:25.339116+00:00",
+    "id": "d53a1c45844fd075",
+    "date": "2026-09-26T13:04:49.380543+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "AI Sandbox Escapes: The Paradox of Guardrails That Block Defenders",
+    "title": "CYBERSEC AI Sandbox Escapes: The Paradox of Guardrails That Block Defenders Sep 26, 2026",
     "summary": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
     "article_text": "",
     "quick_summary": [
@@ -430,12 +396,11 @@
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/ai-sandbox-escapes-the-paradox-of-guardrails-that-block-defenders",
-    "target": "Sandbox Escapes",
+    "target": "CYBERSEC Sandbox Escapes",
     "type": "General Cybersecurity",
     "severity": "Low",
     "sources": [
-      "DeafNews",
-      "Dark Reading"
+      "DeafNews"
     ],
     "links": [
       {
@@ -449,8 +414,37 @@
     ]
   },
   {
+    "id": "00985b3f9d3bfe0b",
+    "date": "2026-09-26T13:04:49.380433+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "x47.c: The Botnet That Burns AI Credits Without Touching Victim Servers",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/x47c-the-botnet-that-burns-ai-credits-without-touching-victim-servers",
+    "target": "x47.c",
+    "type": "Malware",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/x47c-the-botnet-that-burns-ai-credits-without-touching-victim-servers"
+      }
+    ]
+  },
+  {
     "id": "3a83d78c68ffe0ac",
-    "date": "2026-09-26T07:40:25.338941+00:00",
+    "date": "2026-09-26T13:04:49.380247+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -479,7 +473,7 @@
   },
   {
     "id": "6533f03d16ee4a97",
-    "date": "2026-09-26T07:40:24.585369+00:00",
+    "date": "2026-09-26T13:04:48.618596+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -579,37 +573,8 @@
     ]
   },
   {
-    "id": "766fb109e7508d3b",
-    "date": "2026-09-26T07:40:23.723955+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft and UK Police Dismantle AI-Powered 'EvilTokens' Phishing Service",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/microsoft-and-uk-police-dismantle-ai-powered-eviltokens-phishing-service/638544/",
-    "target": "Microsoft Police Dismantle AI-Powered",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/microsoft-and-uk-police-dismantle-ai-powered-eviltokens-phishing-service/638544/"
-      }
-    ]
-  },
-  {
     "id": "684fb15c49925c8f",
-    "date": "2026-09-26T07:40:23.723824+00:00",
+    "date": "2026-09-26T13:04:47.857746+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -638,7 +603,7 @@
   },
   {
     "id": "ea26aa0c6afd4464",
-    "date": "2026-09-26T07:40:23.723700+00:00",
+    "date": "2026-09-26T13:04:47.857662+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -667,7 +632,7 @@
   },
   {
     "id": "c49486b4aaf71150",
-    "date": "2026-09-26T07:40:23.723559+00:00",
+    "date": "2026-09-26T13:04:47.857566+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -696,7 +661,7 @@
   },
   {
     "id": "617da6fb2cf529ac",
-    "date": "2026-09-26T07:40:23.723401+00:00",
+    "date": "2026-09-26T13:04:47.857483+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -725,7 +690,7 @@
   },
   {
     "id": "58ec58fb7d0f6d1f",
-    "date": "2026-09-26T07:40:23.723268+00:00",
+    "date": "2026-09-26T13:04:47.857394+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -753,8 +718,37 @@
     ]
   },
   {
+    "id": "cfebdfd08efd4bb6",
+    "date": "2026-09-26T13:04:47.857261+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hacker ‘IamNotAVillain’ Leaks 150 GB of Alleged Italian Government Data",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/hacker-iamnotavillain-leaks-150-gb-of-alleged-italian-government-data/638643/",
+    "target": "IamNotAVillain Leaks 150 Alleged",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/hacker-iamnotavillain-leaks-150-gb-of-alleged-italian-government-data/638643/"
+      }
+    ]
+  },
+  {
     "id": "520fcc6d930148d9",
-    "date": "2026-09-26T07:40:23.723012+00:00",
+    "date": "2026-09-26T13:04:47.857088+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -783,7 +777,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-09-26T07:40:23.722853+00:00",
+    "date": "2026-09-26T13:04:47.856976+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -812,7 +806,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-09-26T07:40:23.722709+00:00",
+    "date": "2026-09-26T13:04:47.856878+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -841,7 +835,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-09-26T07:40:23.722550+00:00",
+    "date": "2026-09-26T13:04:47.856774+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -870,7 +864,7 @@
   },
   {
     "id": "1a87663ef973d472",
-    "date": "2026-09-26T07:40:23.722330+00:00",
+    "date": "2026-09-26T13:04:47.856633+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -899,7 +893,7 @@
   },
   {
     "id": "f29feab6f4f0ee32",
-    "date": "2026-09-26T07:40:23.722182+00:00",
+    "date": "2026-09-26T13:04:47.856529+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -928,7 +922,7 @@
   },
   {
     "id": "824b78ae23ccefa5",
-    "date": "2026-09-26T07:40:23.721857+00:00",
+    "date": "2026-09-26T13:04:47.856283+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -957,7 +951,7 @@
   },
   {
     "id": "948ec72c6df6739b",
-    "date": "2026-09-26T07:40:23.721714+00:00",
+    "date": "2026-09-26T13:04:47.856183+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -986,7 +980,7 @@
   },
   {
     "id": "6b6ac0d8430f7f6e",
-    "date": "2026-09-26T07:40:23.721575+00:00",
+    "date": "2026-09-26T13:04:47.856091+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1015,7 +1009,7 @@
   },
   {
     "id": "82a693415895e590",
-    "date": "2026-09-26T07:40:23.721399+00:00",
+    "date": "2026-09-26T13:04:47.855985+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1044,7 +1038,7 @@
   },
   {
     "id": "be20f068fa081368",
-    "date": "2026-09-26T07:40:23.721237+00:00",
+    "date": "2026-09-26T13:04:47.855871+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1073,7 +1067,7 @@
   },
   {
     "id": "28f7af3ff98af5e2",
-    "date": "2026-09-26T07:40:23.721084+00:00",
+    "date": "2026-09-26T13:04:47.855767+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1101,37 +1095,8 @@
     ]
   },
   {
-    "id": "cfebdfd08efd4bb6",
-    "date": "2026-09-26T07:40:23.720888+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hacker ‘IamNotAVillain’ Leaks 150 GB of Alleged Italian Government Data",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/hacker-iamnotavillain-leaks-150-gb-of-alleged-italian-government-data/638643/",
-    "target": "IamNotAVillain Leaks 150 Alleged",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/hacker-iamnotavillain-leaks-150-gb-of-alleged-italian-government-data/638643/"
-      }
-    ]
-  },
-  {
     "id": "6edbf865772ebd6b",
-    "date": "2026-09-26T07:40:23.720728+00:00",
+    "date": "2026-09-26T13:04:47.855630+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1160,7 +1125,7 @@
   },
   {
     "id": "6b10de9005e36428",
-    "date": "2026-09-26T07:40:23.720576+00:00",
+    "date": "2026-09-26T13:04:47.855527+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1189,7 +1154,7 @@
   },
   {
     "id": "f190b9c749fa644c",
-    "date": "2026-09-26T07:40:23.720359+00:00",
+    "date": "2026-09-26T13:04:47.855391+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1217,8 +1182,65 @@
     ]
   },
   {
+    "id": "1b667c5aedbe58a3",
+    "date": "2026-09-26T13:04:47.855273+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Weekly Cybersecurity Roundup: 'Super' AI Takes Bigger Roles as Money, Malware and Policy Follow",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/weekly-cybersecurity-roundup-super-ai-takes-bigger-roles-as-money-malware-and-policy-follow/639028/",
+    "target": "Weekly Roundup",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-super-ai-takes-bigger-roles-as-money-malware-and-policy-follow/639028/"
+      },
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-take-it-down-makes-history-as-ai-tests-security-boundaries/636732/"
+      },
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-the-fight-against-cyber-threats-moves-on-several-fronts/634301/"
+      },
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-how-stolen-credentials-continue-to-fuel-fraud/633831/"
+      },
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-ai-reshapes-the-internet-as-authorities-disrupt-crime-and-cities-fortify-defences/633240/"
+      },
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-entering-an-era-when-ai-agents-take-unapproved-paths-as-security-teams-race-to-trace-them/633140/"
+      },
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-ransom-denials-streaming-crackdowns-and-evolving-risks/631908/"
+      },
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-dormant-code-record-patches-and-ai-on-both-sides-of-security/631445/"
+      }
+    ]
+  },
+  {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-09-26T07:40:23.716629+00:00",
+    "date": "2026-09-26T13:04:47.851830+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1247,7 +1269,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-09-26T07:40:23.715577+00:00",
+    "date": "2026-09-26T13:04:47.851072+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1276,7 +1298,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-09-26T07:40:23.715270+00:00",
+    "date": "2026-09-26T13:04:47.850862+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1304,37 +1326,8 @@
     ]
   },
   {
-    "id": "41f0718f93cc1c67",
-    "date": "2026-09-26T07:40:23.629257+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/",
-    "target": "ZTE SmartHome Account Takeover",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/"
-      }
-    ]
-  },
-  {
     "id": "ab0b25280fb4518a",
-    "date": "2026-09-26T07:40:23.629103+00:00",
+    "date": "2026-09-26T13:04:47.637244+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1363,7 +1356,7 @@
   },
   {
     "id": "677a243fe8062953",
-    "date": "2026-09-26T07:40:23.628953+00:00",
+    "date": "2026-09-26T13:04:47.637151+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1392,7 +1385,7 @@
   },
   {
     "id": "22f61965eb72f7ca",
-    "date": "2026-09-26T07:40:23.628828+00:00",
+    "date": "2026-09-26T13:04:47.637071+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1421,7 +1414,7 @@
   },
   {
     "id": "08b51f852fa7c9f9",
-    "date": "2026-09-26T07:40:23.628706+00:00",
+    "date": "2026-09-26T13:04:47.636992+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1450,7 +1443,7 @@
   },
   {
     "id": "340cb7fe68c56b32",
-    "date": "2026-09-26T07:40:23.628579+00:00",
+    "date": "2026-09-26T13:04:47.636915+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1479,7 +1472,7 @@
   },
   {
     "id": "179b308471c86534",
-    "date": "2026-09-26T07:40:23.628408+00:00",
+    "date": "2026-09-26T13:04:47.636824+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1508,7 +1501,7 @@
   },
   {
     "id": "b369fd70e0b6cc94",
-    "date": "2026-09-26T07:40:23.628264+00:00",
+    "date": "2026-09-26T13:04:47.636727+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1537,7 +1530,7 @@
   },
   {
     "id": "148d70f4b48af49d",
-    "date": "2026-09-26T07:40:23.628127+00:00",
+    "date": "2026-09-26T13:04:47.636639+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1566,7 +1559,7 @@
   },
   {
     "id": "dee567bbe7e1a72b",
-    "date": "2026-09-26T07:40:23.627993+00:00",
+    "date": "2026-09-26T13:04:47.636554+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1594,37 +1587,8 @@
     ]
   },
   {
-    "id": "4539b9cb561f99d1",
-    "date": "2026-09-26T07:40:23.627859+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Compromising OBS Studio with a Twitch chat message.",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Compromising OBS Studio with a Twitch chat message.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wohssy/compromising_obs_studio_with_a_twitch_chat_message/",
-    "target": "Compromising OBS Studio Twitch",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wohssy/compromising_obs_studio_with_a_twitch_chat_message/"
-      }
-    ]
-  },
-  {
     "id": "c7a91abff2298e71",
-    "date": "2026-09-26T07:40:23.627719+00:00",
+    "date": "2026-09-26T13:04:47.636463+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1652,22 +1616,22 @@
     ]
   },
   {
-    "id": "b075b18f0e658b26",
-    "date": "2026-09-26T07:40:23.627562+00:00",
+    "id": "4539b9cb561f99d1",
+    "date": "2026-09-26T13:04:47.636376+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
     "category": "",
-    "title": "How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail",
+    "title": "Compromising OBS Studio with a Twitch chat message.",
     "summary": "",
     "article_text": "",
     "quick_summary": [
-      "How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail",
+      "Compromising OBS Studio with a Twitch chat message.",
       "Risk: general cybersecurity update",
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wp3kdy/how_i_found_a_113337_af_alg_linux_local_privilege/",
-    "target": "Found 113337 AFALG Linux",
+    "link": "https://www.reddit.com/r/netsec/comments/1wohssy/compromising_obs_studio_with_a_twitch_chat_message/",
+    "target": "Compromising OBS Studio Twitch",
     "type": "General Cybersecurity",
     "severity": "Low",
     "sources": [
@@ -1676,13 +1640,13 @@
     "links": [
       {
         "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wp3kdy/how_i_found_a_113337_af_alg_linux_local_privilege/"
+        "url": "https://www.reddit.com/r/netsec/comments/1wohssy/compromising_obs_studio_with_a_twitch_chat_message/"
       }
     ]
   },
   {
     "id": "a6b4a5afef4098ce",
-    "date": "2026-09-26T07:40:23.627375+00:00",
+    "date": "2026-09-26T13:04:47.636281+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1710,8 +1674,37 @@
     ]
   },
   {
+    "id": "b075b18f0e658b26",
+    "date": "2026-09-26T13:04:47.636189+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "How I Found a $113,337 AF_ALG Linux Local Privilege Escalation Before Copy Fail",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wp3kdy/how_i_found_a_113337_af_alg_linux_local_privilege/",
+    "target": "Found 113337 AFALG Linux",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wp3kdy/how_i_found_a_113337_af_alg_linux_local_privilege/"
+      }
+    ]
+  },
+  {
     "id": "d60c6f45f7d63b4d",
-    "date": "2026-09-26T07:40:23.627237+00:00",
+    "date": "2026-09-26T13:04:47.636101+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1740,7 +1733,7 @@
   },
   {
     "id": "49d1b0d750ec79aa",
-    "date": "2026-09-26T07:40:23.627101+00:00",
+    "date": "2026-09-26T13:04:47.636015+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1769,7 +1762,7 @@
   },
   {
     "id": "5f2673b7e18d6fbf",
-    "date": "2026-09-26T07:40:23.626959+00:00",
+    "date": "2026-09-26T13:04:47.635931+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1798,7 +1791,7 @@
   },
   {
     "id": "76160d04e5b7eb2f",
-    "date": "2026-09-26T07:40:23.626823+00:00",
+    "date": "2026-09-26T13:04:47.635841+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1827,7 +1820,7 @@
   },
   {
     "id": "712d77ebe16b35c0",
-    "date": "2026-09-26T07:40:23.626675+00:00",
+    "date": "2026-09-26T13:04:47.635745+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1856,7 +1849,7 @@
   },
   {
     "id": "1e85d461b0c8ae5d",
-    "date": "2026-09-26T07:40:23.626533+00:00",
+    "date": "2026-09-26T13:04:47.635657+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1885,7 +1878,7 @@
   },
   {
     "id": "8723c73403ec370c",
-    "date": "2026-09-26T07:40:23.626362+00:00",
+    "date": "2026-09-26T13:04:47.635557+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1914,7 +1907,7 @@
   },
   {
     "id": "e1bd3212072f945d",
-    "date": "2026-09-26T07:40:23.626233+00:00",
+    "date": "2026-09-26T13:04:47.635474+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1943,7 +1936,7 @@
   },
   {
     "id": "63e139a63ccf8162",
-    "date": "2026-09-26T07:40:23.626096+00:00",
+    "date": "2026-09-26T13:04:47.635380+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1971,8 +1964,37 @@
     ]
   },
   {
+    "id": "82ed93a21cd7bb17",
+    "date": "2026-09-26T13:04:47.635273+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "EX-ARRR: Sailing the Apple 0-click Seas",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "EX-ARRR: Sailing the Apple 0-click Seas",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wqmb3o/exarrr_sailing_the_apple_0click_seas/",
+    "target": "EX-ARRR",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wqmb3o/exarrr_sailing_the_apple_0click_seas/"
+      }
+    ]
+  },
+  {
     "id": "d29a549c775ffe8f",
-    "date": "2026-09-26T07:40:23.625944+00:00",
+    "date": "2026-09-26T13:04:47.635170+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2013,7 +2035,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-09-26T07:40:23.625728+00:00",
+    "date": "2026-09-26T13:04:47.634988+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2041,6 +2063,330 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "9c6e4edc0e8f7935",
+    "date": "2026-09-26T12:28:41+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+    "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+    "article_text": "OpenAI has confirmed it's aware of a new security incident in which its AI agents uploaded user-provided images to third-party image-hosting services. OpenAI says most users were not affected, as it could only identify 53 incidents where agents accidentally uploaded images to the internet. The disclosure comes from OpenAI's broader investigation into misaligned agent behavior following the Hugging Face security incident . \"As part of our ongoing investigation, we have identified cases where agents in our research environment transmitted training and evaluation data while using third-party services,\" OpenAI noted in a blog post . \"This is not an appropriate use of this data, and these cases occurred before we implemented the safeguards described in our technical report.\" OpenAI says the vast majority of the affected training and evaluation data was not derived from users, but it did find 53 cases involving user-provided images. \"While the vast majority of the impacted training and evaluation data is not user-derived; we have identified 53 instances to date where user-provided images were posted to image-hosting sites as links that weren't publicly listed,\" OpenAI explained. \"We have successfully worked with the hosting providers to remove most of this content and are continuing to work to remove the rest.\" Some OpenAI training data can contain content from users who have allowed their interactions to be used for training, but the company says users who opted out were not affected. \"Any data which is not eligible for training, as controlled by users or enterprise admins, is not included,\" OpenAI said. \"For explicitness, data from enterprise or business accounts and API usage is excluded unless an admin has enabled it.\" OpenAI also says it takes additional steps before eligible user data is added to training datasets. \"Before including eligible data, we take steps to protect privacy by disassociating it from account information and using a version of the OpenAI Privacy Filter to redact personal details such as names, contact information, and account numbers.\" Following the incident, OpenAI says it strengthened its training and evaluation systems to make it harder for models to leak data through external services. \"As part of our response to our ongoing investigation, we have improved our training and evaluation processes, including building safety cases, securing and red-teaming our systems to prevent the model from exfiltrating data, and implemented additional monitoring,\" the company noted. The company is continuing to review older agent activity month by month, starting from the Hugging Face incident, so additional cases could still emerge. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor ChatGPT can now connect to your personal apps to mimic writing style OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems OpenAI says its new GPT 5.6 models are becoming more cost-efficient Microsoft: September Windows updates break Always On VPN connections Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers Windows 11 KB5124010 update released with 46 changes and fixes Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+    "target": "OpenAIs",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/"
+      }
+    ]
+  },
+  {
+    "id": "7770c63104dc8d0a",
+    "date": "2026-09-26T12:00:00+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
+    "summary": "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. The post New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+    "target": "x47.c Windows Botnet Weaponizes",
+    "type": "Malware",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/"
+      }
+    ]
+  },
+  {
+    "id": "285241887fe7e565",
+    "date": "2026-09-26T10:15:41+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+    "summary": "OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.” The post OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.” The post OpenAI Says Its Models Engaged With US Government Websites in New Model ",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+    "target": "OpenAI Its Models Engaged",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/"
+      }
+    ]
+  },
+  {
+    "id": "0de6583701202de9",
+    "date": "2026-09-26T09:55:22+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+    "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions",
+    "article_text": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions 4.3.0 and 4.3.1 of the plugin, which is active on over 10 million WordPress sites. Statistics from WordPress.org show that the two impacted versions alone have been installed on more than 2 million sites. \"One link, opened by a logged-in WordPress user, makes that user carry out any REST API action their account is permitted to perform,\" Patchstack said . \"On a stock installation, an administrator clicking the link creates a second administrator account for the attacker.\" The WordPress security company said the attack does not hinge on any prerequisite, such as JavaScript, a submitted form, or a web page under the threat actor's control. The link can even be a plain anchor tag embedded in an email, a chat message, or a comment. Following responsible disclosure, the issue has been addressed in version 4.3.2 released earlier this week. A security researcher going by the alias \"Saggre\" has been credited with discovering and reporting the bug. \"Because the request URI includes the query string, and the query string is written by whoever composes the link, any REST request can opt itself out of that protection by appending a harmless-looking parameter,\" it added. The bypass applies to the entire REST API surface of a site, including WordPress core routes and the routes of every other plugin installed on it. An attacker could exploit this loophole to create an administrator account through \"/wp/v2/users\" using a request like below - https://example.com/wp-json/wp/v2/users ?_method=POST &username=csrfadmin &email=csrfadmin%40example.test &password=... &roles%5B%5D=administrator &x=elementor/v1/events/ Because Elementor releases before 4.3.0 do not ship the Editor Events proxy, they are not affected by the flaw. Users of the plugin are advised to apply the latest update as soon as possible to counter any potential threat. AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identity controls. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+    "target": "Elementor CSRF Lets Attackers",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html"
+      }
+    ]
+  },
+  {
+    "id": "b606e922e0bf2199",
+    "date": "2026-09-26T08:49:53+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are as follows - CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint",
+    "article_text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation. As reported by The Hacker News earlier this week, CVE-2026-65660 was originally described by Microsoft as a spoofing vulnerability impacting SharePoint Server. The tech giant has since updated the advisory to state that it could be abused to obtain remote code execution. \"As of 9/25/2026, Microsoft had reliable evidence of observed attacks against exploitation of this vulnerability,\" the Windows maker noted . Microsoft hasn't disclosed who was behind the exploitation efforts, when they started, how many organizations have been targeted, how many of them have been successful, and what attackers did once inside the vulnerable service. The second vulnerability to be added to the KEV catalog is CVE-2026-67279, which has been chained along with CVE-2026-86060, an argument injection flaw in the RouterOS login process, as part of an exploit codenamed MikroTrick . The exploit chain has been employed to take full administrative control of internet-exposed susceptible routers without the need for a password, per CERT Polska. \"Combining the two vulnerabilities resulted in full unauthenticated access to the administrative console,\" the Polish cybersecurity agency said . \"CVE-2026-67279 allowed an unauthenticated client to create a session channel, while CVE-2026-86060 allowed it to supply login with an attacker-controlled policy mask.\" In a separate analysis, Bishop Fox said it was able to reproduce the complete administrative takeover on vulnerable RouterOS 7.x builds. \"MikroTrick combines two failures at different trust boundaries,\" security researcher Emilio Gallegos said . \"The first allows an unauthenticated connection to reach functionality that RouterOS should expose only after login. The second causes the login process to treat data from that connection as a trusted administrative identity.\" \"MikroTrick exposes a design risk in privileged software: a feature intended only for trusted local callers becomes a remote attack surface when an upstream component loses track of authentication state.\" It's worth noting that CISA added CVE-2026-86060 to its KEV catalog on September 11, 2026. Federal Civilian Executive Branch (FCEB) agencies have time until September 28, 2026, to apply the necessary fixes. AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identity controls. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of act",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+    "target": "SharePoint RCE MikroTik RouterOS",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
+      }
+    ]
+  },
+  {
+    "id": "39392897588909ba",
+    "date": "2026-09-26T07:48:33+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+    "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems,\" said Frank Balonis, Chief",
+    "article_text": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems,\" said Frank Balonis, Chief Information Security Officer (CISO) at Kiteworks. \"Out of an abundance of caution, we notified customers directly and recommended a precautionary shutdown window while we continue to work through the matter with federal intelligence authorities.\" The company said it has not found any evidence that its customers' systems have been compromised, emphasizing the advisory is preventative rather than a response to a confirmed hack. The development was first reported by German news publication Heise. Kiteworks did not disclose which law enforcement agency alerted the company, or who may be behind it. The American software firm said all known vulnerabilities have been addressed in its latest software release, 9.5.1, recommending that customers apply the patches for optimal protection. Other subsidiaries of Kiteworks, including Zivver, DRACOON, totemo, ownCloud, WAMNET, Maytech, Bonfy.ai, and 123FormBuilder, are not affected. Kiteworks also revealed that it has sent an email to all customers detailing the specific hours as well as the recommended nine-hour timeframe. In late 2020-early 2021, the Clop threat actor (aka UNC2546) was found exploiting multiple zero-day vulnerabilities in its file transfer program to conduct a data theft and extortion campaign targeting high-profile entities. AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identity controls. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+    "target": "Kiteworks Urges Customers Shut",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html"
+      }
+    ]
+  },
+  {
+    "id": "8d4ae1f56b664825",
+    "date": "2026-09-26T07:40:25.341011+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Carbonato: The Botnet That Weapons AI Agents Against Exposed Docker Hosts CYBERSEC",
+    "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+    "article_text": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. The malware features worm-like capabilities and was discovered in an unauthenticated Docker registry that contained nearly 60 repositories and 4.3 GB of image data. ThreatDown researchers at cybersecurity company Malwarebytes retrieved operational evidence spanning October 2024 to August 2026. The archive also included details about the botnet and a separate campaign that distributed counterfeit cryptocurrency wallet apps. According to Malwarebytes, Carbonato spreads across Docker hosts with an API exposed on port 2375 without authentication. The malware connects to that API and instructs the daemon to launch a privileged container, giving it access to the host. It then opens a reverse SSH tunnel, installs an SSH server with the operators’ key, and reports the new deployment through Telegram. At the same time, scripts set up cron jobs, systemd timers, rc.local, and OpenRC hooks for persistence. One notable aspect of the attack is that the AI agent framework Hermes Agent is installed on the hosts, using an agent named “GH0ST,” with instructions that overwrite the default ‘SOUL.md’ persona file. Hermes has been extensively abused in malicious cyber-operations recently . Recently, cybersecurity company Gambit documented a large-scale card-skimming operation that stole 600.000 credit card details . In the case of Carbonato, Hermes handles task commands received through Telegram, including collecting AI API keys, SSH credentials, access tokens, and other data, running commands, and sending back the results. The researchers describe this as an operator-driven process involving an “interactive command loop” exchange. “The​ ​model​ ​interprets​ ​the​ ​task,​ ​writes​ ​terminal​ ​commands,​ ​reads​ ​the​ ​output,​ ​and​ ​decides​​ what ​​to​​ do ​​next,” ThreatDown researchers note . “​The​​ agent ​​runs ​​those​​ commands ​​on ​​the ​​victim​​ and​ ​returns​ ​its​ ​report​ ​to​ ​the​ ​Telegram​ ​chat​ ​that​ ​also​ ​receives​ ​deployment​ ​reports.​​” The malware’s worm-like capability allow it to spread to other exposed Docker daemons and is handled by scripts that scan networks attached to the host every five minutes. Each new compromise pulls the implant from the registry, launches the same privileged container, and enters the persistence and scanning loop. ThreatDown could not attribute Carbonato to any known threat clusters, but based on various evidence, points to Costa Rica as a possible location of the operator. To prevent infection, the researchers recommend keeping Docker daemon APIs off the network and requiring authentication on registries. Signs of Carbonato attacks include a GH0ST persona file, the CARBONATO_API_KEY setting, unexpected Telegram traffic, and reverse SSH tunnels toward AS262145. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. New ClosedQuorum Windows malware uses AI for attack decisions New RatHat Android malware uses AI to automate device control Spain's data agency gets first report of AI-powered data breach AI-powered attack exploited PaperCut flaws to hack 395 organizations ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach Microsoft reminds admins to migrate Entra ID users to passkeys New Windows Defender zero-day blocks Microsoft antivirus updates Automate Onboarding and Access Reviews with No-Code IGA: See how it works Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/carbonato-the-botnet-that-weapons-ai-agents-against-exposed-docker-hosts",
+    "target": "Carbonato",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/carbonato-the-botnet-that-weapons-ai-agents-against-exposed-docker-hosts"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/"
+      }
+    ]
+  },
+  {
+    "id": "766fb109e7508d3b",
+    "date": "2026-09-26T07:40:23.723955+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft and UK Police Dismantle AI-Powered 'EvilTokens' Phishing Service",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/microsoft-and-uk-police-dismantle-ai-powered-eviltokens-phishing-service/638544/",
+    "target": "Microsoft Police Dismantle AI-Powered",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/microsoft-and-uk-police-dismantle-ai-powered-eviltokens-phishing-service/638544/"
+      }
+    ]
+  },
+  {
+    "id": "41f0718f93cc1c67",
+    "date": "2026-09-26T07:40:23.629257+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ZTE SmartHome Account Takeover: Password Reset Without Verification Code. 4 CVEs, 100K+ Android Downloads - CVE-2026-86553",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/",
+    "target": "ZTE SmartHome Account Takeover",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wmhror/zte_smarthome_account_takeover_password_reset/"
+      }
+    ]
+  },
+  {
+    "id": "1b4c5cd460172236",
+    "date": "2026-09-26T04:36:57+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI’s AI Agents Tried Hacking 4 Websites Without Being Prompted",
+    "summary": "OpenAI’s autonomous AI agents attempted to hack four government, university, and public-data systems while carrying out routine information-gathering tasks, according to researchers and government officials. The agents were not instructed to conduct cyberattacks; when normal retrieval methods failed, they allegedly escalated to vulnerability probing, access-control bypasses, and other intrusive techniques, exposing a critical safety problem […] The post OpenAI’s AI Agents Tried Hacking 4 Websites Without Being Prompted appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "OpenAI’s autonomous AI agents attempted to hack four government, university, and public-data systems while carrying out routine information-gathering tasks, according to researchers and government officials.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/openais-ai-agents-tried-hacking-4-websites/",
+    "target": "OpenAIs Agents Tried Websites",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/openais-ai-agents-tried-hacking-4-websites/"
+      }
+    ]
+  },
+  {
+    "id": "28ba6a86f6390c7c",
+    "date": "2026-09-26T03:55:43+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "16-Year-Old Researcher Finds Microsoft Auth Vulnerability that Exposes 17.3 Trillion Stored Records",
+    "summary": "A 16-year-old security researcher known as Faav uncovered an authentication flaw in Microsoft’s internal Titan analytics service that potentially exposed an estimated 17.3 trillion database rows. The vulnerability allowed forged administrator access and unauthorized SQL queries without Microsoft credentials. However, Faav emphasized that the potential impact was hypothetical. The researcher relied on metadata, table descriptions, […] The post 16-Year-Old Researcher Finds Microsoft Auth Vulnerability that Exposes 17.3 Trillion Stored Records appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A 16-year-old security researcher known as Faav uncovered an authentication flaw in Microsoft’s internal Titan analytics service that potentially exposed an estimated 17.3 trillion database rows.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/microsoft-auth-vulnerability-expose-records/",
+    "target": "16-Year-Old Researcher Finds Microsoft",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/microsoft-auth-vulnerability-expose-records/"
       }
     ]
   },
@@ -2302,6 +2648,35 @@
       {
         "source": "The Record",
         "url": "https://therecord.media/labcorp-to-overhaul-security-practices-settlement"
+      }
+    ]
+  },
+  {
+    "id": "a02c4f81907ebc30",
+    "date": "2026-09-25T18:39:32+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
+    "summary": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
+    "article_text": "",
+    "quick_summary": [
+      "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
+    "target": "Sandbox Escapes",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness"
       }
     ]
   },
@@ -3511,7 +3886,7 @@
     "category": "",
     "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
     "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
-    "article_text": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain secure and unaffected.\" The company emphasized that customer account balances remain accurate, and deposits and trading continue to operate normally. However, withdrawals have been temporarily suspended out of an abundance of caution while a \"comprehensive security review\" is underway. Bitget did not disclose any details on how the attack took place, but said it has enlisted the help of Google-owned Mandiant and SlowMist for a third-party investigation. \"Bitget Wallet operates as a self-custodial wallet on a completely separate and independent infrastructure from Bitget Exchange and was not affected by this incident,\" it noted . According to Bitget CEO Gracy Chen , assets impacted by the hack include ETH, XRP, BNB, AVAX, USDT, and USDC, with the chains involving Ethereum, XRP Ledger, Arbitrum, Avalanche, Optimism, BSC, and Base. \"We have contacted the foundations of all affected chains, and some foundations have confirmed the freezing of hacker wallet addresses,\" Chen said. \"Based on IP behavior patterns and on-chain analysis, the attack method in this incident is highly consistent with known patterns of North Korean hacker organizations.\" \"The attacker compromised a critical backend system within our wallet infrastructure, used it to spoof transaction data, and triggered our authorization process to move funds out. No further unauthorized transfers are possible. The specific method of system intrusion remains under active investigation.\" The development comes about a week after SentinelOne attributed the North Korea-linked TraderTraitor group to an attack targeting an India-based information technology (IT) services company. TraderTraitor is best known for the theft of $1.5 billion from Bybit and $292 million from KelpDAO's LayerZero bridge. In a follow-up post on X, Bitget said assets equivalent to approximately $387.5 million were transferred to attacker-controlled addresses across multiple networks following the hack, citing \"latest on-chain tracing and classification of transactions.\" The crypto exchange has also launched a Recovery Bounty Program to \"mobilize exchanges, blockchain projects, security researchers, investigators and the wider on-chain community to assist with freezing and recovering affected assets.\" \"Connections between XRP from the Bitget exploit and ETH from a previous DPRK-attributed exploit have been observed,\" Elliptic said , it also spotted \"connections between stolen Bitget funds and addresses involved in the laundering of previous DPRK-attributed exploits, including the exploit of Bybit in 2025.\" \"Shared laundering infrastructure between incidents is a recurring feature in the laundering of DPRK-attributed hacks, with launderers prioritizing speed over operational discipline,\" Elliptic added. TRM Labs has also uncovered multiple overlaps with wallets used to launder previous North Korean hacks, including Bybit and AFX Bridge, stating the overlaps point to the involvement of TraderTraitor. If the Bitget theft turns out to be the work of North Korea, 2026 would become the second-largest year on record for North Korean crypto theft, reaching $1.04 billion, behind 2025's $1.68 billion. \"North Korea keeps stealing from this ecosystem at alarming speed and scale,\" Ari Redbord, Global Head of Policy at TRM Labs, said in a statement. \"We have to harden cyber controls across the industry, and we also have to go after these actors offensively, using every national security authority we have.\" (The story was updated after publication to include additional insights from Elliptic and TRM Labs.) AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identity controls. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "article_text": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain secure and unaffected.\" The company emphasized that customer account balances remain accurate, and deposits and trading continue to operate normally. However, withdrawals have been temporarily suspended out of an abundance of caution while a \"comprehensive security review\" is underway. Bitget did not disclose any details on how the attack took place, but said it has enlisted the help of Google-owned Mandiant and SlowMist for a third-party investigation. \"Bitget Wallet operates as a self-custodial wallet on a completely separate and independent infrastructure from Bitget Exchange and was not affected by this incident,\" it noted . According to Bitget CEO Gracy Chen , assets impacted by the hack include ETH, XRP, BNB, AVAX, USDT, and USDC, with the chains involving Ethereum, XRP Ledger, Arbitrum, Avalanche, Optimism, BSC, and Base. \"We have contacted the foundations of all affected chains, and some foundations have confirmed the freezing of hacker wallet addresses,\" Chen said. \"Based on IP behavior patterns and on-chain analysis, the attack method in this incident is highly consistent with known patterns of North Korean hacker organizations.\" \"The attacker compromised a critical backend system within our wallet infrastructure, used it to spoof transaction data, and triggered our authorization process to move funds out. No further unauthorized transfers are possible. The specific method of system intrusion remains under active investigation.\" The development comes about a week after SentinelOne attributed the North Korea-linked TraderTraitor group to an attack targeting an India-based information technology (IT) services company. TraderTraitor is best known for the theft of $1.5 billion from Bybit and $292 million from KelpDAO's LayerZero bridge. In a follow-up post on X, Bitget said assets equivalent toapproximately $390.06 million were transferred to attacker-controlled addresses across multiple networks following the hack, citing \"latest on-chain tracing and classification of transactions.\" The crypto exchange has also launched a Recovery Bounty Program to \"mobilize exchanges, blockchain projects, security researchers, investigators and the wider on-chain community to assist with freezing and recovering affected assets.\" \"Connections between XRP from the Bitget exploit and ETH from a previous DPRK-attributed exploit have been observed,\" Elliptic said , it also spotted \"connections between stolen Bitget funds and addresses involved in the laundering of previous DPRK-attributed exploits, including the exploit of Bybit in 2025.\" \"Shared laundering infrastructure between incidents is a recurring feature in the laundering of DPRK-attributed hacks, with launderers prioritizing speed over operational discipline,\" Elliptic added. TRM Labs has also uncovered multiple overlaps with wallets used to launder previous North Korean hacks, including Bybit and AFX Bridge, stating the overlaps point to the involvement of TraderTraitor. If the Bitget theft turns out to be the work of North Korea, 2026 would become the second-largest year on record for North Korean crypto theft, reaching $1.04 billion, behind 2025's $1.68 billion. \"North Korea keeps stealing from this ecosystem at alarming speed and scale,\" Ari Redbord, Global Head of Policy at TRM Labs, said in a statement. \"We have to harden cyber controls across the industry, and we also have to go after these actors offensively, using every national security authority we have.\" In a post shared on X on September 26, 2026, Bitget said it will resume withdrawals in orderly phases starting on September 28, 2026, at 8 a.m. UTC, adding the vulnerability involved in the incident has been identified and addressed. \"The incident remains contained, and no further unauthorized transfers are possible,\" Bitget added. \"User funds are unaffected throughout this process. Trading and deposits continue to operate.\" According to a real-time fund tracing dashboard published by Coindesk, Circle and Tether have frozen stablecoins worth $339,100 linked to the hack. (The story was updated after publication to include additional",
     "quick_summary": [
       "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.",
       "Risk: vulnerability/exploitation risk",
@@ -6851,7 +7226,7 @@
     "category": "",
     "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
     "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file",
-    "article_text": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file outside the active theme directories,\" WordPress said in an advisory released two days ago. \"If relevant preconditions for both the server environment and the active theme are met, this can lead to RCE.\" Successful exploitation hinges on meeting the two pre-requisites - In a statement shared with The Hacker News, Previdian said it's seeing exploitation attempts targeting CVE-2026-87902 against its honeypot network, with the malicious requests originating from an IP address (104.194.9[.]227) located in the U.S. state of New Jersey. These requests include the local PHP file /usr/local/lib/php/pearcmd.php, writing a file to /tmp/, and then including a PHP upload script hosted on GitHub (\"raw.githubusercontent[.]com/MrG3P5/web-shell/refs/heads/main/uploader.php\"). \"Although this is undoubtedly a serious vulnerability, certain preconditions make exploitation less likely,\" Previdian's founder and CEO Ryan Dewhurst said. \"Because WordPress has auto-updates enabled by default, we're likely to see mass-exploitation attempts, but relatively few actual compromises.\" Telemetry data from Previdian has recorded a total of 68 exploitation attempts starting September 23, 2026. Some of the efforts have also originated from an Indonesia-based IP address. WordPress security company Patchstack has also warned that the malicious requests have expanded from reconnaissance against harmless core files to active exploitation in which attackers include \"pearcmd.php\" and use it to write PHP files to disk, corroborating findings from Previdian. The first exploitation effort was recorded on September 22, 2026, at 11:49 a.m. UTC, the same day patches were shipped for the flaw. In addition, the activity involves arbitrary file writes with attacker-controlled PHP content in locations like \"/tmp\" and \"/var/tmp.\" Observed file names include - In light of active exploitation, website administrators are advised to apply WordPress version 7.1.2 (or 7.0.6, 6.9.9, 6.8.10) as soon as possible and audit for signs of malicious activity. AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identity controls. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "article_text": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file outside the active theme directories,\" WordPress said in an advisory released two days ago. \"If relevant preconditions for both the server environment and the active theme are met, this can lead to RCE.\" Successful exploitation hinges on meeting the two pre-requisites - In a statement shared with The Hacker News, Previdian said it's seeing exploitation attempts targeting CVE-2026-87902 against its honeypot network, with the malicious requests originating from an IP address (104.194.9[.]227) located in the U.S. state of New Jersey. These requests include the local PHP file /usr/local/lib/php/pearcmd.php, writing a file to /tmp/, and then including a PHP upload script hosted on GitHub (\"raw.githubusercontent[.]com/MrG3P5/web-shell/refs/heads/main/uploader.php\"). \"Although this is undoubtedly a serious vulnerability, certain preconditions make exploitation less likely,\" Previdian's founder and CEO Ryan Dewhurst said. \"Because WordPress has auto-updates enabled by default, we're likely to see mass-exploitation attempts, but relatively few actual compromises.\" Telemetry data from Previdian has recorded a total of 68 exploitation attempts starting September 23, 2026. Some of the efforts have also originated from an Indonesia-based IP address. WordPress security company Patchstack has also warned that the malicious requests have expanded from reconnaissance against harmless core files to active exploitation in which attackers include \"pearcmd.php\" and use it to write PHP files to disk, corroborating findings from Previdian. The first exploitation effort was recorded on September 22, 2026, at 11:49 a.m. UTC, the same day patches were shipped for the flaw. In addition, the activity involves arbitrary file writes with attacker-controlled PHP content in locations like \"/tmp\" and \"/var/tmp.\" Observed file names include - In light of active exploitation, website administrators are advised to apply WordPress version 7.1.2 (or 7.0.6, 6.9.9, 6.8.10) as soon as possible and audit for signs of malicious activity. The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on September 25, 2026, added CVE-2026-87902, to its Known Exploited Vulnerabilities ( KEV ) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 28, 2026. AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identity controls. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
     "quick_summary": [
       "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.",
       "Risk: vulnerability/exploitation risk",
@@ -22007,59 +22382,6 @@
     ]
   },
   {
-    "id": "ebe402366de43ace",
-    "date": "2026-09-17T07:38:55.153379+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Weekly Cybersecurity Roundup: Take It Down Makes History as AI Tests Security Boundaries",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/weekly-cybersecurity-roundup-take-it-down-makes-history-as-ai-tests-security-boundaries/636732/",
-    "target": "Weekly Roundup",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-take-it-down-makes-history-as-ai-tests-security-boundaries/636732/"
-      },
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-the-fight-against-cyber-threats-moves-on-several-fronts/634301/"
-      },
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-how-stolen-credentials-continue-to-fuel-fraud/633831/"
-      },
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-ai-reshapes-the-internet-as-authorities-disrupt-crime-and-cities-fortify-defences/633240/"
-      },
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-entering-an-era-when-ai-agents-take-unapproved-paths-as-security-teams-race-to-trace-them/633140/"
-      },
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-ransom-denials-streaming-crackdowns-and-evolving-risks/631908/"
-      },
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/weekly-cybersecurity-roundup-dormant-code-record-patches-and-ai-on-both-sides-of-security/631445/"
-      }
-    ]
-  },
-  {
     "id": "f89b3eb9b7142207",
     "date": "2026-09-17T07:38:55.153308+00:00",
     "source": "TechNadu",
@@ -26489,325 +26811,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/"
-      }
-    ]
-  },
-  {
-    "id": "dd5e520b960cd197",
-    "date": "2026-09-15T14:43:47+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Japan’s Digital Agency Breach Exposes 240,000+ Users’ Personal Records to Hackers",
-    "summary": "Japan’s Digital Agency has confirmed a significant data breach affecting the Government Solution Service (GSS), a shared IT platform used across multiple ministries and government bodies, after attackers exploited a vulnerability in a VPN appliance to gain unauthorized access to internal servers. The agency disclosed on September 11 that approximately 246,000 personal records may have […] The post Japan’s Digital Agency Breach Exposes 240,000+ Users’ Personal Records to Hackers appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Japan’s Digital Agency has confirmed a significant data breach affecting the Government Solution Service (GSS), a shared IT platform used across multiple ministries and government bodies, after attackers exploited a vuln",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/japan-digital-agency-data-breach/",
-    "target": "Japans Digital Agency Breach",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/japan-digital-agency-data-breach/"
-      }
-    ]
-  },
-  {
-    "id": "7ff38eab7efdcebb",
-    "date": "2026-09-15T14:22:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Electric and gas utility CenterPoint Energy warns of data breach after dark web post",
-    "summary": "Houston-based CenterPoint Energy notified federal regulators about an incident that exposed some customer data on the dark web.",
-    "article_text": "",
-    "quick_summary": [
-      "Houston-based CenterPoint Energy notified federal regulators about an incident that exposed some customer data on the dark web.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/centerpoint-energy-data-breach",
-    "target": "Electric CenterPoint Energy",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/centerpoint-energy-data-breach"
-      }
-    ]
-  },
-  {
-    "id": "1017e81b31ec32ba",
-    "date": "2026-09-15T13:55:02+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Homebrew 7.0.0 Adds Built-In Vulnerability Scanner and Stronger Package Sandboxing",
-    "summary": "Homebrew has released version 7.0.0, introducing a native vulnerability scanner, a Homebrew-specific advisory database, stronger sandboxing, and faster package installation workflows. The release also ends support for macOS Catalina 10.15 and moves Intel-based Macs to Tier 3 support. The most security-focused addition is the new brew vulns command. It allows users and security teams to scan installed […] The post Homebrew 7.0.0 Adds Built-In Vulnerability Scanner and Stronger Package Sandboxing appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Homebrew has released version 7.0.0, introducing a native vulnerability scanner, a Homebrew-specific advisory database, stronger sandboxing, and faster package installation workflows.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/homebrew-7-0-0-adds-vulnerability-scanner/",
-    "target": "Homebrew 7.0.0 Adds Built-In",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/homebrew-7-0-0-adds-vulnerability-scanner/"
-      }
-    ]
-  },
-  {
-    "id": "49ff0db7d779e8bb",
-    "date": "2026-09-15T13:52:07+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "cPanel LiteSpeed Web Server Vulnerability Allows Shared Server Users to Gain Root-Level Access",
-    "summary": "cPanel has issued an urgent security advisory warning that a critical vulnerability in LiteSpeed Web Server Enterprise could allow a low-privileged shared-hosting user to gain root-level access to an affected server. Administrators are urged to upgrade LiteSpeed Enterprise to version 6.3.7 or later immediately. The flaw affects LiteSpeed Web Server Enterprise versions earlier than 6.3.7. […] The post cPanel LiteSpeed Web Server Vulnerability Allows Shared Server Users to Gain Root-Level Access appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "cPanel has issued an urgent security advisory warning that a critical vulnerability in LiteSpeed Web Server Enterprise could allow a low-privileged shared-hosting user to gain root-level access to an affected server.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/cpanel-litespeed-web-server-vulnerability/",
-    "target": "LiteSpeed Web Server Vulnerability",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/cpanel-litespeed-web-server-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "d053a00f5548e866",
-    "date": "2026-09-15T13:45:54+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
-    "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
-    "article_text": "By Sila Ozeren Hacioglu , Security Research Engineer at Picus Security. If you run PaperCut NG or MF, the last week of August showed what vulnerability response looks like when AI speeds up vulnerability discovery. On August 27, PaperCut's urgent advisory said attackers were already exploiting servers. No CVE, no exploit, no patch. The first emergency patch came a day later and was bypassed the same day. The third one landed on September 1. Six days without a patch that held or an exploit to test with, while attackers were already exploiting in the wild. And the window is closing. Disclosure-to-exploitation averaged 21.5 days last year. It is measured in hours now . PaperCut isn't the outlier. It's the template. Below is one day in the life of a security team, told through a hypothetical CVE . The CVE is made up. The day is not: it is what PaperCut's customers lived through in August. Let's walk through it hour by hour. You wake up and CVE-2026-1001 is in your feed: unauthenticated RCE, no patch . You run a version check. Twenty assets match. Before you can finish reading the list, your phone rings. It's management. They've already seen it, they've already been asked about it, and they want an answer in the next fifteen minutes: are we exposed, and what are we doing about it? Strip the panic away and there are exactly two questions to answer: 1. Are these 20 assets actually exploitable, in my environment? Version data says \"affected.\" Version data is not an answer. Both questions start the day at Unknown. Shutting the services down would settle the question, but the business runs on them. Nobody is going to negotiate that. You need a verdict, not a shutdown. The natural move is to reach for your automated pentesting tool. Take the exploit, fire it at the 20 assets, see what falls. So you go looking for the exploit. There isn't one. No public PoC, nothing to run. The tool that would give you the answer is waiting for ammunition, and so are you. The attacker is not. Weaponization used to take weeks; now it takes hours, and the clock started at 08:00. If you wait for a public exploit, the first working one you see may be the one that hits you. Here is the shift. An exploit is not just a payload. It is a chain: the payload has to be delivered, it has to execute, and then the attacker has to escalate privileges, inject into a process and pull credentials to make the foothold worth anything. Each step is a known technique, and techniques can be simulated safely against your controls before anyone has written the payload itself. You cannot test the exploit, because there is none. But you can test the chain the exploit would need. Map the CVE to the techniques it has to run, delivery, execution, privilege escalation, injection, credential access, and run those against your live stack: NGFW, WAF, endpoint hardening, EDR, SIEM. Per asset. The output is a verdict: would this chain succeed in your environment? The question \"is it exploitable here?\" becomes testable ten minutes after disclosure. We explained how this works in detail in our post on validating CVEs without a working exploit . By 08:30 the chain has run. The results are not comfortable, and that is the point. The NGFW missed the delivery step. The WAF detected it but did not block. Endpoint hardening flagged execution. The EDR raised no alert. The SIEM raised no alert. Now the two Unknowns have answers. The 20 assets are exposed to this chain, and nothing in the stack would stop it. But the gaps have names and owners. An action plan is created: a detection rule for the NGFW, a prevention rule for the WAF, GPO hardening for the endpoints, an IOA rule for the EDR, a detection rule for the SIEM. The EDR and SIEM rules deploy automatically. The rest go out as tickets and get worked through the morning, alongside a patch ticket for every affected asset, parked until a patch exists. By 08:45 the chain is re-run. This time: detected, blocked, blocked, alerted, alerted. You have not patched anything. You have broken the chain on every affected asset before a working exploit exists. At The Validation Summit '26, a vulnerability drops with no patch and no working exploit. See it validated on day one, then tested with the real exploit against live controls when it arrives, then re-validated after the fix. Live in the product. Threat intel arrives. An Iranian threat group is running a campaign weaponizing CVE-2026-1001. There is still no public exploit, but the attacks have sta",
-    "quick_summary": [
-      "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
-    "target": "Zero-Day Response Should Post-Mythos",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/"
-      }
-    ]
-  },
-  {
-    "id": "33cd50eebc7bf735",
-    "date": "2026-09-15T13:33:58+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Thai Broadband Provider Hacked via Fortinet Vulnerability",
-    "summary": "The hackers staged numerous scripts for reconnaissance and CVE probing, along with brute-force utilities and privilege escalation tools. The post Thai Broadband Provider Hacked via Fortinet Vulnerability appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The hackers staged numerous scripts for reconnaissance and CVE probing, along with brute-force utilities and privilege escalation tools.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/",
-    "target": "Thai Broadband Provider Hacked",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/thai-broadband-provider-hacked-via-fortinet-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "8946241a008c8b09",
-    "date": "2026-09-15T12:54:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "China spy chief points at US AI models in cyber threat warning",
-    "summary": "China's spy chief identified Anthropic’s Claude Mythos and OpenAI’s GPT-5.5-Cyber as signs of what he called a “disruptive upgrade” in cyber capabilities, increasing the speed and potential weaponization of vulnerability discovery and malware development.",
-    "article_text": "",
-    "quick_summary": [
-      "China's spy chief identified Anthropic’s Claude Mythos and OpenAI’s GPT-5.5-Cyber as signs of what he called a “disruptive upgrade” in cyber capabilities, increasing the speed and potential weaponization of vulnerability",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://therecord.media/china-spy-chief-warns-of-us-ai-models",
-    "target": "China",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/china-spy-chief-warns-of-us-ai-models"
-      }
-    ]
-  },
-  {
-    "id": "8b823907cb2e9015",
-    "date": "2026-09-15T12:42:32+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "OpenAI Investigates Report Linking AI Agents to RubyGems Attack",
-    "summary": "The incident occurred in May, when RubyGems maintainers suspended new account registrations due to what appeared like malicious activity. The post OpenAI Investigates Report Linking AI Agents to RubyGems Attack appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The incident occurred in May, when RubyGems maintainers suspended new account registrations due to what appeared like malicious activity.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/",
-    "target": "OpenAI Investigates Linking Agents",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/"
-      }
-    ]
-  },
-  {
-    "id": "a5ada205de6825bc",
-    "date": "2026-09-15T12:21:43+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Google’s New Search Redirects Make It Harder to Check Where Links Lead Before Clicking",
-    "summary": "Google is changing how some search-result links behave. Certain results now pass through an encoded Google redirect rather than opening the listed site, making a browser’s link preview less useful as a quick safety check. The change comes as malicious advertising, search-result poisoning, and lookalike download pages keep turning ordinary searches into routes for scams […] The post Google’s New Search Redirects Make It Harder to Check Where Links Lead Before Clicking appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Google is changing how some search-result links behave.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/googles-new-search/",
-    "target": "Googles Search Redirects Make",
-    "type": "Phishing / Scam",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/googles-new-search/"
-      }
-    ]
-  },
-  {
-    "id": "a39efd3aaa37598f",
-    "date": "2026-09-15T12:02:50+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New Phishing Attacks Use Trusted Email Infrastructure and URL Cloaking to Bypass Security Tools",
-    "summary": "Phishing is arriving via trusted email systems. Instead of using obvious malicious addresses, attackers send ordinary account alerts, invoices and renewal notices that lead victims into web-based traps. The approach moves danger into a click path that can change in real time. A message may pass authentication, carry no harmful file and still guide a […] The post New Phishing Attacks Use Trusted Email Infrastructure and URL Cloaking to Bypass Security Tools appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Phishing is arriving via trusted email systems.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/new-phishing-attacks/",
-    "target": "Phishing Trusted Email Infrastructure",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/new-phishing-attacks/"
-      }
-    ]
-  },
-  {
-    "id": "66cdba269108e275",
-    "date": "2026-09-15T11:52:28+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-    "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access. In one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH",
-    "article_text": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access. In one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH bastion host in eight seconds using a custom Python toolkit they \"wrote and debugged by hand\" without any AI agent in the loop. \"Eight seconds is the kind of speed we expect to see in AI-assisted attacks,\" the Sysdig Threat Research Team said . \"This operator got there on skill alone, and along the way walked straight past a trap that every agentic threat actor (ATA) we've profiled against this same CVE fell into. Not only can skilled human attackers move at machine speed, but they can also often better evade defenders' detections.\" The attack chain has been found to exploit CVE-2026-39987 (CVSS score: 9.3), a pre-authenticated remote code execution vulnerability impacting all versions of Marimo that came under active exploitation within hours of public disclosure. Upon gaining an initial foothold, the threat actor is said to have run an end-to-end credential-pivot chain, leveraging the Marimo flaw to gain a full interactive shell, followed by an Amazon Web Services (AWS) Secrets Manager call using credentials harvested from the compromised instance, and SSH access to a bastion host with the retrieved private key - The entire activity lasted from 12:52 p.m., when the first WebSocket connection was made from \"172.236.12[.]17\" to the \"/terminal/ws WebSocket endpoint exposed by Marimo, to 9:50 p.m., during which the threat actor deployed an asyncssh-style listener setup against an attacker-owned VPS. \"Over the course of a nine-hour session, they issued more than 850 interactive commands, used no recognizable publicly available offensive tooling, and hand-rolled their scripts in-session,\" Sysdig said. \"The operator's tradecraft converged on a single backgrounded Python3 invocation, not an agentic framework, that pulls the credential, fetches the SSH key from Secrets Manager, writes it to disk, and authenticates to the bastion over SSH in one shot.\" \"AI may be changing the economics of attacks — more targets, faster time-to-exploit, and less manual grind on repetitive tasks — but it has not yet replaced the skilled attacker who knows how to build from scratch and avoid traps.\" The findings come as Hunt.io disclosed details of a cryptomining campaign that has compromised 3,562 Redis servers likely following a broad internet sweep of candidate Redis hosts on port 6379, while simultaneously launching three parallel pipelines - The primary exploitation method is the use of the SLAVEOF command to smuggle attacker-controlled content onto a target Redis server, resulting in the deployment of an XMRig miner. The activity, which came to light after the discovery of an exposed working environment at 188.245.99[.]156, has not been attributed to any known threat actor or group. \"Confirmed victims span Redis 2.8.17 (2015) through 7.2.0 (2023) and Linux from EOL RHEL/CentOS 6 to current Ubuntu kernels, pointing to missing authentication as the weakness rather than a version-specific bug,\" Hunt.io said. \"The toolkit runs four techniques across three services, but only Redis rogue replication worked at scale: SSH key-injection and MongoDB sandbox-escape returned zero across 2,810 attempts, and a complete WordPress credential-to-webshell chain was recovered but not confirmed at scale.\" In recent months, a single operator was also linked to a massive campaign dubbed Operation CameraSwarm that compromised over 14,000 Dahua IP cameras using brute-force attacks, authentication bypass flaws (CVE-2021-33044 and CVE-2021-33045), and a peer-to-peer (P2P) relay technique. See how to test new CVEs against your environment, confirm what attackers can actually exploit, and fix the exposures that pose the greatest risk. Learn how to identify exploitable risk faster, prioritize what matters most, and reduce exposure before AI-powered attacks accelerate the threat. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can mov",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-    "target": "Human Attacker Exploits Marimo",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html"
       }
     ]
   }
