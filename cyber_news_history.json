@@ -1,7 +1,7 @@
 [
   {
     "id": "930c2dc80127f60a",
-    "date": "2026-09-26T13:04:49.382328+00:00",
+    "date": "2026-09-26T17:09:40.479161+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "44317c04c18a2ba8",
-    "date": "2026-09-26T13:04:49.382245+00:00",
+    "date": "2026-09-26T17:09:40.479043+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "1ec8120fa644ae2b",
-    "date": "2026-09-26T13:04:49.382162+00:00",
+    "date": "2026-09-26T17:09:40.478927+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -92,7 +92,7 @@
   },
   {
     "id": "4917c8e1cd171755",
-    "date": "2026-09-26T13:04:49.382085+00:00",
+    "date": "2026-09-26T17:09:40.478816+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -121,7 +121,7 @@
   },
   {
     "id": "4696e6d7b8d67729",
-    "date": "2026-09-26T13:04:49.382007+00:00",
+    "date": "2026-09-26T17:09:40.478704+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -150,7 +150,7 @@
   },
   {
     "id": "509f99e1a2ce10a2",
-    "date": "2026-09-26T13:04:49.381923+00:00",
+    "date": "2026-09-26T17:09:40.478584+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -179,7 +179,7 @@
   },
   {
     "id": "306f8ef890aeede2",
-    "date": "2026-09-26T13:04:49.381838+00:00",
+    "date": "2026-09-26T17:09:40.478456+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -208,7 +208,7 @@
   },
   {
     "id": "2681ea3691a73c2b",
-    "date": "2026-09-26T13:04:49.381717+00:00",
+    "date": "2026-09-26T17:09:40.478274+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -237,7 +237,7 @@
   },
   {
     "id": "557ce71ee6b4561b",
-    "date": "2026-09-26T13:04:49.381624+00:00",
+    "date": "2026-09-26T17:09:40.478144+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +266,7 @@
   },
   {
     "id": "524ddff067e74358",
-    "date": "2026-09-26T13:04:49.381527+00:00",
+    "date": "2026-09-26T17:09:40.478009+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,14 +295,14 @@
   },
   {
     "id": "67eaf450e1bae23b",
-    "date": "2026-09-26T13:04:49.381436+00:00",
+    "date": "2026-09-26T17:09:40.477881+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
     "title": "GitHub Actions Mini Shai-Hulud Reactivated: Containment Turns Into Attack CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
+    "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+    "article_text": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. After being compromised on May 18, the GitHub security team removed actions-cool/issues-helper and actions-cool/maintain-one-comment, preventing any downstream workflow from downloading malware. According to researchers at application security company Socket, starting September 16 and up to September 25, the two actions became active again with the same release tags, causing workflows referencing their actions to download and execute the old payload. The Mini Shai-Hulud supply-chain attack in May affected 323 packages and 639 package versions on the Node Package Manager (npm) index, infecting them with malware that targets developers’ tokens, credentials, and CI/CD secrets. Socket researchers found that last Wednesday the release tags for actions-cool/issues-helper and actions-cool/maintain-one-comment resolved to a commit containing the obfuscated payload inside the ‘index.js’ file. “On September 16, 2026, both repositories became accessible again. Their release tags were not cleaned up first,\" Socket explained . \"They still point to the malicious content introduced on May 18, so any workflow that references either action by a version tag resumed downloading and executing the payload on its next run.” It is unclear exactly why these repositories were re-enabled without proper cleaning occurring first. Socket says that GitHub’s dependency graph lists about 15,000 repositories depending on ‘issues-helper,’ though this does not mean all of them were compromised. The researchers note that they have not yet established how many dependents reference either action by mutable tag instead of a pinned commit. However, they explained that the impacted actions are those running almost daily, as they support issue-housekeeping needs. On September 25, Socket found that both actions were disabled again on GitHub, leading workflows that reference them to fail instead of running the payload. Socket recommends finding references to both actions, removing them or pinning a verified clean commit, reviewing runs since September 16, and rotating secrets accessible to workflows that ran an affected tag. Potentially impacted developers should look for references to both actions and remove them or pin a verified clean commit. The exposure started on September 16 between 11:09 and 18:16 GMT+2. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. GitHub, PyPI add time-based defenses against supply chain attacks Exposed GitLab project email addresses let attackers push code Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer Malicious npm packages evade install-script defenses at runtime Microsoft: September Windows updates break Always On VPN connections Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers Windows 11 KB5124010 update released with 46 changes and fixes Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Overdue a password health-check? Audit your Active Directory for free Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: general cybersecurity update",
@@ -311,20 +311,25 @@
     "link": "https://deafnews.it/en/news/cybersecurity/github-actions-mini-shai-hulud-reactivated-containment-turns-into-attack",
     "target": "GitHub Actions Mini Shai-Hulud",
     "type": "General Cybersecurity",
-    "severity": "Low",
+    "severity": "Critical",
     "sources": [
-      "DeafNews"
+      "DeafNews",
+      "BleepingComputer"
     ],
     "links": [
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/github-actions-mini-shai-hulud-reactivated-containment-turns-into-attack"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/"
       }
     ]
   },
   {
     "id": "1634848e4d8941af",
-    "date": "2026-09-26T13:04:49.381331+00:00",
+    "date": "2026-09-26T17:09:40.477752+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -353,7 +358,7 @@
   },
   {
     "id": "8cfbaf3838f205a4",
-    "date": "2026-09-26T13:04:49.380826+00:00",
+    "date": "2026-09-26T17:09:40.477087+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -382,7 +387,7 @@
   },
   {
     "id": "d53a1c45844fd075",
-    "date": "2026-09-26T13:04:49.380543+00:00",
+    "date": "2026-09-26T17:09:40.476692+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -415,7 +420,7 @@
   },
   {
     "id": "00985b3f9d3bfe0b",
-    "date": "2026-09-26T13:04:49.380433+00:00",
+    "date": "2026-09-26T17:09:40.476541+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -444,7 +449,7 @@
   },
   {
     "id": "3a83d78c68ffe0ac",
-    "date": "2026-09-26T13:04:49.380247+00:00",
+    "date": "2026-09-26T17:09:40.476331+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -473,7 +478,7 @@
   },
   {
     "id": "6533f03d16ee4a97",
-    "date": "2026-09-26T13:04:48.618596+00:00",
+    "date": "2026-09-26T17:09:39.571954+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -574,7 +579,7 @@
   },
   {
     "id": "684fb15c49925c8f",
-    "date": "2026-09-26T13:04:47.857746+00:00",
+    "date": "2026-09-26T17:09:38.594477+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -603,7 +608,7 @@
   },
   {
     "id": "ea26aa0c6afd4464",
-    "date": "2026-09-26T13:04:47.857662+00:00",
+    "date": "2026-09-26T17:09:38.594335+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -632,7 +637,7 @@
   },
   {
     "id": "c49486b4aaf71150",
-    "date": "2026-09-26T13:04:47.857566+00:00",
+    "date": "2026-09-26T17:09:38.594199+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -661,7 +666,7 @@
   },
   {
     "id": "617da6fb2cf529ac",
-    "date": "2026-09-26T13:04:47.857483+00:00",
+    "date": "2026-09-26T17:09:38.594074+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -690,7 +695,7 @@
   },
   {
     "id": "58ec58fb7d0f6d1f",
-    "date": "2026-09-26T13:04:47.857394+00:00",
+    "date": "2026-09-26T17:09:38.593945+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -719,7 +724,7 @@
   },
   {
     "id": "cfebdfd08efd4bb6",
-    "date": "2026-09-26T13:04:47.857261+00:00",
+    "date": "2026-09-26T17:09:38.593769+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -747,8 +752,37 @@
     ]
   },
   {
+    "id": "6edbf865772ebd6b",
+    "date": "2026-09-26T17:09:38.593617+00:00",
+    "source": "TechNadu",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Cloudflare Fixes Cross-Tenant Data Exposure Bug in Containers",
+    "summary": "Discovered from TechNadu page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.technadu.com/cloudflare-fixes-cross-tenant-data-exposure-bug-in-containers/638675/",
+    "target": "Cloudflare Fixes Cross-Tenant Data",
+    "type": "General Cybersecurity",
+    "severity": "Medium",
+    "sources": [
+      "TechNadu"
+    ],
+    "links": [
+      {
+        "source": "TechNadu",
+        "url": "https://www.technadu.com/cloudflare-fixes-cross-tenant-data-exposure-bug-in-containers/638675/"
+      }
+    ]
+  },
+  {
     "id": "520fcc6d930148d9",
-    "date": "2026-09-26T13:04:47.857088+00:00",
+    "date": "2026-09-26T17:09:38.593378+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -777,7 +811,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-09-26T13:04:47.856976+00:00",
+    "date": "2026-09-26T17:09:38.593221+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -806,7 +840,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-09-26T13:04:47.856878+00:00",
+    "date": "2026-09-26T17:09:38.593078+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -835,7 +869,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-09-26T13:04:47.856774+00:00",
+    "date": "2026-09-26T17:09:38.592931+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -864,7 +898,7 @@
   },
   {
     "id": "1a87663ef973d472",
-    "date": "2026-09-26T13:04:47.856633+00:00",
+    "date": "2026-09-26T17:09:38.592739+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -893,7 +927,7 @@
   },
   {
     "id": "f29feab6f4f0ee32",
-    "date": "2026-09-26T13:04:47.856529+00:00",
+    "date": "2026-09-26T17:09:38.592589+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -922,7 +956,7 @@
   },
   {
     "id": "824b78ae23ccefa5",
-    "date": "2026-09-26T13:04:47.856283+00:00",
+    "date": "2026-09-26T17:09:38.592254+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -951,7 +985,7 @@
   },
   {
     "id": "948ec72c6df6739b",
-    "date": "2026-09-26T13:04:47.856183+00:00",
+    "date": "2026-09-26T17:09:38.592116+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -980,7 +1014,7 @@
   },
   {
     "id": "6b6ac0d8430f7f6e",
-    "date": "2026-09-26T13:04:47.856091+00:00",
+    "date": "2026-09-26T17:09:38.591986+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1009,7 +1043,7 @@
   },
   {
     "id": "82a693415895e590",
-    "date": "2026-09-26T13:04:47.855985+00:00",
+    "date": "2026-09-26T17:09:38.591838+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1038,7 +1072,7 @@
   },
   {
     "id": "be20f068fa081368",
-    "date": "2026-09-26T13:04:47.855871+00:00",
+    "date": "2026-09-26T17:09:38.591679+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1067,7 +1101,7 @@
   },
   {
     "id": "28f7af3ff98af5e2",
-    "date": "2026-09-26T13:04:47.855767+00:00",
+    "date": "2026-09-26T17:09:38.591524+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1095,37 +1129,8 @@
     ]
   },
   {
-    "id": "6edbf865772ebd6b",
-    "date": "2026-09-26T13:04:47.855630+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Cloudflare Fixes Cross-Tenant Data Exposure Bug in Containers",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/cloudflare-fixes-cross-tenant-data-exposure-bug-in-containers/638675/",
-    "target": "Cloudflare Fixes Cross-Tenant Data",
-    "type": "General Cybersecurity",
-    "severity": "Medium",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/cloudflare-fixes-cross-tenant-data-exposure-bug-in-containers/638675/"
-      }
-    ]
-  },
-  {
     "id": "6b10de9005e36428",
-    "date": "2026-09-26T13:04:47.855527+00:00",
+    "date": "2026-09-26T17:09:38.591307+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1154,7 +1159,7 @@
   },
   {
     "id": "f190b9c749fa644c",
-    "date": "2026-09-26T13:04:47.855391+00:00",
+    "date": "2026-09-26T17:09:38.591090+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1183,7 +1188,7 @@
   },
   {
     "id": "1b667c5aedbe58a3",
-    "date": "2026-09-26T13:04:47.855273+00:00",
+    "date": "2026-09-26T17:09:38.590895+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1240,7 +1245,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-09-26T13:04:47.851830+00:00",
+    "date": "2026-09-26T17:09:38.587406+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1269,7 +1274,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-09-26T13:04:47.851072+00:00",
+    "date": "2026-09-26T17:09:38.586460+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1298,7 +1303,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-09-26T13:04:47.850862+00:00",
+    "date": "2026-09-26T17:09:38.586179+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1327,7 +1332,7 @@
   },
   {
     "id": "ab0b25280fb4518a",
-    "date": "2026-09-26T13:04:47.637244+00:00",
+    "date": "2026-09-26T17:09:38.386778+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1356,7 +1361,7 @@
   },
   {
     "id": "677a243fe8062953",
-    "date": "2026-09-26T13:04:47.637151+00:00",
+    "date": "2026-09-26T17:09:38.386635+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1385,7 +1390,7 @@
   },
   {
     "id": "22f61965eb72f7ca",
-    "date": "2026-09-26T13:04:47.637071+00:00",
+    "date": "2026-09-26T17:09:38.386506+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1414,7 +1419,7 @@
   },
   {
     "id": "08b51f852fa7c9f9",
-    "date": "2026-09-26T13:04:47.636992+00:00",
+    "date": "2026-09-26T17:09:38.386362+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1443,7 +1448,7 @@
   },
   {
     "id": "340cb7fe68c56b32",
-    "date": "2026-09-26T13:04:47.636915+00:00",
+    "date": "2026-09-26T17:09:38.386244+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1472,7 +1477,7 @@
   },
   {
     "id": "179b308471c86534",
-    "date": "2026-09-26T13:04:47.636824+00:00",
+    "date": "2026-09-26T17:09:38.386108+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1501,7 +1506,7 @@
   },
   {
     "id": "b369fd70e0b6cc94",
-    "date": "2026-09-26T13:04:47.636727+00:00",
+    "date": "2026-09-26T17:09:38.385964+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1530,7 +1535,7 @@
   },
   {
     "id": "148d70f4b48af49d",
-    "date": "2026-09-26T13:04:47.636639+00:00",
+    "date": "2026-09-26T17:09:38.385828+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1559,7 +1564,7 @@
   },
   {
     "id": "dee567bbe7e1a72b",
-    "date": "2026-09-26T13:04:47.636554+00:00",
+    "date": "2026-09-26T17:09:38.385696+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1588,7 +1593,7 @@
   },
   {
     "id": "c7a91abff2298e71",
-    "date": "2026-09-26T13:04:47.636463+00:00",
+    "date": "2026-09-26T17:09:38.385558+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1617,7 +1622,7 @@
   },
   {
     "id": "4539b9cb561f99d1",
-    "date": "2026-09-26T13:04:47.636376+00:00",
+    "date": "2026-09-26T17:09:38.385398+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1646,7 +1651,7 @@
   },
   {
     "id": "a6b4a5afef4098ce",
-    "date": "2026-09-26T13:04:47.636281+00:00",
+    "date": "2026-09-26T17:09:38.385240+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1675,7 +1680,7 @@
   },
   {
     "id": "b075b18f0e658b26",
-    "date": "2026-09-26T13:04:47.636189+00:00",
+    "date": "2026-09-26T17:09:38.385073+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1704,7 +1709,7 @@
   },
   {
     "id": "d60c6f45f7d63b4d",
-    "date": "2026-09-26T13:04:47.636101+00:00",
+    "date": "2026-09-26T17:09:38.384929+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1733,7 +1738,7 @@
   },
   {
     "id": "49d1b0d750ec79aa",
-    "date": "2026-09-26T13:04:47.636015+00:00",
+    "date": "2026-09-26T17:09:38.384796+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1762,7 +1767,7 @@
   },
   {
     "id": "5f2673b7e18d6fbf",
-    "date": "2026-09-26T13:04:47.635931+00:00",
+    "date": "2026-09-26T17:09:38.384668+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1791,7 +1796,7 @@
   },
   {
     "id": "76160d04e5b7eb2f",
-    "date": "2026-09-26T13:04:47.635841+00:00",
+    "date": "2026-09-26T17:09:38.384521+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1820,7 +1825,7 @@
   },
   {
     "id": "712d77ebe16b35c0",
-    "date": "2026-09-26T13:04:47.635745+00:00",
+    "date": "2026-09-26T17:09:38.384352+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1849,7 +1854,7 @@
   },
   {
     "id": "1e85d461b0c8ae5d",
-    "date": "2026-09-26T13:04:47.635657+00:00",
+    "date": "2026-09-26T17:09:38.384217+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1878,7 +1883,7 @@
   },
   {
     "id": "8723c73403ec370c",
-    "date": "2026-09-26T13:04:47.635557+00:00",
+    "date": "2026-09-26T17:09:38.384034+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1907,7 +1912,7 @@
   },
   {
     "id": "e1bd3212072f945d",
-    "date": "2026-09-26T13:04:47.635474+00:00",
+    "date": "2026-09-26T17:09:38.383905+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1936,7 +1941,7 @@
   },
   {
     "id": "63e139a63ccf8162",
-    "date": "2026-09-26T13:04:47.635380+00:00",
+    "date": "2026-09-26T17:09:38.383772+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1965,7 +1970,7 @@
   },
   {
     "id": "82ed93a21cd7bb17",
-    "date": "2026-09-26T13:04:47.635273+00:00",
+    "date": "2026-09-26T17:09:38.383637+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1994,7 +1999,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-09-26T13:04:47.635170+00:00",
+    "date": "2026-09-26T17:09:38.383423+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2035,7 +2040,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-09-26T13:04:47.634988+00:00",
+    "date": "2026-09-26T17:09:38.383207+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2063,6 +2068,93 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "59df9af883a30fbe",
+    "date": "2026-09-26T16:26:58+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+    "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+    "article_text": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. Claude Opus 5.5 is not only one of the best models for coding, but it also appears to be a bit better at writing, as Anthropic appears to be changing how AI writes. According to Arena , an AI benchmarking tool, Opus 5.5 has fewer obvious AI writing patterns, so you're less likely to create AI slop content with this model. It also found that sentences are now shorter, which means you have fewer long sentences and simpler wording compared with Opus 5. Arena analyzed high-reasoning Text Arena responses from August and September 2026 and observed that 10 of 12 writing measures moved in what it considers a better direction. Interestingly, Arena's data confirms that Opus has almost stopped using em dashes, which was one of the biggest signs of AI-generated content. Opus 5 used 15.2 em dashes per 1,000 words, while Opus 5.5 dropped that figure to just 0.8, a reduction of roughly 95%. It also found that semicolon usage fell sharply from 6.10 to 1.64 per 1,000 words. The newer model writes shorter sentences, averaging 10.03 words compared with 12.14 for Opus 5. However, there is one obvious tradeoff, and that is that Opus 5.5 is more verbose. In other words, average answers increased from 453 to 481 words, making it the longest-writing Opus model in the comparison. More lately, AI models have focused mostly on the coding side of things, so it's quite interesting to watch Anthropic change how Claude writes, and if anything, you'll see fewer em dashes on the internet. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions Anthropic is cutting Claude Code's current weekly limits by 17% Anthropic wants Claude to analyze your bank account and financial data Hackers abused Claude to extract secrets from 1.8M Android apps Anthropic confirms Claude is down in major outage affecting multiple services Microsoft: September Windows updates break Always On VPN connections Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers Windows 11 KB5124010 update released with 46 changes and fixes Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+    "target": "Claude Opus 5.5",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/"
+      }
+    ]
+  },
+  {
+    "id": "b8704ecafce81837",
+    "date": "2026-09-26T15:50:38+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+    "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+    "article_text": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. KB5002907, titled \"Optional update for out-of-date Microsoft 365 Apps installations,\" was released to help users update Microsoft 365 Apps installations that are more than 90 days out of date. \"This optional update is available only for Windows PCs with Microsoft 365 Apps installations that are more than 90 days out of date and use Current Channel or Monthly Enterprise Channel ,\" explains the KB5002907 release notes . \"Installing the update can help the apps resume updating and move to a current build for the device's assigned update channel.\" Microsoft says KB5002907 is an optional update offered through Windows Update and does not install automatically. Shortly after the update was released, BleepingComputer was told by Christian Van Hautte, who runs an MSP in Belgium, that several of his customers suddenly found their perpetual Office installations showing as an \"Unlicensed Product.\" Van Hautte told BleepingComputer that five unrelated customers contacted his company within approximately ten minutes on September 24, with dozens of PCs affected across the organizations. \"The affected installations are all Office 2016 and Office 2019 Home & Business (perpetual/one-time purchase licenses),\" Van Hautte told BleepingComputer. \"The common factor is KB5002907, an update released around September 23 and described as targeting 'outdated Microsoft 365 Apps installations' — but it is clearly also landing on perpetual (non-subscription) Office installs and breaking their license state.\" Van Hautte said re-entering the original Office product key restored activation on affected systems. Furthermore, Van Hautte warned that even though the update is listed as optional, it installed automatically on his customers' devices. However, he later discovered that KB5002907 appears to remove and reinstall, or migrate the existing Office installation as part of its update process. Van Hautte says that on systems with Office components of different architectures, such as a 32-bit Office 2016 or 2019 installation alongside a 64-bit Microsoft Access Runtime, the reinstall can fail because Microsoft Office setup does not allow mixing 32-bit and 64-bit Office products. In those cases, he says the existing Office suite is removed but is not successfully reinstalled, leaving the device without Office. Microsoft has not confirmed that mixed-bitness installations cause this behavior. Reports from other administrators and users began appearing online at approximately the same time. One Reddit user reported that multiple Office 2019 installations suddenly became deactivated and said entering the product keys again restored activation on at least some devices. The user later updated the post to say the problem was not limited to Office 2019 and that some systems required signing into a Microsoft account and selecting the license rather than just entering the key. In another report , an administrator said several unrelated customers contacted them after Office had been completely uninstalled. \"My Office 2019 and dad's Office 2016 installs both got nuked overnight... both are 100% legit keys purchased long ago,\" another user replied . Similar reports appeared in the Microsoft forums , where multiple people reported similar issues after installing the update. After BleepingComputer contacted Microsoft about the reports, the company confirmed that it had paused the update while investigating the issue. \"We are aware of these reports and have paused the update while we investigate. Additional customer guidance will be communicated via appropriate channels,\" a Microsoft spokesperson told BleepingComputer. Microsoft also updated the KB5002907 support bulletin to acknowledge the problems. \"Microsoft is investigating reports of unexpected results on some devices running Office 2016 or Office 2019 after this update is installed,\" the company now says. \"To prevent additional devices from being affected, we have paused the rollout of this update.\" Microsoft confirms that affected Office installations can suffer from two different problems. In some cases, Office may appear unlicensed, and Microsoft recommends that customers reactivate their purchased product. In what Microsoft describes as \"rare cases,\" Office may be removed entirely. Microsoft instructs those users",
+    "quick_summary": [
+      "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+    "target": "Microsoft KB5002907 Office",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/"
+      }
+    ]
+  },
+  {
+    "id": "c559243a9255fb3f",
+    "date": "2026-09-26T13:36:11+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "ShinyHunters Bypass WAF Rules to Resume Oracle PeopleSoft Attacks",
+    "summary": "ShinyHunters exploit CVE-2026-35273 in Oracle PeopleSoft using URL encoding to bypass WAF rules, deploy web shells and spread the SIDEEYE backdoor.",
+    "article_text": "",
+    "quick_summary": [
+      "ShinyHunters exploit CVE-2026-35273 in Oracle PeopleSoft using URL encoding to bypass WAF rules, deploy web shells and spread the SIDEEYE backdoor.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://hackread.com/shinyhunters-bypass-waf-rules-oracle-peoplesoft-attacks/",
+    "target": "ShinyHunters Bypass WAF Rules",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/shinyhunters-bypass-waf-rules-oracle-peoplesoft-attacks/"
       }
     ]
   },
@@ -2121,6 +2213,64 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/"
+      }
+    ]
+  },
+  {
+    "id": "182f045874c45415",
+    "date": "2026-09-26T11:46:40+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+    "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution. The vulnerability was first exploited as a zero-day",
+    "article_text": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution. The vulnerability was first exploited as a zero-day in attacks against academic institutions to conduct reconnaissance, deploy remote access software like MeshCentral agent for persistence, move laterally over SSH, run a shell script to connect via SSH to other internal PeopleSoft machines using known username/password combinations, and steal data. At that time, Google-owned Mandiant said it initiated notifications to over 100 global organizations whose IP addresses matched vulnerable endpoints, most of them located in the U.S. \"This new wave of activity stems from UNC6240 modifying its exploit to bypass web application firewall (WAF) rules blocking the vulnerable Environment Management Hub (PSEMHUB) endpoint,\" Mandiant said . \"The threat actor bypassed these string-based WAF rules by URL-encoding a single character in the request path, requesting /%50SEMHUB/ in place of /PSEMHUB/. Many WAF and reverse proxy rules match the literal path before URL decoding, while the PeopleSoft application server decodes the request and routes it to the vulnerable servlet.\" Targets of the latest activity include entities spanning higher education, technology, IT services, healthcare, agriculture, transportation, and government sectors, with the attackers deploying web shells on dozens of systems. \"Alongside the deployment of Ple64.exe, the threat actor staged the open-source Neo-reGeorg tunneling toolkit,\" Google said. \"To establish persistent access after web shell placement on Linux systems, UNC6240 deployed the legitimate RMM tool MeshAgent.\" About a quarter of the threat actor's commands are said to have been executed as root or NT Authority\\SYSTEM, granting them full control of the operating system. The remaining commands have been found to be run under PeopleSoft or WebLogic service accounts. To counter the threat, organizations are required to perform the following steps - \"UNC6240 has a well-established pattern of data theft extortion, that is, stealing data and threatening to release it on a data leak site unless the victim pays a ransom,\" Google said. \"Affected organizations should prepare for extortion communications and monitor for potential public exposure of stolen data.\" The disclosure comes as the ShinyHunters group broke into the U.S. Federal Bureau of Investigation's FBIJobs.gov portal (which remains inaccessible as of writing) and stole about 2-3 TB of sensitive data to contest allegations made by the agency against the group in a May 2026 alert. \"We want to reiterate and emphasise that we are NOT extorting the FBI,\" a ShinyHunters spokesperson told The Hacker News. \"This is NOT financially motivated. This is NOT a ransom or extortion. All we seek to do is set the record straight and protect the image of our organisation.\" The spokesperson also told the publication that the FBI jobs portal was breached using a zero-day vulnerability in Oracle PeopleSoft that's different from CVE-2026-35273. In a separate statement shared with The Register, the group said they started off as GnosticPlayers before rebranding to ShinyHunters in 2020. AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identity controls. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+    "target": "Attackers Bypass WAFs Exploit",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html"
+      }
+    ]
+  },
+  {
+    "id": "c71873bfb245c01e",
+    "date": "2026-09-26T10:30:00+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+    "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to",
+    "article_text": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to examine whether speed has outpaced the ability to secure what gets deployed . Security teams are increasingly asking what an agent can reach once it's running, and whether anyone would notice before it mattered. However tempting it may be to jump directly into enforcement controls and detections, you need to look before you leap. Research from Veeam reveals that 70% of organizations admit that AI workflows are already in contact with sensitive corporate data without full oversight in place, and 67% report that IT cannot fully track the autonomous workflows that employees are building. Shadow AI is just one of the challenges to visibility of AI agents, but it exemplifies how quickly and pervasively this fundamental first step can slip through your grasp. Zero Trust principles can support an AI governance program, but only in the right order. \"You cannot govern what you cannot see\" is the underlying principle right at the top of the SANS cheat sheet, Zero Trust for AI Agents: The Security Checklist . The cheat sheet places inventory ahead of every enforcement control and treats this as a foundational prerequisite for a reason. In practice, organizations may skip to a policy enforcement point or an authorization scheme for an agent that has no named owner, no defined scope, and no entry in any inventory. That order of operations is a diagnosis of where Zero Trust programs can fail. A proxy or an authorization layer sitting in front of an unknown population of agents has nothing real to enforce against. Here are three visibility challenges to look for, with implications for you to consider when you “Think Red” like an attacker, and the solutions you can employ when you “Act Blue” as an informed defender. With any new technology, adoption moves first, and governance follows later, if it follows at all. Once security teams notice this gap, the first instinct is often prevention, which can include blocking unapproved tools, cutting off access, or just shutting down anything unfamiliar. Budget and attention accumulate for these processes first, but blocking things before anyone has a picture of what already exists risks shutting down legitimate use along with the shadow deployments. While the problem of Shadow IT has been acknowledged and addressed in other technologies for a long time, we are still crawling when it comes to doing this for AI. Think Red: When the agent is effectively invisible to you, an attacker doesn't need to breach much of anything to gain a foothold. A recent example in the news was an incident at METR , the nonprofit known recently for their evaluation of the Hugging Face incident. An attacker discovered an employee’s personal EC2 instance running a vibe-coded agentic app, then trivially bypassed authentication and prompted the agent to hand over its model provider API key. Over three weeks, the intruder used the equivalent of $600,000 in tokens, as there was no spending limit on the API key. METR’s internal dashboard simply didn’t show data on rate-limited requests at all, and token volume alone was not enough to raise any flags. Act Blue: Cloud technology has experienced these same growing pains, and we can look there for the road to visibility. Every company now has tighter controls around cloud, such as monitoring AWS/Azure usage and spending, and ensuring unused VMs are turned off or destroyed; but nobody does this for agents yet. Treat AI and agent spend, along with API-key issuance, as discovery signals. Finance and procurement are another vantage point that may also be overlooked. Publish an approved-provider path before blocking anything, so legitimate use has somewhere to go, and when it comes the operating order, start with the principle of \"know first, then restrict.\" Even once an organization commits to discovery, there is no single vantage point that gives you the whole population. Agents live across the network, the endpoint, the browser, and inside SaaS hosted elsewhere, and any one lens leaves large blind spots. Traffic to AI providers is TLS-encrypted, so an inline sensor sees a destination and",
+    "quick_summary": [
+      "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+    "target": "Zero Trust Agents Starts",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html"
       }
     ]
   },
@@ -3089,7 +3239,7 @@
     "category": "",
     "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
     "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
-    "article_text": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. OpenAI users, particularly power users, have been requesting more usage than the existing $200 plan offers for a while, so the $500 plan isn't just coming out of nowhere. One version of the page lists Pro Max at $500 per month, while another shows $600 after local taxes or VAT are included. So far, the most interesting difference in OpenAI's description is \"Fastest Work and Codex.\" I also noticed that ChatGPT's new plan teases access to the company's most capable frontier models, maximum memory, 100GB of file storage, and early access to new features. It is worth noting that the $200 plan also promises early access, so we are not sure if that capability is going away and becoming exclusive to the $500 plan. OpenAI has not announced Pro Max, so we don't know its exact usage limits yet. It could also offer substantially higher allowances than the existing Pro plans. There's another interesting possibility behind the \"Fastest Work and Codex\" wording, and the guess is that it could use Cerebras. For those unaware, OpenAI has been deploying more Cerebras hardware for ultra-fast AI inference , but we haven't seen anything recently from the company on that front. The most recent development was from early this year, when Codex-Spark launched on Cerebras at more than 1,000 tokens per second, and OpenAI later demonstrated GPT-5.6 Sol running at up to 750 output tokens per second in its Cerebras-powered Ultrafast mode. It is entirely possible that Cerebras is a likely candidate for powering at least some of Pro Max's faster Work and Codex experience, although neither OpenAI nor Cerebras has confirmed that connection. Right now, ChatGPT offers Pro tiers at $100 and $200 per month, but new sign-ups and upgrades to the ChatGPT Pro $200 plan have been temporarily paused since September 10. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor ChatGPT can now connect to your personal apps to mimic writing style OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems OpenAI says its new GPT 5.6 models are becoming more cost-efficient Microsoft: September Windows updates break Always On VPN connections Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers Windows 11 KB5124010 update released with 46 changes and fixes Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. OpenAI users, particularly power users, have been requesting more usage than the existing $200 plan offers for a while, so the $500 plan isn't just coming out of nowhere. One version of the page lists Pro Max at $500 per month, while another shows $600 after local taxes or VAT are included. So far, the most interesting difference in OpenAI's description is \"Fastest Work and Codex.\" I also noticed that ChatGPT's new plan teases access to the company's most capable frontier models, maximum memory, 100GB of file storage, and early access to new features. It is worth noting that the $200 plan also promises early access, so we are not sure if that capability is going away and becoming exclusive to the $500 plan. OpenAI has not announced Pro Max, so we don't know its exact usage limits yet. It could also offer substantially higher allowances than the existing Pro plans. There's another interesting possibility behind the \"Fastest Work and Codex\" wording, and the guess is that it could use Cerebras. For those unaware, OpenAI has been deploying more Cerebras hardware for ultra-fast AI inference , but we haven't seen anything recently from the company on that front. The most recent development was from early this year, when Codex-Spark launched on Cerebras at more than 1,000 tokens per second, and OpenAI later demonstrated GPT-5.6 Sol running at up to 750 output tokens per second in its Cerebras-powered Ultrafast mode. It is entirely possible that Cerebras is a likely candidate for powering at least some of Pro Max's faster Work and Codex experience, although neither OpenAI nor Cerebras has confirmed that connection. Right now, ChatGPT offers Pro tiers at $100 and $200 per month, but new sign-ups and upgrades to the ChatGPT Pro $200 plan have been temporarily paused since September 10. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. OpenAI's AI agents accidentally uploaded user-provided images to third-party sites OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor ChatGPT can now connect to your personal apps to mimic writing style OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems OpenAI says its new GPT 5.6 models are becoming more cost-efficient Microsoft: September Windows updates break Always On VPN connections Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers Windows 11 KB5124010 update released with 46 changes and fixes Overdue a password health-check? Audit your Active Directory for free Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -26666,151 +26816,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/tencent-patched-the-sogou-flaw-in-12-days-but-left-the-browser-alone"
-      }
-    ]
-  },
-  {
-    "id": "320277e9223ead9f",
-    "date": "2026-09-15T15:00:07.335074+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE CVE-2026-89688: Linux Kernel RCE, a Patch Written with Help from Claude",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-89688-linux-kernel-rce-a-patch-written-with-help-from-claude",
-    "target": "CVE CVE-2026-89688",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-89688-linux-kernel-rce-a-patch-written-with-help-from-claude"
-      }
-    ]
-  },
-  {
-    "id": "54dfa8f7e5627383",
-    "date": "2026-09-15T15:00:07.334594+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Heap Overflow in Linux Kernel NTFS3 Journal: Discovery and Coordinated Patch linux",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/linux/heap-overflow-in-linux-kernel-ntfs3-journal-discovery-and-coordinated-patch",
-    "target": "Heap Overflow Linux Kernel",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/linux/heap-overflow-in-linux-kernel-ntfs3-journal-discovery-and-coordinated-patch"
-      }
-    ]
-  },
-  {
-    "id": "bad0decec8ef850d",
-    "date": "2026-09-15T14:59:59+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Advertise Uncensored Luciferus AI Service on Underground Forums",
-    "summary": "Hackers are advertising a new “uncensored” artificial intelligence service called Luciferus, positioning it as a subscription assistant willing to process malware-development requests that mainstream AI systems would reject. Sophos Counter Threat Unit (CTU) researchers discovered the offering on August 24, 2026, on the Exploit underground forum. It targets criminal customers seeking fewer technical and operational […] The post Hackers Advertise Uncensored Luciferus AI Service on Underground Forums appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Hackers are advertising a new “uncensored” artificial intelligence service called Luciferus, positioning it as a subscription assistant willing to process malware-development requests that mainstream AI systems would rej",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/hackers-advertise-luciferus-ai-service/",
-    "target": "Advertise Uncensored Luciferus Service",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/hackers-advertise-luciferus-ai-service/"
-      }
-    ]
-  },
-  {
-    "id": "28b147e0d9ce2cc4",
-    "date": "2026-09-15T14:46:21+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "CISA Warns of Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks",
-    "summary": "CISA has added a critical Cisco Secure Email Gateway vulnerability to its Known Exploited Vulnerabilities catalog, warning that attackers are actively exploiting the flaw in real-world attacks. The issue, tracked as CVE-2026-76461, affects Cisco AsyncOS software used by Cisco Secure Email Gateway appliances. CVE-2026-76461 is an SQL injection vulnerability, categorized under CWE-89. It could allow […] The post CISA Warns of Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "CISA has added a critical Cisco Secure Email Gateway vulnerability to its Known Exploited Vulnerabilities catalog, warning that attackers are actively exploiting the flaw in real-world attacks.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability-exploited/",
-    "target": "CISA Cisco Secure Email",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability-exploited/"
-      }
-    ]
-  },
-  {
-    "id": "121dc2009d351b22",
-    "date": "2026-09-15T14:45:10+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-    "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
-    "article_text": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. The flaw is tracked as CVE-2026-27540 and impacts plugin versions 2.0.3.1 and older. It is an unauthenticated arbitrary file-upload vulnerability discovered by security researcher Teemu Saarentaus. An attacker can exploit it to upload PHP webshells and execute code, potentially leading to a complete site compromise. From a technical standpoint, the flaw is caused by exposing an unauthenticated AJAX action named wwlc_file_upload_handler, which checks file extensions against an allowlist supplied through the user-controlled file_settings request parameter. This allows adding ‘php’ to the permitted file types, making the plugin accept PHP executable file uploads. The vulnerability was addressed in version 2.0.3.2 of the WooCommerce Wholesale Lead Capture plugin, released on February 20. However, WordPress security company Defiant is warning that its Wordfence web application firewall blocked over 100,000 attacks linked to CVE-2026-27540. Wordfence reports that exploitation activity spiked between June 4 and June 17, and on July 1 and August 30. During the attacks, the hackers upload a webshell that conducts reconnaissance but can also introduce additional payloads. “The attacker submits a request to the wwlc_file_upload_handler AJAX action containing a forged file_settings parameter and a malicious file with a .php extension,” Wordfence explains . “The uploaded shell.php is a PHP webshell that reports host details and provides a browser-based upload form for writing additional malicious files to the site.” Wordfence provides a set of high-offender IP addresses that deployed tens of thousands of exploitation attempts. Administrators are recommended to add them to a blocklist and upgrade to plugin version 2.0.3.2 or later that addresses the security problem. The researchers advise checking upload directories for unexpected or recently created PHP files, examining logs for requests to /wp-admin/admin-ajax.php invoking wwlc_file_upload_handler, and removing unknown administrator accounts. If compromise is confirmed, the recommended action is to restore the website from a safe backup, as removing all persistence mechanisms, users, and backdoors may be complicated. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Critical Elementor Pro flaw exploited to take over WordPress sites Hackers target WordPress sites in miniOrange auth bypass attacks Critical Elementor Pro bug exposes WordPress sites to RCE attacks WordPress membership plugin bug exploited to create admin accounts Critical wp2shell WordPress flaws exploited to install webshells Microsoft releases emergency Windows updates to fix RDS failures Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent Microsoft: September updates cause RDS failures on Windows Server EtherHiding Malware on macOS: How Attackers Hide C2 on the Blockchain Find your gaps before an auditor does. Check your EU CRA readiness in 5 questions. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Watch a working exploit hit live controls and see exactly what blocks, detects, or misses Patch automation needs more than speed. Action1 brings control into every stage of deployment. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-    "target": "WordPress WooCommerce",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/"
       }
     ]
   }
