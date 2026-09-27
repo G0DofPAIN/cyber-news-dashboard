@@ -1,7 +1,7 @@
 [
   {
     "id": "4917c8e1cd171755",
-    "date": "2026-09-27T13:58:09.330646+00:00",
+    "date": "2026-09-27T18:23:34.815322+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "4696e6d7b8d67729",
-    "date": "2026-09-27T13:58:09.330533+00:00",
+    "date": "2026-09-27T18:23:34.815185+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "509f99e1a2ce10a2",
-    "date": "2026-09-27T13:58:09.330414+00:00",
+    "date": "2026-09-27T18:23:34.815064+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "04aa4197b4f15962",
-    "date": "2026-09-27T13:58:09.330292+00:00",
+    "date": "2026-09-27T18:23:34.814943+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "42b29ad6601e33ac",
-    "date": "2026-09-27T13:58:09.330178+00:00",
+    "date": "2026-09-27T18:23:34.814834+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "524ddff067e74358",
-    "date": "2026-09-27T13:58:09.330030+00:00",
+    "date": "2026-09-27T18:23:34.814711+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -175,14 +175,14 @@
   },
   {
     "id": "67eaf450e1bae23b",
-    "date": "2026-09-27T13:58:09.329905+00:00",
+    "date": "2026-09-27T18:23:34.814585+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
     "title": "GitHub Actions Mini Shai-Hulud Reactivated: Containment Turns Into Attack CYBERSEC",
     "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
-    "article_text": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. After being compromised on May 18, the GitHub security team removed actions-cool/issues-helper and actions-cool/maintain-one-comment, preventing any downstream workflow from downloading malware. According to researchers at application security company Socket, starting September 16 and up to September 25, the two actions became active again with the same release tags, causing workflows referencing their actions to download and execute the old payload. The Mini Shai-Hulud supply-chain attack in May affected 323 packages and 639 package versions on the Node Package Manager (npm) index, infecting them with malware that targets developers’ tokens, credentials, and CI/CD secrets. Socket researchers found that last Wednesday the release tags for actions-cool/issues-helper and actions-cool/maintain-one-comment resolved to a commit containing the obfuscated payload inside the ‘index.js’ file. “On September 16, 2026, both repositories became accessible again. Their release tags were not cleaned up first,\" Socket explained . \"They still point to the malicious content introduced on May 18, so any workflow that references either action by a version tag resumed downloading and executing the payload on its next run.” It is unclear exactly why these repositories were re-enabled without proper cleaning occurring first. Socket says that GitHub’s dependency graph lists about 15,000 repositories depending on ‘issues-helper,’ though this does not mean all of them were compromised. The researchers note that they have not yet established how many dependents reference either action by mutable tag instead of a pinned commit. However, they explained that the impacted actions are those running almost daily, as they support issue-housekeeping needs. On September 25, Socket found that both actions were disabled again on GitHub, leading workflows that reference them to fail instead of running the payload. Socket recommends finding references to both actions, removing them or pinning a verified clean commit, reviewing runs since September 16, and rotating secrets accessible to workflows that ran an affected tag. Potentially impacted developers should look for references to both actions and remove them or pin a verified clean commit. The exposure started on September 16 between 11:09 and 18:16 GMT+2. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. GitHub, PyPI add time-based defenses against supply chain attacks Exposed GitLab project email addresses let attackers push code Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer Malicious npm packages evade install-script defenses at runtime Microsoft: September Windows updates break Always On VPN connections Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers Windows 11 KB5124010 update released with 46 changes and fixes Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Overdue a password health-check? Audit your Active Directory for free Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. After being compromised on May 18, the GitHub security team removed actions-cool/issues-helper and actions-cool/maintain-one-comment, preventing any downstream workflow from downloading malware. According to researchers at application security company Socket, starting September 16 and up to September 25, the two actions became active again with the same release tags, causing workflows referencing their actions to download and execute the old payload. The Mini Shai-Hulud supply-chain attack in May affected 323 packages and 639 package versions on the Node Package Manager (npm) index, infecting them with malware that targets developers’ tokens, credentials, and CI/CD secrets. Socket researchers found that last Wednesday the release tags for actions-cool/issues-helper and actions-cool/maintain-one-comment resolved to a commit containing the obfuscated payload inside the ‘index.js’ file. “On September 16, 2026, both repositories became accessible again. Their release tags were not cleaned up first,\" Socket explained . \"They still point to the malicious content introduced on May 18, so any workflow that references either action by a version tag resumed downloading and executing the payload on its next run.” It is unclear exactly why these repositories were re-enabled without proper cleaning occurring first. Socket says that GitHub’s dependency graph lists about 15,000 repositories depending on ‘issues-helper,’ though this does not mean all of them were compromised. The researchers note that they have not yet established how many dependents reference either action by mutable tag instead of a pinned commit. However, they explained that the impacted actions are those running almost daily, as they support issue-housekeeping needs. On September 25, Socket found that both actions were disabled again on GitHub, leading workflows that reference them to fail instead of running the payload. Socket recommends finding references to both actions, removing them or pinning a verified clean commit, reviewing runs since September 16, and rotating secrets accessible to workflows that ran an affected tag. Potentially impacted developers should look for references to both actions and remove them or pin a verified clean commit. The exposure started on September 16 between 11:09 and 18:16 GMT+2. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Exposed GitLab project email addresses let attackers push code Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer Malicious npm packages evade install-script defenses at runtime Brevo supply-chain attack injected ClickFix scripts on customer sites Windows 11 KB5124010 update released with 46 changes and fixes Kiteworks urges 6-hour server shutdown over potential zero-day attacks CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Overdue a password health-check? Audit your Active Directory for free Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: general cybersecurity update",
@@ -209,7 +209,7 @@
   },
   {
     "id": "1634848e4d8941af",
-    "date": "2026-09-27T13:58:09.329787+00:00",
+    "date": "2026-09-27T18:23:34.814465+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -238,7 +238,7 @@
   },
   {
     "id": "b97807c8fa1bc2a9",
-    "date": "2026-09-27T13:58:09.329661+00:00",
+    "date": "2026-09-27T18:23:34.814338+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -267,7 +267,7 @@
   },
   {
     "id": "0d73971fed0a6dfa",
-    "date": "2026-09-27T13:58:09.329542+00:00",
+    "date": "2026-09-27T18:23:34.814193+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -296,7 +296,7 @@
   },
   {
     "id": "14d98b5908428d42",
-    "date": "2026-09-27T13:58:09.329282+00:00",
+    "date": "2026-09-27T18:23:34.813934+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -330,7 +330,7 @@
   },
   {
     "id": "5544e18d99c0752c",
-    "date": "2026-09-27T13:58:09.329148+00:00",
+    "date": "2026-09-27T18:23:34.813804+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -359,7 +359,7 @@
   },
   {
     "id": "39be40b6e85ab4a9",
-    "date": "2026-09-27T13:58:09.328310+00:00",
+    "date": "2026-09-27T18:23:34.812992+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -388,7 +388,7 @@
   },
   {
     "id": "1dbbf4f16b991704",
-    "date": "2026-09-27T13:58:09.327969+00:00",
+    "date": "2026-09-27T18:23:34.812741+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -417,7 +417,7 @@
   },
   {
     "id": "3ddb3eaee7aec34c",
-    "date": "2026-09-27T13:58:09.327699+00:00",
+    "date": "2026-09-27T18:23:34.812569+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -446,7 +446,7 @@
   },
   {
     "id": "6533f03d16ee4a97",
-    "date": "2026-09-27T13:58:08.392692+00:00",
+    "date": "2026-09-27T18:23:34.013133+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -547,7 +547,7 @@
   },
   {
     "id": "684fb15c49925c8f",
-    "date": "2026-09-27T13:58:07.700914+00:00",
+    "date": "2026-09-27T18:23:33.238898+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -576,7 +576,7 @@
   },
   {
     "id": "ea26aa0c6afd4464",
-    "date": "2026-09-27T13:58:07.700793+00:00",
+    "date": "2026-09-27T18:23:33.238775+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -605,7 +605,7 @@
   },
   {
     "id": "c49486b4aaf71150",
-    "date": "2026-09-27T13:58:07.700657+00:00",
+    "date": "2026-09-27T18:23:33.238639+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -634,7 +634,7 @@
   },
   {
     "id": "617da6fb2cf529ac",
-    "date": "2026-09-27T13:58:07.700531+00:00",
+    "date": "2026-09-27T18:23:33.238515+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -663,7 +663,7 @@
   },
   {
     "id": "58ec58fb7d0f6d1f",
-    "date": "2026-09-27T13:58:07.700402+00:00",
+    "date": "2026-09-27T18:23:33.238382+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -692,7 +692,7 @@
   },
   {
     "id": "cfebdfd08efd4bb6",
-    "date": "2026-09-27T13:58:07.700221+00:00",
+    "date": "2026-09-27T18:23:33.238184+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -721,7 +721,7 @@
   },
   {
     "id": "6edbf865772ebd6b",
-    "date": "2026-09-27T13:58:07.700049+00:00",
+    "date": "2026-09-27T18:23:33.238035+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -750,7 +750,7 @@
   },
   {
     "id": "520fcc6d930148d9",
-    "date": "2026-09-27T13:58:07.699832+00:00",
+    "date": "2026-09-27T18:23:33.237813+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -779,7 +779,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-09-27T13:58:07.699676+00:00",
+    "date": "2026-09-27T18:23:33.237653+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -808,7 +808,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-09-27T13:58:07.699536+00:00",
+    "date": "2026-09-27T18:23:33.237512+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -837,7 +837,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-09-27T13:58:07.699391+00:00",
+    "date": "2026-09-27T18:23:33.237363+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -866,7 +866,7 @@
   },
   {
     "id": "1a87663ef973d472",
-    "date": "2026-09-27T13:58:07.699196+00:00",
+    "date": "2026-09-27T18:23:33.237144+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -895,7 +895,7 @@
   },
   {
     "id": "f29feab6f4f0ee32",
-    "date": "2026-09-27T13:58:07.699027+00:00",
+    "date": "2026-09-27T18:23:33.236997+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -924,7 +924,7 @@
   },
   {
     "id": "824b78ae23ccefa5",
-    "date": "2026-09-27T13:58:07.698712+00:00",
+    "date": "2026-09-27T18:23:33.236678+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -953,7 +953,7 @@
   },
   {
     "id": "948ec72c6df6739b",
-    "date": "2026-09-27T13:58:07.698572+00:00",
+    "date": "2026-09-27T18:23:33.236541+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -982,7 +982,7 @@
   },
   {
     "id": "6b6ac0d8430f7f6e",
-    "date": "2026-09-27T13:58:07.698441+00:00",
+    "date": "2026-09-27T18:23:33.236411+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1011,7 +1011,7 @@
   },
   {
     "id": "82a693415895e590",
-    "date": "2026-09-27T13:58:07.698285+00:00",
+    "date": "2026-09-27T18:23:33.236258+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1040,7 +1040,7 @@
   },
   {
     "id": "be20f068fa081368",
-    "date": "2026-09-27T13:58:07.698086+00:00",
+    "date": "2026-09-27T18:23:33.236082+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1069,7 +1069,7 @@
   },
   {
     "id": "28f7af3ff98af5e2",
-    "date": "2026-09-27T13:58:07.697937+00:00",
+    "date": "2026-09-27T18:23:33.235928+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1098,7 +1098,7 @@
   },
   {
     "id": "6b10de9005e36428",
-    "date": "2026-09-27T13:58:07.697751+00:00",
+    "date": "2026-09-27T18:23:33.235740+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1127,7 +1127,7 @@
   },
   {
     "id": "f190b9c749fa644c",
-    "date": "2026-09-27T13:58:07.697570+00:00",
+    "date": "2026-09-27T18:23:33.235561+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1156,7 +1156,7 @@
   },
   {
     "id": "1b667c5aedbe58a3",
-    "date": "2026-09-27T13:58:07.697427+00:00",
+    "date": "2026-09-27T18:23:33.235420+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1213,7 +1213,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-09-27T13:58:07.693901+00:00",
+    "date": "2026-09-27T18:23:33.231865+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1242,7 +1242,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-09-27T13:58:07.692931+00:00",
+    "date": "2026-09-27T18:23:33.230907+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1271,7 +1271,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-09-27T13:58:07.692682+00:00",
+    "date": "2026-09-27T18:23:33.230652+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1300,7 +1300,7 @@
   },
   {
     "id": "340cb7fe68c56b32",
-    "date": "2026-09-27T13:58:07.533941+00:00",
+    "date": "2026-09-27T18:23:33.084997+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1329,7 +1329,7 @@
   },
   {
     "id": "179b308471c86534",
-    "date": "2026-09-27T13:58:07.533807+00:00",
+    "date": "2026-09-27T18:23:33.084861+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1358,7 +1358,7 @@
   },
   {
     "id": "b369fd70e0b6cc94",
-    "date": "2026-09-27T13:58:07.533664+00:00",
+    "date": "2026-09-27T18:23:33.084715+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1387,7 +1387,7 @@
   },
   {
     "id": "148d70f4b48af49d",
-    "date": "2026-09-27T13:58:07.533530+00:00",
+    "date": "2026-09-27T18:23:33.084579+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1416,7 +1416,7 @@
   },
   {
     "id": "dee567bbe7e1a72b",
-    "date": "2026-09-27T13:58:07.533398+00:00",
+    "date": "2026-09-27T18:23:33.084446+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1445,7 +1445,7 @@
   },
   {
     "id": "c7a91abff2298e71",
-    "date": "2026-09-27T13:58:07.533262+00:00",
+    "date": "2026-09-27T18:23:33.084307+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1474,7 +1474,7 @@
   },
   {
     "id": "a6b4a5afef4098ce",
-    "date": "2026-09-27T13:58:07.533110+00:00",
+    "date": "2026-09-27T18:23:33.084151+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1503,7 +1503,7 @@
   },
   {
     "id": "4539b9cb561f99d1",
-    "date": "2026-09-27T13:58:07.532979+00:00",
+    "date": "2026-09-27T18:23:33.084019+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1532,7 +1532,7 @@
   },
   {
     "id": "b075b18f0e658b26",
-    "date": "2026-09-27T13:58:07.532843+00:00",
+    "date": "2026-09-27T18:23:33.083878+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": "d60c6f45f7d63b4d",
-    "date": "2026-09-27T13:58:07.532710+00:00",
+    "date": "2026-09-27T18:23:33.083742+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1590,7 +1590,7 @@
   },
   {
     "id": "49d1b0d750ec79aa",
-    "date": "2026-09-27T13:58:07.532580+00:00",
+    "date": "2026-09-27T18:23:33.083609+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1619,7 +1619,7 @@
   },
   {
     "id": "5f2673b7e18d6fbf",
-    "date": "2026-09-27T13:58:07.532455+00:00",
+    "date": "2026-09-27T18:23:33.083476+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1648,7 +1648,7 @@
   },
   {
     "id": "76160d04e5b7eb2f",
-    "date": "2026-09-27T13:58:07.532323+00:00",
+    "date": "2026-09-27T18:23:33.083326+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1677,7 +1677,7 @@
   },
   {
     "id": "712d77ebe16b35c0",
-    "date": "2026-09-27T13:58:07.532178+00:00",
+    "date": "2026-09-27T18:23:33.083134+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1706,7 +1706,7 @@
   },
   {
     "id": "1e85d461b0c8ae5d",
-    "date": "2026-09-27T13:58:07.532023+00:00",
+    "date": "2026-09-27T18:23:33.083000+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1735,7 +1735,7 @@
   },
   {
     "id": "8723c73403ec370c",
-    "date": "2026-09-27T13:58:07.531880+00:00",
+    "date": "2026-09-27T18:23:33.082853+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1764,7 +1764,7 @@
   },
   {
     "id": "e1bd3212072f945d",
-    "date": "2026-09-27T13:58:07.531752+00:00",
+    "date": "2026-09-27T18:23:33.082721+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1793,7 +1793,7 @@
   },
   {
     "id": "63e139a63ccf8162",
-    "date": "2026-09-27T13:58:07.531629+00:00",
+    "date": "2026-09-27T18:23:33.082595+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1822,7 +1822,7 @@
   },
   {
     "id": "89d9b63f3f1bdfb2",
-    "date": "2026-09-27T13:58:07.531464+00:00",
+    "date": "2026-09-27T18:23:33.082443+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1851,7 +1851,7 @@
   },
   {
     "id": "82ed93a21cd7bb17",
-    "date": "2026-09-27T13:58:07.531336+00:00",
+    "date": "2026-09-27T18:23:33.082311+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1880,7 +1880,7 @@
   },
   {
     "id": "93898bcdf3a9bf92",
-    "date": "2026-09-27T13:58:07.531185+00:00",
+    "date": "2026-09-27T18:23:33.082144+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1909,7 +1909,7 @@
   },
   {
     "id": "3359349a20ee2d2f",
-    "date": "2026-09-27T13:58:07.531016+00:00",
+    "date": "2026-09-27T18:23:33.082005+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1938,7 +1938,7 @@
   },
   {
     "id": "7cd7b8337371085b",
-    "date": "2026-09-27T13:58:07.530881+00:00",
+    "date": "2026-09-27T18:23:33.081870+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1967,7 +1967,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-09-27T13:58:07.530734+00:00",
+    "date": "2026-09-27T18:23:33.081721+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2008,7 +2008,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-09-27T13:58:07.530536+00:00",
+    "date": "2026-09-27T18:23:33.081507+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2040,6 +2040,93 @@
     ]
   },
   {
+    "id": "bfd886120ec86ff6",
+    "date": "2026-09-27T16:02:37+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+    "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
+    "article_text": "Update: Article rewritten with official confirmation from Citrix. Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. The vulnerabilities are the same zero-days that cybersecurity researchers, IT providers, and national cybersecurity agencies began privately warning organizations about over the weekend. NetScaler appliances are particularly valuable targets because organizations commonly deploy them as Internet-facing edge devices that provide remote access and application delivery services for internal corporate networks. Compromising one of these devices can give attackers an initial foothold at the perimeter of a victim's network and potentially provide a path to internal systems without first compromising an endpoint inside the organization. The first signs of the incident appeared when Citrix administrators began reporting on Reddit that IT suppliers and security teams were privately contacting their organizations and advising them to shut down their NetScaler appliances. \"We got a call from our IT supplier's security team, they couldn't give any details but they advised to shut our Netscalers down immediately,\" one administrator wrote . Other administrators said law enforcement, CERTs, and national cybersecurity agencies had also been contacting organizations about the issue. Cybersecurity firm watchTowr later publicly warned that it was \"rapidly reacting to rumors\" that multiple unpatched Citrix NetScaler remote code execution vulnerabilities were being exploited in the wild after verifying the information with \"authoratitive sources.\" \"We are currently rapidly reacting to rumors that multiple unpatched Citrix NetScaler RCE vulnerabilities are circulating in the wild. While details are scarce, the information is credible,\" watchTowr said . Citrix has now published security bulletin CTX697096 , confirming the vulnerabilities and releasing patches for affected NetScaler ADC and NetScaler Gateway appliances. CVE-2026-88771 is a remote code execution vulnerability caused by improper input validation, allowing an unauthenticated attacker to execute arbitrary commands. It has a severity score of 9.5. Citrix says the flaw affects all NetScaler ADC and NetScaler Gateway deployments, including those using the default configuration, and does not require any additional feature to be enabled. CVE-2026-88772 is a memory overflow vulnerability that can lead to remote code execution or a denial-of-service condition, also with a severity score of 9.5. This vulnerability can be exploited when DTLS is enabled on a NetScaler ADC or NetScaler Gateway. Citrix notes that DTLS is enabled by default on VPN virtual servers. Citrix has confirmed that both flaws have been exploited in attacks against NetScaler devices as zero-days. \"Exploits of CVE-2026-88771 and CVE-2026-88772 on unmitigated NetScaler deployments have been observed,\" Citrix said in the security bulletin . Secure Private Access Hybrid deployments using NetScaler instances are also affected and must be upgraded to the recommended builds. Citrix says the bulletin only applies to customer-managed NetScaler ADC and NetScaler Gateway appliances. Cloud Software Group is upgrading Citrix-managed cloud services and Citrix-managed Adaptive Authentication. The security bulletin also fixes six other NetScaler vulnerabilities, bringing the total to eight flaws fixed in this update. Before Citrix publicly disclosed the vulnerabilities, the Dutch National Cyber Security Center (NCSC-NL) reportedly sent a pre-notification to organizations in the Netherlands warning about two critical NetScaler zero-days. Multiple people shared copies of the notification online, which said the agency had received information from a European partner CERT regarding two vulnerabilities that could independently lead to remote code execution. According to the notice, one vulnerability allowed attackers to place shellcode directly into memory, while technical details about the second vulnerability were still being researched. At the time, no CVE identifiers had been assigned, and Citrix had not yet published an advisory. The notification said Citrix discovered the vulnerabilities while investigating incidents in customer environments and identified active exploitation. It also said Citrix submitted a notification under the European Union'",
+    "quick_summary": [
+      "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the fl",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+    "target": "Citrix NetScaler RCE",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/"
+      }
+    ]
+  },
+  {
+    "id": "63c47277fbc92d7f",
+    "date": "2026-09-27T15:04:49+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
+    "summary": "Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs.",
+    "article_text": "",
+    "quick_summary": [
+      "Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33372",
+    "target": "Wireshark 4.6.9 Released Sun",
+    "type": "General Cybersecurity",
+    "severity": "Medium",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33372"
+      }
+    ]
+  },
+  {
+    "id": "ee00a8c046689b78",
+    "date": "2026-09-27T14:13:31+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+    "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+    "article_text": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers’ containers on the same physical host. Cloudflare Containers is a service available on the Workers Paid plan that lets developers run containerized applications on Cloudflare’s infrastructure, alongside Cloudflare Workers. Developers and companies building applications on Cloudflare typically use it, including those running backend services, processing jobs, and code execution environments. The flaw was reported through HackerOne on September 4 by Oren Yomtov , a security researcher at technology company Accomplish. Exploiting it would let an attacker read other customers' files , including directory listings, SQLite databases, Chromium profiles, .env files, and credential files. According to Cloudflare’s disclosure, the issue was in a shared storage pool configured to skip zeroing reused 64 KiB blocks. “When the thin volume backing a container's root disk was deleted, its physical blocks were returned to a pool that served workloads belonging to multiple customer accounts,” Cloudflare explains . By writing only 4 KiB to an unused region of a new container’s disk, the researchers could cause a reused 64 KiB physical block to be allocated. Without the zeroing operation, only the 4 KiB write would overwrite the block, leaving in a readable state the remaining 60 KiB that may contain data from a previous customer. They found residual material on 18 of 24 container placements and across 20 of 22 underlying nodes tested, including directory structures, database pages, and structurally complete SQLite databases. “The vulnerability would potentially have allowed for a customer with a Workers Paid account to recover residual data from storage blocks previously used by other customers’ Containers on the same underlying host,” Cloudflare says. “A successful exploitation would have crossed the tenant-isolation boundary and could disclose filesystem metadata, directory structures, database pages, and application data.” An attacker would not have control over the victim or host, nor would they be able to read an actively attached disk. Cloudflare says the researchers only used scripts that performed checks and returned aggregate counts, not actual disk contents, so no real customer data was exposed in this evaluation. The researchers also did not demonstrate any way to change another customer’s data or disrupt their workloads on Cloudflare’s service. Cloudflare removed the setting that caused the skipped block zeroing, retired existing container disks, and cleared cached snapshots that may contain old mappings, finishing all mitigation actions by September 19, 2026. After examining logs, telemetry, and historical data, the company found no evidence that customer data was exposed via the method described by Accomplish. Cloudflare applied the fixes to its infrastructure automatically, and customers need to take no action to address the risk. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Gyazo server flaw exploited to steal 23.6 million user records CenterPoint Energy confirms customer data stolen in cyberattack Sakura Internet hack exposes data of up to 1.36 million accounts SafePal data breach impacts 39,798 customers, stolen info for sale whoAMI attacks give hackers code execution on Amazon EC2 instances Windows 11 KB5124010 update released with 46 changes and fixes Kiteworks urges 6-hour server shutdown over potential zero-day attacks CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+    "target": "Cloudflare Containers",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/"
+      }
+    ]
+  },
+  {
     "id": "8a1bec09d9fcfe98",
     "date": "2026-09-27T13:38:40+00:00",
     "source": "BleepingComputer",
@@ -2048,7 +2135,7 @@
     "category": "",
     "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
     "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
-    "article_text": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. Claude's marketplace is already public, and Anthropic says it's already offering more than 2,000 connectors and plugins. These plugins or connectors are available from companies like Atlassian, Google, Microsoft, Notion, Salesforce, and others, so it's not just Anthropic filling up the marketplace. Anthropic is also allowing companies to buy Claude-powered agents and products from partners such as CrowdStrike, Cursor, Harvey, Legora, Lovable, and Snowflake. In a blog post , Anthropic noted that Claude Marketplace also includes consulting and systems integration partners. This includes Accenture, Boston Consulting Group, and Deloitte, for companies that want help deploying Claude across their organization. Claude has always allowed users to connect more of the apps they already use, but having a marketplace similar to the Play Store allows you to go beyond basic integrations. Having Microsoft or Google's support alone may not be enough for the marketplace to succeed, and we have seen similar problems when OpenAI launched an apps marketplace. It didn't work out, and Anthropic wants to avoid that mistake by allowing anybody to publish their products. If you're a developer, you can create connectors and plugins using Model Context Protocol (MCP) and Agent Skills, while companies selling Claude-powered software can apply to have their products listed. Anthropic says the goal is to make it easier for teams to discover products that already work with Claude, while giving developers and partners a direct way to reach existing Claude customers. In a way, Anthropic is building a Google Play Store for AI-related features, but only time will tell if it works out. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions Anthropic is cutting Claude Code's current weekly limits by 17% Anthropic wants Claude to analyze your bank account and financial data Hackers abused Claude to extract secrets from 1.8M Android apps Windows 11 KB5124010 update released with 46 changes and fixes Kiteworks urges 6-hour server shutdown over potential zero-day attacks Microsoft: Recent Windows updates cause desktop loading issues Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Overdue a password health-check? Audit your Active Directory for free Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. Claude's marketplace is already public, and Anthropic says it's already offering more than 2,000 connectors and plugins. These plugins or connectors are available from companies like Atlassian, Google, Microsoft, Notion, Salesforce, and others, so it's not just Anthropic filling up the marketplace. Anthropic is also allowing companies to buy Claude-powered agents and products from partners such as CrowdStrike, Cursor, Harvey, Legora, Lovable, and Snowflake. In a blog post , Anthropic noted that Claude Marketplace also includes consulting and systems integration partners. This includes Accenture, Boston Consulting Group, and Deloitte, for companies that want help deploying Claude across their organization. Claude has always allowed users to connect more of the apps they already use, but having a marketplace similar to the Play Store allows you to go beyond basic integrations. Having Microsoft or Google's support alone may not be enough for the marketplace to succeed, and we have seen similar problems when OpenAI launched an apps marketplace. It didn't work out, and Anthropic wants to avoid that mistake by allowing anybody to publish their products. If you're a developer, you can create connectors and plugins using Model Context Protocol (MCP) and Agent Skills, while companies selling Claude-powered software can apply to have their products listed. Anthropic says the goal is to make it easier for teams to discover products that already work with Claude, while giving developers and partners a direct way to reach existing Claude customers. In a way, Anthropic is building a Google Play Store for AI-related features, but only time will tell if it works out. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions Anthropic is cutting Claude Code's current weekly limits by 17% Anthropic wants Claude to analyze your bank account and financial data Hackers abused Claude to extract secrets from 1.8M Android apps Windows 11 KB5124010 update released with 46 changes and fixes Kiteworks urges 6-hour server shutdown over potential zero-day attacks CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -2694,7 +2781,7 @@
     "category": "",
     "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
     "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
-    "article_text": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. Claude Opus 5.5 is not only one of the best models for coding, but it also appears to be a bit better at writing, as Anthropic appears to be changing how AI writes. According to Arena , an AI benchmarking tool, Opus 5.5 has fewer obvious AI writing patterns, so you're less likely to create AI slop content with this model. It also found that sentences are now shorter, which means you have fewer long sentences and simpler wording compared with Opus 5. Arena analyzed high-reasoning Text Arena responses from August and September 2026 and observed that 10 of 12 writing measures moved in what it considers a better direction. Interestingly, Arena's data confirms that Opus has almost stopped using em dashes, which was one of the biggest signs of AI-generated content. Opus 5 used 15.2 em dashes per 1,000 words, while Opus 5.5 dropped that figure to just 0.8, a reduction of roughly 95%. It also found that semicolon usage fell sharply from 6.10 to 1.64 per 1,000 words. The newer model writes shorter sentences, averaging 10.03 words compared with 12.14 for Opus 5. However, there is one obvious tradeoff, and that is that Opus 5.5 is more verbose. In other words, average answers increased from 453 to 481 words, making it the longest-writing Opus model in the comparison. More lately, AI models have focused mostly on the coding side of things, so it's quite interesting to watch Anthropic change how Claude writes, and if anything, you'll see fewer em dashes on the internet. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions Anthropic is cutting Claude Code's current weekly limits by 17% Anthropic wants Claude to analyze your bank account and financial data Hackers abused Claude to extract secrets from 1.8M Android apps Anthropic confirms Claude is down in major outage affecting multiple services Microsoft: September Windows updates break Always On VPN connections Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers Windows 11 KB5124010 update released with 46 changes and fixes Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. Claude Opus 5.5 is not only one of the best models for coding, but it also appears to be a bit better at writing, as Anthropic appears to be changing how AI writes. According to Arena , an AI benchmarking tool, Opus 5.5 has fewer obvious AI writing patterns, so you're less likely to create AI slop content with this model. It also found that sentences are now shorter, which means you have fewer long sentences and simpler wording compared with Opus 5. Arena analyzed high-reasoning Text Arena responses from August and September 2026 and observed that 10 of 12 writing measures moved in what it considers a better direction. Interestingly, Arena's data confirms that Opus has almost stopped using em dashes, which was one of the biggest signs of AI-generated content. Opus 5 used 15.2 em dashes per 1,000 words, while Opus 5.5 dropped that figure to just 0.8, a reduction of roughly 95%. It also found that semicolon usage fell sharply from 6.10 to 1.64 per 1,000 words. The newer model writes shorter sentences, averaging 10.03 words compared with 12.14 for Opus 5. However, there is one obvious tradeoff, and that is that Opus 5.5 is more verbose. In other words, average answers increased from 453 to 481 words, making it the longest-writing Opus model in the comparison. More lately, AI models have focused mostly on the coding side of things, so it's quite interesting to watch Anthropic change how Claude writes, and if anything, you'll see fewer em dashes on the internet. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions Anthropic is cutting Claude Code's current weekly limits by 17% Anthropic wants Claude to analyze your bank account and financial data Hackers abused Claude to extract secrets from 1.8M Android apps Windows 11 KB5124010 update released with 46 changes and fixes Kiteworks urges 6-hour server shutdown over potential zero-day attacks CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Overdue a password health-check? Audit your Active Directory for free Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -26729,93 +26816,6 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/"
-      }
-    ]
-  },
-  {
-    "id": "f7164f61400c8633",
-    "date": "2026-09-15T19:27:19+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
-    "summary": "The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI security, cyber resilience, and alignment. Throughout the session, they will share insights that address key topics raised by the Black Hat Review Board, including model safeguards, evaluation and containment practices, defensive use cases for AI, and the broader implications of increasingly autonomous systems for the cybersecurity community. The session will trace the models' attack path, including how frontier models are sandboxed during evaluations, how the models exploited a zero-day vulnerability to gain internet access, and how they identified and leveraged a remote code execution path on Hugging Face infrastructure. Drawing on the joint investigation, the speakers will explain how the activity was detected, contained, and investigated. They will also discuss the changes OpenAI is making to strengthen evaluation environments, containment controls, and monitoring capabilities, as well as the role AI systems played in supporting the investigation and response. In addition to the technical reconstruction of the incident, the session will address broader questions relevant to the security community, including lessons for improving AI system security, defensive applications of AI in incident response, and approaches to mitigating emerging risks associated with increasingly capable models. The discussion wi",
-    "article_text": "",
-    "quick_summary": [
-      "The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Huggin",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
-    "target": "Black Hat USA 2026",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk"
-      }
-    ]
-  },
-  {
-    "id": "83e5c72f485b8ace",
-    "date": "2026-09-15T18:59:54.723962+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Sandworm Strikes the Heart of Cisco Firewalls with 64-bit Cyclops Blink CYBERSEC CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/sandworm-strikes-the-heart-of-cisco-firewalls-with-64-bit-cyclops-blink",
-    "target": "Sandworm Strikes Heart Cisco",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/sandworm-strikes-the-heart-of-cisco-firewalls-with-64-bit-cyclops-blink"
-      }
-    ]
-  },
-  {
-    "id": "4248faf47b086ae1",
-    "date": "2026-09-15T18:59:54.723818+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Hacking Cat: Pro-Ukraine Hacktivism Arms Itself with Custom Malware malware",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/malware/hacking-cat-pro-ukraine-hacktivism-arms-itself-with-custom-malware",
-    "target": "Cat",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/hacking-cat-pro-ukraine-hacktivism-arms-itself-with-custom-malware"
       }
     ]
   }
