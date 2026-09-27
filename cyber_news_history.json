@@ -1,36 +1,7 @@
 [
   {
-    "id": "4917c8e1cd171755",
-    "date": "2026-09-27T18:23:34.815322+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE Roundcube CVE-2026-48842: Passwordless Attack on Webmail",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/roundcube-cve-2026-48842-passwordless-attack-on-webmail",
-    "target": "CVE Roundcube CVE-2026-48842",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/roundcube-cve-2026-48842-passwordless-attack-on-webmail"
-      }
-    ]
-  },
-  {
     "id": "4696e6d7b8d67729",
-    "date": "2026-09-27T18:23:34.815185+00:00",
+    "date": "2026-09-27T22:10:39.229758+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "509f99e1a2ce10a2",
-    "date": "2026-09-27T18:23:34.815064+00:00",
+    "date": "2026-09-27T22:10:39.229640+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "04aa4197b4f15962",
-    "date": "2026-09-27T18:23:34.814943+00:00",
+    "date": "2026-09-27T22:10:39.229522+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "42b29ad6601e33ac",
-    "date": "2026-09-27T18:23:34.814834+00:00",
+    "date": "2026-09-27T22:10:39.229415+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -145,23 +116,23 @@
     ]
   },
   {
-    "id": "524ddff067e74358",
-    "date": "2026-09-27T18:23:34.814711+00:00",
+    "id": "78c28d3f0d864a5b",
+    "date": "2026-09-27T22:10:39.229301+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Kothamine RAT Abuses Tailscale's tailcat for SOC-Invisible C2 malware",
+    "title": "EXPLOIT FBIJobs Breach: Recruitment Databases Are Prime Intelligence Assets",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
+      "Risk: vulnerability/exploitation risk",
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://deafnews.it/en/news/malware/kothamine-rat-abuses-tailscales-tailcat-for-soc-invisible-c2",
-    "target": "Kothamine RAT Abuses Tailscales",
-    "type": "Malware",
+    "link": "https://deafnews.it/en/news/cybersecurity/fbijobs-breach-recruitment-databases-are-prime-intelligence-assets",
+    "target": "EXPLOIT FBIJobs Breach",
+    "type": "Data Leak / Breach",
     "severity": "High",
     "sources": [
       "DeafNews"
@@ -169,47 +140,42 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/kothamine-rat-abuses-tailscales-tailcat-for-soc-invisible-c2"
+        "url": "https://deafnews.it/en/news/cybersecurity/fbijobs-breach-recruitment-databases-are-prime-intelligence-assets"
       }
     ]
   },
   {
-    "id": "67eaf450e1bae23b",
-    "date": "2026-09-27T18:23:34.814585+00:00",
+    "id": "71b4463ec382ea66",
+    "date": "2026-09-27T22:10:39.229189+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "GitHub Actions Mini Shai-Hulud Reactivated: Containment Turns Into Attack CYBERSEC",
-    "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
-    "article_text": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. After being compromised on May 18, the GitHub security team removed actions-cool/issues-helper and actions-cool/maintain-one-comment, preventing any downstream workflow from downloading malware. According to researchers at application security company Socket, starting September 16 and up to September 25, the two actions became active again with the same release tags, causing workflows referencing their actions to download and execute the old payload. The Mini Shai-Hulud supply-chain attack in May affected 323 packages and 639 package versions on the Node Package Manager (npm) index, infecting them with malware that targets developers’ tokens, credentials, and CI/CD secrets. Socket researchers found that last Wednesday the release tags for actions-cool/issues-helper and actions-cool/maintain-one-comment resolved to a commit containing the obfuscated payload inside the ‘index.js’ file. “On September 16, 2026, both repositories became accessible again. Their release tags were not cleaned up first,\" Socket explained . \"They still point to the malicious content introduced on May 18, so any workflow that references either action by a version tag resumed downloading and executing the payload on its next run.” It is unclear exactly why these repositories were re-enabled without proper cleaning occurring first. Socket says that GitHub’s dependency graph lists about 15,000 repositories depending on ‘issues-helper,’ though this does not mean all of them were compromised. The researchers note that they have not yet established how many dependents reference either action by mutable tag instead of a pinned commit. However, they explained that the impacted actions are those running almost daily, as they support issue-housekeeping needs. On September 25, Socket found that both actions were disabled again on GitHub, leading workflows that reference them to fail instead of running the payload. Socket recommends finding references to both actions, removing them or pinning a verified clean commit, reviewing runs since September 16, and rotating secrets accessible to workflows that ran an affected tag. Potentially impacted developers should look for references to both actions and remove them or pin a verified clean commit. The exposure started on September 16 between 11:09 and 18:16 GMT+2. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Exposed GitLab project email addresses let attackers push code Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer Malicious npm packages evade install-script defenses at runtime Brevo supply-chain attack injected ClickFix scripts on customer sites Windows 11 KB5124010 update released with 46 changes and fixes Kiteworks urges 6-hour server shutdown over potential zero-day attacks CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Overdue a password health-check? Audit your Active Directory for free Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
+    "title": "EXPLOIT WordPress Under Attack: Malicious PHP Files in /tmp in Under Five Hours",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
+      "Risk: vulnerability/exploitation risk",
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/github-actions-mini-shai-hulud-reactivated-containment-turns-into-attack",
-    "target": "GitHub Actions Mini Shai-Hulud",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
+    "link": "https://deafnews.it/en/news/cybersecurity/wordpress-under-attack-malicious-php-files-in-tmp-in-under-five-hours",
+    "target": "EXPLOIT WordPress",
+    "type": "Vulnerability",
+    "severity": "Medium",
     "sources": [
-      "DeafNews",
-      "BleepingComputer"
+      "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/github-actions-mini-shai-hulud-reactivated-containment-turns-into-attack"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/"
+        "url": "https://deafnews.it/en/news/cybersecurity/wordpress-under-attack-malicious-php-files-in-tmp-in-under-five-hours"
       }
     ]
   },
   {
     "id": "1634848e4d8941af",
-    "date": "2026-09-27T18:23:34.814465+00:00",
+    "date": "2026-09-27T22:10:39.229068+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -238,7 +204,7 @@
   },
   {
     "id": "b97807c8fa1bc2a9",
-    "date": "2026-09-27T18:23:34.814338+00:00",
+    "date": "2026-09-27T22:10:39.228941+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -267,7 +233,7 @@
   },
   {
     "id": "0d73971fed0a6dfa",
-    "date": "2026-09-27T18:23:34.814193+00:00",
+    "date": "2026-09-27T22:10:39.228804+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -296,7 +262,7 @@
   },
   {
     "id": "14d98b5908428d42",
-    "date": "2026-09-27T18:23:34.813934+00:00",
+    "date": "2026-09-27T22:10:39.228557+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -330,7 +296,7 @@
   },
   {
     "id": "5544e18d99c0752c",
-    "date": "2026-09-27T18:23:34.813804+00:00",
+    "date": "2026-09-27T22:10:39.228434+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -358,8 +324,37 @@
     ]
   },
   {
+    "id": "c15ee4f4916fe6e5",
+    "date": "2026-09-27T22:10:39.228305+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Two Citrix NetScaler Zero-Day RCEs Drive Preemptive Shutdowns CYBERSEC ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/two-citrix-netscaler-zero-day-rces-drive-preemptive-shutdowns",
+    "target": "Two Citrix NetScaler Zero-Day",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/two-citrix-netscaler-zero-day-rces-drive-preemptive-shutdowns"
+      }
+    ]
+  },
+  {
     "id": "39be40b6e85ab4a9",
-    "date": "2026-09-27T18:23:34.812992+00:00",
+    "date": "2026-09-27T22:10:39.227636+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -387,13 +382,13 @@
     ]
   },
   {
-    "id": "1dbbf4f16b991704",
-    "date": "2026-09-27T18:23:34.812741+00:00",
+    "id": "4e39fe1940b7e372",
+    "date": "2026-09-27T22:10:39.227388+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "PamStealer: The macOS Malware That Only Decrypts Its Payload With a Live C2 Server",
+    "title": "malware PamStealer: The macOS Malware That Only Decrypts Its Payload With a Live C2 Server Sep 27, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -417,12 +412,12 @@
   },
   {
     "id": "3ddb3eaee7aec34c",
-    "date": "2026-09-27T18:23:34.812569+00:00",
+    "date": "2026-09-27T22:10:39.227047+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 ZERO-DAY · 1 CVE · 2 EXPLOIT IN THE LAST 24H →",
+    "title": "// 1 ZERO-DAY · 2 CVE · 4 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -446,7 +441,7 @@
   },
   {
     "id": "6533f03d16ee4a97",
-    "date": "2026-09-27T18:23:34.013133+00:00",
+    "date": "2026-09-27T22:10:37.743014+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -547,7 +542,7 @@
   },
   {
     "id": "684fb15c49925c8f",
-    "date": "2026-09-27T18:23:33.238898+00:00",
+    "date": "2026-09-27T22:10:36.655429+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -576,7 +571,7 @@
   },
   {
     "id": "ea26aa0c6afd4464",
-    "date": "2026-09-27T18:23:33.238775+00:00",
+    "date": "2026-09-27T22:10:36.655309+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -605,7 +600,7 @@
   },
   {
     "id": "c49486b4aaf71150",
-    "date": "2026-09-27T18:23:33.238639+00:00",
+    "date": "2026-09-27T22:10:36.655175+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -634,7 +629,7 @@
   },
   {
     "id": "617da6fb2cf529ac",
-    "date": "2026-09-27T18:23:33.238515+00:00",
+    "date": "2026-09-27T22:10:36.655049+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -663,7 +658,7 @@
   },
   {
     "id": "58ec58fb7d0f6d1f",
-    "date": "2026-09-27T18:23:33.238382+00:00",
+    "date": "2026-09-27T22:10:36.654889+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -692,7 +687,7 @@
   },
   {
     "id": "cfebdfd08efd4bb6",
-    "date": "2026-09-27T18:23:33.238184+00:00",
+    "date": "2026-09-27T22:10:36.654705+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -721,7 +716,7 @@
   },
   {
     "id": "6edbf865772ebd6b",
-    "date": "2026-09-27T18:23:33.238035+00:00",
+    "date": "2026-09-27T22:10:36.654546+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -750,7 +745,7 @@
   },
   {
     "id": "520fcc6d930148d9",
-    "date": "2026-09-27T18:23:33.237813+00:00",
+    "date": "2026-09-27T22:10:36.654318+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -779,7 +774,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-09-27T18:23:33.237653+00:00",
+    "date": "2026-09-27T22:10:36.654131+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -808,7 +803,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-09-27T18:23:33.237512+00:00",
+    "date": "2026-09-27T22:10:36.653926+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -837,7 +832,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-09-27T18:23:33.237363+00:00",
+    "date": "2026-09-27T22:10:36.653718+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -866,7 +861,7 @@
   },
   {
     "id": "1a87663ef973d472",
-    "date": "2026-09-27T18:23:33.237144+00:00",
+    "date": "2026-09-27T22:10:36.653520+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -895,7 +890,7 @@
   },
   {
     "id": "f29feab6f4f0ee32",
-    "date": "2026-09-27T18:23:33.236997+00:00",
+    "date": "2026-09-27T22:10:36.653345+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -924,7 +919,7 @@
   },
   {
     "id": "824b78ae23ccefa5",
-    "date": "2026-09-27T18:23:33.236678+00:00",
+    "date": "2026-09-27T22:10:36.652995+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -953,7 +948,7 @@
   },
   {
     "id": "948ec72c6df6739b",
-    "date": "2026-09-27T18:23:33.236541+00:00",
+    "date": "2026-09-27T22:10:36.652816+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -982,7 +977,7 @@
   },
   {
     "id": "6b6ac0d8430f7f6e",
-    "date": "2026-09-27T18:23:33.236411+00:00",
+    "date": "2026-09-27T22:10:36.652685+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1011,7 +1006,7 @@
   },
   {
     "id": "82a693415895e590",
-    "date": "2026-09-27T18:23:33.236258+00:00",
+    "date": "2026-09-27T22:10:36.652538+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1040,7 +1035,7 @@
   },
   {
     "id": "be20f068fa081368",
-    "date": "2026-09-27T18:23:33.236082+00:00",
+    "date": "2026-09-27T22:10:36.652379+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1069,7 +1064,7 @@
   },
   {
     "id": "28f7af3ff98af5e2",
-    "date": "2026-09-27T18:23:33.235928+00:00",
+    "date": "2026-09-27T22:10:36.652222+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1098,7 +1093,7 @@
   },
   {
     "id": "6b10de9005e36428",
-    "date": "2026-09-27T18:23:33.235740+00:00",
+    "date": "2026-09-27T22:10:36.652022+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1127,7 +1122,7 @@
   },
   {
     "id": "f190b9c749fa644c",
-    "date": "2026-09-27T18:23:33.235561+00:00",
+    "date": "2026-09-27T22:10:36.651800+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1156,7 +1151,7 @@
   },
   {
     "id": "1b667c5aedbe58a3",
-    "date": "2026-09-27T18:23:33.235420+00:00",
+    "date": "2026-09-27T22:10:36.651651+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1213,7 +1208,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-09-27T18:23:33.231865+00:00",
+    "date": "2026-09-27T22:10:36.648013+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1242,7 +1237,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-09-27T18:23:33.230907+00:00",
+    "date": "2026-09-27T22:10:36.647001+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1271,7 +1266,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-09-27T18:23:33.230652+00:00",
+    "date": "2026-09-27T22:10:36.646715+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1300,7 +1295,7 @@
   },
   {
     "id": "340cb7fe68c56b32",
-    "date": "2026-09-27T18:23:33.084997+00:00",
+    "date": "2026-09-27T22:10:36.490691+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1329,7 +1324,7 @@
   },
   {
     "id": "179b308471c86534",
-    "date": "2026-09-27T18:23:33.084861+00:00",
+    "date": "2026-09-27T22:10:36.490557+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1358,7 +1353,7 @@
   },
   {
     "id": "b369fd70e0b6cc94",
-    "date": "2026-09-27T18:23:33.084715+00:00",
+    "date": "2026-09-27T22:10:36.490413+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1387,7 +1382,7 @@
   },
   {
     "id": "148d70f4b48af49d",
-    "date": "2026-09-27T18:23:33.084579+00:00",
+    "date": "2026-09-27T22:10:36.490279+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1416,7 +1411,7 @@
   },
   {
     "id": "dee567bbe7e1a72b",
-    "date": "2026-09-27T18:23:33.084446+00:00",
+    "date": "2026-09-27T22:10:36.490148+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1445,7 +1440,7 @@
   },
   {
     "id": "c7a91abff2298e71",
-    "date": "2026-09-27T18:23:33.084307+00:00",
+    "date": "2026-09-27T22:10:36.490009+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1474,7 +1469,7 @@
   },
   {
     "id": "a6b4a5afef4098ce",
-    "date": "2026-09-27T18:23:33.084151+00:00",
+    "date": "2026-09-27T22:10:36.489853+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1503,7 +1498,7 @@
   },
   {
     "id": "4539b9cb561f99d1",
-    "date": "2026-09-27T18:23:33.084019+00:00",
+    "date": "2026-09-27T22:10:36.489722+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1532,7 +1527,7 @@
   },
   {
     "id": "b075b18f0e658b26",
-    "date": "2026-09-27T18:23:33.083878+00:00",
+    "date": "2026-09-27T22:10:36.489584+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1561,7 +1556,7 @@
   },
   {
     "id": "d60c6f45f7d63b4d",
-    "date": "2026-09-27T18:23:33.083742+00:00",
+    "date": "2026-09-27T22:10:36.489449+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1590,7 +1585,7 @@
   },
   {
     "id": "49d1b0d750ec79aa",
-    "date": "2026-09-27T18:23:33.083609+00:00",
+    "date": "2026-09-27T22:10:36.489319+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1619,7 +1614,7 @@
   },
   {
     "id": "5f2673b7e18d6fbf",
-    "date": "2026-09-27T18:23:33.083476+00:00",
+    "date": "2026-09-27T22:10:36.489193+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1648,7 +1643,7 @@
   },
   {
     "id": "76160d04e5b7eb2f",
-    "date": "2026-09-27T18:23:33.083326+00:00",
+    "date": "2026-09-27T22:10:36.489059+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1677,7 +1672,7 @@
   },
   {
     "id": "712d77ebe16b35c0",
-    "date": "2026-09-27T18:23:33.083134+00:00",
+    "date": "2026-09-27T22:10:36.488891+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1706,7 +1701,7 @@
   },
   {
     "id": "1e85d461b0c8ae5d",
-    "date": "2026-09-27T18:23:33.083000+00:00",
+    "date": "2026-09-27T22:10:36.488760+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1735,7 +1730,7 @@
   },
   {
     "id": "8723c73403ec370c",
-    "date": "2026-09-27T18:23:33.082853+00:00",
+    "date": "2026-09-27T22:10:36.488616+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1764,7 +1759,7 @@
   },
   {
     "id": "e1bd3212072f945d",
-    "date": "2026-09-27T18:23:33.082721+00:00",
+    "date": "2026-09-27T22:10:36.488486+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1793,7 +1788,7 @@
   },
   {
     "id": "63e139a63ccf8162",
-    "date": "2026-09-27T18:23:33.082595+00:00",
+    "date": "2026-09-27T22:10:36.488358+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1822,7 +1817,7 @@
   },
   {
     "id": "89d9b63f3f1bdfb2",
-    "date": "2026-09-27T18:23:33.082443+00:00",
+    "date": "2026-09-27T22:10:36.488199+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1851,7 +1846,7 @@
   },
   {
     "id": "82ed93a21cd7bb17",
-    "date": "2026-09-27T18:23:33.082311+00:00",
+    "date": "2026-09-27T22:10:36.487986+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1879,37 +1874,8 @@
     ]
   },
   {
-    "id": "93898bcdf3a9bf92",
-    "date": "2026-09-27T18:23:33.082144+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wr709b/revealing_the_details_of_how_openai_agents_hacked/",
-    "target": "Revealing OpenAI Hugging",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wr709b/revealing_the_details_of_how_openai_agents_hacked/"
-      }
-    ]
-  },
-  {
     "id": "3359349a20ee2d2f",
-    "date": "2026-09-27T18:23:33.082005+00:00",
+    "date": "2026-09-27T22:10:36.487827+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1937,8 +1903,37 @@
     ]
   },
   {
+    "id": "93898bcdf3a9bf92",
+    "date": "2026-09-27T22:10:36.487677+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wr709b/revealing_the_details_of_how_openai_agents_hacked/",
+    "target": "Revealing OpenAI Hugging",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wr709b/revealing_the_details_of_how_openai_agents_hacked/"
+      }
+    ]
+  },
+  {
     "id": "7cd7b8337371085b",
-    "date": "2026-09-27T18:23:33.081870+00:00",
+    "date": "2026-09-27T22:10:36.487543+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1967,7 +1962,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-09-27T18:23:33.081721+00:00",
+    "date": "2026-09-27T22:10:36.487391+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2008,7 +2003,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-09-27T18:23:33.081507+00:00",
+    "date": "2026-09-27T22:10:36.487169+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2036,6 +2031,127 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "e2c493fd1155b167",
+    "date": "2026-09-27T19:02:14+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Best Security Awareness Platforms for Personalized Employee Training",
+    "summary": "Comparing five leading security awareness platforms, based on the level of personalization they offer.",
+    "article_text": "",
+    "quick_summary": [
+      "Comparing five leading security awareness platforms, based on the level of personalization they offer.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://hackread.com/security-awareness-platforms-employee-training/",
+    "target": "Best Awareness Platforms Personalized",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/security-awareness-platforms-employee-training/"
+      }
+    ]
+  },
+  {
+    "id": "4917c8e1cd171755",
+    "date": "2026-09-27T18:23:34.815322+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE Roundcube CVE-2026-48842: Passwordless Attack on Webmail",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/roundcube-cve-2026-48842-passwordless-attack-on-webmail",
+    "target": "CVE Roundcube CVE-2026-48842",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/roundcube-cve-2026-48842-passwordless-attack-on-webmail"
+      }
+    ]
+  },
+  {
+    "id": "524ddff067e74358",
+    "date": "2026-09-27T18:23:34.814711+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Kothamine RAT Abuses Tailscale's tailcat for SOC-Invisible C2 malware",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/malware/kothamine-rat-abuses-tailscales-tailcat-for-soc-invisible-c2",
+    "target": "Kothamine RAT Abuses Tailscales",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/malware/kothamine-rat-abuses-tailscales-tailcat-for-soc-invisible-c2"
+      }
+    ]
+  },
+  {
+    "id": "67eaf450e1bae23b",
+    "date": "2026-09-27T18:23:34.814585+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "GitHub Actions Mini Shai-Hulud Reactivated: Containment Turns Into Attack CYBERSEC",
+    "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+    "article_text": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. After being compromised on May 18, the GitHub security team removed actions-cool/issues-helper and actions-cool/maintain-one-comment, preventing any downstream workflow from downloading malware. According to researchers at application security company Socket, starting September 16 and up to September 25, the two actions became active again with the same release tags, causing workflows referencing their actions to download and execute the old payload. The Mini Shai-Hulud supply-chain attack in May affected 323 packages and 639 package versions on the Node Package Manager (npm) index, infecting them with malware that targets developers’ tokens, credentials, and CI/CD secrets. Socket researchers found that last Wednesday the release tags for actions-cool/issues-helper and actions-cool/maintain-one-comment resolved to a commit containing the obfuscated payload inside the ‘index.js’ file. “On September 16, 2026, both repositories became accessible again. Their release tags were not cleaned up first,\" Socket explained . \"They still point to the malicious content introduced on May 18, so any workflow that references either action by a version tag resumed downloading and executing the payload on its next run.” It is unclear exactly why these repositories were re-enabled without proper cleaning occurring first. Socket says that GitHub’s dependency graph lists about 15,000 repositories depending on ‘issues-helper,’ though this does not mean all of them were compromised. The researchers note that they have not yet established how many dependents reference either action by mutable tag instead of a pinned commit. However, they explained that the impacted actions are those running almost daily, as they support issue-housekeeping needs. On September 25, Socket found that both actions were disabled again on GitHub, leading workflows that reference them to fail instead of running the payload. Socket recommends finding references to both actions, removing them or pinning a verified clean commit, reviewing runs since September 16, and rotating secrets accessible to workflows that ran an affected tag. Potentially impacted developers should look for references to both actions and remove them or pin a verified clean commit. The exposure started on September 16 between 11:09 and 18:16 GMT+2. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Exposed GitLab project email addresses let attackers push code Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer Malicious npm packages evade install-script defenses at runtime Brevo supply-chain attack injected ClickFix scripts on customer sites Windows 11 KB5124010 update released with 46 changes and fixes Kiteworks urges 6-hour server shutdown over potential zero-day attacks CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Overdue a password health-check? Audit your Active Directory for free Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/github-actions-mini-shai-hulud-reactivated-containment-turns-into-attack",
+    "target": "GitHub Actions Mini Shai-Hulud",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/github-actions-mini-shai-hulud-reactivated-containment-turns-into-attack"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/"
       }
     ]
   },
@@ -3441,6 +3557,35 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/"
+      }
+    ]
+  },
+  {
+    "id": "009b15ca7ec94169",
+    "date": "2026-09-25T20:28:10+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "How the CISO CFO Relationship is a Key to Cybersecurity Success",
+    "summary": "Building a financial bridge: Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk and enable business growth are better prepared to face today's threat landscape.",
+    "article_text": "",
+    "quick_summary": [
+      "Building a financial bridge: Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk and enable business growth are better prepared to face today's threat landscape.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
+    "target": "CISO CFO Relationship Key",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success"
       }
     ]
   },
@@ -26671,151 +26816,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/"
-      }
-    ]
-  },
-  {
-    "id": "975fa91362eb81dd",
-    "date": "2026-09-15T20:34:15+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-    "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
-    "article_text": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer’s website and pushed updates that created a hidden user account. Developer Janis Elsts says an unauthorized party accessed the adminmenueditor.com website on Monday and uploaded version 2.35 as an update for the plugin’s Pro version. The update included an includes/wp-user-consent.php file that installed a web shell on affected websites. After noticing the intrusion, Elsts removed the malicious update and pushed a clean version 2.36 on the same day at 19:00 UTC. However, the hacker still had access to the website and compromised the new version, too. Admin Menu Editor Pro is the premium version of Admin Menu Editor , a WordPress plugin present on more than 300,000 sites that allows administrators to customize their Dashboard menu, hide plugins from other users, set per-role access limits, and create login/logout redirects. Elsts told BleepingComputer that the malicious Admin Menu Editor Pro version 2.35 was available on the official website from approximately 06:00 to 13:00 UTC. The malicious PHP code it contained also created a hidden user account. According to the developer, at least 230 customers installed the malicious update on 1,500 sites. However, Elsts warns that the victim count could be larger since it is difficult to determine the number of customers running a trojanized version 2.36 of the plugin. \"Based on analysis of update server logs, approximately 230 customers were affected in the initial attack. The malicious version was installed at least 1500 sites (often multiple sites per customer),\" Elsts told BleepingComputer. \"Several hundred additional customers downloaded the plugin in or near the relevant time window, and could have also been affected,\" the developer added. The investigation indicates that the attacker likely had root-level server access, so Elsts decided to protect customers by taking the website offline until it could be restored with confidence. Currently, Ests published a static page with details about the incident and what customers can do to check if they are affected, along with recommendations to restore compromised websites to a safe state. Anyone who installed versions Admin Menu Editor Pro 2.35 and 2.36 should check for the following signs of compromise: Version 2.34 is believed to be clean, and the free version of Admin Menu Editor does not appear to be affected. Elsts says that the most reliable fix is to restore a compromised site from a safe backup before September 14. If this is not possible, the developer recommends deleting the plugin, the \"/wp-content/object-cache/\" directory, and the above database entries. The developer of the Admin Menu Editor WordPress plugin said the incident was limited to its infrastructure and apologized to affected customers. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. BdThemes plugins supply-chain hack creates rogue WordPress admins Hackers target WordPress sites via third-party WooCommerce plugin Critical Elementor Pro flaw exploited to take over WordPress sites WordPress backup plugin flaw exposes millions of sites to takeover attacks Hackers push malicious Virtualizor update in BGP hijacking attack Microsoft releases emergency Windows updates to fix RDS failures Microsoft: September updates cause RDS failures on Windows Server Microsoft confirms KB5002914 Excel update breaks copy and paste Find out how long recovery really takes — and what it costs. Read the 2025 BCDR Report. Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Watch a working exploit hit live controls and see exactly what blocks, detects, or misses Patch automation needs more than speed. Action1 brings control into every stage of deployment. EtherHiding Malware on macOS: How Attackers Hide C2 on the Blockchain Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden use",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
-    "target": "Malcious Admin Menu Editor",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/"
-      }
-    ]
-  },
-  {
-    "id": "142539f6b28a091d",
-    "date": "2026-09-15T20:24:51+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
-    "summary": "Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers. The post Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow? appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
-    "target": "Microsoft Commits Sweeping Privacy",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/"
-      }
-    ]
-  },
-  {
-    "id": "960223ba611aa697",
-    "date": "2026-09-15T20:16:00+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
-    "summary": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
-    "article_text": "",
-    "quick_summary": [
-      "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
-      "Risk: ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
-    "target": "Microsoft Issues Emergency Fixes",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday"
-      }
-    ]
-  },
-  {
-    "id": "6ca01fd313d1cf62",
-    "date": "2026-09-15T20:01:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Norway announces investigations into telecom Telenor’s work with Myanmar junta",
-    "summary": "Oslo-based Telenor potentially enabled crimes against humanity and violated sanctions in its dealings with the military regime that took over Myanmar in 2021, Norwegian authorities said.",
-    "article_text": "",
-    "quick_summary": [
-      "Oslo-based Telenor potentially enabled crimes against humanity and violated sanctions in its dealings with the military regime that took over Myanmar in 2021, Norwegian authorities said.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/norway-investigations-telenor-telecom-myanmar-regime",
-    "target": "Norway Telenors Myanmar",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/norway-investigations-telenor-telecom-myanmar-regime"
-      }
-    ]
-  },
-  {
-    "id": "097264995ce4adb7",
-    "date": "2026-09-15T19:30:00+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "“We Think the Security Control Is Working” Is No Longer Good Enough",
-    "summary": "Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls are working today. The post “We Think the Security Control Is Working” Is No Longer Good Enough appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls are working today.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
-    "target": "Think Control Working",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/"
       }
     ]
   }
