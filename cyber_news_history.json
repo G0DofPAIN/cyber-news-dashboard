@@ -1,65 +1,7 @@
 [
   {
-    "id": "5be04267242ac5d9",
-    "date": "2026-10-06T20:19:33.331472+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ADVISORY Debian Bundles 1,313 Kernel CVEs Into a Single Advisory: The Tracking Problem",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/news/debian-bundles-1313-kernel-cves-into-a-single-advisory-the-tracking-problem",
-    "target": "ADVISORY Debian Bundles 1313",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/debian-bundles-1313-kernel-cves-into-a-single-advisory-the-tracking-problem"
-      }
-    ]
-  },
-  {
-    "id": "79187ecd4555805e",
-    "date": "2026-10-06T20:19:33.331408+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY VM Escape Zero-Day in KVM: Vercel Confirms and Pays $50,000 Bounty",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/zero/vm-escape-zero-day-in-kvm-vercel-confirms-and-pays-50000-bounty",
-    "target": "ZERO-DAY Escape Zero-Day KVM",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/zero/vm-escape-zero-day-in-kvm-vercel-confirms-and-pays-50000-bounty"
-      }
-    ]
-  },
-  {
     "id": "59001db8c36d37a7",
-    "date": "2026-10-06T20:19:33.331344+00:00",
+    "date": "2026-10-07T00:41:54.343302+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "dfbb51577b8f2d86",
-    "date": "2026-10-06T20:19:33.331274+00:00",
+    "date": "2026-10-07T00:41:54.343168+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +59,7 @@
   },
   {
     "id": "6aa48ab4c56af978",
-    "date": "2026-10-06T20:19:33.331209+00:00",
+    "date": "2026-10-07T00:41:54.343030+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +88,7 @@
   },
   {
     "id": "610a5e459f71c817",
-    "date": "2026-10-06T20:19:33.331132+00:00",
+    "date": "2026-10-07T00:41:54.342909+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,47 +116,13 @@
     ]
   },
   {
-    "id": "927c730f85fd3ffa",
-    "date": "2026-10-06T20:19:33.331051+00:00",
+    "id": "6a1c552940c098e4",
+    "date": "2026-10-07T00:41:54.342792+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Wikimedia: OpenAI Agents Overloaded APIs and Public Tools ai",
-    "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
-    "article_text": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. As Wikimedia Chief Product and Technology Officer Selena Deckelmann revealed Monday, Wikipedia hosts over 67 million articles in more than 300 languages and gets up to 15 billion page views per month. However, last year Wikimedia saw 65% of the most resource-consuming traffic on its projects come from bots, amid a 50% increase in bandwidth usage due to the surge in bot activity. While investigating whether its websites have also been affected by AI agents, Wikimedia found that OpenAI agents made edits to wikis without prior approval, unsuccessfully tried to exploit a public note-taking tool, and made millions of API requests and data queries while scraping Wikimedia sites (which may have contributed to an outage in May ). \"We've identified edits to Wikimedia wikis that we believe are from AI agents operated by OpenAI. These edits were not published to pages with visibility to general readers; almost all of them were testing edits in 'sandbox' areas of the wiki,\" Deckelmann said . The rogue bots also tried to compromise Wikimedia's public Etherpad citation tool by making \"potentially malicious edits\" to its configuration, likely to use it as a proxy when fetching data from other online platforms. Wikimedia also linked OpenAI agents to millions of automated API requests, crawling millions of Wikidata and Wikimedia Commons pages, and hundreds of thousands of Wikidata Query Service (WQDS) data queries. \"While OpenAI admits to agents behaving 'unpredictably,' they must also acknowledge their responsibility to monitor and prevent these risks. AI companies are not doing enough to secure their systems and protect the public from the harm they cause,\" Deckelmann added. \"That burden is falling onto everyone else, including smaller organizations. At a minimum, their systems should operate in a way that non-profit website owners like us can easily identify, and choose how they interact with our services.\" OpenAI agents have been linked to multiple other similar incidents in recent months, including the breach of a Medicare statistics reporting portal operated by Services Australia, an Australian government agency responsible for delivering social and health payments. In May, AI agents operated by OpenAI also took over a German wiki to share answers and exchange techniques for bypassing restrictions. Two months later, in July, nearly 700 rogue OpenAI agents had coordinated to hack into the Hugging Face artificial intelligence repository . However, this problem is not unique to OpenAI. In July, Anthropic also revealed that Claude AI agents breached three organizations; in one case, they built a malicious Python package and uploaded it to the Python Package Index (PyPI) repository. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Automated AI agent used to breach cybersecurity nonprofit DIVD OpenAI hacked Australian Medicare govt site, probed data providers OpenAI details more cases of AI agents taking unauthorized actions Spain's data agency gets first report of AI-powered data breach I find it very difficult to believe the pseudo-AI 'agents' did this on their own. More likely rogue people used pseudo-AI 'agents' either in a malicious way, or without adequate control. OpenAI and Anthropic would love you to believe that their apps are super powerful and even dangerous. That does not make it so. Anthropic asks Claude users to share voice data for AI model training ShinyHunters hacker reportedly detained in Jordan, aiding FBI Your access review passed cleanly, but it never saw the agents swimming under the surface. See how Token Security fishes out every one of them. Overdue a password health-check? Audit your Active Directory for free Learn how to evaluate RMM security with eight practical tests. Find gaps before scaling endpoint management across customer environments. Free Identity Governance for up to 150 Users: Try Our Community Edition 73% of orgs feel prepared for attacks. 82% had a browser incident last year anyway. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/ai/wikimedia-openai-agents-overloaded-apis-and-public-tools",
-    "target": "Wikimedia",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews",
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ai/wikimedia-openai-agents-overloaded-apis-and-public-tools"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/"
-      }
-    ]
-  },
-  {
-    "id": "0bf5a01ad9c8842c",
-    "date": "2026-10-06T20:19:33.330986+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "VM Escape Zero-Day in KVM: Vercel Confirms and Pays $50,000 Bounty zero ZERO-DAY",
+    "title": "ZERO-DAY Pwn2Own Ireland 2026: 32 Zero-Days, $388,500 on Day One",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -222,8 +130,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/zero/vm-escape-zero-day-in-kvm-vercel-confirms-and-pays-50000-bounty",
-    "target": "Escape Zero-Day KVM",
+    "link": "https://deafnews.it/en/news/cybersecurity/pwn2own-ireland-2026-32-zero-days-388500-on-day-one",
+    "target": "ZERO-DAY Pwn2Own Ireland 2026",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -232,13 +140,42 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/zero/vm-escape-zero-day-in-kvm-vercel-confirms-and-pays-50000-bounty"
+        "url": "https://deafnews.it/en/news/cybersecurity/pwn2own-ireland-2026-32-zero-days-388500-on-day-one"
+      }
+    ]
+  },
+  {
+    "id": "232197cf69b7b221",
+    "date": "2026-10-07T00:41:54.342683+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT FortiBleed: FBI Alert on 86,000+ Breached Fortinet Devices Enabling Ransomware",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/fortibleed-fbi-alert-on-86000-breached-fortinet-devices-enabling-ransomware",
+    "target": "EXPLOIT FortiBleed",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/fortibleed-fbi-alert-on-86000-breached-fortinet-devices-enabling-ransomware"
       }
     ]
   },
   {
     "id": "6194f3bf9829aee0",
-    "date": "2026-10-06T20:19:33.330918+00:00",
+    "date": "2026-10-07T00:41:54.342566+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -271,7 +208,7 @@
   },
   {
     "id": "3e0179973eda4310",
-    "date": "2026-10-06T20:19:33.330846+00:00",
+    "date": "2026-10-07T00:41:54.342439+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -300,7 +237,7 @@
   },
   {
     "id": "7a6aed159204b977",
-    "date": "2026-10-06T20:19:33.330771+00:00",
+    "date": "2026-10-07T00:41:54.342308+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -328,13 +265,13 @@
     ]
   },
   {
-    "id": "0f7264939228fab2",
-    "date": "2026-10-06T20:19:33.330280+00:00",
+    "id": "d227af4dd6dde6ac",
+    "date": "2026-10-07T00:41:54.341985+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "malware MALFEX: Over 40,000 Malicious npm Downloads, Three Packages Still Active as of October 2026 Oct 06, 2026",
+    "title": "MALFEX: Over 40,000 Malicious npm Downloads, Three Packages Still Active as of October 2026 malware",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -357,13 +294,13 @@
     ]
   },
   {
-    "id": "3670114e72fea073",
-    "date": "2026-10-06T20:19:33.330202+00:00",
+    "id": "93306bbbfadcc8ff",
+    "date": "2026-10-07T00:41:54.341853+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CYBERSEC ASOS Hackers Weaponize Push Notifications as Public Extortion Tool Oct 06, 2026",
+    "title": "ASOS Hackers Weaponize Push Notifications as Public Extortion Tool CYBERSEC",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -372,7 +309,7 @@
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/asos-hackers-weaponize-push-notifications-as-public-extortion-tool",
-    "target": "CYBERSEC ASOS Weaponize Push",
+    "target": "ASOS Weaponize Push Notifications",
     "type": "Ransomware",
     "severity": "High",
     "sources": [
@@ -387,7 +324,7 @@
   },
   {
     "id": "19b6d65a197b5e85",
-    "date": "2026-10-06T20:19:33.330089+00:00",
+    "date": "2026-10-07T00:41:54.341191+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -416,12 +353,12 @@
   },
   {
     "id": "db5ae4d0a95a1fa3",
-    "date": "2026-10-06T20:19:33.329942+00:00",
+    "date": "2026-10-07T00:41:54.340537+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 2 ZERO-DAY · 4 CVE · 3 EXPLOIT IN THE LAST 24H →",
+    "title": "// 1 CRITICAL · 3 ZERO-DAY · 4 CVE · 5 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -445,7 +382,7 @@
   },
   {
     "id": "e61f2012125ce9cc",
-    "date": "2026-10-06T20:19:32.749412+00:00",
+    "date": "2026-10-07T00:41:53.522607+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -554,7 +491,7 @@
   },
   {
     "id": "5384be04af80e393",
-    "date": "2026-10-06T20:19:31.607882+00:00",
+    "date": "2026-10-07T00:41:52.886765+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -583,7 +520,7 @@
   },
   {
     "id": "5314b8880088bae9",
-    "date": "2026-10-06T20:19:31.607777+00:00",
+    "date": "2026-10-07T00:41:52.886582+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -612,7 +549,7 @@
   },
   {
     "id": "5ef6820664dac5d0",
-    "date": "2026-10-06T20:19:31.607673+00:00",
+    "date": "2026-10-07T00:41:52.886397+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -641,7 +578,7 @@
   },
   {
     "id": "662223e6dfdf6fa1",
-    "date": "2026-10-06T20:19:31.607583+00:00",
+    "date": "2026-10-07T00:41:52.886228+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -670,7 +607,7 @@
   },
   {
     "id": "08df0b197d2a4a61",
-    "date": "2026-10-06T20:19:31.607484+00:00",
+    "date": "2026-10-07T00:41:52.886027+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -699,7 +636,7 @@
   },
   {
     "id": "4c797849637d0e8f",
-    "date": "2026-10-06T20:19:31.607411+00:00",
+    "date": "2026-10-07T00:41:52.885885+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -728,7 +665,7 @@
   },
   {
     "id": "8ce3261205786854",
-    "date": "2026-10-06T20:19:31.607293+00:00",
+    "date": "2026-10-07T00:41:52.885659+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -761,7 +698,7 @@
   },
   {
     "id": "4e0233f479157d3c",
-    "date": "2026-10-06T20:19:31.607212+00:00",
+    "date": "2026-10-07T00:41:52.885513+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -790,7 +727,7 @@
   },
   {
     "id": "eefcb71c6aad65c1",
-    "date": "2026-10-06T20:19:31.607124+00:00",
+    "date": "2026-10-07T00:41:52.885368+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -819,7 +756,7 @@
   },
   {
     "id": "685106cdbd881893",
-    "date": "2026-10-06T20:19:31.607046+00:00",
+    "date": "2026-10-07T00:41:52.885227+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -848,7 +785,7 @@
   },
   {
     "id": "97fe334f8091e20e",
-    "date": "2026-10-06T20:19:31.606965+00:00",
+    "date": "2026-10-07T00:41:52.885047+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -877,7 +814,7 @@
   },
   {
     "id": "77780575e2ffe8f9",
-    "date": "2026-10-06T20:19:31.606868+00:00",
+    "date": "2026-10-07T00:41:52.884878+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -906,7 +843,7 @@
   },
   {
     "id": "12a946c343458fa1",
-    "date": "2026-10-06T20:19:31.606781+00:00",
+    "date": "2026-10-07T00:41:52.884723+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -935,7 +872,7 @@
   },
   {
     "id": "618ff2b98c28a875",
-    "date": "2026-10-06T20:19:31.606687+00:00",
+    "date": "2026-10-07T00:41:52.884562+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -964,7 +901,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-10-06T20:19:31.606519+00:00",
+    "date": "2026-10-07T00:41:52.884297+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -993,7 +930,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-10-06T20:19:31.606038+00:00",
+    "date": "2026-10-07T00:41:52.883515+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1022,7 +959,7 @@
   },
   {
     "id": "0bac29a05f80d747",
-    "date": "2026-10-06T20:19:31.258952+00:00",
+    "date": "2026-10-07T00:41:52.692170+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1051,7 +988,7 @@
   },
   {
     "id": "06b47d2839a301d5",
-    "date": "2026-10-06T20:19:31.258881+00:00",
+    "date": "2026-10-07T00:41:52.692020+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1080,7 +1017,7 @@
   },
   {
     "id": "ee88fd21cafcbf4b",
-    "date": "2026-10-06T20:19:31.258801+00:00",
+    "date": "2026-10-07T00:41:52.691876+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1109,7 +1046,7 @@
   },
   {
     "id": "99b464f89b4fcc1c",
-    "date": "2026-10-06T20:19:31.258723+00:00",
+    "date": "2026-10-07T00:41:52.691735+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1138,7 +1075,7 @@
   },
   {
     "id": "6b8ab2c479d2744b",
-    "date": "2026-10-06T20:19:31.258633+00:00",
+    "date": "2026-10-07T00:41:52.691569+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1199,7 +1136,7 @@
   },
   {
     "id": "349e2baaa8e219e1",
-    "date": "2026-10-06T20:19:31.258548+00:00",
+    "date": "2026-10-07T00:41:52.691416+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1228,7 +1165,7 @@
   },
   {
     "id": "aeaf93a4cec99544",
-    "date": "2026-10-06T20:19:31.258475+00:00",
+    "date": "2026-10-07T00:41:52.691281+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1257,7 +1194,7 @@
   },
   {
     "id": "520fcc6d930148d9",
-    "date": "2026-10-06T20:19:31.258348+00:00",
+    "date": "2026-10-07T00:41:52.691038+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1286,7 +1223,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-10-06T20:19:31.258258+00:00",
+    "date": "2026-10-07T00:41:52.690875+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1315,7 +1252,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-10-06T20:19:31.258177+00:00",
+    "date": "2026-10-07T00:41:52.690726+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1344,7 +1281,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-10-06T20:19:31.258081+00:00",
+    "date": "2026-10-07T00:41:52.690542+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1373,7 +1310,7 @@
   },
   {
     "id": "f29feab6f4f0ee32",
-    "date": "2026-10-06T20:19:31.257991+00:00",
+    "date": "2026-10-07T00:41:52.690375+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1402,7 +1339,7 @@
   },
   {
     "id": "1410619546a6e8bd",
-    "date": "2026-10-06T20:19:31.257884+00:00",
+    "date": "2026-10-07T00:41:52.690181+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1431,7 +1368,7 @@
   },
   {
     "id": "43cc6fecf4fc2907",
-    "date": "2026-10-06T20:19:31.257707+00:00",
+    "date": "2026-10-07T00:41:52.689848+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1460,7 +1397,7 @@
   },
   {
     "id": "c845ae3d1005b684",
-    "date": "2026-10-06T20:19:31.257626+00:00",
+    "date": "2026-10-07T00:41:52.689703+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1489,7 +1426,7 @@
   },
   {
     "id": "6b6ac0d8430f7f6e",
-    "date": "2026-10-06T20:19:31.257545+00:00",
+    "date": "2026-10-07T00:41:52.689556+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1518,7 +1455,7 @@
   },
   {
     "id": "c794a4a495efc581",
-    "date": "2026-10-06T20:19:31.257465+00:00",
+    "date": "2026-10-07T00:41:52.689411+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1547,7 +1484,7 @@
   },
   {
     "id": "5ae1eec078699ea1",
-    "date": "2026-10-06T20:19:31.257383+00:00",
+    "date": "2026-10-07T00:41:52.689262+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1576,7 +1513,7 @@
   },
   {
     "id": "ed62b1463d812969",
-    "date": "2026-10-06T20:19:31.257252+00:00",
+    "date": "2026-10-07T00:41:52.689001+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1615,7 +1552,7 @@
   },
   {
     "id": "a6bfbb18b69d9663",
-    "date": "2026-10-06T20:19:31.257169+00:00",
+    "date": "2026-10-07T00:41:52.688852+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1644,7 +1581,7 @@
   },
   {
     "id": "f8a7c1fbed916590",
-    "date": "2026-10-06T20:19:31.257046+00:00",
+    "date": "2026-10-07T00:41:52.688657+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1673,7 +1610,7 @@
   },
   {
     "id": "7855365c780af3d9",
-    "date": "2026-10-06T20:19:31.256961+00:00",
+    "date": "2026-10-07T00:41:52.688510+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1702,7 +1639,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-10-06T20:19:31.254809+00:00",
+    "date": "2026-10-07T00:41:52.684567+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1731,7 +1668,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-10-06T20:19:31.254235+00:00",
+    "date": "2026-10-07T00:41:52.683574+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1760,7 +1697,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-10-06T20:19:31.254053+00:00",
+    "date": "2026-10-07T00:41:52.683309+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1788,37 +1725,8 @@
     ]
   },
   {
-    "id": "9a4d32fce7bd8dd5",
-    "date": "2026-10-06T20:19:30.830654+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Microsoft Copilot Cowork Exfiltrates Files",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Microsoft Copilot Cowork Exfiltrates Files",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wtnidr/microsoft_copilot_cowork_exfiltrates_files/",
-    "target": "Microsoft Copilot Cowork Exfiltrates",
-    "type": "Data Leak / Breach",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wtnidr/microsoft_copilot_cowork_exfiltrates_files/"
-      }
-    ]
-  },
-  {
     "id": "f5203f756049813e",
-    "date": "2026-10-06T20:19:30.830587+00:00",
+    "date": "2026-10-07T00:41:52.508305+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1847,7 +1755,7 @@
   },
   {
     "id": "3f59c2f5c37e9e6c",
-    "date": "2026-10-06T20:19:30.830508+00:00",
+    "date": "2026-10-07T00:41:52.508158+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1876,7 +1784,7 @@
   },
   {
     "id": "3107a68668ffd5de",
-    "date": "2026-10-06T20:19:30.830439+00:00",
+    "date": "2026-10-07T00:41:52.508008+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1905,7 +1813,7 @@
   },
   {
     "id": "a47696b55d12d13c",
-    "date": "2026-10-06T20:19:30.830373+00:00",
+    "date": "2026-10-07T00:41:52.507886+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1934,7 +1842,7 @@
   },
   {
     "id": "badfa9d188daf86a",
-    "date": "2026-10-06T20:19:30.830303+00:00",
+    "date": "2026-10-07T00:41:52.507758+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1963,7 +1871,7 @@
   },
   {
     "id": "a23148661521e0e2",
-    "date": "2026-10-06T20:19:30.830232+00:00",
+    "date": "2026-10-07T00:41:52.507628+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1992,7 +1900,7 @@
   },
   {
     "id": "ddb9289ce8174e5e",
-    "date": "2026-10-06T20:19:30.830163+00:00",
+    "date": "2026-10-07T00:41:52.507500+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2021,7 +1929,7 @@
   },
   {
     "id": "8f0d5ac7621a50e4",
-    "date": "2026-10-06T20:19:30.830089+00:00",
+    "date": "2026-10-07T00:41:52.507375+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2050,7 +1958,7 @@
   },
   {
     "id": "65e0bfaac49ac7cc",
-    "date": "2026-10-06T20:19:30.830021+00:00",
+    "date": "2026-10-07T00:41:52.507246+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2079,7 +1987,7 @@
   },
   {
     "id": "db9a2989d6edd0a4",
-    "date": "2026-10-06T20:19:30.829951+00:00",
+    "date": "2026-10-07T00:41:52.507102+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2108,7 +2016,7 @@
   },
   {
     "id": "cba92cc7264c04f4",
-    "date": "2026-10-06T20:19:30.829876+00:00",
+    "date": "2026-10-07T00:41:52.506955+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2137,7 +2045,7 @@
   },
   {
     "id": "b2b027f883e15976",
-    "date": "2026-10-06T20:19:30.829797+00:00",
+    "date": "2026-10-07T00:41:52.506813+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2166,7 +2074,7 @@
   },
   {
     "id": "8d9f652e4f3b37e0",
-    "date": "2026-10-06T20:19:30.829722+00:00",
+    "date": "2026-10-07T00:41:52.506677+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2195,7 +2103,7 @@
   },
   {
     "id": "ca58ada0222b714a",
-    "date": "2026-10-06T20:19:30.829650+00:00",
+    "date": "2026-10-07T00:41:52.506547+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2224,7 +2132,7 @@
   },
   {
     "id": "d47f7cb5a4e3649b",
-    "date": "2026-10-06T20:19:30.829578+00:00",
+    "date": "2026-10-07T00:41:52.506414+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2253,7 +2161,7 @@
   },
   {
     "id": "5e8bb0b6da7803ca",
-    "date": "2026-10-06T20:19:30.829510+00:00",
+    "date": "2026-10-07T00:41:52.506288+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2282,7 +2190,7 @@
   },
   {
     "id": "bfb4269abccb6672",
-    "date": "2026-10-06T20:19:30.829448+00:00",
+    "date": "2026-10-07T00:41:52.506166+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2311,7 +2219,7 @@
   },
   {
     "id": "ad884ed0a0367e90",
-    "date": "2026-10-06T20:19:30.829372+00:00",
+    "date": "2026-10-07T00:41:52.506007+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2340,7 +2248,7 @@
   },
   {
     "id": "e93e02887e5aaef4",
-    "date": "2026-10-06T20:19:30.829290+00:00",
+    "date": "2026-10-07T00:41:52.505852+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2368,37 +2276,37 @@
     ]
   },
   {
-    "id": "095b320cc071846b",
-    "date": "2026-10-06T20:19:30.829209+00:00",
+    "id": "62134220061de6be",
+    "date": "2026-10-07T00:41:52.505727+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
     "category": "",
-    "title": "Rockstar Games has now been compromised several different ways since 2018, and none of them were a zero-day",
+    "title": "Bitvulnex: a vulnerable crypto exchange",
     "summary": "",
     "article_text": "",
     "quick_summary": [
-      "Rockstar Games has now been compromised several different ways since 2018, and none of them were a zero-day",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
+      "Bitvulnex: a vulnerable crypto exchange",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wzchsp/rockstar_games_has_now_been_compromised_several/",
-    "target": "Rockstar Games",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
+    "link": "https://www.reddit.com/r/netsec/comments/1wzew3o/bitvulnex_a_vulnerable_crypto_exchange/",
+    "target": "Bitvulnex",
+    "type": "General Cybersecurity",
+    "severity": "Low",
     "sources": [
       "Reddit r/netsec"
     ],
     "links": [
       {
         "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wzchsp/rockstar_games_has_now_been_compromised_several/"
+        "url": "https://www.reddit.com/r/netsec/comments/1wzew3o/bitvulnex_a_vulnerable_crypto_exchange/"
       }
     ]
   },
   {
     "id": "e6e4dc03908838a2",
-    "date": "2026-10-06T20:19:30.829110+00:00",
+    "date": "2026-10-07T00:41:52.505588+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2426,8 +2334,37 @@
     ]
   },
   {
+    "id": "095b320cc071846b",
+    "date": "2026-10-07T00:41:52.505442+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Rockstar Games has now been compromised several different ways since 2018, and none of them were a zero-day",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Rockstar Games has now been compromised several different ways since 2018, and none of them were a zero-day",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wzchsp/rockstar_games_has_now_been_compromised_several/",
+    "target": "Rockstar Games",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wzchsp/rockstar_games_has_now_been_compromised_several/"
+      }
+    ]
+  },
+  {
     "id": "56bfae700f149e5f",
-    "date": "2026-10-06T20:19:30.829005+00:00",
+    "date": "2026-10-07T00:41:52.505263+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2456,7 +2393,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-10-06T20:19:30.828912+00:00",
+    "date": "2026-10-07T00:41:52.505055+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2501,7 +2438,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-10-06T20:19:30.828737+00:00",
+    "date": "2026-10-07T00:41:52.504851+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2529,6 +2466,330 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "0f64fbfd2f359715",
+    "date": "2026-10-06T21:56:25+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "ASOS Hackers Hijack App Notifications, Claim Snowflake Data Breach",
+    "summary": "British online fashion retailer ASOS is investigating unauthorised activity after attackers used its official mobile app to send…",
+    "article_text": "",
+    "quick_summary": [
+      "British online fashion retailer ASOS is investigating unauthorised activity after attackers used its official mobile app to send…",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://hackread.com/asos-hackers-hijack-app-notifications-snowflake-data-breach/",
+    "target": "ASOS Hijack App Notifications",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/asos-hackers-hijack-app-notifications-snowflake-data-breach/"
+      }
+    ]
+  },
+  {
+    "id": "4c5dcdaf9e38d3fc",
+    "date": "2026-10-06T21:15:48+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Karina Portugal Makes the Case for Know Your Agent",
+    "summary": "Karina Portugal has spent more than ten years working in digital identity, fraud prevention, anti-money laundering and Know…",
+    "article_text": "",
+    "quick_summary": [
+      "Karina Portugal has spent more than ten years working in digital identity, fraud prevention, anti-money laundering and Know…",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://hackread.com/karina-portugal-case-for-know-your-agent/",
+    "target": "Karina Portugal Makes Case",
+    "type": "Phishing / Scam",
+    "severity": "Low",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/karina-portugal-case-for-know-your-agent/"
+      }
+    ]
+  },
+  {
+    "id": "0d39d3a18dce1645",
+    "date": "2026-10-06T21:00:27+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+    "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
+    "article_text": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. Both vulnerabilities received a high severity score and require an authenticated session to exploit. They are tracked as CVE-2026-93836, affecting WPC Product Bundles for WooCommerce versions 8.6.6 and older, and CVE-2026-94504, affecting Ninja Forms versions 3.15.3 and older. The Ninja Forms plugin for WordPress is installed on more than 500,000 sites and allows creating custom forms without writing code. WPC Product Bundles for WooCommerce allows storing group products into bundles and is active on more than 30,000 WordPress sites. The campaign was identified on October 4 by researchers at WordPress security platform Patchstack, against users of WPC Product Bundles for WooCommerce. The next day, the same activity was observed against Ninja Forms. In both attacks, the same JavaScript payload was delivered from ‘imgcdn1[.]com,’ indicating the same threat actor behind the exploitation attempts against the two plugins. According to the researchers, the attacker tries to plant malicious JavaScript ( x.js ) in WooCommerce order data or Ninja Forms submissions. When a logged-in administrator loads the content, the script executes using the authenticated WordPress session. When launched, it retrieves the necessary administrative nonces and uses legitimate WordPress functions to install a malicious plugin masquerading as “WP Smart Thumbnails” version 1.2.4 from “MediaPress Labs” and create an administrator account. At that stage, the JavaScript payload and the malicious plugin’s PHP scripts establish four access mechanisms to the compromised site: The file manager can't execute commands, but it could still be used to introduce additional payloads on the site. Even if the WP Smart Thumbnails plugin is removed from the infected website, the hidden account and secret login URL continue to function as persistence mechanisms through separate auxiliary attack plugins featuring backdated timestamps to evade detection. “The [hidden] account does not appear in Users → All Users, does not appear in the Administrator filter, and is not counted in the totals above the list,” Patchstack explains , adding that “It is a fully privileged administrator the site owner cannot see.” Patchstack says that exploitation is currently limited, but advises site admins to upgrade to the latest versions of the affected plugins, WPC Product Bundles for WooCommerce version 8.6.7 or later and Ninja Forms 3.15.4 or later. Updating the vulnerable plugin prevents further exploitation but does not clean an existing infection. Administrators are strongly recommended to check for signs of compromise. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Hackers target WordPress sites via third-party WooCommerce plugin Critical Elementor Pro flaw exploited to take over WordPress sites Hackers target WordPress sites in miniOrange auth bypass attacks WordPress membership plugin bug exploited to create admin accounts Anthropic asks Claude users to share voice data for AI model training ShinyHunters hacker reportedly detained in Jordan, aiding FBI Overdue a password health-check? Audit your Active Directory for free Your access review passed cleanly, but it never saw the agents swimming under the surface. See how Token Security fishes out every one of them. Free Identity Governance for up to 150 Users: Try Our Community Edition Learn how to evaluate RMM security with eight practical tests. Find gaps before scaling endpoint management across customer environments. 73% of orgs feel prepared for attacks. 82% had a browser incident last year anyway. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+    "target": "Ninja Forms WordPress",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/"
+      }
+    ]
+  },
+  {
+    "id": "c04dd0cc775b0439",
+    "date": "2026-10-06T20:32:58+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+    "summary": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.",
+    "article_text": "",
+    "quick_summary": [
+      "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+    "target": "ClickFix Evolve Better Hide",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads"
+      }
+    ]
+  },
+  {
+    "id": "e6106beac1c2a1b1",
+    "date": "2026-10-06T20:30:27+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+    "summary": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
+    "article_text": "",
+    "quick_summary": [
+      "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+    "target": "Critical Healthcare Systems Arent",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready"
+      }
+    ]
+  },
+  {
+    "id": "5be04267242ac5d9",
+    "date": "2026-10-06T20:19:33.331472+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ADVISORY Debian Bundles 1,313 Kernel CVEs Into a Single Advisory: The Tracking Problem",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/news/debian-bundles-1313-kernel-cves-into-a-single-advisory-the-tracking-problem",
+    "target": "ADVISORY Debian Bundles 1313",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/debian-bundles-1313-kernel-cves-into-a-single-advisory-the-tracking-problem"
+      }
+    ]
+  },
+  {
+    "id": "79187ecd4555805e",
+    "date": "2026-10-06T20:19:33.331408+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "ZERO-DAY VM Escape Zero-Day in KVM: Vercel Confirms and Pays $50,000 Bounty",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/zero/vm-escape-zero-day-in-kvm-vercel-confirms-and-pays-50000-bounty",
+    "target": "ZERO-DAY Escape Zero-Day KVM",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/zero/vm-escape-zero-day-in-kvm-vercel-confirms-and-pays-50000-bounty"
+      }
+    ]
+  },
+  {
+    "id": "927c730f85fd3ffa",
+    "date": "2026-10-06T20:19:33.331051+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Wikimedia: OpenAI Agents Overloaded APIs and Public Tools ai",
+    "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+    "article_text": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. As Wikimedia Chief Product and Technology Officer Selena Deckelmann revealed Monday, Wikipedia hosts over 67 million articles in more than 300 languages and gets up to 15 billion page views per month. However, last year Wikimedia saw 65% of the most resource-consuming traffic on its projects come from bots, amid a 50% increase in bandwidth usage due to the surge in bot activity. While investigating whether its websites have also been affected by AI agents, Wikimedia found that OpenAI agents made edits to wikis without prior approval, unsuccessfully tried to exploit a public note-taking tool, and made millions of API requests and data queries while scraping Wikimedia sites (which may have contributed to an outage in May ). \"We've identified edits to Wikimedia wikis that we believe are from AI agents operated by OpenAI. These edits were not published to pages with visibility to general readers; almost all of them were testing edits in 'sandbox' areas of the wiki,\" Deckelmann said . The rogue bots also tried to compromise Wikimedia's public Etherpad citation tool by making \"potentially malicious edits\" to its configuration, likely to use it as a proxy when fetching data from other online platforms. Wikimedia also linked OpenAI agents to millions of automated API requests, crawling millions of Wikidata and Wikimedia Commons pages, and hundreds of thousands of Wikidata Query Service (WQDS) data queries. \"While OpenAI admits to agents behaving 'unpredictably,' they must also acknowledge their responsibility to monitor and prevent these risks. AI companies are not doing enough to secure their systems and protect the public from the harm they cause,\" Deckelmann added. \"That burden is falling onto everyone else, including smaller organizations. At a minimum, their systems should operate in a way that non-profit website owners like us can easily identify, and choose how they interact with our services.\" OpenAI agents have been linked to multiple other similar incidents in recent months, including the breach of a Medicare statistics reporting portal operated by Services Australia, an Australian government agency responsible for delivering social and health payments. In May, AI agents operated by OpenAI also took over a German wiki to share answers and exchange techniques for bypassing restrictions. Two months later, in July, nearly 700 rogue OpenAI agents had coordinated to hack into the Hugging Face artificial intelligence repository . However, this problem is not unique to OpenAI. In July, Anthropic also revealed that Claude AI agents breached three organizations; in one case, they built a malicious Python package and uploaded it to the Python Package Index (PyPI) repository. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Automated AI agent used to breach cybersecurity nonprofit DIVD OpenAI hacked Australian Medicare govt site, probed data providers OpenAI details more cases of AI agents taking unauthorized actions Spain's data agency gets first report of AI-powered data breach I find it very difficult to believe the pseudo-AI 'agents' did this on their own. More likely rogue people used pseudo-AI 'agents' either in a malicious way, or without adequate control. OpenAI and Anthropic would love you to believe that their apps are super powerful and even dangerous. That does not make it so. The question is \"super powerful and even dangerous.\" for who(m) and for whose advantage. ? ANY AI is at present with most advantage used by bad actors to hack into wherever possible. The bad actors have always per definition been faster than the good actors and we know that at least since Cory Doctorovs work about the Red Team and the Blue Team. We also know that is nothing in the foreseeable future that is possible to do against that, we are only at the beginning of this..... Think about the consequences... Anthropic asks Claude users to share voice data for AI model training ShinyHunters hacker reportedly detained in Jordan, aiding FBI Overdue a password health-check? Audit your Active Directory for free Free Identity Governance for up to 150 Users: Try Our Community Edition Learn how to evaluate RMM security w",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/ai/wikimedia-openai-agents-overloaded-apis-and-public-tools",
+    "target": "Wikimedia",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ai/wikimedia-openai-agents-overloaded-apis-and-public-tools"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/"
+      }
+    ]
+  },
+  {
+    "id": "0bf5a01ad9c8842c",
+    "date": "2026-10-06T20:19:33.330986+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "VM Escape Zero-Day in KVM: Vercel Confirms and Pays $50,000 Bounty zero ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/zero/vm-escape-zero-day-in-kvm-vercel-confirms-and-pays-50000-bounty",
+    "target": "Escape Zero-Day KVM",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/zero/vm-escape-zero-day-in-kvm-vercel-confirms-and-pays-50000-bounty"
+      }
+    ]
+  },
+  {
+    "id": "3670114e72fea073",
+    "date": "2026-10-06T20:19:33.330202+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC ASOS Hackers Weaponize Push Notifications as Public Extortion Tool Oct 06, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/asos-hackers-weaponize-push-notifications-as-public-extortion-tool",
+    "target": "CYBERSEC ASOS Weaponize Push",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/asos-hackers-weaponize-push-notifications-as-public-extortion-tool"
+      }
+    ]
+  },
+  {
+    "id": "9a4d32fce7bd8dd5",
+    "date": "2026-10-06T20:19:30.830654+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Microsoft Copilot Cowork Exfiltrates Files",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wtnidr/microsoft_copilot_cowork_exfiltrates_files/",
+    "target": "Microsoft Copilot Cowork Exfiltrates",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wtnidr/microsoft_copilot_cowork_exfiltrates_files/"
       }
     ]
   },
@@ -26574,267 +26835,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/android-banking-trojan/"
-      }
-    ]
-  },
-  {
-    "id": "de73624452be1179",
-    "date": "2026-09-24T10:00:33.725698+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT Public Exploit for CVE-2026-80521 Puts Ubuntu Containers at Root Risk",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/public-exploit-for-cve-2026-80521-puts-ubuntu-containers-at-root-risk",
-    "target": "EXPLOIT Public Exploit CVE-2026-80521",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/public-exploit-for-cve-2026-80521-puts-ubuntu-containers-at-root-risk"
-      }
-    ]
-  },
-  {
-    "id": "b2955f06634b9250",
-    "date": "2026-09-24T10:00:33.725588+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT Latvia Arrests 2003-Born Hacker After Two Companies Hit in Seven Months",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/latvia-arrests-2003-born-hacker-after-two-companies-hit-in-seven-months",
-    "target": "EXPLOIT Latvia Arrests 2003-Born",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/latvia-arrests-2003-born-hacker-after-two-companies-hit-in-seven-months"
-      }
-    ]
-  },
-  {
-    "id": "dfdb4242a6c44e8a",
-    "date": "2026-09-24T10:00:33.725488+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Foxit PDF Reader: RCE via Malicious PDF, 68 Days to Patch",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/foxit-pdf-reader-rce-via-malicious-pdf-68-days-to-patch",
-    "target": "CRITICAL Foxit PDF Reader",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/foxit-pdf-reader-rce-via-malicious-pdf-68-days-to-patch"
-      }
-    ]
-  },
-  {
-    "id": "9dacb9edfe130d92",
-    "date": "2026-09-24T10:00:33.725042+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "MikroTrick: The SSH Chain That Empties RouterOS Before Login Even Happens news",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/news/mikrotrick-the-ssh-chain-that-empties-routeros-before-login-even-happens",
-    "target": "MikroTrick",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/mikrotrick-the-ssh-chain-that-empties-routeros-before-login-even-happens"
-      }
-    ]
-  },
-  {
-    "id": "a1b683f12fcc4238",
-    "date": "2026-09-24T10:00:33.724919+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "GitLab's 'Incoming' Email Token Turns Email Into a Supply-Chain Weapon CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/gitlabs-incoming-email-token-turns-email-into-a-supply-chain-weapon",
-    "target": "GitLabs Incoming Email Token",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/gitlabs-incoming-email-token-turns-email-into-a-supply-chain-weapon"
-      }
-    ]
-  },
-  {
-    "id": "67ccb6b460229096",
-    "date": "2026-09-24T10:00:33.724778+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Malware in Terraform Providers: SHA256 Hash and Blockchain Used for Activation malware",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/malware/malware-in-terraform-providers-sha256-hash-and-blockchain-used-for-activation",
-    "target": "Malware Terraform Providers",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/malware-in-terraform-providers-sha256-hash-and-blockchain-used-for-activation"
-      }
-    ]
-  },
-  {
-    "id": "b522406b9c9165f3",
-    "date": "2026-09-24T10:00:33.724672+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Foxit PDF Reader: RCE via Malicious PDF, 68 Days to Patch CYBERSEC CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/foxit-pdf-reader-rce-via-malicious-pdf-68-days-to-patch",
-    "target": "Foxit PDF Reader",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/foxit-pdf-reader-rce-via-malicious-pdf-68-days-to-patch"
-      }
-    ]
-  },
-  {
-    "id": "ed6dafd862aa3647",
-    "date": "2026-09-24T10:00:33.723673+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CYBERSEC ShinyHunters Claims FBI Breach in Retaliation for IC3 Report Sep 24, 2026",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/shinyhunters-claims-fbi-breach-in-retaliation-for-ic3-report",
-    "target": "CYBERSEC ShinyHunters Claims FBI",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/shinyhunters-claims-fbi-breach-in-retaliation-for-ic3-report"
-      }
-    ]
-  },
-  {
-    "id": "2ce793ec6398d29d",
-    "date": "2026-09-24T10:00:31.966873+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Ransomware Without Encryption: PAYLOAD Weaponizes Windows Group Policy",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://www.technadu.com/ransomware-without-encryption-payload-weaponizes-windows-group-policy/638415/",
-    "target": "Ransomware Without Encryption",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/ransomware-without-encryption-payload-weaponizes-windows-group-policy/638415/"
       }
     ]
   }
