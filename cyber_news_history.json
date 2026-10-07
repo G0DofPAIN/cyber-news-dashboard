@@ -1,7 +1,7 @@
 [
   {
     "id": "59001db8c36d37a7",
-    "date": "2026-10-07T00:41:54.343302+00:00",
+    "date": "2026-10-07T07:14:03.755175+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "dfbb51577b8f2d86",
-    "date": "2026-10-07T00:41:54.343168+00:00",
+    "date": "2026-10-07T07:14:03.755071+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "6aa48ab4c56af978",
-    "date": "2026-10-07T00:41:54.343030+00:00",
+    "date": "2026-10-07T07:14:03.754970+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "610a5e459f71c817",
-    "date": "2026-10-07T00:41:54.342909+00:00",
+    "date": "2026-10-07T07:14:03.754604+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "6a1c552940c098e4",
-    "date": "2026-10-07T00:41:54.342792+00:00",
+    "date": "2026-10-07T07:14:03.754507+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "232197cf69b7b221",
-    "date": "2026-10-07T00:41:54.342683+00:00",
+    "date": "2026-10-07T07:14:03.754413+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,70 +174,8 @@
     ]
   },
   {
-    "id": "6194f3bf9829aee0",
-    "date": "2026-10-07T00:41:54.342566+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Cisco SD-WAN: Exploit in 24 Hours, Scheduled Patching No Longer Cuts It CYBERSEC EXPLOIT",
-    "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
-    "article_text": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504 ) that attackers are actively exploiting to escalate to admin privileges. Formerly known as SD-WAN vManage, Catalyst SD-WAN Manager is network management software that lets admins monitor and manage up to 6,000 SD-WAN devices from a single dashboard. \"In September 2026, the Cisco PSIRT became aware of active exploitation of this vulnerability,\" the company warned on Wednesday. \"Cisco strongly recommends that customers upgrade to a fixed software release to remediate this vulnerability.\" The CVE-2026-76504 vulnerability affects all deployments regardless of system configuration, was found in API session-based authentication management, and allows unauthenticated attackers to access vulnerable systems remotely with admin privileges. \"This vulnerability is due to improper handling of URI encoding in an HTTP request, which allows the request to bypass an authentication rule that is intended to restrict access to a specific API endpoint,\" Cisco added. \"An attacker could exploit this vulnerability by sending a crafted HTTP request to the API of the affected system.\" While the company didn't share further details regarding attacks exploiting CVE-2026-76504, it shared indicators of compromise (IOCs) warning admins that threat actors are using %6a as the URI-encoded character \"j\" in malicious requests. It also advised security teams investigating potentially compromised SD-WAN systems to check the serviceproxy-access.log file located under /var/log/nms/containers/service-proxy and the vmanage-server.log file under /var/log/nms/ for entries related to j_security_check from unknown or unauthorized IP addresses. \"For help determining if a Cisco Catalyst SD-WAN Manager has been compromised, customers may open a case with the Cisco TAC,\" it added, advising admins first to collect admin-tech files to support the review. CVE-2026-76504 is the fifth SD-WAN zero-day vulnerability actively exploited in the wild since the start of the year. Cisco patched an SD-WAN Manager information disclosure security flaw (CVE-2026-20127) in February, exploited since at least 2023, and tagged a maximum-severity Catalyst SD-WAN Controller auth bypass flaw (CVE-2026-20182) as actively exploited in zero-day attacks to gain admin privileges on unpatched devices in May. More recently, in early June, Cisco warned of two more SD-WAN zero-days ( CVE-2026-20245 and CVE-2026-20262 ) that attackers exploited to gain root privileges on vulnerable systems. Today, the Cybersecurity and Infrastructure Security Agency (CISA) also added CVE-2026-76504 to its Known Exploited Vulnerabilities (KEV) Catalog and ordered U.S. federal agencies to secure their systems against attacks by Saturday, October 3. Since November 2021, CISA has tagged 90 Cisco vulnerabilities as exploited in the wild, including four in Cisco Catalyst SD-WAN Manager and seven abused by ransomware operations. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Cisco warns of max severity ISE zero-day exploited in attacks Cisco patches Secure Email Gateway zero-day exploited in attacks New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers Critical Citrix NetScaler auth bypass now leveraged in attacks Citrix confirms two NetScaler RCE zero-days exploited in attacks Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors Windows 11 2026 Update released, here's everything you need to know 80,000+ corporate domains have employee AI logins in stealer logs. Check yours free. Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Free Identity Governance for up to 150 Users: Try Our Community Edition Your access review passed cleanly, but it never saw the agents swimming under the surface. See how Token Security fishes out every one of them. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cisco-sd-wan-exploit-in-24-hours-scheduled-patching-no-longer-cuts-it",
-    "target": "Cisco SD-WAN",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cisco-sd-wan-exploit-in-24-hours-scheduled-patching-no-longer-cuts-it"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/"
-      }
-    ]
-  },
-  {
-    "id": "3e0179973eda4310",
-    "date": "2026-10-07T00:41:54.342439+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "South Korea Orders Presidential Probe After Seven Banks Breached; AI Offensive Tools Suspected CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/south-korea-orders-presidential-probe-after-seven-banks-breached-ai-offensive-tools-suspected",
-    "target": "South Korea Orders Presidential",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/south-korea-orders-presidential-probe-after-seven-banks-breached-ai-offensive-tools-suspected"
-      }
-    ]
-  },
-  {
     "id": "7a6aed159204b977",
-    "date": "2026-10-07T00:41:54.342308+00:00",
+    "date": "2026-10-07T07:14:03.754303+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +204,7 @@
   },
   {
     "id": "d227af4dd6dde6ac",
-    "date": "2026-10-07T00:41:54.341985+00:00",
+    "date": "2026-10-07T07:14:03.754046+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,7 +233,7 @@
   },
   {
     "id": "93306bbbfadcc8ff",
-    "date": "2026-10-07T00:41:54.341853+00:00",
+    "date": "2026-10-07T07:14:03.753937+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -323,13 +261,13 @@
     ]
   },
   {
-    "id": "19b6d65a197b5e85",
-    "date": "2026-10-07T00:41:54.341191+00:00",
+    "id": "50b4c957cf1cacc4",
+    "date": "2026-10-07T07:14:03.753819+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "ransomware Ransomware Hits Osaka Metropolitan University: 500 Servers Offline, Backups Encrypted, 130,000 People Affected Oct 06, 2026",
+    "title": "Ransomware Hits Osaka Metropolitan University: 500 Servers Offline, Backups Encrypted, 130,000 People Affected ransomware",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -352,13 +290,71 @@
     ]
   },
   {
-    "id": "db5ae4d0a95a1fa3",
-    "date": "2026-10-07T00:41:54.340537+00:00",
+    "id": "d96f45b7d0224c4d",
+    "date": "2026-10-07T07:14:03.753703+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CRITICAL · 3 ZERO-DAY · 4 CVE · 5 EXPLOIT IN THE LAST 24H →",
+    "title": "BigDiskBuster Blocks Defender Updates: Antivirus Stays Active but Useless CYBERSEC EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/bigdiskbuster-blocks-defender-updates-antivirus-stays-active-but-useless",
+    "target": "BigDiskBuster Blocks Defender",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/bigdiskbuster-blocks-defender-updates-antivirus-stays-active-but-useless"
+      }
+    ]
+  },
+  {
+    "id": "30f035b75813132e",
+    "date": "2026-10-07T07:14:03.752767+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC FBI Removes Accenture Contractor After Missed PeopleSoft Patch Exposes Sensitive Employee Data Oct 07, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/fbi-removes-accenture-contractor-after-missed-peoplesoft-patch-exposes-sensitive-employee-data",
+    "target": "CYBERSEC FBI Removes Accenture",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/fbi-removes-accenture-contractor-after-missed-peoplesoft-patch-exposes-sensitive-employee-data"
+      }
+    ]
+  },
+  {
+    "id": "db5ae4d0a95a1fa3",
+    "date": "2026-10-07T07:14:03.752500+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CRITICAL · 1 ZERO-DAY · 3 CVE · 3 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -382,7 +378,7 @@
   },
   {
     "id": "e61f2012125ce9cc",
-    "date": "2026-10-07T00:41:53.522607+00:00",
+    "date": "2026-10-07T07:14:02.925362+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -491,7 +487,7 @@
   },
   {
     "id": "5384be04af80e393",
-    "date": "2026-10-07T00:41:52.886765+00:00",
+    "date": "2026-10-07T07:14:02.084641+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -520,7 +516,7 @@
   },
   {
     "id": "5314b8880088bae9",
-    "date": "2026-10-07T00:41:52.886582+00:00",
+    "date": "2026-10-07T07:14:02.084479+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -549,7 +545,7 @@
   },
   {
     "id": "5ef6820664dac5d0",
-    "date": "2026-10-07T00:41:52.886397+00:00",
+    "date": "2026-10-07T07:14:02.084313+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -578,7 +574,7 @@
   },
   {
     "id": "662223e6dfdf6fa1",
-    "date": "2026-10-07T00:41:52.886228+00:00",
+    "date": "2026-10-07T07:14:02.084166+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -607,7 +603,7 @@
   },
   {
     "id": "08df0b197d2a4a61",
-    "date": "2026-10-07T00:41:52.886027+00:00",
+    "date": "2026-10-07T07:14:02.084010+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -636,7 +632,7 @@
   },
   {
     "id": "4c797849637d0e8f",
-    "date": "2026-10-07T00:41:52.885885+00:00",
+    "date": "2026-10-07T07:14:02.083893+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -665,7 +661,7 @@
   },
   {
     "id": "8ce3261205786854",
-    "date": "2026-10-07T00:41:52.885659+00:00",
+    "date": "2026-10-07T07:14:02.083691+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -698,7 +694,7 @@
   },
   {
     "id": "4e0233f479157d3c",
-    "date": "2026-10-07T00:41:52.885513+00:00",
+    "date": "2026-10-07T07:14:02.083562+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -727,7 +723,7 @@
   },
   {
     "id": "eefcb71c6aad65c1",
-    "date": "2026-10-07T00:41:52.885368+00:00",
+    "date": "2026-10-07T07:14:02.083437+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -756,7 +752,7 @@
   },
   {
     "id": "685106cdbd881893",
-    "date": "2026-10-07T00:41:52.885227+00:00",
+    "date": "2026-10-07T07:14:02.083314+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -785,7 +781,7 @@
   },
   {
     "id": "97fe334f8091e20e",
-    "date": "2026-10-07T00:41:52.885047+00:00",
+    "date": "2026-10-07T07:14:02.083186+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -814,7 +810,7 @@
   },
   {
     "id": "77780575e2ffe8f9",
-    "date": "2026-10-07T00:41:52.884878+00:00",
+    "date": "2026-10-07T07:14:02.083033+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -843,7 +839,7 @@
   },
   {
     "id": "12a946c343458fa1",
-    "date": "2026-10-07T00:41:52.884723+00:00",
+    "date": "2026-10-07T07:14:02.082896+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -872,12 +868,12 @@
   },
   {
     "id": "618ff2b98c28a875",
-    "date": "2026-10-07T00:41:52.884562+00:00",
+    "date": "2026-10-07T07:14:02.082732+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
     "category": "",
-    "title": "Security Hacker gang says it breached Deutsche Telekom’s IT arm Oct 6, 2026 1 min read",
+    "title": "Security Hacker gang says it breached Deutsche Telekom’s IT arm Oct 7, 2026 2 min read",
     "summary": "Discovered from CyberNews Security page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -901,7 +897,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-10-07T00:41:52.884297+00:00",
+    "date": "2026-10-07T07:14:02.082492+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -930,7 +926,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-10-07T00:41:52.883515+00:00",
+    "date": "2026-10-07T07:14:02.081812+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -959,7 +955,7 @@
   },
   {
     "id": "0bac29a05f80d747",
-    "date": "2026-10-07T00:41:52.692170+00:00",
+    "date": "2026-10-07T07:14:01.914573+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -988,7 +984,7 @@
   },
   {
     "id": "06b47d2839a301d5",
-    "date": "2026-10-07T00:41:52.692020+00:00",
+    "date": "2026-10-07T07:14:01.914464+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1017,7 +1013,7 @@
   },
   {
     "id": "ee88fd21cafcbf4b",
-    "date": "2026-10-07T00:41:52.691876+00:00",
+    "date": "2026-10-07T07:14:01.914346+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1046,7 +1042,7 @@
   },
   {
     "id": "99b464f89b4fcc1c",
-    "date": "2026-10-07T00:41:52.691735+00:00",
+    "date": "2026-10-07T07:14:01.914231+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1075,7 +1071,7 @@
   },
   {
     "id": "6b8ab2c479d2744b",
-    "date": "2026-10-07T00:41:52.691569+00:00",
+    "date": "2026-10-07T07:14:01.914094+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1136,7 +1132,7 @@
   },
   {
     "id": "349e2baaa8e219e1",
-    "date": "2026-10-07T00:41:52.691416+00:00",
+    "date": "2026-10-07T07:14:01.913966+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1165,7 +1161,7 @@
   },
   {
     "id": "aeaf93a4cec99544",
-    "date": "2026-10-07T00:41:52.691281+00:00",
+    "date": "2026-10-07T07:14:01.913854+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1194,7 +1190,7 @@
   },
   {
     "id": "520fcc6d930148d9",
-    "date": "2026-10-07T00:41:52.691038+00:00",
+    "date": "2026-10-07T07:14:01.913658+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1223,7 +1219,7 @@
   },
   {
     "id": "46b7a3efe52314b1",
-    "date": "2026-10-07T00:41:52.690875+00:00",
+    "date": "2026-10-07T07:14:01.913521+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1252,7 +1248,7 @@
   },
   {
     "id": "a234a0e2c5395e22",
-    "date": "2026-10-07T00:41:52.690726+00:00",
+    "date": "2026-10-07T07:14:01.913401+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1281,7 +1277,7 @@
   },
   {
     "id": "7c3658b306d2c6f3",
-    "date": "2026-10-07T00:41:52.690542+00:00",
+    "date": "2026-10-07T07:14:01.913271+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1310,7 +1306,7 @@
   },
   {
     "id": "f29feab6f4f0ee32",
-    "date": "2026-10-07T00:41:52.690375+00:00",
+    "date": "2026-10-07T07:14:01.913128+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1339,7 +1335,7 @@
   },
   {
     "id": "1410619546a6e8bd",
-    "date": "2026-10-07T00:41:52.690181+00:00",
+    "date": "2026-10-07T07:14:01.912959+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1368,7 +1364,7 @@
   },
   {
     "id": "43cc6fecf4fc2907",
-    "date": "2026-10-07T00:41:52.689848+00:00",
+    "date": "2026-10-07T07:14:01.912679+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1397,7 +1393,7 @@
   },
   {
     "id": "c845ae3d1005b684",
-    "date": "2026-10-07T00:41:52.689703+00:00",
+    "date": "2026-10-07T07:14:01.912555+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1426,7 +1422,7 @@
   },
   {
     "id": "6b6ac0d8430f7f6e",
-    "date": "2026-10-07T00:41:52.689556+00:00",
+    "date": "2026-10-07T07:14:01.912431+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1455,7 +1451,7 @@
   },
   {
     "id": "c794a4a495efc581",
-    "date": "2026-10-07T00:41:52.689411+00:00",
+    "date": "2026-10-07T07:14:01.912306+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1484,7 +1480,7 @@
   },
   {
     "id": "5ae1eec078699ea1",
-    "date": "2026-10-07T00:41:52.689262+00:00",
+    "date": "2026-10-07T07:14:01.912180+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1513,7 +1509,7 @@
   },
   {
     "id": "ed62b1463d812969",
-    "date": "2026-10-07T00:41:52.689001+00:00",
+    "date": "2026-10-07T07:14:01.911979+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1552,7 +1548,7 @@
   },
   {
     "id": "a6bfbb18b69d9663",
-    "date": "2026-10-07T00:41:52.688852+00:00",
+    "date": "2026-10-07T07:14:01.911837+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1581,7 +1577,7 @@
   },
   {
     "id": "f8a7c1fbed916590",
-    "date": "2026-10-07T00:41:52.688657+00:00",
+    "date": "2026-10-07T07:14:01.911666+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1610,7 +1606,7 @@
   },
   {
     "id": "7855365c780af3d9",
-    "date": "2026-10-07T00:41:52.688510+00:00",
+    "date": "2026-10-07T07:14:01.911533+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1639,7 +1635,7 @@
   },
   {
     "id": "c1d7cb8b13b377a7",
-    "date": "2026-10-07T00:41:52.684567+00:00",
+    "date": "2026-10-07T07:14:01.908269+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1668,7 +1664,7 @@
   },
   {
     "id": "63b6979b15074c26",
-    "date": "2026-10-07T00:41:52.683574+00:00",
+    "date": "2026-10-07T07:14:01.907431+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1697,7 +1693,7 @@
   },
   {
     "id": "e3a9691a2b44ce1f",
-    "date": "2026-10-07T00:41:52.683309+00:00",
+    "date": "2026-10-07T07:14:01.907191+00:00",
     "source": "TechNadu",
     "quality": "Medium",
     "scope": "General",
@@ -1725,37 +1721,8 @@
     ]
   },
   {
-    "id": "f5203f756049813e",
-    "date": "2026-10-07T00:41:52.508305+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wtri3s/pwnd_blaster_hacking_your_pc_using_your_speaker/",
-    "target": "Pwnd Blaster",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wtri3s/pwnd_blaster_hacking_your_pc_using_your_speaker/"
-      }
-    ]
-  },
-  {
     "id": "3f59c2f5c37e9e6c",
-    "date": "2026-10-07T00:41:52.508158+00:00",
+    "date": "2026-10-07T07:14:01.719160+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1784,7 +1751,7 @@
   },
   {
     "id": "3107a68668ffd5de",
-    "date": "2026-10-07T00:41:52.508008+00:00",
+    "date": "2026-10-07T07:14:01.719057+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1813,7 +1780,7 @@
   },
   {
     "id": "a47696b55d12d13c",
-    "date": "2026-10-07T00:41:52.507886+00:00",
+    "date": "2026-10-07T07:14:01.718957+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1842,7 +1809,7 @@
   },
   {
     "id": "badfa9d188daf86a",
-    "date": "2026-10-07T00:41:52.507758+00:00",
+    "date": "2026-10-07T07:14:01.718841+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1871,7 +1838,7 @@
   },
   {
     "id": "a23148661521e0e2",
-    "date": "2026-10-07T00:41:52.507628+00:00",
+    "date": "2026-10-07T07:14:01.718739+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1900,7 +1867,7 @@
   },
   {
     "id": "ddb9289ce8174e5e",
-    "date": "2026-10-07T00:41:52.507500+00:00",
+    "date": "2026-10-07T07:14:01.718641+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1929,7 +1896,7 @@
   },
   {
     "id": "8f0d5ac7621a50e4",
-    "date": "2026-10-07T00:41:52.507375+00:00",
+    "date": "2026-10-07T07:14:01.718545+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1958,7 +1925,7 @@
   },
   {
     "id": "65e0bfaac49ac7cc",
-    "date": "2026-10-07T00:41:52.507246+00:00",
+    "date": "2026-10-07T07:14:01.718447+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1987,7 +1954,7 @@
   },
   {
     "id": "db9a2989d6edd0a4",
-    "date": "2026-10-07T00:41:52.507102+00:00",
+    "date": "2026-10-07T07:14:01.718345+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2016,7 +1983,7 @@
   },
   {
     "id": "cba92cc7264c04f4",
-    "date": "2026-10-07T00:41:52.506955+00:00",
+    "date": "2026-10-07T07:14:01.718239+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2045,7 +2012,7 @@
   },
   {
     "id": "b2b027f883e15976",
-    "date": "2026-10-07T00:41:52.506813+00:00",
+    "date": "2026-10-07T07:14:01.718114+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2074,7 +2041,7 @@
   },
   {
     "id": "8d9f652e4f3b37e0",
-    "date": "2026-10-07T00:41:52.506677+00:00",
+    "date": "2026-10-07T07:14:01.718007+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2103,7 +2070,7 @@
   },
   {
     "id": "ca58ada0222b714a",
-    "date": "2026-10-07T00:41:52.506547+00:00",
+    "date": "2026-10-07T07:14:01.717902+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2132,7 +2099,7 @@
   },
   {
     "id": "d47f7cb5a4e3649b",
-    "date": "2026-10-07T00:41:52.506414+00:00",
+    "date": "2026-10-07T07:14:01.717785+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2161,7 +2128,7 @@
   },
   {
     "id": "5e8bb0b6da7803ca",
-    "date": "2026-10-07T00:41:52.506288+00:00",
+    "date": "2026-10-07T07:14:01.717688+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2190,7 +2157,7 @@
   },
   {
     "id": "bfb4269abccb6672",
-    "date": "2026-10-07T00:41:52.506166+00:00",
+    "date": "2026-10-07T07:14:01.717600+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2219,7 +2186,7 @@
   },
   {
     "id": "ad884ed0a0367e90",
-    "date": "2026-10-07T00:41:52.506007+00:00",
+    "date": "2026-10-07T07:14:01.717493+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2248,7 +2215,7 @@
   },
   {
     "id": "e93e02887e5aaef4",
-    "date": "2026-10-07T00:41:52.505852+00:00",
+    "date": "2026-10-07T07:14:01.717378+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2277,7 +2244,7 @@
   },
   {
     "id": "62134220061de6be",
-    "date": "2026-10-07T00:41:52.505727+00:00",
+    "date": "2026-10-07T07:14:01.717284+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2306,7 +2273,7 @@
   },
   {
     "id": "e6e4dc03908838a2",
-    "date": "2026-10-07T00:41:52.505588+00:00",
+    "date": "2026-10-07T07:14:01.717177+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2334,37 +2301,37 @@
     ]
   },
   {
-    "id": "095b320cc071846b",
-    "date": "2026-10-07T00:41:52.505442+00:00",
+    "id": "1ea2d87c2ca600c0",
+    "date": "2026-10-07T07:14:01.717066+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
     "category": "",
-    "title": "Rockstar Games has now been compromised several different ways since 2018, and none of them were a zero-day",
+    "title": "One Copilot model refused. Another leaked secrets about half the time.",
     "summary": "",
     "article_text": "",
     "quick_summary": [
-      "Rockstar Games has now been compromised several different ways since 2018, and none of them were a zero-day",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
+      "One Copilot model refused. Another leaked secrets about half the time.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wzchsp/rockstar_games_has_now_been_compromised_several/",
-    "target": "Rockstar Games",
+    "link": "https://www.reddit.com/r/netsec/comments/1wzpmfz/one_copilot_model_refused_another_leaked_secrets/",
+    "target": "One Copilot Another",
     "type": "Data Leak / Breach",
-    "severity": "Critical",
+    "severity": "High",
     "sources": [
       "Reddit r/netsec"
     ],
     "links": [
       {
         "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wzchsp/rockstar_games_has_now_been_compromised_several/"
+        "url": "https://www.reddit.com/r/netsec/comments/1wzpmfz/one_copilot_model_refused_another_leaked_secrets/"
       }
     ]
   },
   {
     "id": "56bfae700f149e5f",
-    "date": "2026-10-07T00:41:52.505263+00:00",
+    "date": "2026-10-07T07:14:01.716919+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2392,8 +2359,37 @@
     ]
   },
   {
+    "id": "095b320cc071846b",
+    "date": "2026-10-07T07:14:01.716781+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Rockstar Games has now been compromised several different ways since 2018, and none of them were a zero-day",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Rockstar Games has now been compromised several different ways since 2018, and none of them were a zero-day",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wzchsp/rockstar_games_has_now_been_compromised_several/",
+    "target": "Rockstar Games",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wzchsp/rockstar_games_has_now_been_compromised_several/"
+      }
+    ]
+  },
+  {
     "id": "d29a549c775ffe8f",
-    "date": "2026-10-07T00:41:52.505055+00:00",
+    "date": "2026-10-07T07:14:01.716662+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2438,7 +2434,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-10-07T00:41:52.504851+00:00",
+    "date": "2026-10-07T07:14:01.716464+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2466,6 +2462,371 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "d967806c2312af71",
+    "date": "2026-10-07T06:55:52+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Android’s October 2026 Updates Patch 25 Vulnerabilities",
+    "summary": "The patches resolve a critical vulnerability in Android’s System component that could lead to privilege escalation. The post Android’s October 2026 Updates Patch 25 Vulnerabilities appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The patches resolve a critical vulnerability in Android’s System component that could lead to privilege escalation.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/",
+    "target": "Androids October 2026 Patch",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/"
+      }
+    ]
+  },
+  {
+    "id": "e36750aa7642c877",
+    "date": "2026-10-07T06:37:16+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Atlassian Patches Critical Vulnerability Affecting 8 Products",
+    "summary": "Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory. The post Atlassian Patches Critical Vulnerability Affecting 8 Products appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "Unauthenticated attackers could exploit the flaw to access specific files in the web application root directory.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
+    "target": "Atlassian Patches Critical Vulnerability",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/"
+      }
+    ]
+  },
+  {
+    "id": "f293addd9ebe1810",
+    "date": "2026-10-07T04:38:26+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "EY Data Breach Exposes Goldman Sachs and Man Group Clients’ Data",
+    "summary": "Ernst & Young (EY) has warned that a cyber breach exposed personal and financial information belonging to individuals linked to Goldman Sachs and Man Group. The incident affected a platform used to support EY’s tax services, rather than the financial firms’ own systems. As the Financial Times first reported, the latest disclosures widen the known impact […] The post EY Data Breach Exposes Goldman Sachs and Man Group Clients’ Data appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Ernst & Young (EY) has warned that a cyber breach exposed personal and financial information belonging to individuals linked to Goldman Sachs and Man Group.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/ey-data-breach-exposed/",
+    "target": "Data Breach Exposes Goldman",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/ey-data-breach-exposed/"
+      }
+    ]
+  },
+  {
+    "id": "a9b8f8e9026e9547",
+    "date": "2026-10-07T03:26:17+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Anthropic Opens Claude Access to Red Teams and Verified Cyber Defenders",
+    "summary": "Anthropic has expanded its Cyber Verification Program, giving verified security professionals access to advanced Claude models with fewer cybersecurity restrictions. Announced on October 6, 2026, the update introduces three access tiers covering defensive research, authorized penetration testing, and testing of systems where failures could threaten lives or disrupt markets. The program includes Claude Opus 5.5, […] The post Anthropic Opens Claude Access to Red Teams and Verified Cyber Defenders appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Anthropic has expanded its Cyber Verification Program, giving verified security professionals access to advanced Claude models with fewer cybersecurity restrictions.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/anthropic-cyber-verification-program/",
+    "target": "Anthropic Opens Claude Access",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/anthropic-cyber-verification-program/"
+      }
+    ]
+  },
+  {
+    "id": "258baa960b69e3c6",
+    "date": "2026-10-07T02:00:02+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33404",
+    "target": "ISC Stormcast Wednesday October",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33404"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33402"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33398"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33390"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33386"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33384"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33378"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33374"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33370"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33364"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33356"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33354"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33350"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33342"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33346"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33362"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33338"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33334"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33330"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33328"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33322"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33316"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33310"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33308"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33304"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33302"
+      }
+    ]
+  },
+  {
+    "id": "ed787f0edf192c43",
+    "date": "2026-10-07T01:32:58+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System",
+    "summary": "The Arizona Supreme Court said the information was copied for people dating back as far as 30 years. The post Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona’s Court System appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The Arizona Supreme Court said the information was copied for people dating back as far as 30 years.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
+    "target": "Personal Information Million People",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/"
+      }
+    ]
+  },
+  {
+    "id": "6194f3bf9829aee0",
+    "date": "2026-10-07T00:41:54.342566+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Cisco SD-WAN: Exploit in 24 Hours, Scheduled Patching No Longer Cuts It CYBERSEC EXPLOIT",
+    "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+    "article_text": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504 ) that attackers are actively exploiting to escalate to admin privileges. Formerly known as SD-WAN vManage, Catalyst SD-WAN Manager is network management software that lets admins monitor and manage up to 6,000 SD-WAN devices from a single dashboard. \"In September 2026, the Cisco PSIRT became aware of active exploitation of this vulnerability,\" the company warned on Wednesday. \"Cisco strongly recommends that customers upgrade to a fixed software release to remediate this vulnerability.\" The CVE-2026-76504 vulnerability affects all deployments regardless of system configuration, was found in API session-based authentication management, and allows unauthenticated attackers to access vulnerable systems remotely with admin privileges. \"This vulnerability is due to improper handling of URI encoding in an HTTP request, which allows the request to bypass an authentication rule that is intended to restrict access to a specific API endpoint,\" Cisco added. \"An attacker could exploit this vulnerability by sending a crafted HTTP request to the API of the affected system.\" While the company didn't share further details regarding attacks exploiting CVE-2026-76504, it shared indicators of compromise (IOCs) warning admins that threat actors are using %6a as the URI-encoded character \"j\" in malicious requests. It also advised security teams investigating potentially compromised SD-WAN systems to check the serviceproxy-access.log file located under /var/log/nms/containers/service-proxy and the vmanage-server.log file under /var/log/nms/ for entries related to j_security_check from unknown or unauthorized IP addresses. \"For help determining if a Cisco Catalyst SD-WAN Manager has been compromised, customers may open a case with the Cisco TAC,\" it added, advising admins first to collect admin-tech files to support the review. CVE-2026-76504 is the fifth SD-WAN zero-day vulnerability actively exploited in the wild since the start of the year. Cisco patched an SD-WAN Manager information disclosure security flaw (CVE-2026-20127) in February, exploited since at least 2023, and tagged a maximum-severity Catalyst SD-WAN Controller auth bypass flaw (CVE-2026-20182) as actively exploited in zero-day attacks to gain admin privileges on unpatched devices in May. More recently, in early June, Cisco warned of two more SD-WAN zero-days ( CVE-2026-20245 and CVE-2026-20262 ) that attackers exploited to gain root privileges on vulnerable systems. Today, the Cybersecurity and Infrastructure Security Agency (CISA) also added CVE-2026-76504 to its Known Exploited Vulnerabilities (KEV) Catalog and ordered U.S. federal agencies to secure their systems against attacks by Saturday, October 3. Since November 2021, CISA has tagged 90 Cisco vulnerabilities as exploited in the wild, including four in Cisco Catalyst SD-WAN Manager and seven abused by ransomware operations. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Cisco warns of max severity ISE zero-day exploited in attacks Cisco patches Secure Email Gateway zero-day exploited in attacks New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers Critical Citrix NetScaler auth bypass now leveraged in attacks Citrix confirms two NetScaler RCE zero-days exploited in attacks Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors Windows 11 2026 Update released, here's everything you need to know 80,000+ corporate domains have employee AI logins in stealer logs. Check yours free. Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Free Identity Governance for up to 150 Users: Try Our Community Edition Your access review passed cleanly, but it never saw the agents swimming under the surface. See how Token Security fishes out every one of them. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cisco-sd-wan-exploit-in-24-hours-scheduled-patching-no-longer-cuts-it",
+    "target": "Cisco SD-WAN",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cisco-sd-wan-exploit-in-24-hours-scheduled-patching-no-longer-cuts-it"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/"
+      }
+    ]
+  },
+  {
+    "id": "3e0179973eda4310",
+    "date": "2026-10-07T00:41:54.342439+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "South Korea Orders Presidential Probe After Seven Banks Breached; AI Offensive Tools Suspected CYBERSEC",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/south-korea-orders-presidential-probe-after-seven-banks-breached-ai-offensive-tools-suspected",
+    "target": "South Korea Orders Presidential",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/south-korea-orders-presidential-probe-after-seven-banks-breached-ai-offensive-tools-suspected"
+      }
+    ]
+  },
+  {
+    "id": "f5203f756049813e",
+    "date": "2026-10-07T00:41:52.508305+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1wtri3s/pwnd_blaster_hacking_your_pc_using_your_speaker/",
+    "target": "Pwnd Blaster",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wtri3s/pwnd_blaster_hacking_your_pc_using_your_speaker/"
       }
     ]
   },
@@ -3829,47 +4190,6 @@
     ]
   },
   {
-    "id": "f8942a95d6435177",
-    "date": "2026-10-06T11:45:11+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33402",
-    "target": "ISC Stormcast Tuesday October",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33402"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33398"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33390"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33386"
-      }
-    ]
-  },
-  {
     "id": "e752e91d532410ea",
     "date": "2026-10-06T11:26:25+00:00",
     "source": "The Hacker News",
@@ -3907,7 +4227,7 @@
     "category": "",
     "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
     "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows. The ecosystem around it fell short. Earlier this year, our team at OX Security, traced critical vulnerabilities in Anthropic's MCP",
-    "article_text": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows. The ecosystem around it fell short. Earlier this year, our team at OX Security , traced critical vulnerabilities in Anthropic's MCP source code, downloaded more than 150 million times. This time, we looked at what people actually install: community-published servers across the most popular MCP marketplaces. We found no guardrails and no review. Security is a recommendation, not a policy. In 2012, Google ran Bouncer, an automated scanner that checked Android apps for malware before they reached users. It wasn't perfect: researchers slipped malware past it . But it existed. MCP marketplaces have no equivalent. Anyone can write a server, push it, and publish it. Even a review wouldn't close the gap. At RSAC and OWASP last year, we presented \"In GitHub We Trust: 10 Ways You Can Get Pwned,\" on how developers over-trust what they see in a repository. MCP repeats that mistake. Remote MCP servers can run backend code that differs entirely from what their public repository shows. Code review tells you what the developer published, not what the server runs. Over the past decade, enterprises built strict governance to adopt public cloud safely: data residency rules, Zero Trust boundaries, granular IAM, and supply chain audits. MCP connections often sit outside all of it. To measure the gap, we analyzed 15,465 publicly indexed MCP servers across 5 MCP registries, deduplicated to 5,095 unique hostnames. Location can also change. An operator could launch a server on a clean US IP address and later route traffic somewhere else. The full report covers our methodology, a prompt-injection proof of concept, and the threat scenarios behind each finding. Download \"15,465 MCP Servers, 0 Governance\" The protocol isn't the problem. The trust we hand it is. Until marketplaces add vetting, code signing, and origin verification, the enterprise has to do that work. It's still a jungle out there. Make sure you're not the prey. Want to go further? Join our live webinar, \" The AI Attack Surface Is Already in Your Cloud ,\" on October 13 at 12:00 PM ET. Latio founder and CEO James Berthoty and OX Field CTO Chris Lindsey will cover how AI is reshaping cloud threats and what security teams should do about it. Register Note: This article has been expertly written and contributed Moshe Siman Tov Bustan, Security Research Team Lead, OX Security. AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identity controls. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "article_text": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows. The ecosystem around it fell short. Earlier this year, our team at OX Security , traced critical vulnerabilities in Anthropic's MCP source code, downloaded more than 150 million times. This time, we looked at what people actually install: community-published servers across the most popular MCP marketplaces. We found no guardrails and no review. Security is a recommendation, not a policy. In 2012, Google ran Bouncer, an automated scanner that checked Android apps for malware before they reached users. It wasn't perfect: researchers slipped malware past it . But it existed. MCP marketplaces have no equivalent. Anyone can write a server, push it, and publish it. Even a review wouldn't close the gap. At RSAC and OWASP last year, we presented \"In GitHub We Trust: 10 Ways You Can Get Pwned,\" on how developers over-trust what they see in a repository. MCP repeats that mistake. Remote MCP servers can run backend code that differs entirely from what their public repository shows. Code review tells you what the developer published, not what the server runs. Over the past decade, enterprises built strict governance to adopt public cloud safely: data residency rules, Zero Trust boundaries, granular IAM, and supply chain audits. MCP connections often sit outside all of it. To measure the gap, we analyzed 15,465 publicly indexed MCP servers across 5 MCP registries, deduplicated to 5,095 unique hostnames. Location can also change. An operator could launch a server on a clean US IP address and later route traffic somewhere else. The full report covers our methodology, a prompt-injection proof of concept, and the threat scenarios behind each finding. Download \"15,465 MCP Servers, 0 Governance\" The protocol isn't the problem. The trust we hand it is. Until marketplaces add vetting, code signing, and origin verification, the enterprise has to do that work. It's still a jungle out there. Make sure you're not the prey. Want to go further? Join our live webinar, \" The AI Attack Surface Is Already in Your Cloud ,\" on October 13 at 12:00 PM ET. Latio founder and CEO James Berthoty and OX Field CTO Chris Lindsey will cover how AI is reshaping cloud threats and what security teams should do about it. Register Note: This article has been expertly written and contributed by Moshe Siman Tov Bustan, Security Research Team Lead, OX Security. AI agents are already operating inside enterprises with growing access to sensitive systems and data—while security teams still lack the visibility, controls, and governance to keep that access in check. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identity controls. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
     "quick_summary": [
       "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data.",
       "Risk: vulnerability/exploitation risk",
@@ -16327,115 +16647,6 @@
     ]
   },
   {
-    "id": "eeb34624d4e5d5cc",
-    "date": "2026-09-30T02:00:03+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33384",
-    "target": "ISC Stormcast Wednesday September",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33384"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33378"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33374"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33370"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33364"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33356"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33354"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33350"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33342"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33346"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33362"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33338"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33334"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33330"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33328"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33322"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33316"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33310"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33308"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33304"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33302"
-      }
-    ]
-  },
-  {
     "id": "2300d391e2ab5bf3",
     "date": "2026-09-30T01:48:21+00:00",
     "source": "SecurityWeek",
@@ -26616,225 +26827,6 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/"
-      }
-    ]
-  },
-  {
-    "id": "73d35c343fd7b1cc",
-    "date": "2026-09-24T11:12:28+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Microsoft Rebuilds the SOC with AI Agents, SIEM Integration and Machine-Speed Defense",
-    "summary": "Cyberattacks can move faster than a security team can investigate them. Attackers increasingly use AI agents to automate steps that once needed several people, while defenders still work across separate monitoring and protection tools. Microsoft says this mismatch is driving a rethink of how security operations centers, or SOCs, should work. This is not a […] The post Microsoft Rebuilds the SOC with AI Agents, SIEM Integration and Machine-Speed Defense appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Cyberattacks can move faster than a security team can investigate them.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/microsoft-rebuilds-the-soc/",
-    "target": "Microsoft Rebuilds SOC Agents",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/microsoft-rebuilds-the-soc/"
-      }
-    ]
-  },
-  {
-    "id": "6f2d326900d299af",
-    "date": "2026-09-24T11:05:16+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators",
-    "summary": "Revision 4 of NIST’s operational technology security guide is open for public comments until November 30. The post OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Revision 4 of NIST’s operational technology security guide is open for public comments until November 30.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
-    "target": "Guidance",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/"
-      }
-    ]
-  },
-  {
-    "id": "13ac95d0bbbb8e56",
-    "date": "2026-09-24T11:00:00+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-    "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-written ones. Most of the fastest-growing categories of leaked credentials are now connected to AI",
-    "article_text": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report , commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-written ones. Most of the fastest-growing categories of leaked credentials are now connected to AI services, meaning the tools meant to advance development are also accelerating the exposure of the keys development relies on. This isn’t a new vulnerability; what is new is AI changing the scale and pace at which those mistakes can happen. A coding agent can read an entire project, modify files, generate configurations and interact with external services in the time a developer might take to review a single pull request. The main issue isn’t that AI agents sometimes encounter secrets but that many of those secrets were never designed for an environment in which software can act autonomously. AI coding agents are contributing to secrets sprawl by hardcoding credentials into more files and spreading existing ones into more systems than security teams can track and rotate. Secrets sprawl occurs when credentials such as API keys, tokens and service account credentials accumulate across more systems than an organization can reliably inventory and rotate — hardcoded in source files, pasted into configurations and copied into tickets. Security teams have historically tried to control this sprawl by detecting exposed secrets retroactively; scanners watch repositories, pre-commit hooks catch what they can and security teams rotate credentials after an exposure is discovered. Those controls still matter, but AI agents expose the limitations of depending on detection alone. Agents can read local files, execute commands, call APIs, interact with Model Context Protocol (MCP) servers and modify configuration. Each additional capability creates another place where a credential may be required and another path through which that credential can spread. This is why organizations should treat secrets sprawl in the agentic AI era as a Non-Human Identity (NHI) problem, not a model-behavior one. Every useful action an agent takes on another system has an identity behind it. When agents query a database, call an API and deploy to staging, some credential authorizes that action. Organizations cannot reliably predict every action an autonomous system will take, but they can control what the identity behind that system is allowed to access. What makes coding agents useful is also what creates new credential risks: agents need context. An agent that can’t read an entire project doesn’t provide much assistance, especially one that must be re-authorized for every operation. Below are several ways this plays out in practice, demonstrating why organizations should be more careful when granting AI coding agents access to credentials and secrets. Developers often keep credentials in .env files and local configurations, left behind from a prior debugging session and never intended for source control. An AI coding agent with broad access to a project may be able to read those files along with the application code it was asked to analyze. To an AI agent, a configuration file containing a production API key is still part of the working environment, so unless access is explicitly limited, the credential may become available to the agent even if it is irrelevant to the task. This shifts security assumptions around developer workstations: Local plaintext credentials are no longer accessible only to the developer and the applications that explicitly reference them but are now also potentially available to software agents operating across the same environment. Setup instructions for agents and MCP servers routinely simplify how developers connect AI applications with databases, APIs and other external systems. Because many integrations require authentication, that simplification often means pasting the credential directly into a configuration file. Since that file never enters version control, it's easy to assume the credential is safe. However, the credential may still exist in plaintext on a developer machine, often in a location the agent has permissions to read. A secret rarely lives in one location; the same key ends up in an .env file, a CI/CD variable or even a Jira ticket while engineers troubleshoot a failed deployment. An AI coding agent connected to those sys",
-    "quick_summary": [
-      "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-    "target": "Secrets Sprawl Identity Problem",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html"
-      }
-    ]
-  },
-  {
-    "id": "4753160ff6d41cef",
-    "date": "2026-09-24T11:00:00+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Begin at the End: How to Enable Agentic Remediation",
-    "summary": "Agentic remediation is not an act of faith. We are talking about fixing known problems, not judgment calls about unfamiliar risk. The post Begin at the End: How to Enable Agentic Remediation appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Agentic remediation is not an act of faith.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
-    "target": "Begin End",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/"
-      }
-    ]
-  },
-  {
-    "id": "21b43d032b769ffa",
-    "date": "2026-09-24T10:42:37+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]",
-    "article_text": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. JetBrains patched the security flaw (tracked as CVE-2026-63077 ) on July 25 in TeamCity On-Premises versions 2025.11.7 and 2026.1.3, saying it is a critical authentication bypass vulnerability that lets attackers with HTTP(S) access execute arbitrary operating system commands. \"An unauthenticated attacker could exploit the vulnerability via the TeamCity agent polling protocol to bypass authentication checks and execute arbitrary operating system commands with the privileges of the TeamCity server process,\" it said. \"Depending on the privileges granted to the TeamCity server process, a successful attack could expose TeamCity data, configurations, and stored credentials, modify server state, and potentially compromise the integrity of build artifacts and downstream CI/CD pipelines.\" Almost two weeks later, on August 5, CISA added CVE-2026-63077 to its catalog of actively exploited vulnerabilities and ordered U.S. federal agencies to secure their networks against ongoing attacks within three days. JetBrains confirmed that the flaw was exploited in the wild on August 7, shared indicators of compromise, and urged customers who couldn't immediately patch their servers to limit access to trusted networks. While CISA has not yet shared information about attacks targeting CVE-2026-63077 , it updated its Known Exploited Vulnerabilities Catalog (KEV) again on Wednesday, flagging the vulnerability as being abused by ransomware gangs . In total, since October 2023, the cybersecurity agency has tagged four TeamCity security issues as exploited in the wild, all of which have also been abused in ransomware attacks. Security threat watchdog Shadowserver is now tracking just over 160 TeamCity servers unpatched against the CVE-2026-63077 flaw, down from an initial 700 Internet-exposed servers vulnerable to attacks spotted right after the vulnerability was patched. ​Because state-backed hacking groups and ransomware gangs have often leveraged TeamCity vulnerabilities in attacks, IT administrators are advised to patch Internet-exposed servers immediately. For instance, in October 2024, U.S. and U.K. cyber agencies warned that APT29 hackers linked to Russia's Foreign Intelligence Service (SVR) were targeting vulnerable JetBrains TeamCity and Zimbra servers \"at a mass scale.\" TeamCity is a Continuous Integration and Continuous Deployment (CI/CD) platform used by software developers and DevOps teams to automate building, testing, and deploying software code. JetBrains says more than 30,000 DevOps teams use TeamCity at many high-profile companies, including Citibank, Amazon Games, Tesla, and Samsung. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. CISA: Critical VMware RCE flaw now exploited by ransomware gangs CISA: WatchGuard RCE flaw now exploited in ransomware attacks CISA: Microsoft SharePoint flaw now exploited in ransomware attacks CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday CISA orders urgent patching of actively exploited Zimbra flaw ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach New Windows Defender zero-day blocks Microsoft antivirus updates Microsoft: September Windows updates break Always On VPN connections Daily detection, monthly validation, 12-hour clocks. Are you VDR & VER ready? Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Overdue a password health-check? Audit your Active Directory for free Automate Onboarding and Access Reviews with No-Code IGA: See how it works Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-    "target": "CISA",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/"
-      },
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/cisa-hiring-nick-andersen-warning"
-      }
-    ]
-  },
-  {
-    "id": "7e48189c5e36ae6b",
-    "date": "2026-09-24T10:40:40+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
-    "summary": "The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication. The post SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The vulnerabilities, tracked as CVE-2026-28324 and CVE-2026-28325, can be exploited without authentication.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
-    "target": "SolarWinds Patches Critical RCE",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/"
-      }
-    ]
-  },
-  {
-    "id": "38ebdac2d7a7ecb4",
-    "date": "2026-09-24T10:04:44+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New Android Banking Trojan Uses AI-Built Overlays to Steal Users’ Banking PINs",
-    "summary": "A new Android banking trojan is turning an app download into a banking PIN trap. Called RemControl, it hides behind fake download pages for a television streaming app, then waits for banking apps to open. The campaign uses pages that look like Google Play listings, even though the streaming app is not offered there. In […] The post New Android Banking Trojan Uses AI-Built Overlays to Steal Users’ Banking PINs appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A new Android banking trojan is turning an app download into a banking PIN trap.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/android-banking-trojan/",
-    "target": "Android Banking Trojan Uses",
-    "type": "Malware",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/android-banking-trojan/"
       }
     ]
   }
