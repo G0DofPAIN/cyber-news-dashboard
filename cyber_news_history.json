@@ -1,36 +1,7 @@
 [
   {
-    "id": "36ac4c751d301c2b",
-    "date": "2026-10-13T19:16:40.129019+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT French Supermarket Fridges Hacked: Outdated Danfoss Firmware, Temperatures Forced to 50°C",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/french-supermarket-fridges-hacked-outdated-danfoss-firmware-temperatures-forced-to-50c",
-    "target": "EXPLOIT French Supermarket Fridges",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/french-supermarket-fridges-hacked-outdated-danfoss-firmware-temperatures-forced-to-50c"
-      }
-    ]
-  },
-  {
     "id": "c2f79303b1bf6dea",
-    "date": "2026-10-13T19:16:40.128929+00:00",
+    "date": "2026-10-13T23:18:05.512599+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "5e400c42aff76106",
-    "date": "2026-10-13T19:16:40.128844+00:00",
+    "date": "2026-10-13T23:18:05.512529+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "1ad3308d9cb64be6",
-    "date": "2026-10-13T19:16:40.128763+00:00",
+    "date": "2026-10-13T23:18:05.512464+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "f021ecf15f96b34d",
-    "date": "2026-10-13T19:16:40.128682+00:00",
+    "date": "2026-10-13T23:18:05.512396+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -145,56 +116,23 @@
     ]
   },
   {
-    "id": "c0ff3cd0c54d2a94",
-    "date": "2026-10-13T19:16:40.128600+00:00",
+    "id": "d9c71dadd2b67e28",
+    "date": "2026-10-13T23:18:05.512331+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Qilin Member Extradited to Germany: Gang Adds Over 450 Victims to Leak Site ransomware",
+    "title": "ZERO-DAY October 2026 Patch Tuesday: 1,413 CVEs and the 'Risk Cohort' Stress Test",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/ransomware/qilin-member-extradited-to-germany-gang-adds-over-450-victims-to-leak-site",
-    "target": "Qilin Member Extradited Germany",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ransomware/qilin-member-extradited-to-germany-gang-adds-over-450-victims-to-leak-site"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ransomware/qilin-member-extradited-to-germany-operations-continue-unabated"
-      }
-    ]
-  },
-  {
-    "id": "753e3765b8af02d1",
-    "date": "2026-10-13T19:16:40.128522+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Ransomware: Data Exfiltration Surges 275%, Terabytes Become the New Extortion Lever ransomware",
-    "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
-    "article_text": "Ransomware is far less frightening when you know you can recover. That’s why threat actors are turning their attention to encrypting backups. They wipe recovery points and disrupt the infrastructure needed to restore the encrypted data. Once that recovery path disappears, the pressure to pay rises sharply. For IT leaders, the lesson is uncomfortable but simple. A backup is only a safety net if the attacker cannot reach it. Ransomware groups have found several ways to neutralize backups, and the methods keep getting more deliberate. In February 2024, the ALPHV/BlackCat ransomware group encrypted Change Healthcare’s systems after breaking through a remote access portal with no multi-factor authentication. The backups were not isolated or robust enough to restore operations quickly. UnitedHealth paid $22 million in ransom and still did not get its data back. Total recovery costs hit an estimated $1.6 billion . The BlackMatter group made backup destruction their standard operating procedure. When they hit NEW Cooperative, an Iowa-based farm services provider, and Crystal Valley, a Minnesota farm cooperative, in 2021, they used compromised admin credentials to locate every backup data store and appliance on the network — then wiped or reformatted them before encrypting everything else. Since the backups were on the same network, they were easy targets. CISA, the FBI, and the NSA jointly documented this tactic, noting the group has demanded ransom payments ranging from $80,000 to $15 million in Bitcoin and Monero. Gunra ransomware, documented in a joint CISA and FBI advisory in August 2026, pushed that logic further. In one confirmed case, attackers deleted backup and archived data at both the organization's primary data center and its disaster recovery site. A single set of stolen credentials was all it took to reach both. Having two copies in two locations meant nothing, because both locations trusted the same key. The attacks above point to a simple shift in how backup strategy needs to be thought about. Do not only ask how many copies you have or where they are stored. Ask what connects those copies, who can administer them and whether a compromised account could reach them all. Your recovery strategy should assume attackers will try to destroy the way out. Separate critical backups from production, limit administrative access, and ensure there is no single compromised identity or pathway that can wipe every recovery copy. Ransomware groups are now targeting backup infrastructure first — wiping recovery points before encrypting everything else. Our report, Building Security That Survives Human Error , reveals what's stalling organizations from closing the gap and where leading IT teams are focusing first. The cost difference between recovering with intact backups versus without them is the difference between a manageable disruption and a business-threatening event. IBM's 2025 Cost of a Data Breach Report puts the average cost of a ransomware incident at $5.08 million . But the financial damage is only part of the picture. IBM’s 2026 research found that 41% of ransomware incidents also involved threats to damage the victim’s brand reputation , showing how quickly the impact can spread from disrupted systems to lost customer trust. If attackers destroy the backups, they take away the leverage that lets organizations refuse the ransom. These attacks tend to expose the same weaknesses. The recovery environment may exist, but the security around it is often less mature than those protecting production systems. It requires treating the recovery environment as critical infrastructure. The challenge of protecting backups points to a broader problem in cybersecurity. Most organizations understand the risk of an attack. They may know they need stronger isolation, better monitoring or more resilient recovery, but lack the budget, staff or operational capacity to put those protections in place. Almost 77% of IT organizations surveyed for our cybersecurity report, Building Security That Survives Human Error , say their cybersecurity investment is not keeping pace with the threats they face. Among MSPs, 65% say their clients are underinvesting in cybersecurity. The result is a familiar tension. Security teams know what needs attention, but limited resources force them to make difficult choices about where to focus first. Drawing on responses from more than 1,100 IT and cybersecurity professionals, the report looks at the pressures b",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://deafnews.it/en/news/ransomware/ransomware-data-exfiltration-surges-275-terabytes-become-the-new-extortion-lever",
-    "target": "Ransomware",
-    "type": "Ransomware",
+    "link": "https://deafnews.it/en/news/cybersecurity/october-2026-patch-tuesday-1413-cves-and-the-risk-cohort-stress-test",
+    "target": "ZERO-DAY October 2026 Patch",
+    "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
       "DeafNews"
@@ -202,17 +140,42 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ransomware/ransomware-data-exfiltration-surges-275-terabytes-become-the-new-extortion-lever"
-      },
+        "url": "https://deafnews.it/en/news/cybersecurity/october-2026-patch-tuesday-1413-cves-and-the-risk-cohort-stress-test"
+      }
+    ]
+  },
+  {
+    "id": "657bdd0c270af09a",
+    "date": "2026-10-13T23:18:05.512263+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE CVE-2026-39919: RCE via PDF in Ghostscript — the -dSAFER Sandbox Isn't Enough",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-39919-rce-via-pdf-in-ghostscript-the-dsafer-sandbox-isnt-enough",
+    "target": "CVE CVE-2026-39919",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
       {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/"
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-39919-rce-via-pdf-in-ghostscript-the-dsafer-sandbox-isnt-enough"
       }
     ]
   },
   {
     "id": "9c667380ae2ba908",
-    "date": "2026-10-13T19:16:40.128421+00:00",
+    "date": "2026-10-13T23:18:05.512178+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -241,7 +204,7 @@
   },
   {
     "id": "d4fca2a921779fa8",
-    "date": "2026-10-13T19:16:40.128147+00:00",
+    "date": "2026-10-13T23:18:05.511946+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -270,14 +233,14 @@
   },
   {
     "id": "2e9ad9f3483fd092",
-    "date": "2026-10-13T19:16:40.128057+00:00",
+    "date": "2026-10-13T23:18:05.511877+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
     "title": "Anthropic: Small AI Models Ready to Self-Replicate on IoT Devices ai",
-    "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
-    "article_text": "Anthropic announced that its internal AI models under “high-risk and cybersecurity evaluations” no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. The instances leading to the decision include AI models that exploited website vulnerabilities, submitted forms, bypassed data restrictions, and circumvented safeguards. However, the company said that the misaligned behavior had a minimal real-world impact and assessed the behavior to be less severe than previously reported incidents. The AI company notified the White House about the unauthorized activity: Anthropic estimates that the agents may have been motivated by overly generous rewards during reinforcement learning, which may have encouraged them to find unauthorized workarounds rather than stop when a task was blocked or impossible. For this reason, until security measures are deemed reliable again, Anthropic will sever live internet access across all internal AI model evaluations and move all tests to offline environments. “Although the impact of these behaviors was minimal and we had already turned off live internet access for some high-risk and cybersecurity evaluations, we have now decided to expand that to include all our internal evaluations until we have confirmed that our security and monitoring measures reliably catch behaviors like these,” Anthropic explains . In late July, Anthropic disclosed a much more serious incident in which Claude Mythos-based agents built a malicious Python package containing a credential stealer and uploaded it to the Python Package Index (PyPI), where 15 systems downloaded and ran it. Claude used the package to complete a “capture-the-flag” challenge, but instead of publishing it to a simulated environment, it broke out to the real PyPI platform. In August, AISI revealed that Mythos 5 attempted a supply-chain attack by submitting malicious code to an open-source project and pressuring the maintainer to approve it using fake identities. In September, Anthropic revealed that Opus 4.6 obtained administrator access to a third-party system during a January 2026 evaluation and read one person’s personal information. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Anthropic asks Claude users to share voice data for AI model training Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions Anthropic wants Claude to analyze your bank account and financial data They never should have had Internet access in the first place. That they did shows that either a) These companies were unfathomably incompetent and irresponsible or b) That it was done on purpose. I'm quite certain it was the latter. This was all a marketing stunt and people should be in front of grand juries for it. If we did something like this, we'd already be in prison. Cyber exec arrested in case allegedly tied to ShinyHunters hackers Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks Microsoft: Outdated Windows devices will stop receiving security updates New OAuth risk analyst agent: Turn 45 minutes of manual review into 15 seconds. AWS saw a valid key and let the agent clear a production bucket. See how Token Security ties each agent to its owner and limits it to read-only access. Learn how to evaluate RMM security with eight practical tests. Find gaps before scaling endpoint management across customer environments. Is your backup really out of reach? See what the latest attacks reveal. Move from visibility to action with AITEM, Criminal IP’s next evolution of ASM Read our posting guidelinese to learn what content is prohibited.",
+    "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+    "article_text": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. The company's experiments showed that models could identify unfamiliar devices, connect them into a network, and prepare them to run an AI model. Although the researchers successfully distributed the Gemma4-26B-A4B model from Google DeepMind on 15 off-brand Android TV boxes, they did not demonstrate a fully autonomous, self-replicating AI worm running on real IoT hardware. However, they estimate that smaller models could achieve self-replication by the end of the year if they continue to improve at their historical rate. “Our experiments suggest that small AI models may be months away from being capable enough to self-replicate on commercial internet-of-things (IoT) devices, like smart ovens and off-brand Android TV boxes,” Anthropic warns . “ A replicator like this would be challenging to shut down, since there’s no centralized point to shut off—though it may be slow (with a doubling time of days).” Anthropic ran its replication experiment using cheap Android TV boxes, and the AI models Qwen3.5-9B, Gemma4-26B-A4B, Llama3.1-8B, Opus 4.8, and GLM-5.2, each assigned a different role. Qwen3.5-9B and GLM-5.2 acted as agents tasked with setting up and propagating Llama3.1-8B (inference), while Gemma4-26B-A4B demonstrated that a model could run across 15 Android TV boxes. Opus 4.8 was separately tested as an advisor to Qwen. The experiment used a simplified setting where the targets exposed unauthenticated ADB access. The experiments showed that Qwen3.5-9B successfully installed and configured the software needed to run Llama3.1-8B on eight of the nine hardware types tested. GLM-5.2 reached all eight nodes in the controlled emulated network in four out of five trials, but the other models failed to complete the full process reliably. Anthropic observed an improvement in success rate when it retained data from previous attempts, with Qwen3.5-9 B's success rate rising from 45% early on to 84% in later generations. Using the stronger Opus 4.8 model to assist Qwen in inference produced no measurable improvement. Based on the results and historical data, Anthropic predicts that models with 30 billion parameters or fewer could reach the necessary capability level by the end of 2026. On the studied hardware, the inference setup would be a slow process, taking between 28 and 51 hours for Qwen3.5-9B, and 71-150 hours for Gemma4-26B-A4B, giving defenders enough time to detect and respond. However, this time could shrink with future models, so implementing stronger security measures for IoT may soon become a priority. While Anthropic’s warning is not based on an imminent threat, as their experiment failed to demonstrate full end-to-end worm-creation capability at this stage, even with lowered security settings and explicit propagation goals, the message for better IoT security remains valid. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Anthropic takes risky AI tests offline after models breach govt sites Anthropic asks Claude users to share voice data for AI model training Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions Cyber exec arrested in case allegedly tied to ShinyHunters hackers ARTEX AI, Claude agents used in cyberattacks on South Korean banks Nippon Columbia malware incident exposes 8.6 million karaoke fan records AWS saw a valid key and let the agent clear a production bucket. See how Token Security ties each agent to its owner and limits it to read-only access. Is your backup really out of reach? See what the latest attacks reveal. New OAuth risk analyst agent: Turn 45 minutes of manual review into 15 seconds. Overdue a password health-check? Audit your Active Directory for free Move from visibility to action with AITEM, Criminal IP’s next evolution of ASM Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: general cybersecurity update",
@@ -298,13 +261,17 @@
       },
       {
         "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/"
+      },
+      {
+        "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
       }
     ]
   },
   {
     "id": "ba5f1ae654100edd",
-    "date": "2026-10-13T19:16:40.127961+00:00",
+    "date": "2026-10-13T23:18:05.511803+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -332,13 +299,42 @@
     ]
   },
   {
-    "id": "a53c12a81df3952b",
-    "date": "2026-10-13T19:16:40.127356+00:00",
+    "id": "5c28200080eac3f4",
+    "date": "2026-10-13T23:18:05.511732+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "news Docker Hub IAM Bug Exposed 304,000 Pushes to Impersonation Risk for 26 Months Oct 13, 2026",
+    "title": "LiteLLM: RCE and Authentication Bypass for Authenticated Users news CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/news/litellm-rce-and-authentication-bypass-for-authenticated-users",
+    "target": "LiteLLM",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/litellm-rce-and-authentication-bypass-for-authenticated-users"
+      }
+    ]
+  },
+  {
+    "id": "06b0949721ec88b0",
+    "date": "2026-10-13T23:18:05.511654+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Docker Hub IAM Bug Exposed 304,000 Pushes to Impersonation Risk for 26 Months news",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -362,7 +358,7 @@
   },
   {
     "id": "7ff5b8f8947de26b",
-    "date": "2026-10-13T19:16:40.127172+00:00",
+    "date": "2026-10-13T23:18:05.511207+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -390,13 +386,13 @@
     ]
   },
   {
-    "id": "dcecad594a3aa7ac",
-    "date": "2026-10-13T19:16:40.127066+00:00",
+    "id": "bd8f7756974b1474",
+    "date": "2026-10-13T23:18:05.511129+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Meta Notifies 1,500 People After GitHub Breach Exposes Personal Data and Source Code",
+    "title": "CYBERSEC Meta Notifies 1,500 People After GitHub Breach Exposes Personal Data and Source Code Oct 13, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -405,7 +401,7 @@
       "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/meta-notifies-1500-people-after-github-breach-exposes-personal-data-and-source-code",
-    "target": "Meta Notifies 1500 People",
+    "target": "CYBERSEC Meta Notifies 1500",
     "type": "Data Leak / Breach",
     "severity": "Critical",
     "sources": [
@@ -420,12 +416,12 @@
   },
   {
     "id": "458b6d1593c06573",
-    "date": "2026-10-13T19:16:40.126924+00:00",
+    "date": "2026-10-13T23:18:05.510815+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 ZERO-DAY · 3 CVE · 3 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
+    "title": "// 4 ZERO-DAY · 5 CVE · 3 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -449,7 +445,7 @@
   },
   {
     "id": "e61f2012125ce9cc",
-    "date": "2026-10-13T19:16:38.970013+00:00",
+    "date": "2026-10-13T23:18:04.860137+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -558,7 +554,7 @@
   },
   {
     "id": "db660e76bbae74da",
-    "date": "2026-10-13T19:16:37.743523+00:00",
+    "date": "2026-10-13T23:18:03.643249+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -587,7 +583,7 @@
   },
   {
     "id": "e4ede522ce43854c",
-    "date": "2026-10-13T19:16:37.743410+00:00",
+    "date": "2026-10-13T23:18:03.643171+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -616,7 +612,7 @@
   },
   {
     "id": "5390d889a2e48e5e",
-    "date": "2026-10-13T19:16:37.743300+00:00",
+    "date": "2026-10-13T23:18:03.643082+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -645,7 +641,7 @@
   },
   {
     "id": "f60656095412a260",
-    "date": "2026-10-13T19:16:37.743155+00:00",
+    "date": "2026-10-13T23:18:03.642963+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -674,7 +670,7 @@
   },
   {
     "id": "6c2a6edc54e5edad",
-    "date": "2026-10-13T19:16:37.743051+00:00",
+    "date": "2026-10-13T23:18:03.642880+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -703,7 +699,7 @@
   },
   {
     "id": "4da379bf0369ad25",
-    "date": "2026-10-13T19:16:37.742929+00:00",
+    "date": "2026-10-13T23:18:03.642792+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -732,7 +728,7 @@
   },
   {
     "id": "9cf2300aaf9c2f75",
-    "date": "2026-10-13T19:16:37.742818+00:00",
+    "date": "2026-10-13T23:18:03.642705+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -761,7 +757,7 @@
   },
   {
     "id": "4ae161daac9264c3",
-    "date": "2026-10-13T19:16:37.742716+00:00",
+    "date": "2026-10-13T23:18:03.642622+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -790,7 +786,7 @@
   },
   {
     "id": "b284ff9622a07c2a",
-    "date": "2026-10-13T19:16:37.742587+00:00",
+    "date": "2026-10-13T23:18:03.642523+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -819,7 +815,7 @@
   },
   {
     "id": "c45e18a207392570",
-    "date": "2026-10-13T19:16:37.742470+00:00",
+    "date": "2026-10-13T23:18:03.642436+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -848,7 +844,7 @@
   },
   {
     "id": "5f822c71b7fd8626",
-    "date": "2026-10-13T19:16:37.742332+00:00",
+    "date": "2026-10-13T23:18:03.642328+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -877,7 +873,7 @@
   },
   {
     "id": "e693bbcd25d69fa1",
-    "date": "2026-10-13T19:16:37.742211+00:00",
+    "date": "2026-10-13T23:18:03.642232+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -906,7 +902,7 @@
   },
   {
     "id": "747a3c22c0ca9b18",
-    "date": "2026-10-13T19:16:37.742104+00:00",
+    "date": "2026-10-13T23:18:03.642146+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -935,7 +931,7 @@
   },
   {
     "id": "231001792358fed5",
-    "date": "2026-10-13T19:16:37.741985+00:00",
+    "date": "2026-10-13T23:18:03.642052+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -964,7 +960,7 @@
   },
   {
     "id": "644c07a8b69f728f",
-    "date": "2026-10-13T19:16:37.741811+00:00",
+    "date": "2026-10-13T23:18:03.641909+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -993,7 +989,7 @@
   },
   {
     "id": "276a78c689ef5cd3",
-    "date": "2026-10-13T19:16:37.741694+00:00",
+    "date": "2026-10-13T23:18:03.641815+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1022,7 +1018,7 @@
   },
   {
     "id": "439aa3242df08a7d",
-    "date": "2026-10-13T19:16:37.741542+00:00",
+    "date": "2026-10-13T23:18:03.641694+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1051,7 +1047,7 @@
   },
   {
     "id": "84b766f0ad40f518",
-    "date": "2026-10-13T19:16:37.741422+00:00",
+    "date": "2026-10-13T23:18:03.641607+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1080,12 +1076,12 @@
   },
   {
     "id": "f15f3c7f05a2471e",
-    "date": "2026-10-13T19:16:37.741304+00:00",
+    "date": "2026-10-13T23:18:03.641512+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
     "category": "",
-    "title": "Security Food safety fears grow as Copeland is named as second fridge supplier hit in supermarket hacking spree Oct 13, 2026 2 min read",
+    "title": "Security Food safety fears grow as Copeland is named as second fridge supplier hit in supermarket hacking spree Oct 13, 2026 3 min read",
     "summary": "Discovered from CyberNews Security page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -1109,7 +1105,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-10-13T19:16:37.741114+00:00",
+    "date": "2026-10-13T23:18:03.641357+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1138,7 +1134,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-10-13T19:16:37.740526+00:00",
+    "date": "2026-10-13T23:18:03.640880+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1167,7 +1163,7 @@
   },
   {
     "id": "d47f7cb5a4e3649b",
-    "date": "2026-10-13T19:16:37.282372+00:00",
+    "date": "2026-10-13T23:18:03.362680+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1196,7 +1192,7 @@
   },
   {
     "id": "5e8bb0b6da7803ca",
-    "date": "2026-10-13T19:16:37.282294+00:00",
+    "date": "2026-10-13T23:18:03.362617+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1225,7 +1221,7 @@
   },
   {
     "id": "bfb4269abccb6672",
-    "date": "2026-10-13T19:16:37.282222+00:00",
+    "date": "2026-10-13T23:18:03.362558+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1254,7 +1250,7 @@
   },
   {
     "id": "ad884ed0a0367e90",
-    "date": "2026-10-13T19:16:37.282135+00:00",
+    "date": "2026-10-13T23:18:03.362486+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1283,7 +1279,7 @@
   },
   {
     "id": "e6e4dc03908838a2",
-    "date": "2026-10-13T19:16:37.282047+00:00",
+    "date": "2026-10-13T23:18:03.362415+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1312,7 +1308,7 @@
   },
   {
     "id": "56bfae700f149e5f",
-    "date": "2026-10-13T19:16:37.281936+00:00",
+    "date": "2026-10-13T23:18:03.362320+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1341,7 +1337,7 @@
   },
   {
     "id": "a7c3c05476e676b9",
-    "date": "2026-10-13T19:16:37.281855+00:00",
+    "date": "2026-10-13T23:18:03.362253+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1370,7 +1366,7 @@
   },
   {
     "id": "f567257110dcd070",
-    "date": "2026-10-13T19:16:37.281765+00:00",
+    "date": "2026-10-13T23:18:03.362181+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1399,7 +1395,7 @@
   },
   {
     "id": "858f022edacd921b",
-    "date": "2026-10-13T19:16:37.281683+00:00",
+    "date": "2026-10-13T23:18:03.362119+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1428,7 +1424,7 @@
   },
   {
     "id": "3858aeed84b41b13",
-    "date": "2026-10-13T19:16:37.281567+00:00",
+    "date": "2026-10-13T23:18:03.362049+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1457,7 +1453,7 @@
   },
   {
     "id": "867fcd0dba5a537f",
-    "date": "2026-10-13T19:16:37.281447+00:00",
+    "date": "2026-10-13T23:18:03.361974+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1486,7 +1482,7 @@
   },
   {
     "id": "85be65a797272f5e",
-    "date": "2026-10-13T19:16:37.281356+00:00",
+    "date": "2026-10-13T23:18:03.361902+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1515,7 +1511,7 @@
   },
   {
     "id": "e7d1710dd7f69a53",
-    "date": "2026-10-13T19:16:37.281263+00:00",
+    "date": "2026-10-13T23:18:03.361825+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1544,7 +1540,7 @@
   },
   {
     "id": "1195913c65d9e143",
-    "date": "2026-10-13T19:16:37.281167+00:00",
+    "date": "2026-10-13T23:18:03.361745+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1573,7 +1569,7 @@
   },
   {
     "id": "b8dec45ccde0413c",
-    "date": "2026-10-13T19:16:37.281080+00:00",
+    "date": "2026-10-13T23:18:03.361673+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1602,7 +1598,7 @@
   },
   {
     "id": "edaf8c656b619af5",
-    "date": "2026-10-13T19:16:37.280988+00:00",
+    "date": "2026-10-13T23:18:03.361598+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1631,7 +1627,7 @@
   },
   {
     "id": "85e2289901c81226",
-    "date": "2026-10-13T19:16:37.280907+00:00",
+    "date": "2026-10-13T23:18:03.361534+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1660,7 +1656,7 @@
   },
   {
     "id": "e5164baf0e8b07dc",
-    "date": "2026-10-13T19:16:37.280827+00:00",
+    "date": "2026-10-13T23:18:03.361469+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1689,7 +1685,7 @@
   },
   {
     "id": "50b8da64849c28c1",
-    "date": "2026-10-13T19:16:37.280741+00:00",
+    "date": "2026-10-13T23:18:03.361399+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1718,7 +1714,7 @@
   },
   {
     "id": "272d03b14b97055b",
-    "date": "2026-10-13T19:16:37.280655+00:00",
+    "date": "2026-10-13T23:18:03.361331+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1747,7 +1743,7 @@
   },
   {
     "id": "e9ff86818d57bb7f",
-    "date": "2026-10-13T19:16:37.280553+00:00",
+    "date": "2026-10-13T23:18:03.361261+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1776,7 +1772,7 @@
   },
   {
     "id": "70a260d8fc31d433",
-    "date": "2026-10-13T19:16:37.280442+00:00",
+    "date": "2026-10-13T23:18:03.361189+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1805,7 +1801,7 @@
   },
   {
     "id": "5da4e892be162755",
-    "date": "2026-10-13T19:16:37.280345+00:00",
+    "date": "2026-10-13T23:18:03.361110+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1834,7 +1830,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-10-13T19:16:37.280240+00:00",
+    "date": "2026-10-13T23:18:03.361006+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1879,7 +1875,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-10-13T19:16:37.280061+00:00",
+    "date": "2026-10-13T23:18:03.360832+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1907,6 +1903,524 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "e6d86fdf4b2c5394",
+    "date": "2026-10-13T23:07:00+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+    "summary": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+    "target": "Employee Arrested Listening Device",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/"
+      }
+    ]
+  },
+  {
+    "id": "9002393d6ef3b9ca",
+    "date": "2026-10-13T22:33:02+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+    "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
+    "article_text": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. The U.S. Department of Justice announced Tuesday that Abdulrahman Alfozan, 35, who had worked at OpenAI since July 2025, was arrested on October 9 and charged with illegally intercepting oral communications. The DOJ says OpenAI security personnel discovered the recording device on September 30, plugged into a USB port behind a television in an executive conference room. According to the DOJ, OpenAI determined that the device had been concealed in toilet paper, was installed around September 28, and contained encrypted data. \"On or about Sept. 30, OpenAI personnel discovered a surreptitious audio recording device (Recording Device 1) inserted into a USB port on the back of a television in an executive conference room inside one of their buildings in San Francisco,\" says the DOJ press release . The DOJ says the conference room was regularly used for meetings involving confidential information about OpenAI's proprietary research, product plans, technical capabilities, business relationships, and government engagements. Security camera footage allegedly showed Alfozan near the conference room on multiple occasions, despite not being authorized to attend meetings held there. According to the complaint, Alfozan also used a productivity tool to search for information about OpenAI's offices, meeting rooms, executive locations, and meeting schedules. The complaint also says a chatbot account associated with Alfozan's spouse was used to ask questions about building and concealing recording devices. These included inquiries about creating a continuous audio recorder, modifying Wi-Fi connectivity, improving live listening capabilities, and encrypting an SD card. \"The same chatbot account also submitted prompts specifically related to Recording Device 1, including its custom header and unique MAC address, between Sept. 27 and Sept. 28,\" alleges the DOJ. On October 5, surveillance footage allegedly captured Alfozan returning to the conference room and looking behind the television where the device had been installed. The complaint says that on that same day, OpenAI security employees discovered a second, similar recording device inside a bag Alfozan had left unattended in another room. In a statement posted on X, OpenAI said it used its own AI models to investigate the suspicious device and help identify the employee responsible. \"We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier,\" OpenAI said. The company said it terminated the employee and referred the incident to the FBI. \"At this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data,\" OpenAI added. If convicted, Alfozan faces up to five years in prison and a $250,000 fine. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits OpenAI will show visual ads in ChatGPT while you generate images 80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email OpenAI's AI agents accidentally uploaded user-provided images to third-party sites Cyber exec arrested in case allegedly tied to ShinyHunters hackers ARTEX AI, Claude agents used in cyberattacks on South Korean banks Nippon Columbia malware incident exposes 8.6 million karaoke fan records Is your backup really out of reach? See what the latest attacks reveal. AWS saw a valid key and let the agent clear a production bucket. See how Token Security ties each agent to its owner and limits it to read-only access. Move from visibility to action with AITEM, Criminal IP’s next evolution of ASM Overdue a password health-check? Audit your Active Directory for free New OAuth risk analyst agent: Turn 45 minutes of manual review into 15 seconds. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+    "target": "OpenAI",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer",
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/openai/openai-autonomous-agents-access-external-systems-over-100-organizations-notified"
+      },
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1wjgti2/hacking_openai/"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/"
+      }
+    ]
+  },
+  {
+    "id": "3e8978a94a1cd381",
+    "date": "2026-10-13T22:29:57+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+    "summary": "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.",
+    "article_text": "",
+    "quick_summary": [
+      "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+    "target": "Zero-Days Lurk Microsofts Overgrown",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday"
+      }
+    ]
+  },
+  {
+    "id": "e346e0620d5b1c5a",
+    "date": "2026-10-13T22:00:04+00:00",
+    "source": "Palo Alto Unit 42",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
+    "summary": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats. The post The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk appeared first on Unit 42 .",
+    "article_text": "",
+    "quick_summary": [
+      "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
+    "target": "Noise Inside Network",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "Palo Alto Unit 42"
+    ],
+    "links": [
+      {
+        "source": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/"
+      }
+    ]
+  },
+  {
+    "id": "6fcfb78e0f4da4eb",
+    "date": "2026-10-13T21:33:26+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+    "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+    "article_text": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. The flaw was discovered on August 23 by researchers at Defiant's platform Wordfence using their Argus AI-powered system. Ghostscript is a PostScript and PDF interpreter that can render PDFs as images, generate thumbnails for previews, and optimize PDF files by compressing embedded images and removing unnecessary font data. When generating a PDF thumbnail, WordPress can use the PHP Imagick extension to call ImageMagick, which launches Ghostscript. A specially crafted PDF file containing a JPEG 2000 image can trigger incorrect handling of low-bit-depth samples and mismatched component resolutions. Using Argus, the researchers developed two exploits for CVE-2026-39919 that force Ghostscript to write 1,024 bytes into a 256-byte buffer, corrupting nearby memory and leading to unauthenticated remote code execution in a WordPress deployment. Wordfence focused on WordPress systems, but notes that the flaw affects any online system running Ghostscript 9.21 through 10.07.1 and is exploitable if the payload is adjusted to the environment. The researchers tested ten Linux environments, including Debian, Ubuntu, Fedora, Alpine, and AlmaLinux, as well as an official WordPress Docker image snapshot, and found that all contained the vulnerable code. The researchers tested two proof-of-concept (PoC) exploits and found that their ability to trigger the vulnerability depended on the target environment. In a lab testbed, they executed the exploits 10,240 times against Linux packages but failed to achieve remote code execution. However, they successfully executed code remotely on a purpose-built test server. The researchers found that modifying the PDF's fonts, language settings, font configuration, and one core system library enabled the exploit to succeed, although not reliably. In WordPress environments specifically, successful exploitation has four prerequisites: Wordfence noted that stock WordPress does not permit anonymous Media Library uploads. More generally, any application that renders attacker-supplied PDFs through affected Ghostscript code may expose the flaw, and authentication requirements for exploitation depend on the application. Artifex, the maintainer of Ghostscript, rolled out a fix on September 8, in version 10.08.0 of the interpreter. Fixes were also backported to older versions, so users should check the revision details for patch status. WordPress administrators need to ensure, through their hosting provider, that Ghostscript has been upgraded to version 10.08.0 or later. If using Docker, it is recommended to rebuild and redeploy with an updated, patched base image. If unable to upgrade to a fixed Ghostscript release, it is recommended to block PDF uploads to the server or disable PDF rendering in ImageMagick. Wordfence said it has not seen any in-the-wild exploitation of CVE-2026-39919 yet. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Hackers start exploiting critical WordPress flaw for code execution Critical Elementor Pro flaw exploited to take over WordPress sites WordPress backup plugin flaw exposes millions of sites to takeover attacks Critical Elementor Pro bug exposes WordPress sites to RCE attacks Cyber exec arrested in case allegedly tied to ShinyHunters hackers ARTEX AI, Claude agents used in cyberattacks on South Korean banks Nippon Columbia malware incident exposes 8.6 million karaoke fan records Is your backup really out of reach? See what the latest attacks reveal. New OAuth risk analyst agent: Turn 45 minutes of manual review into 15 seconds. Overdue a password health-check? Audit your Active Directory for free Move from visibility to action with AITEM, Criminal IP’s next evolution of ASM AWS saw a valid key and let the agent clear a production bucket. See how Token Security ties each agent to its owner and limits it to read-only access. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+    "target": "Ghostscript PDF",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/"
+      }
+    ]
+  },
+  {
+    "id": "b65eb12c66f0eb21",
+    "date": "2026-10-13T21:29:57+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "AI Scams Target Crypto Users, Not Protocols, and Wallet Security Is Catching Up",
+    "summary": "Picture a composite case drawn from documented scams where a tech professional spends forty minutes on a video…",
+    "article_text": "",
+    "quick_summary": [
+      "Picture a composite case drawn from documented scams where a tech professional spends forty minutes on a video…",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://hackread.com/ai-scams-target-crypto-users-protocols-wallet-security/",
+    "target": "Scams Target Crypto Users",
+    "type": "Phishing / Scam",
+    "severity": "Low",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/ai-scams-target-crypto-users-protocols-wallet-security/"
+      }
+    ]
+  },
+  {
+    "id": "4efb96ba5baad626",
+    "date": "2026-10-13T21:24:45+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "North Korea Phishes Ukrainians for War Intel",
+    "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+    "article_text": "",
+    "quick_summary": [
+      "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+    "target": "North Korea Phishes Ukrainians",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel"
+      }
+    ]
+  },
+  {
+    "id": "eb295fae784f4150",
+    "date": "2026-10-13T20:55:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue",
+    "summary": "More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the North Korean regime.",
+    "article_text": "",
+    "quick_summary": [
+      "More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the North Korean regime.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas",
+    "target": "Two DOJ",
+    "type": "Phishing / Scam",
+    "severity": "Low",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas"
+      }
+    ]
+  },
+  {
+    "id": "13c31b22d1c1cc83",
+    "date": "2026-10-13T20:37:58+00:00",
+    "source": "Cisco Talos",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities",
+    "summary": "Blog post covering the vulnerabilities disclosed during Microsoft Patch Tuesday.",
+    "article_text": "",
+    "quick_summary": [
+      "Blog post covering the vulnerabilities disclosed during Microsoft Patch Tuesday.",
+      "Risk: ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
+    "target": "Microsoft Patch Tuesday October",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Cisco Talos"
+    ],
+    "links": [
+      {
+        "source": "Cisco Talos",
+        "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/"
+      }
+    ]
+  },
+  {
+    "id": "4f2672d2e4343c7a",
+    "date": "2026-10-13T20:35:23+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Anthropic Finds Ingredients for Future AI Worms",
+    "summary": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
+    "article_text": "",
+    "quick_summary": [
+      "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+    "target": "Anthropic Finds Ingredients Future",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms"
+      }
+    ]
+  },
+  {
+    "id": "85838101f30e95c3",
+    "date": "2026-10-13T20:12:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "FTC: Company netted at least $60 million charging sextortion victims for help it didn’t provide",
+    "summary": "An Ohio-based company charged individuals thousands of dollars to fight sextortion scams, but the operation itself was fraudulent, according to a Federal Trade Commission complaint.",
+    "article_text": "",
+    "quick_summary": [
+      "An Ohio-based company charged individuals thousands of dollars to fight sextortion scams, but the operation itself was fraudulent, according to a Federal Trade Commission complaint.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint",
+    "target": "FTC",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint"
+      }
+    ]
+  },
+  {
+    "id": "9fc6eb3cb036a120",
+    "date": "2026-10-13T19:56:09+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+    "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+    "article_text": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. This Patch Tuesday addresses 70 \"Critical\" vulnerabilities, 57 of which are remote code execution, 11 are elevation of privileges, and 2 are spoofing. The approximate number of bugs in each vulnerability category is listed below: When BleepingComputer reports on Patch Tuesday security updates, we only count vulnerabilities released by Microsoft on Patch Tuesday itself. Therefore, today's total excludes 348 flaws fixed earlier this month, including vulnerabilities in Azure API Center, Azure App Service, Azure Event Grid, Azure SRE Agent, Mariner, Microsoft Bookings, Microsoft Dataverse, Microsoft Exchange Server, and Microsoft Partner Center. This is a record-breaking Microsoft Patch Tuesday as Microsoft continues to use artificial intelligence platforms to find and remediate security vulnerabilities in its products. Microsoft announced today that Windows 11, version 24H2 Home and Pro, and Windows 10 Enterprise LTSB 2016 have reached end of support . \"Today, October 13, 2026, Windows 11, version 24H2 Home and Pro , and Windows 10 Enterprise LTSB 2016 have reached end of updates. The October 2026 monthly security update is the last update available for these editions,\" Microsoft said. Earlier this month, Microsoft also said organizations running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions should upgrade to newer versions as they will no longer receive security updates starting next month . To learn more about the non-security updates released today, you can review our dedicated articles on the Windows 11 KB5127648 & KB5126653 cumulative updates and the Windows 10 KB5126657 extended security update . This month's Patch Tuesday fixes one actively exploited and two publicly disclosed zero-day vulnerabilities. Microsoft classifies a zero-day flaw as publicly disclosed or actively exploited when no official fix is available. The actively exploited zero-day vulnerabilities addressed during this October 2026 Patch Tuesday are: CVE-2026-96951 - Windows Shell Security Feature Bypass Vulnerability Microsoft patched an actively exploited zero-day security bypass flaw that allowed attackers to bypass the Mark of the Web security feature. \"Improper neutralization of special elements used in a command ('command injection') in Windows Shell allows an unauthorized attacker to bypass a security feature over a network,\" warns Microsoft. No details have been shared on how attackers exploited the flaw or who disclosed it. CVE-2026-108398 - .NET Framework Security Feature Bypass Vulnerability Microsoft has fixed a security feature bypass in the .NET Framework that can be exploited to run unauthorized applications. \"Untrusted search path in .NET Framework allows an authorized attacker to bypass a security feature locally,\" explains Microsoft. Microsoft says this flaw could allow attackers to bypass Windows Defender Application Control (WDAC) enforcement and run unauthorized applications. \"An authenticated attacker could place a specially crafted .NET assembly on an affected system and register it for loading by a protected process.\" Microsoft says. \"Successful exploitation could bypass Windows Defender Application Control restrictions and allow the attacker to execute code within the protected process. User interaction is not required.\" CVE-2026-92707 - MessagePack-CSharp Denial of Service Vulnerability Microsoft fixed a denial-of-service flaw in MessagePack-CSharp. \"Improperly controlled sequential memory allocation in .NET allows an unauthorized attacker to deny service over a network,\" explains Microsoft. Other vendors who released updates or advisories in October 2026 include: With this month's record-breaking number of vulnerabilities, Microsoft has also introduced a new method for organizations to prioritize security updates by grouping related flaws into what it calls \"risk cohorts.\" The new approach groups similar vulnerabilities together to help organizations better understand which security flaws pose the greatest risk to their systems and should be prioritized for patching. For October 2026, Microsoft published 15 risk cohorts, including: 136 vulnerabilities affecting Windows filesystems, storage, and backup. 135 vulnerabilities involving Office documents and mail clients. 131 vulnerabilities affecting Windows g",
+    "quick_summary": [
+      "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+    "target": "Microsoft October 2026 Patch",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/"
+      }
+    ]
+  },
+  {
+    "id": "ce997be6fc0de9af",
+    "date": "2026-10-13T19:47:30+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+    "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+    "article_text": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. If you are running Windows 10 Enterprise LTSC or are enrolled in the ESU program , you can install this update like normal by going into Settings, clicking on Windows Update, and manually performing a 'Check for Updates.' After installing this update, Windows 10 will be updated to build 19045.7807, and Windows 10 Enterprise LTSC 2021 will be updated to build 19044.7807. Microsoft no longer releases new features for Windows 10, and the KB5126657 update mainly includes security updates and bug fixes. The update also includes fixes released as part of today's record-breaking October 2026 Patch Tuesday, which fixed a massive 1,411 vulnerabilities across Microsoft's products, including one actively exploited zero-day flaw. The complete list of fixes and changes in KB5126657 is listed below: Microsoft says the update has a known issue affecting some USB Audio Class 1.0 devices after installing the September 2026 Windows security updates. Affected devices may fail to start with a Code 10 error in Device Manager, stop producing audio, or experience unresponsive volume controls and sound settings. Some devices may also work in standard stereo mode but fail when using 8-channel or 3D audio configurations. Microsoft partially fixed the issue in an emergency out-of-band update released on September 14, which addressed problems with 8-channel and 3D audio modes. However, other audio issues remain unresolved, and Microsoft says it is working on additional fixes. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Microsoft releases Windows 10 KB5122878 extended security update Microsoft: Windows 11 24H2 Home and Pro reached end of support Microsoft fixes bug that broke Windows File History backup feature Microsoft: September updates break File History backup feature Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts Cyber exec arrested in case allegedly tied to ShinyHunters hackers ARTEX AI, Claude agents used in cyberattacks on South Korean banks Nippon Columbia malware incident exposes 8.6 million karaoke fan records Overdue a password health-check? Audit your Active Directory for free Is your backup really out of reach? See what the latest attacks reveal. New OAuth risk analyst agent: Turn 45 minutes of manual review into 15 seconds. AWS saw a valid key and let the agent clear a production bucket. See how Token Security ties each agent to its owner and limits it to read-only access. Move from visibility to action with AITEM, Criminal IP’s next evolution of ASM Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+    "target": "Microsoft Windows KB5126657",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/"
+      }
+    ]
+  },
+  {
+    "id": "51353b6b7e2f82c4",
+    "date": "2026-10-13T19:25:52+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
+    "summary": "Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&#;x26;#;39;s patch Tuesday, and one is already exploited.",
+    "article_text": "",
+    "quick_summary": [
+      "Microsoft today released patches for 1,417 vulnerabilities.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33422",
+    "target": "October 2026 Microsoft Patch",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33422"
+      }
+    ]
+  },
+  {
+    "id": "36ac4c751d301c2b",
+    "date": "2026-10-13T19:16:40.129019+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT French Supermarket Fridges Hacked: Outdated Danfoss Firmware, Temperatures Forced to 50°C",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/french-supermarket-fridges-hacked-outdated-danfoss-firmware-temperatures-forced-to-50c",
+    "target": "EXPLOIT French Supermarket Fridges",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/french-supermarket-fridges-hacked-outdated-danfoss-firmware-temperatures-forced-to-50c"
+      }
+    ]
+  },
+  {
+    "id": "c0ff3cd0c54d2a94",
+    "date": "2026-10-13T19:16:40.128600+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Qilin Member Extradited to Germany: Gang Adds Over 450 Victims to Leak Site ransomware",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://deafnews.it/en/news/ransomware/qilin-member-extradited-to-germany-gang-adds-over-450-victims-to-leak-site",
+    "target": "Qilin Member Extradited Germany",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ransomware/qilin-member-extradited-to-germany-gang-adds-over-450-victims-to-leak-site"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ransomware/qilin-member-extradited-to-germany-operations-continue-unabated"
+      }
+    ]
+  },
+  {
+    "id": "753e3765b8af02d1",
+    "date": "2026-10-13T19:16:40.128522+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Ransomware: Data Exfiltration Surges 275%, Terabytes Become the New Extortion Lever ransomware",
+    "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
+    "article_text": "Ransomware is far less frightening when you know you can recover. That’s why threat actors are turning their attention to encrypting backups. They wipe recovery points and disrupt the infrastructure needed to restore the encrypted data. Once that recovery path disappears, the pressure to pay rises sharply. For IT leaders, the lesson is uncomfortable but simple. A backup is only a safety net if the attacker cannot reach it. Ransomware groups have found several ways to neutralize backups, and the methods keep getting more deliberate. In February 2024, the ALPHV/BlackCat ransomware group encrypted Change Healthcare’s systems after breaking through a remote access portal with no multi-factor authentication. The backups were not isolated or robust enough to restore operations quickly. UnitedHealth paid $22 million in ransom and still did not get its data back. Total recovery costs hit an estimated $1.6 billion . The BlackMatter group made backup destruction their standard operating procedure. When they hit NEW Cooperative, an Iowa-based farm services provider, and Crystal Valley, a Minnesota farm cooperative, in 2021, they used compromised admin credentials to locate every backup data store and appliance on the network — then wiped or reformatted them before encrypting everything else. Since the backups were on the same network, they were easy targets. CISA, the FBI, and the NSA jointly documented this tactic, noting the group has demanded ransom payments ranging from $80,000 to $15 million in Bitcoin and Monero. Gunra ransomware, documented in a joint CISA and FBI advisory in August 2026, pushed that logic further. In one confirmed case, attackers deleted backup and archived data at both the organization's primary data center and its disaster recovery site. A single set of stolen credentials was all it took to reach both. Having two copies in two locations meant nothing, because both locations trusted the same key. The attacks above point to a simple shift in how backup strategy needs to be thought about. Do not only ask how many copies you have or where they are stored. Ask what connects those copies, who can administer them and whether a compromised account could reach them all. Your recovery strategy should assume attackers will try to destroy the way out. Separate critical backups from production, limit administrative access, and ensure there is no single compromised identity or pathway that can wipe every recovery copy. Ransomware groups are now targeting backup infrastructure first — wiping recovery points before encrypting everything else. Our report, Building Security That Survives Human Error , reveals what's stalling organizations from closing the gap and where leading IT teams are focusing first. The cost difference between recovering with intact backups versus without them is the difference between a manageable disruption and a business-threatening event. IBM's 2025 Cost of a Data Breach Report puts the average cost of a ransomware incident at $5.08 million . But the financial damage is only part of the picture. IBM’s 2026 research found that 41% of ransomware incidents also involved threats to damage the victim’s brand reputation , showing how quickly the impact can spread from disrupted systems to lost customer trust. If attackers destroy the backups, they take away the leverage that lets organizations refuse the ransom. These attacks tend to expose the same weaknesses. The recovery environment may exist, but the security around it is often less mature than those protecting production systems. It requires treating the recovery environment as critical infrastructure. The challenge of protecting backups points to a broader problem in cybersecurity. Most organizations understand the risk of an attack. They may know they need stronger isolation, better monitoring or more resilient recovery, but lack the budget, staff or operational capacity to put those protections in place. Almost 77% of IT organizations surveyed for our cybersecurity report, Building Security That Survives Human Error , say their cybersecurity investment is not keeping pace with the threats they face. Among MSPs, 65% say their clients are underinvesting in cybersecurity. The result is a familiar tension. Security teams know what needs attention, but limited resources force them to make difficult choices about where to focus first. Drawing on responses from more than 1,100 IT and cybersecurity professionals, the report looks at the pressures b",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
+    ],
+    "link": "https://deafnews.it/en/news/ransomware/ransomware-data-exfiltration-surges-275-terabytes-become-the-new-extortion-lever",
+    "target": "Ransomware",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ransomware/ransomware-data-exfiltration-surges-275-terabytes-become-the-new-extortion-lever"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/"
       }
     ]
   },
@@ -3094,7 +3608,7 @@
     "category": "",
     "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
     "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A compromised account that looks legitimate at first could become the starting point for a much",
-    "article_text": "",
+    "article_text": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A compromised account that looks legitimate at first could become the starting point for a much larger attack. And that's where traditional identity security faces a serious problem: Checking who gets access isn't enough if you can't control what happens after. See How to Stop AI-Powered Identity Attacks — Register for the Webinar Many identity security controls focus on authentication, permissions, and access policies. But what happens when a trusted identity is compromised, its behavior changes, or an attacker begins exploiting already granted privileges? That gap becomes more dangerous as AI-powered attacks accelerate. Attackers can automate parts of the attack chain while defenders are still collecting alerts, investigating activity, and deciding how to respond. The answer isn't simply detecting attacks faster. It's the ability to evaluate and control access in real time while an identity is actively being used. If attackers can compromise identities and escalate privileges in minutes, discovering suspicious activity after the fact may already be too late. Security teams need to know not just who has access, but whether that access should still be trusted right now. This session explores how to close that gap and build an identity security strategy designed to keep pace with the speed of modern attacks. AI agents are already accessing sensitive data and systems—learn how to discover them, control their permissions, and reduce insider risk before it becomes a breach. Attackers are using AI to accelerate reconnaissance, compromise identities and escalate access. See how security teams can fight back with runtime identity controls. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
     "quick_summary": [
       "The dangerous part of a stolen identity isn't always the initial login.",
       "Risk: vulnerability/exploitation risk",
@@ -3103,7 +3617,7 @@
     "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
     "target": "Webinar Stop AI-Driven Privilege",
     "type": "Data Leak / Breach",
-    "severity": "High",
+    "severity": "Critical",
     "sources": [
       "The Hacker News"
     ],
@@ -4076,6 +4590,35 @@
     ]
   },
   {
+    "id": "0527e2c64546a004",
+    "date": "2026-10-13T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-756: (0Day) Genesis World load_checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Genesis World. Interaction with this library is required to exploit this vulnerability but attack vectors may vary depending on the implementation. The ZDI has assigned a CVSS rating of 7.8.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Genesis World.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-756/",
+    "target": "ZDI-26-756",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-756/"
+      }
+    ]
+  },
+  {
     "id": "909eee5ecbc41cd3",
     "date": "2026-10-13T03:33:54.917955+00:00",
     "source": "CyberNews Security",
@@ -4424,6 +4967,64 @@
       {
         "source": "SANS ISC",
         "url": "https://isc.sans.edu/diary/rss/33302"
+      }
+    ]
+  },
+  {
+    "id": "7f004d67b9b7623b",
+    "date": "2026-10-13T00:00:00+00:00",
+    "source": "Recorded Future Research",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "September 2026 CVE Landscape",
+    "summary": "In September 2026, Insikt Group® identified 94 high-impact vulnerabilities that should be prioritized for remediation, 59 of which had a Very Critical Recorded Future Risk Score. This represents a 29% increase from last month.",
+    "article_text": "",
+    "quick_summary": [
+      "In September 2026, Insikt Group® identified 94 high-impact vulnerabilities that should be prioritized for remediation, 59 of which had a Very Critical Recorded Future Risk Score.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.recordedfuture.com/blog/september-2026-cve-landscape",
+    "target": "September 2026 CVE Landscape",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "Recorded Future Research"
+    ],
+    "links": [
+      {
+        "source": "Recorded Future Research",
+        "url": "https://www.recordedfuture.com/blog/september-2026-cve-landscape"
+      }
+    ]
+  },
+  {
+    "id": "4e20045f1f8b7c1d",
+    "date": "2026-10-13T00:00:00+00:00",
+    "source": "Recorded Future Research",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Malware Indicators of Compromise (IoCs) | Recorded Future",
+    "summary": "Learn what malware indicators of compromise (IoCs) are, common types, how they’re collected, and best practices for detection and response.",
+    "article_text": "",
+    "quick_summary": [
+      "Learn what malware indicators of compromise (IoCs) are, common types, how they’re collected, and best practices for detection and response.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.recordedfuture.com/blog/malware-indicators-of-compromise",
+    "target": "Malware Indicators Compromise IoCs",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Recorded Future Research"
+    ],
+    "links": [
+      {
+        "source": "Recorded Future Research",
+        "url": "https://www.recordedfuture.com/blog/malware-indicators-of-compromise"
       }
     ]
   },
@@ -21203,47 +21804,6 @@
     ]
   },
   {
-    "id": "d248c754b4633786",
-    "date": "2026-10-05T09:03:26.242262+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "OpenAI: Autonomous Agents Access External Systems, Over 100 Organizations Notified openai",
-    "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
-    "article_text": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. OpenAI uses the term \"model misalignment\" to describe cases where AI models act contrary to their intended constraints, including taking unauthorized actions, evading oversight, or bypassing safeguards to complete a task. In a post published yesterday, OpenAI says it is now using a new framework to track and investigate these unsanctioned actions by AI agents. \"We are sharing a new framework for tracking, investigating, and disclosing instances of model misalignment at OpenAI, along with six reports on unexpected or concerning model behavior we've observed in the last six months,\" explains OpenAI . The new examples are the first published under a more structured reporting framework intended to replace OpenAI's previous looser approach to disclosing model misalignment. Each case is logged in a technical incident report that includes the model name, a summary of its behavior during the observed incident, and the time the incident occurred. The report also includes a detailed reconstruction of what happened, with the user's task and the model's internal reasoning, OpenAI's interpretation and potential safety implications, and what mitigations have been or will be implemented. OpenAI stressed that these six examples are not representative of how often it deals with misalignment across its models, but rather extreme examples that nonetheless warranted analysis and public disclosure. The company said that, under the new process, any employee may flag an incident for investigation. The incident will be evaluated and placed into three categories: 'Ready for Disclosure', 'Minor Investigation', or 'Larger Investigation,' depending on its complexity, third-party involvement, security flaws, and misuse risks. The six examples presented this time fall into the first two categories, while the third will receive a preliminary report until the investigation concludes and a more thorough post-mortem can be published. OpenAI says the Hugging Face intrusion from earlier this year, which involved a 700-strong \"misaligned\" AI agents swarm , would qualify for that third category of severity. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Nearly 700 rogue AI agents coordinated in the Hugging Face attack Anthropic wants Claude to analyze your bank account and financial data Spain's data agency gets first report of AI-powered data breach OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor I love that sentence: \"OpenAI stressed that these six examples are not representative of how often it deals with misalignment across its models, but rather extreme examples that nonetheless warranted analysis and public disclosure.\" Six extreme examples that \"nonetheless\" warrant analysis.... The other 8733 example... forget it... Mr Altman at work, brilliant! Microsoft confirms KB5002914 Excel update breaks copy and paste Windows 11 KB5124008 update breaks domain trust for some users Malware bypasses browser checks to force install Chrome, Edge extensions Overdue a password health-check? Audit your Active Directory for free Patch automation needs more than speed. Action1 brings control into every stage of deployment. Watch a working exploit hit live controls and see exactly what blocks, detects, or misses Stay one step ahead of new threats in the new year. Join Huntress for the monthly Tradecraft Tuesday. Find out how long recovery really takes — and what it costs. Read the 2025 BCDR Report. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/openai/openai-autonomous-agents-access-external-systems-over-100-organizations-notified",
-    "target": "OpenAI",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/openai/openai-autonomous-agents-access-external-systems-over-100-organizations-notified"
-      },
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wjgti2/hacking_openai/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/"
-      }
-    ]
-  },
-  {
     "id": "f9ea5e949e878612",
     "date": "2026-10-05T09:03:26.242052+00:00",
     "source": "DeafNews",
@@ -26280,569 +26840,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/"
-      }
-    ]
-  },
-  {
-    "id": "cbb4f6e6b957a522",
-    "date": "2026-10-01T14:00:00+00:00",
-    "source": "Microsoft Security Blog",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Preparing governments for an era of interconnected cyber risk",
-    "summary": "According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025. The post Preparing governments for an era of interconnected cyber risk appeared first on Microsoft Security Blog .",
-    "article_text": "",
-    "quick_summary": [
-      "According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
-    "target": "Preparing",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Microsoft Security Blog"
-    ],
-    "links": [
-      {
-        "source": "Microsoft Security Blog",
-        "url": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/"
-      }
-    ]
-  },
-  {
-    "id": "4b33e712a6261d68",
-    "date": "2026-10-01T14:00:00+00:00",
-    "source": "Microsoft Security Blog",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Insights from the 2026 Microsoft Digital Defense Report",
-    "summary": "Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected. The post Insights from the 2026 Microsoft Digital Defense Report appeared first on Microsoft Security Blog .",
-    "article_text": "",
-    "quick_summary": [
-      "Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
-    "target": "Insights 2026 Microsoft Digital",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Microsoft Security Blog"
-    ],
-    "links": [
-      {
-        "source": "Microsoft Security Blog",
-        "url": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/"
-      }
-    ]
-  },
-  {
-    "id": "9937ec6f7c7717c1",
-    "date": "2026-10-01T13:51:08+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Kiteworks patches max severity code injection vulnerability",
-    "summary": "Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company “received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems for customers.”",
-    "article_text": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. Formerly known as Accellion, it operates a Private Content Network (PCN) that integrates enterprise email, file sharing, Managed File Transfer (MFT), APIs, and web forms into a single platform. Kiteworks provides services to thousands of global corporations and government agencies, and its Private Data Network has over 100 million end-users. The secure file-sharing software company urged customers worldwide on Saturday to temporarily shut down their servers after receiving a warning of a potentially imminent cyberattack from federal intelligence authorities. On Monday, the company brought all hosted customer systems back online after finding no evidence of compromise and no suspicious activity. \"Continuous monitoring throughout the period showed no abnormal activity, and the company has no indication that any Kiteworks or customer system was compromised,\" Kiteworks said . \"As of September 27th, the shutdown recommendation is now lifted for all customers. If you have not already restarted, you may bring your Kiteworks system back online,\" the company added in an update to the original advisory. Kiteworks has also patched a critical vulnerability in an unnamed feature used by less than 1% of all customers and advised those with self-hosted Kiteworks Advanced Forms to contact support for further assistance. \"Kiteworks developed and deployed a fix during the window, applied an additional protective layer across all environments, and has no indication the vulnerability was ever exploited. All other Kiteworks products were unaffected,\" it noted. The company has yet to share additional details on the fixed vulnerability and has not yet assigned a CVE ID for easy tracking. Threat watchdog Shadowserver has spotted nearly 400 Kiteworks instances accessible over the Internet, most of them (234) from the United States, but provides no information on how many are honeypots or have already been patched. ​Because they store sensitive documents, cybercrime gangs often target vulnerable file-sharing platforms in data-theft extortion attacks. For instance, the Clop extortion gang, which has a long history of exploiting vulnerabilities in enterprise file-sharing platforms, also targeted a legacy Kiteworks File Transfer Appliance (FTA) software in zero-day attacks when the company was still known as Accellion. Accellion said at the time that 300 customers used the 20-year-old legacy FTA software, with fewer than 100 of them breached and fewer than two dozen victims appeared \"to have suffered significant data theft.\" That Clop hacking campaign led to a stream of data breaches impacting many high-profile entities that used the Accellion FTA software to transfer sensitive files, including cybersecurity firm Qualys , energy giant Shell , the Reserve Bank of New Zealand , supermarket giant Kroger , Singtel, the Australian Securities and Investments Commission (ASIC) , the Office of the Washington State Auditor , and multiple universities. Five Eyes members also issued a joint security advisory in February 2021 about these attacks and subsequent extortion attempts, warning Accellion customers to block Internet access to vulnerable servers and update them to block the attacks. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Kiteworks urges 6-hour server shutdown over potential zero-day attacks Cloudflare fixes Containers cross-tenant flaw exposing customer data ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw Elementor WordPress flaw lets attackers create admin accounts CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks Microsoft pauses KB5002907 update after Office license deactivations Citrix confirms two NetScaler RCE zero-days exploited in attacks ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks Your access review passed cleanly, but it never saw the agents behind it. See how Token Security finds every one of them. Book a demo. 80,000+ corporate domains have employee AI logins in stealer logs. Check yours free. Build cyber resilience with Wazuh: The open-source SIEM & XDR for proactive protection Daily detection, monthly validation, 12-hour clocks",
-    "quick_summary": [
-      "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-    "target": "Kiteworks",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/"
-      },
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident"
-      }
-    ]
-  },
-  {
-    "id": "77258b896e46c39c",
-    "date": "2026-10-01T13:45:15+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "WordPress Malware Comes Back After Removal Using a Self-Healing Backdoor",
-    "summary": "A WordPress backdoor is bringing deleted malware back within seconds, turning routine cleanup into a cycle of reinfection. Called SC, the infection spreads its working parts across website files, the database, and server memory, allowing surviving components to restore those removed. The investigation does not establish the original entry point or the number of affected […] The post WordPress Malware Comes Back After Removal Using a Self-Healing Backdoor appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A WordPress backdoor is bringing deleted malware back within seconds, turning routine cleanup into a cycle of reinfection.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/wordpress-malware-2/",
-    "target": "WordPress Malware Comes Back",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/wordpress-malware-2/"
-      }
-    ]
-  },
-  {
-    "id": "403cd26c1d9889c7",
-    "date": "2026-10-01T13:15:26+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Abuse Microsoft Defender Exclusions to Hide Malware From Antivirus Scans",
-    "summary": "Hackers are abusing Microsoft Defender Antivirus exclusions to keep malicious files outside routine security scans. Rather than switching protection off completely, attackers can leave antivirus running while creating gaps around malware staging folders and selected file types. This is an established evasion technique, not a new malware family. It requires administrator privileges or higher, making […] The post Hackers Abuse Microsoft Defender Exclusions to Hide Malware From Antivirus Scans appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Hackers are abusing Microsoft Defender Antivirus exclusions to keep malicious files outside routine security scans.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/hackers-abuse-microsoft-defender/",
-    "target": "Abuse Microsoft Defender Exclusions",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/hackers-abuse-microsoft-defender/"
-      }
-    ]
-  },
-  {
-    "id": "9359cfc1f509a803",
-    "date": "2026-10-01T13:15:00+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "AI Has Changed Attack Speed, Not Security Fundamentals",
-    "summary": "As AI accelerates vulnerability discovery and exploitation, so-called virtual patching still comes down to defense-in-depth and strong application security fundamentals. The post AI Has Changed Attack Speed, Not Security Fundamentals appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "As AI accelerates vulnerability discovery and exploitation, so-called virtual patching still comes down to defense-in-depth and strong application security fundamentals.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
-    "target": "Has Changed Speed Not",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/"
-      }
-    ]
-  },
-  {
-    "id": "053466329afb8c9b",
-    "date": "2026-10-01T13:13:09.735006+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "TeamViewer Mandates 15.82 Patch for Five High-Severity Cross-Platform Flaws VULN CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/teamviewer-mandates-1582-patch-for-five-high-severity-cross-platform-flaws",
-    "target": "TeamViewer Mandates 15.82 Patch",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/teamviewer-mandates-1582-patch-for-five-high-severity-cross-platform-flaws"
-      }
-    ]
-  },
-  {
-    "id": "f4c29e5fde6cf257",
-    "date": "2026-10-01T13:13:09.734869+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Chrome 154 and Firefox 157 Patch Over 100 Vulnerabilities Combined news",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/news/chrome-154-and-firefox-157-patch-over-100-vulnerabilities-combined",
-    "target": "Chrome 154 Firefox 157",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/chrome-154-and-firefox-157-patch-over-100-vulnerabilities-combined"
-      }
-    ]
-  },
-  {
-    "id": "1e9fb259ffff97e5",
-    "date": "2026-10-01T13:13:08.196352+00:00",
-    "source": "CyberNews Security",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Flink hackers turn to customers, demanding ransom to keep their data off the dark web",
-    "summary": "Discovered from CyberNews Security page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Discovered from CyberNews Security page.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybernews.com/security/flink-lpg-group-triple-extortion-customer/",
-    "target": "Flink",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "CyberNews Security"
-    ],
-    "links": [
-      {
-        "source": "CyberNews Security",
-        "url": "https://cybernews.com/security/flink-lpg-group-triple-extortion-customer/"
-      }
-    ]
-  },
-  {
-    "id": "38cadd0e59b9bfc9",
-    "date": "2026-10-01T13:13:08.196206+00:00",
-    "source": "CyberNews Security",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Read more about Citrix NetScaler under active zero-day attack: critical patches available, 22K servers exposed",
-    "summary": "Discovered from CyberNews Security page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Discovered from CyberNews Security page.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybernews.com/security/citrix-netscaler-rce-vulnerabilities-active-attack/",
-    "target": "Read Citrix NetScaler",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "CyberNews Security"
-    ],
-    "links": [
-      {
-        "source": "CyberNews Security",
-        "url": "https://cybernews.com/security/citrix-netscaler-rce-vulnerabilities-active-attack/"
-      }
-    ]
-  },
-  {
-    "id": "28f7af3ff98af5e2",
-    "date": "2026-10-01T13:13:08.077520+00:00",
-    "source": "TechNadu",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Windscribe joins NordVPN, ExpressVPN and others in call to amend Canada’s Bill C-22",
-    "summary": "Discovered from TechNadu page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.technadu.com/bill-c-22-faces-new-industry-concerns-over-privacy-risks/638628/",
-    "target": "Windscribe NordVPN ExpressVPN",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "TechNadu"
-    ],
-    "links": [
-      {
-        "source": "TechNadu",
-        "url": "https://www.technadu.com/bill-c-22-faces-new-industry-concerns-over-privacy-risks/638628/"
-      }
-    ]
-  },
-  {
-    "id": "e1bd3212072f945d",
-    "date": "2026-10-01T13:13:07.658416+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2026-91766: PHP had the redirect credential leak curl fixed in 2018",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-91766: PHP had the redirect credential leak curl fixed in 2018",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wpcgf9/cve202691766_php_had_the_redirect_credential_leak/",
-    "target": "CVE-2026-91766",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wpcgf9/cve202691766_php_had_the_redirect_credential_leak/"
-      }
-    ]
-  },
-  {
-    "id": "63e139a63ccf8162",
-    "date": "2026-10-01T13:13:07.658294+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1wpyg75/cve202513032_entering_and_breaking_the_avast/",
-    "target": "CVE-2025-13032",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1wpyg75/cve202513032_entering_and_breaking_the_avast/"
-      }
-    ]
-  },
-  {
-    "id": "d297b0f269e578ed",
-    "date": "2026-10-01T13:00:00+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
-    "summary": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
-    "article_text": "",
-    "quick_summary": [
-      "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
-    "target": "Warlock Ransomware Hits Large",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese"
-      }
-    ]
-  },
-  {
-    "id": "f8f5c923d88460ca",
-    "date": "2026-10-01T12:59:58+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Node.js ImageResponse Implementation Vulnerability Enables Remote Code Execution",
-    "summary": "A critical vulnerability in Next.js could allow remote code execution in applications that use the Node.js implementation of ImageResponse from the next/og package. The issue, tracked as GHSA-vcvr-r3jv-pc5j, affects Next.js versions 16.2.0 through 16.3.5 and has been fixed in version 16.3.6. The flaw exists when an application passes attacker-controlled input into SVG content, SVG attributes, […] The post Node.js ImageResponse Implementation Vulnerability Enables Remote Code Execution appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A critical vulnerability in Next.js could allow remote code execution in applications that use the Node.js implementation of ImageResponse from the next/og package.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/node-js-imageresponse-implementation-vulnerability/",
-    "target": "Node.js ImageResponse Implementation Vulnerability",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/node-js-imageresponse-implementation-vulnerability/"
-      }
-    ]
-  },
-  {
-    "id": "16b524b0c9b87193",
-    "date": "2026-10-01T12:55:57+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure",
-    "summary": "Under certain conditions, CVE-2026-73570 can be exploited via specially crafted emails without user interaction. The post Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Under certain conditions, CVE-2026-73570 can be exploited via specially crafted emails without user interaction.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/",
-    "target": "Zimbra Vulnerability Exploited Wild",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/"
-      }
-    ]
-  },
-  {
-    "id": "70a98f6a08b72f73",
-    "date": "2026-10-01T12:50:38+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Axios HTTP/2 Flaws Enable SSRF Control Bypass and Node.js Denial of Service",
-    "summary": "Axios has disclosed two high-severity vulnerabilities in its HTTP/2 implementation that could allow attackers to bypass outbound network controls or crash vulnerable Node.js applications. The flaws affect Axios versions 1.13.0 through 1.19.x and have been fixed in version 1.20.0 The first issue, tracked as GHSA-3pq3-5fj3-cg6v and CVE-2026-101898, affects Axios applications that use HTTP/2 requests alongside […] The post Axios HTTP/2 Flaws Enable SSRF Control Bypass and Node.js Denial of Service appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Axios has disclosed two high-severity vulnerabilities in its HTTP/2 implementation that could allow attackers to bypass outbound network controls or crash vulnerable Node.js applications.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/axios-http-2-flaws/",
-    "target": "Axios HTTP2 Enable SSRF",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/axios-http-2-flaws/"
-      }
-    ]
-  },
-  {
-    "id": "581702a6a95c6af2",
-    "date": "2026-10-01T12:30:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Cyberattack on major Polish invoicing platform exposes customer data",
-    "summary": "One of Poland’s major online invoicing platforms suffered a data breach that may have exposed information belonging to its users, their customers and business partners.",
-    "article_text": "",
-    "quick_summary": [
-      "One of Poland’s major online invoicing platforms suffered a data breach that may have exposed information belonging to its users, their customers and business partners.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/poland-cyberattack-invoice-software",
-    "target": "Cyberattack Polish",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/poland-cyberattack-invoice-software"
-      },
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/poland-cyberattack-medical-medyc"
-      }
-    ]
-  },
-  {
-    "id": "cce562cfad03d7a6",
-    "date": "2026-10-01T11:45:00+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
-    "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze calendar. The finding gets an exception, a compensating control, and a date",
-    "article_text": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze calendar. The finding gets an exception, a compensating control, and a date eighteen months out on the roadmap to address it. Nobody in that conversation is being unreasonable. Financial services carry more legacy software than almost any other industry for a few reasons: decades of accumulated infrastructure, regulatory obligations that reward stability, and applications where an hour of downtime is unacceptable. In that environment, minimizing change is risk management. Every dependency bump, every base image swap, every migration is a chance to break something that clears trades or moves money. So the instinct to stick to the status quo has been sound. The problem is that the instinct is now being applied to the wrong problem. For years, accepting a backlog of known vulnerabilities has been a common tradeoff financial services organizations made for stability. The vulnerabilities were known but dormant. Plus, exploitation required skill, time, cost, and incentive. The chance that any given Common Vulnerability and Exposure (CVE) in a legacy application would be weaponized against you before your next planned upgrade was low enough to simply acknowledge and move on. Frontier models have changed this calculus drastically. Systems like Mythos can read code, find dormant weaknesses, and chain them together faster than humans can investigate and patch. The gap between “publicly known” and “practically exploitable” vulnerabilities is collapsing, and it is collapsing exactly where financial institutions have been carrying deferred risk: the software supply chain. For the first time on record, vulnerability exploitation has overtaken phishing as the leading initial access vector for breaches in financial services. Additionally, more than half of financial services vendors carry at least one high-severity CVE. For a regulated institution, a compromised package means an operational event, a regulatory conversation, and a customer trust problem. What this means practically: the backlog was never static, but the assumptions used to justify carrying it were. An exception signed off 18 months ago rests on an outdated threat model. When a security team says “we need to modernize,” engineering leaders hear application modernization : refactor the monolith, upgrade the runtime, migrate the data layer, retest everything downstream. That is a multi-year, multi-team, capital-intensive program with real operational risk. Engineering leaders often resist this type of change — and are probably justified in doing so. But the risk that frontier models introduce does not lie primarily in application code. It lives in the software supply chain underneath it: base images with many vulnerabilities, open source libraries pulled from public registries with no provenance, and build tooling that has never been properly inventoried. The input to the application has become exposed. And inputs can be changed without rewriting what consumes them. Updating those inputs is the more prudent “modernization” that many financial services organizations are reckoning with. Modernizing your software supply chain doesn’t require the same level of investment as modernizing your applications. You can change what you build from long before you change what you build. Chainguard’s approach is built on securing what you build from . Hardened, minimal container images and open source libraries are continuously rebuilt so that avoidable vulnerabilities never enter the environment in the first place. Fewer components mean there’s less to scan, less to triage, and less attack surface by construction rather than by remediation. For software that isn’t ready to be upgraded yet, Chainguard backports security fixes into the versions institutions are running today . A team on an older language runtime or framework version gets patched and trusted artifacts for that version. Compatibility is preserved, and the migration plan stays on its own schedule. Either way, teams using older versions reduce their exposure to vulnerabilities. For platform teams, the operational change is smaller than expected. Most large financial institutions already run an internal golden ",
-    "quick_summary": [
-      "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
-    "target": "Financial Services Companies Can",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html"
       }
     ]
   }
