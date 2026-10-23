@@ -1,65 +1,7 @@
 [
   {
-    "id": "c3e247cc258ca693",
-    "date": "2026-10-23T18:20:29.479943+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Langflow Under Attack: MCP Servers Become Vector for Authenticated RCE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/langflow-under-attack-mcp-servers-become-vector-for-authenticated-rce",
-    "target": "CRITICAL Langflow",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/langflow-under-attack-mcp-servers-become-vector-for-authenticated-rce"
-      }
-    ]
-  },
-  {
-    "id": "6d35ec6caf24ab23",
-    "date": "2026-10-23T18:20:29.479880+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL PHP2Shell: When the Engine Becomes the Target, Every Downstream Defense Fails",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/php2shell-when-the-engine-becomes-the-target-every-downstream-defense-fails",
-    "target": "CRITICAL PHP2Shell",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/php2shell-when-the-engine-becomes-the-target-every-downstream-defense-fails"
-      }
-    ]
-  },
-  {
     "id": "c93d18ac519c7b8d",
-    "date": "2026-10-23T18:20:29.479817+00:00",
+    "date": "2026-10-23T22:09:38.996284+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "e59c270397e04f83",
-    "date": "2026-10-23T18:20:29.479746+00:00",
+    "date": "2026-10-23T22:09:38.996156+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +59,7 @@
   },
   {
     "id": "f48a85d98e6aab34",
-    "date": "2026-10-23T18:20:29.479688+00:00",
+    "date": "2026-10-23T22:09:38.996051+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +88,7 @@
   },
   {
     "id": "0369a78c06a2d604",
-    "date": "2026-10-23T18:20:29.479629+00:00",
+    "date": "2026-10-23T22:09:38.995942+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,52 +116,23 @@
     ]
   },
   {
-    "id": "530e3c351fa6bbdd",
-    "date": "2026-10-23T18:20:29.479559+00:00",
+    "id": "625c7105a1023379",
+    "date": "2026-10-23T22:09:38.995797+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Microsoft Code Regression Exposes Windows Server to Remote Crash via DFS Packet news",
+    "title": "CRITICAL NVIDIA Megatron Bridge: User-Interaction RCE in Model Config YAML Parsing",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/news/microsoft-code-regression-exposes-windows-server-to-remote-crash-via-dfs-packet",
-    "target": "Microsoft Code Regression Exposes",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/microsoft-code-regression-exposes-windows-server-to-remote-crash-via-dfs-packet"
-      }
-    ]
-  },
-  {
-    "id": "51f7d109fadd4ccf",
-    "date": "2026-10-23T18:20:29.479501+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CenterPoint: Data of 1 Million Texans Exposed, No Customer Notice Issued CYBERSEC CRITICAL",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/centerpoint-data-of-1-million-texans-exposed-no-customer-notice-issued",
-    "target": "CenterPoint",
-    "type": "Data Leak / Breach",
+    "link": "https://deafnews.it/en/news/nvidia/nvidia-megatron-bridge-user-interaction-rce-in-model-config-yaml-parsing",
+    "target": "CRITICAL NVIDIA Megatron Bridge",
+    "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
       "DeafNews"
@@ -227,13 +140,42 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/centerpoint-data-of-1-million-texans-exposed-no-customer-notice-issued"
+        "url": "https://deafnews.it/en/news/nvidia/nvidia-megatron-bridge-user-interaction-rce-in-model-config-yaml-parsing"
+      }
+    ]
+  },
+  {
+    "id": "fe880adc09baba00",
+    "date": "2026-10-23T22:09:38.995687+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE CVE-2026-76268: Unauthenticated RCE in Splunk Enterprise Patroni REST API",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cve/cve-2026-76268-unauthenticated-rce-in-splunk-enterprise-patroni-rest-api",
+    "target": "CVE CVE-2026-76268",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cve/cve-2026-76268-unauthenticated-rce-in-splunk-enterprise-patroni-rest-api"
       }
     ]
   },
   {
     "id": "b26c77d201ca7c86",
-    "date": "2026-10-23T18:20:29.479438+00:00",
+    "date": "2026-10-23T22:09:38.995581+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +204,7 @@
   },
   {
     "id": "45789ab8977a597c",
-    "date": "2026-10-23T18:20:29.479376+00:00",
+    "date": "2026-10-23T22:09:38.995459+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +233,7 @@
   },
   {
     "id": "ef97cf6e7f77eba9",
-    "date": "2026-10-23T18:20:29.479315+00:00",
+    "date": "2026-10-23T22:09:38.995332+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -320,7 +262,7 @@
   },
   {
     "id": "0a78b0c65bf18f4e",
-    "date": "2026-10-23T18:20:29.479245+00:00",
+    "date": "2026-10-23T22:09:38.995203+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -349,7 +291,7 @@
   },
   {
     "id": "0cbfeef2fc0155be",
-    "date": "2026-10-23T18:20:29.479174+00:00",
+    "date": "2026-10-23T22:09:38.995077+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -367,8 +309,7 @@
     "type": "General Cybersecurity",
     "severity": "Critical",
     "sources": [
-      "DeafNews",
-      "Reddit r/netsec"
+      "DeafNews"
     ],
     "links": [
       {
@@ -399,7 +340,7 @@
   },
   {
     "id": "ca355f225bc28bc9",
-    "date": "2026-10-23T18:20:29.478787+00:00",
+    "date": "2026-10-23T22:09:38.994274+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -428,7 +369,7 @@
   },
   {
     "id": "927c730f85fd3ffa",
-    "date": "2026-10-23T18:20:29.478714+00:00",
+    "date": "2026-10-23T22:09:38.994144+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -461,7 +402,7 @@
   },
   {
     "id": "64e0613413fa9263",
-    "date": "2026-10-23T18:20:29.478650+00:00",
+    "date": "2026-10-23T22:09:38.994030+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -490,7 +431,7 @@
   },
   {
     "id": "2e9ad9f3483fd092",
-    "date": "2026-10-23T18:20:29.478585+00:00",
+    "date": "2026-10-23T22:09:38.993911+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -527,7 +468,7 @@
   },
   {
     "id": "3926c46ac13e2802",
-    "date": "2026-10-23T18:20:29.478524+00:00",
+    "date": "2026-10-23T22:09:38.993776+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -556,12 +497,12 @@
   },
   {
     "id": "3ddb3eaee7aec34c",
-    "date": "2026-10-23T18:20:29.478017+00:00",
+    "date": "2026-10-23T22:09:38.992709+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 ZERO-DAY · 4 CVE · 3 EXPLOIT IN THE LAST 24H →",
+    "title": "// 2 ZERO-DAY · 6 CVE · 5 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -585,7 +526,7 @@
   },
   {
     "id": "f84fc657055064d9",
-    "date": "2026-10-23T18:20:28.396124+00:00",
+    "date": "2026-10-23T22:09:38.150398+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -698,7 +639,7 @@
   },
   {
     "id": "a3f93c11bcdc5daa",
-    "date": "2026-10-23T18:20:26.918588+00:00",
+    "date": "2026-10-23T22:09:37.233540+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -727,7 +668,7 @@
   },
   {
     "id": "96b97c390c9853ae",
-    "date": "2026-10-23T18:20:26.918477+00:00",
+    "date": "2026-10-23T22:09:37.233368+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -756,7 +697,7 @@
   },
   {
     "id": "c5fbbb81e2b7d891",
-    "date": "2026-10-23T18:20:26.918395+00:00",
+    "date": "2026-10-23T22:09:37.233216+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -785,7 +726,7 @@
   },
   {
     "id": "2be7161024735444",
-    "date": "2026-10-23T18:20:26.918313+00:00",
+    "date": "2026-10-23T22:09:37.233058+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -814,7 +755,7 @@
   },
   {
     "id": "49cc3a46da24526b",
-    "date": "2026-10-23T18:20:26.918203+00:00",
+    "date": "2026-10-23T22:09:37.232781+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -843,7 +784,7 @@
   },
   {
     "id": "3bb0c52472b519ff",
-    "date": "2026-10-23T18:20:26.918122+00:00",
+    "date": "2026-10-23T22:09:37.232634+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -872,7 +813,7 @@
   },
   {
     "id": "ac4a7e198336e718",
-    "date": "2026-10-23T18:20:26.918037+00:00",
+    "date": "2026-10-23T22:09:37.232480+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -901,7 +842,7 @@
   },
   {
     "id": "b9d2fb18f6a3a6a4",
-    "date": "2026-10-23T18:20:26.917926+00:00",
+    "date": "2026-10-23T22:09:37.232288+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -930,7 +871,7 @@
   },
   {
     "id": "96002c1db752c564",
-    "date": "2026-10-23T18:20:26.917797+00:00",
+    "date": "2026-10-23T22:09:37.232059+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -959,7 +900,7 @@
   },
   {
     "id": "7777349600424aeb",
-    "date": "2026-10-23T18:20:26.917641+00:00",
+    "date": "2026-10-23T22:09:37.231761+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -988,7 +929,7 @@
   },
   {
     "id": "1ec684b3004eb830",
-    "date": "2026-10-23T18:20:26.917548+00:00",
+    "date": "2026-10-23T22:09:37.231591+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1017,7 +958,7 @@
   },
   {
     "id": "9e2a5b667cf55a3b",
-    "date": "2026-10-23T18:20:26.917392+00:00",
+    "date": "2026-10-23T22:09:37.231326+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1046,7 +987,7 @@
   },
   {
     "id": "8150c6838a4b62d2",
-    "date": "2026-10-23T18:20:26.917298+00:00",
+    "date": "2026-10-23T22:09:37.231153+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1075,7 +1016,7 @@
   },
   {
     "id": "175c7ea5dc65956a",
-    "date": "2026-10-23T18:20:26.917192+00:00",
+    "date": "2026-10-23T22:09:37.230972+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1104,7 +1045,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-10-23T18:20:26.917040+00:00",
+    "date": "2026-10-23T22:09:37.230698+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1133,7 +1074,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-10-23T18:20:26.916589+00:00",
+    "date": "2026-10-23T22:09:37.229977+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1162,7 +1103,7 @@
   },
   {
     "id": "6c3a24d67c263323",
-    "date": "2026-10-23T18:20:26.659867+00:00",
+    "date": "2026-10-23T22:09:37.079604+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1191,7 +1132,7 @@
   },
   {
     "id": "c421cf985ddb5198",
-    "date": "2026-10-23T18:20:26.659804+00:00",
+    "date": "2026-10-23T22:09:37.079485+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1220,7 +1161,7 @@
   },
   {
     "id": "aa04f146acedfebd",
-    "date": "2026-10-23T18:20:26.659741+00:00",
+    "date": "2026-10-23T22:09:37.079366+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1249,7 +1190,7 @@
   },
   {
     "id": "eaff1a05324436a3",
-    "date": "2026-10-23T18:20:26.659678+00:00",
+    "date": "2026-10-23T22:09:37.079244+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1278,7 +1219,7 @@
   },
   {
     "id": "573e3163334040b0",
-    "date": "2026-10-23T18:20:26.659598+00:00",
+    "date": "2026-10-23T22:09:37.079079+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1307,7 +1248,7 @@
   },
   {
     "id": "31dee03c6275a231",
-    "date": "2026-10-23T18:20:26.659517+00:00",
+    "date": "2026-10-23T22:09:37.078931+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1336,7 +1277,7 @@
   },
   {
     "id": "158899b0662fa0ff",
-    "date": "2026-10-23T18:20:26.659451+00:00",
+    "date": "2026-10-23T22:09:37.078781+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1365,7 +1306,7 @@
   },
   {
     "id": "43ef41892c537351",
-    "date": "2026-10-23T18:20:26.659389+00:00",
+    "date": "2026-10-23T22:09:37.078661+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1394,7 +1335,7 @@
   },
   {
     "id": "9e84d93d648f8f86",
-    "date": "2026-10-23T18:20:26.659313+00:00",
+    "date": "2026-10-23T22:09:37.078518+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1423,7 +1364,7 @@
   },
   {
     "id": "faf98c079ba5d018",
-    "date": "2026-10-23T18:20:26.659240+00:00",
+    "date": "2026-10-23T22:09:37.078381+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1452,7 +1393,7 @@
   },
   {
     "id": "c0ae732a1bba7f64",
-    "date": "2026-10-23T18:20:26.659178+00:00",
+    "date": "2026-10-23T22:09:37.078263+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1481,7 +1422,7 @@
   },
   {
     "id": "0b5ba548043e99d9",
-    "date": "2026-10-23T18:20:26.659097+00:00",
+    "date": "2026-10-23T22:09:37.078115+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1510,7 +1451,7 @@
   },
   {
     "id": "0f59a9cd4bdfb493",
-    "date": "2026-10-23T18:20:26.659008+00:00",
+    "date": "2026-10-23T22:09:37.077978+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1539,7 +1480,7 @@
   },
   {
     "id": "97065e27c22d7d08",
-    "date": "2026-10-23T18:20:26.658949+00:00",
+    "date": "2026-10-23T22:09:37.077860+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1568,7 +1509,7 @@
   },
   {
     "id": "997ecc9994f2019c",
-    "date": "2026-10-23T18:20:26.658885+00:00",
+    "date": "2026-10-23T22:09:37.077717+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1601,7 +1542,7 @@
   },
   {
     "id": "cc7e1c96307a4f14",
-    "date": "2026-10-23T18:20:26.658820+00:00",
+    "date": "2026-10-23T22:09:37.077587+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1630,7 +1571,7 @@
   },
   {
     "id": "c6ca06de0dd273d5",
-    "date": "2026-10-23T18:20:26.658747+00:00",
+    "date": "2026-10-23T22:09:37.077452+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1659,7 +1600,7 @@
   },
   {
     "id": "f6ee8980c048183f",
-    "date": "2026-10-23T18:20:26.658676+00:00",
+    "date": "2026-10-23T22:09:37.077319+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1688,7 +1629,7 @@
   },
   {
     "id": "385e6ceeca25dba0",
-    "date": "2026-10-23T18:20:26.658605+00:00",
+    "date": "2026-10-23T22:09:37.077187+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1717,7 +1658,7 @@
   },
   {
     "id": "9006c68a624ee1ec",
-    "date": "2026-10-23T18:20:26.658540+00:00",
+    "date": "2026-10-23T22:09:37.077063+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1746,7 +1687,7 @@
   },
   {
     "id": "53b7b7c3e5a03118",
-    "date": "2026-10-23T18:20:26.658469+00:00",
+    "date": "2026-10-23T22:09:37.076926+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1775,7 +1716,7 @@
   },
   {
     "id": "70d902b5d6547e36",
-    "date": "2026-10-23T18:20:26.658390+00:00",
+    "date": "2026-10-23T22:09:37.076744+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1804,7 +1745,7 @@
   },
   {
     "id": "07498abdff68378d",
-    "date": "2026-10-23T18:20:26.658310+00:00",
+    "date": "2026-10-23T22:09:37.076594+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1833,7 +1774,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-10-23T18:20:26.658226+00:00",
+    "date": "2026-10-23T22:09:37.076447+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1878,7 +1819,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-10-23T18:20:26.658060+00:00",
+    "date": "2026-10-23T22:09:37.076240+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1906,6 +1847,362 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "60ef69b5b50499d3",
+    "date": "2026-10-23T20:57:56+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+    "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
+    "article_text": "",
+    "quick_summary": [
+      "Threat actors don't need to rely on malware to breach organizations anymore.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+    "target": "Trust Not Seems",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it"
+      }
+    ]
+  },
+  {
+    "id": "8279958b9e3ee064",
+    "date": "2026-10-23T20:55:05+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+    "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+    "article_text": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. The vulnerability, tracked as CVE-2026-30612, affects Windows and macOS updaters that contacted the app's abandoned domain (popcorntimeupd.xyz) over unencrypted HTTP and accepted executables without verifying digital signatures. Anyone controlling the update domain could manipulate HTTP traffic and execute code as SYSTEM on Windows and as root on macOS. The Popcorn Time app featured a Netflix-style interface that integrated BitTorrent downloads, allowing users to consume illegal content right directly inside the app. The project was abandoned for legal reasons but later relaunched as a legitimate content-streaming app. However, forks such as Time4Popcorn emerged under the Popcorn Time name, quickly attracting millions of users. Researchers at Eye Security discovered the security risk after registering the popcorntimeupd.xyz domain and observed up to 3 million Windows and 350,000 macOS client connections to Time4Popcorn. Connections came from residential ISPs and corporate, government, and military networks. However, none of the users appeared to be actively using the app, suggesting it had been installed and forgotten. “If we were able to send an update, we could potentially get code execution on millions of systems,” Eye Securit notes , adding that “the impact would be severe if this were to fall into the wrong hands.” Following this discovery, the researchers registered 14 more domains associated with the service. Between November 2025 and March 2026, Eye used the vulnerable update mechanism to deliver remediation code that stopped and disabled the updater. Their payload collected no host data or telemetry, and deleted no files on the users’ computers, keeping their actions within a fully legal context. Eye explains that it had to modify its payload during testing to evade antivirus products that flagged it for disabling a service. After deploying the remediation, Eye recorded 2 million update downloads, and by March 1 this year, requests to its update domain dropped by 98%. Following the successful completion of the remediation operation, domain ownership was passed to the non-profit security organization The Shadowserver Foundation. Despite this success, the researchers warned that the risk is not fully eliminated for users of the app. First, Android users remain exposed as installing an update would require user interaction, and researchers could not disable the updater remotely for the mobile platform. Second, the Time4Popcorn app uses a severely outdated Chrome engine from 2014, with no sandbox protections, which could be exploited in attacks. The best course of action would be for users to remove the software entirely from their systems. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Exposed GitLab project email addresses let attackers push code 68-year-old imprisoned after making $1.3 million by pirating IPTV services PHP warns admins of two critical flaws, emergency patches coming tomorrow Mozilla, Google, Apple block compromised eMudhra CA certificates CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Who really has control of your AI agent? Gen is taking on the agent trust problem. Overdue a password health-check? Audit your Active Directory for free Inside the Chinese-language marketplaces powering the scam centre economy: join a live training. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+    "target": "Abandoned Popcorn Time",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/"
+      }
+    ]
+  },
+  {
+    "id": "4ccde00ac54e8640",
+    "date": "2026-10-23T20:04:47+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
+    "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.",
+    "article_text": "",
+    "quick_summary": [
+      "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33452",
+    "target": "Reliable php2shell Fri Oct",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33452"
+      }
+    ]
+  },
+  {
+    "id": "ecbcbec549d4a5f5",
+    "date": "2026-10-23T19:41:23+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+    "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
+    "article_text": "",
+    "quick_summary": [
+      "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+    "target": "Exposed PHP2Shell Experts Weigh",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice"
+      }
+    ]
+  },
+  {
+    "id": "20ff8488ddee79e4",
+    "date": "2026-10-23T19:09:16+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "GoDaddy Revokes 404,607 SSL Certificates After Policy Errors",
+    "summary": "GoDaddy revoked 404,607 SSL/TLS certificates after finding certificate-policy errors, with affected sites including some Gibraltar government websites.",
+    "article_text": "",
+    "quick_summary": [
+      "GoDaddy revoked 404,607 SSL/TLS certificates after finding certificate-policy errors, with affected sites including some Gibraltar government websites.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://hackread.com/godaddy-revokes-ssl-certificates-policy-errors/",
+    "target": "GoDaddy Revokes 404607 SSL",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/godaddy-revokes-ssl-certificates-policy-errors/"
+      }
+    ]
+  },
+  {
+    "id": "8b41e5772c4b3947",
+    "date": "2026-10-23T19:00:34+00:00",
+    "source": "Palo Alto Unit 42",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
+    "summary": "Unit 42 is aware of possible 0-day activity against NetScaler devices. Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild. The post Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30) appeared first on Unit 42 .",
+    "article_text": "",
+    "quick_summary": [
+      "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+    "target": "Threat Brief",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Palo Alto Unit 42"
+    ],
+    "links": [
+      {
+        "source": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
+      },
+      {
+        "source": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
+      },
+      {
+        "source": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
+      }
+    ]
+  },
+  {
+    "id": "c28c849ecae8b9a3",
+    "date": "2026-10-23T18:54:41+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+    "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+    "article_text": "Microsoft says Teams will begin using AI-powered phishing detection in early November 2026 to detect malicious behavior in messages. The rollout is part of a targeted release phase expected to end by mid-November, with the new security feature likely reaching general availability worldwide between early and mid-December. Microsoft first revealed in a Microsoft 365 Roadmap entry last week that the AI-powered phishing detection will use conversation context (without retaining message content) to identify phishing and suspicious behavior in higher-risk messaging scenarios, such as external first-contact chats. \"Microsoft Teams is introducing AI-powered, context-aware phishing detection to help identify phishing, social engineering, impersonation attempts, and deceptive intent,\" the company said in a Microsoft 365 Message Center update on Wednesday. \"The capability analyzes conversation context to identify suspicious behavior that may not include traditional indicators such as malicious links or files.\" Microsoft says IT admins won't need to take any action to enable this new security protection feature, which will focus on external first-contact chats for most users. ​It also added that while the new Teams feature will analyze conversation context to discover suspicious behavior, it will not retain customer data for further AI training or other uses. \"This capability is used only for security protection and not for productivity, summarization, advertising, user monitoring, or other non-security purposes,\" Microsoft said. \"Customer message content is not retained by the detection system for model training or other secondary uses.\" This is part of a broader list of Teams security changes, with Microsoft announcing in December that admins could lock external users via the Defender portal starting in January to thwart cybercrime groups (including ransomware gangs ) from abusing Teams in social engineering attacks that target victims' employees. It also began rolling out a new Teams meeting protection policy in August that lets admins block all identified external bots automatically from joining meetings. Last month, Microsoft also revealed that Teams will blur QR codes sent by external senders to better protect against fraud and phishing attempts, and that it will let users report suspicious guest invitations directly in Teams to help security teams block phishing attempts and other attacks abusing guest invitations. More recently, in early October, the company announced plans to introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft Teams to get support for third-party deepfake detection tools Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes New RemControl Android banking malware targets users in Europe and Canada Passkey-themed phishing attacks lead to Microsoft 365 data theft Man gets six years for hacking 750 women's Snapchat accounts What makes you think MS products are there to serve you? Anyone who uses that stuff gets what he deserves... PHP warns admins of two critical flaws, emergency patches coming tomorrow Mozilla, Google, Apple block compromised eMudhra CA certificates CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Who really has control of your AI agent? Gen is taking on the agent trust problem. Inside the Chinese-language marketplaces powering the scam centre economy: join a live training. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026.",
+      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+    "target": "Microsoft Teams AI-powered",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/"
+      }
+    ]
+  },
+  {
+    "id": "5e449719b68ad46a",
+    "date": "2026-10-23T18:50:13+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+    "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
+    "article_text": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX . The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41 , Kaspersky said in a technical report published this week. The primary objective behind deploying the malware is to undermine Microsoft Windows startup defenses, along with third-party security solutions, while maintaining long-term, covert access to compromised devices. Notably, BlackX is assessed to be an updated version of BlackLotus , a notorious bootkit that was first observed being advertised on cybercrime forums in late 2022, before its existence was officially confirmed by ESET in March 2023. BlackLotus is designed to exploit a now-patched Secure Boot bypass vulnerability tracked as CVE-2022-21894 (CVSS score: 4.4), also known as Baton Drop, to load malicious code before the operating system starts. However, successful exploitation hinges on an attacker having administrator privileges or physical access to a target host. \"It is critical to note that a threat actor's use of this bootkit is primarily a persistence and defense evasion mechanism,\" Microsoft noted at the time. \"It is not a first-stage payload or an initial access vector and can only be deployed to a device to which a threat actor has already gained either privileged access or physical access.\" That said, completely addressing the threat requires additional actions beyond installing the latest update, including running manual steps to apply Microsoft's Secure Boot revocation mitigations, such as adding the \"Windows Production PCA 2011\" certificate to the Secure Boot UEFI Forbidden List (DBX). The Russian cybersecurity company has found that attackers are capitalizing on the fact that organizations have not carried out these manual steps, enabling them to still use the Baton Drop vulnerability even on systems that have the \"patch\" applied. \"On October 19, 2026, this certificate expired, but this does not prevent the vulnerable binaries from loading unless the certificate is blocklisted,\" researchers Georgy Kucherin, Vladimir Nestor, and Vasily Berdnikov said. \"It is likely that the threat actor behind this campaign took into account that few organizations realized the importance of manually activating the Baton Drop patch. As such, we believe they decided to invest time in understanding how BlackLotus works and creating a copycat of this bootkit.\" Attackers have been observed deploying BlackX after breaching victim networks through an unspecified method and gaining administrator privileges. To install the bootkit, the threat actor drops the following files - The installer is then launched via the command line as \"C:\\ProgramData\\Intel\\inst.exe PVMDIJGKAX2 Q46F6MDLI3RX2KV1,\" where \"Q46F6MDLI3RX2KV1\" is the RC4 key used for decryption. The binary then drops additional files to both system and UEFI partitions to exploit CVE-2022-21894 in a manner that's \"remarkably similar\" to the one used in BlackLotus. The end goal remains the same: install Machine Owner Keys (MOK) to load arbitrary EFI files on the infected hosts and interfere with Secure Boot. What's interesting here is that the source code of BlackLotus has never entered the public domain, indicating that the threat actors behind BlackX either reverse-engineered the original bootkit or purchased its source code from another party. \"Either way, this is an interesting observation, as we rarely see APT actors borrow ideas or code from cybercrime actors,\" Kaspersky said. The UEFI payload delivered following the exploitation of the vulnerability is engineered to inject a malicious driver into the Windows kernel. The driver has been signed with a certificate belonging to a company named Wenjiang District Mingyu Network Technology Service Studio. The certificate has since been revoked by the issuer. Like in the case of the bring your own vulnerable driver ( BYOVD ) attack, the driver attempts to tamper with the functioning of endpoint security software installed on the machine. In an interesting twist, some of the unauthorized modifications are allowed to run only if security programs associated with Kaspersky or Avast are present. However, Kaspersky's analysis has found these routines to be ineffective. Not just content with trying to render security s",
+    "quick_summary": [
+      "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+    "target": "BlackX UEFI Bootkit Bypasses",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html"
+      }
+    ]
+  },
+  {
+    "id": "c3e247cc258ca693",
+    "date": "2026-10-23T18:20:29.479943+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Langflow Under Attack: MCP Servers Become Vector for Authenticated RCE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/langflow-under-attack-mcp-servers-become-vector-for-authenticated-rce",
+    "target": "CRITICAL Langflow",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/langflow-under-attack-mcp-servers-become-vector-for-authenticated-rce"
+      }
+    ]
+  },
+  {
+    "id": "6d35ec6caf24ab23",
+    "date": "2026-10-23T18:20:29.479880+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL PHP2Shell: When the Engine Becomes the Target, Every Downstream Defense Fails",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/php2shell-when-the-engine-becomes-the-target-every-downstream-defense-fails",
+    "target": "CRITICAL PHP2Shell",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/php2shell-when-the-engine-becomes-the-target-every-downstream-defense-fails"
+      }
+    ]
+  },
+  {
+    "id": "530e3c351fa6bbdd",
+    "date": "2026-10-23T18:20:29.479559+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Microsoft Code Regression Exposes Windows Server to Remote Crash via DFS Packet news",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/news/microsoft-code-regression-exposes-windows-server-to-remote-crash-via-dfs-packet",
+    "target": "Microsoft Code Regression Exposes",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/news/microsoft-code-regression-exposes-windows-server-to-remote-crash-via-dfs-packet"
+      }
+    ]
+  },
+  {
+    "id": "51f7d109fadd4ccf",
+    "date": "2026-10-23T18:20:29.479501+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CenterPoint: Data of 1 Million Texans Exposed, No Customer Notice Issued CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/centerpoint-data-of-1-million-texans-exposed-no-customer-notice-issued",
+    "target": "CenterPoint",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/centerpoint-data-of-1-million-texans-exposed-no-customer-notice-issued"
       }
     ]
   },
@@ -2252,7 +2549,7 @@
     "category": "",
     "title": "PHP shares mitigation for new RCE vulnerability with no patch",
     "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
-    "article_text": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. PHP is an open-source web development language used by nearly 70% of all websites on the Internet. According to VirusTotal estimates , more than 5.1 million PHP hosts are exposed online, and roughly 3.8 million have at least one port open to attacks. According to a Friday advisory, this security flaw (tracked as CVE-2026-115560) can only be exploited when targeting systems \"with an unusual combination of configuration and application code.\" \"An application must set session.serialize_handler to php_binary or php_serialize in its configuration and then switch it to php at runtime with ini_set() before calling session_start(). Session upload progress must also still be enabled,\" the PHP team explained . \"Applications that never change the serialize handler at runtime can keep the feature enabled. Since this setup is unlikely in practice, we are handling it in the regular release cycle and will publish a full advisory for CVE-2026-115560 with the next release.\" Until a security patch is available, the PHP devs suggested setting session.upload_progress.enabled=0, adding that \"If you applied it then, keep it in place and no further action is needed.\" This mitigation should have already been applied on Wednesday, before patching two other critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell . The PHP security team patched the PHP2Shell vulnerabilities one day after urging admins to prepare to install the updates as soon as they became available. While some proof-of-concept (PoC) code was published before the patches went live, the PHP security team said none were functional. However, multiple cybersecurity companies (including Cloudflare , watchTowr , Previdian , Hadrian , and Patchstack ) detected unsuccessful exploitation attempts before public disclosure, after some details on the PHP2Shell security flaws (including the CVE IDs and mitigation advice provided to some critical infrastructure providers) leaked online . Security researchers at Amazon Threat Intelligence also said that attackers began targeting the PHP2Shell vulnerabilities four days before security patches were released on Wednesday. \"The actual payloads and choices in anonymization infrastructure varied, suggesting these were multiple actors. Technical analysis is ongoing, and it's unclear if any of these attempts would have succeeded in real-world systems,\" said AWS chief information security officer CJ Moses . \"PHP2Shell is now seeing broad exploitation attempts in the wild,\" he added, though it's unclear how many attacks (if any) have succeeded. Dataminr's Threat Research and Cyber Engineering (TRACE) team also said in a Thursday report that \"observed activity since vulnerability disclosure remains limited to scanning, fingerprinting, and use of non-working exploits, with no known compromises,\" but noted that \"it remains only a matter of time for working POCs or successful exploitation activity to emerge.\" Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. HPE patches eight max severity RCE and auth bypass AOS flaws GitLab warns of new max severity code execution vulnerability F5 releases out-of-band patches for critical NGINX vulnerabilities Hackers exploit SiteGuard WAF flaw to run commands as admins PHP warns admins of two critical flaws, emergency patches coming tomorrow Mozilla, Google, Apple block compromised eMudhra CA certificates Overdue a password health-check? Audit your Active Directory for free CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Who really has control of your AI agent? Gen is taking on the agent trust problem. Inside the Chinese-language marketplaces powering the scam centre economy: join a live training. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. PHP is an open-source web development language used by nearly 70% of all websites on the Internet. According to VirusTotal estimates , more than 5.1 million PHP hosts are exposed online, and roughly 3.8 million have at least one port open to attacks. According to a Friday advisory, this security flaw (tracked as CVE-2026-115560) can only be exploited when targeting systems \"with an unusual combination of configuration and application code.\" \"An application must set session.serialize_handler to php_binary or php_serialize in its configuration and then switch it to php at runtime with ini_set() before calling session_start(). Session upload progress must also still be enabled,\" the PHP team explained . \"Applications that never change the serialize handler at runtime can keep the feature enabled. Since this setup is unlikely in practice, we are handling it in the regular release cycle and will publish a full advisory for CVE-2026-115560 with the next release.\" Until a security patch is available, the PHP devs suggested setting session.upload_progress.enabled=0, adding that \"If you applied it then, keep it in place and no further action is needed.\" This mitigation should have already been applied on Wednesday, before patching two other critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell . The PHP security team patched the PHP2Shell vulnerabilities one day after urging admins to prepare to install the updates as soon as they became available. While some proof-of-concept (PoC) code was published before the patches went live, the PHP security team said none were functional. However, multiple cybersecurity companies (including Cloudflare , watchTowr , Previdian , Hadrian , and Patchstack ) detected unsuccessful exploitation attempts before public disclosure, after some details on the PHP2Shell security flaws (including the CVE IDs and mitigation advice provided to some critical infrastructure providers) leaked online . Security researchers at Amazon Threat Intelligence also said that attackers began targeting the PHP2Shell vulnerabilities four days before security patches were released on Wednesday. \"The actual payloads and choices in anonymization infrastructure varied, suggesting these were multiple actors. Technical analysis is ongoing, and it's unclear if any of these attempts would have succeeded in real-world systems,\" said AWS chief information security officer CJ Moses . \"PHP2Shell is now seeing broad exploitation attempts in the wild,\" he added, though it's unclear how many attacks (if any) have succeeded. Dataminr's Threat Research and Cyber Engineering (TRACE) team also said in a Thursday report that \"observed activity since vulnerability disclosure remains limited to scanning, fingerprinting, and use of non-working exploits, with no known compromises,\" but noted that \"it remains only a matter of time for working POCs or successful exploitation activity to emerge.\" Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. HPE patches eight max severity RCE and auth bypass AOS flaws GitLab warns of new max severity code execution vulnerability F5 releases out-of-band patches for critical NGINX vulnerabilities Hackers exploit SiteGuard WAF flaw to run commands as admins Well, its no use anymore. Everything is vulnerable. Zero day after zero day. And all the zero days we do not know about. We better learn how to live without the internet again. Relearn how we did everything before it existed. Because we can not rely on any internet facing service anymore. Not for anything that really matters like energy, food or water and anything related to that. PHP warns admins of two critical flaws, emergency patches coming tomorrow Mozilla, Google, Apple block compromised eMudhra CA certificates Overdue a password health-check? Audit your Active Directory for free CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Who really has control of your AI agent? Gen is taking on the agent trust problem. Inside the Chinese-language marketplaces powering the",
     "quick_summary": [
       "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
@@ -3049,7 +3346,7 @@
     "category": "",
     "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
     "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
-    "article_text": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. Also known as AOS, ArubaOS powers Aruba Networking enterprise wireless infrastructure, including mobility conductors, access points, controllers, and gateway devices. The eight maximum-severity security flaws patched today affect multiple AOS-8 and AOS-10 software versions, and they can be exploited by remote threat actors without privileges through low-complexity attacks that don't require user interaction. HPE warned customers to patch these security issues as soon as possible and provided mitigation measures, including restricting access to AOS management interfaces. \"Customers are strongly urged to patch their instances due to the complexity, breadth, and impact of these vulnerabilities,\" the company warned in a Thursday security advisory. \"To minimize the likelihood of an attacker exploiting these vulnerabilities, HPE Networking recommends that the CLI and web-based management interfaces be restricted to a dedicated layer 2 segment/VLAN and/or controlled by firewall policies at layer 3 and above along with accounting controls for tracking and logging user activities and resource usage.\" The full list of maximum severity flaws fixed today can be found in the table embedded below: The company added that it has not yet found publicly available proof-of-concept exploit code or evidence that these vulnerabilities are being exploited in the wild. \"HPE Networking is not aware of any public discussion or exploit code that targets the listed vulnerabilities as of the release date of this advisory,\" it said. In June 2025, HPE patched eight critical StoreOnce vulnerabilities that allowed authentication bypass and remote code execution and, one month later, warned of hardcoded credentials in Aruba Instant On Access Points that can let attackers bypass device authentication. In January 2025, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) also flagged a maximum-severity HPE OneView vulnerability as exploited in attacks. More recently, HPE warned of critical flaws allowing admin password resets and remote code execution on unpatched AOS-CX devices. HPE employs more than 61,000 people worldwide and provides services and products to over 55,000 enterprise customers worldwide, including 90% of Fortune 500 companies. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. GitLab warns of new max severity code execution vulnerability F5 releases out-of-band patches for critical NGINX vulnerabilities Hackers exploit SiteGuard WAF flaw to run commands as admins PHP warns admins of two critical flaws, emergency patches coming tomorrow Mozilla, Google, Apple block compromised eMudhra CA certificates CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Overdue a password health-check? Audit your Active Directory for free Who really has control of your AI agent? Gen is taking on the agent trust problem. Inside the Chinese-language marketplaces powering the scam centre economy: join a live training. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. Also known as AOS, ArubaOS powers Aruba Networking enterprise wireless infrastructure, including mobility conductors, access points, controllers, and gateway devices. The eight maximum-severity security flaws patched today affect multiple AOS-8 and AOS-10 software versions, and they can be exploited by remote threat actors without privileges through low-complexity attacks that don't require user interaction. HPE warned customers to patch these security issues as soon as possible and provided mitigation measures, including restricting access to AOS management interfaces. \"Customers are strongly urged to patch their instances due to the complexity, breadth, and impact of these vulnerabilities,\" the company warned in a Thursday security advisory. \"To minimize the likelihood of an attacker exploiting these vulnerabilities, HPE Networking recommends that the CLI and web-based management interfaces be restricted to a dedicated layer 2 segment/VLAN and/or controlled by firewall policies at layer 3 and above along with accounting controls for tracking and logging user activities and resource usage.\" The full list of maximum severity flaws fixed today can be found in the table embedded below: The company added that it has not yet found publicly available proof-of-concept exploit code or evidence that these vulnerabilities are being exploited in the wild. \"HPE Networking is not aware of any public discussion or exploit code that targets the listed vulnerabilities as of the release date of this advisory,\" it said. In June 2025, HPE patched eight critical StoreOnce vulnerabilities that allowed authentication bypass and remote code execution and, one month later, warned of hardcoded credentials in Aruba Instant On Access Points that can let attackers bypass device authentication. In January 2025, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) also flagged a maximum-severity HPE OneView vulnerability as exploited in attacks. More recently, HPE warned of critical flaws allowing admin password resets and remote code execution on unpatched AOS-CX devices. HPE employs more than 61,000 people worldwide and provides services and products to over 55,000 enterprise customers worldwide, including 90% of Fortune 500 companies. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. PHP shares mitigation for new RCE vulnerability with no patch GitLab warns of new max severity code execution vulnerability F5 releases out-of-band patches for critical NGINX vulnerabilities PHP warns admins of two critical flaws, emergency patches coming tomorrow Mozilla, Google, Apple block compromised eMudhra CA certificates Overdue a password health-check? Audit your Active Directory for free Inside the Chinese-language marketplaces powering the scam centre economy: join a live training. CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Who really has control of your AI agent? Gen is taking on the agent trust problem. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
@@ -3223,7 +3520,7 @@
     "category": "",
     "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
     "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
-    "article_text": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET , the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of the MATCHWOK backdoor through a downloader called MATCHBOIL. The activity ultimately culminated with the threat actor handing off access to Sandworm, which then conducted a data-wiping attack on September 17, 2025, more than two months after it obtained a foothold. What makes the attack stand out is UAC-0099's use of a previously undocumented backdoor called MythicRatatoskr that communicates with a command-and-control (C2) server hosted inside the Yggdrasil mesh network. The backdoor was deployed a day after MATCHWOK was executed. There are indications that development on the backdoor started sometime between December 2024 and February 2025. Its functionality is fairly straightforward in that it sends victim metadata to the C2 server, poll for new commands, transmit command output, take screenshots, and upload/download files. It can also alter the current working directory, enumerate directory contents, change the C2 server URL, execute a shell command via \"cmd.exe,\" and spawn a reverse SOCKS5 proxy. In addition, some artifacts include a 10-minute startup delay in a likely effort to avoid immediately connecting to the Yggdrasil network and evade detection. \"To our knowledge, this is the first documented case of Yggdrasil being abused in this way by a state-aligned threat actor, and it may signal a broader trend of adversaries adopting experimental peer-to-peer networks to increase the resilience and stealth of their infrastructure,\" ESET researchers Anton Cherepanov and Peter Strýček said. MythicRatatoskr is said to have been used to deploy a SOCKS5 server to route connections through the compromised network. The attack culminated with Sandworm carrying out a data-wiping attack by dropping the SDelete utility via Active Directory Group Policy. It's worth noting that the Sandworm-linked NikoWiper malware is also derived from SDelete. While the attack investigated by ESET compromised a Windows system, source code references to \"crond\" within MythicRatatoskr suggest there possibly exists an equivalent Linux version of the malware. The assessment that UAC-0099 is likely collaborating with Sandworm is not new. In its APT Activity Report Q2 2025–Q3 2025, ESET said it observed UAC-0099 conducting initial access operations and subsequently transferring \"validated targets\" to Sandworm for further post-exploitation. These attacks targeted government, energy, logistics, and grain sectors in Ukraine, the Slovak cybersecurity company noted at the time. This sort of cooperation between Russia-aligned actors is also not new. Last year, ESET said it identified evidence that Gamaredon and Turla were working together to target and co-compromise Ukrainian entities, with one intrusion leveraging Gamaredon's PteroGraphin to deploy Turla's Kazuar backdoor. Furthermore, a Gamaredon-linked downloader called Pterodo has been used to retrieve and execute InvisiMole , a modular spyware program put to use against targets in Ukraine and Russia. \"This kind of cooperation underscores the potential for coordinated cyber espionage campaigns among Russia-aligned groups, likely intended to amplify their operational impact,\" ESET said. Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities. Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "article_text": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET , the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of the MATCHWOK backdoor through a downloader called MATCHBOIL. The activity ultimately culminated with the threat actor handing off access to Sandworm, which then conducted a data-wiping attack on September 17, 2025, more than two months after it obtained a foothold. What makes the attack stand out is UAC-0099's use of a previously undocumented backdoor called MythicRatatoskr that communicates with a command-and-control (C2) server hosted inside the Yggdrasil mesh network. The backdoor was deployed a day after MATCHWOK was executed. There are indications that development on the backdoor started sometime between December 2024 and February 2025. Its functionality is fairly straightforward in that it sends victim metadata to the C2 server, poll for new commands, transmit command output, take screenshots, and upload/download files. It can also alter the current working directory, enumerate directory contents, change the C2 server URL, execute a shell command via \"cmd.exe,\" and spawn a reverse SOCKS5 proxy. In addition, some artifacts include a 10-minute startup delay in a likely effort to avoid immediately connecting to the Yggdrasil network and evade detection. \"To our knowledge, this is the first documented case of Yggdrasil being abused in this way by a state-aligned threat actor, and it may signal a broader trend of adversaries adopting experimental peer-to-peer networks to increase the resilience and stealth of their infrastructure,\" ESET researchers Anton Cherepanov and Peter Strýček said. MythicRatatoskr is said to have been used to deploy a SOCKS5 server to route connections through the compromised network. The attack culminated with Sandworm carrying out a data-wiping attack by dropping the SDelete utility via Active Directory Group Policy. It's worth noting that the Sandworm-linked NikoWiper malware is also derived from SDelete. While the attack investigated by ESET compromised a Windows system, source code references to \"crond\" within MythicRatatoskr suggest there possibly exists an equivalent Linux version of the malware. The assessment that UAC-0099 is likely collaborating with Sandworm is not new. In its APT Activity Report Q2 2025–Q3 2025, ESET said it observed UAC-0099 conducting initial access operations and subsequently transferring \"validated targets\" to Sandworm for further post-exploitation. These attacks targeted government, energy, logistics, and grain sectors in Ukraine, the Slovak cybersecurity company noted at the time. ESET confirmed to The Hacker News that the MythicRatatoskr case was among those attacks. This sort of cooperation between Russia-aligned actors is also not new. Last year, ESET said it identified evidence that Gamaredon and Turla were working together to target and co-compromise Ukrainian entities, with one intrusion leveraging Gamaredon's PteroGraphin to deploy Turla's Kazuar backdoor. Furthermore, a Gamaredon-linked downloader called Pterodo has been used to retrieve and execute InvisiMole , a modular spyware program put to use against targets in Ukraine and Russia. \"This kind of cooperation underscores the potential for coordinated cyber espionage campaigns among Russia-aligned groups, likely intended to amplify their operational impact,\" ESET said. Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities. Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
     "quick_summary": [
       "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.",
       "Risk: vulnerability/exploitation risk",
@@ -3956,6 +4253,35 @@
     ]
   },
   {
+    "id": "aebae69da2db51d6",
+    "date": "2026-10-23T05:00:00+00:00",
+    "source": "CrowdStrike Blog",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Why Organizations Secure AI Agents with Falcon Guardian",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Why Organizations Secure AI Agents with Falcon Guardian",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+    "target": "Organizations Secure Agents Falcon",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "CrowdStrike Blog"
+    ],
+    "links": [
+      {
+        "source": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/"
+      }
+    ]
+  },
+  {
     "id": "f368e98aba2f1cd5",
     "date": "2026-10-23T04:47:50+00:00",
     "source": "Cyber Security News",
@@ -4204,7 +4530,7 @@
     "category": "",
     "title": "Railway warns devs to rotate secrets after potential breach",
     "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-    "article_text": "Cloud hosting provider Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. The company says its investigation indicates that, in some cases, an unauthorized third party may have obtained decrypted variables and urges all users to proactively rotate secrets and credentials. “Our investigation to date indicates that an unauthorized third party may have accessed encrypted environment variables and, for some of them, obtained the decrypted contents,” Railway says. “Environment variables may contain secrets such as API keys or database and registry credentials,” the company clarifies. Railway is a cloud platform for developers to deploy and run applications, APIs, databases, and various backend services. It has around 4.8 million users and hosts more than 16 million services. The service stores deployment-related configuration settings and credentials in environment variables, which the incident exposed. Railway says the incident was part of a series of attacks targeting AI inference providers, which were notified directly and advised to revoke all their keys as a precaution. AI inference providers are services that run AI models and return answers to Railway-hosted applications . Although initial analysis suggests only a subset of users may be affected, Railway urges all users to immediately rotate environment variables and secrets stored on the platform, including private registry credentials, and check associated service logs for unusual activity. Railway also said it has paused all deployments until the investigation completes, so users cannot roll out new versions during this time. According to the latest status page update , as of October 22 at 08:44 UTC, Railway had restored builds for Pro and Enterprise workspaces, but deployments remained delayed, with many queued. Builds had not yet resumed for Hobby, Free, and Trial workspaces, with restoration planned in that order. Railway said it will directly notify users whose accounts are confirmed to be compromised and provide further details. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Hundreds of leaked AWS keys give full control over corporate accounts Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected PHP warns admins of two critical flaws, emergency patches coming tomorrow Mozilla, Google, Apple block compromised eMudhra CA certificates Overdue a password health-check? Audit your Active Directory for free Who really has control of your AI agent? Gen is taking on the agent trust problem. CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Inside the Chinese-language marketplaces powering the scam centre economy: join a live training. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Cloud hosting provider Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. The company says its investigation indicates that, in some cases, an unauthorized third party may have obtained decrypted variables and urges all users to proactively rotate secrets and credentials. “Our investigation to date indicates that an unauthorized third party may have accessed encrypted environment variables and, for some of them, obtained the decrypted contents,” Railway says. “Environment variables may contain secrets such as API keys or database and registry credentials,” the company clarifies. Railway is a cloud platform for developers to deploy and run applications, APIs, databases, and various backend services. It has around 4.8 million users and hosts more than 16 million services. The service stores deployment-related configuration settings and credentials in environment variables, which the incident exposed. Railway says the incident was part of a series of attacks targeting AI inference providers, which were notified directly and advised to revoke all their keys as a precaution. AI inference providers are services that run AI models and return answers to Railway-hosted applications . Although initial analysis suggests only a subset of users may be affected, Railway urges all users to immediately rotate environment variables and secrets stored on the platform, including private registry credentials, and check associated service logs for unusual activity. Railway also said it has paused all deployments until the investigation completes, so users cannot roll out new versions during this time. According to the latest status page update , as of October 22 at 08:44 UTC, Railway had restored builds for Pro and Enterprise workspaces, but deployments remained delayed, with many queued. Builds had not yet resumed for Hobby, Free, and Trial workspaces, with restoration planned in that order. Railway said it will directly notify users whose accounts are confirmed to be compromised and provide further details. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Hundreds of leaked AWS keys give full control over corporate accounts Microsoft Teams to get AI-powered, context-aware phishing detection Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected PHP warns admins of two critical flaws, emergency patches coming tomorrow Mozilla, Google, Apple block compromised eMudhra CA certificates Overdue a password health-check? Audit your Active Directory for free Inside the Chinese-language marketplaces powering the scam centre economy: join a live training. Who really has control of your AI agent? Gen is taking on the agent trust problem. CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
@@ -7332,43 +7658,6 @@
     ]
   },
   {
-    "id": "dab6b234aeb380a2",
-    "date": "2026-10-21T16:30:34+00:00",
-    "source": "Palo Alto Unit 42",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
-    "summary": "Unit 42 is aware of possible 0-day activity against NetScaler devices. Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild. The post Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30) appeared first on Unit 42 .",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-    "target": "Threat Brief",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Palo Alto Unit 42"
-    ],
-    "links": [
-      {
-        "source": "Palo Alto Unit 42",
-        "url": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
-      },
-      {
-        "source": "Palo Alto Unit 42",
-        "url": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
-      },
-      {
-        "source": "Palo Alto Unit 42",
-        "url": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
-      }
-    ]
-  },
-  {
     "id": "cb7eb76e7ea8d33b",
     "date": "2026-10-21T16:26:53+00:00",
     "source": "BleepingComputer",
@@ -9468,6 +9757,35 @@
       {
         "source": "HackRead",
         "url": "https://hackread.com/live-video-moderation-content-safety-systems/"
+      }
+    ]
+  },
+  {
+    "id": "84963a95acc1ba70",
+    "date": "2026-10-20T20:30:42+00:00",
+    "source": "Palo Alto Unit 42",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)",
+    "summary": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20) appeared first on Unit 42 .",
+    "article_text": "",
+    "quick_summary": [
+      "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257.",
+      "Risk: ransomware/extortion, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+    "target": "Active Exploitation May 2026",
+    "type": "Ransomware",
+    "severity": "High",
+    "sources": [
+      "Palo Alto Unit 42"
+    ],
+    "links": [
+      {
+        "source": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
       }
     ]
   },
@@ -26603,329 +26921,6 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html"
-      }
-    ]
-  },
-  {
-    "id": "cc14f75c1beee44e",
-    "date": "2026-10-12T08:36:01+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Critical SonicWall Vulnerability Exploited Days After Disclosure",
-    "summary": "CVE-2026-102255 is a pre-authenticated SSRF flaw that could allow attackers to perform unauthorized operations. The post Critical SonicWall Vulnerability Exploited Days After Disclosure appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-102255 is a pre-authenticated SSRF flaw that could allow attackers to perform unauthorized operations.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
-    "target": "Critical SonicWall Vulnerability Exploited",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/"
-      }
-    ]
-  },
-  {
-    "id": "75a13af5b95ed19c",
-    "date": "2026-10-12T07:53:28+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch",
-    "summary": "Beginning February 2027, all newly issued certificates will have a 64-day validity period by default. The post Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Beginning February 2027, all newly issued certificates will have a 64-day validity period by default.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
-    "target": "Lets Encrypt Cuts Default",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/"
-      }
-    ]
-  },
-  {
-    "id": "ab982fa833145de6",
-    "date": "2026-10-12T07:26:12+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-    "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which brings together commodity offensive tools like Cobalt Strike with an AI orchestration layer powered by Anthropic's Claude Code, has been attributed",
-    "article_text": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which brings together commodity offensive tools like Cobalt Strike with an AI orchestration layer powered by Anthropic's Claude Code, has been attributed to a Russian-speaking, financially motivated initial access broker codenamed CyberXero . The threat actor is assessed to be active since at least July 2026. \"The operation runs two pipelines at once: a global, automated campaign against WordPress and e-commerce platforms, and a curated, manual campaign against Ukrainian energy and critical infrastructure,\" SOCRadar said in a report published last week. The global campaign specifically focuses on known security flaws like wp2shell (CVE-2026-63030 and CVE-2026-60137) and CVE-2026-4815 , an SQL injection vulnerability impacting the Support Board WordPress plugin, to seize control of WordPress sites. The campaign is estimated to have resulted in confirmed exfiltration from four Ukrainian organizations, leading to the harvesting of more than 628,000 records tied to Ukrainian individuals. Other confirmed compromises have occurred in Poland, China, and the Netherlands. SOCRadar said it discovered the operation after it identified an exposed open directory hosted at \"46.21.250[.]135\" that leaked the threat actor's live working directory associated with a Linux workstation, including AI session logs, scripts with plaintext tokens, exploitation toolkits, reconnaissance output, AI agent configurations, and exfiltrated victim data. The campaign remains ongoing. The opportunistic campaign aimed at WordPress and e-commerce platforms is designed for access and payment data, while the second campaign is a lot more targeted and geared towards deep reconnaissance and manual exploitation against Ukrainian energy and utilities, including a heating provider in Kharkiv. Analysis of the exposed directory shows that a single automated execution scanned 4,708 targets, confirming access to 429 WordPress administration panels, followed by the deployment of 32 web shells in a 61-second window. The attack architecture is based on a set of eight distinct nodes, including the threat actor's Linux workstation, a provisioning server, monetization infrastructure, payload staging servers, and a scanner that's responsible for identifying targets of interest. CyberXero is said to have deployed AI in two independent stages of the attack lifecycle - To get around model refusals, the threat actor has been observed using context-engineering and session-reset techniques, instructing the agent they were running an \"authorized pentest on my own infrastructure.\" \"Model safety controls act on the context of a session, not on the model weights, so a refusal in one session does not carry into the next,\" SOCRadar explained. \"When an agent refused a task, the actor reopened a fresh session, with the authorization framing preloaded and tried again.\" \"The logs also record genuine refusals that held: across four iterations the model declined to install a backdoor, disable a firewall, move laterally, and deploy a web shell, and in a separate episode it refused a scan four consecutive times and correctly rejected a forged ownership token.\" Beyond WordPress and e-commerce exploitation, the campaign involves the exploitation of exposed Redis servers, resulting in the breach of two Chinese entities. Organizations running WordPress, Magento, or PrestaShop, or exposing Redis to the internet, are advised to check for rogue WordPress administrators, WSO web shells, and unexpected entries in ~/.ssh/authorized_keys on Redis hosts. \"The opportunistic pipeline is global and automated, chasing access volume across e-commerce and WordPress with direct monetization through access sales or payment-data theft,\" SOCRadar said. \"The directed pipeline is selective and geographically concentrated, aiming for deep reconnaissance and manual exploitation at Ukrainian critical infrastructure, with no obvious direct-monetization explanation.\" The disclosure comes as SOCRadar also detailed an end-to-end cybercrime operation dubbed Operation Master that revolves around compromising enterprise networks, stealing customer and billing databases, offering a subset of the data for sale on underground forums, and repurposing the data for an automated, multi-tenant i",
-    "quick_summary": [
-      "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Uk",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-    "target": "CyberXero Uses Claude Code",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html"
-      }
-    ]
-  },
-  {
-    "id": "bfbb17f191a0dcc4",
-    "date": "2026-10-12T05:56:38.498874+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT Apple Patches Actively Exploited iOS 26 Zero-Day: The 26.7.1 Update Is No Longer Optional",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/news/apple-patches-actively-exploited-ios-26-zero-day-the-2671-update-is-no-longer-optional",
-    "target": "EXPLOIT Apple Patches Actively",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/apple-patches-actively-exploited-ios-26-zero-day-the-2671-update-is-no-longer-optional"
-      }
-    ]
-  },
-  {
-    "id": "b81bb61e3a60332c",
-    "date": "2026-10-12T05:56:38.498753+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY Pwn2Own Ireland 2026: The Collision Paradox on \"Fully Patched\" Devices",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/pwn2own-ireland-2026-the-collision-paradox-on-fully-patched-devices",
-    "target": "ZERO-DAY Pwn2Own Ireland 2026",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/pwn2own-ireland-2026-the-collision-paradox-on-fully-patched-devices"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/pwn2own-ireland-2026-32-zero-days-388500-on-day-one"
-      }
-    ]
-  },
-  {
-    "id": "ba4df75632376039",
-    "date": "2026-10-12T05:56:38.498617+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT Anthropic Cuts Internet Access for Claude After AI Agents Exploited Real Websites",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/ai/anthropic-cuts-internet-access-for-claude-after-ai-agents-exploited-real-websites",
-    "target": "EXPLOIT Anthropic Cuts Internet",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ai/anthropic-cuts-internet-access-for-claude-after-ai-agents-exploited-real-websites"
-      }
-    ]
-  },
-  {
-    "id": "a663e3644741dcc5",
-    "date": "2026-10-12T05:56:38.498453+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL CISA Adds Five Critical Vulnerabilities to KEV Catalog With Three-Day Federal Deadline",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cisa-adds-five-critical-vulnerabilities-to-kev-catalog-with-three-day-federal-deadline",
-    "target": "CRITICAL CISA Adds Five",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cisa-adds-five-critical-vulnerabilities-to-kev-catalog-with-three-day-federal-deadline"
-      }
-    ]
-  },
-  {
-    "id": "800cae194800ad8f",
-    "date": "2026-10-12T05:56:38.498057+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "1,280 Third-Party AI Agents, 1,000 Invisible to Security Systems ai",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/ai/1280-third-party-ai-agents-1000-invisible-to-security-systems",
-    "target": "1280 Third-Party Agents 1000",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/ai/1280-third-party-ai-agents-1000-invisible-to-security-systems"
-      }
-    ]
-  },
-  {
-    "id": "fecc308b1d91ba9c",
-    "date": "2026-10-12T05:56:38.497933+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "FakeGit Hits 17,610 GitHub Repos: Re-aiming Evades Takedowns malware",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/malware/fakegit-hits-17610-github-repos-re-aiming-evades-takedowns",
-    "target": "FakeGit Hits 17610 GitHub",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/malware/fakegit-hits-17610-github-repos-re-aiming-evades-takedowns"
-      }
-    ]
-  },
-  {
-    "id": "044035a625a6bdc4",
-    "date": "2026-10-12T05:56:38.497819+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Ransomware Negotiator Arrested: The Dubrovsky Case and the Blurred Line Between Defense and Collusion CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/ransomware-negotiator-arrested-the-dubrovsky-case-and-the-blurred-line-between-defense-and-collusion",
-    "target": "Ransomware Negotiator Arrested",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/ransomware-negotiator-arrested-the-dubrovsky-case-and-the-blurred-line-between-defense-and-collusion"
-      }
-    ]
-  },
-  {
-    "id": "75e1149bf98cfe21",
-    "date": "2026-10-12T05:56:38.497690+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "PCI SSC: AI Agents in Payments Must Have a Human 'Owner' news",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/news/pci-ssc-ai-agents-in-payments-must-have-a-human-owner",
-    "target": "PCI SSC",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/pci-ssc-ai-agents-in-payments-must-have-a-human-owner"
       }
     ]
   }
