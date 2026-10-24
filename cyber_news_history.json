@@ -1,65 +1,7 @@
 [
   {
-    "id": "c93d18ac519c7b8d",
-    "date": "2026-10-23T22:09:38.996284+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Node2Shell: From Compressed Format to RCE on Node.js, Demonstrated on Official Linux arm64 Build",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/node2shell-from-compressed-format-to-rce-on-nodejs-demonstrated-on-official-linux-arm64-build",
-    "target": "CRITICAL Node2Shell",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/node2shell-from-compressed-format-to-rce-on-nodejs-demonstrated-on-official-linux-arm64-build"
-      }
-    ]
-  },
-  {
-    "id": "e59c270397e04f83",
-    "date": "2026-10-23T22:09:38.996156+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE OpenSSL CMP Format String Bug CVE-2026-63073 Exposes PKI Clients to Crash",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/openssl-cmp-format-string-bug-cve-2026-63073-exposes-pki-clients-to-crash",
-    "target": "CVE OpenSSL CMP Format",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/openssl-cmp-format-string-bug-cve-2026-63073-exposes-pki-clients-to-crash"
-      }
-    ]
-  },
-  {
     "id": "f48a85d98e6aab34",
-    "date": "2026-10-23T22:09:38.996051+00:00",
+    "date": "2026-10-24T00:41:40.918645+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "0369a78c06a2d604",
-    "date": "2026-10-23T22:09:38.995942+00:00",
+    "date": "2026-10-24T00:41:40.918571+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +59,7 @@
   },
   {
     "id": "625c7105a1023379",
-    "date": "2026-10-23T22:09:38.995797+00:00",
+    "date": "2026-10-24T00:41:40.918493+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +88,7 @@
   },
   {
     "id": "fe880adc09baba00",
-    "date": "2026-10-23T22:09:38.995687+00:00",
+    "date": "2026-10-24T00:41:40.918417+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,42 +116,13 @@
     ]
   },
   {
-    "id": "b26c77d201ca7c86",
-    "date": "2026-10-23T22:09:38.995581+00:00",
+    "id": "1ed7c7a1b0cbc47a",
+    "date": "2026-10-24T00:41:40.918340+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "PEERSTITCH: Malware Turns FortiGate Firewalls Into Espionage Platforms CYBERSEC EXPLOIT",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/peerstitch-malware-turns-fortigate-firewalls-into-espionage-platforms",
-    "target": "PEERSTITCH",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/peerstitch-malware-turns-fortigate-firewalls-into-espionage-platforms"
-      }
-    ]
-  },
-  {
-    "id": "45789ab8977a597c",
-    "date": "2026-10-23T22:09:38.995459+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Palo Alto Networks: Active Exploit for CVE-2026-0322 in PAN-OS Management VULN EXPLOIT",
+    "title": "CRITICAL Pillow 13.0.0 Fixes RCE: The Filename, Not the File, Was the Threat",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -217,23 +130,52 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/palo-alto-networks-active-exploit-for-cve-2026-0322-in-pan-os-management",
-    "target": "Palo Alto Networks",
+    "link": "https://deafnews.it/en/news/python/pillow-1300-fixes-rce-the-filename-not-the-file-was-the-threat",
+    "target": "CRITICAL Pillow 13.0.0 Fixes",
     "type": "Vulnerability",
-    "severity": "Medium",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/palo-alto-networks-active-exploit-for-cve-2026-0322-in-pan-os-management"
+        "url": "https://deafnews.it/en/news/python/pillow-1300-fixes-rce-the-filename-not-the-file-was-the-threat"
+      }
+    ]
+  },
+  {
+    "id": "34ba13551691c859",
+    "date": "2026-10-24T00:41:40.918262+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT BeyondTrust: Chinese APT Armory Castle Exploited Zero-Day for 47 Days",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days",
+    "target": "EXPLOIT BeyondTrust",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days"
       }
     ]
   },
   {
     "id": "ef97cf6e7f77eba9",
-    "date": "2026-10-23T22:09:38.995332+00:00",
+    "date": "2026-10-24T00:41:40.918185+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +204,7 @@
   },
   {
     "id": "0a78b0c65bf18f4e",
-    "date": "2026-10-23T22:09:38.995203+00:00",
+    "date": "2026-10-24T00:41:40.918084+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +233,7 @@
   },
   {
     "id": "0cbfeef2fc0155be",
-    "date": "2026-10-23T22:09:38.995077+00:00",
+    "date": "2026-10-24T00:41:40.917997+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -339,8 +281,66 @@
     ]
   },
   {
+    "id": "53624f69f1c65b3c",
+    "date": "2026-10-24T00:41:40.917849+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Node2Shell: From Compressed Format to RCE on Node.js, Demonstrated on Official Linux arm64 Build VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/node2shell-from-compressed-format-to-rce-on-nodejs-demonstrated-on-official-linux-arm64-build",
+    "target": "Node2Shell",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/node2shell-from-compressed-format-to-rce-on-nodejs-demonstrated-on-official-linux-arm64-build"
+      }
+    ]
+  },
+  {
+    "id": "eb08f2b0a7f98b88",
+    "date": "2026-10-24T00:41:40.917751+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "OpenSSL CMP Format String Bug CVE-2026-63073 Exposes PKI Clients to Crash CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/openssl-cmp-format-string-bug-cve-2026-63073-exposes-pki-clients-to-crash",
+    "target": "OpenSSL CMP Format String",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/openssl-cmp-format-string-bug-cve-2026-63073-exposes-pki-clients-to-crash"
+      }
+    ]
+  },
+  {
     "id": "ca355f225bc28bc9",
-    "date": "2026-10-23T22:09:38.994274+00:00",
+    "date": "2026-10-24T00:41:40.917195+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -369,7 +369,7 @@
   },
   {
     "id": "927c730f85fd3ffa",
-    "date": "2026-10-23T22:09:38.994144+00:00",
+    "date": "2026-10-24T00:41:40.917105+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -402,7 +402,7 @@
   },
   {
     "id": "64e0613413fa9263",
-    "date": "2026-10-23T22:09:38.994030+00:00",
+    "date": "2026-10-24T00:41:40.917025+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -431,7 +431,7 @@
   },
   {
     "id": "2e9ad9f3483fd092",
-    "date": "2026-10-23T22:09:38.993911+00:00",
+    "date": "2026-10-24T00:41:40.916939+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -468,7 +468,7 @@
   },
   {
     "id": "3926c46ac13e2802",
-    "date": "2026-10-23T22:09:38.993776+00:00",
+    "date": "2026-10-24T00:41:40.916837+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -496,13 +496,71 @@
     ]
   },
   {
-    "id": "3ddb3eaee7aec34c",
-    "date": "2026-10-23T22:09:38.992709+00:00",
+    "id": "1ecf0823fbc03fd9",
+    "date": "2026-10-24T00:41:40.916760+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 ZERO-DAY · 6 CVE · 5 EXPLOIT IN THE LAST 24H →",
+    "title": "PEERSTITCH: Malware Turns FortiGate Firewalls Into Espionage Platforms",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/peerstitch-malware-turns-fortigate-firewalls-into-espionage-platforms",
+    "target": "PEERSTITCH",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/peerstitch-malware-turns-fortigate-firewalls-into-espionage-platforms"
+      }
+    ]
+  },
+  {
+    "id": "104c7f57f6827a18",
+    "date": "2026-10-24T00:41:40.916680+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Palo Alto Networks: Active Exploit for CVE-2026-0322 in PAN-OS Management",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/palo-alto-networks-active-exploit-for-cve-2026-0322-in-pan-os-management",
+    "target": "Palo Alto Networks",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/palo-alto-networks-active-exploit-for-cve-2026-0322-in-pan-os-management"
+      }
+    ]
+  },
+  {
+    "id": "3ddb3eaee7aec34c",
+    "date": "2026-10-24T00:41:40.916086+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 3 ZERO-DAY · 8 CVE · 7 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -526,7 +584,7 @@
   },
   {
     "id": "f84fc657055064d9",
-    "date": "2026-10-23T22:09:38.150398+00:00",
+    "date": "2026-10-24T00:41:40.149784+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -639,7 +697,7 @@
   },
   {
     "id": "a3f93c11bcdc5daa",
-    "date": "2026-10-23T22:09:37.233540+00:00",
+    "date": "2026-10-24T00:41:38.599007+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -668,7 +726,7 @@
   },
   {
     "id": "96b97c390c9853ae",
-    "date": "2026-10-23T22:09:37.233368+00:00",
+    "date": "2026-10-24T00:41:38.598877+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -697,7 +755,7 @@
   },
   {
     "id": "c5fbbb81e2b7d891",
-    "date": "2026-10-23T22:09:37.233216+00:00",
+    "date": "2026-10-24T00:41:38.598772+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -726,7 +784,7 @@
   },
   {
     "id": "2be7161024735444",
-    "date": "2026-10-23T22:09:37.233058+00:00",
+    "date": "2026-10-24T00:41:38.598670+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -755,7 +813,7 @@
   },
   {
     "id": "49cc3a46da24526b",
-    "date": "2026-10-23T22:09:37.232781+00:00",
+    "date": "2026-10-24T00:41:38.598527+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -784,7 +842,7 @@
   },
   {
     "id": "3bb0c52472b519ff",
-    "date": "2026-10-23T22:09:37.232634+00:00",
+    "date": "2026-10-24T00:41:38.598425+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -813,7 +871,7 @@
   },
   {
     "id": "ac4a7e198336e718",
-    "date": "2026-10-23T22:09:37.232480+00:00",
+    "date": "2026-10-24T00:41:38.598319+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -842,7 +900,7 @@
   },
   {
     "id": "b9d2fb18f6a3a6a4",
-    "date": "2026-10-23T22:09:37.232288+00:00",
+    "date": "2026-10-24T00:41:38.598193+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -871,7 +929,7 @@
   },
   {
     "id": "96002c1db752c564",
-    "date": "2026-10-23T22:09:37.232059+00:00",
+    "date": "2026-10-24T00:41:38.598029+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -900,7 +958,7 @@
   },
   {
     "id": "7777349600424aeb",
-    "date": "2026-10-23T22:09:37.231761+00:00",
+    "date": "2026-10-24T00:41:38.597821+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -929,7 +987,7 @@
   },
   {
     "id": "1ec684b3004eb830",
-    "date": "2026-10-23T22:09:37.231591+00:00",
+    "date": "2026-10-24T00:41:38.597703+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -958,7 +1016,7 @@
   },
   {
     "id": "9e2a5b667cf55a3b",
-    "date": "2026-10-23T22:09:37.231326+00:00",
+    "date": "2026-10-24T00:41:38.597510+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -987,7 +1045,7 @@
   },
   {
     "id": "8150c6838a4b62d2",
-    "date": "2026-10-23T22:09:37.231153+00:00",
+    "date": "2026-10-24T00:41:38.597393+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1016,7 +1074,7 @@
   },
   {
     "id": "175c7ea5dc65956a",
-    "date": "2026-10-23T22:09:37.230972+00:00",
+    "date": "2026-10-24T00:41:38.597251+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1045,7 +1103,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-10-23T22:09:37.230698+00:00",
+    "date": "2026-10-24T00:41:38.597071+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1074,7 +1132,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-10-23T22:09:37.229977+00:00",
+    "date": "2026-10-24T00:41:38.596515+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1103,7 +1161,7 @@
   },
   {
     "id": "6c3a24d67c263323",
-    "date": "2026-10-23T22:09:37.079604+00:00",
+    "date": "2026-10-24T00:41:38.358273+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1132,7 +1190,7 @@
   },
   {
     "id": "c421cf985ddb5198",
-    "date": "2026-10-23T22:09:37.079485+00:00",
+    "date": "2026-10-24T00:41:38.358194+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1161,7 +1219,7 @@
   },
   {
     "id": "aa04f146acedfebd",
-    "date": "2026-10-23T22:09:37.079366+00:00",
+    "date": "2026-10-24T00:41:38.358116+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1190,7 +1248,7 @@
   },
   {
     "id": "eaff1a05324436a3",
-    "date": "2026-10-23T22:09:37.079244+00:00",
+    "date": "2026-10-24T00:41:38.358035+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1219,7 +1277,7 @@
   },
   {
     "id": "573e3163334040b0",
-    "date": "2026-10-23T22:09:37.079079+00:00",
+    "date": "2026-10-24T00:41:38.357933+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1248,7 +1306,7 @@
   },
   {
     "id": "31dee03c6275a231",
-    "date": "2026-10-23T22:09:37.078931+00:00",
+    "date": "2026-10-24T00:41:38.357822+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1277,7 +1335,7 @@
   },
   {
     "id": "158899b0662fa0ff",
-    "date": "2026-10-23T22:09:37.078781+00:00",
+    "date": "2026-10-24T00:41:38.357740+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1306,7 +1364,7 @@
   },
   {
     "id": "43ef41892c537351",
-    "date": "2026-10-23T22:09:37.078661+00:00",
+    "date": "2026-10-24T00:41:38.357661+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1335,7 +1393,7 @@
   },
   {
     "id": "9e84d93d648f8f86",
-    "date": "2026-10-23T22:09:37.078518+00:00",
+    "date": "2026-10-24T00:41:38.357566+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1364,7 +1422,7 @@
   },
   {
     "id": "faf98c079ba5d018",
-    "date": "2026-10-23T22:09:37.078381+00:00",
+    "date": "2026-10-24T00:41:38.357473+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1393,7 +1451,7 @@
   },
   {
     "id": "c0ae732a1bba7f64",
-    "date": "2026-10-23T22:09:37.078263+00:00",
+    "date": "2026-10-24T00:41:38.357396+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1422,7 +1480,7 @@
   },
   {
     "id": "0b5ba548043e99d9",
-    "date": "2026-10-23T22:09:37.078115+00:00",
+    "date": "2026-10-24T00:41:38.357297+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1451,7 +1509,7 @@
   },
   {
     "id": "0f59a9cd4bdfb493",
-    "date": "2026-10-23T22:09:37.077978+00:00",
+    "date": "2026-10-24T00:41:38.357206+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1480,7 +1538,7 @@
   },
   {
     "id": "97065e27c22d7d08",
-    "date": "2026-10-23T22:09:37.077860+00:00",
+    "date": "2026-10-24T00:41:38.357133+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1509,7 +1567,7 @@
   },
   {
     "id": "997ecc9994f2019c",
-    "date": "2026-10-23T22:09:37.077717+00:00",
+    "date": "2026-10-24T00:41:38.357054+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1542,7 +1600,7 @@
   },
   {
     "id": "cc7e1c96307a4f14",
-    "date": "2026-10-23T22:09:37.077587+00:00",
+    "date": "2026-10-24T00:41:38.356970+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1571,7 +1629,7 @@
   },
   {
     "id": "c6ca06de0dd273d5",
-    "date": "2026-10-23T22:09:37.077452+00:00",
+    "date": "2026-10-24T00:41:38.356868+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1600,7 +1658,7 @@
   },
   {
     "id": "f6ee8980c048183f",
-    "date": "2026-10-23T22:09:37.077319+00:00",
+    "date": "2026-10-24T00:41:38.356778+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1629,7 +1687,7 @@
   },
   {
     "id": "385e6ceeca25dba0",
-    "date": "2026-10-23T22:09:37.077187+00:00",
+    "date": "2026-10-24T00:41:38.356687+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1658,7 +1716,7 @@
   },
   {
     "id": "9006c68a624ee1ec",
-    "date": "2026-10-23T22:09:37.077063+00:00",
+    "date": "2026-10-24T00:41:38.356603+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1687,7 +1745,7 @@
   },
   {
     "id": "53b7b7c3e5a03118",
-    "date": "2026-10-23T22:09:37.076926+00:00",
+    "date": "2026-10-24T00:41:38.356514+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1716,7 +1774,7 @@
   },
   {
     "id": "70d902b5d6547e36",
-    "date": "2026-10-23T22:09:37.076744+00:00",
+    "date": "2026-10-24T00:41:38.356413+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1745,7 +1803,7 @@
   },
   {
     "id": "07498abdff68378d",
-    "date": "2026-10-23T22:09:37.076594+00:00",
+    "date": "2026-10-24T00:41:38.356306+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1774,7 +1832,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-10-23T22:09:37.076447+00:00",
+    "date": "2026-10-24T00:41:38.356203+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1819,7 +1877,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-10-23T22:09:37.076240+00:00",
+    "date": "2026-10-24T00:41:38.356032+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -3102,35 +3160,6 @@
     ]
   },
   {
-    "id": "076f4d9bffc26621",
-    "date": "2026-10-23T13:25:39.095238+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT PEERSTITCH: Malware Turns FortiGate Firewalls Into Espionage Platforms",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/peerstitch-malware-turns-fortigate-firewalls-into-espionage-platforms",
-    "target": "EXPLOIT PEERSTITCH",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/peerstitch-malware-turns-fortigate-firewalls-into-espionage-platforms"
-      }
-    ]
-  },
-  {
     "id": "8c1cc66a23f76a85",
     "date": "2026-10-23T13:25:39.094513+00:00",
     "source": "DeafNews",
@@ -4278,6 +4307,35 @@
       {
         "source": "CrowdStrike Blog",
         "url": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/"
+      }
+    ]
+  },
+  {
+    "id": "cc20249f20595f44",
+    "date": "2026-10-23T05:00:00+00:00",
+    "source": "CrowdStrike Blog",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+    "target": "Obstacles Weaponizing PHP2Shell Likely",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "CrowdStrike Blog"
+    ],
+    "links": [
+      {
+        "source": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/"
       }
     ]
   },
@@ -26863,64 +26921,6 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/"
-      }
-    ]
-  },
-  {
-    "id": "5bb0635b27ca7fc9",
-    "date": "2026-10-12T10:11:51+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Dark Web Empire Market Co-Creator Raheim Hamilton Gets 40 Years in Prison",
-    "summary": "Raheim Hamilton, co-creator of the dark web marketplace Empire Market, was sentenced to 40 years for a platform…",
-    "article_text": "",
-    "quick_summary": [
-      "Raheim Hamilton, co-creator of the dark web marketplace Empire Market, was sentenced to 40 years for a platform…",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/dark-web-empire-market-creator-raheim-hamilton-prison/",
-    "target": "Dark Web Empire Market",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/dark-web-empire-market-creator-raheim-hamilton-prison/"
-      }
-    ]
-  },
-  {
-    "id": "967d32e027ce73df",
-    "date": "2026-10-12T09:02:14+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-    "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload and execute arbitrary PHP code on vulnerable WordPress websites, resulting in remote code execution (RCE). The",
-    "article_text": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload and execute arbitrary PHP code on vulnerable WordPress websites, resulting in remote code execution (RCE). The security flaw impacts Bricksforge versions up to and including 3.1.8.9. Patches have been released in version 3.1.8.10. Bricksforge is a WordPress plugin that's advertised as a \"Swiss Army knife\" for Bricks, a visual website-building tool for WordPress, with support for animations, advanced forms, and scrolling video sequences. WordPress security company Patchstack said it detected exploitation efforts targeting the flaw on October 7, 2026, at 9:47 p.m. UTC. \"Bricksforge validates a file's MIME type when it is first uploaded. When a form is later submitted, however, it trusts the file metadata the client sends,\" Patchstack said . \"In particular, it does not validate the 'url' field inside the 'temporaryFileUploads' parameter.\" At a high level, the vulnerability stems from insufficient validation of a URL field in the 'temporaryFileUploads' parameter during form submission. An attacker could exploit this loophole to achieve RCE through four steps - \"An unauthenticated attacker can first obtain a valid nonce via the bricksforge_regenerate_nonce AJAX endpoint, then upload a GIF/PHP polyglot file to the temporary upload directory where MIME type validation is correctly performed,\" Wordfence said in an advisory for the flaw. \"Subsequently, the attacker can submit a form with a crafted 'temporaryFileUploads' parameter where the server-side file path points to the validated GIF file, but the attacker-controlled url field ends with a .php extension.\" Successful exploitation of the flaw could result in arbitrary PHP execution on the server, which an attacker can leverage to seize control of the WordPress site, deploy web shells, read sensitive data, and establish persistent access. In the attacks observed by Patchstack, threat actors have been observed targeting the Bricksforge REST API form submission endpoint (\"/wp-json/bricksforge/v1/form_submit\") or the \"/wp-admin/admin-ajax.php\" endpoint with \"bricksforge_form_submit\" action along with a crafted \"temporaryFileUploads\" parameter. { \"temporaryFileUploads\": [ { \"field\": \"form-field-file\", \"file\": { \"file\": \"/var/www/example.com/wp-content/uploads/bricksforge/tmp/img_example.gif\", \"url\": \"https://example.com/wp-content/uploads/bricksforge/tmp/img_example.php\", \"type\": \"image/gif\" } } ] } As specified by Wordfence, threat actors are exploiting a mismatch where the specified \"file\" argument is a GIF (or a PNG) file, while the actual URL points to a PHP payload. To get around extension filtering, the exploitation activity makes use of alternate PHP extensions (e.g., .php5, .php7, or .phtml), case manipulation (e.g., .PHP, .Php, or .pHp), and encoded extensions (e.g., .%70hp, %2ephp, or .%2570%2568%2570). \"Two clusters stand out in our telemetry. In the first, 44 IPs sent 56 requests with identical payloads within seconds of each other,\" Patchstack said. \"In the second, three IPs tested 25 variations of PHP extensions and encodings against the same temporary file.\" \"Both patterns point to automated exploitation over rotating proxies or distributed infrastructure. They do not, on their own, attribute the activity to a single threat actor.\" The activity has been recorded from 63 unique source IPs, with six of them accounting for roughly 46% of all requests - Users are advised to update to the latest version of the plugin (4.0.1) to mitigate the threat. Site owners are recommended to audit incoming requests to the \"/wp-json/bricksforge/v1/form_submit\" endpoint that contain a \"temporaryFileUploads\" parameter, as well as repeated form submissions and unexpected PHP files in \"/wp-content/uploads/bricksforge/tmp/.\" The disclosure comes as threat actors are also abusing cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, WPC Product Bundles for WooCommerce ( CVE-2026-93836 , CVSS score: 7.1) and Ninja Forms ( CVE-2026-94504 , CVSS score: 7.1), to deliver a JavaScript payload (\"x.js\") capable of deploying a backdoor plugin and creating rogue admin accounts. The plugin features an unauthenticated file manager accessible through a direct request to the plugin's main PHP file. It a",
-    "quick_summary": [
-      "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-    "target": "Attackers Exploit CVSS 10.0",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html"
       }
     ]
   }
