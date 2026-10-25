@@ -1,65 +1,7 @@
 [
   {
-    "id": "0369a78c06a2d604",
-    "date": "2026-10-25T11:26:56.223935+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Snort 3 Bug: When the VBA Inspection Engine Becomes an Attack Vector",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/snort-3-bug-when-the-vba-inspection-engine-becomes-an-attack-vector",
-    "target": "CRITICAL Snort",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/snort-3-bug-when-the-vba-inspection-engine-becomes-an-attack-vector"
-      }
-    ]
-  },
-  {
-    "id": "625c7105a1023379",
-    "date": "2026-10-25T11:26:56.223765+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL NVIDIA Megatron Bridge: User-Interaction RCE in Model Config YAML Parsing",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/nvidia/nvidia-megatron-bridge-user-interaction-rce-in-model-config-yaml-parsing",
-    "target": "CRITICAL NVIDIA Megatron Bridge",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/nvidia/nvidia-megatron-bridge-user-interaction-rce-in-model-config-yaml-parsing"
-      }
-    ]
-  },
-  {
     "id": "fe880adc09baba00",
-    "date": "2026-10-25T11:26:56.223656+00:00",
+    "date": "2026-10-25T16:17:29.423155+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "1ed7c7a1b0cbc47a",
-    "date": "2026-10-25T11:26:56.223544+00:00",
+    "date": "2026-10-25T16:17:29.423082+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +59,7 @@
   },
   {
     "id": "34ba13551691c859",
-    "date": "2026-10-25T11:26:56.223433+00:00",
+    "date": "2026-10-25T16:17:29.423005+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +88,7 @@
   },
   {
     "id": "20dd5ac655e9360d",
-    "date": "2026-10-25T11:26:56.223311+00:00",
+    "date": "2026-10-25T16:17:29.422924+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,8 +116,37 @@
     ]
   },
   {
+    "id": "03b9b2ac13f23483",
+    "date": "2026-10-25T16:17:29.422846+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE CVE-2026-105312: Red Hat Kafka Console Bug Exposes Control Plane to Untrusted Tenants",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-105312-red-hat-kafka-console-bug-exposes-control-plane-to-untrusted-tenants",
+    "target": "CVE CVE-2026-105312",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-105312-red-hat-kafka-console-bug-exposes-control-plane-to-untrusted-tenants"
+      }
+    ]
+  },
+  {
     "id": "53624f69f1c65b3c",
-    "date": "2026-10-25T11:26:56.223149+00:00",
+    "date": "2026-10-25T16:17:29.422752+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -204,7 +175,7 @@
   },
   {
     "id": "eb08f2b0a7f98b88",
-    "date": "2026-10-25T11:26:56.223015+00:00",
+    "date": "2026-10-25T16:17:29.422655+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "31822fe10db42dd8",
-    "date": "2026-10-25T11:26:56.222898+00:00",
+    "date": "2026-10-25T16:17:29.422581+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +233,7 @@
   },
   {
     "id": "2ac7a012404456d9",
-    "date": "2026-10-25T11:26:56.222764+00:00",
+    "date": "2026-10-25T16:17:29.422505+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +262,7 @@
   },
   {
     "id": "8c69792995485be5",
-    "date": "2026-10-25T11:26:56.222641+00:00",
+    "date": "2026-10-25T16:17:29.422422+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -319,8 +290,37 @@
     ]
   },
   {
+    "id": "90b9c5c2f2c9428a",
+    "date": "2026-10-25T16:17:29.422246+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Pillow 13.0.0 Fixes RCE: The Filename, Not the File, Was the Threat python CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/python/pillow-1300-fixes-rce-the-filename-not-the-file-was-the-threat",
+    "target": "Pillow 13.0.0 Fixes RCE",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/python/pillow-1300-fixes-rce-the-filename-not-the-file-was-the-threat"
+      }
+    ]
+  },
+  {
     "id": "ca355f225bc28bc9",
-    "date": "2026-10-25T11:26:56.221796+00:00",
+    "date": "2026-10-25T16:17:29.421758+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -349,7 +349,7 @@
   },
   {
     "id": "927c730f85fd3ffa",
-    "date": "2026-10-25T11:26:56.221660+00:00",
+    "date": "2026-10-25T16:17:29.421668+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -382,7 +382,7 @@
   },
   {
     "id": "64e0613413fa9263",
-    "date": "2026-10-25T11:26:56.221543+00:00",
+    "date": "2026-10-25T16:17:29.421590+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -411,7 +411,7 @@
   },
   {
     "id": "2e9ad9f3483fd092",
-    "date": "2026-10-25T11:26:56.221421+00:00",
+    "date": "2026-10-25T16:17:29.421508+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -448,7 +448,7 @@
   },
   {
     "id": "3926c46ac13e2802",
-    "date": "2026-10-25T11:26:56.221304+00:00",
+    "date": "2026-10-25T16:17:29.421431+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -477,7 +477,7 @@
   },
   {
     "id": "1ecf0823fbc03fd9",
-    "date": "2026-10-25T11:26:56.221190+00:00",
+    "date": "2026-10-25T16:17:29.421353+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -506,7 +506,7 @@
   },
   {
     "id": "104c7f57f6827a18",
-    "date": "2026-10-25T11:26:56.221073+00:00",
+    "date": "2026-10-25T16:17:29.421264+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -535,7 +535,7 @@
   },
   {
     "id": "e046224808ff604c",
-    "date": "2026-10-25T11:26:56.220609+00:00",
+    "date": "2026-10-25T16:17:29.421101+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -563,24 +563,24 @@
     ]
   },
   {
-    "id": "6365669ec8bf9f49",
-    "date": "2026-10-25T11:26:56.220280+00:00",
+    "id": "07750838b8eacca0",
+    "date": "2026-10-25T16:17:29.420909+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "The AI Criminals' OPSEC Blunder: How Persistent Memory Turned Scalable Attacks Into Forensic Evidence",
+    "title": "ransomware The AI Criminals' OPSEC Blunder: How Persistent Memory Turned Scalable Attacks Into Forensic Evidence Oct 25, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Risk: ransomware/extortion",
+      "Action: monitor indicators, backups, remote access, and related vendor exposure."
     ],
     "link": "https://deafnews.it/en/news/ransomware/the-ai-criminals-opsec-blunder-how-persistent-memory-turned-scalable-attacks-into-forensic-evidence",
     "target": "Criminals OPSEC Blunder",
-    "type": "General Cybersecurity",
-    "severity": "Low",
+    "type": "Ransomware",
+    "severity": "High",
     "sources": [
       "DeafNews"
     ],
@@ -593,12 +593,12 @@
   },
   {
     "id": "e098c5f1be2af621",
-    "date": "2026-10-25T11:26:56.220055+00:00",
+    "date": "2026-10-25T16:17:29.420662+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 CVE · 1 EXPLOIT IN THE LAST 24H →",
+    "title": "// 3 CVE · 1 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -622,7 +622,7 @@
   },
   {
     "id": "f84fc657055064d9",
-    "date": "2026-10-25T11:26:55.430919+00:00",
+    "date": "2026-10-25T16:17:28.729091+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -735,7 +735,7 @@
   },
   {
     "id": "96b97c390c9853ae",
-    "date": "2026-10-25T11:26:55.147060+00:00",
+    "date": "2026-10-25T16:17:27.178201+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -764,7 +764,7 @@
   },
   {
     "id": "c5fbbb81e2b7d891",
-    "date": "2026-10-25T11:26:55.146910+00:00",
+    "date": "2026-10-25T16:17:27.178096+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -793,7 +793,7 @@
   },
   {
     "id": "2be7161024735444",
-    "date": "2026-10-25T11:26:55.146740+00:00",
+    "date": "2026-10-25T16:17:27.177992+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -822,7 +822,7 @@
   },
   {
     "id": "49cc3a46da24526b",
-    "date": "2026-10-25T11:26:55.146537+00:00",
+    "date": "2026-10-25T16:17:27.177852+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -851,7 +851,7 @@
   },
   {
     "id": "3bb0c52472b519ff",
-    "date": "2026-10-25T11:26:55.146389+00:00",
+    "date": "2026-10-25T16:17:27.177751+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -880,7 +880,7 @@
   },
   {
     "id": "ac4a7e198336e718",
-    "date": "2026-10-25T11:26:55.146236+00:00",
+    "date": "2026-10-25T16:17:27.177645+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -909,7 +909,7 @@
   },
   {
     "id": "b9d2fb18f6a3a6a4",
-    "date": "2026-10-25T11:26:55.146057+00:00",
+    "date": "2026-10-25T16:17:27.177520+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -938,7 +938,7 @@
   },
   {
     "id": "96002c1db752c564",
-    "date": "2026-10-25T11:26:55.145793+00:00",
+    "date": "2026-10-25T16:17:27.177356+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -967,7 +967,7 @@
   },
   {
     "id": "7777349600424aeb",
-    "date": "2026-10-25T11:26:55.145527+00:00",
+    "date": "2026-10-25T16:17:27.177148+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -996,7 +996,7 @@
   },
   {
     "id": "1ec684b3004eb830",
-    "date": "2026-10-25T11:26:55.145364+00:00",
+    "date": "2026-10-25T16:17:27.177029+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1025,7 +1025,7 @@
   },
   {
     "id": "9e2a5b667cf55a3b",
-    "date": "2026-10-25T11:26:55.145107+00:00",
+    "date": "2026-10-25T16:17:27.176837+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1054,7 +1054,7 @@
   },
   {
     "id": "8150c6838a4b62d2",
-    "date": "2026-10-25T11:26:55.144944+00:00",
+    "date": "2026-10-25T16:17:27.176723+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1083,7 +1083,7 @@
   },
   {
     "id": "175c7ea5dc65956a",
-    "date": "2026-10-25T11:26:55.144731+00:00",
+    "date": "2026-10-25T16:17:27.176599+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1112,7 +1112,7 @@
   },
   {
     "id": "949b268ae5d09bd3",
-    "date": "2026-10-25T11:26:55.144572+00:00",
+    "date": "2026-10-25T16:17:27.176490+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1141,7 +1141,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-10-25T11:26:55.144306+00:00",
+    "date": "2026-10-25T16:17:27.176288+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1170,7 +1170,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-10-25T11:26:55.143510+00:00",
+    "date": "2026-10-25T16:17:27.175742+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1199,7 +1199,7 @@
   },
   {
     "id": "eaff1a05324436a3",
-    "date": "2026-10-25T11:26:54.991736+00:00",
+    "date": "2026-10-25T16:17:26.946445+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1228,7 +1228,7 @@
   },
   {
     "id": "573e3163334040b0",
-    "date": "2026-10-25T11:26:54.991591+00:00",
+    "date": "2026-10-25T16:17:26.946342+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1257,7 +1257,7 @@
   },
   {
     "id": "31dee03c6275a231",
-    "date": "2026-10-25T11:26:54.991433+00:00",
+    "date": "2026-10-25T16:17:26.946223+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1286,7 +1286,7 @@
   },
   {
     "id": "158899b0662fa0ff",
-    "date": "2026-10-25T11:26:54.991286+00:00",
+    "date": "2026-10-25T16:17:26.946142+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1315,7 +1315,7 @@
   },
   {
     "id": "43ef41892c537351",
-    "date": "2026-10-25T11:26:54.991169+00:00",
+    "date": "2026-10-25T16:17:26.946066+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1344,7 +1344,7 @@
   },
   {
     "id": "9e84d93d648f8f86",
-    "date": "2026-10-25T11:26:54.991027+00:00",
+    "date": "2026-10-25T16:17:26.945971+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1373,7 +1373,7 @@
   },
   {
     "id": "faf98c079ba5d018",
-    "date": "2026-10-25T11:26:54.990885+00:00",
+    "date": "2026-10-25T16:17:26.945882+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1402,7 +1402,7 @@
   },
   {
     "id": "c0ae732a1bba7f64",
-    "date": "2026-10-25T11:26:54.990742+00:00",
+    "date": "2026-10-25T16:17:26.945806+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1431,7 +1431,7 @@
   },
   {
     "id": "0b5ba548043e99d9",
-    "date": "2026-10-25T11:26:54.990593+00:00",
+    "date": "2026-10-25T16:17:26.945708+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1460,7 +1460,7 @@
   },
   {
     "id": "0f59a9cd4bdfb493",
-    "date": "2026-10-25T11:26:54.990456+00:00",
+    "date": "2026-10-25T16:17:26.945619+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1489,7 +1489,7 @@
   },
   {
     "id": "97065e27c22d7d08",
-    "date": "2026-10-25T11:26:54.990341+00:00",
+    "date": "2026-10-25T16:17:26.945548+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1518,7 +1518,7 @@
   },
   {
     "id": "997ecc9994f2019c",
-    "date": "2026-10-25T11:26:54.990216+00:00",
+    "date": "2026-10-25T16:17:26.945469+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1551,7 +1551,7 @@
   },
   {
     "id": "cc7e1c96307a4f14",
-    "date": "2026-10-25T11:26:54.990087+00:00",
+    "date": "2026-10-25T16:17:26.945388+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1580,7 +1580,7 @@
   },
   {
     "id": "c6ca06de0dd273d5",
-    "date": "2026-10-25T11:26:54.989951+00:00",
+    "date": "2026-10-25T16:17:26.945289+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1609,7 +1609,7 @@
   },
   {
     "id": "f6ee8980c048183f",
-    "date": "2026-10-25T11:26:54.989791+00:00",
+    "date": "2026-10-25T16:17:26.945202+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1638,7 +1638,7 @@
   },
   {
     "id": "385e6ceeca25dba0",
-    "date": "2026-10-25T11:26:54.989660+00:00",
+    "date": "2026-10-25T16:17:26.945118+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1667,7 +1667,7 @@
   },
   {
     "id": "9006c68a624ee1ec",
-    "date": "2026-10-25T11:26:54.989537+00:00",
+    "date": "2026-10-25T16:17:26.945041+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1696,7 +1696,7 @@
   },
   {
     "id": "53b7b7c3e5a03118",
-    "date": "2026-10-25T11:26:54.989407+00:00",
+    "date": "2026-10-25T16:17:26.944959+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1725,7 +1725,7 @@
   },
   {
     "id": "70d902b5d6547e36",
-    "date": "2026-10-25T11:26:54.989267+00:00",
+    "date": "2026-10-25T16:17:26.944869+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1754,7 +1754,7 @@
   },
   {
     "id": "07498abdff68378d",
-    "date": "2026-10-25T11:26:54.989128+00:00",
+    "date": "2026-10-25T16:17:26.944777+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1783,7 +1783,7 @@
   },
   {
     "id": "fef555a98492c68e",
-    "date": "2026-10-25T11:26:54.988993+00:00",
+    "date": "2026-10-25T16:17:26.944691+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1812,7 +1812,7 @@
   },
   {
     "id": "12a2bf7560527ad6",
-    "date": "2026-10-25T11:26:54.988852+00:00",
+    "date": "2026-10-25T16:17:26.944604+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1841,7 +1841,7 @@
   },
   {
     "id": "6f3809223d5502a9",
-    "date": "2026-10-25T11:26:54.988689+00:00",
+    "date": "2026-10-25T16:17:26.944510+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1870,7 +1870,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-10-25T11:26:54.988542+00:00",
+    "date": "2026-10-25T16:17:26.944408+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1915,7 +1915,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-10-25T11:26:54.988327+00:00",
+    "date": "2026-10-25T16:17:26.944233+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1943,6 +1943,122 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "466a467540c34783",
+    "date": "2026-10-25T15:49:38+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+    "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+    "article_text": "Researchers found a malicious AGENTS markdown instruction file in a customer’s Downloads folder that tricked an AI coding agent into installing a rogue npm package. They reproduced the attack against OpenAI Codex and demonstrated a related technique against Claude Code to leak OAuth tokens and hijack the account using only the malicious instructions. Markdown files such as AGENTS.md are plain-text files that contain project-specific instructions for AI coding agents, such as the tools to use, how to run tests, and the coding conventions to follow. Researchers at Forever Security, a company that monitors for risks introduced by AI agents and autonomous software, discovered the tactic on a customer’s computer, where a coding agent attempted to install the malicious npm package ‘ function-color .’ The investigation traced the AI agent’s attempt to install a malicious npm package to an AGENTS.md file in the customer’s ~/Downloads folder, which also served as the agent’s working directory. Agents automatically load applicable files from their working directory and use the contained instructions to guide their actions. While these files aren’t executables, malicious instructions contained in them can lead to AI agents running commands, installing packages, or changing settings using the tools and permissions available to it. \"There is nothing here for OpenAI or Anthropic to patch. An agent that follows the AGENTS.md in its folder is doing exactly what it was built to do,\" the researchers say . The researchers' test confirmed that an attacker could use such a file to manipulate OpenAI Codex and Claude Code into executing code or stealing credentials. Although the researchers could not determine how the malicious instructions file landed into the target's ~/Downloads location, they explained to BleepingComputer that simply visiting a malicious page could drop a payload without any user interaction. In a report this week, Forever Security says that \"~/Downloads is special. It is the one folder the web can write to on its own,\" and that \"a web page can download a file named AGENTS.md into your Downloads folder, silently.\" The researchers created a proof-of-concept (PoC) to demonstrate how the attack could land a malicious file into the ~/Downloads location without the user noticing. When BleepingComputer verified the PoC page , it downloaded an AGENTS.md file containing harmless content, namely the strings \"sensitive data here\" and \"line 2.\" By default, many popular browsers, including Chrome, Edge, and Firefox, save files downloaded from the web to the user's ~/Downloads directory without prompting them to choose a save location for each download. BleepingComputer’s tests in other browsers, such as Brave, prompted the user to approve the download, which should be enough to alert the user that a file was downloaded. However, Chrome, Edge, and Firefox display download notifications by default, alerting users when a file has been saved locally. After dropping the file into Downloads, the attack would require the target to launch their AI agent in that same directory so it could load the instruction file and digest its malicious instructions. Forever researcher Gal Weizman told BleepingComputer that this is common practice, as people often use AI agents to organize that folder or to act on a newly downloaded file. Weizman says that internal statistics show that hundreds of customers run AI agents, including Claude Code, OpenAI Codex, and Cursor CLI, from their ~/Downloads folders. Claude Code alone launched more than 1,300 sessions from that location, the researcher told BleepingComputer. The researchers tested their reconstructed attack chain against Codex using a harmless payload that simply opened the calculator app, recording a 90% success rate. In a separate test, they used a malicious CLAUDE.md file to redirect Claude Code’s API traffic to a server they controlled. This exposed the agent’s OAuth token, allowing the server to impersonate the model and return tool calls that executed code in roughly 50% of tests. The researchers say that the risk is a combination of intended browser and agent behavior, which puts the precaution and defense responsibility directly on the user. Users should avoid setting ~/Downloads as an AI coding agent's working directory because the location may contain untrusted files that the agent could interpret as instructions. OpenAI and Anthropic recommend running their AI coding agents from the proje",
+    "quick_summary": [
+      "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package.",
+      "Risk: credentials/infostealer risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+    "target": "AGENTS.md Downloads",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/"
+      }
+    ]
+  },
+  {
+    "id": "59f363587ae2150f",
+    "date": "2026-10-25T14:11:30+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Tailscale SSH Flaws Could Let Hackers Gain Root Access Across Servers From One Compromised Device",
+    "summary": "A new security report warns that Tailscale SSH has flaws that could let a hacker move from one compromised device to root access on other servers. Tailscale SSH lets approved devices log in to each other over a private network. The report, called Tailworm, was published on October 25, 2026, by security researcher Erica Windisch […] The post Tailscale SSH Flaws Could Let Hackers Gain Root Access Across Servers From One Compromised Device appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A new security report warns that Tailscale SSH has flaws that could let a hacker move from one compromised device to root access on other servers.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/tailscale-ssh-flaws/",
+    "target": "Tailscale SSH Could Let",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/tailscale-ssh-flaws/"
+      }
+    ]
+  },
+  {
+    "id": "0369a78c06a2d604",
+    "date": "2026-10-25T11:26:56.223935+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Snort 3 Bug: When the VBA Inspection Engine Becomes an Attack Vector",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/snort-3-bug-when-the-vba-inspection-engine-becomes-an-attack-vector",
+    "target": "CRITICAL Snort",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/snort-3-bug-when-the-vba-inspection-engine-becomes-an-attack-vector"
+      }
+    ]
+  },
+  {
+    "id": "625c7105a1023379",
+    "date": "2026-10-25T11:26:56.223765+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL NVIDIA Megatron Bridge: User-Interaction RCE in Model Config YAML Parsing",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/nvidia/nvidia-megatron-bridge-user-interaction-rce-in-model-config-yaml-parsing",
+    "target": "CRITICAL NVIDIA Megatron Bridge",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/nvidia/nvidia-megatron-bridge-user-interaction-rce-in-model-config-yaml-parsing"
       }
     ]
   },
@@ -26795,127 +26911,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/ransomware/ransomware-groups-turn-genai-into-an-assembly-line-average-payout-hits-431995"
-      }
-    ]
-  },
-  {
-    "id": "340ae58478687cae",
-    "date": "2026-10-12T15:23:36.719040+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "AI Patching Benchmarks Hide a Third of Defective Fixes news",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/news/ai-patching-benchmarks-hide-a-third-of-defective-fixes",
-    "target": "Patching Benchmarks Hide Third",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/ai-patching-benchmarks-hide-a-third-of-defective-fixes"
-      }
-    ]
-  },
-  {
-    "id": "befb8f5dc428e354",
-    "date": "2026-10-12T15:23:36.718903+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "Incident Response Executive Arrested: The Dubrovsky Case and the FBI Breach news",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/news/incident-response-executive-arrested-the-dubrovsky-case-and-the-fbi-breach",
-    "target": "Incident Response Executive Arrested",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/news/incident-response-executive-arrested-the-dubrovsky-case-and-the-fbi-breach"
-      }
-    ]
-  },
-  {
-    "id": "cbeb750a18ded3b7",
-    "date": "2026-10-12T15:23:34+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Cyberattack shuts down refrigerators at French supermarkets",
-    "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-    "article_text": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. Victims include Intermarché, Coopérative U, Carrefour Market, Monoprix, Leclerc, and Super U, with French outlets reporting that the attack affected 250 to 350 stores, causing significant financial losses and food waste. The threat actors hijacked refrigeration controllers running older versions of Danfoss control software on Sunday night and used them to raise supermarket refrigerator temperatures by triggering a built-in automatic defrosting system. \"Following a cyberattack reportedly affecting a service provider that manages refrigeration systems in stores, some fresh and frozen food display units are out of service,\" an Intermarché spokesperson told BleepingComputer when asked for more information on the incident. \"Intermarché and Netto have taken all necessary precautions to remove the products from these units as quickly as possible. We don't have further information currently, nor a specific list of affected stores to share with you.\" Coopérative U president Dominique Schelcher also confirmed the incident earlier today and said that the attack affected multiple stores in the chain. \"I can confirm that, since last night, a cyberattack has been affecting the refrigeration systems in several stores within our @CooperativeU network. Our teams are fully mobilized, working alongside refrigeration specialists, to resolve the situation as quickly as possible. An investigation will be conducted to shed full light on this attack,\" Schelcher said . \"Targeting equipment essential for preserving fresh produce and supplying food to the French people is an extremely serious matter and is unprecedented. It is unacceptable.\" EU agriculture and food commissioner Christophe Hansen also condemned the attack and named France's largest supermarket chain, Leclerc, as one of the victims. The Paris prosecutor's office has told AFP that it has opened an investigation into \"the large-scale cyberattack affecting the refrigerators of several major food retail chains across France\" to \"identify the victims and establish the link with the damage they reported in terms of foodstuff losses and the outbreak of fires.\" While no information is available on how the Danfoss refrigeration controllers were compromised, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned in May 2025 of an authentication bypass vulnerability ( CVE-2025-41450 ) and in August 2025 of a command injection flaw ( CVE-2025-41451 ) in the Danfoss AK-SM 8xxA Series hardware platform used to manage refrigeration and HVAC systems typically found in the food retail sector. Claroty's Team82 research team, which found the two flaws, also published a detailed write-up in August on how they can be exploited to achieve remote code execution on Danfoss AK-SM 800A publicly accessible management interfaces. While researching the attack surface, Predicta Lab CEO Baptiste Robert found 2752 Danfoss systems exposed online on Monday, 1590 of them in France. Shodan, a search engine for Internet-connected devices, is also tracking over 4,500 Danfoss devices reachable over the Internet. Spokespersons for Danfoss, Leclerc, and Coopérative U were not immediately available for comment when contacted by BleepingComputer earlier today. Although there is no evidence yet that the two are connected, retail giant Ahold Delhaize, one of the world's largest food retail chains, also announced on Monday that it had to take some systems offline after a \"cybersecurity incident.\" Update October 12, 13:23 EDT: Added Intermarché statement and more info on Danfoss systems exposed online. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Retail giant Ahold Delhaize takes systems offline after cyberattack FBI disrupts Chinese hacking tools used to breach critical infrastructure ASOS links data breach to social engineering attack, credential theft What Recent AI-Powered Attacks Mean for Your Identity Security Here’s a thought; stop making every device connect to the Internet. Cyber exec arrested in case allegedly tied to ShinyHunters hackers Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks Microsoft: Outdated Windows de",
-    "quick_summary": [
-      "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-    "target": "Cyberattack French",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer",
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/"
-      },
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/cyberattack-disrupts-refridgeration-in-france"
-      }
-    ]
-  },
-  {
-    "id": "5198097ff590a7a3",
-    "date": "2026-10-12T15:12:54+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Ahold Delhaize Takes Systems Offline Following Cybersecurity Incident",
-    "summary": "Ahold Delhaize has taken some systems offline after identifying a security issue within its network, the food retail group said on October 12, 2026. The company, based in Zaandam, the Netherlands, said its teams were assessing the issue and taking steps to limit its impact. Physical stores remain open and continue serving customers. In its […] The post Ahold Delhaize Takes Systems Offline Following Cybersecurity Incident appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Ahold Delhaize has taken some systems offline after identifying a security issue within its network, the food retail group said on October 12, 2026.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/ahold-delhaize-cyberattack/",
-    "target": "Ahold Delhaize Takes Systems",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/ahold-delhaize-cyberattack/"
       }
     ]
   }
