@@ -1,7 +1,7 @@
 [
   {
     "id": "0369a78c06a2d604",
-    "date": "2026-10-25T06:07:18.371321+00:00",
+    "date": "2026-10-25T11:26:56.223935+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "625c7105a1023379",
-    "date": "2026-10-25T06:07:18.371205+00:00",
+    "date": "2026-10-25T11:26:56.223765+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "fe880adc09baba00",
-    "date": "2026-10-25T06:07:18.371091+00:00",
+    "date": "2026-10-25T11:26:56.223656+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "1ed7c7a1b0cbc47a",
-    "date": "2026-10-25T06:07:18.370978+00:00",
+    "date": "2026-10-25T11:26:56.223544+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "34ba13551691c859",
-    "date": "2026-10-25T06:07:18.370864+00:00",
+    "date": "2026-10-25T11:26:56.223433+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "20dd5ac655e9360d",
-    "date": "2026-10-25T06:07:18.370745+00:00",
+    "date": "2026-10-25T11:26:56.223311+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,57 +174,8 @@
     ]
   },
   {
-    "id": "0cbfeef2fc0155be",
-    "date": "2026-10-25T06:07:18.370626+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "PHP2Shell: When the Engine Becomes the Target, Every Downstream Defense Fails VULN CRITICAL",
-    "summary": "PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. Security researchers at watchTowr say the two flaws allow remote code execution. Only the four supported PHP branches, 8.2 through 8.5, can receive the fix, and no exploitation has been reported so far.",
-    "article_text": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your risk is taking exposed PHP off the internet or behind access controls, cutting what a compromised server can reach, and having the update ready to apply the moment it lands. Cloudflare says it is seeing early attempts to exploit the flaws, and has pushed emergency rules for sites behind it that it calls a stopgap until you patch. No compromise has been confirmed, the public exploit code going around has not been shown to work, and neither flaw is in CISA's catalog of known exploited flaws. PHP has not said which versions are affected, which part of PHP is involved, or whether any setting changes the risk; it says the full details and the fixed versions come with the release. At the time of writing, that release was not yet out. So nobody outside the group that found the flaws can test whether a given defense works, which is why the advice below is about lowering risk, not promising safety. The workaround spreading on social media and security blogs is one line in a PHP configuration file: session.upload_progress.enabled=0 . It turns off Session Upload Progress, a PHP feature that's enabled by default, which records how far a file upload has progressed so another request can check on it. GMO Flatt Security, a Tokyo security firm, suggested setting it early on October 21, saying it could not be sure the change fully addresses the flaws but thought it would help with some probability. Later the same day, the firm walked that back. In an update timestamped 14:00 Japan time (05:00 UTC), it said the setting alone is not a complete fix and that attacks getting around it are expected. It told administrators to prepare their update, watch for attack traffic before the release, and apply the fix as soon as it is out. Two people from the PHP project said the same thing more bluntly. Replying to someone who suggested the upload-progress setting might patch the flaw, Gina Peter Banyard, a PHP core developer and documentation writer funded by the PHP Foundation, wrote : \"The only thing I can say is that the only mitigation is patching / upgrading PHP. I sadly know too much.\" Joe Ferguson, the release manager for the coming PHP 8.6, put it shorter : \"ini settings won't save you.\" The setting cannot be relied on for two reasons. GMO Flatt expects a way around it but has not said what that is. And the whole idea that the flaw lives in Session Upload Progress is a guess: PHP has not confirmed it, the firm itself said it holds only so far as its own research matches PHP2Shell, and an independent code audit argues the specific bug others describe in that feature does not exist in released PHP. That audit is from an anonymous account and PHP's own code will settle it, but it is one more reason not to treat the setting as a shield. Not everyone agrees. One vendor, Upwind, still lists the setting as an immediate mitigation , passing along another researcher's analysis rather than its own tests. watchTowr, which reproduced one of the flaws, says there is \"no confirmed patch or workaround at this time.\" No one is telling you to undo the change. The instruction is only not to count it as protection. PHP's own manual already advises turning the feature off where an application does not use upload progress bars, because the stored file names and field names \"are not validated and may contain PHP code.\" If you turned it on by mistake somewhere that needs it, the only cost is that upload progress bars stop working. Check that the change is actually in effect on the process that serves web traffic, not on the command line. The setting is INI_PERDIR, so it can be set in php.ini, .htaccess, or .user.ini. A .user.ini file is read only by the CGI and FastCGI versions of PHP, not by the Apache module, and PHP re-reads it only every 300 seconds by default, so a change there can take five minutes to apply. Under the Apache module, use .htaccess or the server config. Confirm the value on PHP-FPM or mod_php, whichever serves your site, not on php -i at the shell. Get ready now. GMO Flatt's advice is to confirm your update steps and the checks you run afterward, rehearse any c",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/php2shell-when-the-engine-becomes-the-target-every-downstream-defense-fails",
-    "target": "PHP2Shell",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/php2shell-when-the-engine-becomes-the-target-every-downstream-defense-fails"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1xc0vav/php2shell_quick_mitigation_prepatch/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1xbrk9g/what_the_php2shell_rumors_got_wrong_from_inside/"
-      },
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html"
-      },
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
-      },
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/"
-      }
-    ]
-  },
-  {
     "id": "53624f69f1c65b3c",
-    "date": "2026-10-25T06:07:18.370433+00:00",
+    "date": "2026-10-25T11:26:56.223149+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -253,7 +204,7 @@
   },
   {
     "id": "eb08f2b0a7f98b88",
-    "date": "2026-10-25T06:07:18.370294+00:00",
+    "date": "2026-10-25T11:26:56.223015+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -282,7 +233,7 @@
   },
   {
     "id": "31822fe10db42dd8",
-    "date": "2026-10-25T06:07:18.370171+00:00",
+    "date": "2026-10-25T11:26:56.222898+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -311,7 +262,7 @@
   },
   {
     "id": "2ac7a012404456d9",
-    "date": "2026-10-25T06:07:18.370056+00:00",
+    "date": "2026-10-25T11:26:56.222764+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -340,7 +291,7 @@
   },
   {
     "id": "8c69792995485be5",
-    "date": "2026-10-25T06:07:18.369928+00:00",
+    "date": "2026-10-25T11:26:56.222641+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -369,7 +320,7 @@
   },
   {
     "id": "ca355f225bc28bc9",
-    "date": "2026-10-25T06:07:18.369311+00:00",
+    "date": "2026-10-25T11:26:56.221796+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -398,7 +349,7 @@
   },
   {
     "id": "927c730f85fd3ffa",
-    "date": "2026-10-25T06:07:18.369183+00:00",
+    "date": "2026-10-25T11:26:56.221660+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -431,7 +382,7 @@
   },
   {
     "id": "64e0613413fa9263",
-    "date": "2026-10-25T06:07:18.369069+00:00",
+    "date": "2026-10-25T11:26:56.221543+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -460,7 +411,7 @@
   },
   {
     "id": "2e9ad9f3483fd092",
-    "date": "2026-10-25T06:07:18.368951+00:00",
+    "date": "2026-10-25T11:26:56.221421+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -497,7 +448,7 @@
   },
   {
     "id": "3926c46ac13e2802",
-    "date": "2026-10-25T06:07:18.368839+00:00",
+    "date": "2026-10-25T11:26:56.221304+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -526,7 +477,7 @@
   },
   {
     "id": "1ecf0823fbc03fd9",
-    "date": "2026-10-25T06:07:18.368717+00:00",
+    "date": "2026-10-25T11:26:56.221190+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -555,7 +506,7 @@
   },
   {
     "id": "104c7f57f6827a18",
-    "date": "2026-10-25T06:07:18.368603+00:00",
+    "date": "2026-10-25T11:26:56.221073+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -584,7 +535,7 @@
   },
   {
     "id": "e046224808ff604c",
-    "date": "2026-10-25T06:07:18.368082+00:00",
+    "date": "2026-10-25T11:26:56.220609+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -612,13 +563,42 @@
     ]
   },
   {
-    "id": "e098c5f1be2af621",
-    "date": "2026-10-25T06:07:18.367762+00:00",
+    "id": "6365669ec8bf9f49",
+    "date": "2026-10-25T11:26:56.220280+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CVE · 1 EXPLOIT IN THE LAST 24H →",
+    "title": "The AI Criminals' OPSEC Blunder: How Persistent Memory Turned Scalable Attacks Into Forensic Evidence",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/ransomware/the-ai-criminals-opsec-blunder-how-persistent-memory-turned-scalable-attacks-into-forensic-evidence",
+    "target": "Criminals OPSEC Blunder",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/ransomware/the-ai-criminals-opsec-blunder-how-persistent-memory-turned-scalable-attacks-into-forensic-evidence"
+      }
+    ]
+  },
+  {
+    "id": "e098c5f1be2af621",
+    "date": "2026-10-25T11:26:56.220055+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 2 CVE · 1 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -642,7 +622,7 @@
   },
   {
     "id": "f84fc657055064d9",
-    "date": "2026-10-25T06:07:17.176397+00:00",
+    "date": "2026-10-25T11:26:55.430919+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -755,7 +735,7 @@
   },
   {
     "id": "96b97c390c9853ae",
-    "date": "2026-10-25T06:07:15.834279+00:00",
+    "date": "2026-10-25T11:26:55.147060+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -784,7 +764,7 @@
   },
   {
     "id": "c5fbbb81e2b7d891",
-    "date": "2026-10-25T06:07:15.834132+00:00",
+    "date": "2026-10-25T11:26:55.146910+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -813,7 +793,7 @@
   },
   {
     "id": "2be7161024735444",
-    "date": "2026-10-25T06:07:15.833985+00:00",
+    "date": "2026-10-25T11:26:55.146740+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -842,7 +822,7 @@
   },
   {
     "id": "49cc3a46da24526b",
-    "date": "2026-10-25T06:07:15.833786+00:00",
+    "date": "2026-10-25T11:26:55.146537+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -871,7 +851,7 @@
   },
   {
     "id": "3bb0c52472b519ff",
-    "date": "2026-10-25T06:07:15.833631+00:00",
+    "date": "2026-10-25T11:26:55.146389+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -900,7 +880,7 @@
   },
   {
     "id": "ac4a7e198336e718",
-    "date": "2026-10-25T06:07:15.833424+00:00",
+    "date": "2026-10-25T11:26:55.146236+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -929,7 +909,7 @@
   },
   {
     "id": "b9d2fb18f6a3a6a4",
-    "date": "2026-10-25T06:07:15.833250+00:00",
+    "date": "2026-10-25T11:26:55.146057+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -958,7 +938,7 @@
   },
   {
     "id": "96002c1db752c564",
-    "date": "2026-10-25T06:07:15.833031+00:00",
+    "date": "2026-10-25T11:26:55.145793+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -987,7 +967,7 @@
   },
   {
     "id": "7777349600424aeb",
-    "date": "2026-10-25T06:07:15.832767+00:00",
+    "date": "2026-10-25T11:26:55.145527+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1016,7 +996,7 @@
   },
   {
     "id": "1ec684b3004eb830",
-    "date": "2026-10-25T06:07:15.832598+00:00",
+    "date": "2026-10-25T11:26:55.145364+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1045,7 +1025,7 @@
   },
   {
     "id": "9e2a5b667cf55a3b",
-    "date": "2026-10-25T06:07:15.832267+00:00",
+    "date": "2026-10-25T11:26:55.145107+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1074,7 +1054,7 @@
   },
   {
     "id": "8150c6838a4b62d2",
-    "date": "2026-10-25T06:07:15.832104+00:00",
+    "date": "2026-10-25T11:26:55.144944+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1103,7 +1083,7 @@
   },
   {
     "id": "175c7ea5dc65956a",
-    "date": "2026-10-25T06:07:15.831913+00:00",
+    "date": "2026-10-25T11:26:55.144731+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1132,7 +1112,7 @@
   },
   {
     "id": "949b268ae5d09bd3",
-    "date": "2026-10-25T06:07:15.831762+00:00",
+    "date": "2026-10-25T11:26:55.144572+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1161,7 +1141,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-10-25T06:07:15.831497+00:00",
+    "date": "2026-10-25T11:26:55.144306+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1190,7 +1170,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-10-25T06:07:15.830737+00:00",
+    "date": "2026-10-25T11:26:55.143510+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1219,7 +1199,7 @@
   },
   {
     "id": "eaff1a05324436a3",
-    "date": "2026-10-25T06:07:15.622611+00:00",
+    "date": "2026-10-25T11:26:54.991736+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1248,7 +1228,7 @@
   },
   {
     "id": "573e3163334040b0",
-    "date": "2026-10-25T06:07:15.622439+00:00",
+    "date": "2026-10-25T11:26:54.991591+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1277,7 +1257,7 @@
   },
   {
     "id": "31dee03c6275a231",
-    "date": "2026-10-25T06:07:15.622291+00:00",
+    "date": "2026-10-25T11:26:54.991433+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1306,7 +1286,7 @@
   },
   {
     "id": "158899b0662fa0ff",
-    "date": "2026-10-25T06:07:15.622164+00:00",
+    "date": "2026-10-25T11:26:54.991286+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1335,7 +1315,7 @@
   },
   {
     "id": "43ef41892c537351",
-    "date": "2026-10-25T06:07:15.622044+00:00",
+    "date": "2026-10-25T11:26:54.991169+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1364,7 +1344,7 @@
   },
   {
     "id": "9e84d93d648f8f86",
-    "date": "2026-10-25T06:07:15.621902+00:00",
+    "date": "2026-10-25T11:26:54.991027+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1393,7 +1373,7 @@
   },
   {
     "id": "faf98c079ba5d018",
-    "date": "2026-10-25T06:07:15.621764+00:00",
+    "date": "2026-10-25T11:26:54.990885+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1422,7 +1402,7 @@
   },
   {
     "id": "c0ae732a1bba7f64",
-    "date": "2026-10-25T06:07:15.621642+00:00",
+    "date": "2026-10-25T11:26:54.990742+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1451,7 +1431,7 @@
   },
   {
     "id": "0b5ba548043e99d9",
-    "date": "2026-10-25T06:07:15.621468+00:00",
+    "date": "2026-10-25T11:26:54.990593+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1480,7 +1460,7 @@
   },
   {
     "id": "0f59a9cd4bdfb493",
-    "date": "2026-10-25T06:07:15.621329+00:00",
+    "date": "2026-10-25T11:26:54.990456+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1509,7 +1489,7 @@
   },
   {
     "id": "97065e27c22d7d08",
-    "date": "2026-10-25T06:07:15.621214+00:00",
+    "date": "2026-10-25T11:26:54.990341+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1538,7 +1518,7 @@
   },
   {
     "id": "997ecc9994f2019c",
-    "date": "2026-10-25T06:07:15.621089+00:00",
+    "date": "2026-10-25T11:26:54.990216+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1571,7 +1551,7 @@
   },
   {
     "id": "cc7e1c96307a4f14",
-    "date": "2026-10-25T06:07:15.620961+00:00",
+    "date": "2026-10-25T11:26:54.990087+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1600,7 +1580,7 @@
   },
   {
     "id": "c6ca06de0dd273d5",
-    "date": "2026-10-25T06:07:15.620826+00:00",
+    "date": "2026-10-25T11:26:54.989951+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1629,7 +1609,7 @@
   },
   {
     "id": "f6ee8980c048183f",
-    "date": "2026-10-25T06:07:15.620690+00:00",
+    "date": "2026-10-25T11:26:54.989791+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1658,7 +1638,7 @@
   },
   {
     "id": "385e6ceeca25dba0",
-    "date": "2026-10-25T06:07:15.620551+00:00",
+    "date": "2026-10-25T11:26:54.989660+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1687,7 +1667,7 @@
   },
   {
     "id": "9006c68a624ee1ec",
-    "date": "2026-10-25T06:07:15.620405+00:00",
+    "date": "2026-10-25T11:26:54.989537+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1716,7 +1696,7 @@
   },
   {
     "id": "53b7b7c3e5a03118",
-    "date": "2026-10-25T06:07:15.620274+00:00",
+    "date": "2026-10-25T11:26:54.989407+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1745,7 +1725,7 @@
   },
   {
     "id": "70d902b5d6547e36",
-    "date": "2026-10-25T06:07:15.620134+00:00",
+    "date": "2026-10-25T11:26:54.989267+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1774,7 +1754,7 @@
   },
   {
     "id": "07498abdff68378d",
-    "date": "2026-10-25T06:07:15.619995+00:00",
+    "date": "2026-10-25T11:26:54.989128+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1802,37 +1782,8 @@
     ]
   },
   {
-    "id": "452be323a286266c",
-    "date": "2026-10-25T06:07:15.619859+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Full source release: autonomous root chain for TCL 50C721 Android TV via CVE-2022-22706 (Mali GPU page-cache write)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Full source release: autonomous root chain for TCL 50C721 Android TV via CVE-2022-22706 (Mali GPU page-cache write)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1xe5oy7/full_source_release_autonomous_root_chain_for_tcl/",
-    "target": "Full",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1xe5oy7/full_source_release_autonomous_root_chain_for_tcl/"
-      }
-    ]
-  },
-  {
     "id": "fef555a98492c68e",
-    "date": "2026-10-25T06:07:15.619720+00:00",
+    "date": "2026-10-25T11:26:54.988993+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1861,7 +1812,7 @@
   },
   {
     "id": "12a2bf7560527ad6",
-    "date": "2026-10-25T06:07:15.619571+00:00",
+    "date": "2026-10-25T11:26:54.988852+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1889,8 +1840,37 @@
     ]
   },
   {
+    "id": "6f3809223d5502a9",
+    "date": "2026-10-25T11:26:54.988689+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Breaking the AWS MCP Python Sandbox",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Breaking the AWS MCP Python Sandbox",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1xevj5i/breaking_the_aws_mcp_python_sandbox/",
+    "target": "Breaking AWS MCP Python",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1xevj5i/breaking_the_aws_mcp_python_sandbox/"
+      }
+    ]
+  },
+  {
     "id": "d29a549c775ffe8f",
-    "date": "2026-10-25T06:07:15.619401+00:00",
+    "date": "2026-10-25T11:26:54.988542+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1935,7 +1915,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-10-25T06:07:15.619202+00:00",
+    "date": "2026-10-25T11:26:54.988327+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1963,6 +1943,171 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "063ed60b5c21c209",
+    "date": "2026-10-25T11:00:00+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+    "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+    "target": "Former Unit 8200 Officers",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/"
+      }
+    ]
+  },
+  {
+    "id": "045651e44fa22d90",
+    "date": "2026-10-25T06:55:23+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft Teams to Use AI for Detecting Phishing Attacks Using Teams Conversations",
+    "summary": "Microsoft is preparing to add AI phishing detection to Microsoft Teams, using conversation context to spot scams that may contain no harmful links or attachments. The feature will focus mainly on first conversations with external contacts, where attackers can pose as trusted support staff and ask employees to share sensitive information. Microsoft detailed the change […] The post Microsoft Teams to Use AI for Detecting Phishing Attacks Using Teams Conversations appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Microsoft is preparing to add AI phishing detection to Microsoft Teams, using conversation context to spot scams that may contain no harmful links or attachments.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/microsoft-teams-ai-detection/",
+    "target": "Microsoft Teams Detecting Phishing",
+    "type": "Phishing / Scam",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/microsoft-teams-ai-detection/"
+      }
+    ]
+  },
+  {
+    "id": "8689c7f99e6637de",
+    "date": "2026-10-25T06:54:29+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+    "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
+    "article_text": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access,\" the artificial intelligence (AI) company said . \"We've implemented this policy and will maintain it until advances in these safeguards justify broader internet access.\" OpenAI said models' growing capabilities can have the side effect of them getting much better at devising ways around environmental restrictions to escape containment and perform unintended actions. This can involve the model exploiting a software flaw or misconfiguration to reach the live internet, or finding unauthorized ways to communicate with agents in other sandboxes. Late last month, the Frontier Lab made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a misconfiguration in a DNS resolver to obtain limited internet access. OpenAI said it also kicked off a \"high-compute red-teaming campaign\" to test the resilience of its research and evaluation environments in the face of increasingly powerful models, leading to the discovery of previously unknown software vulnerabilities, including a critical unauthenticated remote code execution in Google Brotli ( CVE-2026-111497 , CVSS score: 9.2), a widely used compression library. Patches for the vulnerability , also called Node2Shell and HTTP2Shell , have since been released for libbrotli, Python, C++, Node.js, Bun, Envoy, and Istio. The red-teaming agents OpenAI dispatched to test its security safeguards also uncovered virtual machine escapes, novel paths to access the internet through vulnerabilities in metrics, logging, and authentication management services, and hardware side-channels for communication between agents, bypassing isolation boundaries. \"In one test that assumed compromise of a host machine, an agent reused a firewall-approved connection to reach a blocked authentication endpoint in our metrics service and then made that endpoint fetch a model-provided URL,\" it said. \"In other tests, agents exploited misconfigurations that allowed blocked requests to pass through DNS and firewall controls, as well as ways to make services we run fetch external URLs.\" In another experiment, after prompting the AI agents in separate microVMs to exchange synthetic secrets without relying on network connections or shared writable files, OpenAI said the digital bots found a way to communicate using the processor's cache via a timing-based side-channel. Particularly, one agent is said to have encoded information by evicting selected data from the cache. A second agent measured the time it took to reload that data, leveraging the difference between fast and slow cache reads to recover the message. \"Once the agents agreed on a protocol for encoding and decoding these signals, they could exchange the synthetic secrets without changing a shared file or opening a network connection,\" OpenAI said. The AI giant said the discoveries prompted it to strengthen its own safety and monitoring mechanisms and deem them sufficient enough to restart frontier RL training and internal inference, while continuing to invest in several key areas - \"After strengthening our containment architecture, we resumed our frontier RL training and inference on October 1,\" OpenAI said . \"We've reserved substantial compute for continuous red-teaming, and made high-compute red-teaming part of the safety cases we use to decide whether frontier training and evaluation can proceed securely.\" Earlier this month, Anthropic said it was cutting off live internet access for all its internal evaluations until further notice after discovering new incidents in which its AI models exhibited misaligned behavior and targeted real websites. The disclosure comes as concerns have been raised over the ability of AI agents to detect and exploit software flaws, even in the guardrails designed to restrict them. In a report published this week, third-party AI ​safety evaluators METR ⁠and Redwood Research said they found several new vulnerabilities in OpenAI's internal misalignment monitoring system as it existed before July 21, 2026, and duri",
+    "quick_summary": [
+      "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+    "target": "OpenAI Agents Demonstrate Escapes",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+      }
+    ]
+  },
+  {
+    "id": "0cbfeef2fc0155be",
+    "date": "2026-10-25T06:07:18.370626+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "PHP2Shell: When the Engine Becomes the Target, Every Downstream Defense Fails VULN CRITICAL",
+    "summary": "PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. Security researchers at watchTowr say the two flaws allow remote code execution. Only the four supported PHP branches, 8.2 through 8.5, can receive the fix, and no exploitation has been reported so far.",
+    "article_text": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your risk is taking exposed PHP off the internet or behind access controls, cutting what a compromised server can reach, and having the update ready to apply the moment it lands. Cloudflare says it is seeing early attempts to exploit the flaws, and has pushed emergency rules for sites behind it that it calls a stopgap until you patch. No compromise has been confirmed, the public exploit code going around has not been shown to work, and neither flaw is in CISA's catalog of known exploited flaws. PHP has not said which versions are affected, which part of PHP is involved, or whether any setting changes the risk; it says the full details and the fixed versions come with the release. At the time of writing, that release was not yet out. So nobody outside the group that found the flaws can test whether a given defense works, which is why the advice below is about lowering risk, not promising safety. The workaround spreading on social media and security blogs is one line in a PHP configuration file: session.upload_progress.enabled=0 . It turns off Session Upload Progress, a PHP feature that's enabled by default, which records how far a file upload has progressed so another request can check on it. GMO Flatt Security, a Tokyo security firm, suggested setting it early on October 21, saying it could not be sure the change fully addresses the flaws but thought it would help with some probability. Later the same day, the firm walked that back. In an update timestamped 14:00 Japan time (05:00 UTC), it said the setting alone is not a complete fix and that attacks getting around it are expected. It told administrators to prepare their update, watch for attack traffic before the release, and apply the fix as soon as it is out. Two people from the PHP project said the same thing more bluntly. Replying to someone who suggested the upload-progress setting might patch the flaw, Gina Peter Banyard, a PHP core developer and documentation writer funded by the PHP Foundation, wrote : \"The only thing I can say is that the only mitigation is patching / upgrading PHP. I sadly know too much.\" Joe Ferguson, the release manager for the coming PHP 8.6, put it shorter : \"ini settings won't save you.\" The setting cannot be relied on for two reasons. GMO Flatt expects a way around it but has not said what that is. And the whole idea that the flaw lives in Session Upload Progress is a guess: PHP has not confirmed it, the firm itself said it holds only so far as its own research matches PHP2Shell, and an independent code audit argues the specific bug others describe in that feature does not exist in released PHP. That audit is from an anonymous account and PHP's own code will settle it, but it is one more reason not to treat the setting as a shield. Not everyone agrees. One vendor, Upwind, still lists the setting as an immediate mitigation , passing along another researcher's analysis rather than its own tests. watchTowr, which reproduced one of the flaws, says there is \"no confirmed patch or workaround at this time.\" No one is telling you to undo the change. The instruction is only not to count it as protection. PHP's own manual already advises turning the feature off where an application does not use upload progress bars, because the stored file names and field names \"are not validated and may contain PHP code.\" If you turned it on by mistake somewhere that needs it, the only cost is that upload progress bars stop working. Check that the change is actually in effect on the process that serves web traffic, not on the command line. The setting is INI_PERDIR, so it can be set in php.ini, .htaccess, or .user.ini. A .user.ini file is read only by the CGI and FastCGI versions of PHP, not by the Apache module, and PHP re-reads it only every 300 seconds by default, so a change there can take five minutes to apply. Under the Apache module, use .htaccess or the server config. Confirm the value on PHP-FPM or mod_php, whichever serves your site, not on php -i at the shell. Get ready now. GMO Flatt's advice is to confirm your update steps and the checks you run afterward, rehearse any c",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/php2shell-when-the-engine-becomes-the-target-every-downstream-defense-fails",
+    "target": "PHP2Shell",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/php2shell-when-the-engine-becomes-the-target-every-downstream-defense-fails"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1xc0vav/php2shell_quick_mitigation_prepatch/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1xbrk9g/what_the_php2shell_rumors_got_wrong_from_inside/"
+      },
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html"
+      },
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
+      },
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/"
+      }
+    ]
+  },
+  {
+    "id": "452be323a286266c",
+    "date": "2026-10-25T06:07:15.619859+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "Full source release: autonomous root chain for TCL 50C721 Android TV via CVE-2022-22706 (Mali GPU page-cache write)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Full source release: autonomous root chain for TCL 50C721 Android TV via CVE-2022-22706 (Mali GPU page-cache write)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1xe5oy7/full_source_release_autonomous_root_chain_for_tcl/",
+    "target": "Full",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1xe5oy7/full_source_release_autonomous_root_chain_for_tcl/"
       }
     ]
   },
@@ -4100,7 +4245,7 @@
     "category": "",
     "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
     "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
-    "article_text": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET , the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of the MATCHWOK backdoor through a downloader called MATCHBOIL. The activity ultimately culminated with the threat actor handing off access to Sandworm, which then conducted a data-wiping attack on September 17, 2025, more than two months after it obtained a foothold. What makes the attack stand out is UAC-0099's use of a previously undocumented backdoor called MythicRatatoskr that communicates with a command-and-control (C2) server hosted inside the Yggdrasil mesh network. The backdoor was deployed a day after MATCHWOK was executed. There are indications that development on the backdoor started sometime between December 2024 and February 2025. Its functionality is fairly straightforward in that it sends victim metadata to the C2 server, poll for new commands, transmit command output, take screenshots, and upload/download files. It can also alter the current working directory, enumerate directory contents, change the C2 server URL, execute a shell command via \"cmd.exe,\" and spawn a reverse SOCKS5 proxy. In addition, some artifacts include a 10-minute startup delay in a likely effort to avoid immediately connecting to the Yggdrasil network and evade detection. \"To our knowledge, this is the first documented case of Yggdrasil being abused in this way by a state-aligned threat actor, and it may signal a broader trend of adversaries adopting experimental peer-to-peer networks to increase the resilience and stealth of their infrastructure,\" ESET researchers Anton Cherepanov and Peter Strýček said. MythicRatatoskr is said to have been used to deploy a SOCKS5 server to route connections through the compromised network. The attack culminated with Sandworm carrying out a data-wiping attack by dropping the SDelete utility via Active Directory Group Policy. It's worth noting that the Sandworm-linked NikoWiper malware is also derived from SDelete. While the attack investigated by ESET compromised a Windows environment, source code references to \"crond\" within MythicRatatoskr suggest there possibly exists an equivalent Linux version of the malware. The assessment that UAC-0099 is likely collaborating with Sandworm is not new. In its APT Activity Report Q2 2025–Q3 2025, ESET said it observed UAC-0099 conducting initial access operations and subsequently transferring \"validated targets\" to Sandworm for further post-exploitation. These attacks targeted government, energy, logistics, and grain sectors in Ukraine, the Slovak cybersecurity company noted at the time. ESET confirmed to The Hacker News that the MythicRatatoskr case was among those attacks. This sort of cooperation between Russia-aligned actors is also not new. Last year, ESET said it identified evidence that Gamaredon and Turla were working together to target and co-compromise Ukrainian entities, with one intrusion leveraging Gamaredon's PteroGraphin to deploy Turla's Kazuar backdoor. Furthermore, a Gamaredon-linked downloader called Pterodo has been used to retrieve and execute InvisiMole , a modular spyware program put to use against targets in Ukraine and Russia. \"This kind of cooperation underscores the potential for coordinated cyber espionage campaigns among Russia-aligned groups, likely intended to amplify their operational impact,\" ESET said. Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities. Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "article_text": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET , the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of the MATCHWOK backdoor through a downloader called MATCHBOIL. The activity ultimately concluded with the threat actor handing off access to Sandworm, which then conducted a data-wiping attack on September 17, 2025, more than two months after it obtained a foothold. What makes the attack stand out is UAC-0099's use of a previously undocumented backdoor called MythicRatatoskr that communicates with a command-and-control (C2) server hosted inside the Yggdrasil mesh network. The backdoor was deployed a day after MATCHWOK was executed. There are indications that development on the backdoor started sometime between December 2024 and February 2025. Its functionality is fairly straightforward in that it sends victim metadata to the C2 server, polls for new commands, transmits command output, takes screenshots, and uploads/downloads files. It can also alter the current working directory, enumerate directory contents, change the C2 server URL, execute a shell command via \"cmd.exe,\" and spawn a reverse SOCKS5 proxy. In addition, some artifacts include a 10-minute startup delay in a likely effort to avoid immediately connecting to the Yggdrasil network and evade detection. \"To our knowledge, this is the first documented case of Yggdrasil being abused in this way by a state-aligned threat actor, and it may signal a broader trend of adversaries adopting experimental peer-to-peer networks to increase the resilience and stealth of their infrastructure,\" ESET researchers Anton Cherepanov and Peter Strýček said. MythicRatatoskr is said to have been used to deploy a SOCKS5 server to route connections through the compromised network. The attack culminated with Sandworm carrying out a data-wiping attack by dropping the SDelete utility via Active Directory Group Policy. It's worth noting that the Sandworm-linked NikoWiper malware is also derived from SDelete. While the attack investigated by ESET compromised a Windows environment, source code references to \"crond\" within MythicRatatoskr suggest there possibly exists an equivalent Linux version of the malware. The assessment that UAC-0099 is likely collaborating with Sandworm is not new. In its APT Activity Report Q2 2025–Q3 2025, ESET said it observed UAC-0099 conducting initial access operations and subsequently transferring \"validated targets\" to Sandworm for further post-exploitation. These attacks targeted government, energy, logistics, and grain sectors in Ukraine, the Slovak cybersecurity company noted at the time. ESET confirmed to The Hacker News that the MythicRatatoskr case was among those attacks. This sort of cooperation between Russia-aligned actors is also not new. Last year, ESET said it identified evidence that Gamaredon and Turla were working together to target and co-compromise Ukrainian entities, with one intrusion leveraging Gamaredon's PteroGraphin to deploy Turla's Kazuar backdoor. Furthermore, a Gamaredon-linked downloader called Pterodo has been used to retrieve and execute InvisiMole , a modular spyware program put to use against targets in Ukraine and Russia. \"This kind of cooperation underscores the potential for coordinated cyber espionage campaigns among Russia-aligned groups, likely intended to amplify their operational impact,\" ESET said. Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities. Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
     "quick_summary": [
       "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.",
       "Risk: vulnerability/exploitation risk",
@@ -26771,151 +26916,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/ahold-delhaize-cyberattack/"
-      }
-    ]
-  },
-  {
-    "id": "e1d24f5c1e76059a",
-    "date": "2026-10-12T14:31:19+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Google DevSite Flaw Let Attackers Execute Remote Code Through Forged Flask Sessions",
-    "summary": "A critical vulnerability in Google’s shared DevSite platform could have allowed an unauthenticated attacker to forge Flask session cookies and trigger remote code execution across several Google-owned developer websites, according to researcher Simon Koeck. The issue affected the OAuth flow used by Google developer documentation sites, including developers.google.com, firebase.google.com, developer.android.com, source.android.com, and docs.partner.android.com. Google reportedly […] The post Google DevSite Flaw Let Attackers Execute Remote Code Through Forged Flask Sessions appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A critical vulnerability in Google’s shared DevSite platform could have allowed an unauthenticated attacker to forge Flask session cookies and trigger remote code execution across several Google-owned developer websites,",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/critical-google-devsite-flaw/",
-    "target": "Google DevSite Let Attackers",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/critical-google-devsite-flaw/"
-      }
-    ]
-  },
-  {
-    "id": "0fb79a8d8849ed07",
-    "date": "2026-10-12T14:25:00+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
-    "summary": "The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio. The post IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The all-stock deal brings Elisity’s least-privilege access technology into IonQ’s security portfolio.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
-    "target": "IonQ Acquire Zero Trust",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/"
-      }
-    ]
-  },
-  {
-    "id": "5d6d80bbbb9f0c0d",
-    "date": "2026-10-12T14:19:07+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Critical GitLab Vulnerability Enables Arbitrary Code Execution Attacks on Servers",
-    "summary": "GitLab has released urgent security updates to fix a critical vulnerability that could allow attackers to execute arbitrary code on affected servers without logging in. Tracked as CVE-2026-97229, the flaw carries the maximum CVSS score of 10.0 and affects both GitLab Community Edition and Enterprise Edition. The company released patches on October 12, 2026. The […] The post Critical GitLab Vulnerability Enables Arbitrary Code Execution Attacks on Servers appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "GitLab has released urgent security updates to fix a critical vulnerability that could allow attackers to execute arbitrary code on affected servers without logging in.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/gitlab-vulnerability-code-execution/",
-    "target": "Critical GitLab Vulnerability Enables",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/gitlab-vulnerability-code-execution/"
-      }
-    ]
-  },
-  {
-    "id": "a25ae24696e1f663",
-    "date": "2026-10-12T14:02:53+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "WhatsApp Attachment Deploys Malware That Gains SYSTEM Access on Windows",
-    "summary": "A malicious WhatsApp attachment is being used to deploy a Windows remote access trojan that can reach SYSTEM-level access, giving its operators deep control over infected machines. The campaign begins with a ZIP archive carrying a financial-document lure and an executable named Statement.exe. Once the recipient opens the file, the malware starts a long, hidden […] The post WhatsApp Attachment Deploys Malware That Gains SYSTEM Access on Windows appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A malicious WhatsApp attachment is being used to deploy a Windows remote access trojan that can reach SYSTEM-level access, giving its operators deep control over infected machines.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/whatsapp-attachment-deploys-malware/",
-    "target": "WhatsApp Attachment Deploys Malware",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/whatsapp-attachment-deploys-malware/"
-      }
-    ]
-  },
-  {
-    "id": "b3e1647ccb0df7e3",
-    "date": "2026-10-12T14:00:10+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-    "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]",
-    "article_text": "Varonis Threat Labs recently discovered AvisLoader, a new Windows loader named after the Latin word for bird. We found it on an exposed staging server alongside a ClickFix lure, supporting tools, and its Command Center. The attack starts with a familiar ClickFix lure. A page posing as a document-signing request asks visitors to copy and run an attacker-supplied command on their machine. The more interesting part is how AvisLoader stays connected. It communicates via Tox, an encrypted peer-to-peer (P2P) messaging network that carries commands and additional payloads from the operator. That setup makes traditional domain-based takedowns harder. The command-and-control (C2) channel does not depend on a fixed domain or server address, and operators can keep the same identity when moving to another server. The seller references this in a cybercrime forum listing, claiming the controller can be moved by copying its Tox save file, with clients following without the need for a domain. In this post, we look at how AvisLoader works, the MITRE ATT&CK techniques it uses, and the indicators security teams can use to detect it. The specific ClickFix lure we found alongside AvisLoader was hosted on Cloudflare Workers and made to look like a DocuSign signing request. A fake “Manual verification” dialog claims “Verification is handled by Cloudflare” and asks visitors to paste a “verification code” into a terminal. It presents running the command as a step needed to access the document. What lands on the clipboard is a command that retrieves and runs code from a Cloudflare Quick Tunnel address on trycloudflare.com. A download still takes place, but through the pasted command, outside the browser’s normal download flow. Although the lure shows a macOS command, the exposed directory contained a Windows loader. We did not find a corresponding macOS payload among the recovered files. Listen to State of Cybercrime, Varonis’ monthly podcast to learn about high-profile cyberattacks, shadow IT, supply chain incidents, and AI security risks. The Windows payload is a single 3.4 MB 64-bit executable. Its manifest specifies asInvoker, meaning it inherits the privileges of the process that launches it without requesting User Account Control (UAC) elevation at startup. Its section table contains seventeen additional sections of identical size, with names associated with well-known packers, including Themida, VMProtect, Enigma, and UPX. None is marked executable. These names appear intended to confuse packer identification, although the names alone do not establish that any of those packers was used. Underneath, it’s a Tox client. The executable statically links c-toxcore, the reference implementation of the Tox protocol, and retains the developer’s build path, C:\\Users\\dev\\Desktop\\c-toxcore. Using Tox lets the loader communicate with its controller as another peer on the network. This removes reliance on a single centralized command-and-control address, but the network connections remain observable alongside the loader’s activity on the host. AvisLoader’s persistence code targets shortcuts on the desktop and in the taskbar-pinned folder. The executable contains shortcut-backup strings and a VBScript launcher associated with the name VLCAssistant. These artifacts indicate a mechanism designed to launch the malware when a user opens a modified shortcut, then start the intended application so it appears to open normally. The recovered files also include auto.exe, a small helper that references method 41 from UACME, a public User Account Control (UAC) bypass project. Its strings identify the ICMLuaUtil interface and the Component Object Model (COM) elevation mechanism associated with that technique. The helper also warns that updated Windows versions may mitigate the bypass, so its presence does not establish successful elevation. A separate dynamic-link library (DLL), hmn_hook.dll, provides process-hiding functionality. It hooks NtQuerySystemInformation, a Windows function used to retrieve process information, and filters a specified process name from the results. This could hide that process from software using the hooked function, but the recovered files do not establish that the DLL was loaded into Task Manager or used to hide AvisLoader itself. The recovered tools give us a view of AvisLoader’s endpoint capabilities. Its web panel, branded the AvisLoader Command Center, shows how operators are meant to manage clients, configure tasks, and distribu",
-    "quick_summary": [
-      "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-    "target": "Inside AvisLoader",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/"
       }
     ]
   }
