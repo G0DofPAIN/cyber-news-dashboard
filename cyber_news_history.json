@@ -1,94 +1,7 @@
 [
   {
-    "id": "fe880adc09baba00",
-    "date": "2026-10-25T22:32:35.233298+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE CVE-2026-76268: Unauthenticated RCE in Splunk Enterprise Patroni REST API",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cve/cve-2026-76268-unauthenticated-rce-in-splunk-enterprise-patroni-rest-api",
-    "target": "CVE CVE-2026-76268",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cve/cve-2026-76268-unauthenticated-rce-in-splunk-enterprise-patroni-rest-api"
-      }
-    ]
-  },
-  {
-    "id": "1ed7c7a1b0cbc47a",
-    "date": "2026-10-25T22:32:35.233211+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Pillow 13.0.0 Fixes RCE: The Filename, Not the File, Was the Threat",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/python/pillow-1300-fixes-rce-the-filename-not-the-file-was-the-threat",
-    "target": "CRITICAL Pillow 13.0.0 Fixes",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/python/pillow-1300-fixes-rce-the-filename-not-the-file-was-the-threat"
-      }
-    ]
-  },
-  {
-    "id": "34ba13551691c859",
-    "date": "2026-10-25T22:32:35.233136+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT BeyondTrust: Chinese APT Armory Castle Exploited Zero-Day for 47 Days",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days",
-    "target": "EXPLOIT BeyondTrust",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days"
-      }
-    ]
-  },
-  {
     "id": "20dd5ac655e9360d",
-    "date": "2026-10-25T22:32:35.233056+00:00",
+    "date": "2026-10-26T01:09:21.590954+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +30,7 @@
   },
   {
     "id": "03b9b2ac13f23483",
-    "date": "2026-10-25T22:32:35.232976+00:00",
+    "date": "2026-10-26T01:09:21.590875+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -145,22 +58,51 @@
     ]
   },
   {
-    "id": "53624f69f1c65b3c",
-    "date": "2026-10-25T22:32:35.232883+00:00",
+    "id": "6272d41210c2f0ec",
+    "date": "2026-10-26T01:09:21.590797+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Node2Shell: From Compressed Format to RCE on Node.js, Demonstrated on Official Linux arm64 Build VULN CRITICAL",
+    "title": "CRITICAL Brotli's Phantom Fix: Eight Months in Code, Zero Releases, Vast Attack Surface",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/brotlis-phantom-fix-eight-months-in-code-zero-releases-vast-attack-surface",
+    "target": "CRITICAL Brotlis Phantom Fix",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/brotlis-phantom-fix-eight-months-in-code-zero-releases-vast-attack-surface"
+      }
+    ]
+  },
+  {
+    "id": "8ae48bc3ae6645fd",
+    "date": "2026-10-26T01:09:21.590714+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE CVE-2026-96951: Microsoft Patches Actively Exploited MotW Zero-Day as CISA Sets Three-Day Deadline",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/node2shell-from-compressed-format-to-rce-on-nodejs-demonstrated-on-official-linux-arm64-build",
-    "target": "Node2Shell",
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-96951-microsoft-patches-actively-exploited-motw-zero-day-as-cisa-sets-three-day-deadline",
+    "target": "CVE CVE-2026-96951",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -169,13 +111,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/node2shell-from-compressed-format-to-rce-on-nodejs-demonstrated-on-official-linux-arm64-build"
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-96951-microsoft-patches-actively-exploited-motw-zero-day-as-cisa-sets-three-day-deadline"
       }
     ]
   },
   {
     "id": "eb08f2b0a7f98b88",
-    "date": "2026-10-25T22:32:35.232788+00:00",
+    "date": "2026-10-26T01:09:21.590629+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -204,7 +146,7 @@
   },
   {
     "id": "31822fe10db42dd8",
-    "date": "2026-10-25T22:32:35.232713+00:00",
+    "date": "2026-10-26T01:09:21.590552+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +175,7 @@
   },
   {
     "id": "2ac7a012404456d9",
-    "date": "2026-10-25T22:32:35.232636+00:00",
+    "date": "2026-10-26T01:09:21.590463+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +204,7 @@
   },
   {
     "id": "8c69792995485be5",
-    "date": "2026-10-25T22:32:35.232552+00:00",
+    "date": "2026-10-26T01:09:21.590380+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -290,8 +232,37 @@
     ]
   },
   {
+    "id": "1bbb76caffd16e76",
+    "date": "2026-10-26T01:09:21.590298+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE-2026-76268: Unauthenticated RCE in Splunk Enterprise Patroni REST API cve CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cve/cve-2026-76268-unauthenticated-rce-in-splunk-enterprise-patroni-rest-api",
+    "target": "CVE-2026-76268",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cve/cve-2026-76268-unauthenticated-rce-in-splunk-enterprise-patroni-rest-api"
+      }
+    ]
+  },
+  {
     "id": "90b9c5c2f2c9428a",
-    "date": "2026-10-25T22:32:35.232385+00:00",
+    "date": "2026-10-26T01:09:21.590208+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -319,8 +290,66 @@
     ]
   },
   {
+    "id": "40b5bf61c14f74ba",
+    "date": "2026-10-26T01:09:21.590126+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "BeyondTrust: Chinese APT Armory Castle Exploited Zero-Day for 47 Days CYBERSEC EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days",
+    "target": "BeyondTrust",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days"
+      }
+    ]
+  },
+  {
+    "id": "a9de01dac9aded88",
+    "date": "2026-10-26T01:09:21.590042+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "eMudhra: 8 Intermediate CAs Compromised, Qualys Releases Operational Detection Tools CYBERSEC",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/emudhra-8-intermediate-cas-compromised-qualys-releases-operational-detection-tools",
+    "target": "Unknown",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/emudhra-8-intermediate-cas-compromised-qualys-releases-operational-detection-tools"
+      }
+    ]
+  },
+  {
     "id": "ca355f225bc28bc9",
-    "date": "2026-10-25T22:32:35.231892+00:00",
+    "date": "2026-10-26T01:09:21.589565+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -349,7 +378,7 @@
   },
   {
     "id": "927c730f85fd3ffa",
-    "date": "2026-10-25T22:32:35.231800+00:00",
+    "date": "2026-10-26T01:09:21.589462+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -382,7 +411,7 @@
   },
   {
     "id": "64e0613413fa9263",
-    "date": "2026-10-25T22:32:35.231718+00:00",
+    "date": "2026-10-26T01:09:21.589383+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -411,7 +440,7 @@
   },
   {
     "id": "2e9ad9f3483fd092",
-    "date": "2026-10-25T22:32:35.231625+00:00",
+    "date": "2026-10-26T01:09:21.589301+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -448,7 +477,7 @@
   },
   {
     "id": "3926c46ac13e2802",
-    "date": "2026-10-25T22:32:35.231548+00:00",
+    "date": "2026-10-26T01:09:21.589225+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -477,7 +506,7 @@
   },
   {
     "id": "1ecf0823fbc03fd9",
-    "date": "2026-10-25T22:32:35.231472+00:00",
+    "date": "2026-10-26T01:09:21.589149+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -506,7 +535,7 @@
   },
   {
     "id": "104c7f57f6827a18",
-    "date": "2026-10-25T22:32:35.231393+00:00",
+    "date": "2026-10-26T01:09:21.589071+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -534,37 +563,8 @@
     ]
   },
   {
-    "id": "e046224808ff604c",
-    "date": "2026-10-25T22:32:35.231215+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CYBERSEC eMudhra: 8 Intermediate CAs Compromised, Qualys Releases Operational Detection Tools Oct 24, 2026",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/emudhra-8-intermediate-cas-compromised-qualys-releases-operational-detection-tools",
-    "target": "CYBERSEC",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/emudhra-8-intermediate-cas-compromised-qualys-releases-operational-detection-tools"
-      }
-    ]
-  },
-  {
     "id": "07750838b8eacca0",
-    "date": "2026-10-25T22:32:35.231021+00:00",
+    "date": "2026-10-26T01:09:21.588896+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -592,24 +592,24 @@
     ]
   },
   {
-    "id": "e098c5f1be2af621",
-    "date": "2026-10-25T22:32:35.230771+00:00",
+    "id": "458b6d1593c06573",
+    "date": "2026-10-26T01:09:21.588425+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 3 CVE · 1 EXPLOIT IN THE LAST 24H →",
+    "title": "// 2 ZERO-DAY · 4 CVE · 2 EXPLOIT · 1 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/threats",
-    "target": "CVE EXPLOIT LAST",
+    "target": "ZERO-DAY CVE EXPLOIT",
     "type": "Vulnerability",
-    "severity": "Medium",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
@@ -622,7 +622,7 @@
   },
   {
     "id": "f84fc657055064d9",
-    "date": "2026-10-25T22:32:34.393236+00:00",
+    "date": "2026-10-26T01:09:20.753789+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -735,7 +735,7 @@
   },
   {
     "id": "96b97c390c9853ae",
-    "date": "2026-10-25T22:32:33.539914+00:00",
+    "date": "2026-10-26T01:09:18.917145+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -764,7 +764,7 @@
   },
   {
     "id": "c5fbbb81e2b7d891",
-    "date": "2026-10-25T22:32:33.539809+00:00",
+    "date": "2026-10-26T01:09:18.917044+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -793,7 +793,7 @@
   },
   {
     "id": "2be7161024735444",
-    "date": "2026-10-25T22:32:33.539705+00:00",
+    "date": "2026-10-26T01:09:18.916943+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -822,7 +822,7 @@
   },
   {
     "id": "49cc3a46da24526b",
-    "date": "2026-10-25T22:32:33.539561+00:00",
+    "date": "2026-10-26T01:09:18.916801+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -851,7 +851,7 @@
   },
   {
     "id": "3bb0c52472b519ff",
-    "date": "2026-10-25T22:32:33.539458+00:00",
+    "date": "2026-10-26T01:09:18.916699+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -880,7 +880,7 @@
   },
   {
     "id": "ac4a7e198336e718",
-    "date": "2026-10-25T22:32:33.539348+00:00",
+    "date": "2026-10-26T01:09:18.916591+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -909,7 +909,7 @@
   },
   {
     "id": "b9d2fb18f6a3a6a4",
-    "date": "2026-10-25T22:32:33.539208+00:00",
+    "date": "2026-10-26T01:09:18.916455+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -938,7 +938,7 @@
   },
   {
     "id": "96002c1db752c564",
-    "date": "2026-10-25T22:32:33.539042+00:00",
+    "date": "2026-10-26T01:09:18.916295+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -967,7 +967,7 @@
   },
   {
     "id": "7777349600424aeb",
-    "date": "2026-10-25T22:32:33.538844+00:00",
+    "date": "2026-10-26T01:09:18.916107+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -996,7 +996,7 @@
   },
   {
     "id": "1ec684b3004eb830",
-    "date": "2026-10-25T22:32:33.538727+00:00",
+    "date": "2026-10-26T01:09:18.915993+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1025,7 +1025,7 @@
   },
   {
     "id": "9e2a5b667cf55a3b",
-    "date": "2026-10-25T22:32:33.538529+00:00",
+    "date": "2026-10-26T01:09:18.915805+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1054,7 +1054,7 @@
   },
   {
     "id": "8150c6838a4b62d2",
-    "date": "2026-10-25T22:32:33.538414+00:00",
+    "date": "2026-10-26T01:09:18.915694+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1083,7 +1083,7 @@
   },
   {
     "id": "175c7ea5dc65956a",
-    "date": "2026-10-25T22:32:33.538282+00:00",
+    "date": "2026-10-26T01:09:18.915569+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1112,7 +1112,7 @@
   },
   {
     "id": "949b268ae5d09bd3",
-    "date": "2026-10-25T22:32:33.538159+00:00",
+    "date": "2026-10-26T01:09:18.915448+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1141,7 +1141,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-10-25T22:32:33.537960+00:00",
+    "date": "2026-10-26T01:09:18.915262+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1170,7 +1170,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-10-25T22:32:33.537389+00:00",
+    "date": "2026-10-26T01:09:18.914734+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1199,7 +1199,7 @@
   },
   {
     "id": "eaff1a05324436a3",
-    "date": "2026-10-25T22:32:33.341420+00:00",
+    "date": "2026-10-26T01:09:18.661864+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1228,7 +1228,7 @@
   },
   {
     "id": "573e3163334040b0",
-    "date": "2026-10-25T22:32:33.341318+00:00",
+    "date": "2026-10-26T01:09:18.661768+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1257,7 +1257,7 @@
   },
   {
     "id": "31dee03c6275a231",
-    "date": "2026-10-25T22:32:33.341203+00:00",
+    "date": "2026-10-26T01:09:18.661670+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1286,7 +1286,7 @@
   },
   {
     "id": "158899b0662fa0ff",
-    "date": "2026-10-25T22:32:33.341118+00:00",
+    "date": "2026-10-26T01:09:18.661588+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1315,7 +1315,7 @@
   },
   {
     "id": "43ef41892c537351",
-    "date": "2026-10-25T22:32:33.341039+00:00",
+    "date": "2026-10-26T01:09:18.661509+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1344,7 +1344,7 @@
   },
   {
     "id": "9e84d93d648f8f86",
-    "date": "2026-10-25T22:32:33.340940+00:00",
+    "date": "2026-10-26T01:09:18.661403+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1373,7 +1373,7 @@
   },
   {
     "id": "faf98c079ba5d018",
-    "date": "2026-10-25T22:32:33.340846+00:00",
+    "date": "2026-10-26T01:09:18.661314+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1402,7 +1402,7 @@
   },
   {
     "id": "c0ae732a1bba7f64",
-    "date": "2026-10-25T22:32:33.340768+00:00",
+    "date": "2026-10-26T01:09:18.661240+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1431,7 +1431,7 @@
   },
   {
     "id": "0b5ba548043e99d9",
-    "date": "2026-10-25T22:32:33.340667+00:00",
+    "date": "2026-10-26T01:09:18.661145+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1460,7 +1460,7 @@
   },
   {
     "id": "0f59a9cd4bdfb493",
-    "date": "2026-10-25T22:32:33.340574+00:00",
+    "date": "2026-10-26T01:09:18.661056+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1489,7 +1489,7 @@
   },
   {
     "id": "97065e27c22d7d08",
-    "date": "2026-10-25T22:32:33.340498+00:00",
+    "date": "2026-10-26T01:09:18.660986+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1518,7 +1518,7 @@
   },
   {
     "id": "997ecc9994f2019c",
-    "date": "2026-10-25T22:32:33.340414+00:00",
+    "date": "2026-10-26T01:09:18.660907+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1551,7 +1551,7 @@
   },
   {
     "id": "cc7e1c96307a4f14",
-    "date": "2026-10-25T22:32:33.340328+00:00",
+    "date": "2026-10-26T01:09:18.660827+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1580,7 +1580,7 @@
   },
   {
     "id": "c6ca06de0dd273d5",
-    "date": "2026-10-25T22:32:33.340232+00:00",
+    "date": "2026-10-26T01:09:18.660739+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1609,7 +1609,7 @@
   },
   {
     "id": "f6ee8980c048183f",
-    "date": "2026-10-25T22:32:33.340131+00:00",
+    "date": "2026-10-26T01:09:18.660650+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1638,7 +1638,7 @@
   },
   {
     "id": "385e6ceeca25dba0",
-    "date": "2026-10-25T22:32:33.340041+00:00",
+    "date": "2026-10-26T01:09:18.660561+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1667,7 +1667,7 @@
   },
   {
     "id": "9006c68a624ee1ec",
-    "date": "2026-10-25T22:32:33.339958+00:00",
+    "date": "2026-10-26T01:09:18.660466+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1696,7 +1696,7 @@
   },
   {
     "id": "53b7b7c3e5a03118",
-    "date": "2026-10-25T22:32:33.339871+00:00",
+    "date": "2026-10-26T01:09:18.660382+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1725,7 +1725,7 @@
   },
   {
     "id": "70d902b5d6547e36",
-    "date": "2026-10-25T22:32:33.339774+00:00",
+    "date": "2026-10-26T01:09:18.660290+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1754,7 +1754,7 @@
   },
   {
     "id": "07498abdff68378d",
-    "date": "2026-10-25T22:32:33.339677+00:00",
+    "date": "2026-10-26T01:09:18.660197+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1783,7 +1783,7 @@
   },
   {
     "id": "fef555a98492c68e",
-    "date": "2026-10-25T22:32:33.339584+00:00",
+    "date": "2026-10-26T01:09:18.660109+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1812,7 +1812,7 @@
   },
   {
     "id": "12a2bf7560527ad6",
-    "date": "2026-10-25T22:32:33.339487+00:00",
+    "date": "2026-10-26T01:09:18.660020+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1841,7 +1841,7 @@
   },
   {
     "id": "6f3809223d5502a9",
-    "date": "2026-10-25T22:32:33.339383+00:00",
+    "date": "2026-10-26T01:09:18.659926+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1870,7 +1870,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-10-25T22:32:33.339277+00:00",
+    "date": "2026-10-26T01:09:18.659823+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1915,7 +1915,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-10-25T22:32:33.339072+00:00",
+    "date": "2026-10-26T01:09:18.659653+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1943,6 +1943,122 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1qn22ig/rnetsecs_q1_2026_information_security_hiring/"
+      }
+    ]
+  },
+  {
+    "id": "1ed7c7a1b0cbc47a",
+    "date": "2026-10-25T22:32:35.233211+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Pillow 13.0.0 Fixes RCE: The Filename, Not the File, Was the Threat",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/python/pillow-1300-fixes-rce-the-filename-not-the-file-was-the-threat",
+    "target": "CRITICAL Pillow 13.0.0 Fixes",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/python/pillow-1300-fixes-rce-the-filename-not-the-file-was-the-threat"
+      }
+    ]
+  },
+  {
+    "id": "34ba13551691c859",
+    "date": "2026-10-25T22:32:35.233136+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT BeyondTrust: Chinese APT Armory Castle Exploited Zero-Day for 47 Days",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days",
+    "target": "EXPLOIT BeyondTrust",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days"
+      }
+    ]
+  },
+  {
+    "id": "53624f69f1c65b3c",
+    "date": "2026-10-25T22:32:35.232883+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Node2Shell: From Compressed Format to RCE on Node.js, Demonstrated on Official Linux arm64 Build VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/node2shell-from-compressed-format-to-rce-on-nodejs-demonstrated-on-official-linux-arm64-build",
+    "target": "Node2Shell",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/node2shell-from-compressed-format-to-rce-on-nodejs-demonstrated-on-official-linux-arm64-build"
+      }
+    ]
+  },
+  {
+    "id": "e098c5f1be2af621",
+    "date": "2026-10-25T22:32:35.230771+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 3 CVE · 1 EXPLOIT IN THE LAST 24H →",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/threats",
+    "target": "CVE EXPLOIT LAST",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/threats"
       }
     ]
   },
@@ -2340,35 +2456,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/us-air-force-pilots-bought-usb-drives-from-kabul-markets-for-mission-planning-in-afghanistan"
-      }
-    ]
-  },
-  {
-    "id": "3ddb3eaee7aec34c",
-    "date": "2026-10-24T23:13:25.640758+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "// 1 ZERO-DAY · 2 CVE · 1 EXPLOIT IN THE LAST 24H →",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/threats",
-    "target": "ZERO-DAY CVE EXPLOIT",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/threats"
       }
     ]
   },
@@ -26824,93 +26911,6 @@
       {
         "source": "Dark Reading",
         "url": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges"
-      }
-    ]
-  },
-  {
-    "id": "1605e1eaa99e362d",
-    "date": "2026-10-12T19:45:31+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Why Robust VPS Hosting Helps OpenClaw Run Faster and More Reliably",
-    "summary": "OpenClaw is not a chatbot that waits for a prompt. It is an autonomous agent that runs real…",
-    "article_text": "",
-    "quick_summary": [
-      "OpenClaw is not a chatbot that waits for a prompt.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/why-vps-hosting-helps-openclaw-run-faster-reliably/",
-    "target": "Robust VPS Hosting Helps",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/why-vps-hosting-helps-openclaw-run-faster-reliably/"
-      }
-    ]
-  },
-  {
-    "id": "f32adfdf4815ee6c",
-    "date": "2026-10-12T19:23:01+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Yandex confirms service outage as users lose access to cloud files",
-    "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-    "article_text": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. Yandex customers are experiencing service outages, some of them reporting inability to access files stored on the company’s cloud infrastructure. The impacted data centers are in Sasovo (hit on October 8), Kaluga (hit on October 9), and Vladimir (attacked on October 11). The Sasovo and Vladimir facilities stopped operating completely, while the Kaluga facility's operations are degraded. The attacks are believed to have been carried out by Ukrainian forces trying to cause widespread operational disruptions. Yandex reported no injuries related to these incidents. As Russia’s largest technology companies, Yandex is often called “Russia’s Google,” offering search engine, maps, and navigation services. The company also offers ride-hailing, delivery, shopping, streaming, email, cloud storage, and business cloud infrastructure services. Much of the country's internet infrastructure, serving both government and private-sector organizations, relies on Yandex's services. EU MEP Tomáš Zdechovský highlighted a potential connection between Yandex outages and a sudden drop in communication from online accounts promoting far-right ideals in Germany. On its status page , Yandex said its teams are working around the clock to maintain services and help affected customers and partners, but it cannot provide a reliable service-restoration timeline. For this reason, Yandex urged customers to use alternative infrastructure for disaster recovery. “We consider the remaining resource configuration to be unstable,” reads one of Yandex’s status updates from yesterday. “The platform's operating mode is emergency – we recommend using any other alternative disaster recovery plans. Technical-supported communication channels can be unstable.” As of the most recent update, Yandex’s Console, API, IAM, Container Registry, databases, S3 storage, and Kubernetes were available, with some performance or availability issues. Compute, AI Studio, and security services were partially available, while Monium is still offline. One Yandex customer reported issues starting on October 8, with backups to their Yandex Disk missing thumbnails and an inability to download previously submitted files . The user reports getting HTTP 302 redirects, HTTP 504 Gateway Timeout errors, and HTTP 500 errors when trying to access or work on the files. It is currently unclear whether any data stored in the affected data centers has been irreversibly lost, as Yandex has not addressed the problem in its status updates. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. OpenAI confirms ChatGPT is down ahead of 'Astra' model launch Ransomware attack disrupts Japan's IDCF Cloud used by govt clients Russian state hackers use new RedFlick technique to push malware Cyber exec arrested in case allegedly tied to ShinyHunters hackers Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks Microsoft: Outdated Windows devices will stop receiving security updates Is your backup really out of reach? See what the latest attacks reveal. Move from visibility to action with AITEM, Criminal IP’s next evolution of ASM AWS saw a valid key and let the agent clear a production bucket. See how Token Security ties each agent to its owner and limits it to read-only access. New OAuth risk analyst agent: Turn 45 minutes of manual review into 15 seconds. Learn how to evaluate RMM security with eight practical tests. Find gaps before scaling endpoint management across customer environments. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-    "target": "Yandex",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/"
-      }
-    ]
-  },
-  {
-    "id": "f54b2a467bae0992",
-    "date": "2026-10-12T18:27:25+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-    "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
-    "article_text": "",
-    "quick_summary": [
-      "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-    "target": "Identity Recovery",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam"
       }
     ]
   }
