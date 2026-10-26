@@ -1,36 +1,7 @@
 [
   {
-    "id": "6272d41210c2f0ec",
-    "date": "2026-10-26T19:18:35.726939+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Brotli's Phantom Fix: Eight Months in Code, Zero Releases, Vast Attack Surface",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/brotlis-phantom-fix-eight-months-in-code-zero-releases-vast-attack-surface",
-    "target": "CRITICAL Brotlis Phantom Fix",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/brotlis-phantom-fix-eight-months-in-code-zero-releases-vast-attack-surface"
-      }
-    ]
-  },
-  {
     "id": "8ae48bc3ae6645fd",
-    "date": "2026-10-26T19:18:35.726848+00:00",
+    "date": "2026-10-26T23:52:26.358509+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "29239fc04f4d6694",
-    "date": "2026-10-26T19:18:35.726768+00:00",
+    "date": "2026-10-26T23:52:26.358431+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "3253649dfa750a66",
-    "date": "2026-10-26T19:18:35.726689+00:00",
+    "date": "2026-10-26T23:52:26.358355+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -116,13 +87,13 @@
     ]
   },
   {
-    "id": "40b5bf61c14f74ba",
-    "date": "2026-10-26T19:18:35.726613+00:00",
+    "id": "e0f95aca704ff96f",
+    "date": "2026-10-26T23:52:26.358280+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "BeyondTrust: Chinese APT Armory Castle Exploited Zero-Day for 47 Days CYBERSEC EXPLOIT",
+    "title": "CVE CVE-2026-114550: RCE in libwebsockets MQTT, One-Line Patch",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -130,8 +101,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days",
-    "target": "BeyondTrust",
+    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-114550-rce-in-libwebsockets-mqtt-one-line-patch",
+    "target": "CVE CVE-2026-114550",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -140,13 +111,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days"
+        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-114550-rce-in-libwebsockets-mqtt-one-line-patch"
       }
     ]
   },
   {
     "id": "a9de01dac9aded88",
-    "date": "2026-10-26T19:18:35.726533+00:00",
+    "date": "2026-10-26T23:52:26.358208+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -175,7 +146,7 @@
   },
   {
     "id": "729d33da80ade717",
-    "date": "2026-10-26T19:18:35.726444+00:00",
+    "date": "2026-10-26T23:52:26.358123+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -204,7 +175,7 @@
   },
   {
     "id": "27afb03c4b8cc7a0",
-    "date": "2026-10-26T19:18:35.726362+00:00",
+    "date": "2026-10-26T23:52:26.358024+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "af3b7690e2bfacae",
-    "date": "2026-10-26T19:18:35.726276+00:00",
+    "date": "2026-10-26T23:52:26.357918+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +233,7 @@
   },
   {
     "id": "53c34fae469eccec",
-    "date": "2026-10-26T19:18:35.726193+00:00",
+    "date": "2026-10-26T23:52:26.357837+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +262,7 @@
   },
   {
     "id": "c7127b3b2aa06d0a",
-    "date": "2026-10-26T19:18:35.726019+00:00",
+    "date": "2026-10-26T23:52:26.357673+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -319,8 +290,37 @@
     ]
   },
   {
+    "id": "190ceddd07088cd0",
+    "date": "2026-10-26T23:52:26.357581+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "AI Coding Agents Hijacked by a File in Downloads: Nothing to Patch CYBERSEC",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/ai-coding-agents-hijacked-by-a-file-in-downloads-nothing-to-patch",
+    "target": "Coding Agents Hijacked File",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/ai-coding-agents-hijacked-by-a-file-in-downloads-nothing-to-patch"
+      }
+    ]
+  },
+  {
     "id": "ca355f225bc28bc9",
-    "date": "2026-10-26T19:18:35.725529+00:00",
+    "date": "2026-10-26T23:52:26.357113+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -349,7 +349,7 @@
   },
   {
     "id": "927c730f85fd3ffa",
-    "date": "2026-10-26T19:18:35.725438+00:00",
+    "date": "2026-10-26T23:52:26.357023+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -382,7 +382,7 @@
   },
   {
     "id": "64e0613413fa9263",
-    "date": "2026-10-26T19:18:35.725359+00:00",
+    "date": "2026-10-26T23:52:26.356934+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -411,7 +411,7 @@
   },
   {
     "id": "2e9ad9f3483fd092",
-    "date": "2026-10-26T19:18:35.725277+00:00",
+    "date": "2026-10-26T23:52:26.356852+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -448,7 +448,7 @@
   },
   {
     "id": "3926c46ac13e2802",
-    "date": "2026-10-26T19:18:35.725200+00:00",
+    "date": "2026-10-26T23:52:26.356776+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -477,7 +477,7 @@
   },
   {
     "id": "1ecf0823fbc03fd9",
-    "date": "2026-10-26T19:18:35.725124+00:00",
+    "date": "2026-10-26T23:52:26.356699+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -506,7 +506,7 @@
   },
   {
     "id": "104c7f57f6827a18",
-    "date": "2026-10-26T19:18:35.725047+00:00",
+    "date": "2026-10-26T23:52:26.356623+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -534,37 +534,8 @@
     ]
   },
   {
-    "id": "0abeee2fde34765c",
-    "date": "2026-10-26T19:18:35.724963+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CYBERSEC AI Coding Agents Hijacked by a File in Downloads: Nothing to Patch Oct 26, 2026",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/ai-coding-agents-hijacked-by-a-file-in-downloads-nothing-to-patch",
-    "target": "CYBERSEC Coding Agents Hijacked",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/ai-coding-agents-hijacked-by-a-file-in-downloads-nothing-to-patch"
-      }
-    ]
-  },
-  {
     "id": "9b3d8811795a3473",
-    "date": "2026-10-26T19:18:35.724665+00:00",
+    "date": "2026-10-26T23:52:26.356359+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -592,13 +563,13 @@
     ]
   },
   {
-    "id": "a5fc550592654f28",
-    "date": "2026-10-26T19:18:35.724567+00:00",
+    "id": "f97c8af35316ba3e",
+    "date": "2026-10-26T23:52:26.356269+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Teams Vishing: Hundreds of IT-Themed Attacks Lead to Chaos Ransomware",
+    "title": "CYBERSEC Teams Vishing: Hundreds of IT-Themed Attacks Lead to Chaos Ransomware Oct 26, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -607,7 +578,7 @@
       "Action: monitor indicators, backups, remote access, and related vendor exposure."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/teams-vishing-hundreds-of-it-themed-attacks-lead-to-chaos-ransomware",
-    "target": "Teams Vishing",
+    "target": "CYBERSEC Teams Vishing",
     "type": "Ransomware",
     "severity": "High",
     "sources": [
@@ -622,12 +593,12 @@
   },
   {
     "id": "458b6d1593c06573",
-    "date": "2026-10-26T19:18:35.724428+00:00",
+    "date": "2026-10-26T23:52:26.356046+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 3 ZERO-DAY · 4 CVE · 4 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
+    "title": "// 3 ZERO-DAY · 5 CVE · 5 EXPLOIT · 2 ADVISORY IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -651,7 +622,7 @@
   },
   {
     "id": "ee77edafb54f3244",
-    "date": "2026-10-26T19:18:34.483856+00:00",
+    "date": "2026-10-26T23:52:25.696022+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -768,7 +739,7 @@
   },
   {
     "id": "49cc3a46da24526b",
-    "date": "2026-10-26T19:18:32.794072+00:00",
+    "date": "2026-10-26T23:52:25.279091+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -797,7 +768,7 @@
   },
   {
     "id": "3bb0c52472b519ff",
-    "date": "2026-10-26T19:18:32.793968+00:00",
+    "date": "2026-10-26T23:52:25.278941+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -826,7 +797,7 @@
   },
   {
     "id": "ac4a7e198336e718",
-    "date": "2026-10-26T19:18:32.793846+00:00",
+    "date": "2026-10-26T23:52:25.278835+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -855,7 +826,7 @@
   },
   {
     "id": "b9d2fb18f6a3a6a4",
-    "date": "2026-10-26T19:18:32.793721+00:00",
+    "date": "2026-10-26T23:52:25.278708+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -884,7 +855,7 @@
   },
   {
     "id": "96002c1db752c564",
-    "date": "2026-10-26T19:18:32.793561+00:00",
+    "date": "2026-10-26T23:52:25.278545+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -913,7 +884,7 @@
   },
   {
     "id": "7777349600424aeb",
-    "date": "2026-10-26T19:18:32.793367+00:00",
+    "date": "2026-10-26T23:52:25.278351+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -942,7 +913,7 @@
   },
   {
     "id": "1ec684b3004eb830",
-    "date": "2026-10-26T19:18:32.793243+00:00",
+    "date": "2026-10-26T23:52:25.278230+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -971,7 +942,7 @@
   },
   {
     "id": "9e2a5b667cf55a3b",
-    "date": "2026-10-26T19:18:32.793056+00:00",
+    "date": "2026-10-26T23:52:25.278043+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1000,7 +971,7 @@
   },
   {
     "id": "8150c6838a4b62d2",
-    "date": "2026-10-26T19:18:32.792944+00:00",
+    "date": "2026-10-26T23:52:25.277926+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1029,7 +1000,7 @@
   },
   {
     "id": "175c7ea5dc65956a",
-    "date": "2026-10-26T19:18:32.792810+00:00",
+    "date": "2026-10-26T23:52:25.277810+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1058,7 +1029,7 @@
   },
   {
     "id": "949b268ae5d09bd3",
-    "date": "2026-10-26T19:18:32.792711+00:00",
+    "date": "2026-10-26T23:52:25.277711+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1087,7 +1058,7 @@
   },
   {
     "id": "72ff4e1cde9d4298",
-    "date": "2026-10-26T19:18:32.792608+00:00",
+    "date": "2026-10-26T23:52:25.277607+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1116,7 +1087,7 @@
   },
   {
     "id": "c9d88eef9e7a2e4f",
-    "date": "2026-10-26T19:18:32.792493+00:00",
+    "date": "2026-10-26T23:52:25.277490+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1145,7 +1116,7 @@
   },
   {
     "id": "9ae7c109846e4bb5",
-    "date": "2026-10-26T19:18:32.792358+00:00",
+    "date": "2026-10-26T23:52:25.277351+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1174,7 +1145,7 @@
   },
   {
     "id": "7af075d521e82395",
-    "date": "2026-10-26T19:18:32.792248+00:00",
+    "date": "2026-10-26T23:52:25.277244+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1203,7 +1174,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-10-26T19:18:32.792051+00:00",
+    "date": "2026-10-26T23:52:25.277050+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1232,7 +1203,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-10-26T19:18:32.791473+00:00",
+    "date": "2026-10-26T23:52:25.276498+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1261,7 +1232,7 @@
   },
   {
     "id": "43ef41892c537351",
-    "date": "2026-10-26T19:18:32.467313+00:00",
+    "date": "2026-10-26T23:52:25.056105+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1290,7 +1261,7 @@
   },
   {
     "id": "9e84d93d648f8f86",
-    "date": "2026-10-26T19:18:32.467216+00:00",
+    "date": "2026-10-26T23:52:25.056010+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1319,7 +1290,7 @@
   },
   {
     "id": "faf98c079ba5d018",
-    "date": "2026-10-26T19:18:32.467125+00:00",
+    "date": "2026-10-26T23:52:25.055910+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1348,7 +1319,7 @@
   },
   {
     "id": "c0ae732a1bba7f64",
-    "date": "2026-10-26T19:18:32.467049+00:00",
+    "date": "2026-10-26T23:52:25.055834+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1377,7 +1348,7 @@
   },
   {
     "id": "0f59a9cd4bdfb493",
-    "date": "2026-10-26T19:18:32.466959+00:00",
+    "date": "2026-10-26T23:52:25.055749+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1406,7 +1377,7 @@
   },
   {
     "id": "0b5ba548043e99d9",
-    "date": "2026-10-26T19:18:32.466850+00:00",
+    "date": "2026-10-26T23:52:25.055641+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1435,7 +1406,7 @@
   },
   {
     "id": "97065e27c22d7d08",
-    "date": "2026-10-26T19:18:32.466774+00:00",
+    "date": "2026-10-26T23:52:25.055509+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1464,7 +1435,7 @@
   },
   {
     "id": "997ecc9994f2019c",
-    "date": "2026-10-26T19:18:32.466694+00:00",
+    "date": "2026-10-26T23:52:25.055431+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1497,7 +1468,7 @@
   },
   {
     "id": "cc7e1c96307a4f14",
-    "date": "2026-10-26T19:18:32.466613+00:00",
+    "date": "2026-10-26T23:52:25.055352+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1526,7 +1497,7 @@
   },
   {
     "id": "c6ca06de0dd273d5",
-    "date": "2026-10-26T19:18:32.466525+00:00",
+    "date": "2026-10-26T23:52:25.055264+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1555,7 +1526,7 @@
   },
   {
     "id": "f6ee8980c048183f",
-    "date": "2026-10-26T19:18:32.466438+00:00",
+    "date": "2026-10-26T23:52:25.055172+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1584,7 +1555,7 @@
   },
   {
     "id": "385e6ceeca25dba0",
-    "date": "2026-10-26T19:18:32.466351+00:00",
+    "date": "2026-10-26T23:52:25.055084+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1613,7 +1584,7 @@
   },
   {
     "id": "9006c68a624ee1ec",
-    "date": "2026-10-26T19:18:32.466265+00:00",
+    "date": "2026-10-26T23:52:25.054985+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1642,7 +1613,7 @@
   },
   {
     "id": "53b7b7c3e5a03118",
-    "date": "2026-10-26T19:18:32.466182+00:00",
+    "date": "2026-10-26T23:52:25.054902+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1671,7 +1642,7 @@
   },
   {
     "id": "70d902b5d6547e36",
-    "date": "2026-10-26T19:18:32.466089+00:00",
+    "date": "2026-10-26T23:52:25.054810+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1700,7 +1671,7 @@
   },
   {
     "id": "07498abdff68378d",
-    "date": "2026-10-26T19:18:32.465995+00:00",
+    "date": "2026-10-26T23:52:25.054720+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1729,7 +1700,7 @@
   },
   {
     "id": "fef555a98492c68e",
-    "date": "2026-10-26T19:18:32.465895+00:00",
+    "date": "2026-10-26T23:52:25.054636+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1758,7 +1729,7 @@
   },
   {
     "id": "12a2bf7560527ad6",
-    "date": "2026-10-26T19:18:32.465807+00:00",
+    "date": "2026-10-26T23:52:25.054552+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1787,7 +1758,7 @@
   },
   {
     "id": "6f3809223d5502a9",
-    "date": "2026-10-26T19:18:32.465724+00:00",
+    "date": "2026-10-26T23:52:25.054469+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1816,7 +1787,7 @@
   },
   {
     "id": "a72f15a151b4b5c9",
-    "date": "2026-10-26T19:18:32.465640+00:00",
+    "date": "2026-10-26T23:52:25.054386+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1844,37 +1815,8 @@
     ]
   },
   {
-    "id": "85724eb751bf0003",
-    "date": "2026-10-26T19:18:32.465551+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "How to Intercept HTTP/3 Traffic (QUIC and QPACK Explained)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "How to Intercept HTTP/3 Traffic (QUIC and QPACK Explained)",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1xg6cpe/how_to_intercept_http3_traffic_quic_and_qpack/",
-    "target": "Intercept HTTP3 Traffic QUIC",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1xg6cpe/how_to_intercept_http3_traffic_quic_and_qpack/"
-      }
-    ]
-  },
-  {
     "id": "0eb050951bababb5",
-    "date": "2026-10-26T19:18:32.465462+00:00",
+    "date": "2026-10-26T23:52:25.054297+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1902,8 +1844,37 @@
     ]
   },
   {
+    "id": "85724eb751bf0003",
+    "date": "2026-10-26T23:52:25.054204+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "How to Intercept HTTP/3 Traffic (QUIC and QPACK Explained)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "How to Intercept HTTP/3 Traffic (QUIC and QPACK Explained)",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1xg6cpe/how_to_intercept_http3_traffic_quic_and_qpack/",
+    "target": "Intercept HTTP3 Traffic QUIC",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1xg6cpe/how_to_intercept_http3_traffic_quic_and_qpack/"
+      }
+    ]
+  },
+  {
     "id": "8c0e6fd4db414283",
-    "date": "2026-10-26T19:18:32.465365+00:00",
+    "date": "2026-10-26T23:52:25.054115+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1932,7 +1903,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-10-26T19:18:32.465260+00:00",
+    "date": "2026-10-26T23:52:25.054009+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1977,7 +1948,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-10-26T19:18:32.465081+00:00",
+    "date": "2026-10-26T23:52:25.053824+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2009,6 +1980,354 @@
     ]
   },
   {
+    "id": "22acc80791a20bae",
+    "date": "2026-10-26T23:34:37+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
+    "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.",
+    "article_text": "",
+    "quick_summary": [
+      "Apple today released patches for 304 vulnerabilties.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33458",
+    "target": "Apple Patches October 2026",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33458"
+      }
+    ]
+  },
+  {
+    "id": "3e5537896aa4ef8e",
+    "date": "2026-10-26T22:20:36+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "University of Copenhagen data breach exposes data of 525,000 people",
+    "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+    "article_text": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. The educational organization detected the breach last Tuesday and disclosed it on Friday. In an update yesterday, the university added another 20,000 staff and students whose PIN codes were exposed. “The University of Copenhagen has confirmed a cyber attack in which hackers gained access to one of the university’s test environments,” the university says . Founded in 1479, the University of Copenhagen is Denmark’s oldest university and one of its leading research institutions. It has approximately 36,800 students and 10,700 employees, with six faculties and more than 200 research centers. The University of Copenhagen is still investigating to determine the extent of the incident, but warns that the following information may have been exposed: The exposed information increases the risk of phishing and social engineering attacks. Regarding the PIN access exposure, the University of Copenhagen has restricted physical access to certain critical locations on its campus out of abundance of caution and is gradually reopening them as it distributes new access codes. The university says it contained the attack and blocked the attacker’s access. Currently, there is no indication that hackers accessed systems supporting daily operations or disrupted university activities. The university reported the incident to the Danish Data Protection Agency, but also said it falls within the scope of Europe’s General Data Protection Regulation (GDPR) and that it is taking the appropriate steps with the relevant regulators. Students and staff whose data may have been exposed in this incident should be cautious of unsolicited communications and independently verify requests. The university promised to provide more updates on the scope of the impact as soon as its internal investigation allows. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Denmark population registry data breach affects 8.8 million people Quest Diagnostics confirms data breach exposed patient records Zeabur shutting down after second security breach in two months Nikkei discloses third data breach in a month, 1.8M records exposed PHP shares mitigation for new RCE vulnerability with no patch Quest Diagnostics confirms data breach exposed patient records HPE patches eight max severity RCE and auth bypass AOS flaws What can your AI agents actually do? Learn to control every action in our Nov. 18 webinar. Who really has control of your AI agent? Gen is taking on the agent trust problem. CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+    "target": "University Copenhagen 525000",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/"
+      }
+    ]
+  },
+  {
+    "id": "e8383adfeb9812eb",
+    "date": "2026-10-26T21:44:33+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
+    "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
+    "article_text": "",
+    "quick_summary": [
+      "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+    "target": "Risks Rewards",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role"
+      }
+    ]
+  },
+  {
+    "id": "8faf1017f37ccaf0",
+    "date": "2026-10-26T21:08:28+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+    "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+    "article_text": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. According to local media citing the Seoul Metropolitan Police, the gang leader has a background in penetration testing and worked at a cybersecurity company between 2019 and 2022. In 38 of the incidents, the threat actor demanded ransom payments of 360 million won ($270,000), promising in exchange not to leak stolen data. Authorities believe the threat actor stole 8.2 million records from compromised organizations, including educational institutes, hospitals, large corporations, and even golf courses. Yonhap News says that the gang leader is a self-taught 32 year-old hacker and started attacking organizations in September 2025. The Seoul Metropolitan police told the publication that the hacker used the ARTEX AI penetration testing suite, the same autonomous framework used in the attacks against multiple South Korean banks attributed to a Chinese-speaking threat actor. Initially, the hacker used conventional tools but adopted AI utilities in late August 2026 to expand the attacks. Authorities arrested all seven suspects, but only the group’s leader remains in custody. Arrested on October 15, he was formally detained two days later and referred to prosecutors on October 23. The other six suspects remain under investigation without being detained. Police opened a case after a victim filed a complaint in June, and investigators traced the suspects through server logs from the breached entities. Law enforcement authorities reportedly used an in-house AI tool to analyze the recovered evidence. The police told local media that AI has lowered the barrier to entry for aspiring cybercriminals, resulting in large-scale, high-impact incidents that were previously only possible for skillful, knowledgeable actors. “This is the first case of arrest of a suspect in Korea related to a large-scale hacking and personal information theft crime that exploited generative AI,\" the police told Yonhap. “Even individuals who are not professional hacker organizations can now hack on a large scale with the help of AI.” The police continue the investigation, now focusing on whether any of the stolen data has been leaked on the dark web. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. ARTEX AI, Claude agents used in cyberattacks on South Korean banks Cyber exec arrested in case allegedly tied to ShinyHunters hackers FBI arrests another suspected ShinyHunters hacker after agency breach FBI tells ShinyHunters members to turn themselves in after recent arrest Dutch police confirm arrest in ShinyHunters hacking investigation PHP shares mitigation for new RCE vulnerability with no patch Quest Diagnostics confirms data breach exposed patient records HPE patches eight max severity RCE and auth bypass AOS flaws What can your AI agents actually do? Learn to control every action in our Nov. 18 webinar. Who really has control of your AI agent? Gen is taking on the agent trust problem. CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+    "target": "Former ARTEX 8.2",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/"
+      }
+    ]
+  },
+  {
+    "id": "c58152905d16d353",
+    "date": "2026-10-26T21:03:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
+    "summary": "In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable for the alleged deception.",
+    "article_text": "",
+    "quick_summary": [
+      "In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable for the alleged deception.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/texas-sues-openai-deceiving-customers",
+    "target": "Texas OpenAI",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/texas-sues-openai-deceiving-customers"
+      }
+    ]
+  },
+  {
+    "id": "c52d775d3daf7db8",
+    "date": "2026-10-26T20:59:26+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+    "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
+    "article_text": "",
+    "quick_summary": [
+      "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+    "target": "In-the-Wild Abuses Agents Trust",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown"
+      }
+    ]
+  },
+  {
+    "id": "a9d24ace46c9cb54",
+    "date": "2026-10-26T20:46:49+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+    "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+    "article_text": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. Terra is designed as a faster and cheaper option for tasks such as filling out forms, editing videos, interpreting technical drawings, and automating repetitive desktop work. \"We’re introducing GPT-6.1 Terra, a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing,\" OpenAI explained in a blog post . \"A significant step up from GPT-5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos.\" OpenAI says GPT-6.1 Terra's API pricing is 50% lower than GPT-5.6 Terra and GPT-6.1 Sol, at $1 per million input tokens and $5 per million output tokens. On Agents' Last Exam, Terra scored 15 percentage points higher than GPT-5.6 Terra at medium reasoning effort while costing about one-third as much. \"It even performs on par with GPT-6 Astra at only one-tenth its price per token,\" OpenAI noted. \"Terra is also much quicker, completing tasks over three times faster than both GPT-6 Astra and GPT-6.1 Sol.\" On its internal benchmark, the error rate at low reasoning effort dropped from 53.6% with GPT-5.6 Terra to 16.7% with GPT-6.1 Terra. \"At maximum effort, the error rate fell by 18 percentage points to 4.3%, nearly matching the rates for GPT-6 Astra and GPT-6.1 Sol,\" OpenAI said. Coding has improved as well, with Terra scoring 50.3% on Terminal-Bench 4.0 at maximum reasoning effort, more than double GPT-5.6 Terra's 21.5% score. OpenAI still recommends GPT-6.1 Sol or GPT-6 Astra for the most complex coding tasks. GPT-6.1 Terra is available now to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex, as well as through the API as gpt-6.1-terra . Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. OpenAI's AI agents accidentally uploaded user-provided images to third-party sites OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor ChatGPT can now connect to your personal apps to mimic writing style OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code PHP shares mitigation for new RCE vulnerability with no patch Quest Diagnostics confirms data breach exposed patient records HPE patches eight max severity RCE and auth bypass AOS flaws What can your AI agents actually do? Learn to control every action in our Nov. 18 webinar. Who really has control of your AI agent? Gen is taking on the agent trust problem. CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+    "target": "OpenAI GPT-6.1 Terra",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/"
+      }
+    ]
+  },
+  {
+    "id": "a91bdb09e95f61db",
+    "date": "2026-10-26T20:20:56+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
+    "summary": "A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks. The post Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+    "target": "Anthropic Files Potentially Biggest",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/"
+      }
+    ]
+  },
+  {
+    "id": "fe8a40c0cfaa679b",
+    "date": "2026-10-26T19:26:20+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "DreamHost forces password resets in ongoing \"incident\"",
+    "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+    "article_text": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. The latest update from the web hosting provider notes that all affected account owners have received recovery instructions. Users will be unable to log in until their account owner sets new credentials. DreamHost is a U.S. web hosting provider and domain registrar that offers WordPress hosting, business email, virtual private servers, dedicated servers, and cloud services. According to the company page, it serves over 400,000 customers in more than 100 countries and supports at least 1.5 million websites and applications, including 750,000 WordPress installations. DreamHost initially reported connectivity problems affecting its File Manager interface on October 23, but the impact quickly expanded to other services. The company responded by blocking access to all users until they completed password resets, an action described as a precaution. Over the weekend, the company sent out recovery instructions in batches and notified all affected account holders. As of publishing, the incident remains active and access to File Manager is still unavailable. In notifications to impacted account holders , the company advises users to also review each email address for forwarding rules and remove any forwarding destination they do not recognize. While this suggests that some email accounts may have been breached and exposed to external actors, DreamHost did not provide additional details. Long-time customers are also complaining about the lack of information from DreamHost, leading some of them to speculate about what happened. \"It's disturbing to get these emails with zero explanation what's going on, and very frustrating that user community has to guess,\" one customer said . Users are also recommended to change reused passwords elsewhere if their old DreamHost password was reused on other platforms/services. DreamHost also said it cannot contact individual mailbox or FTP users directly, urging account owners to notify affected users by phone, text, or other means, as those whose passwords were reset may be unable to access their email accounts. BleepingComputer has contacted DreamHost multiple times with questions about the incident, the number of impacted accounts, and whether files or messages were exposed, but we have not heard back as of publication. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected Zeabur shutting down after second security breach in two months Bullhorn takes staffing platform offline to contain cyberattack PHP shares mitigation for new RCE vulnerability with no patch Quest Diagnostics confirms data breach exposed patient records HPE patches eight max severity RCE and auth bypass AOS flaws Who really has control of your AI agent? Gen is taking on the agent trust problem. What can your AI agents actually do? Learn to control every action in our Nov. 18 webinar. CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+    "target": "DreamHost",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/"
+      }
+    ]
+  },
+  {
+    "id": "6272d41210c2f0ec",
+    "date": "2026-10-26T19:18:35.726939+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Brotli's Phantom Fix: Eight Months in Code, Zero Releases, Vast Attack Surface",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/brotlis-phantom-fix-eight-months-in-code-zero-releases-vast-attack-surface",
+    "target": "CRITICAL Brotlis Phantom Fix",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/brotlis-phantom-fix-eight-months-in-code-zero-releases-vast-attack-surface"
+      }
+    ]
+  },
+  {
+    "id": "40b5bf61c14f74ba",
+    "date": "2026-10-26T19:18:35.726613+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "BeyondTrust: Chinese APT Armory Castle Exploited Zero-Day for 47 Days CYBERSEC EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days",
+    "target": "BeyondTrust",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/beyondtrust-chinese-apt-armory-castle-exploited-zero-day-for-47-days"
+      }
+    ]
+  },
+  {
+    "id": "0abeee2fde34765c",
+    "date": "2026-10-26T19:18:35.724963+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CYBERSEC AI Coding Agents Hijacked by a File in Downloads: Nothing to Patch Oct 26, 2026",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/ai-coding-agents-hijacked-by-a-file-in-downloads-nothing-to-patch",
+    "target": "CYBERSEC Coding Agents Hijacked",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/ai-coding-agents-hijacked-by-a-file-in-downloads-nothing-to-patch"
+      }
+    ]
+  },
+  {
     "id": "95f6d011bf893c7a",
     "date": "2026-10-26T19:03:53+00:00",
     "source": "HackRead",
@@ -2034,6 +2353,35 @@
       {
         "source": "HackRead",
         "url": "https://hackread.com/refrigeration-controls-exposed-online-99-countries/"
+      }
+    ]
+  },
+  {
+    "id": "e6faabd37cfc1cc0",
+    "date": "2026-10-26T18:12:22+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+    "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks. \"When you",
+    "article_text": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks. \"When you visit, that code makes your browser ask the group's server what to do next,\" Sansec said . \"The server first checks whether you are a real shopper or a security scanner, so scanners get nothing.\" No less than five distinct domains have been observed over time in connection with the campaign - Sansec said it found deepveindrilling[.]com in the CMS blocks of 83 online stores since the domain was registered on October 6, 2026. The latest JavaScript loader domain is hosted behind Cloudflare and only responds to script requests from real visitors of infected stores. The loader is staged within Magento's cms_block database table, which is used to render static content into storefront pages. The ultimate objective of the attack is to launch the attack-controlled code when the CMS block is rendered after a shopper opens the compromised website. While Sansec does not disclose whether the threat actor modifies an existing CMS block (such as header, footer, or promotional banner) or creates a new block, the attacker can adopt either of the approaches to run the loader. Two different versions of the loader have been spotted. In one version, the external JavaScript loaded from the attacker's domain stores the payload in the browser's localStorage. This causes the stashed code to be run again on subsequent visits, even if the external domain becomes unavailable. The second version expands on this behavior by incorporating browser fingerprinting checks to filter out bots and security scanners, while ensuring that only real shoppers are exposed to the malicious code. The exact nature of the final payload remains unknown. Early iterations of the campaign have also been observed using Keitaro , an advertising tracker and analytics platform, as a traffic distribution system (TDS), to route visitors to different responses – i.e., return a payload, a redirect or nothing – based on their characteristics. As for the initial access vector, 471 Magento stores are estimated to have been injected with the loader through the PolyShell (aka CVE-2026-48356 ) vulnerability. Another 102 stores saw files uploaded through the PolyShell or SessionReaper (aka CVE-2025-54236) vulnerabilities. \"One store on Magento 2.4.7-p1 had PolyShell webshells disguised as PNG images in pub/media/custom_options/quote/, next to the additionalver.com loader in a CMS block,\" Sansec said. \"The block switched to deepveindrilling[.]com on October 7. The store still lacks APSB26-73, Adobe's PolyShell fix for supported release lines.\" In another case, an e-commerce store running Magento 2.4.7-p10 with no missing core patches was compromised to add a rogue administrator account and then use it to inject the code. Site owners are advised to audit their sites for suspicious accounts and unexpected CMS blocks in the cms_block and cms_page tables. It's also advised to keep the sites up-to-date and enforce strong passwords. The disclosure comes against the backdrop of PHP2Shell , a set of two critical vulnerabilities in PHP (CVE-2026-109618 and CVE-2026-109619) that have witnessed widespread exploitation attempts following their disclosure last week. However, Perplexity researcher Adel Karimi has recorded what appears to be the first in-the-wild successful exploitation of the vulnerabilities to run shell commands on honeypot servers. These commands have been observed using wget, curl, or PHP CLI to fetch additional payloads from a remote server (\"162.35.99[.]94:80\").No downloaded second-stage artifacts have been observed so far. Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities. Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+    "target": "Infect 953 Online Stores",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html"
       }
     ]
   },
@@ -2290,7 +2638,7 @@
     "category": "",
     "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
     "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
-    "article_text": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. Tracked as CVE-2026-111497 , this critical-severity flaw stems from an out-of-bounds write in the Brotli decoder, which expands data compressed using Google's widely used Brotli lossless compression algorithm. HTTP2Shell impacts HTTP clients and servers, as well as other applications and tools that rely on vulnerable Brotli implementations. Successful exploitation lets unprivileged attackers use a maliciously crafted Brotli-compressed stream to trigger crashes or memory leaks and, in some cases, gain remote code execution on devices with vulnerable Brotli binaries or libraries. According to a Microsoft advisory published Sunday, attackers can also exploit this flaw to remotely escalate privileges on systems with unpatched .NET installations that use non-default configurations. \"Applications may be affected if they process Brotli-compressed data through ASP.NET Core request decompression, HttpClient automatic response decompression, or the System.IO.Compression Brotli APIs,\" Microsoft said . \"Brotli decompression is not enabled by default in an out-of-the-box .NET or ASP.NET Core install. Applications must manually opt in to ASP.NET Core request decompression or HttpClient response decompression, or they must manually invoke the Brotli decompression APIs provided by .NET.\" To address this flaw, Microsoft has released out-of-band (OOB) security updates for .NET 8, .NET 9, and .NET 10, along with .NET 11 Release Candidate 3, and advised \"updating as soon as possible.\" While proof-of-concept (PoC) exploits for Broccoli2Shell have already been published on GitHub, no reports of malicious exploitation in the wild have emerged. A dedicated online portal tracking the flaw warns that updating the system Brotli library doesn't address the risk in apps that bundle their own copy of the library. Those who can't apply the updates immediately should block incoming Brotli-compressed requests using a proxy or firewall, or disable Brotli decoding until they can apply a patch. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Microsoft releases emergency Windows updates to fix RDS failures Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days Microsoft releases Windows 10 KB5126657 extended security update Google fixes actively exploited Android zero-day on Pixel devices Microsoft confirms KB5002914 Excel update breaks copy and paste PHP shares mitigation for new RCE vulnerability with no patch Quest Diagnostics confirms data breach exposed patient records HPE patches eight max severity RCE and auth bypass AOS flaws What can your AI agents actually do? Learn to control every action in our Nov. 18 webinar. Who really has control of your AI agent? Gen is taking on the agent trust problem. Overdue a password health-check? Audit your Active Directory for free CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. Tracked as CVE-2026-111497 , this critical-severity flaw stems from an out-of-bounds write in the Brotli decoder, which expands data compressed using Google's widely used Brotli lossless compression algorithm. HTTP2Shell impacts HTTP clients and servers, as well as other applications and tools that rely on vulnerable Brotli implementations. Successful exploitation lets unprivileged attackers use a maliciously crafted Brotli-compressed stream to trigger crashes or memory leaks and, in some cases, gain remote code execution on devices with vulnerable Brotli binaries or libraries. According to a Microsoft advisory published Sunday, attackers can also exploit this flaw to remotely escalate privileges on systems with unpatched .NET installations that use non-default configurations. \"Applications may be affected if they process Brotli-compressed data through ASP.NET Core request decompression, HttpClient automatic response decompression, or the System.IO.Compression Brotli APIs,\" Microsoft said . \"Brotli decompression is not enabled by default in an out-of-the-box .NET or ASP.NET Core install. Applications must manually opt in to ASP.NET Core request decompression or HttpClient response decompression, or they must manually invoke the Brotli decompression APIs provided by .NET.\" To address this flaw, Microsoft has released out-of-band (OOB) security updates for .NET 8, .NET 9, and .NET 10, along with .NET 11 Release Candidate 3, and advised \"updating as soon as possible.\" While proof-of-concept (PoC) exploits for Broccoli2Shell have already been published on GitHub, no reports of malicious exploitation in the wild have emerged. A dedicated online portal tracking the flaw warns that updating the system Brotli library doesn't address the risk in apps that bundle their own copy of the library. Those who can't apply the updates immediately should block incoming Brotli-compressed requests using a proxy or firewall, or disable Brotli decoding until they can apply a patch. Overall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply. The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments. Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches Microsoft releases emergency Windows updates to fix RDS failures Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days Microsoft releases Windows 10 KB5126657 extended security update Google fixes actively exploited Android zero-day on Pixel devices PHP shares mitigation for new RCE vulnerability with no patch Quest Diagnostics confirms data breach exposed patient records HPE patches eight max severity RCE and auth bypass AOS flaws Overdue a password health-check? Audit your Active Directory for free Who really has control of your AI agent? Gen is taking on the agent trust problem. What can your AI agents actually do? Learn to control every action in our Nov. 18 webinar. CTA: Hijacked sessions reach every app your users touch. See how Exaforce agents contain identity attacks Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -3893,6 +4241,178 @@
       {
         "source": "Zero Day Initiative",
         "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-791/"
+      }
+    ]
+  },
+  {
+    "id": "23dd99068e19beab",
+    "date": "2026-10-26T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-809: Meta FAIRChem dense_eval dft-targets Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-809/",
+    "target": "ZDI-26-809",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-809/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-808/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-806/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-805/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-804/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-803/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-802/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-801/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-800/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-799/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-798/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-797/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-794/"
+      }
+    ]
+  },
+  {
+    "id": "4da9b3a8f4c69510",
+    "date": "2026-10-26T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-807: Meta FAIRChem get_computational_df_to_predict Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-807/",
+    "target": "ZDI-26-807",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-807/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-796/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-795/"
+      }
+    ]
+  },
+  {
+    "id": "7ead3075e814a01b",
+    "date": "2026-10-26T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-793: Meta FAIRChem load_and_preprocess_data Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Meta FAIRChem.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-793/",
+    "target": "ZDI-26-793",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-793/"
+      }
+    ]
+  },
+  {
+    "id": "8b697ab0e2b0cbe4",
+    "date": "2026-10-26T05:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-792: libwebsockets MQTT Protocol PUBACK Packet Handling Out-Of-Bounds Write Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of libwebsockets. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 8.1. The following CVEs are assigned: CVE-2026-114550.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of libwebsockets.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-792/",
+    "target": "ZDI-26-792",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-792/"
       }
     ]
   },
@@ -26461,470 +26981,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/"
-      }
-    ]
-  },
-  {
-    "id": "2ed63af1ee5dc51e",
-    "date": "2026-10-13T16:18:18+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-    "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your configuration becomes validated and exempt from expiry after its first successful publish,\" the Microsoft-owned subsidiary",
-    "article_text": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your configuration becomes validated and exempt from expiry after its first successful publish,\" the Microsoft-owned subsidiary said . \"Changing the repository or project identity requires a new trust relationship with a fresh 48-hour validation window -- ordinary edits don't restart the deadline.\" The change contains the risk associated with trusting a repository or project name that changes ownership, GitHub said, adding npm also rejects trusted publishing tokens from GitHub Actions issue_comment events going forward, along with the Existing pull_request_target restriction. In an update to its documentation, GitHub states that a newly created trusted publisher configuration must complete its first successful publish within two days, which validates the configuration and binds it to the \"repository's immutable identity.\" The development comes in response to findings from Bloom Security, which discovered a loophole within npm's trusted publishing to take over thousands of packages and trigger a Shai-Hulud-style cascading supply chain attack. The findings were reported to GitHub on June 6, 2026. \"Imagine this: an attacker compromises a single package. An AI agent on a popular package maintainer's device autonomously pulls it for a project,\" security researcher Golan Myers said. \"That single endpoint is used to push malicious code to the popular package. All the package users are exposed. All because one person with the correct access was exposed.\" Trusted publishing was introduced in npm in July 2025 as a credential-free authentication method that allows developers to push npm packages from a CI/CD platform, such as GitHub Actions, using OpenID Connect (OIDC) tokens. When trusted publishing is configured, the developer's CI/CD provider generates a short-lived cryptographic token for a specific workflow run that the npm registry verifies against a pre-authorized configuration . This eliminates the need to store, rotate, or manually manage long-lived npm secrets, reducing the risk of credential leaks. It also automatically generates provenance attestations for npm packages, allowing users to establish where a package was built and who published it, thereby strengthening software supply chain security. However, as Bloom Security found, this security architecture suffered from a problem in how it identified that repository, also called a slug (i.e, the combination of the owner or organization and the repository name that's formatted as \"owner/repository\"). \"It records the repository's address, [...] instead of the permanent ID GitHub assigns it, at least until a version is first published from that repository,\" Myers explained. \"It is like a lock that checks the address on the door rather than who owns the house: when the owner moves out, whoever moves in gets the key.\" Put differently, the numeric IDs that survive through repository renaming and transfers are carried by GitHub's OIDC tokens, but are completely ignored by npm until the first successful publish from that repository. This means the trust is anchored to a name as opposed to an immutable repository ID, a loophole that can be abused by claiming abandoned slugs to inherit their trust. For this attack to succeed, the only prerequisite is that the victim's trusted publisher points to a GitHub slug an attacker can claim, and the repository has never been used to publish a version of the package to npm. Once such a slug becomes available for use after a maintainer renames, transfers, or deletes a repository, an attacker can follow the steps below - An attack of this kind, codenamed SlugFest , can be abused to publish a new \"malicious\" version of the victim package under the legitimate package name, while inheriting existing reputation, download counts, and dependent relationships. This, in turn, can lead to supply chain attacks at scale. AI agents running on developer machines can further complicate matters. \"Agents resolve dependencies on their own, tend to take the latest version, and rarely check where a package came from,\" Bloom Security said. \"A malicious version published through a reclaimed slug gets pulled in and runs with no human-in-the-loop.\" The cybersecurity company said it found over 1,50",
-    "quick_summary": [
-      "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's pack",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-    "target": "GitHub Tightens Publishing Left",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html"
-      }
-    ]
-  },
-  {
-    "id": "a10995530f66fa28",
-    "date": "2026-10-13T16:18:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says",
-    "summary": "The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox — a tool used to run code in isolated environments — could allow agents to exploit certificate validation processes to transmit data outside approved networks.",
-    "article_text": "",
-    "quick_summary": [
-      "The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox — a tool used to run code in isolated environments — could allow agents to exploit certificate validation proc",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out",
-    "target": "Sandbox",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out"
-      }
-    ]
-  },
-  {
-    "id": "4337e8a81ea68374",
-    "date": "2026-10-13T16:15:16+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Zoom Clients for Certificate Validation Flaw Exposes Sensitive Information via Network Access",
-    "summary": "Two high-severity certificate validation flaws in Zoom clients could allow attackers without login credentials to access sensitive information over a network, according to advisory text dated October 13, 2026. The issues affect Windows clients and the My Notes feature across desktop and mobile platforms, making updates important for both personal users and business deployments. The […] The post Zoom Clients for Certificate Validation Flaw Exposes Sensitive Information via Network Access appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Two high-severity certificate validation flaws in Zoom clients could allow attackers without login credentials to access sensitive information over a network, according to advisory text dated October 13, 2026.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/zoom-certificate-validation-flaw/",
-    "target": "Zoom Clients Certificate Validation",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/zoom-certificate-validation-flaw/"
-      }
-    ]
-  },
-  {
-    "id": "7e3ee31f54791799",
-    "date": "2026-10-13T16:05:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "West African scam compounds raided, more than 100 suspected trafficking victims ‘rescued’",
-    "summary": "More than two dozen people were arrested by police in Ghana and Nigeria as part of a U.K.-hosted operation that also included tech companies.",
-    "article_text": "",
-    "quick_summary": [
-      "More than two dozen people were arrested by police in Ghana and Nigeria as part of a U.K.-hosted operation that also included tech companies.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/ghana-nigeria-scam-centers-raided-uk-us",
-    "target": "West African 100",
-    "type": "Phishing / Scam",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/ghana-nigeria-scam-centers-raided-uk-us"
-      }
-    ]
-  },
-  {
-    "id": "150395ced666dfe7",
-    "date": "2026-10-13T16:01:00+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
-    "summary": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
-    "target": "Meta Took Code Personal",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/"
-      }
-    ]
-  },
-  {
-    "id": "22da45d29de49cef",
-    "date": "2026-10-13T15:57:29+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "MS Teams Phishing, ClickFix and Shai-Hulud npm Attacks Dominate Threat Report",
-    "summary": "Ontinue’s 1H 2026 threat report shows attackers increasingly abusing Microsoft Teams, npm packages, device-code logins and blockchain ClickFix…",
-    "article_text": "",
-    "quick_summary": [
-      "Ontinue’s 1H 2026 threat report shows attackers increasingly abusing Microsoft Teams, npm packages, device-code logins and blockchain ClickFix…",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/ms-teams-phishing-clickfix-shai-hulud-threat-report/",
-    "target": "Teams Phishing ClickFix Shai-Hulud",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/ms-teams-phishing-clickfix-shai-hulud-threat-report/"
-      }
-    ]
-  },
-  {
-    "id": "0ee82fe751b3a9bf",
-    "date": "2026-10-13T15:55:26+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Ivanti Connect Secure 0-Day Vulnerability Actively Exploited in the Wild",
-    "summary": "Ivanti has disclosed an actively exploited zero-day vulnerability in Ivanti Connect Secure (ICS) that allows remote attackers to execute arbitrary commands without logging in. Tracked as CVE-2026-104935, the flaw carries a high-severity CVSS score of 8.6. Ivanti confirmed that exploitation affected a limited number of customers in its October 13, 2026 advisory. The vulnerability involves […] The post Ivanti Connect Secure 0-Day Vulnerability Actively Exploited in the Wild appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Ivanti has disclosed an actively exploited zero-day vulnerability in Ivanti Connect Secure (ICS) that allows remote attackers to execute arbitrary commands without logging in.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/ivanti-connect-secure-zero-day/",
-    "target": "Ivanti Connect Secure 0-Day",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/ivanti-connect-secure-zero-day/"
-      }
-    ]
-  },
-  {
-    "id": "2158072b1fbf8c64",
-    "date": "2026-10-13T15:49:00+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Danfoss Refrigeration Hack Update – 4,980 Hosts Found Exposed to Internet",
-    "summary": "France accounts for more than half of the internet-facing hosts found in a Shodan search for Danfoss web pages, following a cyberattack that disrupted supermarket refrigeration systems. An update from International Cyber Digest on October 13 reports a total of 4,980 hosts identified, with 2,911 located in France and 517 in South Africa. These findings […] The post Danfoss Refrigeration Hack Update – 4,980 Hosts Found Exposed to Internet appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "France accounts for more than half of the internet-facing hosts found in a Shodan search for Danfoss web pages, following a cyberattack that disrupted supermarket refrigeration systems.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/danfoss-refrigeration-hack-exposed-hosts/",
-    "target": "Danfoss Refrigeration Hack",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/danfoss-refrigeration-hack-exposed-hosts/"
-      }
-    ]
-  },
-  {
-    "id": "8eef1f4fce96203d",
-    "date": "2026-10-13T15:45:50+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
-    "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
-    "article_text": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. Formerly known as Pulse Connect Secure and originally Juniper Pulse, the enterprise-grade ICS SSL VPN provides remote employees, contractors, and hybrid workforces with secure access to corporate and cloud resources. Tracked as CVE-2026-104935 , this high-severity authentication bypass zero-day affects ICS versions 22.8R2.4 and earlier, 25.1.2.2 and earlier, and 25.1.1.1 and earlier. Remote threat actors without privileges can exploit CVE-2026-104935 in low-complexity attacks that don't require user interaction to execute arbitrary commands on targeted ICS appliances. \"At the time of disclosure, Ivanti is aware of limited exploitation in the wild. We are working directly with those organizations while making information, updates and remediation available to the broader customer community. If you are running one of the impacted versions, Ivanti recommends you act immediately,\" Ivanti said . \"Customers should review the security advisory, upgrade to the fixed version as soon as possible, and run the Integrity Checker Tool regularly.\" Internet threat watchdog Shadowserver now tracks over 5,500 ICS instances exposed online , but there is no information on how many are honeypots or have already been secured against ongoing attacks. Cybersecurity firm Volexity, which found and reported the flaw, revealed earlier today that a previously unknown threat actor it tracks as UTA0576 has chained the CVE-2026-104935 vulnerability since at least October 3 with two other flaws to achieve unauthenticated root-level code execution on fully patched devices. \"Notably, UTA0576 deployed no malware or web shell. Instead, the threat actor re-exploited the device for every command it ran and tampered with logs to cover its tracks, evading Ivanti’s Integrity Checker Tool,\" Volexity said . While Ivanti has patched two flaws, it is still working to address a privilege escalation vulnerability that UTA0576 exploited as part of the same chain. Threat intelligence company Defused also confirmed Volexity's report , saying that it caught the first signs of CVE-2026-104935 exploitation in the wild starting October 1. ​Hackers have frequently exploited Ivanti vulnerabilities, often as zero-days, because they provide a quick way to breach enterprise networks and steal sensitive customer and corporate data. Ivanti has also patched several other Connect Secure zero-days exploited in the wild over the past several years, some of them chained in widespread attacks to deploy malware . It addressed an authentication bypass (CVE-2023-46805) and a command injection (CVE-2024-21887) in early January 2024 , and a server-side request forgery (CVE-2024-21893) two weeks later . More recently, it fixed a remote code execution (RCE) vulnerability tracked as CVE-2025-0282 in January 2025 and a second RCE flaw (CVE-2025-22457) that China-linked cyber spies have exploited since at least mid-March 2025 . The Cybersecurity and Infrastructure Security Agency (CISA) has flagged 36 vulnerabilities across various Ivanti products as actively exploited in the wild since November 2021, 12 of which ransomware gangs have also abused. Ivanti has over 3,000 employees, a network of over 7,000 partners, and more than 40,000 customers worldwide using its IT asset management solutions. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Cisco warns of max severity ISE zero-day exploited in attacks New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access N-able patches max severity N-central flaw amid ongoing attacks Critical Citrix NetScaler auth bypass now leveraged in attacks Cyber exec arrested in case allegedly tied to ShinyHunters hackers ARTEX AI, Claude agents used in cyberattacks on South Korean banks Nippon Columbia malware incident exposes 8.6 million karaoke fan records Move from visibility to action with AITEM, Criminal IP’s next evolution of ASM Is your backup really out of reach? See what the latest attacks reveal. Overdue a password health-check? Audit your Active Directory for free New OAuth risk analyst agent: Turn 45 minutes of manual review into 15 seconds. AWS saw a valid key and let the agent clear a production buc",
-    "quick_summary": [
-      "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-    "target": "Ivanti Connect Secure",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/"
-      }
-    ]
-  },
-  {
-    "id": "652e52598bb8c5aa",
-    "date": "2026-10-13T15:26:50+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "CISA Warns of Hackers Exploiting Two Citrix NetScaler 0-Days to Execute Code Remotely",
-    "summary": "Threat actors are actively exploiting two critical zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances, allowing them to execute code remotely on exposed systems. The flaws, tracked as CVE-2026-88771 and CVE-2026-88772, received a CVSS v4 severity score of 9.5 out of 10 and have been added to the U.S. Cybersecurity and Infrastructure Security […] The post CISA Warns of Hackers Exploiting Two Citrix NetScaler 0-Days to Execute Code Remotely appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Threat actors are actively exploiting two critical zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances, allowing them to execute code remotely on exposed systems.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/citrix-netscaler-zero-day-exploits/",
-    "target": "CISA Exploiting Two Citrix",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/citrix-netscaler-zero-day-exploits/"
-      }
-    ]
-  },
-  {
-    "id": "8561daec2c1f823a",
-    "date": "2026-10-13T15:20:20+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
-    "summary": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
-    "article_text": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user’s container repositories using a personal access token (PAT). Docker Hub is an online registry for storing, sharing, and downloading container images - templates that package everything needed for an application to run in an isolated environment. In Docker Hub, a PAT serves as a secret used to authenticate tools and workflows. It allows you to pull, push, or delete container images. According to a security bulletin from the Docker team, an attacker could create an account and PAT, then convert the account into an organization and name a target user as its owner. The CVE-2026-105445 flaw stems from Docker Hub reassigning a personal access token (PAT) to a designated organization owner without changing its secret or obtaining the target's consent. This allowed the attacker to use the token to authenticate as the target. Depending on the token’s scope and the target’s permissions, attackers could pull, push, or delete images in the target’s repositories and accessible organizations. “Within the scope of the token, a re-assigned PAT acted as the target user at the registry level, meaning an attacker could potentially pull, push, and/or delete images in the target’s repositories and in organizations where the target had access,” Docker explained . “Because that includes publishing images under a legitimate name, we treated this as a software supply chain risk and rated it critical.” Although the flaw is critical, Docker noted that it did not provide Docker Hub web access or allow attackers to change passwords, email addresses, or two-factor settings, potentially locking legitimate account holders out. The vulnerability was introduced on August 26, 2024, when the conversion started reassigning the personal account PAT to the new owner. This occurred without revoking or rotating the secret, and without asking the named owner to confirm the change. On September 30, 2026, Docker received a vulnerability report describing the issue, confirmed it, and deployed a fix to production less than four hours later. Docker says it found no evidence of exploitation after examining 304,000 pushes made with transferred tokens and analyzing high-risk public images. Affected users and organization owners were notified on October 2, and transferred PATs were deactivated on October 8, except for those whose owners explicitly requested to retain them. Docker says users who didn’t receive a notification should assume they were not impacted and did not need to take any action. The platform no longer transfers PATs during conversion and requests user consent before naming them an organization owner. Join Mikko Hyppönen and security leaders from the NFL, CHANEL, and Atlassian for a two-hour digital summit on what AI-speed attacks change, what defenders should stop doing, and how to validate, decide, fix, and re-validate at machine speed. Ledger confirms spy chip implant behind wallet crypto thefts Max severity SonicWall SMA1000 flaw now exploited in attacks Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto Cyber exec arrested in case allegedly tied to ShinyHunters hackers ARTEX AI, Claude agents used in cyberattacks on South Korean banks Nippon Columbia malware incident exposes 8.6 million karaoke fan records Is your backup really out of reach? See what the latest attacks reveal. AWS saw a valid key and let the agent clear a production bucket. See how Token Security ties each agent to its owner and limits it to read-only access. New OAuth risk analyst agent: Turn 45 minutes of manual review into 15 seconds. Move from visibility to action with AITEM, Criminal IP’s next evolution of ASM Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT).",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-    "target": "Docker Hub",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/"
-      }
-    ]
-  },
-  {
-    "id": "f115bfc2e7838f38",
-    "date": "2026-10-13T15:15:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
-    "summary": "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia.",
-    "article_text": "",
-    "quick_summary": [
-      "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/north-korea-hackers-russia-ukraine",
-    "target": "North Korean Ukrainian",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/north-korea-hackers-russia-ukraine"
-      }
-    ]
-  },
-  {
-    "id": "85f61af999ee43c3",
-    "date": "2026-10-13T15:02:20+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Threat Intelligence Guide for US SOC Teams and CISOs: How to Choose the Right Solution",
-    "summary": "Choosing an enterprise threat intelligence solution is about more than just data volume or integrations. The right provider should deliver relevant intelligence, fit existing workflows, and help security teams investigate threats faster. While SOCs may prioritize rapid investigation and enrichment at scale, MSSPs may focus more on multi-tenancy and customer separation. This enterprise threat intelligence […] The post Threat Intelligence Guide for US SOC Teams and CISOs: How to Choose the Right Solution appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Choosing an enterprise threat intelligence solution is about more than just data volume or integrations.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/threat-intelligence-guide/",
-    "target": "Threat Intelligence Guide SOC",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/threat-intelligence-guide/"
-      }
-    ]
-  },
-  {
-    "id": "f122be046faecd39",
-    "date": "2026-10-13T14:30:26+00:00",
-    "source": "Check Point Research",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "When LLM Gateways Go Wrong: Findings from LiteLLM",
-    "summary": "TL;DR; Our security assessment of LiteLLM (v1.77.7), a widely used open-source LLM gateway, uncovered multiple high-impact vulnerabilities (tracked as CVE-2026-35029, CVE-2026-59823) which have been resolved as of LiteLLM version 1.83.9. The most significant issues stemmed from a missing authorization check on the /config/update endpoint, which allowed any authenticated user (including low-privileged accounts) to modify the […] The post When LLM Gateways Go Wrong: Findings from LiteLLM appeared first on Check Point Research .",
-    "article_text": "",
-    "quick_summary": [
-      "TL;DR; Our security assessment of LiteLLM (v1.77.7), a widely used open-source LLM gateway, uncovered multiple high-impact vulnerabilities (tracked as CVE-2026-35029, CVE-2026-59823) which have been resolved as of LiteLL",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://research.checkpoint.com/2026/when-llm-gateways-go-wrong-findings-from-litellm/",
-    "target": "LLM Gateways Wrong",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Check Point Research"
-    ],
-    "links": [
-      {
-        "source": "Check Point Research",
-        "url": "https://research.checkpoint.com/2026/when-llm-gateways-go-wrong-findings-from-litellm/"
-      }
-    ]
-  },
-  {
-    "id": "ba444ca21c0c0ae1",
-    "date": "2026-10-13T14:02:00+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "SerpApi Expands Beyond Search Results with New Extract API",
-    "summary": "New API enables developers to extract structured content, discover website pages, and perform bounded crawling, all within the SerpApi workflow",
-    "article_text": "",
-    "quick_summary": [
-      "New API enables developers to extract structured content, discover website pages, and perform bounded crawling, all within the SerpApi workflow",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/serpapi-expands-search-results-new-extract-api/",
-    "target": "SerpApi Expands Beyond Search",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/serpapi-expands-search-results-new-extract-api/"
-      }
-    ]
-  },
-  {
-    "id": "4b171cfcc3f6de5f",
-    "date": "2026-10-13T14:01:11+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "The MFA Gaps Attackers are Still Exploiting",
-    "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
-    "article_text": "On August 4, 2026, an Akira ransomware affiliate began spraying passwords against a SonicWall SSL VPN . Around seven minutes later, one attempt succeeded. The credentials were valid, and the VPN account had no multi-factor authentication (MFA) protecting it. Roughly two hours later, the attacker used RDP to access the domain controller and began enumerating Active Directory. The ransomware deployment ultimately failed, but by then the attacker had already stolen credentials and file-share data. It highlights an issue that is still common in 2026, where an organization might require MFA for Microsoft 365 and other SaaS applications while leaving certain access paths protected only by passwords. It’s this gap that attackers are regularly exploiting. Once an attacker has a valid account, they can begin interacting with the environment through the same authentication mechanisms used by legitimate employees and administrators. AI is adding another dimension to this problem by helping attackers operate at greater speed and scale. The underlying identity tactics are largely unchanged: attackers still compromise identities, reuse credentials, escalate privileges and misuse legitimate access. The threat is that AI makes familiar techniques cheaper and easier to run at scale. Mandiant’s ransomware investigations illustrate why that matters once credentials are obtained. Compromised legitimate credentials accounted for initial access in 21% of the 2025 incidents where the entry point could be established, typically through RDP or VPN. RDP also appeared frequently later in the attack chain, with attackers using compromised or newly created accounts over RDP for lateral movement in around 85% of the ransomware incidents it investigated. Strong authentication helps limit what an attacker can do with a stolen password, but it is still worth finding exposed or risky credentials before they are used. Password reuse, weak choices and credentials that have appeared in previous breaches all increase the chance that an attacker will find a password that still works somewhere in the environment. That makes regular password auditing a useful part of Active Directory security. Specops Password Auditor is a free, read-only password auditing tool that scans Active Directory for password-related vulnerabilities and presents the findings in an interactive report covering user and password policy information. This gives IT teams another opportunity to reduce credential risk at source: identify password weaknesses, address them where possible, and make sure that a compromised password is not enough on its own to gain access. Verizon’s Data Breach Investigation Report found stolen credentials are involved in 44.7% of breaches. Effortlessly secure Active Directory with compliant password policies, blocking 4+ billion compromised passwords, boosting security, and slashing support hassles! Microsoft 365, identity providers and SaaS applications are obvious places to add additional authentication factors because they are internet-facing and frequently targeted. The problem is that cloud MFA does not automatically extend to every system that relies on the same user identity. A user may need MFA to access a SaaS application through the corporate identity provider, but the same account could still be accepted elsewhere with just a password. That creates a fragmented authentication environment where some routes are better protected than others, which leaves a gap for attackers to exploit. VPNs are another potential gap. As the August Akira ransomware attack demonstrated, a threat actor that obtains or brute forces a valid username and password may be able to turn those credentials directly into remote network access if MFA isn’t enforced. For IT and security teams, the useful question is therefore not simply whether MFA is deployed, but where a password is still enough on its own. Windows logon, RDP, VPN access and older AD-backed services are all worth including in that review. Closing these gaps means applying stronger authentication to the places where credentials are still being trusted, rather than treating MFA as something that only sits in front of cloud applications. That is where solutions like Specops Secure Access fit by extending MFA to Windows logon, RDP and VPN authentication. This adds strong protection to some of the access paths attackers regularly target with stolen Active Directory credentials. It also supports SSO for SaaS applications",
-    "quick_summary": [
-      "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone.",
-      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-    "target": "MFA Gaps Attackers Still",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/"
       }
     ]
   }
