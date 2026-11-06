@@ -1,7 +1,7 @@
 [
   {
     "id": "e661df62d3382200",
-    "date": "2026-11-06T00:15:46.018863+00:00",
+    "date": "2026-11-06T06:54:27.631115+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -30,7 +30,7 @@
   },
   {
     "id": "23c4c9029223f426",
-    "date": "2026-11-06T00:15:46.018745+00:00",
+    "date": "2026-11-06T06:54:27.631008+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +59,7 @@
   },
   {
     "id": "afc402945c917008",
-    "date": "2026-11-06T00:15:46.018587+00:00",
+    "date": "2026-11-06T06:54:27.630886+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +88,7 @@
   },
   {
     "id": "5b75280c65f2a8e3",
-    "date": "2026-11-06T00:15:46.018470+00:00",
+    "date": "2026-11-06T06:54:27.630767+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +117,7 @@
   },
   {
     "id": "2cc0f11458f95590",
-    "date": "2026-11-06T00:15:46.018353+00:00",
+    "date": "2026-11-06T06:54:27.630648+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +146,7 @@
   },
   {
     "id": "e6a31d877891fbb1",
-    "date": "2026-11-06T00:15:46.018239+00:00",
+    "date": "2026-11-06T06:54:27.630533+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,70 +174,8 @@
     ]
   },
   {
-    "id": "207cd3f7a1e0d94e",
-    "date": "2026-11-06T00:15:46.018130+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "PHP2Shell: Custom PAN-OS Exploit Roots 25 Servers in Under 15 Minutes CYBERSEC EXPLOIT",
-    "summary": "PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. Security researchers at watchTowr say the two flaws allow remote code execution. Only the four supported PHP branches, 8.2 through 8.5, can receive the fix, and no exploitation has been reported so far.",
-    "article_text": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your risk is taking exposed PHP off the internet or behind access controls, cutting what a compromised server can reach, and having the update ready to apply the moment it lands. Cloudflare says it is seeing early attempts to exploit the flaws, and has pushed emergency rules for sites behind it that it calls a stopgap until you patch. No compromise has been confirmed, the public exploit code going around has not been shown to work, and neither flaw is in CISA's catalog of known exploited flaws. PHP has not said which versions are affected, which part of PHP is involved, or whether any setting changes the risk; it says the full details and the fixed versions come with the release. At the time of writing, that release was not yet out. So nobody outside the group that found the flaws can test whether a given defense works, which is why the advice below is about lowering risk, not promising safety. The workaround spreading on social media and security blogs is one line in a PHP configuration file: session.upload_progress.enabled=0 . It turns off Session Upload Progress, a PHP feature that's enabled by default, which records how far a file upload has progressed so another request can check on it. GMO Flatt Security, a Tokyo security firm, suggested setting it early on October 21, saying it could not be sure the change fully addresses the flaws but thought it would help with some probability. Later the same day, the firm walked that back. In an update timestamped 14:00 Japan time (05:00 UTC), it said the setting alone is not a complete fix and that attacks getting around it are expected. It told administrators to prepare their update, watch for attack traffic before the release, and apply the fix as soon as it is out. Two people from the PHP project said the same thing more bluntly. Replying to someone who suggested the upload-progress setting might patch the flaw, Gina Peter Banyard, a PHP core developer and documentation writer funded by the PHP Foundation, wrote : \"The only thing I can say is that the only mitigation is patching / upgrading PHP. I sadly know too much.\" Joe Ferguson, the release manager for the coming PHP 8.6, put it shorter : \"ini settings won't save you.\" The setting cannot be relied on for two reasons. GMO Flatt expects a way around it but has not said what that is. And the whole idea that the flaw lives in Session Upload Progress is a guess: PHP has not confirmed it, the firm itself said it holds only so far as its own research matches PHP2Shell, and an independent code audit argues the specific bug others describe in that feature does not exist in released PHP. That audit is from an anonymous account and PHP's own code will settle it, but it is one more reason not to treat the setting as a shield. Not everyone agrees. One vendor, Upwind, still lists the setting as an immediate mitigation , passing along another researcher's analysis rather than its own tests. watchTowr, which reproduced one of the flaws, says there is \"no confirmed patch or workaround at this time.\" No one is telling you to undo the change. The instruction is only not to count it as protection. PHP's own manual already advises turning the feature off where an application does not use upload progress bars, because the stored file names and field names \"are not validated and may contain PHP code.\" If you turned it on by mistake somewhere that needs it, the only cost is that upload progress bars stop working. Check that the change is actually in effect on the process that serves web traffic, not on the command line. The setting is INI_PERDIR, so it can be set in php.ini, .htaccess, or .user.ini. A .user.ini file is read only by the CGI and FastCGI versions of PHP, not by the Apache module, and PHP re-reads it only every 300 seconds by default, so a change there can take five minutes to apply. Under the Apache module, use .htaccess or the server config. Confirm the value on PHP-FPM or mod_php, whichever serves your site, not on php -i at the shell. Get ready now. GMO Flatt's advice is to confirm your update steps and the checks you run afterward, rehearse any c",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/php2shell-custom-pan-os-exploit-roots-25-servers-in-under-15-minutes",
-    "target": "PHP2Shell",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews",
-      "CyberNews Security"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/php2shell-custom-pan-os-exploit-roots-25-servers-in-under-15-minutes"
-      },
-      {
-        "source": "CyberNews Security",
-        "url": "https://cybernews.com/security/php2shell-one-breach-multiple-accounts-at-risk/"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/php2shell-when-the-engine-becomes-the-target-every-downstream-defense-fails"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1xc0vav/php2shell_quick_mitigation_prepatch/"
-      },
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1xbrk9g/what_the_php2shell_rumors_got_wrong_from_inside/"
-      },
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html"
-      },
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
-      },
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/"
-      }
-    ]
-  },
-  {
     "id": "a046f91fc5665d8b",
-    "date": "2026-11-06T00:15:46.018014+00:00",
+    "date": "2026-11-06T06:54:27.630422+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +204,7 @@
   },
   {
     "id": "2f7ad10bb0480b6b",
-    "date": "2026-11-06T00:15:46.017860+00:00",
+    "date": "2026-11-06T06:54:27.630254+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,7 +233,7 @@
   },
   {
     "id": "4b97547eed9c53e2",
-    "date": "2026-11-06T00:15:46.017753+00:00",
+    "date": "2026-11-06T06:54:27.630151+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -323,8 +261,42 @@
     ]
   },
   {
+    "id": "6b7e8bcdd0059526",
+    "date": "2026-11-06T06:54:27.629760+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CISA Confirms Active Exploitation of WordPress Core During Update Window CYBERSEC EXPLOIT",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
+    "article_text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities ( KEV ) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - The addition of the two flaws to the KEV catalog comes after Adel Karimi, detection and response lead at Perplexity, confirmed successful instances of remote code execution against honeypot systems on October 24, 2026. \"The evidence demonstrates this chain on the intentionally favorable single-worker mod_php profile; it is not a measurement of exploit reliability on other worker counts, PHP builds, or applications.\" The issues have been addressed in PHP versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 released on October 21, 2026. Federal agencies have time until October 29, 2026, to apply the necessary fixes. PHP, short for PHP: Hypertext Preprocessor, is a server-side scripting language used in roughly 70% of all websites on the internet. According to estimates shared by Censys, more than 32.51 million PHP services are still running an affected version. The severity of the vulnerabilities has prompted numerous advisories from software and security vendors and government agencies across the world, including - As of October 26, 2026, the PHP Foundation also released Windows builds 8.5.12-1, 8.4.27-1, 8.3.36-1 and 8.2.35-1 to address CVE-2026-111497 , an out-of-bounds write vulnerability in the Brotli decoder library that could also result in privilege escalation and unauthenticated remote code execution. The vulnerability , also known as Broccoli2Shell, HTTP2Shell, and Node2Shell, affects Brotli versions 1.0.3 through 1.0.9, 1.1.0, and 1.2.0. It has been patched in versions 1.0.10, 1.1.1, and 1.2.1, along with other projects that include the C library, including Node.js, Bun, Envoy Proxy, Istio, .NET, and Python. \"In PHP Windows builds, the vulnerable decoder can be reached through the cURL extension when automatic HTTP response decompression is enabled,\" the PHP Foundation said . \"This is disabled by default in cURL, but applications and HTTP client libraries can enable it.\" Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities. Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cisa-confirms-active-exploitation-of-wordpress-core-during-update-window",
+    "target": "CISA Confirms Active Exploitation",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cisa-confirms-active-exploitation-of-wordpress-core-during-update-window"
+      },
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
+      }
+    ]
+  },
+  {
     "id": "ca355f225bc28bc9",
-    "date": "2026-11-06T00:15:46.016876+00:00",
+    "date": "2026-11-06T06:54:27.629145+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -353,7 +325,7 @@
   },
   {
     "id": "927c730f85fd3ffa",
-    "date": "2026-11-06T00:15:46.016747+00:00",
+    "date": "2026-11-06T06:54:27.629018+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -386,7 +358,7 @@
   },
   {
     "id": "64e0613413fa9263",
-    "date": "2026-11-06T00:15:46.016616+00:00",
+    "date": "2026-11-06T06:54:27.628907+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -415,7 +387,7 @@
   },
   {
     "id": "2e9ad9f3483fd092",
-    "date": "2026-11-06T00:15:46.016503+00:00",
+    "date": "2026-11-06T06:54:27.628793+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -452,7 +424,7 @@
   },
   {
     "id": "3926c46ac13e2802",
-    "date": "2026-11-06T00:15:46.016395+00:00",
+    "date": "2026-11-06T06:54:27.628684+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -481,7 +453,7 @@
   },
   {
     "id": "1ecf0823fbc03fd9",
-    "date": "2026-11-06T00:15:46.016288+00:00",
+    "date": "2026-11-06T06:54:27.628574+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -510,7 +482,7 @@
   },
   {
     "id": "104c7f57f6827a18",
-    "date": "2026-11-06T00:15:46.016179+00:00",
+    "date": "2026-11-06T06:54:27.628460+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -538,8 +510,37 @@
     ]
   },
   {
+    "id": "6899d34dc33d49c7",
+    "date": "2026-11-06T06:54:27.627786+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "SonicWall Won't Patch Two Flaws in End-of-Life GMS; Migration to NSM Required",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/sonicwall-wont-patch-two-flaws-in-end-of-life-gms-migration-to-nsm-required",
+    "target": "SonicWall Wont Patch Two",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/sonicwall-wont-patch-two-flaws-in-end-of-life-gms-migration-to-nsm-required"
+      }
+    ]
+  },
+  {
     "id": "3ddb3eaee7aec34c",
-    "date": "2026-11-06T00:15:46.015426+00:00",
+    "date": "2026-11-06T06:54:27.627605+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -568,7 +569,7 @@
   },
   {
     "id": "e711d8263c26a207",
-    "date": "2026-11-06T00:15:45.448069+00:00",
+    "date": "2026-11-06T06:54:26.432761+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -689,7 +690,7 @@
   },
   {
     "id": "e7fc701dd8c281f8",
-    "date": "2026-11-06T00:15:44.997379+00:00",
+    "date": "2026-11-06T06:54:24.737758+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -718,7 +719,7 @@
   },
   {
     "id": "53739e7a91e5de15",
-    "date": "2026-11-06T00:15:44.997171+00:00",
+    "date": "2026-11-06T06:54:24.737543+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -751,7 +752,7 @@
   },
   {
     "id": "31124c0273259c21",
-    "date": "2026-11-06T00:15:44.997037+00:00",
+    "date": "2026-11-06T06:54:24.737395+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -780,7 +781,7 @@
   },
   {
     "id": "7ed5e19f0c52f83e",
-    "date": "2026-11-06T00:15:44.996899+00:00",
+    "date": "2026-11-06T06:54:24.737215+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -809,7 +810,7 @@
   },
   {
     "id": "1951420a24c12c57",
-    "date": "2026-11-06T00:15:44.996716+00:00",
+    "date": "2026-11-06T06:54:24.737042+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -838,7 +839,7 @@
   },
   {
     "id": "177f74cce94df6fc",
-    "date": "2026-11-06T00:15:44.996550+00:00",
+    "date": "2026-11-06T06:54:24.736897+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -867,7 +868,7 @@
   },
   {
     "id": "9706d399f5a97478",
-    "date": "2026-11-06T00:15:44.996396+00:00",
+    "date": "2026-11-06T06:54:24.736742+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -896,7 +897,7 @@
   },
   {
     "id": "c3762bab1cea27f2",
-    "date": "2026-11-06T00:15:44.996247+00:00",
+    "date": "2026-11-06T06:54:24.736592+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -925,7 +926,7 @@
   },
   {
     "id": "51e3fc2e59f34aa3",
-    "date": "2026-11-06T00:15:44.996101+00:00",
+    "date": "2026-11-06T06:54:24.736443+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -954,7 +955,7 @@
   },
   {
     "id": "b3de3b5b8196d850",
-    "date": "2026-11-06T00:15:44.995939+00:00",
+    "date": "2026-11-06T06:54:24.736264+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -983,7 +984,7 @@
   },
   {
     "id": "96fb1d9a13b7129f",
-    "date": "2026-11-06T00:15:44.995772+00:00",
+    "date": "2026-11-06T06:54:24.736091+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1012,7 +1013,7 @@
   },
   {
     "id": "86eccca749524d1b",
-    "date": "2026-11-06T00:15:44.995599+00:00",
+    "date": "2026-11-06T06:54:24.735934+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1041,7 +1042,7 @@
   },
   {
     "id": "dddb8297ad3b8630",
-    "date": "2026-11-06T00:15:44.995419+00:00",
+    "date": "2026-11-06T06:54:24.735735+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1073,8 +1074,70 @@
     ]
   },
   {
+    "id": "d1d35ddb0723bb34",
+    "date": "2026-11-06T06:54:24.735602+00:00",
+    "source": "CyberNews Security",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Security PHP2Shell: one breach, multiple accounts at risk Nov 5, 2026 3 min read",
+    "summary": "PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. Security researchers at watchTowr say the two flaws allow remote code execution. Only the four supported PHP branches, 8.2 through 8.5, can receive the fix, and no exploitation has been reported so far.",
+    "article_text": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your risk is taking exposed PHP off the internet or behind access controls, cutting what a compromised server can reach, and having the update ready to apply the moment it lands. Cloudflare says it is seeing early attempts to exploit the flaws, and has pushed emergency rules for sites behind it that it calls a stopgap until you patch. No compromise has been confirmed, the public exploit code going around has not been shown to work, and neither flaw is in CISA's catalog of known exploited flaws. PHP has not said which versions are affected, which part of PHP is involved, or whether any setting changes the risk; it says the full details and the fixed versions come with the release. At the time of writing, that release was not yet out. So nobody outside the group that found the flaws can test whether a given defense works, which is why the advice below is about lowering risk, not promising safety. The workaround spreading on social media and security blogs is one line in a PHP configuration file: session.upload_progress.enabled=0 . It turns off Session Upload Progress, a PHP feature that's enabled by default, which records how far a file upload has progressed so another request can check on it. GMO Flatt Security, a Tokyo security firm, suggested setting it early on October 21, saying it could not be sure the change fully addresses the flaws but thought it would help with some probability. Later the same day, the firm walked that back. In an update timestamped 14:00 Japan time (05:00 UTC), it said the setting alone is not a complete fix and that attacks getting around it are expected. It told administrators to prepare their update, watch for attack traffic before the release, and apply the fix as soon as it is out. Two people from the PHP project said the same thing more bluntly. Replying to someone who suggested the upload-progress setting might patch the flaw, Gina Peter Banyard, a PHP core developer and documentation writer funded by the PHP Foundation, wrote : \"The only thing I can say is that the only mitigation is patching / upgrading PHP. I sadly know too much.\" Joe Ferguson, the release manager for the coming PHP 8.6, put it shorter : \"ini settings won't save you.\" The setting cannot be relied on for two reasons. GMO Flatt expects a way around it but has not said what that is. And the whole idea that the flaw lives in Session Upload Progress is a guess: PHP has not confirmed it, the firm itself said it holds only so far as its own research matches PHP2Shell, and an independent code audit argues the specific bug others describe in that feature does not exist in released PHP. That audit is from an anonymous account and PHP's own code will settle it, but it is one more reason not to treat the setting as a shield. Not everyone agrees. One vendor, Upwind, still lists the setting as an immediate mitigation , passing along another researcher's analysis rather than its own tests. watchTowr, which reproduced one of the flaws, says there is \"no confirmed patch or workaround at this time.\" No one is telling you to undo the change. The instruction is only not to count it as protection. PHP's own manual already advises turning the feature off where an application does not use upload progress bars, because the stored file names and field names \"are not validated and may contain PHP code.\" If you turned it on by mistake somewhere that needs it, the only cost is that upload progress bars stop working. Check that the change is actually in effect on the process that serves web traffic, not on the command line. The setting is INI_PERDIR, so it can be set in php.ini, .htaccess, or .user.ini. A .user.ini file is read only by the CGI and FastCGI versions of PHP, not by the Apache module, and PHP re-reads it only every 300 seconds by default, so a change there can take five minutes to apply. Under the Apache module, use .htaccess or the server config. Confirm the value on PHP-FPM or mod_php, whichever serves your site, not on php -i at the shell. Get ready now. GMO Flatt's advice is to confirm your update steps and the checks you run afterward, rehearse any c",
+    "quick_summary": [
+      "Discovered from CyberNews Security page.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybernews.com/security/php2shell-one-breach-multiple-accounts-at-risk/",
+    "target": "PHP2Shell",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "CyberNews Security",
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "CyberNews Security",
+        "url": "https://cybernews.com/security/php2shell-one-breach-multiple-accounts-at-risk/"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/php2shell-custom-pan-os-exploit-roots-25-servers-in-under-15-minutes"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/"
+      },
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/php2shell-when-the-engine-becomes-the-target-every-downstream-defense-fails"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1xc0vav/php2shell_quick_mitigation_prepatch/"
+      },
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1xbrk9g/what_the_php2shell_rumors_got_wrong_from_inside/"
+      },
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html"
+      },
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
+      },
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/"
+      }
+    ]
+  },
+  {
     "id": "0925ed42aaadcbd8",
-    "date": "2026-11-06T00:15:44.995019+00:00",
+    "date": "2026-11-06T06:54:24.735303+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1103,7 +1166,7 @@
   },
   {
     "id": "301fc1ed5308294c",
-    "date": "2026-11-06T00:15:44.994818+00:00",
+    "date": "2026-11-06T06:54:24.735103+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1132,7 +1195,7 @@
   },
   {
     "id": "24fe90afcab5e737",
-    "date": "2026-11-06T00:15:44.994636+00:00",
+    "date": "2026-11-06T06:54:24.734947+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1161,7 +1224,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-11-06T00:15:44.994387+00:00",
+    "date": "2026-11-06T06:54:24.734702+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1190,7 +1253,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-11-06T00:15:44.993675+00:00",
+    "date": "2026-11-06T06:54:24.733969+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1219,7 +1282,7 @@
   },
   {
     "id": "621b9ebe71798efa",
-    "date": "2026-11-06T00:15:44.747646+00:00",
+    "date": "2026-11-06T06:54:24.240306+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1248,7 +1311,7 @@
   },
   {
     "id": "da635b5ba8f74bb4",
-    "date": "2026-11-06T00:15:44.747530+00:00",
+    "date": "2026-11-06T06:54:24.240192+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1277,7 +1340,7 @@
   },
   {
     "id": "110366ae6e5ad5bf",
-    "date": "2026-11-06T00:15:44.747404+00:00",
+    "date": "2026-11-06T06:54:24.240073+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1306,7 +1369,7 @@
   },
   {
     "id": "79ec7917efc5b80c",
-    "date": "2026-11-06T00:15:44.747259+00:00",
+    "date": "2026-11-06T06:54:24.239930+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1335,7 +1398,7 @@
   },
   {
     "id": "6be1c2ef12a13c89",
-    "date": "2026-11-06T00:15:44.747129+00:00",
+    "date": "2026-11-06T06:54:24.239802+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1364,7 +1427,7 @@
   },
   {
     "id": "84802b3af2d51c29",
-    "date": "2026-11-06T00:15:44.746997+00:00",
+    "date": "2026-11-06T06:54:24.239671+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1393,7 +1456,7 @@
   },
   {
     "id": "8c690942ab22db42",
-    "date": "2026-11-06T00:15:44.746878+00:00",
+    "date": "2026-11-06T06:54:24.239554+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1422,7 +1485,7 @@
   },
   {
     "id": "20a8e71ae90524e8",
-    "date": "2026-11-06T00:15:44.746757+00:00",
+    "date": "2026-11-06T06:54:24.239435+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1451,7 +1514,7 @@
   },
   {
     "id": "9cf712a82f014822",
-    "date": "2026-11-06T00:15:44.746615+00:00",
+    "date": "2026-11-06T06:54:24.239293+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1480,7 +1543,7 @@
   },
   {
     "id": "758895ed6ebd660b",
-    "date": "2026-11-06T00:15:44.746476+00:00",
+    "date": "2026-11-06T06:54:24.239154+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1509,7 +1572,7 @@
   },
   {
     "id": "94dbf4b67df7dd02",
-    "date": "2026-11-06T00:15:44.746336+00:00",
+    "date": "2026-11-06T06:54:24.239022+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1538,7 +1601,7 @@
   },
   {
     "id": "0833fc4195361657",
-    "date": "2026-11-06T00:15:44.746203+00:00",
+    "date": "2026-11-06T06:54:24.238889+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1567,7 +1630,7 @@
   },
   {
     "id": "97fc12447e6f24e0",
-    "date": "2026-11-06T00:15:44.746064+00:00",
+    "date": "2026-11-06T06:54:24.238751+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1596,7 +1659,7 @@
   },
   {
     "id": "d974c9fd3f8630bc",
-    "date": "2026-11-06T00:15:44.745920+00:00",
+    "date": "2026-11-06T06:54:24.238607+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1625,7 +1688,7 @@
   },
   {
     "id": "5a50f7be318795fc",
-    "date": "2026-11-06T00:15:44.745788+00:00",
+    "date": "2026-11-06T06:54:24.238473+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1654,7 +1717,7 @@
   },
   {
     "id": "95321e5128e94b73",
-    "date": "2026-11-06T00:15:44.745630+00:00",
+    "date": "2026-11-06T06:54:24.238316+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1683,7 +1746,7 @@
   },
   {
     "id": "7ece8421228760e2",
-    "date": "2026-11-06T00:15:44.745482+00:00",
+    "date": "2026-11-06T06:54:24.238176+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1712,7 +1775,7 @@
   },
   {
     "id": "b5db0d0348970ded",
-    "date": "2026-11-06T00:15:44.745329+00:00",
+    "date": "2026-11-06T06:54:24.238022+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1741,7 +1804,7 @@
   },
   {
     "id": "acf65887ca804da6",
-    "date": "2026-11-06T00:15:44.745192+00:00",
+    "date": "2026-11-06T06:54:24.237885+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1769,37 +1832,8 @@
     ]
   },
   {
-    "id": "8681de6dd1f2767d",
-    "date": "2026-11-06T00:15:44.745054+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "ThisBash Escape: Claude Dispatch Flaw Enables Browser Extensions RCE on the OS · Forever Security",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ThisBash Escape: Claude Dispatch Flaw Enables Browser Extensions RCE on the OS · Forever Security",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1xokbbo/thisbash_escape_claude_dispatch_flaw_enables/",
-    "target": "ThisBash Escape",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1xokbbo/thisbash_escape_claude_dispatch_flaw_enables/"
-      }
-    ]
-  },
-  {
     "id": "7bd863bf2203d293",
-    "date": "2026-11-06T00:15:44.744904+00:00",
+    "date": "2026-11-06T06:54:24.237747+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1827,8 +1861,37 @@
     ]
   },
   {
+    "id": "8681de6dd1f2767d",
+    "date": "2026-11-06T06:54:24.237609+00:00",
+    "source": "Reddit r/netsec",
+    "quality": "Medium",
+    "scope": "Community",
+    "category": "",
+    "title": "ThisBash Escape: Claude Dispatch Flaw Enables Browser Extensions RCE on the OS · Forever Security",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ThisBash Escape: Claude Dispatch Flaw Enables Browser Extensions RCE on the OS · Forever Security",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.reddit.com/r/netsec/comments/1xokbbo/thisbash_escape_claude_dispatch_flaw_enables/",
+    "target": "ThisBash Escape",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Reddit r/netsec"
+    ],
+    "links": [
+      {
+        "source": "Reddit r/netsec",
+        "url": "https://www.reddit.com/r/netsec/comments/1xokbbo/thisbash_escape_claude_dispatch_flaw_enables/"
+      }
+    ]
+  },
+  {
     "id": "3ea713ba27cf4fd3",
-    "date": "2026-11-06T00:15:44.744754+00:00",
+    "date": "2026-11-06T06:54:24.237462+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1857,7 +1920,7 @@
   },
   {
     "id": "1df6a6f4c47a4ab8",
-    "date": "2026-11-06T00:15:44.744597+00:00",
+    "date": "2026-11-06T06:54:24.237302+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1886,7 +1949,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-11-06T00:15:44.744448+00:00",
+    "date": "2026-11-06T06:54:24.237150+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1923,7 +1986,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-11-06T00:15:44.744240+00:00",
+    "date": "2026-11-06T06:54:24.236951+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1967,6 +2030,306 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
+      }
+    ]
+  },
+  {
+    "id": "43e86858f8eab240",
+    "date": "2026-11-06T03:03:29+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+    "summary": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+    "target": "Charged Scheme Impersonate",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/"
+      }
+    ]
+  },
+  {
+    "id": "615d2c8937b895c5",
+    "date": "2026-11-06T02:00:02+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33494",
+    "target": "ISC Stormcast Friday November",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33494"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33490"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33486"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33484"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33480"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33472"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33468"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33464"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33462"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33456"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33438"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33436"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33432"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33428"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33424"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33418"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33416"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33412"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33408"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33404"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33402"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33398"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33390"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33386"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33384"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33378"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33374"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33370"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33364"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33356"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33354"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33350"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33342"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33346"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33362"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33338"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33334"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33330"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33328"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33322"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33316"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33310"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33308"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33304"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33302"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33446"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33448"
+      }
+    ]
+  },
+  {
+    "id": "f0e0853a1bc9048f",
+    "date": "2026-11-06T00:56:44+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+    "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+    "article_text": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. The warning was issued jointly with the U.S. Departments of Health and Human Services (HHS), Agriculture (USDA), and Transportation (DOT), urging critical infrastructure operators to secure vulnerable refrigeration controllers used in healthcare, food production, chemical facilities, and transportation. \"Every organization that depends on refrigeration and monitoring systems should assume it could be a target,\" said Chris Butera, CISA's Acting Executive Assistant Director for Cybersecurity. According to a joint advisory published Thursday, attackers are exploiting weaknesses in unpatched or internet-accessible electronic temperature controllers and commercial refrigeration management systems. These devices allow operators to monitor temperatures remotely, manage defrost cycles, and control cooling equipment. \"Globally, malicious cyber actors are targeting vulnerabilities and weaknesses in unpatched or internet-accessible electronic temperature controllers and commercial refrigeration controllers in retail grocery and cold storage facilities,\" CISA warned . The agencies say attackers may exploit authentication bypass vulnerabilities, arbitrary code injection flaws, or weak configurations to modify temperature settings and force refrigeration equipment into continuous heating or defrost cycles. Successful attacks can cause inventory losses, reduce equipment lifespan, create fire hazards, and create unsafe storage conditions. Attackers may also reduce visibility into current temperatures, preventing operators from detecting problems. The warning follows a series of attacks against European refrigeration systems that have disrupted supermarkets and blood storage facilities. In October, hackers compromised refrigeration controllers at an estimated 250 to 350 French supermarkets, remotely activating defrost functions and raising temperatures in refrigerators and freezers. A second wave of attacks reported in November affected more than 115 stores across six European countries, with some refrigeration systems shutting down entirely and others raising temperatures to as high as 50°C (122°F). On November 3, the French Blood Establishment (EFS) confirmed that a cybersecurity incident affecting a refrigeration equipment provider had altered temperature and defrost settings at three facilities used to store blood products. In response to the ongoing threat, the U.S. agencies are urging organizations to remove refrigeration controllers from the public internet, secure necessary remote access, change default passwords, and apply available security updates. They also recommend isolating operational technology systems from business networks and enforcing safe temperature limits to prevent controllers from operating outside acceptable ranges. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. CISA: SafePay ransomware hit over 600 critical infrastructure orgs FBI disrupts Chinese hacking tools used to breach critical infrastructure Cyberattack disrupts blood storage refrigeration systems in France Iranian hackers use CHOSEN BRICK Windows malware to spy on targets mSecure password manager hack prompts password reset warnings OK, why in the heck does a simple freezer need to be on the Internet? Local staff should be able to handle setting the temp and watching for a red light when it gets too warm. You know, like they've done successfully for the last 60 years! Binance says fake job interview led to $6.3 billion crypto heist NIKKE PC game launcher hacked to spread remote access, data-stealing malware CISA flags WordPress RCE flaw as actively exploited in attacks Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Overdue a password health-check? Audit your Active Directory for free Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Your carrier tracks you. W",
+    "quick_summary": [
+      "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards.",
+      "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+    "target": "FBI CISA",
+    "type": "Ransomware",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/"
+      }
+    ]
+  },
+  {
+    "id": "90c3f37ca568a58f",
+    "date": "2026-11-05T23:46:50+00:00",
+    "source": "Microsoft Security Blog",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+    "summary": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform authenticated actions in the application’s tenant. Agents operating on behalf of threat actors then used the compromised OAuth applications to perform a variety of subsequent actions within compromised organizations. The post Threat actors use agentic AI tooling to find and abuse exposed secrets appeared first on Microsoft Security Blog .",
+    "article_text": "",
+    "quick_summary": [
+      "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth applicati",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
+    "target": "Threat",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Microsoft Security Blog"
+    ],
+    "links": [
+      {
+        "source": "Microsoft Security Blog",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/"
       }
     ]
   },
@@ -2718,7 +3081,7 @@
     "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
     "target": "DigiCert",
     "type": "Ransomware",
-    "severity": "High",
+    "severity": "Critical",
     "sources": [
       "BleepingComputer"
     ],
@@ -3291,47 +3654,6 @@
       {
         "source": "HackRead",
         "url": "https://hackread.com/hardware-wallets-need-open-source-clear-signing/"
-      }
-    ]
-  },
-  {
-    "id": "a7cce2219848a19a",
-    "date": "2026-11-05T11:25:11+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33490",
-    "target": "ISC Stormcast Thursday November",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33490"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33486"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33484"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33480"
       }
     ]
   },
@@ -9653,6 +9975,35 @@
     ]
   },
   {
+    "id": "853995a19fe45d5e",
+    "date": "2026-11-03T02:00:02+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33484",
+    "target": "ISC Stormcast Tuesday November",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33484"
+      }
+    ]
+  },
+  {
     "id": "c5b4310ca7faa589",
     "date": "2026-11-03T00:01:00+00:00",
     "source": "The Record",
@@ -11773,35 +12124,6 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1xhnqhh/where_a_millionrequestasecond_http2_flood_goes/"
-      }
-    ]
-  },
-  {
-    "id": "a3f9be1f1984f9b8",
-    "date": "2026-11-02T02:00:03+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33480",
-    "target": "ISC Stormcast Monday November",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33480"
       }
     ]
   },
@@ -15444,199 +15766,6 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html"
-      }
-    ]
-  },
-  {
-    "id": "5cd038bf734ce68f",
-    "date": "2026-10-30T03:30:17+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33472",
-    "target": "ISC Stormcast Friday October",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33472"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33468"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33464"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33462"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33456"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33438"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33436"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33432"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33428"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33424"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33418"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33416"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33412"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33408"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33404"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33402"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33398"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33390"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33386"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33384"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33378"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33374"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33370"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33364"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33356"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33354"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33350"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33342"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33346"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33362"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33338"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33334"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33330"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33328"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33322"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33316"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33310"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33308"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33304"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33302"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33446"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33448"
       }
     ]
   },
@@ -24965,35 +25094,6 @@
     ]
   },
   {
-    "id": "4b44f7330d79544b",
-    "date": "2026-10-27T04:37:59+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
-    "article_text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities ( KEV ) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - The addition of the two flaws to the KEV catalog comes after Adel Karimi, detection and response lead at Perplexity, confirmed successful instances of remote code execution against honeypot systems on October 24, 2026. \"The evidence demonstrates this chain on the intentionally favorable single-worker mod_php profile; it is not a measurement of exploit reliability on other worker counts, PHP builds, or applications.\" The issues have been addressed in PHP versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 released on October 21, 2026. Federal agencies have time until October 29, 2026, to apply the necessary fixes. PHP, short for PHP: Hypertext Preprocessor, is a server-side scripting language used in roughly 70% of all websites on the internet. According to estimates shared by Censys, more than 32.51 million PHP services are still running an affected version. The severity of the vulnerabilities has prompted numerous advisories from software and security vendors and government agencies across the world, including - As of October 26, 2026, the PHP Foundation also released Windows builds 8.5.12-1, 8.4.27-1, 8.3.36-1 and 8.2.35-1 to address CVE-2026-111497 , an out-of-bounds write vulnerability in the Brotli decoder library that could also result in privilege escalation and unauthenticated remote code execution. The vulnerability , also known as Broccoli2Shell, HTTP2Shell, and Node2Shell, affects Brotli versions 1.0.3 through 1.0.9, 1.1.0, and 1.2.0. It has been patched in versions 1.0.10, 1.1.1, and 1.2.1, along with other projects that include the C library, including Node.js, Bun, Envoy Proxy, Istio, .NET, and Python. \"In PHP Windows builds, the vulnerable decoder can be reached through the cURL extension when automatic HTTP response decompression is enabled,\" the PHP Foundation said . \"This is disabled by default in cURL, but applications and HTTP client libraries can enable it.\" Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities. Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-    "target": "CISA Confirms Active Exploitation",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
-      }
-    ]
-  },
-  {
     "id": "614768f1e0690894",
     "date": "2026-10-27T04:21:53+00:00",
     "source": "Cyber Security News",
@@ -26839,93 +26939,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/best-data-access-governance/"
-      }
-    ]
-  },
-  {
-    "id": "5e082c357a3b3010",
-    "date": "2026-10-26T09:54:02+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-    "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor",
-    "article_text": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found . It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo , a backdoor that Doctor Web reported in October 2025 . Doctor Web found Baohuo in tampered copies of Telegram X, an Android app from Telegram. At the time, the company estimated that more than 58,000 devices were infected. The Hacker News compared the two reports. Doctor Web's technical description of Baohuo lists the same code namespace, com.ucreator.tgjar , the same command-and-control (C2) server, and matching command names as Ovi's analysis. Ovi's analysis, published October 21, 2026, does not mention Doctor Web's findings, and Doctor Web did not name the kit. It is not clear whether the kit's makers or one of their customers ran the campaign Doctor Web tracked. The tampered apps spread through sideloading, where a person installs an app file directly instead of from an app store, and through social engineering, Ovi found. He could not confirm how every victim was infected. A second route is the kit makers' own container app, called 洋葱盒子 (\"Onion Box\"), which runs other apps inside itself. Some of the tampered Telegram X copies use the same package name as the real app on Google Play, so the name alone does not give them away. Doctor Web found that Baohuo copies had been spreading since mid-2024 through in-app ads that led to fake app store sites. Those sites promoted Telegram X as a dating and video chat app. The sites' banners were available only in Portuguese, for users in Brazil, and in Indonesian. Even so, Doctor Web's 2025 map of infected devices by country put India first, at 22.8%, ahead of Brazil at 20.5% and Indonesia at 9.6%. Baohuo copies also turned up in the third-party stores APKPure, ApkSum and AndroidP. On APKPure, one was listed under the official developer's name, although its digital signature was different. Ovi got access to one of the kit's command servers. It held data on victims apparently located in China and the United States, but not enough for a reliable count. He calls his report \"an analysis of technical capability, not a measurement of victim impact.\" The apparent targets, still unconfirmed, are users of mobile wallets and messaging apps in China and Southeast Asia, including WeCom, QQ, WhatsApp, LINE, Zalo, KakaoTalk, Viber, GCash and MoMo. He found code supporting about 20 apps, but has published code only for Telegram and WeChat. The kit's hooking engine is the part that lets its code intercept an app's functions. Ovi checked it on a Pixel 10 Pro running Android 17. It could not find an internal Android function it relies on, because newer Android versions changed that function. Another tool, Frida, could still hook apps the same way on that phone. Ovi therefore describes this as extra work for the kit's makers, not proof that Android 17 blocks the attack. The newest sample, dated July 29, 2026, still carried the old engine. He recovered samples built for Android 16 but did not report testing that version. He has not tested phones from Chinese makers. Inside a tampered Telegram app, the kit's code starts with the app and runs with the app's own identity and permissions, Ovi found. That gives it the same access as the signed-in app. Each tampered app also runs a local command server inside itself. The code for each target app is downloaded after installation, which makes the installer file harder to analyze on its own. Attackers can send any database query to the app's message store and get chat history back. Telegram's two-step verification (2FA) password is entered in the app, which uses it to generate a login proof on the phone . The kit hooks that step and copies the password in readable form before the app hashes it. With the password, the code can reset the account's logged-in sessions, change the linked phone number, or delete the account. Other parts of the code are designed to lock out the owner while keeping the attacker's session alive. The code can also hide the attacker's session from the device list that the tampered app shows the user. Doctor Web's description of Baohuo covers the same device-hiding. The backdoor also sends the account's phone number, name and password to its server every three minute",
-    "quick_summary": [
-      "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-    "target": "Android Spyware Can Steal",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html"
-      }
-    ]
-  },
-  {
-    "id": "f1ee3c193a15f023",
-    "date": "2026-10-26T09:46:43+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "OpenSSL 4.1.0 Released With DTLS 1.3 and Post-Quantum Security Improvements",
-    "summary": "OpenSSL has released version 4.1.0, bringing DTLS 1.3 support, faster cryptographic operations, and new tools for developers building secure network services. Published on October 23, the update is a feature release, not a standalone security patch. It also includes compatibility changes and four known issues that teams should review before deployment. The official release notes […] The post OpenSSL 4.1.0 Released With DTLS 1.3 and Post-Quantum Security Improvements appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "OpenSSL has released version 4.1.0, bringing DTLS 1.3 support, faster cryptographic operations, and new tools for developers building secure network services.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/openssl-4-1-0-released/",
-    "target": "OpenSSL 4.1.0 Released DTLS",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/openssl-4-1-0-released/"
-      }
-    ]
-  },
-  {
-    "id": "3286938cd070f472",
-    "date": "2026-10-26T09:46:25+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Top 10 Best Sensitive Data Discovery Tools in 2026 [Ranked & Scored]",
-    "summary": "Every data-security control inherits the same dependency: an inventory someone actually believes. Discovery is where that inventory comes from and in 2026 the job has hardened, because shadow data multiplies in SaaS and warehouses, AI pipelines copy training sets nobody registers, and classification without identity correlation can’t answer the only legal question that matters: whose […] The post Top 10 Best Sensitive Data Discovery Tools in 2026 [Ranked & Scored] appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Every data-security control inherits the same dependency: an inventory someone actually believes.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/best-data-discovery-tools/",
-    "target": "Top Best Sensitive Data",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/best-data-discovery-tools/"
       }
     ]
   }
