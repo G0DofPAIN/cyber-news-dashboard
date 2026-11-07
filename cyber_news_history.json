@@ -1,36 +1,7 @@
 [
   {
-    "id": "e661df62d3382200",
-    "date": "2026-11-06T20:53:35.097255+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE FreeBSD Kernel TTY Race Condition Enables Local Privilege Escalation (CVE-2026-58093)",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/freebsd-kernel-tty-race-condition-enables-local-privilege-escalation-cve-2026-58093",
-    "target": "CVE FreeBSD Kernel TTY",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/freebsd-kernel-tty-race-condition-enables-local-privilege-escalation-cve-2026-58093"
-      }
-    ]
-  },
-  {
     "id": "23c4c9029223f426",
-    "date": "2026-11-06T20:53:35.097145+00:00",
+    "date": "2026-11-07T00:56:11.228439+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "afc402945c917008",
-    "date": "2026-11-06T20:53:35.097008+00:00",
+    "date": "2026-11-07T00:56:11.228318+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "5b75280c65f2a8e3",
-    "date": "2026-11-06T20:53:35.096863+00:00",
+    "date": "2026-11-07T00:56:11.228201+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "2cc0f11458f95590",
-    "date": "2026-11-06T20:53:35.096743+00:00",
+    "date": "2026-11-07T00:56:11.228083+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "e6a31d877891fbb1",
-    "date": "2026-11-06T20:53:35.096625+00:00",
+    "date": "2026-11-07T00:56:11.227968+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,13 +145,13 @@
     ]
   },
   {
-    "id": "a046f91fc5665d8b",
-    "date": "2026-11-06T20:53:35.096512+00:00",
+    "id": "dcdf393fbfc176d9",
+    "date": "2026-11-07T00:56:11.227851+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CVE-2026-118539 in Drupal Commerce Core: Patch and Historical Audit Required VULN CVE",
+    "title": "CRITICAL Barracuda ESG Back in the Crosshairs: Two Chainable CVEs Enable Pre-Auth Root RCE",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -188,8 +159,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-118539-in-drupal-commerce-core-patch-and-historical-audit-required",
-    "target": "CVE-2026-118539 Drupal Commerce Core",
+    "link": "https://deafnews.it/en/news/cybersecurity/barracuda-esg-back-in-the-crosshairs-two-chainable-cves-enable-pre-auth-root-rce",
+    "target": "CRITICAL Barracuda ESG Back",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -198,13 +169,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-118539-in-drupal-commerce-core-patch-and-historical-audit-required"
+        "url": "https://deafnews.it/en/news/cybersecurity/barracuda-esg-back-in-the-crosshairs-two-chainable-cves-enable-pre-auth-root-rce"
       }
     ]
   },
   {
     "id": "2f7ad10bb0480b6b",
-    "date": "2026-11-06T20:53:35.096363+00:00",
+    "date": "2026-11-07T00:56:11.227687+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "4b97547eed9c53e2",
-    "date": "2026-11-06T20:53:35.096256+00:00",
+    "date": "2026-11-07T00:56:11.227584+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -261,8 +232,37 @@
     ]
   },
   {
+    "id": "e821e83b64485ba5",
+    "date": "2026-11-07T00:56:11.227463+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "FreeBSD Kernel TTY Race Condition Enables Local Privilege Escalation (CVE-2026-58093) CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/freebsd-kernel-tty-race-condition-enables-local-privilege-escalation-cve-2026-58093",
+    "target": "FreeBSD Kernel TTY Race",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/freebsd-kernel-tty-race-condition-enables-local-privilege-escalation-cve-2026-58093"
+      }
+    ]
+  },
+  {
     "id": "6b7e8bcdd0059526",
-    "date": "2026-11-06T20:53:35.095810+00:00",
+    "date": "2026-11-07T00:56:11.227194+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -294,8 +294,37 @@
     ]
   },
   {
+    "id": "bc034e7440b54b67",
+    "date": "2026-11-07T00:56:11.227064+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Snort, the Network Guardian, Falls to a ZIP Archive VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/snort-the-network-guardian-falls-to-a-zip-archive",
+    "target": "Snort Network Guardian Falls",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/snort-the-network-guardian-falls-to-a-zip-archive"
+      }
+    ]
+  },
+  {
     "id": "ca355f225bc28bc9",
-    "date": "2026-11-06T20:53:35.095213+00:00",
+    "date": "2026-11-07T00:56:11.226457+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -324,7 +353,7 @@
   },
   {
     "id": "927c730f85fd3ffa",
-    "date": "2026-11-06T20:53:35.095073+00:00",
+    "date": "2026-11-07T00:56:11.226329+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -357,7 +386,7 @@
   },
   {
     "id": "64e0613413fa9263",
-    "date": "2026-11-06T20:53:35.094901+00:00",
+    "date": "2026-11-07T00:56:11.226218+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -386,7 +415,7 @@
   },
   {
     "id": "2e9ad9f3483fd092",
-    "date": "2026-11-06T20:53:35.094783+00:00",
+    "date": "2026-11-07T00:56:11.226103+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -423,7 +452,7 @@
   },
   {
     "id": "3926c46ac13e2802",
-    "date": "2026-11-06T20:53:35.094669+00:00",
+    "date": "2026-11-07T00:56:11.225993+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -452,7 +481,7 @@
   },
   {
     "id": "1ecf0823fbc03fd9",
-    "date": "2026-11-06T20:53:35.094560+00:00",
+    "date": "2026-11-07T00:56:11.225881+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -481,7 +510,7 @@
   },
   {
     "id": "104c7f57f6827a18",
-    "date": "2026-11-06T20:53:35.094447+00:00",
+    "date": "2026-11-07T00:56:11.225752+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -509,13 +538,13 @@
     ]
   },
   {
-    "id": "6899d34dc33d49c7",
-    "date": "2026-11-06T20:53:35.093850+00:00",
+    "id": "2869f79854114567",
+    "date": "2026-11-07T00:56:11.225293+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "SonicWall Won't Patch Two Flaws in End-of-Life GMS; Migration to NSM Required",
+    "title": "CYBERSEC SonicWall Won't Patch Two Flaws in End-of-Life GMS; Migration to NSM Required Nov 06, 2026",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -524,7 +553,7 @@
       "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/news/cybersecurity/sonicwall-wont-patch-two-flaws-in-end-of-life-gms-migration-to-nsm-required",
-    "target": "SonicWall Wont Patch Two",
+    "target": "CYBERSEC SonicWall Wont Patch",
     "type": "Vulnerability",
     "severity": "Medium",
     "sources": [
@@ -538,24 +567,24 @@
     ]
   },
   {
-    "id": "6438c0d1f0af078f",
-    "date": "2026-11-06T20:53:35.093651+00:00",
+    "id": "e098c5f1be2af621",
+    "date": "2026-11-07T00:56:11.224911+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CVE IN THE LAST 24H →",
+    "title": "// 2 CVE · 1 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
+      "Risk: vulnerability/exploitation risk",
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
     "link": "https://deafnews.it/en/threats",
-    "target": "CVE LAST 24H",
-    "type": "General Cybersecurity",
-    "severity": "Low",
+    "target": "CVE EXPLOIT LAST",
+    "type": "Vulnerability",
+    "severity": "Medium",
     "sources": [
       "DeafNews"
     ],
@@ -568,7 +597,7 @@
   },
   {
     "id": "e711d8263c26a207",
-    "date": "2026-11-06T20:53:34.609101+00:00",
+    "date": "2026-11-07T00:56:09.824286+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -689,7 +718,7 @@
   },
   {
     "id": "9706d399f5a97478",
-    "date": "2026-11-06T20:53:34.108394+00:00",
+    "date": "2026-11-07T00:56:08.426699+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -718,7 +747,7 @@
   },
   {
     "id": "c3762bab1cea27f2",
-    "date": "2026-11-06T20:53:34.108238+00:00",
+    "date": "2026-11-07T00:56:08.426548+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -747,7 +776,7 @@
   },
   {
     "id": "51e3fc2e59f34aa3",
-    "date": "2026-11-06T20:53:34.108080+00:00",
+    "date": "2026-11-07T00:56:08.426402+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -776,7 +805,7 @@
   },
   {
     "id": "b3de3b5b8196d850",
-    "date": "2026-11-06T20:53:34.107876+00:00",
+    "date": "2026-11-07T00:56:08.426242+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -805,7 +834,7 @@
   },
   {
     "id": "96fb1d9a13b7129f",
-    "date": "2026-11-06T20:53:34.107709+00:00",
+    "date": "2026-11-07T00:56:08.426079+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -834,7 +863,7 @@
   },
   {
     "id": "86eccca749524d1b",
-    "date": "2026-11-06T20:53:34.107551+00:00",
+    "date": "2026-11-07T00:56:08.425923+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -863,7 +892,7 @@
   },
   {
     "id": "dddb8297ad3b8630",
-    "date": "2026-11-06T20:53:34.107363+00:00",
+    "date": "2026-11-07T00:56:08.425706+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -896,7 +925,7 @@
   },
   {
     "id": "d1d35ddb0723bb34",
-    "date": "2026-11-06T20:53:34.107222+00:00",
+    "date": "2026-11-07T00:56:08.425578+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -957,7 +986,7 @@
   },
   {
     "id": "0925ed42aaadcbd8",
-    "date": "2026-11-06T20:53:34.106894+00:00",
+    "date": "2026-11-07T00:56:08.425314+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -986,7 +1015,7 @@
   },
   {
     "id": "301fc1ed5308294c",
-    "date": "2026-11-06T20:53:34.106693+00:00",
+    "date": "2026-11-07T00:56:08.425122+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1015,7 +1044,7 @@
   },
   {
     "id": "24fe90afcab5e737",
-    "date": "2026-11-06T20:53:34.106537+00:00",
+    "date": "2026-11-07T00:56:08.424969+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1044,7 +1073,7 @@
   },
   {
     "id": "08e8c96aa0889f56",
-    "date": "2026-11-06T20:53:34.106391+00:00",
+    "date": "2026-11-07T00:56:08.424796+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1073,7 +1102,7 @@
   },
   {
     "id": "a86c7402bed70275",
-    "date": "2026-11-06T20:53:34.106236+00:00",
+    "date": "2026-11-07T00:56:08.424648+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1115,7 +1144,7 @@
   },
   {
     "id": "b04d001f572e800e",
-    "date": "2026-11-06T20:53:34.106073+00:00",
+    "date": "2026-11-07T00:56:08.424495+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1144,7 +1173,7 @@
   },
   {
     "id": "3b8d4423d6fd9608",
-    "date": "2026-11-06T20:53:34.105894+00:00",
+    "date": "2026-11-07T00:56:08.424341+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1173,7 +1202,7 @@
   },
   {
     "id": "46220df4e233f0cc",
-    "date": "2026-11-06T20:53:34.105746+00:00",
+    "date": "2026-11-07T00:56:08.424188+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1202,7 +1231,7 @@
   },
   {
     "id": "2e78dbab01a9b701",
-    "date": "2026-11-06T20:53:34.105582+00:00",
+    "date": "2026-11-07T00:56:08.424025+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1235,7 +1264,7 @@
   },
   {
     "id": "4c507f33ea61dc01",
-    "date": "2026-11-06T20:53:34.105378+00:00",
+    "date": "2026-11-07T00:56:08.423777+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1264,7 +1293,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-11-06T20:53:34.105073+00:00",
+    "date": "2026-11-07T00:56:08.423487+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1293,7 +1322,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-11-06T20:53:34.104320+00:00",
+    "date": "2026-11-07T00:56:08.422758+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1322,7 +1351,7 @@
   },
   {
     "id": "1243cfe42ce0f682",
-    "date": "2026-11-06T20:53:33.954849+00:00",
+    "date": "2026-11-07T00:56:08.212084+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1355,7 +1384,7 @@
   },
   {
     "id": "611c1f634c17e5e7",
-    "date": "2026-11-06T20:53:33.954722+00:00",
+    "date": "2026-11-07T00:56:08.211956+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1384,7 +1413,7 @@
   },
   {
     "id": "a71958976ae7a8cf",
-    "date": "2026-11-06T20:53:33.954584+00:00",
+    "date": "2026-11-07T00:56:08.211800+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1413,7 +1442,7 @@
   },
   {
     "id": "fc07c4670a99c78e",
-    "date": "2026-11-06T20:53:33.954440+00:00",
+    "date": "2026-11-07T00:56:08.211657+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1442,7 +1471,7 @@
   },
   {
     "id": "834beab003708bb0",
-    "date": "2026-11-06T20:53:33.954313+00:00",
+    "date": "2026-11-07T00:56:08.211531+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1471,7 +1500,7 @@
   },
   {
     "id": "a69ea8fe7f34b21b",
-    "date": "2026-11-06T20:53:33.954185+00:00",
+    "date": "2026-11-07T00:56:08.211405+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1500,7 +1529,7 @@
   },
   {
     "id": "df851e79c62b855c",
-    "date": "2026-11-06T20:53:33.954049+00:00",
+    "date": "2026-11-07T00:56:08.211274+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1529,7 +1558,7 @@
   },
   {
     "id": "286b6a5bc9ad9e2f",
-    "date": "2026-11-06T20:53:33.953902+00:00",
+    "date": "2026-11-07T00:56:08.211147+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1558,7 +1587,7 @@
   },
   {
     "id": "621b9ebe71798efa",
-    "date": "2026-11-06T20:53:33.953785+00:00",
+    "date": "2026-11-07T00:56:08.211028+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1587,7 +1616,7 @@
   },
   {
     "id": "da635b5ba8f74bb4",
-    "date": "2026-11-06T20:53:33.953667+00:00",
+    "date": "2026-11-07T00:56:08.210910+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1616,7 +1645,7 @@
   },
   {
     "id": "84802b3af2d51c29",
-    "date": "2026-11-06T20:53:33.953528+00:00",
+    "date": "2026-11-07T00:56:08.210757+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1645,7 +1674,7 @@
   },
   {
     "id": "8c690942ab22db42",
-    "date": "2026-11-06T20:53:33.953410+00:00",
+    "date": "2026-11-07T00:56:08.210631+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1674,7 +1703,7 @@
   },
   {
     "id": "9cf712a82f014822",
-    "date": "2026-11-06T20:53:33.953287+00:00",
+    "date": "2026-11-07T00:56:08.210510+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1703,7 +1732,7 @@
   },
   {
     "id": "94dbf4b67df7dd02",
-    "date": "2026-11-06T20:53:33.953153+00:00",
+    "date": "2026-11-07T00:56:08.210379+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1732,7 +1761,7 @@
   },
   {
     "id": "0833fc4195361657",
-    "date": "2026-11-06T20:53:33.953016+00:00",
+    "date": "2026-11-07T00:56:08.210245+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1761,7 +1790,7 @@
   },
   {
     "id": "97fc12447e6f24e0",
-    "date": "2026-11-06T20:53:33.952858+00:00",
+    "date": "2026-11-07T00:56:08.210105+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1790,7 +1819,7 @@
   },
   {
     "id": "d974c9fd3f8630bc",
-    "date": "2026-11-06T20:53:33.952708+00:00",
+    "date": "2026-11-07T00:56:08.209959+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1819,7 +1848,7 @@
   },
   {
     "id": "7ece8421228760e2",
-    "date": "2026-11-06T20:53:33.952553+00:00",
+    "date": "2026-11-07T00:56:08.209789+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1848,7 +1877,7 @@
   },
   {
     "id": "acf65887ca804da6",
-    "date": "2026-11-06T20:53:33.952416+00:00",
+    "date": "2026-11-07T00:56:08.209649+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1877,7 +1906,7 @@
   },
   {
     "id": "b5db0d0348970ded",
-    "date": "2026-11-06T20:53:33.952260+00:00",
+    "date": "2026-11-07T00:56:08.209495+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1906,7 +1935,7 @@
   },
   {
     "id": "1df6a6f4c47a4ab8",
-    "date": "2026-11-06T20:53:33.952117+00:00",
+    "date": "2026-11-07T00:56:08.209360+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1935,7 +1964,7 @@
   },
   {
     "id": "3ea713ba27cf4fd3",
-    "date": "2026-11-06T20:53:33.951950+00:00",
+    "date": "2026-11-07T00:56:08.209215+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1964,7 +1993,7 @@
   },
   {
     "id": "ca94c3bf35e74ae1",
-    "date": "2026-11-06T20:53:33.951807+00:00",
+    "date": "2026-11-07T00:56:08.209075+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1993,7 +2022,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-11-06T20:53:33.951656+00:00",
+    "date": "2026-11-07T00:56:08.208921+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2030,7 +2059,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-11-06T20:53:33.951449+00:00",
+    "date": "2026-11-07T00:56:08.208682+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2074,6 +2103,180 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
+      }
+    ]
+  },
+  {
+    "id": "9e75a3f7bc8e1c93",
+    "date": "2026-11-07T00:00:55+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+    "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+    "article_text": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. The vulnerability, tracked as CVE-2026-19868, allows attackers with valid credentials for an alternate authentication method to bypass SAML authentication controls, potentially including SAML-enforced multi-factor authentication (MFA). The flaw has a CVSS severity score of 7.1 and only affects SonicOS SSL-VPN services configured to use SAML authentication. In a security advisory published Friday, SonicWall warned that it had investigated a report that the vulnerability was exploited in an attack and urged customers to install the latest security updates. \"SonicWall PSIRT has investigated a report indicating potential exploitation of this vulnerability. Customers are strongly urged to upgrade to the latest release as soon as possible to mitigate the associated risks,\" the company warned. Ryan Harris of The Electronic Office discovered and reported the vulnerability. While SonicWall has not shared details about the reported exploitation, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added CVE-2026-19868 to its Known Exploited Vulnerabilities (KEV) catalog , confirming that the flaw has been exploited in the wild. CISA ordered federal civilian executive branch agencies to secure affected systems by November 20, 2026. The advisory also fixes six additional vulnerabilities in SonicOS, including two management interface flaws rated 8.8 severity that allow unauthenticated attackers to perform unauthorized operations under specific conditions. The remaining flaws include pre-authentication buffer overflows in the SSL-VPN and TACACS+ services that could cause denial-of-service conditions, and a weak password hashing vulnerability affecting virtual appliances. The vulnerabilities affect SonicOS Gen7 versions 7.3.3-7015 and earlier and Gen8 versions 8.2.2-8015 and earlier. SonicWall fixed the issues in versions 7.3.4-7013 and 8.2.3-8015 and says no workarounds are available. The warning comes after a series of attacks targeting SonicWall's SMA1000 secure remote access appliances. In October, security researchers detected exploitation attempts targeting CVE-2026-102255, a maximum-severity vulnerability that could allow unauthenticated attackers to access internal functionality and perform unauthorized operations. Those attempts followed September attacks that chained two SMA1000 zero-days to achieve remote code execution, as well as July attacks that exploited two other zero-days to deploy malware on vulnerable appliances. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. CISA says max severity GitLab flaw now exploited in the wild CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers CISA warns admins to immediately fix Ivanti flaw exploited as zero-day CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks CISA alerts of active exploitation of three Linux kernel flaws OpenSSH flaw lets attackers log into password-disabled Linux accounts Binance says fake job interview led to $6.3 billion crypto heist NIKKE PC game launcher hacked to spread remote access, data-stealing malware Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Overdue a password health-check? Audit your Active Directory for free Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+    "target": "SonicWall SSL-VPN MFA",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+      }
+    ]
+  },
+  {
+    "id": "a5a888cadb14374c",
+    "date": "2026-11-06T22:27:25+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+    "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+    "article_text": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. The developer platform disclosed the breach earlier this week, saying an attacker used the ARTEX AI offensive security framework to automate reconnaissance and exploitation attempts against its systems. However, in a new security update published Friday, WorkOS founder Michael Grinich revealed that the person responsible had come forward and claimed the incident was accidental. \"Shortly after our original bulletin, a security researcher contacted us and claimed responsibility,\" Grinich said in a post on X . \"They told us they were evaluating ARTEX, an autonomous penetration testing framework, when their agent escaped its isolated testing environment and interacted with WorkOS unintentionally.” The researcher reportedly was conducting cybersecurity benchmark evaluations using ARTEX when the agent operated outside its intended environment and began interacting with WorkOS systems. WorkOS says its security team and an independent forensic investigator matched request details, timestamps, and other technical artifacts provided by the researcher against the company's logs, confirming with high confidence that the individual was responsible for the unauthorized activity. The researcher also confirmed that all WorkOS data obtained by the agent had been deleted and was not shared with anyone else. While WorkOS has confirmed the researcher's responsibility for the intrusion, the company or researcher has not publicly provided details on how the agent escaped its testing environment. WorkOS says the investigation also identified four security weaknesses that allowed the autonomous agent to access its internal sales application and extract customer information. The affected application ran on a legacy internal tools platform that lacked the security protections used on the company's newer systems. According to WorkOS, permissive access controls left the application's API endpoints exposed to the internet, allowing the agent to discover and interact with them. The API also accepted a predictable credential intended for local development that had mistakenly been left deployed in production. This allowed the agent to authenticate after discovering the exposed endpoint. Once authenticated, the agent abused the lack of rate limiting to rapidly retrieve records from the exposed application. WorkOS says the first confirmed unauthorized access occurred on October 25, but the activity remained undetected until October 30, after the agent had completed downloading customer records. The company discovered the incident when an employee noticed unusually high usage of a system connected to the affected application. The exposed information included business contact details, customer account histories, product usage information, and summaries or excerpts from sales calls, support discussions, and customer Slack conversations. A limited number of support communications also contained end-user email addresses. WorkOS says its investigation, validated by an independent forensic firm, determined that the incident was limited to data stored in its sales and customer support systems. The company noted that it had also begun regularly testing its own internet-facing systems using ARTEX on November 3, the same AI penetration-testing framework involved in the incident. ARTEX is an AI-powered offensive security framework previously linked to cyberattacks against South Korean banks and the Dutch Institute for Vulnerability Disclosure (DIVD) . More recently, CrowdStrike reported that the Chinese cyber-espionage group Vapor Panda used the framework in a campaign targeting approximately 200 organizations. Although the researcher claims the WorkOS incident was unintentional, the breach is another demonstration of how AI is being used to conduct autonomous attacks, even when those attacks are unintentional. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. WorkOS says attacker used ARTEX AI to breach internal sales app When an AI Agent Is the Incident, the Identity Record Is the Evidence OpenAI's new GPT-6 Cybe",
+    "quick_summary": [
+      "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and uninten",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+    "target": "Runaway WorkOS",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+      }
+    ]
+  },
+  {
+    "id": "10f492b9851953ed",
+    "date": "2026-11-06T21:27:36+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+    "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+    "article_text": "",
+    "quick_summary": [
+      "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+    "target": "Wades Tech Sovereignty Amid",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy"
+      }
+    ]
+  },
+  {
+    "id": "fc2bdf2aecd587df",
+    "date": "2026-11-06T21:15:09+00:00",
+    "source": "Palo Alto Unit 42",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System",
+    "summary": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System appeared first on Unit 42 .",
+    "article_text": "",
+    "quick_summary": [
+      "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
+    "target": "Turning Heat",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Palo Alto Unit 42"
+    ],
+    "links": [
+      {
+        "source": "Palo Alto Unit 42",
+        "url": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/"
+      }
+    ]
+  },
+  {
+    "id": "a046f91fc5665d8b",
+    "date": "2026-11-06T20:53:35.096512+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE-2026-118539 in Drupal Commerce Core: Patch and Historical Audit Required VULN CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-118539-in-drupal-commerce-core-patch-and-historical-audit-required",
+    "target": "CVE-2026-118539 Drupal Commerce Core",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-118539-in-drupal-commerce-core-patch-and-historical-audit-required"
+      }
+    ]
+  },
+  {
+    "id": "6438c0d1f0af078f",
+    "date": "2026-11-06T20:53:35.093651+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CVE IN THE LAST 24H →",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/threats",
+    "target": "CVE LAST 24H",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/threats"
       }
     ]
   },
@@ -3956,6 +4159,423 @@
     ]
   },
   {
+    "id": "cd17939e70b38dd2",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-897: (Pwn2Own) Home Assistant Green aiohttp_client Server-Side Request Forgery Vulnerability",
+    "summary": "This vulnerability allows network-adjacent attackers to initiate arbitrary server-side requests on affected installations of Home Assistant Green. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 5.4. The following CVEs are assigned: CVE-2026-91131.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows network-adjacent attackers to initiate arbitrary server-side requests on affected installations of Home Assistant Green.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-897/",
+    "target": "ZDI-26-897",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-897/"
+      }
+    ]
+  },
+  {
+    "id": "291d87cbff553931",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-896: (Pwn2Own) Home Assistant Green Cleartext Storage of Credentials Local Privilege Escalation Vulnerability",
+    "summary": "This vulnerability allows local attackers to escalate privileges on affected installations of Home Assistant Green. An attacker must first obtain the ability to execute low-privileged code within a container on the target system in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 8.8. The following CVEs are assigned: CVE-2026-91131.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows local attackers to escalate privileges on affected installations of Home Assistant Green.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-896/",
+    "target": "ZDI-26-896",
+    "type": "Vulnerability",
+    "severity": "High",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-896/"
+      }
+    ]
+  },
+  {
+    "id": "47e14678bd55cdbd",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-895: LibreOffice dBase File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of LibreOffice. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-76181.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of LibreOffice.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-895/",
+    "target": "ZDI-26-895",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-895/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-887/"
+      }
+    ]
+  },
+  {
+    "id": "7f99892979deb8ea",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-894: Docker Sandboxes Inclusion of Functionality from Untrusted Control Sphere Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows local attackers to execute arbitrary code on affected installations of Docker Sandboxes. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-121614.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows local attackers to execute arbitrary code on affected installations of Docker Sandboxes.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-894/",
+    "target": "ZDI-26-894",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-894/"
+      }
+    ]
+  },
+  {
+    "id": "103607d23640d1fe",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-893: Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trimble SketchUp. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-121741.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Trimble SketchUp.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-893/",
+    "target": "ZDI-26-893",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-893/"
+      }
+    ]
+  },
+  {
+    "id": "910e1ce696db66ef",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-892: Philips Hue Bridge Pro Protection Mechanism Failure Authentication Bypass Vulnerability",
+    "summary": "This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of Philips Hue Bridge Pro. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 8.8. The following CVEs are assigned: CVE-2026-122044.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows network-adjacent attackers to bypass authentication on affected installations of Philips Hue Bridge Pro.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-892/",
+    "target": "ZDI-26-892",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-892/"
+      }
+    ]
+  },
+  {
+    "id": "9f50983b79e03166",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-891: Philips Hue Bridge Pro SQL Injection Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Philips Hue Bridge Pro. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed. The ZDI has assigned a CVSS rating of 8.0. The following CVEs are assigned: CVE-2026-118632.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Philips Hue Bridge Pro.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-891/",
+    "target": "ZDI-26-891",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-891/"
+      }
+    ]
+  },
+  {
+    "id": "7e37edcc732581c0",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-890: Philips Hue Bridge Pro Argument Injection Restricted File Write Vulnerability",
+    "summary": "This vulnerability allows local attackers to modify files on affected installations of Philips Hue Bridge Pro. An attacker must first obtain the ability to execute low-privileged code within a container on the target system, in order to exploit this vulnerability. The ZDI has assigned a CVSS rating of 3.8. The following CVEs are assigned: CVE-2026-118631.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows local attackers to modify files on affected installations of Philips Hue Bridge Pro.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-890/",
+    "target": "ZDI-26-890",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-890/"
+      }
+    ]
+  },
+  {
+    "id": "d22b522e0320d4dc",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-889: Quest NetVault Backup nvpmgr Integer Underflow Denial-of-Service Vulnerability",
+    "summary": "This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Quest NetVault Backup. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.5. The following CVEs are assigned: CVE-2026-13270.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Quest NetVault Backup.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-889/",
+    "target": "ZDI-26-889",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-889/"
+      }
+    ]
+  },
+  {
+    "id": "33d87a6a73d9b748",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-888: Quest NetVault Backup StnzCreateKey Numeric Truncation Error Denial-of-Service Vulnerability",
+    "summary": "This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Quest NetVault Backup. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 7.5. The following CVEs are assigned: CVE-2026-13269.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to create a denial-of-service condition on affected installations of Quest NetVault Backup.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-888/",
+    "target": "ZDI-26-888",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-888/"
+      }
+    ]
+  },
+  {
+    "id": "da91fa18629514ae",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-886: OriginLab Origin Viewer OPJU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab Origin Viewer. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-114558.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab Origin Viewer.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-886/",
+    "target": "ZDI-26-886",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-886/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-884/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-882/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-881/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-879/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-878/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-877/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-876/"
+      }
+    ]
+  },
+  {
+    "id": "cc246dc5d9f24829",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-885: OriginLab Origin Viewer OPJ File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab Origin Viewer. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-114568.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab Origin Viewer.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-885/",
+    "target": "ZDI-26-885",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-885/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-880/"
+      },
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-875/"
+      }
+    ]
+  },
+  {
+    "id": "5de0f9f6c1477e26",
+    "date": "2026-11-06T06:00:00+00:00",
+    "source": "Zero Day Initiative",
+    "quality": "High",
+    "scope": "Vulnerability",
+    "category": "",
+    "title": "ZDI-26-883: OriginLab Origin Viewer OGM File Parsing Memory Corruption Remote Code Execution Vulnerability",
+    "summary": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab Origin Viewer. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The ZDI has assigned a CVSS rating of 7.8. The following CVEs are assigned: CVE-2026-114566.",
+    "article_text": "",
+    "quick_summary": [
+      "This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab Origin Viewer.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-883/",
+    "target": "ZDI-26-883",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "Zero Day Initiative"
+    ],
+    "links": [
+      {
+        "source": "Zero Day Initiative",
+        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-883/"
+      }
+    ]
+  },
+  {
     "id": "ba839b3fd3f9915b",
     "date": "2026-11-06T05:58:54+00:00",
     "source": "The Hacker News",
@@ -4401,6 +5021,35 @@
       {
         "source": "HackRead",
         "url": "https://hackread.com/how-governments-detect-vpn-traffic-encryption/"
+      }
+    ]
+  },
+  {
+    "id": "35b82f3319cdbe73",
+    "date": "2026-11-05T22:13:23+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Operação de influência russa tem como alvo generalizado a América Latina",
+    "summary": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
+    "article_text": "",
+    "quick_summary": [
+      "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras açõ",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+    "target": "Operao",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina"
       }
     ]
   },
@@ -14712,35 +15361,6 @@
       {
         "source": "Zero Day Initiative",
         "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-818/"
-      }
-    ]
-  },
-  {
-    "id": "e098c5f1be2af621",
-    "date": "2026-10-31T09:37:59.519881+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "// 5 CVE · 2 EXPLOIT IN THE LAST 24H →",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/threats",
-    "target": "CVE EXPLOIT LAST",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/threats"
       }
     ]
   },
@@ -26355,586 +26975,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/microsoft-365-accounts/"
-      }
-    ]
-  },
-  {
-    "id": "8d5cc6d8c0007cc5",
-    "date": "2026-10-27T06:34:47+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-    "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP)",
-    "article_text": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP) said in an alert issued last week. The primary initial access vector used in the attacks is via Easy4IP , a peer-to-peer (P2P) platform that allows users to remotely monitor homes or small businesses by connecting their Dahua IP cameras, NVRs, and DVRs via a smartphone app or web browser by scanning a QR code or entering the hardware Serial Number (SN). The agency has warned that the serial numbers have a predictable structure containing a 10-character model prefix that's identical for all units of the same device family and a five-character hexadecimal counter that's incremented almost sequentially (e.g., 7K01F36PCA003E8). This, in turn, allows attackers to guess them at scale through a brute-force attack and identify if they are connected to the cloud without hitting rate limits or lockouts. As a result, all devices with active P2P functionality are at risk even if they cannot be accessed directly via the internet. \"The assumption that the serial number is unknown to anyone is not a reason to consider the device secure,\" CERT-UA said. Authentication barriers are overcome by leveraging weak or known passwords, or by exploiting authentication bypass vulnerabilities in outdated firmware versions, such as CVE-2021-33044 and CVE-2021-33045. CERT-UA has shared the following indicators of compromise associated with the activity - To counter the threat, it's advised to disable the P2P feature if not required, avoid exposing them directly to the internet, and keep the software up-to-date. The agency has not disclosed who was targeted, when these infections occurred, how many devices had been infected, or who was responsible for the activity. However, the findings share similarities with two clusters of activity that Hunt.io disclosed as targeting IP cameras in Ukraine and Russia. One of the campaigns, attributed to a Russian-speaking operator, singled out internet-exposed cameras in Ukraine using known Dahua and Hikvision vulnerabilities, ultimately compromising 58 devices. The activity involved the exploitation of the following flaws by integrating Ingram , a publicly available webcam vulnerability scanner - In parallel, the threat actor is also said to have undertaken scanning and exploitation of TP-Link and MikroTik routers and cameras using vulnerabilities like CVE-2024-53375 and CVE-2024-57049 across 15 European countries, including Ukraine, Poland, Romania, Moldova, Hungary, Czechia, Slovakia, Bulgaria, Germany, France, the Netherlands, Italy, Spain, the U.K., and Austria. The second campaign, codenamed Operation CameraSwarm and attributed to a lone threat actor, is believed to have compromised over 14,530 Dahua IP cameras between June 17 and July 22, 2026, using a combination of credential brute-force attacks and the exploitation of the CVE-2021-33044-CVE-2021-33045 chain. The attack scans for TCP port 37777, which is the default proprietary management and video streaming port used by Dahua, followed by collecting serial numbers, breaking into those devices by employing the aforementioned two exploitation methods, and then deploying a persistent backdoor account (\" p2pwn / p2password\") on nearly 2,000 cameras in a manner that can survive password change and a factory reset. \"1,923 cameras carry a persistent backdoor account (p2pwn / p2password), installed over RPC after either bypass,\" Hunt.io noted at the time. \"It is stored independently of the admin password and survives a password change and, on most firmware, a factory reset. 283 cameras were reached by serial number alone through Dahua's cloud relay, with no device address and, in most cases, no credentials.\" In some instances, the attackers have been found to abuse Dahua's cloud relay to reach cameras behind NATs using only their serial numbers . Earlier this year, Dutch intelligence agencies warned that Russian actors are compromising IP cameras across the E.U., NATO states, and Ukraine to conduct systematic digital espionage operations and acquire military intelligence. \"This actor performs automated analysis of imagery through image recognition software to conduct targe",
-    "quick_summary": [
-      "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-    "target": "Attackers Hijack Dahua Cameras",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html"
-      }
-    ]
-  },
-  {
-    "id": "31baf13718aa5bea",
-    "date": "2026-10-27T06:11:26+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Use AI Agents to Target Over 2,250 Microsoft 365 Tenants Through ConnectWise",
-    "summary": "Hackers used AI agents and stolen ConnectWise application credentials to attempt access to more than 2,250 Microsoft 365 tenants, according to Microsoft’s technical investigation report. Microsoft attributed the campaign to Storm-0940, a China-state-aligned group, and said its ARTEX framework accelerated reconnaissance, authentication attempts, and cloud persistence. The targeting count does not mean every tenant was […] The post Hackers Use AI Agents to Target Over 2,250 Microsoft 365 Tenants Through ConnectWise appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Hackers used AI agents and stolen ConnectWise application credentials to attempt access to more than 2,250 Microsoft 365 tenants, according to Microsoft’s technical investigation report.",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/hackers-use-ai-agents/",
-    "target": "Agents Target 2250 Microsoft",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/hackers-use-ai-agents/"
-      }
-    ]
-  },
-  {
-    "id": "045cf2faddb2c58a",
-    "date": "2026-10-27T05:40:35+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "OpenAI Codex Breaks USB Encryption in Minutes, Exposing Hardcoded Keys and Security Flaws",
-    "summary": "OpenAI Codex helped researcher Xusheng Li uncover flaws in four USB protection products, including hardcoded encryption keys and hidden accounts that allowed files to be decrypted without the owner’s password. In one test, Codex identified the main weakness in seven minutes. The findings expose failures in how these products handle secrets, rather than a breakthrough […] The post OpenAI Codex Breaks USB Encryption in Minutes, Exposing Hardcoded Keys and Security Flaws appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "OpenAI Codex helped researcher Xusheng Li uncover flaws in four USB protection products, including hardcoded encryption keys and hidden accounts that allowed files to be decrypted without the owner’s password.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/openai-codex-breaks-usb-encryption-in-minutes/",
-    "target": "OpenAI Codex Breaks USB",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/openai-codex-breaks-usb-encryption-in-minutes/"
-      }
-    ]
-  },
-  {
-    "id": "fe7a8e9c8e0751fe",
-    "date": "2026-10-27T05:25:17+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Researcher Gains Root Access to Samsung Smart TV, Uncovers Extensive User Tracking",
-    "summary": "A cybersecurity researcher says he gained root access to a 2025 Samsung Smart TV and found software built to track far more than the picture on the screen. Known online as log4j, he started after the set kept showing ads that seemed oddly specific to his household. He says the Tizen firmware was AES-encrypted, so […] The post Researcher Gains Root Access to Samsung Smart TV, Uncovers Extensive User Tracking appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A cybersecurity researcher says he gained root access to a 2025 Samsung Smart TV and found software built to track far more than the picture on the screen.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/researcher-root-samsung-smart-tv/",
-    "target": "Researcher Gains Root Access",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/researcher-root-samsung-smart-tv/"
-      }
-    ]
-  },
-  {
-    "id": "a9de01dac9aded88",
-    "date": "2026-10-27T05:02:57.669553+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "eMudhra: 8 Intermediate CAs Compromised, Qualys Releases Operational Detection Tools CYBERSEC",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/emudhra-8-intermediate-cas-compromised-qualys-releases-operational-detection-tools",
-    "target": "Unknown",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/emudhra-8-intermediate-cas-compromised-qualys-releases-operational-detection-tools"
-      }
-    ]
-  },
-  {
-    "id": "49cc3a46da24526b",
-    "date": "2026-10-27T05:02:56.069094+00:00",
-    "source": "CyberNews Security",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Security SafePay ransomware gang hits at least 600 organizations worldwide Oct 22, 2026 2 min read",
-    "summary": "Discovered from CyberNews Security page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Discovered from CyberNews Security page.",
-      "Risk: ransomware/extortion",
-      "Action: monitor indicators, backups, remote access, and related vendor exposure."
-    ],
-    "link": "https://cybernews.com/security/safepay-ransomware-gang-hits-at-least-600-organizations-worldwide/",
-    "target": "SafePay 600",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "CyberNews Security"
-    ],
-    "links": [
-      {
-        "source": "CyberNews Security",
-        "url": "https://cybernews.com/security/safepay-ransomware-gang-hits-at-least-600-organizations-worldwide/"
-      }
-    ]
-  },
-  {
-    "id": "3bb0c52472b519ff",
-    "date": "2026-10-27T05:02:56.069013+00:00",
-    "source": "CyberNews Security",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Security Nigerian gets 8 years for phishing tax firms and stealing identities Oct 22, 2026 1 min read",
-    "summary": "Discovered from CyberNews Security page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Discovered from CyberNews Security page.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybernews.com/security/nigerian-gets-8-years-for-phishing-tax-firms-and-stealing-identities/",
-    "target": "Nigerian",
-    "type": "Phishing / Scam",
-    "severity": "High",
-    "sources": [
-      "CyberNews Security"
-    ],
-    "links": [
-      {
-        "source": "CyberNews Security",
-        "url": "https://cybernews.com/security/nigerian-gets-8-years-for-phishing-tax-firms-and-stealing-identities/"
-      }
-    ]
-  },
-  {
-    "id": "43ef41892c537351",
-    "date": "2026-10-27T05:02:55.822713+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "CVE-2026-106173 Deep-Dive: Fortinet FortiSIEM gRPC Path Traversal File Write to RCE",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "CVE-2026-106173 Deep-Dive: Fortinet FortiSIEM gRPC Path Traversal File Write to RCE",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1xardr3/cve2026106173_deepdive_fortinet_fortisiem_grpc/",
-    "target": "CVE-2026-106173 Deep-Dive",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1xardr3/cve2026106173_deepdive_fortinet_fortisiem_grpc/"
-      }
-    ]
-  },
-  {
-    "id": "9e84d93d648f8f86",
-    "date": "2026-10-27T05:02:55.822635+00:00",
-    "source": "Reddit r/netsec",
-    "quality": "Medium",
-    "scope": "Community",
-    "category": "",
-    "title": "Prompt injection, XSS and SIEM-exfil payloads living in reverse DNS, plus 28 fake Googlebots that passed FCrDNS",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "Prompt injection, XSS and SIEM-exfil payloads living in reverse DNS, plus 28 fake Googlebots that passed FCrDNS",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.reddit.com/r/netsec/comments/1xaqo61/prompt_injection_xss_and_siemexfil_payloads/",
-    "target": "Prompt XSS SIEM-exfil",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Reddit r/netsec"
-    ],
-    "links": [
-      {
-        "source": "Reddit r/netsec",
-        "url": "https://www.reddit.com/r/netsec/comments/1xaqo61/prompt_injection_xss_and_siemexfil_payloads/"
-      }
-    ]
-  },
-  {
-    "id": "10858aa95a569760",
-    "date": "2026-10-27T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-811: MailEnable parseObjectResponse XML External Entity Processing Information Disclosure Vulnerability",
-    "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of MailEnable. Authentication is required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 6.5. The following CVEs are assigned: CVE-2026-114552.",
-    "article_text": "",
-    "quick_summary": [
-      "This vulnerability allows remote attackers to disclose sensitive information on affected installations of MailEnable.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-811/",
-    "target": "ZDI-26-811",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-811/"
-      }
-    ]
-  },
-  {
-    "id": "4c92fa71d8c32702",
-    "date": "2026-10-27T05:00:00+00:00",
-    "source": "Zero Day Initiative",
-    "quality": "High",
-    "scope": "Vulnerability",
-    "category": "",
-    "title": "ZDI-26-810: MailEnable Auth Cleartext Storage Information Disclosure Vulnerability",
-    "summary": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of MailEnable. Authentication is not required to exploit this vulnerability. The ZDI has assigned a CVSS rating of 5.9. The following CVEs are assigned: CVE-2026-114551.",
-    "article_text": "",
-    "quick_summary": [
-      "This vulnerability allows remote attackers to disclose sensitive information on affected installations of MailEnable.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-810/",
-    "target": "ZDI-26-810",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "Zero Day Initiative"
-    ],
-    "links": [
-      {
-        "source": "Zero Day Initiative",
-        "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-810/"
-      }
-    ]
-  },
-  {
-    "id": "9641aa11df0a2db5",
-    "date": "2026-10-27T04:40:22+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Abuse Claude’s Official Website and Google Ads to Spread Malware",
-    "summary": "Cybercriminals found a simple way to make a fake download page look trustworthy. Instead of registering a lookalike domain, they placed their lure on claude.ai, the official website of Anthropic, the company behind the Claude AI assistant. The fake page carried Claude branding and offered what looked like easy steps to install a desktop app. […] The post Hackers Abuse Claude’s Official Website and Google Ads to Spread Malware appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Cybercriminals found a simple way to make a fake download page look trustworthy.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/claudes-official-website/",
-    "target": "Abuse Claudes Official Website",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/claudes-official-website/"
-      }
-    ]
-  },
-  {
-    "id": "614768f1e0690894",
-    "date": "2026-10-27T04:21:53+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Use Malicious Instagram Ads to Infect iPhones With Spyware Without a Click",
-    "summary": "Hackers are using malicious Instagram advertisements to infect vulnerable iPhones with spyware while users scroll through their feeds. A documented attack used a World Cup advertisement to deliver the P7 variant of DarkSword, exposing sensitive information without requiring the victim to tap the ad, download a file, or install an application. The findings show how […] The post Hackers Use Malicious Instagram Ads to Infect iPhones With Spyware Without a Click appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Hackers are using malicious Instagram advertisements to infect vulnerable iPhones with spyware while users scroll through their feeds.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/malicious-instagram-ads/",
-    "target": "Malicious Instagram Ads Infect",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/malicious-instagram-ads/"
-      }
-    ]
-  },
-  {
-    "id": "c1762281cc2e95ea",
-    "date": "2026-10-27T04:17:51+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Palo Alto Confirms Brotli Vulnerability Impact on PAN-OS and Releases Workarounds",
-    "summary": "Palo Alto Networks has confirmed that a critical Brotli vulnerability affects some PAN-OS firewall deployments and its Prisma Cloud Application Security Transporter Client. Tracked as CVE-2026-111497, the flaw could let an attacker corrupt memory, expose sensitive data, crash a service, or potentially run code without authentication. The company published its advisory on October 26, 2026. […] The post Palo Alto Confirms Brotli Vulnerability Impact on PAN-OS and Releases Workarounds appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Palo Alto Networks has confirmed that a critical Brotli vulnerability affects some PAN-OS firewall deployments and its Prisma Cloud Application Security Transporter Client.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/brotli-vulnerability-affects-pan-os/",
-    "target": "Palo Alto Confirms Brotli",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/brotli-vulnerability-affects-pan-os/"
-      }
-    ]
-  },
-  {
-    "id": "832167e2ffed345c",
-    "date": "2026-10-27T04:01:59+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New Aokigahara Malware Targets ChatGPT, Claude, Codex, and Cursor Login Credentials",
-    "summary": "A newly observed Windows infostealer called Aokigahara is targeting login credentials and session data associated with ChatGPT Desktop, Claude, Codex, and Cursor. The malware searches infected computers for authentication files and application storage, extending familiar password theft into the AI tools developers increasingly use for everyday work. The threat is not evidence that these AI […] The post New Aokigahara Malware Targets ChatGPT, Claude, Codex, and Cursor Login Credentials appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A newly observed Windows infostealer called Aokigahara is targeting login credentials and session data associated with ChatGPT Desktop, Claude, Codex, and Cursor.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/aokigahara-malware/",
-    "target": "Aokigahara Malware Targets ChatGPT",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/aokigahara-malware/"
-      }
-    ]
-  },
-  {
-    "id": "cb5ae9eb4bc37eaa",
-    "date": "2026-10-27T03:50:13+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Sell ICMacOS Remote Access Trojan for $699 a Week to Target Mac Users",
-    "summary": "Cybercriminals are selling a Mac malware kit that can do far more than steal passwords. The tool, called ICMacOS or Icarus macOS, is offered for $699 a week on Russian-speaking dark web forums. It began as a basic data stealer, but its newer version can stay hidden on a Mac, survive restarts, and run commands […] The post Hackers Sell ICMacOS Remote Access Trojan for $699 a Week to Target Mac Users appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Cybercriminals are selling a Mac malware kit that can do far more than steal passwords.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/icmacos-remote-access-trojan/",
-    "target": "Sell ICMacOS Remote Access",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/icmacos-remote-access-trojan/"
-      }
-    ]
-  },
-  {
-    "id": "82eeb0eaff86cbf3",
-    "date": "2026-10-27T03:47:20+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Claude Code Reportedly Finds 214,856 Deleted Photos and Videos Hidden on Android Phone",
-    "summary": "Anthropic’s Claude Code reportedly found 214,856 files linked to deleted photos and videos on a Google Pixel, raising privacy concerns about Android photos. The user, known as Cooler (@coolerwave), said files remained in a hidden thumbnail folder even after the original images were permanently deleted. This claim is unverified and cannot be confirmed as an […] The post Claude Code Reportedly Finds 214,856 Deleted Photos and Videos Hidden on Android Phone appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Anthropic’s Claude Code reportedly found 214,856 files linked to deleted photos and videos on a Google Pixel, raising privacy concerns about Android photos.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/claude-code-finds-deleted-photos/",
-    "target": "Claude Code Reportedly Finds",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/claude-code-finds-deleted-photos/"
-      }
-    ]
-  },
-  {
-    "id": "bfc6541310791d8e",
-    "date": "2026-10-27T02:50:31+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One’s",
-    "summary": "Apache Camel has released fixes for multiple security flaws, including high-severity XML External Entity vulnerabilities that could expose local files or reach internal systems. The issues affect several components, with risks ranging from unsafe XML processing to remote code execution, stolen credentials, and failed access checks. Apache’s security advisories list patched releases for each affected […] The post Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One’s appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Apache Camel has released fixes for multiple security flaws, including high-severity XML External Entity vulnerabilities that could expose local files or reach internal systems.",
-      "Risk: credentials/infostealer risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/",
-    "target": "Apache Camel Fixes Multiple",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
-      }
-    ]
-  },
-  {
-    "id": "5691e1d819b91320",
-    "date": "2026-10-27T02:33:36+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "New DarkCore RAT Targets Gmail and WhatsApp Sessions While Hiding Behind Victims’ IP Addresses",
-    "summary": "A newly uncovered remote access trojan called DarkCore is being marketed with a browser designed to reuse stolen Gmail, WhatsApp, and other account sessions while routing traffic through victims’ IP addresses. The approach could make unauthorized account access look like normal activity from an already trusted connection. The Windows malware combines advertised credential theft, file […] The post New DarkCore RAT Targets Gmail and WhatsApp Sessions While Hiding Behind Victims’ IP Addresses appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A newly uncovered remote access trojan called DarkCore is being marketed with a browser designed to reuse stolen Gmail, WhatsApp, and other account sessions while routing traffic through victims’ IP addresses.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/new-darkcore-rat/",
-    "target": "DarkCore RAT Targets Gmail",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/new-darkcore-rat/"
-      }
-    ]
-  },
-  {
-    "id": "22acc80791a20bae",
-    "date": "2026-10-27T02:09:55+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
-    "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.",
-    "article_text": "",
-    "quick_summary": [
-      "Apple today released patches for 304 vulnerabilties.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33458",
-    "target": "Apple Patches October 2026",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33458"
       }
     ]
   }
