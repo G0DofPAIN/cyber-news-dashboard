@@ -1,36 +1,7 @@
 [
   {
-    "id": "23c4c9029223f426",
-    "date": "2026-11-07T00:56:11.228439+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "ZERO-DAY Ivanti Connect Secure: Zero-Day Chain Grants Unauthenticated Root on Patched Appliances",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/ivanti-connect-secure-zero-day-chain-grants-unauthenticated-root-on-patched-appliances",
-    "target": "ZERO-DAY Ivanti Connect Secure",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/ivanti-connect-secure-zero-day-chain-grants-unauthenticated-root-on-patched-appliances"
-      }
-    ]
-  },
-  {
     "id": "afc402945c917008",
-    "date": "2026-11-07T00:56:11.228318+00:00",
+    "date": "2026-11-07T07:09:27.428171+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "5b75280c65f2a8e3",
-    "date": "2026-11-07T00:56:11.228201+00:00",
+    "date": "2026-11-07T07:09:27.428091+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "2cc0f11458f95590",
-    "date": "2026-11-07T00:56:11.228083+00:00",
+    "date": "2026-11-07T07:09:27.428011+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "e6a31d877891fbb1",
-    "date": "2026-11-07T00:56:11.227968+00:00",
+    "date": "2026-11-07T07:09:27.427933+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "dcdf393fbfc176d9",
-    "date": "2026-11-07T00:56:11.227851+00:00",
+    "date": "2026-11-07T07:09:27.427857+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,8 +145,37 @@
     ]
   },
   {
+    "id": "0ba056f0b2f48c06",
+    "date": "2026-11-07T07:09:27.427779+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE CVE-2026-123158: OpenSSH Authentication Bypass on Alpine Linux via 257-Byte Password",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-123158-openssh-authentication-bypass-on-alpine-linux-via-257-byte-password",
+    "target": "CVE CVE-2026-123158",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-123158-openssh-authentication-bypass-on-alpine-linux-via-257-byte-password"
+      }
+    ]
+  },
+  {
     "id": "2f7ad10bb0480b6b",
-    "date": "2026-11-07T00:56:11.227687+00:00",
+    "date": "2026-11-07T07:09:27.427696+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -204,7 +204,7 @@
   },
   {
     "id": "4b97547eed9c53e2",
-    "date": "2026-11-07T00:56:11.227584+00:00",
+    "date": "2026-11-07T07:09:27.427610+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +233,7 @@
   },
   {
     "id": "e821e83b64485ba5",
-    "date": "2026-11-07T00:56:11.227463+00:00",
+    "date": "2026-11-07T07:09:27.427522+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -261,8 +261,42 @@
     ]
   },
   {
+    "id": "8ba8fb29b9b6f49f",
+    "date": "2026-11-07T07:09:27.427443+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Ivanti Connect Secure: Zero-Day Chain Grants Unauthenticated Root on Patched Appliances CYBERSEC ZERO-DAY",
+    "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+    "article_text": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. Threat actors exploited these two flaws (tracked as CVE-2026-111357 and CVE-2026-118527 ) alongside an authentication bypass vulnerability (CVE-2026-104935), which Ivanti patched last month to remove the main attack surface. CVE-2026-111357 is a high-severity privilege escalation flaw, and CVE-2026-118527 lets authenticated attackers upload files on an unpatched device. When it released patches for CVE-2026-104935 in October, Ivanti urged admins to upgrade as soon as possible since it was aware of \"limited exploitation in the wild.\" \"At the time of discovery of exploitation, Ivanti had a fix developed for CVE-2026-104935 which was already in QA for supported versions, and we made the decision to not delay getting a fix to customers that resolved the primary exploitation path when the LPE was discovered,\" Ivanti added in an advisory updated on Thursday. \"Because of this, our focus was initially centered on the disclosure of CVE-2026-104935 and providing protection for our customers as quickly as possible.\" Cybersecurity firm Volexity, which found the flaw, reported at the time that a threat actor (UTA0576) was chaining the CVE-2026-104935 vulnerability since at least October 3 with two other flaws to gain unauthenticated root-level code execution on fully patched ICS devices. \"Notably, UTA0576 deployed no malware or web shell. Instead, the threat actor re-exploited the device for every command it ran and tampered with logs to cover its tracks, evading Ivanti's Integrity Checker Tool,\" Volexity said . Threat intelligence firm Defused also confirmed Volexity's report , saying that it spotted the first signs of active CVE-2026-104935 exploitation starting October 1. On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) added CVE-2026-104935 to its catalog of actively exploited vulnerabilities and ordered federal agencies to patch their systems by Friday, Internet threat watchdog Shadowserver now tracks over 5,000 Internet-exposed ICS instances , but there is no information on how many have already been secured against ongoing attacks. ​​Threat actors frequently target Ivanti vulnerabilities, often in zero-day attacks, because they provide a quick way into enterprise networks to steal sensitive corporate and customer data. Over the past several years, Ivanti has patched several other Connect Secure zero-days exploited in the wild, some of them chained in widespread attacks to deploy malware . It addressed a command injection (CVE-2024-21887) and an authentication bypass (CVE-2023-46805) in early January 2024 , and a server-side request forgery (CVE-2024-21893) two weeks later . More recently, Ivanti has fixed a remote code execution (RCE) bug (CVE-2025-0282) in January 2025 and a second RCE flaw (CVE-2025-22457) exploited by China-linked state hackers since at least mid-March 2025. Ivanti has over 3,000 employees, a network of more than 7,000 partners, and over 40,000 customers using its IT asset management solutions worldwide. Since November 2021, CISA has flagged 38 Ivanti vulnerabilities as actively exploited in the wild, including 12 that have also been abused in ransomware attacks. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. CISA warns admins to immediately fix Ivanti flaw exploited as zero-day Ivanti warns of Connect Secure zero-day exploited in attacks Google fixes actively exploited Android zero-day on Pixel devices Sonicwall warns of new SMA1000 zero-day exploited in attacks Arista patches new VeloCloud Orchestrator zero-day exploited in attacks Critical Linux kernel flaw allows remote root attacks on MPTCP servers New Android SMS of Death exploit can remotely crash unpatched phones CISA says max severity GitLab flaw now exploited in the wild What can your AI agents actually do? Learn to control every action in our Nov. 18 webinar. Identity-based order to control the chaos of your agentic AI. See Token Security’s AI Agent Security Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Stay one step ahead",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/ivanti-connect-secure-zero-day-chain-grants-unauthenticated-root-on-patched-appliances",
+    "target": "Ivanti Connect Secure",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews",
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/ivanti-connect-secure-zero-day-chain-grants-unauthenticated-root-on-patched-appliances"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/"
+      }
+    ]
+  },
+  {
     "id": "6b7e8bcdd0059526",
-    "date": "2026-11-07T00:56:11.227194+00:00",
+    "date": "2026-11-07T07:09:27.427333+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,7 +329,7 @@
   },
   {
     "id": "bc034e7440b54b67",
-    "date": "2026-11-07T00:56:11.227064+00:00",
+    "date": "2026-11-07T07:09:27.427239+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -324,7 +358,7 @@
   },
   {
     "id": "ca355f225bc28bc9",
-    "date": "2026-11-07T00:56:11.226457+00:00",
+    "date": "2026-11-07T07:09:27.426743+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -353,7 +387,7 @@
   },
   {
     "id": "927c730f85fd3ffa",
-    "date": "2026-11-07T00:56:11.226329+00:00",
+    "date": "2026-11-07T07:09:27.426643+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -386,7 +420,7 @@
   },
   {
     "id": "64e0613413fa9263",
-    "date": "2026-11-07T00:56:11.226218+00:00",
+    "date": "2026-11-07T07:09:27.426566+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -415,7 +449,7 @@
   },
   {
     "id": "2e9ad9f3483fd092",
-    "date": "2026-11-07T00:56:11.226103+00:00",
+    "date": "2026-11-07T07:09:27.426485+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -452,7 +486,7 @@
   },
   {
     "id": "3926c46ac13e2802",
-    "date": "2026-11-07T00:56:11.225993+00:00",
+    "date": "2026-11-07T07:09:27.426408+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -481,7 +515,7 @@
   },
   {
     "id": "1ecf0823fbc03fd9",
-    "date": "2026-11-07T00:56:11.225881+00:00",
+    "date": "2026-11-07T07:09:27.426333+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -510,7 +544,7 @@
   },
   {
     "id": "104c7f57f6827a18",
-    "date": "2026-11-07T00:56:11.225752+00:00",
+    "date": "2026-11-07T07:09:27.426258+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -539,7 +573,7 @@
   },
   {
     "id": "2869f79854114567",
-    "date": "2026-11-07T00:56:11.225293+00:00",
+    "date": "2026-11-07T07:09:27.425997+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -568,7 +602,7 @@
   },
   {
     "id": "e098c5f1be2af621",
-    "date": "2026-11-07T00:56:11.224911+00:00",
+    "date": "2026-11-07T07:09:27.425640+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -597,7 +631,7 @@
   },
   {
     "id": "e711d8263c26a207",
-    "date": "2026-11-07T00:56:09.824286+00:00",
+    "date": "2026-11-07T07:09:26.494031+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -718,7 +752,7 @@
   },
   {
     "id": "9706d399f5a97478",
-    "date": "2026-11-07T00:56:08.426699+00:00",
+    "date": "2026-11-07T07:09:26.197483+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -747,7 +781,7 @@
   },
   {
     "id": "c3762bab1cea27f2",
-    "date": "2026-11-07T00:56:08.426548+00:00",
+    "date": "2026-11-07T07:09:26.197380+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -776,7 +810,7 @@
   },
   {
     "id": "51e3fc2e59f34aa3",
-    "date": "2026-11-07T00:56:08.426402+00:00",
+    "date": "2026-11-07T07:09:26.197281+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -805,7 +839,7 @@
   },
   {
     "id": "b3de3b5b8196d850",
-    "date": "2026-11-07T00:56:08.426242+00:00",
+    "date": "2026-11-07T07:09:26.197171+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -834,7 +868,7 @@
   },
   {
     "id": "96fb1d9a13b7129f",
-    "date": "2026-11-07T00:56:08.426079+00:00",
+    "date": "2026-11-07T07:09:26.197057+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -863,7 +897,7 @@
   },
   {
     "id": "86eccca749524d1b",
-    "date": "2026-11-07T00:56:08.425923+00:00",
+    "date": "2026-11-07T07:09:26.196950+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -892,7 +926,7 @@
   },
   {
     "id": "dddb8297ad3b8630",
-    "date": "2026-11-07T00:56:08.425706+00:00",
+    "date": "2026-11-07T07:09:26.196819+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -925,7 +959,7 @@
   },
   {
     "id": "d1d35ddb0723bb34",
-    "date": "2026-11-07T00:56:08.425578+00:00",
+    "date": "2026-11-07T07:09:26.196731+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -986,7 +1020,7 @@
   },
   {
     "id": "0925ed42aaadcbd8",
-    "date": "2026-11-07T00:56:08.425314+00:00",
+    "date": "2026-11-07T07:09:26.196529+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1015,7 +1049,7 @@
   },
   {
     "id": "301fc1ed5308294c",
-    "date": "2026-11-07T00:56:08.425122+00:00",
+    "date": "2026-11-07T07:09:26.196386+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1044,7 +1078,7 @@
   },
   {
     "id": "24fe90afcab5e737",
-    "date": "2026-11-07T00:56:08.424969+00:00",
+    "date": "2026-11-07T07:09:26.196283+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1073,7 +1107,7 @@
   },
   {
     "id": "08e8c96aa0889f56",
-    "date": "2026-11-07T00:56:08.424796+00:00",
+    "date": "2026-11-07T07:09:26.196185+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1102,7 +1136,7 @@
   },
   {
     "id": "a86c7402bed70275",
-    "date": "2026-11-07T00:56:08.424648+00:00",
+    "date": "2026-11-07T07:09:26.196081+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1144,7 +1178,7 @@
   },
   {
     "id": "b04d001f572e800e",
-    "date": "2026-11-07T00:56:08.424495+00:00",
+    "date": "2026-11-07T07:09:26.195974+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1173,7 +1207,7 @@
   },
   {
     "id": "3b8d4423d6fd9608",
-    "date": "2026-11-07T00:56:08.424341+00:00",
+    "date": "2026-11-07T07:09:26.195864+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1202,7 +1236,7 @@
   },
   {
     "id": "46220df4e233f0cc",
-    "date": "2026-11-07T00:56:08.424188+00:00",
+    "date": "2026-11-07T07:09:26.195759+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1231,7 +1265,7 @@
   },
   {
     "id": "2e78dbab01a9b701",
-    "date": "2026-11-07T00:56:08.424025+00:00",
+    "date": "2026-11-07T07:09:26.195629+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1264,7 +1298,7 @@
   },
   {
     "id": "4c507f33ea61dc01",
-    "date": "2026-11-07T00:56:08.423777+00:00",
+    "date": "2026-11-07T07:09:26.195484+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1293,7 +1327,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-11-07T00:56:08.423487+00:00",
+    "date": "2026-11-07T07:09:26.195268+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1322,7 +1356,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-11-07T00:56:08.422758+00:00",
+    "date": "2026-11-07T07:09:26.194732+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1351,7 +1385,7 @@
   },
   {
     "id": "1243cfe42ce0f682",
-    "date": "2026-11-07T00:56:08.212084+00:00",
+    "date": "2026-11-07T07:09:26.026224+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1384,7 +1418,7 @@
   },
   {
     "id": "611c1f634c17e5e7",
-    "date": "2026-11-07T00:56:08.211956+00:00",
+    "date": "2026-11-07T07:09:26.026142+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1413,7 +1447,7 @@
   },
   {
     "id": "a71958976ae7a8cf",
-    "date": "2026-11-07T00:56:08.211800+00:00",
+    "date": "2026-11-07T07:09:26.026051+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1442,7 +1476,7 @@
   },
   {
     "id": "fc07c4670a99c78e",
-    "date": "2026-11-07T00:56:08.211657+00:00",
+    "date": "2026-11-07T07:09:26.025954+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1471,7 +1505,7 @@
   },
   {
     "id": "834beab003708bb0",
-    "date": "2026-11-07T00:56:08.211531+00:00",
+    "date": "2026-11-07T07:09:26.025873+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1500,7 +1534,7 @@
   },
   {
     "id": "a69ea8fe7f34b21b",
-    "date": "2026-11-07T00:56:08.211405+00:00",
+    "date": "2026-11-07T07:09:26.025790+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1529,7 +1563,7 @@
   },
   {
     "id": "df851e79c62b855c",
-    "date": "2026-11-07T00:56:08.211274+00:00",
+    "date": "2026-11-07T07:09:26.025702+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1558,7 +1592,7 @@
   },
   {
     "id": "286b6a5bc9ad9e2f",
-    "date": "2026-11-07T00:56:08.211147+00:00",
+    "date": "2026-11-07T07:09:26.025605+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1587,7 +1621,7 @@
   },
   {
     "id": "621b9ebe71798efa",
-    "date": "2026-11-07T00:56:08.211028+00:00",
+    "date": "2026-11-07T07:09:26.025532+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1616,7 +1650,7 @@
   },
   {
     "id": "da635b5ba8f74bb4",
-    "date": "2026-11-07T00:56:08.210910+00:00",
+    "date": "2026-11-07T07:09:26.025458+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1645,7 +1679,7 @@
   },
   {
     "id": "84802b3af2d51c29",
-    "date": "2026-11-07T00:56:08.210757+00:00",
+    "date": "2026-11-07T07:09:26.025373+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1674,7 +1708,7 @@
   },
   {
     "id": "8c690942ab22db42",
-    "date": "2026-11-07T00:56:08.210631+00:00",
+    "date": "2026-11-07T07:09:26.025291+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1703,7 +1737,7 @@
   },
   {
     "id": "9cf712a82f014822",
-    "date": "2026-11-07T00:56:08.210510+00:00",
+    "date": "2026-11-07T07:09:26.025213+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1732,7 +1766,7 @@
   },
   {
     "id": "94dbf4b67df7dd02",
-    "date": "2026-11-07T00:56:08.210379+00:00",
+    "date": "2026-11-07T07:09:26.025126+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1761,7 +1795,7 @@
   },
   {
     "id": "0833fc4195361657",
-    "date": "2026-11-07T00:56:08.210245+00:00",
+    "date": "2026-11-07T07:09:26.025040+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1790,7 +1824,7 @@
   },
   {
     "id": "97fc12447e6f24e0",
-    "date": "2026-11-07T00:56:08.210105+00:00",
+    "date": "2026-11-07T07:09:26.024949+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1819,7 +1853,7 @@
   },
   {
     "id": "d974c9fd3f8630bc",
-    "date": "2026-11-07T00:56:08.209959+00:00",
+    "date": "2026-11-07T07:09:26.024851+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1848,7 +1882,7 @@
   },
   {
     "id": "7ece8421228760e2",
-    "date": "2026-11-07T00:56:08.209789+00:00",
+    "date": "2026-11-07T07:09:26.024754+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1877,7 +1911,7 @@
   },
   {
     "id": "acf65887ca804da6",
-    "date": "2026-11-07T00:56:08.209649+00:00",
+    "date": "2026-11-07T07:09:26.024641+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1906,7 +1940,7 @@
   },
   {
     "id": "b5db0d0348970ded",
-    "date": "2026-11-07T00:56:08.209495+00:00",
+    "date": "2026-11-07T07:09:26.024535+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1935,7 +1969,7 @@
   },
   {
     "id": "1df6a6f4c47a4ab8",
-    "date": "2026-11-07T00:56:08.209360+00:00",
+    "date": "2026-11-07T07:09:26.024440+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1964,7 +1998,7 @@
   },
   {
     "id": "3ea713ba27cf4fd3",
-    "date": "2026-11-07T00:56:08.209215+00:00",
+    "date": "2026-11-07T07:09:26.024342+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1993,7 +2027,7 @@
   },
   {
     "id": "ca94c3bf35e74ae1",
-    "date": "2026-11-07T00:56:08.209075+00:00",
+    "date": "2026-11-07T07:09:26.024246+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2022,7 +2056,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-11-07T00:56:08.208921+00:00",
+    "date": "2026-11-07T07:09:26.024142+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2059,7 +2093,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-11-07T00:56:08.208682+00:00",
+    "date": "2026-11-07T07:09:26.023968+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2107,6 +2141,98 @@
     ]
   },
   {
+    "id": "4ea09091824a4395",
+    "date": "2026-11-07T02:44:34+00:00",
+    "source": "Microsoft Security Blog",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ARTEX abuse expands as cybercriminals target financial sector",
+    "summary": "In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX. The post ARTEX abuse expands as cybercriminals target financial sector appeared first on Microsoft Security Blog .",
+    "article_text": "",
+    "quick_summary": [
+      "In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX.",
+      "Risk: ISNET vendor relevance",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
+    "target": "ARTEX",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Microsoft Security Blog"
+    ],
+    "links": [
+      {
+        "source": "Microsoft Security Blog",
+        "url": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/"
+      }
+    ]
+  },
+  {
+    "id": "84aa9cc701395b95",
+    "date": "2026-11-07T02:30:21+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "ARTEX AI Agent Escapes Research Sandbox and Accesses WorkOS Customer Records",
+    "summary": "WorkOS says an ARTEX AI security agent escaped a researcher’s test environment and accessed customer information through an exposed internal tool. In its November 6, 2026 update, the company attributed the incident to unintended activity during cybersecurity benchmark testing, rather than a person acting with malicious intent. The researcher came forward after WorkOS published its […] The post ARTEX AI Agent Escapes Research Sandbox and Accesses WorkOS Customer Records appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "WorkOS says an ARTEX AI security agent escaped a researcher’s test environment and accessed customer information through an exposed internal tool.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/workos-customer-records-exposed/",
+    "target": "ARTEX Agent Escapes Research",
+    "type": "Data Leak / Breach",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/workos-customer-records-exposed/"
+      }
+    ]
+  },
+  {
+    "id": "3986cbf34382a06d",
+    "date": "2026-11-07T02:06:17+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
+    "summary": "Toronto, Canada, November 6th, 2026, CyberNewswire Free, read-only scanner helps organizations find Linux servers and container images exposed to two actively exploited vulnerabilities in PHP and Node.js Insignary, a global open-source security company, today released insignary-chk, a free tool that checks for PHP2Shell and Node2Shell, two recently disclosed runtime vulnerabilities affecting PHP and Node.js. PHP2Shell […] The post Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Toronto, Canada, November 6th, 2026, CyberNewswire Free, read-only scanner helps organizations find Linux servers and container images exposed to two actively exploited vulnerabilities in PHP and Node.js Insignary, a glo",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/",
+    "target": "Insignary Releases Free Insignary-Chk",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News",
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/"
+      },
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/"
+      }
+    ]
+  },
+  {
     "id": "9e75a3f7bc8e1c93",
     "date": "2026-11-07T00:00:55+00:00",
     "source": "BleepingComputer",
@@ -2115,7 +2241,7 @@
     "category": "",
     "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
     "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-    "article_text": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. The vulnerability, tracked as CVE-2026-19868, allows attackers with valid credentials for an alternate authentication method to bypass SAML authentication controls, potentially including SAML-enforced multi-factor authentication (MFA). The flaw has a CVSS severity score of 7.1 and only affects SonicOS SSL-VPN services configured to use SAML authentication. In a security advisory published Friday, SonicWall warned that it had investigated a report that the vulnerability was exploited in an attack and urged customers to install the latest security updates. \"SonicWall PSIRT has investigated a report indicating potential exploitation of this vulnerability. Customers are strongly urged to upgrade to the latest release as soon as possible to mitigate the associated risks,\" the company warned. Ryan Harris of The Electronic Office discovered and reported the vulnerability. While SonicWall has not shared details about the reported exploitation, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added CVE-2026-19868 to its Known Exploited Vulnerabilities (KEV) catalog , confirming that the flaw has been exploited in the wild. CISA ordered federal civilian executive branch agencies to secure affected systems by November 20, 2026. The advisory also fixes six additional vulnerabilities in SonicOS, including two management interface flaws rated 8.8 severity that allow unauthenticated attackers to perform unauthorized operations under specific conditions. The remaining flaws include pre-authentication buffer overflows in the SSL-VPN and TACACS+ services that could cause denial-of-service conditions, and a weak password hashing vulnerability affecting virtual appliances. The vulnerabilities affect SonicOS Gen7 versions 7.3.3-7015 and earlier and Gen8 versions 8.2.2-8015 and earlier. SonicWall fixed the issues in versions 7.3.4-7013 and 8.2.3-8015 and says no workarounds are available. The warning comes after a series of attacks targeting SonicWall's SMA1000 secure remote access appliances. In October, security researchers detected exploitation attempts targeting CVE-2026-102255, a maximum-severity vulnerability that could allow unauthenticated attackers to access internal functionality and perform unauthorized operations. Those attempts followed September attacks that chained two SMA1000 zero-days to achieve remote code execution, as well as July attacks that exploited two other zero-days to deploy malware on vulnerable appliances. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. CISA says max severity GitLab flaw now exploited in the wild CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers CISA warns admins to immediately fix Ivanti flaw exploited as zero-day CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks CISA alerts of active exploitation of three Linux kernel flaws OpenSSH flaw lets attackers log into password-disabled Linux accounts Binance says fake job interview led to $6.3 billion crypto heist NIKKE PC game launcher hacked to spread remote access, data-stealing malware Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Overdue a password health-check? Audit your Active Directory for free Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. The vulnerability, tracked as CVE-2026-19868, allows attackers with valid credentials for an alternate authentication method to bypass SAML authentication controls, potentially including SAML-enforced multi-factor authentication (MFA). The flaw has a CVSS severity score of 7.1 and only affects SonicOS SSL-VPN services configured to use SAML authentication. In a security advisory published Friday, SonicWall warned that it had investigated a report that the vulnerability was exploited in an attack and urged customers to install the latest security updates. \"SonicWall PSIRT has investigated a report indicating potential exploitation of this vulnerability. Customers are strongly urged to upgrade to the latest release as soon as possible to mitigate the associated risks,\" the company warned. Ryan Harris of The Electronic Office discovered and reported the vulnerability. While SonicWall has not shared details about the reported exploitation, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added CVE-2026-19868 to its Known Exploited Vulnerabilities (KEV) catalog , confirming that the flaw has been exploited in the wild. CISA ordered federal civilian executive branch agencies to secure affected systems by November 20, 2026. The advisory also fixes six additional vulnerabilities in SonicOS, including two management interface flaws rated 8.8 severity that allow unauthenticated attackers to perform unauthorized operations under specific conditions. The remaining flaws include pre-authentication buffer overflows in the SSL-VPN and TACACS+ services that could cause denial-of-service conditions, and a weak password hashing vulnerability affecting virtual appliances. The vulnerabilities affect SonicOS Gen7 versions 7.3.3-7015 and earlier and Gen8 versions 8.2.2-8015 and earlier. SonicWall fixed the issues in versions 7.3.4-7013 and 8.2.3-8015 and says no workarounds are available. The warning comes after a series of attacks targeting SonicWall's SMA1000 secure remote access appliances. In October, security researchers detected exploitation attempts targeting CVE-2026-102255, a maximum-severity vulnerability that could allow unauthenticated attackers to access internal functionality and perform unauthorized operations. Those attempts followed September attacks that chained two SMA1000 zero-days to achieve remote code execution, as well as July attacks that exploited two other zero-days to deploy malware on vulnerable appliances. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. CISA says max severity GitLab flaw now exploited in the wild CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers CISA warns admins to immediately fix Ivanti flaw exploited as zero-day CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks CISA alerts of active exploitation of three Linux kernel flaws OpenSSH flaw lets attackers log into password-disabled Linux accounts NIKKE PC game launcher hacked to spread remote access, data-stealing malware DigiCert data breach exposes customer information, identity documents Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Overdue a password health-check? Audit your Active Directory for free Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -2376,7 +2502,7 @@
     "category": "",
     "title": "Fake security tools on GitHub push backdoors and infostealers",
     "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-    "article_text": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. The campaign started about two years ago and initially targeted crypto wallet users, but recently the threat actor switched focus and published malicious repositories for automating scans, security testing, and log analysis. Researchers at cybersecurity company Dr. Web found that more than 2,000 Windows systems have been compromised so far. One malicious repository they found is a fake script advertised as a lightweight solution to parse, clean, and format output from the Fscan network scanner. Previous lures included blockchain games, bots, and cheat tools, typically targeting blockchain and game enthusiasts. Dr. Web's investigation found malicious code embedded in Visual Studio project files, Python scripts, and Go source files, hidden behind long stretches of whitespace, an old technique that still proves effective. In some Visual Studio projects, a pre-build event routine runs the code before compilation, the researchers say . The infection chain uses PowerShell to retrieve an encrypted download link that fetches a modular Electron-based loader named ‘Microsoft.exe.’ The loader establishes persistence on the infected host, elevates its privileges, disables Windows security and recovery features, and injects the next-stage (malware) into legitimate processes. Dr. Web describes six evasion techniques in the loader’s Mode3 mode, which is its default operational mode: If that mode fails to launch, the loader uses Mode2, which adds Microsoft Defender exclusions and uses a PowerShell script to decrypt and inject the payloads into ‘RegAsm.exe.’ The final payloads delivered to the host are the AsyncRAT backdoor, clipper malware that replaces crypto wallet addresses in the clipboard, and an information stealer. The infostealer collects browser data, VPN settings, FTP client configuration files, gaming account data, and Discord tokens, and exfiltrates the details through a Telegram bot. According to Dr. Web, the malware also attempts to remove ESET, McAfee, and Malwarebytes antivirus tools from the infected computer, tries to disconnect them from their update servers, and also interferes with Windows backups. Dr. Web researchers also found a seemingly unfinished component that could help keep the loader running and download it again if it was removed from the host’s disk. This finding suggests that the threat actor is working to improve the malware with new features. The researchers shared a complete list of indicators of compromise observed in this campaign. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer LiteLLM release pipeline hacked to distribute info-stealer malware OVHcloud CLI releases backdoored on GitHub to steal developer secrets MacSync malware uses public iCloud calendars to deliver new payloads OpenSSH flaw lets attackers log into password-disabled Linux accounts Binance says fake job interview led to $6.3 billion crypto heist NIKKE PC game launcher hacked to spread remote access, data-stealing malware Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Overdue a password health-check? Audit your Active Directory for free Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. The campaign started about two years ago and initially targeted crypto wallet users, but recently the threat actor switched focus and published malicious repositories for automating scans, security testing, and log analysis. Researchers at cybersecurity company Dr. Web found that more than 2,000 Windows systems have been compromised so far. One malicious repository they found is a fake script advertised as a lightweight solution to parse, clean, and format output from the Fscan network scanner. Previous lures included blockchain games, bots, and cheat tools, typically targeting blockchain and game enthusiasts. Dr. Web's investigation found malicious code embedded in Visual Studio project files, Python scripts, and Go source files, hidden behind long stretches of whitespace, an old technique that still proves effective. In some Visual Studio projects, a pre-build event routine runs the code before compilation, the researchers say . The infection chain uses PowerShell to retrieve an encrypted download link that fetches a modular Electron-based loader named ‘Microsoft.exe.’ The loader establishes persistence on the infected host, elevates its privileges, disables Windows security and recovery features, and injects the next-stage (malware) into legitimate processes. Dr. Web describes six evasion techniques in the loader’s Mode3 mode, which is its default operational mode: If that mode fails to launch, the loader uses Mode2, which adds Microsoft Defender exclusions and uses a PowerShell script to decrypt and inject the payloads into ‘RegAsm.exe.’ The final payloads delivered to the host are the AsyncRAT backdoor, clipper malware that replaces crypto wallet addresses in the clipboard, and an information stealer. The infostealer collects browser data, VPN settings, FTP client configuration files, gaming account data, and Discord tokens, and exfiltrates the details through a Telegram bot. According to Dr. Web, the malware also attempts to remove ESET, McAfee, and Malwarebytes antivirus tools from the infected computer, tries to disconnect them from their update servers, and also interferes with Windows backups. Dr. Web researchers also found a seemingly unfinished component that could help keep the loader running and download it again if it was removed from the host’s disk. This finding suggests that the threat actor is working to improve the malware with new features. The researchers shared a complete list of indicators of compromise observed in this campaign. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer LiteLLM release pipeline hacked to distribute info-stealer malware OVHcloud CLI releases backdoored on GitHub to steal developer secrets MacSync malware uses public iCloud calendars to deliver new payloads OpenSSH flaw lets attackers log into password-disabled Linux accounts NIKKE PC game launcher hacked to spread remote access, data-stealing malware DigiCert data breach exposes customer information, identity documents Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Overdue a password health-check? Audit your Active Directory for free Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -2492,7 +2618,7 @@
     "category": "",
     "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
     "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
-    "article_text": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. The vendor said it had received multiple reports of suspected compromises involving customers’ network-attached storage (NAS) devices. \"QNAP has received reports from some users that Plex Media Server on their NAS appears to have been compromised through [Plex2Shell] vulnerabilities, and QNAP Technical Support is assisting the affected users,” the company says in an advisory today. Plex2Shell is a chain of four vulnerabilities in the Plex Media Server, tracked as CVE-2026-96652, CVE-2026-96654, CVE-2026-96655, and CVE-2026-96656. Security researcher Zach Main discovered and reported the flaws to Plex on July 27. Exploitation started shortly after the full technical details became public on October 16. CISA added all four flaws to its Known Exploited Vulnerabilities catalog on October 20, 2026, urging federal agencies to upgrade to Plex 1.43.3.10861 or later within three days, giving it maximum priority. QNAP’s NAS devices are specialized computers with built-in storage that allow users to store, access, and share files across a network. They are typically used to back up computers and store media files. Users can also expand their devices' capabilities by installing applications from the QNAP App Center, such as Plex Media Server, which streams movies, TV shows, and music directly from NAS drives. QNAP advises users to update Plex Media Server to the latest version available through the QNAP App Center, currently 1.43.3.10861, to protect against Plex2Shell attacks. “The QNAP Product Security Incident Response Team (QNAP PSIRT) has confirmed that the vulnerabilities exist only in Plex Media Server; QTS, QuTS hero, and other QNAP operating systems are not themselves affected,” the vendor says. QNAP says that users should treat their NAS devices and all personal content as compromised if they're running a vulnerable Plex server that is exposed on the public web. The vendor warned that updating now will not remove any payloads the attackers have already installed on the device. The recommended action is to check for the signs of compromise shared in the security bulletin , perform a clean reinstall of the OS (QTS or QuTS hero), and then reset Plex and NAS credentials. Users who do not need to access Plex remotely should disable the related features and stop forwarding port 32400. Those who need remote access are advised to connect via VPN. QNAP has released a detailed step-by-step remediation guide on how to do the above. The company also offers to investigate logs from suspected compromises, which users can submit via QNAP’s technical support portal. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers Hackers exploit new MikroTik RouterOS flaws to hijack routers CISA flags WordPress RCE flaw as actively exploited in attacks CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks OpenSSH flaw lets attackers log into password-disabled Linux accounts Binance says fake job interview led to $6.3 billion crypto heist NIKKE PC game launcher hacked to spread remote access, data-stealing malware Overdue a password health-check? Audit your Active Directory for free Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. The vendor said it had received multiple reports of suspected compromises involving customers’ network-attached storage (NAS) devices. \"QNAP has received reports from some users that Plex Media Server on their NAS appears to have been compromised through [Plex2Shell] vulnerabilities, and QNAP Technical Support is assisting the affected users,” the company says in an advisory today. Plex2Shell is a chain of four vulnerabilities in the Plex Media Server, tracked as CVE-2026-96652, CVE-2026-96654, CVE-2026-96655, and CVE-2026-96656. Security researcher Zach Main discovered and reported the flaws to Plex on July 27. Exploitation started shortly after the full technical details became public on October 16. CISA added all four flaws to its Known Exploited Vulnerabilities catalog on October 20, 2026, urging federal agencies to upgrade to Plex 1.43.3.10861 or later within three days, giving it maximum priority. QNAP’s NAS devices are specialized computers with built-in storage that allow users to store, access, and share files across a network. They are typically used to back up computers and store media files. Users can also expand their devices' capabilities by installing applications from the QNAP App Center, such as Plex Media Server, which streams movies, TV shows, and music directly from NAS drives. QNAP advises users to update Plex Media Server to the latest version available through the QNAP App Center, currently 1.43.3.10861, to protect against Plex2Shell attacks. “The QNAP Product Security Incident Response Team (QNAP PSIRT) has confirmed that the vulnerabilities exist only in Plex Media Server; QTS, QuTS hero, and other QNAP operating systems are not themselves affected,” the vendor says. QNAP says that users should treat their NAS devices and all personal content as compromised if they're running a vulnerable Plex server that is exposed on the public web. The vendor warned that updating now will not remove any payloads the attackers have already installed on the device. The recommended action is to check for the signs of compromise shared in the security bulletin , perform a clean reinstall of the OS (QTS or QuTS hero), and then reset Plex and NAS credentials. Users who do not need to access Plex remotely should disable the related features and stop forwarding port 32400. Those who need remote access are advised to connect via VPN. QNAP has released a detailed step-by-step remediation guide on how to do the above. The company also offers to investigate logs from suspected compromises, which users can submit via QNAP’s technical support portal. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers Hackers exploit new MikroTik RouterOS flaws to hijack routers SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks CISA flags WordPress RCE flaw as actively exploited in attacks OpenSSH flaw lets attackers log into password-disabled Linux accounts NIKKE PC game launcher hacked to spread remote access, data-stealing malware DigiCert data breach exposes customer information, identity documents Overdue a password health-check? Audit your Active Directory for free Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -2579,7 +2705,7 @@
     "category": "",
     "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
     "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-    "article_text": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. The company's Software Appliance VMs are pre-configured, Linux-based virtual machines that let admins run the Veeam Backup & Replication backup software suite on Linux devices without manually installing dependencies or configuring the software. To comply with corporate and government security frameworks, the underlying Linux kernel runs integrated health and cryptographic checks (such as jitterentropy health tests) in FIPS mode during early boot. However, as the company explained in a Wednesday advisory, these VMs will fail to boot and will crash with a kernel panic after failing an early-boot FIPS-mode jitterentropy check on some AMD EPYC processors. \"A Veeam Software Appliance (Linux-based Veeam Backup & Replication) virtual machine running on a host with an AMD EPYC processor intermittently fails to boot after a reboot, including a reboot that follows an update that installs a new kernel,\" it said . \"This issue occurs because the Linux kernel used by the Veeam Software Appliance runs a jitterentropy health test in FIPS mode during early boot, and the test intermittently fails on certain AMD EPYC processors, including AMD EPYC 7262, 7302, and 7F72. When the test fails, the kernel stops the boot process with a kernel panic.\" This known issue originates in the Linux kernel version used by the Veeam Software Appliance and affects Veeam Software Appliance version 13.1 and later. According to Veeam, users are seeing \"Kernel panic - not syncing: jitterentropy: Initialization failed with host not compliant with requirements: 9\" kernel panic errors on impacted systems. To mitigate this issue, Veeam told IT administrators to redeploy the appliance to a Linux host with a different processor. If the appliance cannot be redeployed on a system with an unaffected processor, IT admins are advised to disable automatic updates for the appliance and install updates manually (while monitoring the VM as it reboots). \"If the kernel panic occurs, power off the virtual machine and power it on again. A restart of the guest operating system does not recover the virtual machine,\" Veeam added. \"After the appliance has booted successfully, no further errors are expected, and the operation of Veeam Backup & Replication is not affected.\" Earlier today, Veeam also said that some of its products are affected by a critical Linux kernel vulnerability (CVE-2026-98432) in the IPv4 TCP networking code that allows remote unauthenticated attackers to execute commands as root on servers running Multipath TCP (MPTCP) listeners. The company has fixed the CVE-2026-98432 flaw for some impacted Veeam components and is now pushing the patched kernel to affected systems either as a private fix or through the Veeam Updater. Veeam's products are used by more than 550,000 customers, including 74% of Global 2,000 firms and 82% of Fortune 500 companies. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. OpenSSH flaw lets attackers log into password-disabled Linux accounts Hackers backdoor Linux servers using trojanized CWP web server CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks Critical Linux kernel flaw allows remote root attacks on MPTCP servers OpenSSH flaw lets attackers log into password-disabled Linux accounts Binance says fake job interview led to $6.3 billion crypto heist NIKKE PC game launcher hacked to spread remote access, data-stealing malware Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Overdue a password health-check? Audit your Active Directory for free Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. The company's Software Appliance VMs are pre-configured, Linux-based virtual machines that let admins run the Veeam Backup & Replication backup software suite on Linux devices without manually installing dependencies or configuring the software. To comply with corporate and government security frameworks, the underlying Linux kernel runs integrated health and cryptographic checks (such as jitterentropy health tests) in FIPS mode during early boot. However, as the company explained in a Wednesday advisory, these VMs will fail to boot and will crash with a kernel panic after failing an early-boot FIPS-mode jitterentropy check on some AMD EPYC processors. \"A Veeam Software Appliance (Linux-based Veeam Backup & Replication) virtual machine running on a host with an AMD EPYC processor intermittently fails to boot after a reboot, including a reboot that follows an update that installs a new kernel,\" it said . \"This issue occurs because the Linux kernel used by the Veeam Software Appliance runs a jitterentropy health test in FIPS mode during early boot, and the test intermittently fails on certain AMD EPYC processors, including AMD EPYC 7262, 7302, and 7F72. When the test fails, the kernel stops the boot process with a kernel panic.\" This known issue originates in the Linux kernel version used by the Veeam Software Appliance and affects Veeam Software Appliance version 13.1 and later. According to Veeam, users are seeing \"Kernel panic - not syncing: jitterentropy: Initialization failed with host not compliant with requirements: 9\" kernel panic errors on impacted systems. To mitigate this issue, Veeam told IT administrators to redeploy the appliance to a Linux host with a different processor. If the appliance cannot be redeployed on a system with an unaffected processor, IT admins are advised to disable automatic updates for the appliance and install updates manually (while monitoring the VM as it reboots). \"If the kernel panic occurs, power off the virtual machine and power it on again. A restart of the guest operating system does not recover the virtual machine,\" Veeam added. \"After the appliance has booted successfully, no further errors are expected, and the operation of Veeam Backup & Replication is not affected.\" Earlier today, Veeam also said that some of its products are affected by a critical Linux kernel vulnerability (CVE-2026-98432) in the IPv4 TCP networking code that allows remote unauthenticated attackers to execute commands as root on servers running Multipath TCP (MPTCP) listeners. The company has fixed the CVE-2026-98432 flaw for some impacted Veeam components and is now pushing the patched kernel to affected systems either as a private fix or through the Veeam Updater. Veeam's products are used by more than 550,000 customers, including 74% of Global 2,000 firms and 82% of Fortune 500 companies. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. OpenSSH flaw lets attackers log into password-disabled Linux accounts Hackers backdoor Linux servers using trojanized CWP web server CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks Critical Linux kernel flaw allows remote root attacks on MPTCP servers OpenSSH flaw lets attackers log into password-disabled Linux accounts NIKKE PC game launcher hacked to spread remote access, data-stealing malware DigiCert data breach exposes customer information, identity documents Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Overdue a password health-check? Audit your Active Directory for free Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -3169,35 +3295,6 @@
     ]
   },
   {
-    "id": "675fd11dcd13c320",
-    "date": "2026-11-06T12:50:05+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
-    "summary": "Toronto, Canada, 6th November 2026, CyberNewswire",
-    "article_text": "",
-    "quick_summary": [
-      "Toronto, Canada, 6th November 2026, CyberNewswire",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/",
-    "target": "Insignary Releases Free Insignary-Chk",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/"
-      }
-    ]
-  },
-  {
     "id": "9aab299112ab8542",
     "date": "2026-11-06T12:47:55+00:00",
     "source": "SecurityWeek",
@@ -3235,7 +3332,7 @@
     "category": "",
     "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
     "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-    "article_text": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. These switch models provide multi-gigabit uplinks, allowing enterprise network administrators to eliminate data bottlenecks, and are designed primarily for small-to-medium businesses (SMBs) and metro Ethernet deployments. While D-Link didn't share details on these flaws and has yet to publicly disclose the CVE IDs for easier tracking, it said Spectrum Community Solutions network engineer Giresh Kumar Enugu found the bugs in the D-Link Discovery Protocol (DDP) authentication, access control, and information handling. Successful exploitation could allow attackers to obtain sensitive device data, make unauthorized credential/configuration changes, leak SNMP communities, or cause service disruptions and device resets. The zero-days affect multiple DGS-3130-30TS firmware versions, and the company is still investigating the impact on other D-Link switching platforms and firmware security mechanisms (including SSH service security configuration, safeguards underlying operating-system credentials, and handles firmware encryption/embedded cryptographic keys). \"The reported vulnerabilities involve the D-Link Discovery Protocol (DDP) and certain components of the device's firmware security architecture,\" D-Link said . \"According to the security researcher, successful exploitation of certain vulnerabilities may allow an attacker with access to the affected network to obtain sensitive device information, perform unauthorized administrative operations, modify device configuration, or disrupt network services.\" Until it releases new firmware to address these flaws, D-Link asked admins to disable DDP to remove the primary known attack vector, remove unnecessary or default SNMP community strings, and restrict SSH, web UI, and SNMP accessibility solely to isolated management networks and designated admin hosts. D-Link also advised admins to maintain offline switch configuration backups and track device logs for unexpected configuration changes, unprompted reboots, or factory resets. In September, D-Link warned customers of a maximum-severity zero-day (tracked as CVE-2026-86296 ) with a public proof-of-concept (PoC) exploit and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. GitLab warns of new max severity code execution vulnerability Arista patches new VeloCloud Orchestrator zero-day exploited in attacks PHP warns admins of two critical flaws, emergency patches coming tomorrow Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days Max severity SonicWall SMA1000 flaw now exploited in attacks Binance says fake job interview led to $6.3 billion crypto heist NIKKE PC game launcher hacked to spread remote access, data-stealing malware OpenSSH flaw lets attackers log into password-disabled Linux accounts Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Overdue a password health-check? Audit your Active Directory for free Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. These switch models provide multi-gigabit uplinks, allowing enterprise network administrators to eliminate data bottlenecks, and are designed primarily for small-to-medium businesses (SMBs) and metro Ethernet deployments. While D-Link didn't share details on these flaws and has yet to publicly disclose the CVE IDs for easier tracking, it said Spectrum Community Solutions network engineer Giresh Kumar Enugu found the bugs in the D-Link Discovery Protocol (DDP) authentication, access control, and information handling. Successful exploitation could allow attackers to obtain sensitive device data, make unauthorized credential/configuration changes, leak SNMP communities, or cause service disruptions and device resets. The zero-days affect multiple DGS-3130-30TS firmware versions, and the company is still investigating the impact on other D-Link switching platforms and firmware security mechanisms (including SSH service security configuration, safeguards underlying operating-system credentials, and handles firmware encryption/embedded cryptographic keys). \"The reported vulnerabilities involve the D-Link Discovery Protocol (DDP) and certain components of the device's firmware security architecture,\" D-Link said . \"According to the security researcher, successful exploitation of certain vulnerabilities may allow an attacker with access to the affected network to obtain sensitive device information, perform unauthorized administrative operations, modify device configuration, or disrupt network services.\" Until it releases new firmware to address these flaws, D-Link asked admins to disable DDP to remove the primary known attack vector, remove unnecessary or default SNMP community strings, and restrict SSH, web UI, and SNMP accessibility solely to isolated management networks and designated admin hosts. D-Link also advised admins to maintain offline switch configuration backups and track device logs for unexpected configuration changes, unprompted reboots, or factory resets. In September, D-Link warned customers of a maximum-severity zero-day (tracked as CVE-2026-86296 ) with a public proof-of-concept (PoC) exploit and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. GitLab warns of new max severity code execution vulnerability Arista patches new VeloCloud Orchestrator zero-day exploited in attacks PHP warns admins of two critical flaws, emergency patches coming tomorrow Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days Max severity SonicWall SMA1000 flaw now exploited in attacks OpenSSH flaw lets attackers log into password-disabled Linux accounts NIKKE PC game launcher hacked to spread remote access, data-stealing malware DigiCert data breach exposes customer information, identity documents Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Overdue a password health-check? Audit your Active Directory for free Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -3525,7 +3622,7 @@
     "category": "",
     "title": "MetaMask says recent attack didn't affect wallet infrastructure",
     "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-    "article_text": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. The MetaMask non-custodial crypto wallet (developed by blockchain software company Consensys) lets users store and manage assets on the Ethereum network and compatible blockchains. MetaMask revealed on September 30 that it was investigating an \"ongoing infrastructure security incident\" and exited affected validators (Ethereum network nodes responsible for proposing blocks, verifying crypto transactions, and maintaining Ethereum blockchain security) within non-custodial staking operations. While the company shared almost no details at the time and redirected BleepingComputer to the public statement when asked what part of its infrastructure was affected, in a Thursday update it said that a threat actor gained access to systems used to store recipient addresses and diverted some execution-layer staking rewards. \"The issue was identified and addressed on the same day, and approximately 0.385 ETH in rewards was diverted. These rewards are separate from customers' staked ETH,\" MetaMask said . \"We have found no evidence that customers' staked principal or withdrawal keys were compromised, and the affected systems have been secured.\" It also added that the attack did not compromise MetaMask users' Secret Recovery Phrases or private keys and that it was working with affected customers to refund the lost rewards. \"Some customers have experienced temporary withdrawal delays as a result of the precautionary validator exits. The process may also have resulted in missed staking rewards while validators were exiting or awaiting reactivation. We are working directly with affected customers and partners to address any outstanding impact,\" MetaMask noted. \"MetaMask wallet users do not need to take any action as a result of this incident. Customers whose staking arrangements were affected should follow any guidance provided directly by MetaMask or their staking provider.\" Last month, Ledger also asked Asian resellers and distributors to halt wallet sales and remove products from shelves while it was investigating multiple hardware implant incidents. More recently, crypto exchange Binance confirmed that North Korean hackers stole $6.34 billion after compromising its wallet infrastructure by tricking an employee into installing malware in a fake job interview. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. MetaMask discloses security incident affecting its infrastructure Polymarket halts trading after crypto-draining script breach, $2.5M traced Ahold Delhaize: Cyberattack affects services across US and Europe Retail giant Ahold Delhaize takes systems offline after cyberattack UK Housing Ombudsman Service investigates 'security incident' Binance says fake job interview led to $6.3 billion crypto heist NIKKE PC game launcher hacked to spread remote access, data-stealing malware OpenSSH flaw lets attackers log into password-disabled Linux accounts Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Overdue a password health-check? Audit your Active Directory for free Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. The MetaMask non-custodial crypto wallet (developed by blockchain software company Consensys) lets users store and manage assets on the Ethereum network and compatible blockchains. MetaMask revealed on September 30 that it was investigating an \"ongoing infrastructure security incident\" and exited affected validators (Ethereum network nodes responsible for proposing blocks, verifying crypto transactions, and maintaining Ethereum blockchain security) within non-custodial staking operations. While the company shared almost no details at the time and redirected BleepingComputer to the public statement when asked what part of its infrastructure was affected, in a Thursday update it said that a threat actor gained access to systems used to store recipient addresses and diverted some execution-layer staking rewards. \"The issue was identified and addressed on the same day, and approximately 0.385 ETH in rewards was diverted. These rewards are separate from customers' staked ETH,\" MetaMask said . \"We have found no evidence that customers' staked principal or withdrawal keys were compromised, and the affected systems have been secured.\" It also added that the attack did not compromise MetaMask users' Secret Recovery Phrases or private keys and that it was working with affected customers to refund the lost rewards. \"Some customers have experienced temporary withdrawal delays as a result of the precautionary validator exits. The process may also have resulted in missed staking rewards while validators were exiting or awaiting reactivation. We are working directly with affected customers and partners to address any outstanding impact,\" MetaMask noted. \"MetaMask wallet users do not need to take any action as a result of this incident. Customers whose staking arrangements were affected should follow any guidance provided directly by MetaMask or their staking provider.\" Last month, Ledger also asked Asian resellers and distributors to halt wallet sales and remove products from shelves while it was investigating multiple hardware implant incidents. More recently, crypto exchange Binance confirmed that North Korean hackers stole $6.34 billion after compromising its wallet infrastructure by tricking an employee into installing malware in a fake job interview. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. MetaMask discloses security incident affecting its infrastructure Polymarket halts trading after crypto-draining script breach, $2.5M traced Ahold Delhaize: Cyberattack affects services across US and Europe Retail giant Ahold Delhaize takes systems offline after cyberattack UK Housing Ombudsman Service investigates 'security incident' OpenSSH flaw lets attackers log into password-disabled Linux accounts NIKKE PC game launcher hacked to spread remote access, data-stealing malware DigiCert data breach exposes customer information, identity documents Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Overdue a password health-check? Audit your Active Directory for free Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure.",
       "Risk: credentials/infostealer risk, ISNET vendor relevance",
@@ -14189,35 +14286,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/best-soc-as-a-service/"
-      }
-    ]
-  },
-  {
-    "id": "936d29af8e15f4f2",
-    "date": "2026-11-02T09:33:26+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-    "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
-    "article_text": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. Threat actors exploited these two flaws (tracked as CVE-2026-111357 and CVE-2026-118527 ) alongside an authentication bypass vulnerability (CVE-2026-104935), which Ivanti patched last month to remove the main attack surface. CVE-2026-111357 is a high-severity privilege escalation flaw, and CVE-2026-118527 lets authenticated attackers upload files on an unpatched device. When it released patches for CVE-2026-104935 in October, Ivanti urged admins to upgrade as soon as possible since it was aware of \"limited exploitation in the wild.\" \"At the time of discovery of exploitation, Ivanti had a fix developed for CVE-2026-104935 which was already in QA for supported versions, and we made the decision to not delay getting a fix to customers that resolved the primary exploitation path when the LPE was discovered,\" Ivanti added in an advisory updated on Thursday. \"Because of this, our focus was initially centered on the disclosure of CVE-2026-104935 and providing protection for our customers as quickly as possible.\" Cybersecurity firm Volexity, which found the flaw, reported at the time that a threat actor (UTA0576) was chaining the CVE-2026-104935 vulnerability since at least October 3 with two other flaws to gain unauthenticated root-level code execution on fully patched ICS devices. \"Notably, UTA0576 deployed no malware or web shell. Instead, the threat actor re-exploited the device for every command it ran and tampered with logs to cover its tracks, evading Ivanti's Integrity Checker Tool,\" Volexity said . Threat intelligence firm Defused also confirmed Volexity's report , saying that it spotted the first signs of active CVE-2026-104935 exploitation starting October 1. On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) added CVE-2026-104935 to its catalog of actively exploited vulnerabilities and ordered federal agencies to patch their systems by Friday, Internet threat watchdog Shadowserver now tracks over 5,000 Internet-exposed ICS instances , but there is no information on how many have already been secured against ongoing attacks. ​​Threat actors frequently target Ivanti vulnerabilities, often in zero-day attacks, because they provide a quick way into enterprise networks to steal sensitive corporate and customer data. Over the past several years, Ivanti has patched several other Connect Secure zero-days exploited in the wild, some of them chained in widespread attacks to deploy malware . It addressed a command injection (CVE-2024-21887) and an authentication bypass (CVE-2023-46805) in early January 2024 , and a server-side request forgery (CVE-2024-21893) two weeks later . More recently, Ivanti has fixed a remote code execution (RCE) bug (CVE-2025-0282) in January 2025 and a second RCE flaw (CVE-2025-22457) exploited by China-linked state hackers since at least mid-March 2025. Ivanti has over 3,000 employees, a network of more than 7,000 partners, and over 40,000 customers using its IT asset management solutions worldwide. Since November 2021, CISA has flagged 38 Ivanti vulnerabilities as actively exploited in the wild, including 12 that have also been abused in ransomware attacks. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. CISA warns admins to immediately fix Ivanti flaw exploited as zero-day Ivanti warns of Connect Secure zero-day exploited in attacks Google fixes actively exploited Android zero-day on Pixel devices Sonicwall warns of new SMA1000 zero-day exploited in attacks Arista patches new VeloCloud Orchestrator zero-day exploited in attacks Critical Linux kernel flaw allows remote root attacks on MPTCP servers New Android SMS of Death exploit can remotely crash unpatched phones CISA says max severity GitLab flaw now exploited in the wild What can your AI agents actually do? Learn to control every action in our Nov. 18 webinar. Identity-based order to control the chaos of your agentic AI. See Token Security’s AI Agent Security Want to break into cyber security? Learn hands-on in your browser with TryHackMe. Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Stay one step ahead",
-    "quick_summary": [
-      "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1.",
-      "Risk: ransomware/extortion, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-    "target": "Ivanti Connect Secure",
-    "type": "Ransomware",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/"
       }
     ]
   },
@@ -26917,64 +26985,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/it-support-on-microsoft-teams/"
-      }
-    ]
-  },
-  {
-    "id": "87003b338e3f53c5",
-    "date": "2026-10-27T07:14:27+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
-    "summary": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
-    "target": "Maritime Coalition Launches Free",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/"
-      }
-    ]
-  },
-  {
-    "id": "e7d6e9ab5a136487",
-    "date": "2026-10-27T06:57:45+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Hijack Microsoft 365 Accounts at 79 Organizations Using Stolen Login Tokens",
-    "summary": "Hackers compromised Microsoft 365 accounts at 79 organizations by reusing stolen login tokens, recording at least 497 successful sign-ins between July 14 and September 22, 2026. The ten-week campaign also generated more than 200,000 failed login attempts across monitored customer environments. The attackers targeted authenticated sessions rather than relying on password guessing. Similar to previously […] The post Hackers Hijack Microsoft 365 Accounts at 79 Organizations Using Stolen Login Tokens appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Hackers compromised Microsoft 365 accounts at 79 organizations by reusing stolen login tokens, recording at least 497 successful sign-ins between July 14 and September 22, 2026.",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://cybersecuritynews.com/microsoft-365-accounts/",
-    "target": "Hijack Microsoft 365 Accounts",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/microsoft-365-accounts/"
       }
     ]
   }
