@@ -1,65 +1,7 @@
 [
   {
-    "id": "417e3b4417394fd6",
-    "date": "2026-11-08T02:29:10.907543+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE Philips Hue Bridge Pro: LAN Authentication Bypass via CVE-2026-122044",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/philips-hue-bridge-pro-lan-authentication-bypass-via-cve-2026-122044",
-    "target": "CVE Philips Hue Bridge",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/philips-hue-bridge-pro-lan-authentication-bypass-via-cve-2026-122044"
-      }
-    ]
-  },
-  {
-    "id": "f078120f55d60411",
-    "date": "2026-11-08T02:29:10.907470+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE Home Assistant Green: Pwn2Own SSRF Disclosed as CVE-2026-91131",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-pwn2own-ssrf-disclosed-as-cve-2026-91131",
-    "target": "CVE Home Assistant Green",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-pwn2own-ssrf-disclosed-as-cve-2026-91131"
-      }
-    ]
-  },
-  {
     "id": "5b60df0bd4852098",
-    "date": "2026-11-08T02:29:10.907398+00:00",
+    "date": "2026-11-08T10:20:16.812901+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "1fad8ede5d1d3c6e",
-    "date": "2026-11-08T02:29:10.907325+00:00",
+    "date": "2026-11-08T10:20:16.812821+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +59,7 @@
   },
   {
     "id": "67f482df44d3ab68",
-    "date": "2026-11-08T02:29:10.907250+00:00",
+    "date": "2026-11-08T10:20:16.812723+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -145,22 +87,22 @@
     ]
   },
   {
-    "id": "6b7e8bcdd0059526",
-    "date": "2026-11-08T02:29:10.907170+00:00",
+    "id": "0260d3bdf83c6e66",
+    "date": "2026-11-08T10:20:16.812643+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CISA Confirms Active Exploitation of WordPress Core During Update Window CYBERSEC EXPLOIT",
-    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
-    "article_text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities ( KEV ) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - The addition of the two flaws to the KEV catalog comes after Adel Karimi, detection and response lead at Perplexity, confirmed successful instances of remote code execution against honeypot systems on October 24, 2026. \"The evidence demonstrates this chain on the intentionally favorable single-worker mod_php profile; it is not a measurement of exploit reliability on other worker counts, PHP builds, or applications.\" The issues have been addressed in PHP versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 released on October 21, 2026. Federal agencies have time until October 29, 2026, to apply the necessary fixes. PHP, short for PHP: Hypertext Preprocessor, is a server-side scripting language used in roughly 70% of all websites on the internet. According to estimates shared by Censys, more than 32.51 million PHP services are still running an affected version. The severity of the vulnerabilities has prompted numerous advisories from software and security vendors and government agencies across the world, including - As of October 26, 2026, the PHP Foundation also released Windows builds 8.5.12-1, 8.4.27-1, 8.3.36-1 and 8.2.35-1 to address CVE-2026-111497 , an out-of-bounds write vulnerability in the Brotli decoder library that could also result in privilege escalation and unauthenticated remote code execution. The vulnerability , also known as Broccoli2Shell, HTTP2Shell, and Node2Shell, affects Brotli versions 1.0.3 through 1.0.9, 1.1.0, and 1.2.0. It has been patched in versions 1.0.10, 1.1.1, and 1.2.1, along with other projects that include the C library, including Node.js, Bun, Envoy Proxy, Istio, .NET, and Python. \"In PHP Windows builds, the vulnerable decoder can be reached through the cURL extension when automatic HTTP response decompression is enabled,\" the PHP Foundation said . \"This is disabled by default in cURL, but applications and HTTP client libraries can enable it.\" Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities. Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "title": "CRITICAL LibreOffice Patches dBase RCE: Heap Overflow in Index Files Discovered by Hybrid AI-Human Team",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cisa-confirms-active-exploitation-of-wordpress-core-during-update-window",
-    "target": "CISA Confirms Active Exploitation",
+    "link": "https://deafnews.it/en/news/vulnerabilities/libreoffice-patches-dbase-rce-heap-overflow-in-index-files-discovered-by-hybrid-ai-human-team",
+    "target": "CRITICAL LibreOffice Patches RCE",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -169,46 +111,42 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cisa-confirms-active-exploitation-of-wordpress-core-during-update-window"
-      },
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
+        "url": "https://deafnews.it/en/news/vulnerabilities/libreoffice-patches-dbase-rce-heap-overflow-in-index-files-discovered-by-hybrid-ai-human-team"
       }
     ]
   },
   {
-    "id": "bc034e7440b54b67",
-    "date": "2026-11-08T02:29:10.907084+00:00",
+    "id": "58b5d8acbd890f91",
+    "date": "2026-11-08T10:20:16.812553+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Snort, the Network Guardian, Falls to a ZIP Archive VULN CRITICAL",
+    "title": "EXPLOIT SonicWall: Active Exploit Uses Alternate Credentials to Bypass MFA on SSLVPN Firewalls with SAML",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/snort-the-network-guardian-falls-to-a-zip-archive",
-    "target": "Snort Network Guardian Falls",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
+    "link": "https://deafnews.it/en/news/cybersecurity/sonicwall-active-exploit-uses-alternate-credentials-to-bypass-mfa-on-sslvpn-firewalls-with-saml",
+    "target": "EXPLOIT SonicWall",
+    "type": "Vulnerability",
+    "severity": "High",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/snort-the-network-guardian-falls-to-a-zip-archive"
+        "url": "https://deafnews.it/en/news/cybersecurity/sonicwall-active-exploit-uses-alternate-credentials-to-bypass-mfa-on-sslvpn-firewalls-with-saml"
       }
     ]
   },
   {
     "id": "a6c57a7875b7a78a",
-    "date": "2026-11-08T02:29:10.906978+00:00",
+    "date": "2026-11-08T10:20:16.812437+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -237,7 +175,7 @@
   },
   {
     "id": "75622503b3b6bba6",
-    "date": "2026-11-08T02:29:10.906895+00:00",
+    "date": "2026-11-08T10:20:16.812345+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -266,7 +204,7 @@
   },
   {
     "id": "99fc799eabfa1558",
-    "date": "2026-11-08T02:29:10.906808+00:00",
+    "date": "2026-11-08T10:20:16.812251+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -295,7 +233,7 @@
   },
   {
     "id": "f7736cfb89b9526a",
-    "date": "2026-11-08T02:29:10.906700+00:00",
+    "date": "2026-11-08T10:20:16.812148+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -324,7 +262,7 @@
   },
   {
     "id": "979163bccc8a3a88",
-    "date": "2026-11-08T02:29:10.906614+00:00",
+    "date": "2026-11-08T10:20:16.812052+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -352,8 +290,66 @@
     ]
   },
   {
+    "id": "f3a779e56a4149ec",
+    "date": "2026-11-08T10:20:16.811964+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Philips Hue Bridge Pro: LAN Authentication Bypass via CVE-2026-122044 CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/philips-hue-bridge-pro-lan-authentication-bypass-via-cve-2026-122044",
+    "target": "Philips Hue Bridge Pro",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/philips-hue-bridge-pro-lan-authentication-bypass-via-cve-2026-122044"
+      }
+    ]
+  },
+  {
+    "id": "5a9771c18e73b2e6",
+    "date": "2026-11-08T10:20:16.811872+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Home Assistant Green: Pwn2Own SSRF Disclosed as CVE-2026-91131 VULN CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-pwn2own-ssrf-disclosed-as-cve-2026-91131",
+    "target": "Home Assistant Green",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-pwn2own-ssrf-disclosed-as-cve-2026-91131"
+      }
+    ]
+  },
+  {
     "id": "ca355f225bc28bc9",
-    "date": "2026-11-08T02:29:10.906147+00:00",
+    "date": "2026-11-08T10:20:16.811383+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -382,7 +378,7 @@
   },
   {
     "id": "927c730f85fd3ffa",
-    "date": "2026-11-08T02:29:10.906058+00:00",
+    "date": "2026-11-08T10:20:16.811287+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -415,7 +411,7 @@
   },
   {
     "id": "64e0613413fa9263",
-    "date": "2026-11-08T02:29:10.905980+00:00",
+    "date": "2026-11-08T10:20:16.811204+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -444,7 +440,7 @@
   },
   {
     "id": "2e9ad9f3483fd092",
-    "date": "2026-11-08T02:29:10.905899+00:00",
+    "date": "2026-11-08T10:20:16.811117+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -481,7 +477,7 @@
   },
   {
     "id": "3926c46ac13e2802",
-    "date": "2026-11-08T02:29:10.905820+00:00",
+    "date": "2026-11-08T10:20:16.811036+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -510,7 +506,7 @@
   },
   {
     "id": "1ecf0823fbc03fd9",
-    "date": "2026-11-08T02:29:10.905720+00:00",
+    "date": "2026-11-08T10:20:16.810954+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -539,7 +535,7 @@
   },
   {
     "id": "104c7f57f6827a18",
-    "date": "2026-11-08T02:29:10.905645+00:00",
+    "date": "2026-11-08T10:20:16.810874+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -568,12 +564,12 @@
   },
   {
     "id": "3ddb3eaee7aec34c",
-    "date": "2026-11-08T02:29:10.905074+00:00",
+    "date": "2026-11-08T10:20:16.810234+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 2 ZERO-DAY · 6 CVE · 3 EXPLOIT IN THE LAST 24H →",
+    "title": "// 2 ZERO-DAY · 6 CVE · 5 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -597,7 +593,7 @@
   },
   {
     "id": "e711d8263c26a207",
-    "date": "2026-11-08T02:29:09.625913+00:00",
+    "date": "2026-11-08T10:20:15.813906+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -718,7 +714,7 @@
   },
   {
     "id": "9706d399f5a97478",
-    "date": "2026-11-08T02:29:08.148053+00:00",
+    "date": "2026-11-08T10:20:14.621069+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -747,7 +743,7 @@
   },
   {
     "id": "c3762bab1cea27f2",
-    "date": "2026-11-08T02:29:08.147949+00:00",
+    "date": "2026-11-08T10:20:14.620957+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -776,7 +772,7 @@
   },
   {
     "id": "51e3fc2e59f34aa3",
-    "date": "2026-11-08T02:29:08.147847+00:00",
+    "date": "2026-11-08T10:20:14.620843+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -805,7 +801,7 @@
   },
   {
     "id": "b3de3b5b8196d850",
-    "date": "2026-11-08T02:29:08.147726+00:00",
+    "date": "2026-11-08T10:20:14.620705+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -834,7 +830,7 @@
   },
   {
     "id": "96fb1d9a13b7129f",
-    "date": "2026-11-08T02:29:08.147614+00:00",
+    "date": "2026-11-08T10:20:14.620585+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -863,7 +859,7 @@
   },
   {
     "id": "86eccca749524d1b",
-    "date": "2026-11-08T02:29:08.147512+00:00",
+    "date": "2026-11-08T10:20:14.620474+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -892,7 +888,7 @@
   },
   {
     "id": "dddb8297ad3b8630",
-    "date": "2026-11-08T02:29:08.147384+00:00",
+    "date": "2026-11-08T10:20:14.620342+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -925,7 +921,7 @@
   },
   {
     "id": "d1d35ddb0723bb34",
-    "date": "2026-11-08T02:29:08.147298+00:00",
+    "date": "2026-11-08T10:20:14.620247+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -986,7 +982,7 @@
   },
   {
     "id": "0925ed42aaadcbd8",
-    "date": "2026-11-08T02:29:08.147110+00:00",
+    "date": "2026-11-08T10:20:14.620043+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1015,7 +1011,7 @@
   },
   {
     "id": "301fc1ed5308294c",
-    "date": "2026-11-08T02:29:08.146968+00:00",
+    "date": "2026-11-08T10:20:14.619898+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1044,7 +1040,7 @@
   },
   {
     "id": "24fe90afcab5e737",
-    "date": "2026-11-08T02:29:08.146864+00:00",
+    "date": "2026-11-08T10:20:14.619781+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1073,7 +1069,7 @@
   },
   {
     "id": "08e8c96aa0889f56",
-    "date": "2026-11-08T02:29:08.146754+00:00",
+    "date": "2026-11-08T10:20:14.619668+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1102,7 +1098,7 @@
   },
   {
     "id": "a86c7402bed70275",
-    "date": "2026-11-08T02:29:08.146652+00:00",
+    "date": "2026-11-08T10:20:14.619560+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1144,7 +1140,7 @@
   },
   {
     "id": "b04d001f572e800e",
-    "date": "2026-11-08T02:29:08.146546+00:00",
+    "date": "2026-11-08T10:20:14.619448+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1173,7 +1169,7 @@
   },
   {
     "id": "3b8d4423d6fd9608",
-    "date": "2026-11-08T02:29:08.146437+00:00",
+    "date": "2026-11-08T10:20:14.619336+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1202,7 +1198,7 @@
   },
   {
     "id": "46220df4e233f0cc",
-    "date": "2026-11-08T02:29:08.146339+00:00",
+    "date": "2026-11-08T10:20:14.619231+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1231,7 +1227,7 @@
   },
   {
     "id": "2e78dbab01a9b701",
-    "date": "2026-11-08T02:29:08.146222+00:00",
+    "date": "2026-11-08T10:20:14.619114+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1264,7 +1260,7 @@
   },
   {
     "id": "4c507f33ea61dc01",
-    "date": "2026-11-08T02:29:08.146080+00:00",
+    "date": "2026-11-08T10:20:14.618967+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1293,7 +1289,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-11-08T02:29:08.145865+00:00",
+    "date": "2026-11-08T10:20:14.618722+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1322,7 +1318,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-11-08T02:29:08.145313+00:00",
+    "date": "2026-11-08T10:20:14.618222+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1351,7 +1347,7 @@
   },
   {
     "id": "a69ea8fe7f34b21b",
-    "date": "2026-11-08T02:29:07.909477+00:00",
+    "date": "2026-11-08T10:20:14.351631+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1380,7 +1376,7 @@
   },
   {
     "id": "df851e79c62b855c",
-    "date": "2026-11-08T02:29:07.909391+00:00",
+    "date": "2026-11-08T10:20:14.351542+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1409,7 +1405,7 @@
   },
   {
     "id": "286b6a5bc9ad9e2f",
-    "date": "2026-11-08T02:29:07.909311+00:00",
+    "date": "2026-11-08T10:20:14.351459+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1438,7 +1434,7 @@
   },
   {
     "id": "621b9ebe71798efa",
-    "date": "2026-11-08T02:29:07.909235+00:00",
+    "date": "2026-11-08T10:20:14.351382+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1467,7 +1463,7 @@
   },
   {
     "id": "da635b5ba8f74bb4",
-    "date": "2026-11-08T02:29:07.909163+00:00",
+    "date": "2026-11-08T10:20:14.351305+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1496,7 +1492,7 @@
   },
   {
     "id": "84802b3af2d51c29",
-    "date": "2026-11-08T02:29:07.909080+00:00",
+    "date": "2026-11-08T10:20:14.351192+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1525,7 +1521,7 @@
   },
   {
     "id": "8c690942ab22db42",
-    "date": "2026-11-08T02:29:07.909006+00:00",
+    "date": "2026-11-08T10:20:14.351084+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1554,7 +1550,7 @@
   },
   {
     "id": "9cf712a82f014822",
-    "date": "2026-11-08T02:29:07.908930+00:00",
+    "date": "2026-11-08T10:20:14.351005+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1583,7 +1579,7 @@
   },
   {
     "id": "94dbf4b67df7dd02",
-    "date": "2026-11-08T02:29:07.908845+00:00",
+    "date": "2026-11-08T10:20:14.350918+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1612,7 +1608,7 @@
   },
   {
     "id": "0833fc4195361657",
-    "date": "2026-11-08T02:29:07.908743+00:00",
+    "date": "2026-11-08T10:20:14.350829+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1641,7 +1637,7 @@
   },
   {
     "id": "97fc12447e6f24e0",
-    "date": "2026-11-08T02:29:07.908655+00:00",
+    "date": "2026-11-08T10:20:14.350720+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1670,7 +1666,7 @@
   },
   {
     "id": "d974c9fd3f8630bc",
-    "date": "2026-11-08T02:29:07.908558+00:00",
+    "date": "2026-11-08T10:20:14.350620+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1699,7 +1695,7 @@
   },
   {
     "id": "7ece8421228760e2",
-    "date": "2026-11-08T02:29:07.908467+00:00",
+    "date": "2026-11-08T10:20:14.350526+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1728,7 +1724,7 @@
   },
   {
     "id": "acf65887ca804da6",
-    "date": "2026-11-08T02:29:07.908382+00:00",
+    "date": "2026-11-08T10:20:14.350441+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1757,7 +1753,7 @@
   },
   {
     "id": "b5db0d0348970ded",
-    "date": "2026-11-08T02:29:07.908281+00:00",
+    "date": "2026-11-08T10:20:14.350338+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1786,7 +1782,7 @@
   },
   {
     "id": "1df6a6f4c47a4ab8",
-    "date": "2026-11-08T02:29:07.908197+00:00",
+    "date": "2026-11-08T10:20:14.350250+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1815,7 +1811,7 @@
   },
   {
     "id": "3ea713ba27cf4fd3",
-    "date": "2026-11-08T02:29:07.908102+00:00",
+    "date": "2026-11-08T10:20:14.350154+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1844,7 +1840,7 @@
   },
   {
     "id": "381d9be4bf3cb7d3",
-    "date": "2026-11-08T02:29:07.908014+00:00",
+    "date": "2026-11-08T10:20:14.350067+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1873,7 +1869,7 @@
   },
   {
     "id": "ca94c3bf35e74ae1",
-    "date": "2026-11-08T02:29:07.907930+00:00",
+    "date": "2026-11-08T10:20:14.349980+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1902,7 +1898,7 @@
   },
   {
     "id": "9d446bdc177ee166",
-    "date": "2026-11-08T02:29:07.907830+00:00",
+    "date": "2026-11-08T10:20:14.349880+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1931,7 +1927,7 @@
   },
   {
     "id": "8fb16f9dd4df26c1",
-    "date": "2026-11-08T02:29:07.907729+00:00",
+    "date": "2026-11-08T10:20:14.349797+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1965,7 +1961,7 @@
   },
   {
     "id": "ac332bcab893f264",
-    "date": "2026-11-08T02:29:07.907641+00:00",
+    "date": "2026-11-08T10:20:14.349695+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1994,7 +1990,7 @@
   },
   {
     "id": "b720aa9b26f9fc89",
-    "date": "2026-11-08T02:29:07.907536+00:00",
+    "date": "2026-11-08T10:20:14.349588+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2023,7 +2019,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-11-08T02:29:07.907429+00:00",
+    "date": "2026-11-08T10:20:14.349485+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2060,7 +2056,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-11-08T02:29:07.907270+00:00",
+    "date": "2026-11-08T10:20:14.349317+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -2104,6 +2100,68 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
+      }
+    ]
+  },
+  {
+    "id": "6b7e8bcdd0059526",
+    "date": "2026-11-08T02:29:10.907170+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CISA Confirms Active Exploitation of WordPress Core During Update Window CYBERSEC EXPLOIT",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
+    "article_text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities ( KEV ) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - The addition of the two flaws to the KEV catalog comes after Adel Karimi, detection and response lead at Perplexity, confirmed successful instances of remote code execution against honeypot systems on October 24, 2026. \"The evidence demonstrates this chain on the intentionally favorable single-worker mod_php profile; it is not a measurement of exploit reliability on other worker counts, PHP builds, or applications.\" The issues have been addressed in PHP versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 released on October 21, 2026. Federal agencies have time until October 29, 2026, to apply the necessary fixes. PHP, short for PHP: Hypertext Preprocessor, is a server-side scripting language used in roughly 70% of all websites on the internet. According to estimates shared by Censys, more than 32.51 million PHP services are still running an affected version. The severity of the vulnerabilities has prompted numerous advisories from software and security vendors and government agencies across the world, including - As of October 26, 2026, the PHP Foundation also released Windows builds 8.5.12-1, 8.4.27-1, 8.3.36-1 and 8.2.35-1 to address CVE-2026-111497 , an out-of-bounds write vulnerability in the Brotli decoder library that could also result in privilege escalation and unauthenticated remote code execution. The vulnerability , also known as Broccoli2Shell, HTTP2Shell, and Node2Shell, affects Brotli versions 1.0.3 through 1.0.9, 1.1.0, and 1.2.0. It has been patched in versions 1.0.10, 1.1.1, and 1.2.1, along with other projects that include the C library, including Node.js, Bun, Envoy Proxy, Istio, .NET, and Python. \"In PHP Windows builds, the vulnerable decoder can be reached through the cURL extension when automatic HTTP response decompression is enabled,\" the PHP Foundation said . \"This is disabled by default in cURL, but applications and HTTP client libraries can enable it.\" Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities. Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cisa-confirms-active-exploitation-of-wordpress-core-during-update-window",
+    "target": "CISA Confirms Active Exploitation",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cisa-confirms-active-exploitation-of-wordpress-core-during-update-window"
+      },
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
+      }
+    ]
+  },
+  {
+    "id": "bc034e7440b54b67",
+    "date": "2026-11-08T02:29:10.907084+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Snort, the Network Guardian, Falls to a ZIP Archive VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/snort-the-network-guardian-falls-to-a-zip-archive",
+    "target": "Snort Network Guardian Falls",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/snort-the-network-guardian-falls-to-a-zip-archive"
       }
     ]
   },
@@ -26926,64 +26984,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/php-discloses-new-unpatched-rce-flaw-two-days-after-php2shell-emergency"
-      }
-    ]
-  },
-  {
-    "id": "b9d2fb18f6a3a6a4",
-    "date": "2026-10-27T10:33:12.092991+00:00",
-    "source": "CyberNews Security",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Security Amazon and Cloudflare report PHP2Shell cyberattack attempts as millions of websites race to patch Oct 23, 2026 3 min read",
-    "summary": "Discovered from CyberNews Security page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Discovered from CyberNews Security page.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybernews.com/security/php2shell-wordpress-amazon-cloudflare-ai-cyberattacks/",
-    "target": "Amazon Cloudflare PHP2Shell",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "CyberNews Security"
-    ],
-    "links": [
-      {
-        "source": "CyberNews Security",
-        "url": "https://cybernews.com/security/php2shell-wordpress-amazon-cloudflare-ai-cyberattacks/"
-      }
-    ]
-  },
-  {
-    "id": "96002c1db752c564",
-    "date": "2026-10-27T10:33:12.092834+00:00",
-    "source": "CyberNews Security",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Security Dozens of universities in the blast zone after hackers exploit QuickLaunch Oct 22, 2026 3 min read",
-    "summary": "Discovered from CyberNews Security page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Discovered from CyberNews Security page.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybernews.com/security/hackers-universities-login-data-leak/",
-    "target": "Dozens",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "CyberNews Security"
-    ],
-    "links": [
-      {
-        "source": "CyberNews Security",
-        "url": "https://cybernews.com/security/hackers-universities-login-data-leak/"
       }
     ]
   }
