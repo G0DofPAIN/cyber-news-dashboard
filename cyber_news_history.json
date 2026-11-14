@@ -1,36 +1,7 @@
 [
   {
-    "id": "58b5d8acbd890f91",
-    "date": "2026-11-14T17:06:37.836491+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT SonicWall: Active Exploit Uses Alternate Credentials to Bypass MFA on SSLVPN Firewalls with SAML",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/sonicwall-active-exploit-uses-alternate-credentials-to-bypass-mfa-on-sslvpn-firewalls-with-saml",
-    "target": "EXPLOIT SonicWall",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/sonicwall-active-exploit-uses-alternate-credentials-to-bypass-mfa-on-sslvpn-firewalls-with-saml"
-      }
-    ]
-  },
-  {
     "id": "d07e995c805f18c5",
-    "date": "2026-11-14T17:06:37.836416+00:00",
+    "date": "2026-11-14T21:29:07.124310+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "5ec9508e15b23753",
-    "date": "2026-11-14T17:06:37.836321+00:00",
+    "date": "2026-11-14T21:29:07.124229+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "54d3cddb72f5fd50",
-    "date": "2026-11-14T17:06:37.836246+00:00",
+    "date": "2026-11-14T21:29:07.124137+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "a3d83b0f1c98c056",
-    "date": "2026-11-14T17:06:37.836179+00:00",
+    "date": "2026-11-14T21:29:07.124067+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "8aab806662090744",
-    "date": "2026-11-14T17:06:37.836105+00:00",
+    "date": "2026-11-14T21:29:07.123989+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,13 +145,13 @@
     ]
   },
   {
-    "id": "1796d7a325fb2d9f",
-    "date": "2026-11-14T17:06:37.836033+00:00",
+    "id": "5cc8e33a7b45fcfd",
+    "date": "2026-11-14T21:29:07.123903+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Docker Sandboxes: Isolation Perimeter Collapses Before microVM in CVE-2026-121614 CYBERSEC CVE",
+    "title": "ZERO-DAY Qualcomm GreenPhy Chip Buffer Overflow Enables Code Execution with Physical Access",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -188,23 +159,23 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/docker-sandboxes-isolation-perimeter-collapses-before-microvm-in-cve-2026-121614",
-    "target": "Docker Sandboxes",
+    "link": "https://deafnews.it/en/news/cybersecurity/qualcomm-greenphy-chip-buffer-overflow-enables-code-execution-with-physical-access",
+    "target": "ZERO-DAY Qualcomm GreenPhy Chip",
     "type": "Vulnerability",
-    "severity": "Medium",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/docker-sandboxes-isolation-perimeter-collapses-before-microvm-in-cve-2026-121614"
+        "url": "https://deafnews.it/en/news/cybersecurity/qualcomm-greenphy-chip-buffer-overflow-enables-code-execution-with-physical-access"
       }
     ]
   },
   {
     "id": "11070897a5b5a593",
-    "date": "2026-11-14T17:06:37.835958+00:00",
+    "date": "2026-11-14T21:29:07.123826+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "97d3b85da465c2a4",
-    "date": "2026-11-14T17:06:37.835884+00:00",
+    "date": "2026-11-14T21:29:07.123752+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +233,7 @@
   },
   {
     "id": "08102a5b5b4784a1",
-    "date": "2026-11-14T17:06:37.835810+00:00",
+    "date": "2026-11-14T21:29:07.123677+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -290,8 +261,37 @@
     ]
   },
   {
+    "id": "8ef5518025eaffeb",
+    "date": "2026-11-14T21:29:07.123597+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "SonicWall: Active Exploit Uses Alternate Credentials to Bypass MFA on SSLVPN Firewalls with SAML CYBERSEC EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/sonicwall-active-exploit-uses-alternate-credentials-to-bypass-mfa-on-sslvpn-firewalls-with-saml",
+    "target": "SonicWall",
+    "type": "Vulnerability",
+    "severity": "High",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/sonicwall-active-exploit-uses-alternate-credentials-to-bypass-mfa-on-sslvpn-firewalls-with-saml"
+      }
+    ]
+  },
+  {
     "id": "00509b4bab464147",
-    "date": "2026-11-14T17:06:37.835645+00:00",
+    "date": "2026-11-14T21:29:07.123518+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -320,7 +320,7 @@
   },
   {
     "id": "2e8d401df1e52132",
-    "date": "2026-11-14T17:06:37.835572+00:00",
+    "date": "2026-11-14T21:29:07.123449+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -349,7 +349,7 @@
   },
   {
     "id": "9c78b131d8555353",
-    "date": "2026-11-14T17:06:37.835495+00:00",
+    "date": "2026-11-14T21:29:07.123375+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -377,8 +377,37 @@
     ]
   },
   {
+    "id": "1cb1ae51b53612f8",
+    "date": "2026-11-14T21:29:07.123290+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Outlook Zero-Day with CVSS 6.5 Is the Only Actively Exploited Flaw in 1,094-CVE Patch Tuesday CYBERSEC ZERO-DAY",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/outlook-zero-day-with-cvss-65-is-the-only-actively-exploited-flaw-in-1094-cve-patch-tuesday",
+    "target": "Outlook Zero-Day CVSS 6.5",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/outlook-zero-day-with-cvss-65-is-the-only-actively-exploited-flaw-in-1094-cve-patch-tuesday"
+      }
+    ]
+  },
+  {
     "id": "3895d48922daae12",
-    "date": "2026-11-14T17:06:37.834885+00:00",
+    "date": "2026-11-14T21:29:07.122766+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -406,24 +435,24 @@
     ]
   },
   {
-    "id": "e098c5f1be2af621",
-    "date": "2026-11-14T17:06:37.834585+00:00",
+    "id": "3ddb3eaee7aec34c",
+    "date": "2026-11-14T21:29:07.122455+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CVE · 1 EXPLOIT IN THE LAST 24H →",
+    "title": "// 1 ZERO-DAY · 2 CVE · 1 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/threats",
-    "target": "CVE EXPLOIT LAST",
+    "target": "ZERO-DAY CVE EXPLOIT",
     "type": "Vulnerability",
-    "severity": "Medium",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
@@ -436,7 +465,7 @@
   },
   {
     "id": "1de8c46419c226ae",
-    "date": "2026-11-14T17:06:36.837756+00:00",
+    "date": "2026-11-14T21:29:06.292865+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -561,7 +590,7 @@
   },
   {
     "id": "7398b19113714990",
-    "date": "2026-11-14T17:06:35.982394+00:00",
+    "date": "2026-11-14T21:29:05.238402+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -590,7 +619,7 @@
   },
   {
     "id": "52d43844000111e2",
-    "date": "2026-11-14T17:06:35.982302+00:00",
+    "date": "2026-11-14T21:29:05.238327+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -619,7 +648,7 @@
   },
   {
     "id": "34592ef1e28bc1a2",
-    "date": "2026-11-14T17:06:35.982223+00:00",
+    "date": "2026-11-14T21:29:05.238246+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -648,7 +677,7 @@
   },
   {
     "id": "283414000292ef0f",
-    "date": "2026-11-14T17:06:35.982151+00:00",
+    "date": "2026-11-14T21:29:05.238160+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -677,7 +706,7 @@
   },
   {
     "id": "4650411e66754439",
-    "date": "2026-11-14T17:06:35.982073+00:00",
+    "date": "2026-11-14T21:29:05.238085+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -706,7 +735,7 @@
   },
   {
     "id": "bb60a34f86a38ccf",
-    "date": "2026-11-14T17:06:35.982000+00:00",
+    "date": "2026-11-14T21:29:05.238015+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -735,7 +764,7 @@
   },
   {
     "id": "9bdec00f1cfba22c",
-    "date": "2026-11-14T17:06:35.981924+00:00",
+    "date": "2026-11-14T21:29:05.237941+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -764,7 +793,7 @@
   },
   {
     "id": "634e276d8a3fc86c",
-    "date": "2026-11-14T17:06:35.981845+00:00",
+    "date": "2026-11-14T21:29:05.237864+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -793,7 +822,7 @@
   },
   {
     "id": "481731137a93282c",
-    "date": "2026-11-14T17:06:35.981768+00:00",
+    "date": "2026-11-14T21:29:05.237788+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -822,7 +851,7 @@
   },
   {
     "id": "b3010b5b078dff00",
-    "date": "2026-11-14T17:06:35.981685+00:00",
+    "date": "2026-11-14T21:29:05.237708+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -851,7 +880,7 @@
   },
   {
     "id": "18457e6801bb3b64",
-    "date": "2026-11-14T17:06:35.981613+00:00",
+    "date": "2026-11-14T21:29:05.237638+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -880,7 +909,7 @@
   },
   {
     "id": "6ecb5206be4ce0f8",
-    "date": "2026-11-14T17:06:35.981537+00:00",
+    "date": "2026-11-14T21:29:05.237563+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -909,7 +938,7 @@
   },
   {
     "id": "dfe3762e87590e93",
-    "date": "2026-11-14T17:06:35.981434+00:00",
+    "date": "2026-11-14T21:29:05.237465+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -938,7 +967,7 @@
   },
   {
     "id": "413f9cb9da7ea50f",
-    "date": "2026-11-14T17:06:35.981351+00:00",
+    "date": "2026-11-14T21:29:05.237390+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -967,7 +996,7 @@
   },
   {
     "id": "d418c8ef6f62f9a7",
-    "date": "2026-11-14T17:06:35.981246+00:00",
+    "date": "2026-11-14T21:29:05.237302+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -996,7 +1025,7 @@
   },
   {
     "id": "6f5da476da76d812",
-    "date": "2026-11-14T17:06:35.981166+00:00",
+    "date": "2026-11-14T21:29:05.237224+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1025,7 +1054,7 @@
   },
   {
     "id": "3417e2c137cb7815",
-    "date": "2026-11-14T17:06:35.981074+00:00",
+    "date": "2026-11-14T21:29:05.237130+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1054,7 +1083,7 @@
   },
   {
     "id": "a15c9acf1232791f",
-    "date": "2026-11-14T17:06:35.980991+00:00",
+    "date": "2026-11-14T21:29:05.237047+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1083,7 +1112,7 @@
   },
   {
     "id": "14ca692584383f37",
-    "date": "2026-11-14T17:06:35.980890+00:00",
+    "date": "2026-11-14T21:29:05.236945+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1112,7 +1141,7 @@
   },
   {
     "id": "99717d96f71b2edd",
-    "date": "2026-11-14T17:06:35.980805+00:00",
+    "date": "2026-11-14T21:29:05.236861+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1141,7 +1170,7 @@
   },
   {
     "id": "cc3e862bdfc279c2",
-    "date": "2026-11-14T17:06:35.980721+00:00",
+    "date": "2026-11-14T21:29:05.236779+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1170,7 +1199,7 @@
   },
   {
     "id": "73155bc5800f54c7",
-    "date": "2026-11-14T17:06:35.980643+00:00",
+    "date": "2026-11-14T21:29:05.236702+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1199,7 +1228,7 @@
   },
   {
     "id": "1ef54a80e23a4ff4",
-    "date": "2026-11-14T17:06:35.980564+00:00",
+    "date": "2026-11-14T21:29:05.236622+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1228,7 +1257,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-11-14T17:06:35.980474+00:00",
+    "date": "2026-11-14T21:29:05.236532+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1265,7 +1294,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-11-14T17:06:35.980292+00:00",
+    "date": "2026-11-14T21:29:05.236359+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1309,6 +1338,93 @@
       {
         "source": "Reddit r/netsec",
         "url": "https://www.reddit.com/r/netsec/comments/1tts9ly/rnetsec_monthly_discussion_tool_thread/"
+      }
+    ]
+  },
+  {
+    "id": "29de10f808d00d91",
+    "date": "2026-11-14T17:27:25+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Cursor confirms security breach led to malicious Claude Code extension",
+    "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+    "article_text": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. The breach also let attackers access internal systems and steal customer data, including historical AI coding-agent traces containing unredacted credentials that were later used to compromise additional services. The breach was disclosed in a new incident report published Friday, which explains how attackers distributed malicious versions of Anthropic's Claude Code extension through Cursor's marketplace on October 29. The attack exposed up to 5,000 developers to malware that installed persistent SSH backdoors. Cursor is an AI-powered code editor built on Microsoft's open-source Visual Studio Code (VS Code), allowing developers to write, modify, and debug software using AI assistants. According to Cursor, the attack began when hackers obtained an access key stored on Fireworks AI, a third-party provider used for AI model training and inference. The attackers used the exposed key to copy data from a read-only storage bucket Cursor used to share information with Fireworks. This bucket contained historical AI coding-agent traces, mostly from 2025, collected from users who had not enabled Privacy Mode and whose data could be used for model training. Some of these traces contained unredacted API credentials, allowing the attackers to access additional Cursor systems. Cursor says fewer than 0.05% of users had coding-agent traces exposed, while fewer than 0.01% of customers had API credentials compromised. Using the exposed credentials, the hackers stole data from several of Cursor's software-as-a-service (SaaS) tools, including: Cursor says its monitoring systems detected the unauthorized activity, leading the company to revoke the Fireworks access key, rotate exposed credentials, and investigate additional unauthorized access. As the investigation progressed, Cursor temporarily turned off some internal and product services as a precaution. However, the attackers had already obtained a credential that allowed them to distribute extensions through Cursor's marketplace. On October 29, the hackers used that credential to publish malicious copies of Anthropic's Claude Code extension on Cursor's VS Code extension marketplace. \"On October 29, using a stolen credential from the exposed data from our internal system, the attacker placed malicious, unauthorized copies of Anthropic's Claude Code extension directly on the cache used to serve the Cursor VS Code extension marketplace,\" Cursor explained. The attack did not compromise Anthropic's legitimate extension or Open VSX, the extension marketplace Cursor uses. The malicious extensions, versions 2.1.312 and 2.1.313, were available for approximately 11 hours before Cursor removed them. As BleepingComputer previously reported , the attackers modified the legitimate Claude Code extension to execute malicious JavaScript that attempted to install persistent SSH backdoors on developers' computers. The malware collected system information, installed an attacker-controlled SSH key, attempted to enable SSH access, and configured persistence mechanisms to maintain remote access. However, security researchers found coding errors that likely prevented the backdoor from working on many Windows and macOS systems where SSH was not already enabled. Cursor estimates that up to 5,000 users who requested affected extension versions during the exposure window may have received the malicious builds. The company says its production infrastructure, official application releases, customer code repositories, and code and prompts belonging to users with Privacy Mode enabled were not affected. Cursor says it has moved all inference traffic away from Fireworks, revoked and rotated exposed credentials, rebuilt its extension marketplace, and redeployed its production infrastructure as a precaution. Customers who installed or updated to the affected Claude Code extension during the attack are advised to follow Cursor's remediation guidance . The incident comes amid a wave of attacks targeting AI developer platforms that cybersecurity company Wiz has dubbed \"Black October\" . These attacks targeted development infrastructure to steal authentication credentials, especially those providing access to AI models. Stolen credentials have been used for unauthorized AI inference, generating substantial charges for affec",
+    "quick_summary": [
+      "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+    "target": "Cursor Claude Code",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
+      }
+    ]
+  },
+  {
+    "id": "1796d7a325fb2d9f",
+    "date": "2026-11-14T17:06:37.836033+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Docker Sandboxes: Isolation Perimeter Collapses Before microVM in CVE-2026-121614 CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/docker-sandboxes-isolation-perimeter-collapses-before-microvm-in-cve-2026-121614",
+    "target": "Docker Sandboxes",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/docker-sandboxes-isolation-perimeter-collapses-before-microvm-in-cve-2026-121614"
+      }
+    ]
+  },
+  {
+    "id": "e098c5f1be2af621",
+    "date": "2026-11-14T17:06:37.834585+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CVE · 1 EXPLOIT IN THE LAST 24H →",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/threats",
+    "target": "CVE EXPLOIT LAST",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/threats"
       }
     ]
   },
@@ -1367,6 +1483,35 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/"
+      }
+    ]
+  },
+  {
+    "id": "a6436c2bee06ce5e",
+    "date": "2026-11-14T13:04:01+00:00",
+    "source": "HackRead",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "The Security Jobs Growing Around Enterprise AI Agents",
+    "summary": "Two years ago, most company AI use happened in a chat window. Today, AI assistants read shared mailboxes,…",
+    "article_text": "",
+    "quick_summary": [
+      "Two years ago, most company AI use happened in a chat window.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://hackread.com/security-jobs-growing-around-enterprise-ai-agents/",
+    "target": "Jobs Growing Around Enterprise",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "HackRead"
+    ],
+    "links": [
+      {
+        "source": "HackRead",
+        "url": "https://hackread.com/security-jobs-growing-around-enterprise-ai-agents/"
       }
     ]
   },
@@ -1483,35 +1628,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/active-password-stealing-attack-microsoft-365/"
-      }
-    ]
-  },
-  {
-    "id": "3ddb3eaee7aec34c",
-    "date": "2026-11-14T10:27:16.412336+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "// 1 ZERO-DAY · 2 CVE · 1 EXPLOIT IN THE LAST 24H →",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/threats",
-    "target": "ZERO-DAY CVE EXPLOIT",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/threats"
       }
     ]
   },
@@ -26987,122 +27103,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/"
-      }
-    ]
-  },
-  {
-    "id": "97a460cb3fb0d583",
-    "date": "2026-11-02T18:16:34+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-    "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
-    "article_text": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. The company attributes the botnet with high confidence to Chinese device manufacturer Videostrong Technology Co, accusing the company of deliberately installing a persistent backdoor into devices it manufactured and selling access to criminal affiliates. These affiliates used the backdoored devices to deploy malicious modules that were used fir ad fraud, turned infected devices into residential proxies, and installed additional malware. As part of the disruption, Google says it took down XCPE command-and-control (C2) servers used by more than a dozen related malware families, cutting off access to at least 10 million additional compromised devices. These additional devices were compromised through malware distributed through other means than XCPE, and include retail set-top boxes, karaoke machines, and telehealth hardware. Google says that not all of them are Android devices. Google has also terminated its relationship with Videostrong, revoked its license to manufacture Android TV devices with preloaded Google apps and services, and banned the company and its future affiliates from producing certified Android devices or supplying software to certified vendors. \"We assess with high confidence that the backdoor and botnet were intentionally developed, deployed, and operated for financial gain by Videostrong Technology Co.,\" Google's Threat Intelligence Group (GTIG) said in a report published Monday. Google says the disruption involved Japan's National Police Agency and security companies Lumen, HUMAN Security, Plume, Synthient, and TrendAI, which coordinated to analyze the malicious infrastructure and disrupt its operations. Unlike other botnets that commonly breach devices through vulnerabilities or by tricking users into installing malware, the XCPE botnet was embedded directly into device firmware during manufacturing. Google says Videostrong had been developing and distributing the malware across multiple device brands and models for years, evolving its capabilities to evade detection and support different criminal affiliates. \"We found this malicious software built directly into many different device models and brands over multiple years, supported by dedicated infrastructure and constantly evolving configurations to evade detection and manage their affiliates,\" Google says. The main backdoor component, tracked as x.cpe and com.oemservice , run with Android system-level privileges. The malware uses a modular architecture that separates its backdoor functions from modules designed to generate revenue for affiliates. After an infected device starts, XCPE contacts a command-and-control server on the anyevonline[.]com domain to obtain connection information and credentials for an MQTT message broker, which is then used for receiving commands. Google says the malware uses different subdomains of anyevonline[.]com depending on the Android version and device type. The MQTT broker, which was hosted at mqtt.szbboys[.]com , allowed operators to send commands and deploy other malware to infected devices. Through this connection, operators can remotely control compromised devices and perform malicious actions, such as: The devices were also used to generate revenue by installing malware modules belonging to other operators, turning the backdoor into a plug-in cybercrime platform for other cybercriminals. According to Google, these modules included software associated with residential proxy services such as Linkfog, AppSalt/Honeygain, GaGaNode, NetNut, and Traffmonetizer, which was used to route third-party internet traffic through infected devices without their owners' knowledge or consent. Google says the botnet operators continuously changed the malware's architecture to avoid detection. In late 2024, Videostrong began using a separate loader called com.abc.nexus , which ran the malicious modules while XCPE focused on communications with the C2 infrastructure. Since August 2026, the operators began replacing that loader with smaller, specialized droppers disguised as Android system applications. In a separate coordinated report , cybersecurity firm Synthient explains how it traced the XCPE backdoor and infrastructure to Videostrong after discovering the malware preinstall",
-    "quick_summary": [
-      "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate rev",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-    "target": "Google XCPE Android",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/"
-      }
-    ]
-  },
-  {
-    "id": "be5c7214868fc75c",
-    "date": "2026-11-02T17:54:22+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Mercado Bitcoin Suffers Cyberattack as Researchers Flag $40 Million in Suspicious Crypto Transfers",
-    "summary": "Brazilian cryptocurrency exchange Mercado Bitcoin suspended deposits and withdrawals on November 2, 2026, after detecting a security incident in one of its systems. Blockchain security firm Hypernative flagged more than $40 million in suspicious transfers across at least 10 blockchains, raising questions about the scope of the breach. The exchange has not confirmed that amount […] The post Mercado Bitcoin Suffers Cyberattack as Researchers Flag $40 Million in Suspicious Crypto Transfers appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Brazilian cryptocurrency exchange Mercado Bitcoin suspended deposits and withdrawals on November 2, 2026, after detecting a security incident in one of its systems.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/mercado-bitcoin-suffers-cyberattack/",
-    "target": "Mercado Bitcoin Suffers Cyberattack",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/mercado-bitcoin-suffers-cyberattack/"
-      }
-    ]
-  },
-  {
-    "id": "a504c59234ab5184",
-    "date": "2026-11-02T17:05:20+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Polymarket pledges to give $3.9 million back to victims after site compromise",
-    "summary": "In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime.",
-    "article_text": "",
-    "quick_summary": [
-      "In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise",
-    "target": "Polymarket 3.9",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise"
-      }
-    ]
-  },
-  {
-    "id": "484750e802a4fd6a",
-    "date": "2026-11-02T16:30:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Russia's statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers",
-    "summary": "An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.",
-    "article_text": "",
-    "quick_summary": [
-      "An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/hackers-ukraine-belarus-russia",
-    "target": "Russias Belarusian",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/hackers-ukraine-belarus-russia"
       }
     ]
   }
