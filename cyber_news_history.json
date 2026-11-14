@@ -1,36 +1,7 @@
 [
   {
-    "id": "0260d3bdf83c6e66",
-    "date": "2026-11-14T03:13:33.067602+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL LibreOffice Patches dBase RCE: Heap Overflow in Index Files Discovered by Hybrid AI-Human Team",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/libreoffice-patches-dbase-rce-heap-overflow-in-index-files-discovered-by-hybrid-ai-human-team",
-    "target": "CRITICAL LibreOffice Patches RCE",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/libreoffice-patches-dbase-rce-heap-overflow-in-index-files-discovered-by-hybrid-ai-human-team"
-      }
-    ]
-  },
-  {
     "id": "58b5d8acbd890f91",
-    "date": "2026-11-14T03:13:33.067483+00:00",
+    "date": "2026-11-14T10:27:16.414369+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -59,7 +30,7 @@
   },
   {
     "id": "d07e995c805f18c5",
-    "date": "2026-11-14T03:13:33.067367+00:00",
+    "date": "2026-11-14T10:27:16.414292+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +59,7 @@
   },
   {
     "id": "5ec9508e15b23753",
-    "date": "2026-11-14T03:13:33.067245+00:00",
+    "date": "2026-11-14T10:27:16.414197+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +88,7 @@
   },
   {
     "id": "54d3cddb72f5fd50",
-    "date": "2026-11-14T03:13:33.067129+00:00",
+    "date": "2026-11-14T10:27:16.414120+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +117,7 @@
   },
   {
     "id": "a3d83b0f1c98c056",
-    "date": "2026-11-14T03:13:33.067008+00:00",
+    "date": "2026-11-14T10:27:16.414052+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,13 +145,13 @@
     ]
   },
   {
-    "id": "5a9771c18e73b2e6",
-    "date": "2026-11-14T03:13:33.066891+00:00",
+    "id": "8aab806662090744",
+    "date": "2026-11-14T10:27:16.413975+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Home Assistant Green: Pwn2Own SSRF Disclosed as CVE-2026-91131 VULN CVE",
+    "title": "CVE CVE-2026-119618: Race Condition in Apache mod_http2 Enables RCE",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -188,23 +159,23 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-pwn2own-ssrf-disclosed-as-cve-2026-91131",
-    "target": "Home Assistant Green",
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-119618-race-condition-in-apache-modhttp2-enables-rce",
+    "target": "CVE CVE-2026-119618",
     "type": "Vulnerability",
-    "severity": "Medium",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-pwn2own-ssrf-disclosed-as-cve-2026-91131"
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-119618-race-condition-in-apache-modhttp2-enables-rce"
       }
     ]
   },
   {
     "id": "1796d7a325fb2d9f",
-    "date": "2026-11-14T03:13:33.066779+00:00",
+    "date": "2026-11-14T10:27:16.413902+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -233,7 +204,7 @@
   },
   {
     "id": "11070897a5b5a593",
-    "date": "2026-11-14T03:13:33.066667+00:00",
+    "date": "2026-11-14T10:27:16.413826+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +233,7 @@
   },
   {
     "id": "97d3b85da465c2a4",
-    "date": "2026-11-14T03:13:33.066549+00:00",
+    "date": "2026-11-14T10:27:16.413747+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -290,8 +261,37 @@
     ]
   },
   {
+    "id": "08102a5b5b4784a1",
+    "date": "2026-11-14T10:27:16.413668+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "LibreOffice Patches dBase RCE: Heap Overflow in Index Files Discovered by Hybrid AI-Human Team VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/libreoffice-patches-dbase-rce-heap-overflow-in-index-files-discovered-by-hybrid-ai-human-team",
+    "target": "LibreOffice Patches RCE",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/libreoffice-patches-dbase-rce-heap-overflow-in-index-files-discovered-by-hybrid-ai-human-team"
+      }
+    ]
+  },
+  {
     "id": "00509b4bab464147",
-    "date": "2026-11-14T03:13:33.066190+00:00",
+    "date": "2026-11-14T10:27:16.413498+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -320,7 +320,7 @@
   },
   {
     "id": "2e8d401df1e52132",
-    "date": "2026-11-14T03:13:33.066049+00:00",
+    "date": "2026-11-14T10:27:16.413419+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -348,8 +348,37 @@
     ]
   },
   {
+    "id": "9c78b131d8555353",
+    "date": "2026-11-14T10:27:16.413333+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "X.Org libX11: Heap Overflow RCE When the X11 Server Turns Attacker CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/xorg-libx11-heap-overflow-rce-when-the-x11-server-turns-attacker",
+    "target": "X.Org libX11",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/xorg-libx11-heap-overflow-rce-when-the-x11-server-turns-attacker"
+      }
+    ]
+  },
+  {
     "id": "3895d48922daae12",
-    "date": "2026-11-14T03:13:33.065005+00:00",
+    "date": "2026-11-14T10:27:16.412654+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -377,13 +406,13 @@
     ]
   },
   {
-    "id": "51377b4b0a732d21",
-    "date": "2026-11-14T03:13:33.064697+00:00",
+    "id": "3ddb3eaee7aec34c",
+    "date": "2026-11-14T10:27:16.412336+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 ZERO-DAY · 2 CVE IN THE LAST 24H →",
+    "title": "// 1 ZERO-DAY · 2 CVE · 1 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -392,7 +421,7 @@
       "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/threats",
-    "target": "ZERO-DAY CVE LAST",
+    "target": "ZERO-DAY CVE EXPLOIT",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -407,7 +436,7 @@
   },
   {
     "id": "1de8c46419c226ae",
-    "date": "2026-11-14T03:13:32.275157+00:00",
+    "date": "2026-11-14T10:27:15.264452+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -532,7 +561,7 @@
   },
   {
     "id": "b8e3ef80924b80b2",
-    "date": "2026-11-14T03:13:31.229618+00:00",
+    "date": "2026-11-14T10:27:13.735862+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -561,7 +590,7 @@
   },
   {
     "id": "d3c4d8bd3080e22e",
-    "date": "2026-11-14T03:13:31.229454+00:00",
+    "date": "2026-11-14T10:27:13.735745+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -590,7 +619,7 @@
   },
   {
     "id": "52d4f5c46bb11b14",
-    "date": "2026-11-14T03:13:31.229270+00:00",
+    "date": "2026-11-14T10:27:13.735618+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -627,7 +656,7 @@
   },
   {
     "id": "dc29506eaf4f564e",
-    "date": "2026-11-14T03:13:31.229028+00:00",
+    "date": "2026-11-14T10:27:13.735480+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -656,7 +685,7 @@
   },
   {
     "id": "80591ecf5965f373",
-    "date": "2026-11-14T03:13:31.228893+00:00",
+    "date": "2026-11-14T10:27:13.735383+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -685,7 +714,7 @@
   },
   {
     "id": "31600dac675cc9a0",
-    "date": "2026-11-14T03:13:31.228703+00:00",
+    "date": "2026-11-14T10:27:13.735249+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -714,7 +743,7 @@
   },
   {
     "id": "30d795b91d8018ad",
-    "date": "2026-11-14T03:13:31.228556+00:00",
+    "date": "2026-11-14T10:27:13.735143+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -743,7 +772,7 @@
   },
   {
     "id": "ea31778c84114a93",
-    "date": "2026-11-14T03:13:31.228410+00:00",
+    "date": "2026-11-14T10:27:13.735040+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -772,7 +801,7 @@
   },
   {
     "id": "441ca0a41353d159",
-    "date": "2026-11-14T03:13:31.228156+00:00",
+    "date": "2026-11-14T10:27:13.734855+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -801,7 +830,7 @@
   },
   {
     "id": "8e30ea4eaa13af47",
-    "date": "2026-11-14T03:13:31.227994+00:00",
+    "date": "2026-11-14T10:27:13.734754+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -830,7 +859,7 @@
   },
   {
     "id": "ad998a1d20d758f5",
-    "date": "2026-11-14T03:13:31.227850+00:00",
+    "date": "2026-11-14T10:27:13.734655+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -859,7 +888,7 @@
   },
   {
     "id": "46cf184d0ba2eeba",
-    "date": "2026-11-14T03:13:31.227704+00:00",
+    "date": "2026-11-14T10:27:13.734554+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -888,7 +917,7 @@
   },
   {
     "id": "2492515f0e520320",
-    "date": "2026-11-14T03:13:31.227560+00:00",
+    "date": "2026-11-14T10:27:13.734453+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -917,7 +946,7 @@
   },
   {
     "id": "c15c9f37e6912b8d",
-    "date": "2026-11-14T03:13:31.227352+00:00",
+    "date": "2026-11-14T10:27:13.734299+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -946,7 +975,7 @@
   },
   {
     "id": "8afd3cf201a693fe",
-    "date": "2026-11-14T03:13:31.227205+00:00",
+    "date": "2026-11-14T10:27:13.734185+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -975,7 +1004,7 @@
   },
   {
     "id": "eee619d2db0acd59",
-    "date": "2026-11-14T03:13:31.227032+00:00",
+    "date": "2026-11-14T10:27:13.734079+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1004,7 +1033,7 @@
   },
   {
     "id": "8686bd703869c691",
-    "date": "2026-11-14T03:13:31.226884+00:00",
+    "date": "2026-11-14T10:27:13.733972+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1033,7 +1062,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-11-14T03:13:31.226634+00:00",
+    "date": "2026-11-14T10:27:13.733791+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1062,7 +1091,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-11-14T03:13:31.225900+00:00",
+    "date": "2026-11-14T10:27:13.733257+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1091,7 +1120,7 @@
   },
   {
     "id": "d6a6ff103bdad8d0",
-    "date": "2026-11-14T03:13:31.032179+00:00",
+    "date": "2026-11-14T10:27:13.456120+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1120,7 +1149,7 @@
   },
   {
     "id": "7398b19113714990",
-    "date": "2026-11-14T03:13:31.032034+00:00",
+    "date": "2026-11-14T10:27:13.456040+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1149,7 +1178,7 @@
   },
   {
     "id": "52d43844000111e2",
-    "date": "2026-11-14T03:13:31.031911+00:00",
+    "date": "2026-11-14T10:27:13.455958+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1178,7 +1207,7 @@
   },
   {
     "id": "34592ef1e28bc1a2",
-    "date": "2026-11-14T03:13:31.031780+00:00",
+    "date": "2026-11-14T10:27:13.455871+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1207,7 +1236,7 @@
   },
   {
     "id": "283414000292ef0f",
-    "date": "2026-11-14T03:13:31.031660+00:00",
+    "date": "2026-11-14T10:27:13.455792+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1236,7 +1265,7 @@
   },
   {
     "id": "4650411e66754439",
-    "date": "2026-11-14T03:13:31.031532+00:00",
+    "date": "2026-11-14T10:27:13.455708+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1265,7 +1294,7 @@
   },
   {
     "id": "bb60a34f86a38ccf",
-    "date": "2026-11-14T03:13:31.031409+00:00",
+    "date": "2026-11-14T10:27:13.455629+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1294,7 +1323,7 @@
   },
   {
     "id": "9bdec00f1cfba22c",
-    "date": "2026-11-14T03:13:31.031280+00:00",
+    "date": "2026-11-14T10:27:13.455544+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1323,7 +1352,7 @@
   },
   {
     "id": "634e276d8a3fc86c",
-    "date": "2026-11-14T03:13:31.031144+00:00",
+    "date": "2026-11-14T10:27:13.455455+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1352,7 +1381,7 @@
   },
   {
     "id": "b3010b5b078dff00",
-    "date": "2026-11-14T03:13:31.030988+00:00",
+    "date": "2026-11-14T10:27:13.455366+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1381,7 +1410,7 @@
   },
   {
     "id": "481731137a93282c",
-    "date": "2026-11-14T03:13:31.030858+00:00",
+    "date": "2026-11-14T10:27:13.455278+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1410,7 +1439,7 @@
   },
   {
     "id": "18457e6801bb3b64",
-    "date": "2026-11-14T03:13:31.030733+00:00",
+    "date": "2026-11-14T10:27:13.455181+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1439,7 +1468,7 @@
   },
   {
     "id": "6ecb5206be4ce0f8",
-    "date": "2026-11-14T03:13:31.030604+00:00",
+    "date": "2026-11-14T10:27:13.455096+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1468,7 +1497,7 @@
   },
   {
     "id": "dfe3762e87590e93",
-    "date": "2026-11-14T03:13:31.030442+00:00",
+    "date": "2026-11-14T10:27:13.454989+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1497,7 +1526,7 @@
   },
   {
     "id": "413f9cb9da7ea50f",
-    "date": "2026-11-14T03:13:31.030317+00:00",
+    "date": "2026-11-14T10:27:13.454907+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1526,7 +1555,7 @@
   },
   {
     "id": "6f5da476da76d812",
-    "date": "2026-11-14T03:13:31.030191+00:00",
+    "date": "2026-11-14T10:27:13.454826+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1555,7 +1584,7 @@
   },
   {
     "id": "d418c8ef6f62f9a7",
-    "date": "2026-11-14T03:13:31.030024+00:00",
+    "date": "2026-11-14T10:27:13.454727+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1584,7 +1613,7 @@
   },
   {
     "id": "3417e2c137cb7815",
-    "date": "2026-11-14T03:13:31.029889+00:00",
+    "date": "2026-11-14T10:27:13.454638+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1613,7 +1642,7 @@
   },
   {
     "id": "a15c9acf1232791f",
-    "date": "2026-11-14T03:13:31.029750+00:00",
+    "date": "2026-11-14T10:27:13.454547+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1642,7 +1671,7 @@
   },
   {
     "id": "14ca692584383f37",
-    "date": "2026-11-14T03:13:31.029584+00:00",
+    "date": "2026-11-14T10:27:13.454434+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1671,7 +1700,7 @@
   },
   {
     "id": "99717d96f71b2edd",
-    "date": "2026-11-14T03:13:31.029439+00:00",
+    "date": "2026-11-14T10:27:13.454334+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1700,7 +1729,7 @@
   },
   {
     "id": "cc3e862bdfc279c2",
-    "date": "2026-11-14T03:13:31.029293+00:00",
+    "date": "2026-11-14T10:27:13.454211+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1729,7 +1758,7 @@
   },
   {
     "id": "73155bc5800f54c7",
-    "date": "2026-11-14T03:13:31.029156+00:00",
+    "date": "2026-11-14T10:27:13.454121+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1758,7 +1787,7 @@
   },
   {
     "id": "46631edb097f535e",
-    "date": "2026-11-14T03:13:31.028988+00:00",
+    "date": "2026-11-14T10:27:13.454015+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1795,7 +1824,7 @@
   },
   {
     "id": "d29a549c775ffe8f",
-    "date": "2026-11-14T03:13:31.028781+00:00",
+    "date": "2026-11-14T10:27:13.453843+00:00",
     "source": "Reddit r/netsec",
     "quality": "Medium",
     "scope": "Community",
@@ -1843,6 +1872,151 @@
     ]
   },
   {
+    "id": "512f488ebc1e24d0",
+    "date": "2026-11-14T09:09:31+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Cursor Reveals How a Leaked Fireworks AI Key Led to a Backdoored Claude Code Extension",
+    "summary": "Cursor has traced its October security breach to an access key exposed by Fireworks AI. The attacker used that key to steal historical coding agent records, find more credentials, and eventually place backdoored Claude Code extensions in Cursor’s marketplace cache. Its November 13 update connects the vendor exposure to the malicious packages discovered on October […] The post Cursor Reveals How a Leaked Fireworks AI Key Led to a Backdoored Claude Code Extension appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Cursor has traced its October security breach to an access key exposed by Fireworks AI.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/cursor-data-breach/",
+    "target": "Cursor Reveals Leaked Fireworks",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/cursor-data-breach/"
+      }
+    ]
+  },
+  {
+    "id": "de116203a9bd98bf",
+    "date": "2026-11-14T08:40:22+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+    "summary": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+    "target": "Signs FAA Ground Stop",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/"
+      }
+    ]
+  },
+  {
+    "id": "2be0fdad7680f17e",
+    "date": "2026-11-14T03:47:33+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "CISA Warns of Check Point 0-Day Vulnerability Exploited to Gain Root Access",
+    "summary": "CISA has warned that attackers are exploiting a Check Point security flaw that lets a local user gain root access on affected appliances. The agency added CVE-2026-123039 to its Known Exploited Vulnerabilities catalog on November 13, 2026, confirming that the vulnerability is being used in real attacks. Check Point said it observed exploitation against “a […] The post CISA Warns of Check Point 0-Day Vulnerability Exploited to Gain Root Access appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "CISA has warned that attackers are exploiting a Check Point security flaw that lets a local user gain root access on affected appliances.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/check-point-0-day-vulnerability/",
+    "target": "CISA Check Point 0-Day",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/check-point-0-day-vulnerability/"
+      }
+    ]
+  },
+  {
+    "id": "5a9771c18e73b2e6",
+    "date": "2026-11-14T03:13:33.066891+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Home Assistant Green: Pwn2Own SSRF Disclosed as CVE-2026-91131 VULN CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-pwn2own-ssrf-disclosed-as-cve-2026-91131",
+    "target": "Home Assistant Green",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/home-assistant-green-pwn2own-ssrf-disclosed-as-cve-2026-91131"
+      }
+    ]
+  },
+  {
+    "id": "51377b4b0a732d21",
+    "date": "2026-11-14T03:13:33.064697+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 ZERO-DAY · 2 CVE IN THE LAST 24H →",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/threats",
+    "target": "ZERO-DAY CVE LAST",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/threats"
+      }
+    ]
+  },
+  {
     "id": "c782b6a3c6d65934",
     "date": "2026-11-14T01:19:57+00:00",
     "source": "Cyber Security News",
@@ -1868,35 +2042,6 @@
       {
         "source": "Cyber Security News",
         "url": "https://cybersecuritynews.com/uber-confirms-data-breach/"
-      }
-    ]
-  },
-  {
-    "id": "3ddb3eaee7aec34c",
-    "date": "2026-11-13T22:37:05.020054+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "// 1 ZERO-DAY · 3 CVE · 1 EXPLOIT IN THE LAST 24H →",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/threats",
-    "target": "ZERO-DAY CVE EXPLOIT",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/threats"
       }
     ]
   },
@@ -2966,7 +3111,7 @@
     "category": "",
     "title": "Microsoft says November security updates cause printing issues",
     "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-    "article_text": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. As the company explained in a service alert seen by BleepingComputer, this known issue affects users attempting to print documents with images that have zero height or width on server (Windows Server 2016 or later) and client (Windows 10 or later) devices. \"After installing the November 2026 Windows security update (the Originating KBs listed above), or later updates, printing might fail for documents containing images rendered with a height or width value of zero at the selected printing resolution,\" Microsoft said. \"These images can be used as part of certain complex document formatting, such as adding \"invisible\" images intended to serve as a document watermark, layout anchoring, or generation tools that may inserting images objects even when no graphic present.\" The bug mainly affects users printing Microsoft Word documents via the Windows Graphics Device Interface (GDI), but it may also trigger failures when printing from other applications. Microsoft also addressed printing issues triggered by Windows updates in March and July 2025: the first caused USB printers to print random text , and the second broke the 'Print to PDF' feature . More recently, the company notified customers that the August 2026 .NET Framework cumulative updates broke printing and PDF export in apps that use the Windows Presentation Foundation (WPF) UI framework. This week, Microsoft also confirmed that this month's Patch Tuesday security updates trigger Windows activation and licensing failures with 0x80041008 error codes and that Windows updates released since the October Patch Tuesday cause SQL Server performance and stability issues . Additionally, the company warned that the November 2026 Windows 11 security updates fail to install on systems with the October 2026 preview update. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Microsoft confirms Windows activation failures after November updates Microsoft: Recent Windows updates cause SQL Server performance issues Microsoft fixes audio issues caused by September security updates Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts Microsoft: September updates cause RDS failures on Windows Server Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day Microsoft confirms Windows security updates installation issues For AI agents, the sky’s the limit. Identity gets them there. See Token Security in action. The largest Chinese-Language 'Guarantee' (担保) markets process billions of dollars in illicit transactions. Are you paying attention? Everything you need to build, deploy, and monitor AI agents across your GRC program. What if threat actors compromise your endpoint management platform? Action1's Endpoint Takeover Prevention (ETP) stops them from taking control of your endpoints. Download the AI Playbook to see how MSPs cut resolution times and protect client renewals. Monitor, analyze, and promptly mitigate risks across your external digital landscape with the CTM360. Join our Community Edition. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. As the company explained in a service alert seen by BleepingComputer, this known issue affects users attempting to print documents with images that have zero height or width on server (Windows Server 2016 or later) and client (Windows 10 or later) devices. \"After installing the November 2026 Windows security update (the Originating KBs listed above), or later updates, printing might fail for documents containing images rendered with a height or width value of zero at the selected printing resolution,\" Microsoft said. \"These images can be used as part of certain complex document formatting, such as adding \"invisible\" images intended to serve as a document watermark, layout anchoring, or generation tools that may inserting images objects even when no graphic present.\" The bug mainly affects users printing Microsoft Word documents via the Windows Graphics Device Interface (GDI), but it may also trigger failures when printing from other applications. Microsoft also addressed printing issues triggered by Windows updates in March and July 2025: the first caused USB printers to print random text , and the second broke the 'Print to PDF' feature . More recently, the company notified customers that the August 2026 .NET Framework cumulative updates broke printing and PDF export in apps that use the Windows Presentation Foundation (WPF) UI framework. This week, Microsoft also confirmed that this month's Patch Tuesday security updates trigger Windows activation and licensing failures with 0x80041008 error codes and that Windows updates released since the October Patch Tuesday cause SQL Server performance and stability issues . Additionally, the company warned that the November 2026 Windows 11 security updates fail to install on systems with the October 2026 preview update. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Microsoft confirms Windows activation failures after November updates Microsoft: Recent Windows updates cause SQL Server performance issues Microsoft fixes audio issues caused by September security updates Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts Microsoft: September updates cause RDS failures on Windows Server If printing broke right after the November update, check whether it's this: Microsoft confirmed (alert WI1549472) that documents containing images rendered with zero height or width at the print resolution fail to print — mainly Word via GDI. The images are often invisible (watermarks, layout anchors, doc-generation tools). Your printer is fine. Two things that help: remove the zero-size objects from the document/template, or export to PDF and print the PDF. Don't uninstall the security update over it. Full write-up: https://debugradar.com/fix-word-wont-print-after-november-update/ Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide Microsoft confirms Windows security updates installation issues Active ScreenConnect attacks breach MSPs, impact dozens of organizations Monitor, analyze, and promptly mitigate risks across your external digital landscape with the CTM360. Join our Community Edition. Everything you need to build, deploy, and monitor AI agents across your GRC program. Download the AI Playbook to see how MSPs cut resolution times and protect client renewals. What if threat actors compromise your endpoint management platform? Action1's Endpoint Takeover Prevention (ETP) stops them from taking control of your endpoints. The largest Chinese-Language 'Guarantee' (担保) markets process billions of dollars in illicit transactions. Are you paying attention? For AI agents, the sky’s the limit. Identity gets them there. See Token Security in action. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting.",
       "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
@@ -4512,6 +4657,35 @@
       {
         "source": "Zero Day Initiative",
         "url": "http://www.zerodayinitiative.com/advisories/ZDI-26-985/"
+      }
+    ]
+  },
+  {
+    "id": "d86928a89cf6d0c0",
+    "date": "2026-11-13T06:00:00+00:00",
+    "source": "CrowdStrike Blog",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "Inside Falcon AI Gateway: One Control Point for AI Traffic",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
+    "target": "Inside Falcon Gateway",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "CrowdStrike Blog"
+    ],
+    "links": [
+      {
+        "source": "CrowdStrike Blog",
+        "url": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/"
       }
     ]
   },
@@ -26934,185 +27108,6 @@
       {
         "source": "SANS ISC",
         "url": "https://isc.sans.edu/diary/rss/33482"
-      }
-    ]
-  },
-  {
-    "id": "80717cfb7ffab4a9",
-    "date": "2026-11-02T14:46:05+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-    "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud",
-    "article_text": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud environment in the Kurdistan Region. The activity has been attributed to a threat actor known as DarkBlinders , an Iran-nexus group assessed to be active since at least September 2024 and linked to attacks aimed at aviation infrastructure and telecommunications in the U.A.E. and Iraq. It exhibits no technical overlap with other known hacking groups. Attacks mounted by the group are known to rely on spear-phishing as an initial access pathway to lure recipients into opening trojanized utilities or clicking on attacker-controlled websites that host similar tools as direct downloads. Previous attack chains documented by Elastic Security Labs and Group-IB have led to the deployment of SHELBYLOADER (aka HOTAIR), which is launched via DLL sideloading to ultimately execute a backdoor called SHELBYC2 (aka AEROSTAT) that uses GitHub for command-and-control (C2), data exfiltration, and remote control. Elastic is tracking the threat cluster under the moniker REF8685. Then early last month, Palo Alto Networks shed light on a campaign dubbed Blinder Tunnel in which the threat actor, which it calls CL-STA-1178, was observed masquerading as the Dubai Airports IT department to distribute malware-laced coding challenges to high-value targets. The bogus recruitment scheme was first detected in late March 2026, although evidence indicates that the attackers were staging and testing attack infrastructure as far back as November 2025. The social engineering campaign is assessed to have approached specific targets with lucrative job offers to trick them into executing a self-contained application that mimicked a career portal and instructed them to complete a questionnaire. Submitting the questionnaire does not cause any data to be exfiltrated or initiate any response from an external domain. Instead, it's meant to serve as a harmless decoy and build credibility before delivering the next stage payload containing the malware in the form of a Microsoft Visual Studio project archive that's dressed up as a coding assessment. The attack chain makes use of three techniques to establish persistent access: A malicious C# project \".csproj\" file is used to trigger AppDomainManager injection , followed by DLL sideloading to deliver an updated version of SHELBYLOADER (aka ShelbyLoader V2), which then launches SHELBYC2. Also deployed via SHELBYC2 is a tunneling utility called Blackwood. \"The attackers behind the activity used tailored social engineering techniques to masquerade as Dubai Airports recruiters, using a trojanized Visual Studio coding challenge to target a high-value job seeker based in Iraq,\" Unit 42 said . \"The campaign is characterized by misuse of built-in developer tools and DLL sideloading. Attackers also used AppDomainManager hijacking to bypass security monitors like ETW [Event Tracing for Windows].\" The latest findings from Dream show that the threat actor continues to rely on social engineering, while combining both credential phishing and malware delivery. This involves the use of government, webmail, and cloud-service lookalike domains to collect credentials or present attacker-controlled file downloads. Some of the highlighted domains include - The threat actor has also been observed setting decoy brand domains for a fake videoconferencing application called StarkMeet (stark-meet[.]com, stark-meet[.]online, and stark-meet[.]website). Installing and launching the app leads to the execution of ShelbyLoader V2 and SHELBYC2. The development is also a sign that the threat actor is trying out different methods for malware delivery, ranging from coding assessments to counterfeit software. Dream said the DarkBlinders activity belongs to the same operational cluster as UNC5795 and Dust Specter, citing infrastructure and malware overlaps. Dust Specter, documented by Zscaler in March 2026, refers to a suspected Iran-nexus operation targeting government officials in Iraq by impersonating the country's Ministry of Foreign Affairs. \"Historical server fingerprints, overlapping victimology, and supporting attribution research lead us to assess with me",
-    "quick_summary": [
-      "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.",
-      "Risk: credentials/infostealer risk, ISNET vendor relevance",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-    "target": "DarkBlinders Compromises Israeli Target",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html"
-      }
-    ]
-  },
-  {
-    "id": "17c37f6d8d532838",
-    "date": "2026-11-02T14:44:18+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
-    "summary": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
-    "target": "Florida Student Aid Website",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/"
-      }
-    ]
-  },
-  {
-    "id": "25d7d04498239fc6",
-    "date": "2026-11-02T14:42:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Apple warns users in 99 countries of mercenary spyware",
-    "summary": "Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of mercenary spyware attacks [which] make them some of the most advanced digital threats in existence today.”",
-    "article_text": "",
-    "quick_summary": [
-      "Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of mercenary spyware attacks [wh",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware",
-    "target": "Apple",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "The Record",
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware"
-      },
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/apple-macos-malicious-font-exploits-coretext-out-of-bounds-read-to-leak-process-memory"
-      }
-    ]
-  },
-  {
-    "id": "f268a87dcb2b7bec",
-    "date": "2026-11-02T14:30:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings",
-    "summary": "A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation.",
-    "article_text": "",
-    "quick_summary": [
-      "A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/ukraine-hackers-russia-alert-system",
-    "target": "Russian Ukrainian",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/ukraine-hackers-russia-alert-system"
-      }
-    ]
-  },
-  {
-    "id": "4dd0e88bba5c6bec",
-    "date": "2026-11-02T14:28:39+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers disrupt refrigeration systems at European supermarkets",
-    "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
-    "article_text": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. In some cases, hackers shut down refrigerators or activated defrosting systems, causing temperatures to rise, resulting in significant product losses and forcing store managers to intervene early in the morning. Refrigeration failures were identified at dozens of supermarkets, but it is unclear whether they were hit in a coordinated attack or targeted individually. More than 115 stores in Belgium, the Netherlands, Sweden, Luxembourg, Ireland, and Estonia have been affected. Spokespersons for multiple chains confirmed the issues in statements for BleepingComputer. Supermarket chains that acknowledged refrigeration issues include: In the Netherlands, at least 17 butcher shops and neighborhood stores have been affected. Additional stores are dealing with the same problems in Belgium, including an Ikea superstore in Mons, grocery stores, and chocoloate shops. Spokespersons for ICA, Ahold Delhaize, and Spar Colruyt told BleepingComputer that their companies are providing support to affected stores and working to resolve the situation. “We can confirm that we have been informed of an incident overnight affecting a small number of ICA stores operating outside ICA’s central network,” stated ICA’s press officer. “The incident impacted the stores’ refrigeration and freezer systems. ICA is currently supporting the affected stores in managing the situation.” A representative of the Colruyt Group told BleepingComputer that \"there is an impact on the refrigeration systems at around five Spar stores.\" \"These stores are operated by independent entrepreneurs who have their own refrigeration systems. We are currently doing everything we can to resolve the issue.\" In a statement for BleepingComputer, Ahold Delhaize stated that refrigeration systems at several dozen stores have been impacted by an IT incident. “We have identified an IT incident affecting the refrigeration systems in several dozen stores,” the company's communications department said, adding that the company \"immediately took the necessary measures to keep our stores operational.\" A spokesperson for Coop, one of the largest grocery store chains in Sweden, said that refrigeration units at a small number of stores were impacted, and in once case the system started to generate heat. \"We can confirm that a small number of stores were affected overnight into Monday - specifically 7 out of more than 800 stores,\" Coop told BleepingComputer. \"The situation is currently contained and under control. The issues have ranged from completely shut-down refrigerators and freezers to partially functioning units, and in one case, the system beginning to generate heat.\" In Belgium, only Carrefour stores in two regions were affected, and all hypermarkets remained completely operational. \"The impact at Carrefour is very limited: currently 15 of our 700 stores are affected, both in Flanders and Wallonia,\" Carrefour stated. \"Not a single hypermarket is among them. All stores remain open because it only concerns a few refrigeration units, mainly freezers. Quick action was taken so that all stores can stay open.\" An ICA store manager told TV4 that temperature settings had been changed overnight to +50°C (122°F) and could not be modified, forcing the store to discard frozen food. According to RTL media publication, Ahold Delhaize warned managers by SMS around 4 a.m. about refrigeration issues, and some stores used refrigerated trucks to try to preserve stock. The publication also identified Sabcobel as the vendor of refrigeration systems across several of the impacted locations. According to Sabcobel's director, Stephan Moelans, the attacker leveraged the same vulnerability used in similar attacks last month in France . Moelans said that technicians started disconnecting affected installations since 1a.m. and attributed the disruption to remotely activated defrost functions. Although the company tried to protect customer's systems, a simple software update is not enough, as refrigerators also require physical modifications. \"The simplest solution is to manage the refrigerators via a secure internet connection. Most of our clients have adopted this solution since the attack in France,\" Moelans told RTL . BleepingComputer has contacted Sabcobel to learn more about the incident and its lev",
-    "quick_summary": [
-      "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-    "target": "European",
-    "type": "Vulnerability",
-    "severity": "High",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
-      }
-    ]
-  },
-  {
-    "id": "8be179c04e64937f",
-    "date": "2026-11-02T14:01:36+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "BITTER APT Using Fake Diplomatic Documents to Deliver PapRAT Spyware",
-    "summary": "FortiGuard Labs links BITTER to cyberespionage attacks on South Asian organizations using malicious Windows shortcuts, PowerShell scripts, and PapRAT malware.",
-    "article_text": "",
-    "quick_summary": [
-      "FortiGuard Labs links BITTER to cyberespionage attacks on South Asian organizations using malicious Windows shortcuts, PowerShell scripts, and PapRAT malware.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/bitter-apt-fake-diplomatic-documents-paprat-spyware/",
-    "target": "BITTER APT Fake Diplomatic",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/bitter-apt-fake-diplomatic-documents-paprat-spyware/"
       }
     ]
   }
