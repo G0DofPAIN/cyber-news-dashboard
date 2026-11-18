@@ -1,41 +1,7 @@
 [
   {
-    "id": "5199ce714e86e07d",
-    "date": "2026-11-18T01:20:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Uber says nearly 150,000 impacted by third-party breach",
-    "summary": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
-    "article_text": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. In breach notification letters sent to affected individuals on November 10, Uber said threat actors accessed their personal information after breaching an Uber account with a third-party service provider. While Uber didn't share the total number of affected drivers in these letters, it revealed in a filing with Maine's Office of the Attorney General that the data breach has exposed the information of 149,346 drivers, including their names, driver’s license numbers, dates of birth, and addresses. After being informed of the breach, Uber launched an investigation and severed data connections with the service provider to block further malicious access to its data. \"On October 9, 2026, a service provider notified Uber that an unauthorized third party had compromised the service provider's internal credentials and used them to access Uber's account with the service provider,\" Uber said. \"After being notified of this incident, Uber immediately severed data connections with the service provider and launched an investigation. On October 13, 2026, our investigation determined that the unauthorized party had used the compromised credentials to access Uber data connected to the service provider.\" Although the company didn't directly name the hacked service provider, TechCrunch first reported that the Uber data breach stems from an October 24 security incident at AI training provider Fireworks , which was hacked after a third-party cloud provider hack. Fireworks has attributed the attack to a financially motivated cybercriminal threat actor group linked to a series of large language model hijacking (LLMjacking) attacks. The Fireworks breach also led to security incidents at AI coding platform Cursor and digital workspace platform Notion , which also reported that the attackers stole data from a limited number of customers and (in Cursor's case) infected users' devices with backdoor malware. An Uber spokesperson was not immediately available for comment when BleepingComputer reached out for more information about the data breach. The company disclosed another data breach in December 2022 after a threat actor leaked IT asset information, employees' email addresses, and corporate reports stolen from third-party service provider Teqtivity. Uber previously confirmed that hackers who breached some of its systems in October 2016 stole data from 50 million users and 7 million drivers, and that the Lapsus$ extortion group also hacked it in September 2022 in an MFA fatigue attack using the stolen credentials of an Uber EXT contractor. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. UK Legal Aid Agency: Hackers stole records dating back to 1978 Notion says Fireworks breach exposed customer AI chat transcripts Binance denies data breach after alleged ShinyHunters claims Chainalysis says breach exposed credentials for all customers Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware Cursor confirms security breach led to malicious Claude Code extension FBI warns ARTEX AI hacking tool is powering global cyberattacks The largest Chinese-Language 'Guarantee' (担保) markets process billions of dollars in illicit transactions. Are you paying attention? Overdue a password health-check? Audit your Active Directory for free Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. For AI agents, the sky’s the limit. Identity gets them there. See Token Security in action. What if threat actors compromise your endpoint management platform? Action1's Endpoint Takeover Prevention (ETP) stops them from taking control of your endpoints. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
-      "Risk: credentials/infostealer risk",
-      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
-    ],
-    "link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
-    "target": "Uber 150000",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Record",
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/"
-      }
-    ]
-  },
-  {
     "id": "5cc8e33a7b45fcfd",
-    "date": "2026-11-17T22:22:37.633639+00:00",
+    "date": "2026-11-18T04:19:20.776752+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -64,7 +30,7 @@
   },
   {
     "id": "c44a079cbfeba263",
-    "date": "2026-11-17T22:22:37.633543+00:00",
+    "date": "2026-11-18T04:19:20.776687+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -93,7 +59,7 @@
   },
   {
     "id": "6ec0473ada287ca2",
-    "date": "2026-11-17T22:22:37.633447+00:00",
+    "date": "2026-11-18T04:19:20.776624+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -122,7 +88,7 @@
   },
   {
     "id": "084e57246167129c",
-    "date": "2026-11-17T22:22:37.633349+00:00",
+    "date": "2026-11-18T04:19:20.776560+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -151,7 +117,7 @@
   },
   {
     "id": "ba3623938417e67f",
-    "date": "2026-11-17T22:22:37.633255+00:00",
+    "date": "2026-11-18T04:19:20.776499+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -180,7 +146,7 @@
   },
   {
     "id": "85f6b606c300d9ea",
-    "date": "2026-11-17T22:22:37.633162+00:00",
+    "date": "2026-11-18T04:19:20.776438+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -209,7 +175,7 @@
   },
   {
     "id": "06c4ba404b4d9994",
-    "date": "2026-11-17T22:22:37.633066+00:00",
+    "date": "2026-11-18T04:19:20.776376+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -238,7 +204,7 @@
   },
   {
     "id": "1c22aed2deca8663",
-    "date": "2026-11-17T22:22:37.632940+00:00",
+    "date": "2026-11-18T04:19:20.776295+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -267,7 +233,7 @@
   },
   {
     "id": "b579982f46788649",
-    "date": "2026-11-17T22:22:37.632848+00:00",
+    "date": "2026-11-18T04:19:20.776237+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -296,7 +262,7 @@
   },
   {
     "id": "14f0970687e9e56d",
-    "date": "2026-11-17T22:22:37.632744+00:00",
+    "date": "2026-11-18T04:19:20.776172+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -325,7 +291,7 @@
   },
   {
     "id": "22434b458ca5f540",
-    "date": "2026-11-17T22:22:37.632492+00:00",
+    "date": "2026-11-18T04:19:20.776037+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -354,7 +320,7 @@
   },
   {
     "id": "d5428a41da5e51dd",
-    "date": "2026-11-17T22:22:37.632386+00:00",
+    "date": "2026-11-18T04:19:20.775969+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -383,7 +349,7 @@
   },
   {
     "id": "f4b1bcde687200f5",
-    "date": "2026-11-17T22:22:37.632275+00:00",
+    "date": "2026-11-18T04:19:20.775898+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -412,7 +378,7 @@
   },
   {
     "id": "082a0e89e415e286",
-    "date": "2026-11-17T22:22:37.631676+00:00",
+    "date": "2026-11-18T04:19:20.775530+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -441,7 +407,7 @@
   },
   {
     "id": "5c78c524b0e9dba7",
-    "date": "2026-11-17T22:22:37.631569+00:00",
+    "date": "2026-11-18T04:19:20.775462+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -470,7 +436,7 @@
   },
   {
     "id": "2889e15eef615776",
-    "date": "2026-11-17T22:22:37.631459+00:00",
+    "date": "2026-11-18T04:19:20.775388+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -499,12 +465,12 @@
   },
   {
     "id": "3ddb3eaee7aec34c",
-    "date": "2026-11-17T22:22:37.631086+00:00",
+    "date": "2026-11-18T04:19:20.775097+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 ZERO-DAY · 3 CVE · 2 EXPLOIT IN THE LAST 24H →",
+    "title": "// 1 ZERO-DAY · 2 CVE · 2 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -528,7 +494,7 @@
   },
   {
     "id": "3518f8def66d9d5b",
-    "date": "2026-11-17T22:22:36.178417+00:00",
+    "date": "2026-11-18T04:19:19.526329+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -657,7 +623,7 @@
   },
   {
     "id": "8686bd703869c691",
-    "date": "2026-11-17T22:22:30.083317+00:00",
+    "date": "2026-11-18T04:19:18.157048+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -686,7 +652,7 @@
   },
   {
     "id": "509b6940967646cb",
-    "date": "2026-11-17T22:22:30.083201+00:00",
+    "date": "2026-11-18T04:19:18.156972+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -715,7 +681,7 @@
   },
   {
     "id": "433b34e70bd047f4",
-    "date": "2026-11-17T22:22:30.083076+00:00",
+    "date": "2026-11-18T04:19:18.156892+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -733,8 +699,7 @@
     "type": "General Cybersecurity",
     "severity": "Critical",
     "sources": [
-      "CyberNews Security",
-      "BleepingComputer"
+      "CyberNews Security"
     ],
     "links": [
       {
@@ -757,7 +722,7 @@
   },
   {
     "id": "ebb8fe9db866be27",
-    "date": "2026-11-17T22:22:30.082909+00:00",
+    "date": "2026-11-18T04:19:18.156813+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -786,7 +751,7 @@
   },
   {
     "id": "88824e3ecff0cfac",
-    "date": "2026-11-17T22:22:30.082774+00:00",
+    "date": "2026-11-18T04:19:18.156728+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -815,7 +780,7 @@
   },
   {
     "id": "a38db1d26a673900",
-    "date": "2026-11-17T22:22:30.082566+00:00",
+    "date": "2026-11-18T04:19:18.156622+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -844,7 +809,7 @@
   },
   {
     "id": "ca8ae3fbdcd70d93",
-    "date": "2026-11-17T22:22:30.082437+00:00",
+    "date": "2026-11-18T04:19:18.156539+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -873,7 +838,7 @@
   },
   {
     "id": "6f7741f7ddde374c",
-    "date": "2026-11-17T22:22:30.082290+00:00",
+    "date": "2026-11-18T04:19:18.156446+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -902,7 +867,7 @@
   },
   {
     "id": "0829f75c59787caa",
-    "date": "2026-11-17T22:22:30.082137+00:00",
+    "date": "2026-11-18T04:19:18.156345+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -931,7 +896,7 @@
   },
   {
     "id": "fecd9df564f4fb3e",
-    "date": "2026-11-17T22:22:30.082009+00:00",
+    "date": "2026-11-18T04:19:18.156254+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -960,7 +925,7 @@
   },
   {
     "id": "1a4712228ff082e5",
-    "date": "2026-11-17T22:22:30.081873+00:00",
+    "date": "2026-11-18T04:19:18.156172+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -989,7 +954,7 @@
   },
   {
     "id": "fa9ec71d1157ba24",
-    "date": "2026-11-17T22:22:30.081603+00:00",
+    "date": "2026-11-18T04:19:18.155995+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1018,7 +983,7 @@
   },
   {
     "id": "c04293dbcce5af1e",
-    "date": "2026-11-17T22:22:30.081451+00:00",
+    "date": "2026-11-18T04:19:18.155896+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1047,7 +1012,7 @@
   },
   {
     "id": "60eb69de065fbc0b",
-    "date": "2026-11-17T22:22:30.081330+00:00",
+    "date": "2026-11-18T04:19:18.155816+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1076,7 +1041,7 @@
   },
   {
     "id": "43c047874b5991ab",
-    "date": "2026-11-17T22:22:30.081204+00:00",
+    "date": "2026-11-18T04:19:18.155735+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1105,7 +1070,7 @@
   },
   {
     "id": "5e122bf9fe3a3064",
-    "date": "2026-11-17T22:22:30.081071+00:00",
+    "date": "2026-11-18T04:19:18.155648+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1134,7 +1099,7 @@
   },
   {
     "id": "7ba9ee69d63b56c9",
-    "date": "2026-11-17T22:22:30.080904+00:00",
+    "date": "2026-11-18T04:19:18.155548+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1163,7 +1128,7 @@
   },
   {
     "id": "4e7b090cd8f23c55",
-    "date": "2026-11-17T22:22:30.080774+00:00",
+    "date": "2026-11-18T04:19:18.155461+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1192,7 +1157,7 @@
   },
   {
     "id": "d1591be89a347cd5",
-    "date": "2026-11-17T22:22:30.080648+00:00",
+    "date": "2026-11-18T04:19:18.155375+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1221,7 +1186,7 @@
   },
   {
     "id": "a91deedf2035bd43",
-    "date": "2026-11-17T22:22:30.080507+00:00",
+    "date": "2026-11-18T04:19:18.155260+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1250,7 +1215,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-11-17T22:22:30.080276+00:00",
+    "date": "2026-11-18T04:19:18.155093+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1279,7 +1244,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-11-17T22:22:30.079663+00:00",
+    "date": "2026-11-18T04:19:18.154671+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1303,6 +1268,517 @@
       {
         "source": "CyberNews Security",
         "url": "https://cybernews.com/personal-data-leak-check/"
+      }
+    ]
+  },
+  {
+    "id": "c1ee07827e45fcb6",
+    "date": "2026-11-18T03:35:31+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Flipper Devices Launches Flipper One Linux-based Multi-tool With Advanced Network Security Tools",
+    "summary": "Flipper Devices has launched a Kickstarter campaign for Flipper One, a portable Linux computer built for network testing, hardware projects, and security research. Backing starts at $399, with shipping estimated for July 2027. The campaign runs from November 17 through December 17, 2026, making this a crowdfunding launch rather than immediate retail availability. The device […] The post Flipper Devices Launches Flipper One Linux-based Multi-tool With Advanced Network Security Tools appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Flipper Devices has launched a Kickstarter campaign for Flipper One, a portable Linux computer built for network testing, hardware projects, and security research.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/flipper-one-linux-multi-tool/",
+    "target": "Flipper Devices Launches Flipper",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/flipper-one-linux-multi-tool/"
+      }
+    ]
+  },
+  {
+    "id": "cf596053bd971d60",
+    "date": "2026-11-18T03:30:19+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Microsoft’s Agent Framework PyPI Package Hacked to Steal Azure and GitHub Credentials",
+    "summary": "Hackers published two malicious versions of Microsoft’s agent-framework package on the Python Package Index (PyPI) on November 17, 2026. Versions 1.26.1 and 1.26.2 contained a credential stealer that could run during normal Python startup, even if an application never imported Agent Framework. The malware targeted Azure identities, GitHub credentials, and secrets used in automated builds. […] The post Microsoft’s Agent Framework PyPI Package Hacked to Steal Azure and GitHub Credentials appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Hackers published two malicious versions of Microsoft’s agent-framework package on the Python Package Index (PyPI) on November 17, 2026.",
+      "Risk: credentials/infostealer risk, ISNET vendor relevance",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://cybersecuritynews.com/microsofts-agent-framework-pypi-package/",
+    "target": "Microsofts Agent Framework PyPI",
+    "type": "Malware",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/microsofts-agent-framework-pypi-package/"
+      }
+    ]
+  },
+  {
+    "id": "c167e9ba817bec4a",
+    "date": "2026-11-18T02:52:04+00:00",
+    "source": "KrebsOnSecurity",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+    "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC, CNN, Equifax, Ledger and Zoom, was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content.",
+    "article_text": "",
+    "quick_summary": [
+      "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize ",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+    "target": "Attackers Optimizely Test Malware",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "KrebsOnSecurity"
+    ],
+    "links": [
+      {
+        "source": "KrebsOnSecurity",
+        "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
+      }
+    ]
+  },
+  {
+    "id": "18d2834c08177e9d",
+    "date": "2026-11-18T02:26:29+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Critical Java4Shell Flaw Lets Hackers Execute Code Without Authentication on OpenJDK Servers",
+    "summary": "A critical flaw in OpenJDK’s Base64 decoder can let a remote attacker run code on an affected server without signing in. The vulnerability, dubbed Java4Shell and tracked as CVE-2026-114938, can also crash the Java Virtual Machine (JVM) or expose sensitive data held in its memory. Oracle released security updates on November 17, 2026, and the […] The post Critical Java4Shell Flaw Lets Hackers Execute Code Without Authentication on OpenJDK Servers appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A critical flaw in OpenJDK’s Base64 decoder can let a remote attacker run code on an affected server without signing in.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/java4shell/",
+    "target": "Critical Java4Shell Lets Execute",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/java4shell/"
+      }
+    ]
+  },
+  {
+    "id": "266eb2602b26288e",
+    "date": "2026-11-18T02:15:07+00:00",
+    "source": "SecurityWeek",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+    "summary": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on SecurityWeek .",
+    "article_text": "",
+    "quick_summary": [
+      "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+    "target": "Classified Communications Network National",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SecurityWeek"
+    ],
+    "links": [
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/"
+      }
+    ]
+  },
+  {
+    "id": "86af3d9c7b0d6abb",
+    "date": "2026-11-18T02:00:03+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33528",
+    "target": "ISC Stormcast Wednesday November",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33528"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33524"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33520"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33516"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33512"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33510"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33504"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33500"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33494"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33490"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33486"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33484"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33480"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33472"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33468"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33464"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33462"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33456"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33438"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33436"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33432"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33428"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33424"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33418"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33416"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33412"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33408"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33404"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33402"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33398"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33390"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33386"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33384"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33378"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33374"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33370"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33364"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33356"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33354"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33350"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33342"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33346"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33362"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33338"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33334"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33330"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33328"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33322"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33316"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33310"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33308"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33304"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33302"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33446"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33448"
+      }
+    ]
+  },
+  {
+    "id": "6c9d4b64dde77288",
+    "date": "2026-11-18T01:53:03+00:00",
+    "source": "Cisco Talos",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA",
+    "summary": "Cisco Talos is tracking the disclosure of a critical vulnerability in OpenJDK Java (CVE-2026-114938), dubbed “Java4Shell,” with a CVSS 4.0 score of 9.2 that may lead to unauthenticated remote code execution (RCE).",
+    "article_text": "",
+    "quick_summary": [
+      "Cisco Talos is tracking the disclosure of a critical vulnerability in OpenJDK Java (CVE-2026-114938), dubbed “Java4Shell,” with a CVSS 4.0 score of 9.2 that may lead to unauthenticated remote code execution (RCE).",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://blog.talosintelligence.com/java4shell/",
+    "target": "CVE-2026-114938",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cisco Talos"
+    ],
+    "links": [
+      {
+        "source": "Cisco Talos",
+        "url": "https://blog.talosintelligence.com/java4shell/"
+      }
+    ]
+  },
+  {
+    "id": "5199ce714e86e07d",
+    "date": "2026-11-18T01:20:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Uber says nearly 150,000 impacted by third-party breach",
+    "summary": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
+    "article_text": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. In breach notification letters sent to affected individuals on November 10, Uber said threat actors accessed their personal information after breaching an Uber account with a third-party service provider. While Uber didn't share the total number of affected drivers in these letters, it revealed in a filing with Maine's Office of the Attorney General that the data breach has exposed the information of 149,346 drivers, including their names, driver’s license numbers, dates of birth, and addresses. After being informed of the breach, Uber launched an investigation and severed data connections with the service provider to block further malicious access to its data. \"On October 9, 2026, a service provider notified Uber that an unauthorized third party had compromised the service provider's internal credentials and used them to access Uber's account with the service provider,\" Uber said. \"After being notified of this incident, Uber immediately severed data connections with the service provider and launched an investigation. On October 13, 2026, our investigation determined that the unauthorized party had used the compromised credentials to access Uber data connected to the service provider.\" Although the company didn't directly name the hacked service provider, TechCrunch first reported that the Uber data breach stems from an October 24 security incident at AI training provider Fireworks , which was hacked after a third-party cloud provider hack. Fireworks has attributed the attack to a financially motivated cybercriminal threat actor group linked to a series of large language model hijacking (LLMjacking) attacks. The Fireworks breach also led to security incidents at AI coding platform Cursor and digital workspace platform Notion , which also reported that the attackers stole data from a limited number of customers and (in Cursor's case) infected users' devices with backdoor malware. An Uber spokesperson was not immediately available for comment when BleepingComputer reached out for more information about the data breach. The company disclosed another data breach in December 2022 after a threat actor leaked IT asset information, employees' email addresses, and corporate reports stolen from third-party service provider Teqtivity. Uber previously confirmed that hackers who breached some of its systems in October 2016 stole data from 50 million users and 7 million drivers, and that the Lapsus$ extortion group also hacked it in September 2022 in an MFA fatigue attack using the stolen credentials of an Uber EXT contractor. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. UK Legal Aid Agency: Hackers stole records dating back to 1978 Notion says Fireworks breach exposed customer AI chat transcripts Binance denies data breach after alleged ShinyHunters claims Chainalysis says breach exposed credentials for all customers Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware Cursor confirms security breach led to malicious Claude Code extension FBI warns ARTEX AI hacking tool is powering global cyberattacks The largest Chinese-Language 'Guarantee' (担保) markets process billions of dollars in illicit transactions. Are you paying attention? Overdue a password health-check? Audit your Active Directory for free Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. For AI agents, the sky’s the limit. Identity gets them there. See Token Security in action. What if threat actors compromise your endpoint management platform? Action1's Endpoint Takeover Prevention (ETP) stops them from taking control of your endpoints. Read our posting guidelinese to learn what content is prohibited.",
+    "quick_summary": [
+      "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
+    "target": "Uber 150000",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "The Record",
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach"
+      },
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/"
+      }
+    ]
+  },
+  {
+    "id": "f4336658b3f7beaa",
+    "date": "2026-11-17T23:04:21+00:00",
+    "source": "BleepingComputer",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+    "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+    "article_text": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. Java is one of the most widely used programming platforms in the world, powering enterprise applications, web services, financial systems, and critical business infrastructure. Because many applications use the same Java runtime, vulnerabilities in its core components can affect a wide range of different and unrelated applications. The vulnerability, tracked as CVE-2026-114938 , is a memory-corruption flaw in Java's hardware-accelerated Base64 decoding functionality that can be exploited to disclose sensitive information from memory or achieve remote code execution (RCE). Security researchers at Calif, who disclosed the flaw on Tuesday, rated it critical with a CVSS 4.0 score of 9.2, while Oracle assigned it a lower severity rating of 8.1 (High) using CVSS 3.1. Java4Shell affects OpenJDK 17.0.6 and later, as well as Java distributions built from the affected code, including Oracle Java SE, Amazon Corretto, Eclipse Temurin, Microsoft Build of OpenJDK, Azul Zulu, and Red Hat OpenJDK. The vulnerability stems from a bug in Java's Base64 decoder, which processes encoded data commonly found in authentication, file uploads, and network communications. According to Calif, specially crafted Base64 data can cause the decoder to overwrite portions of Java's memory, potentially allowing attackers to steal sensitive information or execute malicious code. The researchers say that the memory corruption can be triggered with just 64 \"A\" characters followed by a single equals sign (=): AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA= Older OpenJDK 17 versions require 128 \"A\" characters followed by the equals sign. The flaw only affects a hardware-accelerated decoding function used on certain x86-64 processors that support AVX-512 instructions. The researchers have been able to exploit this bug to perform remote code execution against a variety of widely used Java applications running with their default configurations, including: Calif was also able to exploit the flaw in sample applications built using the Apache Struts and Spring Boot frameworks. However, the researchers said Java4Shell does not have a universal exploit, and attackers must find an application-dependent way to deliver malicious Base64 data to the vulnerable decoder to achieve code execution. The vulnerability also requires the affected hardware-accelerated AVX-512 decoding function to be used, which depends on supported x86-64 processors with AVX-512 VBMI capabilities. Calif says researcher Quang Luong discovered the flaw using OpenAI's Codex AI coding assistant, which helped identify the vulnerability during an audit of OpenJDK's internals. According to the researchers, Luong discovered the flaw in approximately one hour and developed an initial working exploit in another two hours, at a total AI usage cost of less than $200. The company says AI agents also helped develop additional application-specific exploitation chains. Calif has published a proof-of-concept demonstrating the memory corruption but has not released the weaponized exploits used against the affected enterprise applications. Oracle released patches for CVE-2026-114938 on November 17 as part of its November Critical Security Patch Update , which addresses 655 security vulnerabilities across its product portfolio. The company recommends that customers apply the available security patches as soon as possible. For those who cannot immediately update their Java implementations, Calif recommends disabling the vulnerable hardware-accelerated Base64 functionality by launching OpenJDK with the -XX:-UseBASE64Intrinsics option. Alternatively, administrators running Java on x86-64 systems can use -XX:UseAVX=2 to disable AVX-512 instructions. However, these workarounds are temporary mitigations, and all developers should update the Java runtimes to the latest version. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Apache HTTP Server patches critical HTTP/2 remote code execution flaw CISA says max severity GitLab flaw now exploited in the wild ",
+    "quick_summary": [
+      "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian",
+      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+    "target": "Critical Java4Shell RCE Java",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "BleepingComputer"
+    ],
+    "links": [
+      {
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/"
+      }
+    ]
+  },
+  {
+    "id": "4e9d23ebffe5bbff",
+    "date": "2026-11-17T22:34:22+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+    "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+    "article_text": "",
+    "quick_summary": [
+      "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+    "target": "Optimizely Malware Highlight Third-Party",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks"
       }
     ]
   },
@@ -1755,7 +2231,7 @@
     "category": "",
     "title": "Tor releases emergency update amid ongoing DDoS attack",
     "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
-    "article_text": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. Tor version 0.4.9.17 includes a series of security fixes, including one the project described as especially important for relay denial-of-service defenses involving IPv6 handling. “This release comes in rapid response to the ongoing DDoS attack on the network, which has affected most relay operators,” the Tor Project said in its release announcement . The project said a massive ongoing flood of client circuits has overwhelmed relays across the privacy network, causing a problem that has been difficult to address. The project says this update includes a security fix to improve relay defenses against denial-of-service attacks. \"One fix in particular is especially important for relay DoS defenses related to IPv6 handling,\" explains the project. Tor is working on additional defenses and expects to issue further releases in the near future. Relay operators are urged to upgrade to version 0.4.9.17 as soon as possible. The project said no additional action is required after installing the update. The announcement did not provide any other details as to who is behind the DDoS attacks or when they began. The Tor Project thanked relay operators for helping respond to the attack, pointing to active discussions on its tor-relays mailing list and asking operators to continue providing support. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day Microsoft releases emergency .NET patches for critical Brotli flaw Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days Microsoft releases Windows 10 KB5126657 extended security update New NoisyTCP vulnerability lets attackers crash Linux servers Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware Cursor confirms security breach led to malicious Claude Code extension FBI warns ARTEX AI hacking tool is powering global cyberattacks For AI agents, the sky’s the limit. Identity gets them there. See Token Security in action. What if threat actors compromise your endpoint management platform? Action1's Endpoint Takeover Prevention (ETP) stops them from taking control of your endpoints. Overdue a password health-check? Audit your Active Directory for free Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. The largest Chinese-Language 'Guarantee' (担保) markets process billions of dollars in illicit transactions. Are you paying attention? Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. Tor version 0.4.9.17 includes a series of security fixes, including one the project described as especially important for relay denial-of-service defenses involving IPv6 handling. “This release comes in rapid response to the ongoing DDoS attack on the network, which has affected most relay operators,” the Tor Project said in its release announcement . The project said a massive ongoing flood of client circuits has overwhelmed relays across the privacy network, causing a problem that has been difficult to address. The project says this update includes a security fix to improve relay defenses against denial-of-service attacks. \"One fix in particular is especially important for relay DoS defenses related to IPv6 handling,\" explains the project. Tor is working on additional defenses and expects to issue further releases in the near future. Relay operators are urged to upgrade to version 0.4.9.17 as soon as possible. The project said no additional action is required after installing the update. The announcement did not provide any other details as to who is behind the DDoS attacks or when they began. The Tor Project thanked relay operators for helping respond to the attack, pointing to active discussions on its tor-relays mailing list and asking operators to continue providing support. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day Microsoft releases emergency .NET patches for critical Brotli flaw Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days Microsoft releases Windows 10 KB5126657 extended security update Critical Java4Shell flaw allows RCE attacks on major Java applications Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware FBI warns ARTEX AI hacking tool is powering global cyberattacks Cursor confirms security breach led to malicious Claude Code extension For AI agents, the sky’s the limit. Identity gets them there. See Token Security in action. Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Overdue a password health-check? Audit your Active Directory for free What if threat actors compromise your endpoint management platform? Action1's Endpoint Takeover Prevention (ETP) stops them from taking control of your endpoints. The largest Chinese-Language 'Guarantee' (担保) markets process billions of dollars in illicit transactions. Are you paying attention? Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -3572,7 +4048,7 @@
     "category": "",
     "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
     "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-    "article_text": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. Named Remote Lock, this new feature is shipping to devices upgraded to Windows 11 Insider Preview builds in the Beta ( Build 26320.10003 ) and Experimental ( Build 26340.10013 ) channels. Admins can use Microsoft Intune custom configuration profiles to lock Microsoft Entra-joined, hybrid-joined, or MDM-enrolled devices that run Windows Enterprise, Education, or Pro. After the IT department remotely locks the device, the system can only be unlocked via Intune, since PINs, passwords, local admins, or web sign-ins will no longer work. Microsoft added that the user's credentials will remain valid and can still be used to sign into other devices that haven't been locked. \"Windows signs out every active session, hides all sign-in options and shows a locked screen,\" said Windows Insider communications lead Stephen Lines . \"Nothing is erased: the device stays enrolled and managed, BitLocker stays on and user data stays in place. The lock holds across restarts and while offline, and only an admin can lift it remotely, so the user picks up where they left off.\" Admins can lock a device from the Intune admin center using the following procedure: After Remote Lock is enabled, the device is not isolated from the enterprise network or erased. To do that, admins must use the device isolation and wipe controls in Intune. However, users must keep BitLocker enabled to protect their data if the device is reimaged or the drive is removed because the Windows Recovery Environment, Safe Mode, and booting from USB or other media are not blocked. With these Windows 11 preview builds, Microsoft has also begun testing new advanced security key management features that let users view and manage passkeys stored on a FIDO2 (Fast Identity Online 2) security key individually. These new features allow admins to configure enterprise settings such as always-required user verification, minimum PIN length, and enterprise attestation. In August, Microsoft also announced new privacy controls that let Windows 11 users choose which desktop apps can access their microphone, camera, and precise location. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Microsoft: Windows Server 2016 reaches end of support in 60 days Microsoft pushes Windows emergency updates to fix activation failures Microsoft confirms Windows activation failures after November updates Microsoft says November security updates cause printing issues Microsoft: Recent Windows updates cause SQL Server performance issues A feature built into Windows that is already a feature in many endpoint management software/services. Wonder what they'll break with this one. \"A feature built into Windows that is already a feature in many endpoint management software/services. Wonder what they'll break with this one. \" This! Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware Cursor confirms security breach led to malicious Claude Code extension FBI warns ARTEX AI hacking tool is powering global cyberattacks Overdue a password health-check? Audit your Active Directory for free What if threat actors compromise your endpoint management platform? Action1's Endpoint Takeover Prevention (ETP) stops them from taking control of your endpoints. Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. The largest Chinese-Language 'Guarantee' (担保) markets process billions of dollars in illicit transactions. Are you paying attention? For AI agents, the sky’s the limit. Identity gets them there. See Token Security in action. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. Named Remote Lock, this new feature is shipping to devices upgraded to Windows 11 Insider Preview builds in the Beta ( Build 26320.10003 ) and Experimental ( Build 26340.10013 ) channels. Admins can use Microsoft Intune custom configuration profiles to lock Microsoft Entra-joined, hybrid-joined, or MDM-enrolled devices that run Windows Enterprise, Education, or Pro. After the IT department remotely locks the device, the system can only be unlocked via Intune, since PINs, passwords, local admins, or web sign-ins will no longer work. Microsoft added that the user's credentials will remain valid and can still be used to sign into other devices that haven't been locked. \"Windows signs out every active session, hides all sign-in options and shows a locked screen,\" said Windows Insider communications lead Stephen Lines . \"Nothing is erased: the device stays enrolled and managed, BitLocker stays on and user data stays in place. The lock holds across restarts and while offline, and only an admin can lift it remotely, so the user picks up where they left off.\" Admins can lock a device from the Intune admin center using the following procedure: After Remote Lock is enabled, the device is not isolated from the enterprise network or erased. To do that, admins must use the device isolation and wipe controls in Intune. However, users must keep BitLocker enabled to protect their data if the device is reimaged or the drive is removed because the Windows Recovery Environment, Safe Mode, and booting from USB or other media are not blocked. With these Windows 11 preview builds, Microsoft has also begun testing new advanced security key management features that let users view and manage passkeys stored on a FIDO2 (Fast Identity Online 2) security key individually. These new features allow admins to configure enterprise settings such as always-required user verification, minimum PIN length, and enterprise attestation. In August, Microsoft also announced new privacy controls that let Windows 11 users choose which desktop apps can access their microphone, camera, and precise location. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Microsoft: Windows Server 2016 reaches end of support in 60 days Microsoft pushes Windows emergency updates to fix activation failures Microsoft confirms Windows activation failures after November updates Microsoft says November security updates cause printing issues Microsoft: Recent Windows updates cause SQL Server performance issues A feature built into Windows that is already a feature in many endpoint management software/services. Wonder what they'll break with this one. \"A feature built into Windows that is already a feature in many endpoint management software/services. Wonder what they'll break with this one. \" This! Windows 11 Home and Pro should have this feature, especially on laptops. Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware FBI warns ARTEX AI hacking tool is powering global cyberattacks Cursor confirms security breach led to malicious Claude Code extension Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. What if threat actors compromise your endpoint management platform? Action1's Endpoint Takeover Prevention (ETP) stops them from taking control of your endpoints. Overdue a password health-check? Audit your Active Directory for free For AI agents, the sky’s the limit. Identity gets them there. See Token Security in action. The largest Chinese-Language 'Guarantee' (担保) markets process billions of dollars in illicit transactions. Are you paying attention? Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -4115,247 +4591,6 @@
       {
         "source": "BleepingComputer",
         "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/"
-      }
-    ]
-  },
-  {
-    "id": "1ee9e0043b31028b",
-    "date": "2026-11-17T02:05:15+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33524",
-    "target": "ISC Stormcast Tuesday November",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33524"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33520"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33516"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33512"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33510"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33504"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33500"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33494"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33490"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33486"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33484"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33480"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33472"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33468"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33464"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33462"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33456"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33438"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33436"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33432"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33428"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33424"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33418"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33416"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33412"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33408"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33404"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33402"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33398"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33390"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33386"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33384"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33378"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33374"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33370"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33364"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33356"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33354"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33350"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33342"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33346"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33362"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33338"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33334"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33330"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33328"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33322"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33316"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33310"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33308"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33304"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33302"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33446"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33448"
       }
     ]
   },
@@ -26900,243 +27135,6 @@
       {
         "source": "HackRead",
         "url": "https://hackread.com/fake-gta-vi-download-sites-malware-launch/"
-      }
-    ]
-  },
-  {
-    "id": "7b0e415cac470a2d",
-    "date": "2026-11-04T18:07:24+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "6 Challenges SOC Leaders Should Turn into Priorities in 2027",
-    "summary": "Security teams face mounting pressure to keep pace with increasingly complex threats while working within tight budgets and persistent staffing constraints. As attack techniques evolve and alert volumes rise, maintaining effective detection and investigation capabilities becomes increasingly demanding. In 2027, threat intelligence will play a growing role in helping SOC and MSSP teams recognize malicious […] The post 6 Challenges SOC Leaders Should Turn into Priorities in 2027 appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Security teams face mounting pressure to keep pace with increasingly complex threats while working within tight budgets and persistent staffing constraints.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/6-challenges-soc-leaders-should-turn-into-priorities-in-2027/",
-    "target": "Challenges SOC Leaders Should",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/6-challenges-soc-leaders-should-turn-into-priorities-in-2027/"
-      }
-    ]
-  },
-  {
-    "id": "385d0dcd7505491b",
-    "date": "2026-11-04T18:02:56+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-    "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-    "article_text": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. The French Blood Establishment (Établissement français du sang or EFS), which manages blood collection, processing, and distribution across France, said the incident occurred on November 2 and affected systems used to monitor and control cold-storage chambers. According to a statement published on November 3, EFS was not directly targeted in the cyberattack, but was instead its refrigeration supplier. While EFS has not named the affected supplier, European refrigeration equipment provider Coolworld Rentals confirmed in a statement that a cybersecurity incident involving remote monitoring software had affected a limited number of its refrigeration units. Coolworld says the attackers exploited a vulnerability in a third-party component, which was outside the company's direct control. \"The vulnerability currently being reported in the media relates to a component from a third-party supplier and was outside Coolworld's direct control,\" the company said. \"Only a limited number of Coolworld units were affected, and Coolworld responded promptly and took appropriate measures.\" The company said it is working with affected customers but will not comment on individual cases. At EFS, the incident raised temperature and defrost thresholds in affected cold-storage chambers to extremely high levels. These facilities store blood products before they are distributed to hospitals, as well as biological samples maintained by the EFS. EFS says its monitoring and alarm systems quickly detected the temperature change, allowing staff to fix impacted equipment or transfer products to other refrigeration facilities. \"No health impact has been identified, and no loss of blood products has been reported,\" EFS said in its statement [translated from French]. The organization confirmed that plasma bags intended for transfusions and plasma used to manufacture medicines were either transferred or secured, preventing damage to the products. Blood collection and distribution operations have continued without interruption. EFS says its technical teams are working with France's national cybersecurity agency (ANSSI) and the Ministry of Health, and it has strengthened monitoring of refrigeration equipment and temperatures. The incident follows a wave of cyberattacks targeting refrigeration systems across Europe, where attackers remotely manipulate temperature settings or activate defrost functions that turn off cooling. In October, cyberattacks disrupted refrigeration systems at an estimated 250 to 350 French supermarkets, including Intermarché, Carrefour Market, Monoprix, Leclerc, and Super U. In those attacks, hackers reportedly compromised refrigeration controllers running older Danfoss software and remotely activated automatic defrosting functions, raising temperatures and forcing stores to discard fresh and frozen products. These attacks targeted Danfoss AK-SM/AK-SC and Copeland/Dixell XWEB refrigeration controllers, which are used to monitor and manage cooling equipment remotely. A second wave of attacks occurred this month, affecting more than 115 stores across Belgium, the Netherlands, Sweden, Luxembourg, Ireland, and Estonia. Some refrigeration systems were shut down entirely, while others had their temperature settings changed remotely. At one Swedish supermarket, the system reportedly began generating heat, while another store reported that temperatures were changed to 50°C (122°F). Belgian refrigeration company Sabcobel previously said that attackers behind the November incidents exploited the same vulnerability used in October's attacks against French supermarkets. In 2025, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) disclosed two vulnerabilities affecting Danfoss AK-SM 8xxA controllers, tracked as CVE-2025-41450 and CVE-2025-41451. The flaws could allow attackers to bypass authentication and execute commands remotely on vulnerable systems, potentially giving them control over refrigeration equipment. However, it has not been confirmed whether these vulnerabilities are being exploited in the attacks. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 o",
-    "quick_summary": [
-      "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products.",
-      "Risk: vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-    "target": "Cyberattack France",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/"
-      }
-    ]
-  },
-  {
-    "id": "29b890429b3d7786",
-    "date": "2026-11-04T17:01:17+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Critical Ruby on Rails Flaw Could Let Hackers Steal Server Secrets Through Malicious Image Uploads",
-    "summary": "A critical flaw in Ruby on Rails Active Storage lets an unauthenticated user upload a crafted image and make the server write files. If uploads use the Disk service, the same upload can make the server read files too. The Rails team rated the bug Critical, with a CVSS score of 9.8, and published the […] The post Critical Ruby on Rails Flaw Could Let Hackers Steal Server Secrets Through Malicious Image Uploads appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A critical flaw in Ruby on Rails Active Storage lets an unauthenticated user upload a crafted image and make the server write files.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/critical-ruby-on-rails-flaw/",
-    "target": "Critical Ruby Rails Could",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/critical-ruby-on-rails-flaw/"
-      }
-    ]
-  },
-  {
-    "id": "a48ec1788b3737fb",
-    "date": "2026-11-04T17:00:46+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-    "summary": "A newly disclosed bug in APT, the package manager behind Debian and Ubuntu, can let a network spy swap a trusted software package for a bad one. The flaw is tracked as CVE-2026-109518 and can end in code running with root rights, the highest level of control on a Linux system. Debian announced the issue […] The post Debian and Ubuntu APT Flaw Lets Hackers Hijack Software Updates and Execute Code as Root appeared first on Cyber Security News .",
-    "article_text": "A flaw in APT , the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian , Ubuntu , and APT's developers published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and Ubuntu 22.04 onward. Debian has released fixed versions of APT for the flaw, CVE-2026-109518 . APT's developers, who call the flaw critical, say updates for Ubuntu and its Ubuntu Pro subscription service are being released. Ubuntu 14.04 users with Ubuntu Pro can already get one. Older releases, such as Debian 11 and Ubuntu 20.04, are not exposed by default, according to Ubuntu. But many user scripts may have turned on the retry setting, Acquire::Retries, on those releases anyway, APT's developers say. Debian's testing branch was still on the vulnerable version 3.3.5 at 14:58 UTC on November 4. For Debian 11, whose Debian long-term support ended on August 31 , APT's developers have published a fixed version, 2.2.5. Ubuntu rates the flaw as high priority, with a CVSS 4.0 score of 7.7, and says that distributions built on Debian and Ubuntu are affected as well, without naming any. Ubuntu published new APT builds for four of its releases to its security archive at 14:25 UTC on November 4: At 15:46 UTC, Ubuntu still marked all eight releases it tracks for the flaw, from 14.04 LTS to 26.10, as vulnerable. The attacker can be anyone who can change the HTTP traffic between APT and the package server, including a malicious mirror or proxy, according to Ubuntu. The attack runs when the computer installs a package. The attacker uses HTTP redirects and ordinary temporary server errors to make APT retry the download, APT's developers say. Max Justicz reported the flaw. None of the three advisory reports describe attacks exploiting the flaw or offer a workaround for systems that cannot update yet. They describe the attack over HTTP and do not say whether package sources reached over HTTPS are exposed. Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities. Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-    "target": "Debian Ubuntu APT Lets",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News",
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html"
-      },
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/debian-apt-flaw-lets-hackers-hijack-updates/"
-      }
-    ]
-  },
-  {
-    "id": "175d825c2df45eaf",
-    "date": "2026-11-04T17:00:38+00:00",
-    "source": "The Hacker News",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-    "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
-    "article_text": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - \"The affected product has reached End-of-life (EoL),\" SonicWall said in a Tuesday alert. \"As a result, no remediation or security update will be released for these vulnerabilities. Organizations using the product should be aware of the associated security risks and are strongly encouraged to upgrade to the SonicWall Network Security Manager (NSM).\" The development comes less than a month after SonicWall shipped fixes for CVE-2026-102255 (CVSS score: 10.0), a critical pre-authenticated server-side request forgery (SSRF) flaw that could have allowed an attacker to reach internal functionality and perform unauthorized operations. The vulnerability has since come under active exploitation in the wild , with telemetry data from Previdian recording 2,541 attack attempts from eight unique IP addresses from Singapore and the U.S. since October 9, 2026. As many as 30 exploitation attempts were registered on November 3, 2026. Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities. Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
-    "quick_summary": [
-      "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-    "target": "SonicWall Wont Patch EoL",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "The Hacker News"
-    ],
-    "links": [
-      {
-        "source": "The Hacker News",
-        "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"
-      }
-    ]
-  },
-  {
-    "id": "5655e6db7c4c95b3",
-    "date": "2026-11-04T16:58:46+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-    "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-    "article_text": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. According to a notice published on X, a client update was issued on November 4 at 02:30 (UTC +9) to address the issue. \"We have identified an issue indicating that the PC Launcher's script files may have been tampered with by a third party,\" reads the statement on X . \"Accordingly, client fixes and an update were implemented on November 4 at approximately 02:30 (UTC+9). We are currently investigating the scope of the impact caused by this issue, and we will provide further details regarding follow-up measures in a separate notice.\" Goddess of Victory: NIKKE is a popular sci-fi shooter RPG developed by the South Korean firm Shift Up for Windows, iOS , and Android . Its publisher, Level Infinite, reported more than 45 million downloads since its launch in 2022, while Google Play alone reports 10 million downloads. Although Level Infinite has not disclosed many details, a report on GitHub by independent security researcher MotherSphere alleges the incident involved four JavaScript files hosted on Level Infinite's official content delivery network (CDN). According to the researcher, the files were modified on September 27, 2026, to inject malicious JavaScript that downloaded additional code from attacker-controlled servers whenever players opened the game launcher. The injected code was hidden within legitimate JavaScript files and used obfuscation to conceal the domains insightjs[.]com and insightjs[.]org , from which the malicious code was downloaded. BleepingComputer examined two of the modified JavaScript files and confirmed that they contained an obfuscated loader designed to retrieve and execute additional code from these domains, falling back to the second domain if the first was unavailable. According to MotherSphere's analysis, the downloaded code abused the launcher's native functionality to retrieve and execute a malicious LuaJIT payload called insight.bundle, which installed a remote-access agent referred to as K2F. The backdoor allowed attackers to remotely execute commands, browse and download local files, capture screenshots, collect NIKKE account credentials, and steal information stored in web browsers. The malware also supported an additional command to install a malicious Windows DLL named platform_experience_helper.dll that could remain active after the game launcher was closed. BleepingComputer analyzed strings extracted from a DLL sample uploaded to VirusTotal and found code indicating that the malware can steal cryptocurrency wallet data from browser extensions, including MetaMask, Phantom, Coinbase Wallet, and others. The DLL contained functionality to intercept sensitive wallet information, including recovery phrases and private keys, potentially allowing attackers to steal cryptocurrency. However, it is unknown whether the attackers deployed this additional component on infected systems or successfully stole cryptocurrency from players. The researcher claims that Level Infinite replaced three of the impacted JavaScript files on November 3 with clean versions. However, they claim a tampered copy of the fourth was reportedly still being served to users as of 22:26 GMT. This suggests that at least one compromised script may have remained accessible after the company deployed its client update. The researcher also shared indicators of compromise (IOCs) that users can check to determine whether the malicious Lua agent executed on their computers. One indicator is the string k2f_chan registered in the Launcher/intl_service/debug.log file within the NIKKE installation directory. This entry indicates the malicious Lua agent executed, but it does not confirm whether the DLL was loaded as well. BleepingComputer also found that the insightjs[.]org backup domain is now serving code that displays a security warning inside the game launcher. The warning, displayed in English, Chinese, Japanese, and Korean, tells players to immediately close the launcher and refrain from opening the PC client until the publisher confirms the issue has been resolved. The message confirms that this is not an official announcement from the game's publisher, so it unclear who currently controls the domain or when the malicious payload was replaced with the warning. BleepingComputer has contacted Level Infin",
-    "quick_summary": [
-      "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency walle",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-    "target": "NIKKE",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/"
-      }
-    ]
-  },
-  {
-    "id": "7c20d0bccaac8cb3",
-    "date": "2026-11-04T16:24:08+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
-    "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
-    "article_text": "",
-    "quick_summary": [
-      "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
-    "target": "Google Partners Disrupt 1.3",
-    "type": "Malware",
-    "severity": "Low",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet"
-      }
-    ]
-  },
-  {
-    "id": "b4fa6fe68cf2f7e3",
-    "date": "2026-11-04T16:15:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Ukrainian news outlet Kyiv Independent hit by suspected Russian cyberattack",
-    "summary": "A suspected Russian cyberattack disrupted the website of The Kyiv Independent, one of Ukraine’s leading English-language news outlets.",
-    "article_text": "",
-    "quick_summary": [
-      "A suspected Russian cyberattack disrupted the website of The Kyiv Independent, one of Ukraine’s leading English-language news outlets.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/ukraine-kyiv-independent-cyberattack",
-    "target": "Ukrainian Kyiv Independent Russian",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/ukraine-kyiv-independent-cyberattack"
       }
     ]
   }
