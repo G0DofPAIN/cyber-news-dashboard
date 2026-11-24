@@ -1,94 +1,7 @@
 [
   {
-    "id": "7a71dd2b54f38882",
-    "date": "2026-11-24T00:00:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
-    "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic missions abroad.",
-    "article_text": "",
-    "quick_summary": [
-      "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic mission",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
-    "target": "Austrian Foreign Ministry",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked"
-      }
-    ]
-  },
-  {
-    "id": "611e4c3d62f69bdd",
-    "date": "2026-11-23T21:22:37.165352+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CRITICAL Ruby2Shell: One-Byte Overflow Opens RCE Risk for Exposed Ruby Servers",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/ruby2shell-one-byte-overflow-opens-rce-risk-for-exposed-ruby-servers",
-    "target": "CRITICAL Ruby2Shell",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/ruby2shell-one-byte-overflow-opens-rce-risk-for-exposed-ruby-servers"
-      }
-    ]
-  },
-  {
-    "id": "09271deffc310dcb",
-    "date": "2026-11-23T21:22:37.165242+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE GnuPG Patches CVE-2026-129975: Double Free in GPGME via Crafted OpenPGP Keys",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/gnupg-patches-cve-2026-129975-double-free-in-gpgme-via-crafted-openpgp-keys",
-    "target": "CVE GnuPG Patches CVE-2026-129975",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/gnupg-patches-cve-2026-129975-double-free-in-gpgme-via-crafted-openpgp-keys"
-      }
-    ]
-  },
-  {
     "id": "af6c2aab3f4aa05c",
-    "date": "2026-11-23T21:22:37.165129+00:00",
+    "date": "2026-11-24T06:01:14.601779+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +30,7 @@
   },
   {
     "id": "796f5af0902135ff",
-    "date": "2026-11-23T21:22:37.165018+00:00",
+    "date": "2026-11-24T06:01:14.601701+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +59,7 @@
   },
   {
     "id": "815c0be386e28a01",
-    "date": "2026-11-23T21:22:37.164907+00:00",
+    "date": "2026-11-24T06:01:14.601621+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -175,7 +88,7 @@
   },
   {
     "id": "2c109e55e2f5a7ad",
-    "date": "2026-11-23T21:22:37.164798+00:00",
+    "date": "2026-11-24T06:01:14.601547+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -203,42 +116,42 @@
     ]
   },
   {
-    "id": "cb1c2d1a1d584deb",
-    "date": "2026-11-23T21:22:37.164690+00:00",
+    "id": "4ddfe1e790908737",
+    "date": "2026-11-24T06:01:14.601468+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Java4Shell: RCE in OpenJDK Where Silicon Meets Malformed Base64 CYBERSEC CRITICAL",
+    "title": "EXPLOIT Binary-parser: The Fix That Wasn't Enough — New Code Injection Scores CVSS 9.2",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
+      "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/java4shell-rce-in-openjdk-where-silicon-meets-malformed-base64",
-    "target": "Java4Shell",
+    "link": "https://deafnews.it/en/news/cybersecurity/binary-parser-the-fix-that-wasnt-enough-new-code-injection-scores-cvss-92",
+    "target": "EXPLOIT Binary-parser",
     "type": "Vulnerability",
-    "severity": "Critical",
+    "severity": "Medium",
     "sources": [
       "DeafNews"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/java4shell-rce-in-openjdk-where-silicon-meets-malformed-base64"
+        "url": "https://deafnews.it/en/news/cybersecurity/binary-parser-the-fix-that-wasnt-enough-new-code-injection-scores-cvss-92"
       }
     ]
   },
   {
-    "id": "81b965db63626031",
-    "date": "2026-11-23T21:22:37.164543+00:00",
+    "id": "30d0503dbe128784",
+    "date": "2026-11-24T06:01:14.601373+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "CVE-2026-123007: NGINX HTTP/2 Integer Underflow Enables RCE, Patch Available VULN CVE",
+    "title": "CRITICAL WPIDE: Botched Fix Opens Four Versions to RCE via CSRF",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -246,8 +159,8 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-123007-nginx-http2-integer-underflow-enables-rce-patch-available",
-    "target": "CVE-2026-123007",
+    "link": "https://deafnews.it/en/news/cybersecurity/wpide-botched-fix-opens-four-versions-to-rce-via-csrf",
+    "target": "CRITICAL WPIDE",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -256,13 +169,13 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-123007-nginx-http2-integer-underflow-enables-rce-patch-available"
+        "url": "https://deafnews.it/en/news/cybersecurity/wpide-botched-fix-opens-four-versions-to-rce-via-csrf"
       }
     ]
   },
   {
     "id": "1201adc31d655636",
-    "date": "2026-11-23T21:22:37.164422+00:00",
+    "date": "2026-11-24T06:01:14.601290+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +204,7 @@
   },
   {
     "id": "7c0489a90de1219b",
-    "date": "2026-11-23T21:22:37.164300+00:00",
+    "date": "2026-11-24T06:01:14.601206+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -320,7 +233,7 @@
   },
   {
     "id": "6cc2d9ded7014923",
-    "date": "2026-11-23T21:22:37.164188+00:00",
+    "date": "2026-11-24T06:01:14.601130+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -349,7 +262,7 @@
   },
   {
     "id": "e09aef31d4ca612f",
-    "date": "2026-11-23T21:22:37.164074+00:00",
+    "date": "2026-11-24T06:01:14.601053+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -378,7 +291,7 @@
   },
   {
     "id": "359a325f016c1010",
-    "date": "2026-11-23T21:22:37.163949+00:00",
+    "date": "2026-11-24T06:01:14.600968+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -407,7 +320,7 @@
   },
   {
     "id": "e88242c2fc56ff41",
-    "date": "2026-11-23T21:22:37.163826+00:00",
+    "date": "2026-11-24T06:01:14.600890+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -435,13 +348,71 @@
     ]
   },
   {
-    "id": "3ddb3eaee7aec34c",
-    "date": "2026-11-23T21:22:37.162390+00:00",
+    "id": "5742a9f6352e7189",
+    "date": "2026-11-24T06:01:14.600795+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 ZERO-DAY · 2 CVE · 3 EXPLOIT IN THE LAST 24H →",
+    "title": "GnuPG Patches CVE-2026-129975: Double Free in GPGME via Crafted OpenPGP Keys CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/gnupg-patches-cve-2026-129975-double-free-in-gpgme-via-crafted-openpgp-keys",
+    "target": "GnuPG Patches CVE-2026-129975",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/gnupg-patches-cve-2026-129975-double-free-in-gpgme-via-crafted-openpgp-keys"
+      }
+    ]
+  },
+  {
+    "id": "e8bf814f7bce036e",
+    "date": "2026-11-24T06:01:14.600703+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Autonomous AI Agents Discover and Exploit Zero-Day in Medical Software in 11 Minutes CYBERSEC EXPLOIT",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/autonomous-ai-agents-discover-and-exploit-zero-day-in-medical-software-in-11-minutes",
+    "target": "Autonomous Agents Discover Exploit",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/autonomous-ai-agents-discover-and-exploit-zero-day-in-medical-software-in-11-minutes"
+      }
+    ]
+  },
+  {
+    "id": "db5ae4d0a95a1fa3",
+    "date": "2026-11-24T06:01:14.599661+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CRITICAL · 1 ZERO-DAY · 4 CVE · 4 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -450,7 +421,7 @@
       "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/threats",
-    "target": "ZERO-DAY CVE EXPLOIT",
+    "target": "CRITICAL ZERO-DAY CVE",
     "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
@@ -465,7 +436,7 @@
   },
   {
     "id": "a82f0e67f1833065",
-    "date": "2026-11-23T21:22:36.387710+00:00",
+    "date": "2026-11-24T06:01:13.404110+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -598,7 +569,7 @@
   },
   {
     "id": "d456e15ce5885c3c",
-    "date": "2026-11-23T21:22:34.824373+00:00",
+    "date": "2026-11-24T06:01:12.052869+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -627,7 +598,7 @@
   },
   {
     "id": "50d917cad7b3da66",
-    "date": "2026-11-23T21:22:34.824221+00:00",
+    "date": "2026-11-24T06:01:12.052739+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -660,7 +631,7 @@
   },
   {
     "id": "366ba9edd3e5e483",
-    "date": "2026-11-23T21:22:34.824029+00:00",
+    "date": "2026-11-24T06:01:12.052601+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -689,7 +660,7 @@
   },
   {
     "id": "9499b02211304944",
-    "date": "2026-11-23T21:22:34.823844+00:00",
+    "date": "2026-11-24T06:01:12.052471+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -718,7 +689,7 @@
   },
   {
     "id": "6ba1a8cfd06bf271",
-    "date": "2026-11-23T21:22:34.823707+00:00",
+    "date": "2026-11-24T06:01:12.052382+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -747,7 +718,7 @@
   },
   {
     "id": "1af934f1066df42c",
-    "date": "2026-11-23T21:22:34.823533+00:00",
+    "date": "2026-11-24T06:01:12.052291+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -776,7 +747,7 @@
   },
   {
     "id": "76232fa6f661e4d2",
-    "date": "2026-11-23T21:22:34.823398+00:00",
+    "date": "2026-11-24T06:01:12.052198+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -805,7 +776,7 @@
   },
   {
     "id": "594933b51eddd913",
-    "date": "2026-11-23T21:22:34.823048+00:00",
+    "date": "2026-11-24T06:01:12.051942+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -834,7 +805,7 @@
   },
   {
     "id": "05b332d9b6c7d73b",
-    "date": "2026-11-23T21:22:34.822913+00:00",
+    "date": "2026-11-24T06:01:12.051836+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -863,7 +834,7 @@
   },
   {
     "id": "f968273e484353d2",
-    "date": "2026-11-23T21:22:34.822760+00:00",
+    "date": "2026-11-24T06:01:12.051729+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -892,7 +863,7 @@
   },
   {
     "id": "f222b4c54c18af86",
-    "date": "2026-11-23T21:22:34.822606+00:00",
+    "date": "2026-11-24T06:01:12.051633+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -921,7 +892,7 @@
   },
   {
     "id": "759f593994e564b9",
-    "date": "2026-11-23T21:22:34.822420+00:00",
+    "date": "2026-11-24T06:01:12.051530+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -950,7 +921,7 @@
   },
   {
     "id": "62e13d87dda6fb1d",
-    "date": "2026-11-23T21:22:34.822247+00:00",
+    "date": "2026-11-24T06:01:12.051402+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -979,7 +950,7 @@
   },
   {
     "id": "f6ad9354377401de",
-    "date": "2026-11-23T21:22:34.822111+00:00",
+    "date": "2026-11-24T06:01:12.051305+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1008,7 +979,7 @@
   },
   {
     "id": "42dacb64c93e3bf3",
-    "date": "2026-11-23T21:22:34.821970+00:00",
+    "date": "2026-11-24T06:01:12.051207+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1037,7 +1008,7 @@
   },
   {
     "id": "01753760f7e5c20a",
-    "date": "2026-11-23T21:22:34.821833+00:00",
+    "date": "2026-11-24T06:01:12.051110+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1066,7 +1037,7 @@
   },
   {
     "id": "6004b28217b8541e",
-    "date": "2026-11-23T21:22:34.821688+00:00",
+    "date": "2026-11-24T06:01:12.051009+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1095,7 +1066,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-11-23T21:22:34.821434+00:00",
+    "date": "2026-11-24T06:01:12.050822+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1124,7 +1095,7 @@
   },
   {
     "id": "34ab2d7653777bde",
-    "date": "2026-11-23T21:22:34.821280+00:00",
+    "date": "2026-11-24T06:01:12.050708+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1161,7 +1132,7 @@
   },
   {
     "id": "11c2a7b33dbb35ea",
-    "date": "2026-11-23T21:22:34.820355+00:00",
+    "date": "2026-11-24T06:01:12.050023+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1194,7 +1165,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-11-23T21:22:34.820022+00:00",
+    "date": "2026-11-24T06:01:12.049733+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1222,6 +1193,557 @@
     ]
   },
   {
+    "id": "6f533cc7aed9ba9a",
+    "date": "2026-11-24T05:55:37+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Critical Node.js simple-git Library Vulnerability Enables Remote Code Execution Attacks",
+    "summary": "A critical flaw in simple-git, a popular Node.js library for running Git commands, can let attackers run their own commands on a server. The issue is tracked as CVE-2026-134815. It affects apps that pass untrusted input into Git arguments. The National Vulnerability Database says simple-git versions before 4.1.0 contain an argument injection weakness, listed as […] The post Critical Node.js simple-git Library Vulnerability Enables Remote Code Execution Attacks appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A critical flaw in simple-git, a popular Node.js library for running Git commands, can let attackers run their own commands on a server.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/node-js-simple-git-library-flaw/",
+    "target": "Critical Node.js Library Vulnerability",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/node-js-simple-git-library-flaw/"
+      }
+    ]
+  },
+  {
+    "id": "9fdd3d8c8441db64",
+    "date": "2026-11-24T04:53:16+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers Actively Exploiting Cisco Expressway Vulnerability to Gain Full Root Access",
+    "summary": "Hackers are actively exploiting CVE-2026-76466, a critical vulnerability in Cisco Expressway that lets remote attackers run operating system commands with root privileges. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the flaw to its Known Exploited Vulnerabilities catalog on November 20, 2026, after finding evidence of active exploitation. Cisco says there is no workaround […] The post Hackers Actively Exploiting Cisco Expressway Vulnerability to Gain Full Root Access appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Hackers are actively exploiting CVE-2026-76466, a critical vulnerability in Cisco Expressway that lets remote attackers run operating system commands with root privileges.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/cisco-expressway-vulnerability-exploited/",
+    "target": "Actively Exploiting Cisco Expressway",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/cisco-expressway-vulnerability-exploited/"
+      }
+    ]
+  },
+  {
+    "id": "f803c2e677af4890",
+    "date": "2026-11-24T03:51:31+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "OpenAI and Cisco Launch Shirudo AI Security Tool to Block Exploits on Linux Servers",
+    "summary": "OpenAI and Cisco launched Shirudo on November 23, 2026, an open-source security tool designed to block specific exploits on running Linux servers while teams test and deploy permanent patches. In a controlled test, a shield generated by OpenAI’s Codex blocked a Java4Shell exploit attempt against Elasticsearch without restarting the service. The OpenAI announcement describes Shirudo […] The post OpenAI and Cisco Launch Shirudo AI Security Tool to Block Exploits on Linux Servers appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "OpenAI and Cisco launched Shirudo on November 23, 2026, an open-source security tool designed to block specific exploits on running Linux servers while teams test and deploy permanent patches.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/openai-and-cisco-launch-shirudo/",
+    "target": "OpenAI Cisco Launch Shirudo",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/openai-and-cisco-launch-shirudo/"
+      }
+    ]
+  },
+  {
+    "id": "c0fd79916928646d",
+    "date": "2026-11-24T02:32:00+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
+    "summary": "This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania. This graph shows the DShield sensor activity over the past 90 days for this subnet and it is still ongoing as of this writing.",
+    "article_text": "",
+    "quick_summary": [
+      "This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33550",
+    "target": "Scanning Subnet 109.160.32.024 Mon",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33550"
+      }
+    ]
+  },
+  {
+    "id": "1841a522dac04751",
+    "date": "2026-11-24T02:00:04+00:00",
+    "source": "SANS ISC",
+    "quality": "High",
+    "scope": "Research",
+    "category": "",
+    "title": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
+    "summary": "",
+    "article_text": "",
+    "quick_summary": [
+      "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://isc.sans.edu/diary/rss/33552",
+    "target": "ISC Stormcast Tuesday November",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "SANS ISC"
+    ],
+    "links": [
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33552"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33548"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33538"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33536"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33528"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33524"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33520"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33516"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33512"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33510"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33504"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33500"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33494"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33490"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33486"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33484"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33480"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33472"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33468"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33464"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33462"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33456"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33438"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33436"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33432"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33428"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33424"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33418"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33416"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33412"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33408"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33404"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33402"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33398"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33390"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33386"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33384"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33378"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33374"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33370"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33364"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33356"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33354"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33350"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33342"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33346"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33362"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33338"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33334"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33330"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33328"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33322"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33316"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33310"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33308"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33304"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33302"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33446"
+      },
+      {
+        "source": "SANS ISC",
+        "url": "https://isc.sans.edu/diary/rss/33448"
+      }
+    ]
+  },
+  {
+    "id": "7a71dd2b54f38882",
+    "date": "2026-11-24T00:00:00+00:00",
+    "source": "The Record",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
+    "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic missions abroad.",
+    "article_text": "",
+    "quick_summary": [
+      "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic mission",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
+    "target": "Austrian Foreign Ministry",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "The Record"
+    ],
+    "links": [
+      {
+        "source": "The Record",
+        "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked"
+      }
+    ]
+  },
+  {
+    "id": "695c99ba809e35a3",
+    "date": "2026-11-23T22:02:46+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "Industrial Serial Gateways Broadcast That They're Insecure",
+    "summary": "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.",
+    "article_text": "",
+    "quick_summary": [
+      "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
+    "target": "Industrial Serial Gateways Broadcast",
+    "type": "General Cybersecurity",
+    "severity": "Critical",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure"
+      }
+    ]
+  },
+  {
+    "id": "611e4c3d62f69bdd",
+    "date": "2026-11-23T21:22:37.165352+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CRITICAL Ruby2Shell: One-Byte Overflow Opens RCE Risk for Exposed Ruby Servers",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/ruby2shell-one-byte-overflow-opens-rce-risk-for-exposed-ruby-servers",
+    "target": "CRITICAL Ruby2Shell",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/ruby2shell-one-byte-overflow-opens-rce-risk-for-exposed-ruby-servers"
+      }
+    ]
+  },
+  {
+    "id": "cb1c2d1a1d584deb",
+    "date": "2026-11-23T21:22:37.164690+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Java4Shell: RCE in OpenJDK Where Silicon Meets Malformed Base64 CYBERSEC CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/java4shell-rce-in-openjdk-where-silicon-meets-malformed-base64",
+    "target": "Java4Shell",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/java4shell-rce-in-openjdk-where-silicon-meets-malformed-base64"
+      }
+    ]
+  },
+  {
+    "id": "81b965db63626031",
+    "date": "2026-11-23T21:22:37.164543+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE-2026-123007: NGINX HTTP/2 Integer Underflow Enables RCE, Patch Available VULN CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/cve-2026-123007-nginx-http2-integer-underflow-enables-rce-patch-available",
+    "target": "CVE-2026-123007",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/cve-2026-123007-nginx-http2-integer-underflow-enables-rce-patch-available"
+      }
+    ]
+  },
+  {
+    "id": "de557c7e6c6e0b30",
+    "date": "2026-11-23T21:21:42+00:00",
+    "source": "Dark Reading",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
+    "summary": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.",
+    "article_text": "",
+    "quick_summary": [
+      "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
+    "target": "CrowdStrike Makes Push Blockbuster",
+    "type": "General Cybersecurity",
+    "severity": "Low",
+    "sources": [
+      "Dark Reading"
+    ],
+    "links": [
+      {
+        "source": "Dark Reading",
+        "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal"
+      }
+    ]
+  },
+  {
     "id": "6c9c76bccc3a907b",
     "date": "2026-11-23T20:54:51+00:00",
     "source": "BleepingComputer",
@@ -1230,7 +1752,7 @@
     "category": "",
     "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
     "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-    "article_text": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. The attack exposed details of more than 1.5 million individuals before the company blocked access from external IP addresses and suspended the affected services. KEPCO is South Korea’s main electric power company and a state-controlled, major operator of the country’s critical infrastructure. The organization detected the attack on November 20, when it confirmed unauthorized access to its KEPCO ON electricity billing platform and its electronic procurement system (SRM). “On Friday, November 20, Korea Electric Power Corporation (hereafter KEPCO), led by President Kim Dong-cheol, confirmed that some customer information held in its IT systems had been exposed,” the power company states . ON is an integrated customer platform that allows customers to view and pay electricity bills. SRM is the company’s procurement system for contracting services. According to the announcement, published on Sunday, the following was exposed: The company says the data breach resulted from “advanced technologies such as AI,” but it shared no specific details about the initial access method or the attack chain. KEPCO is notifying exposed individuals directly, has filed a report with the data protection authorities, and is coordinating with government and financial authorities to block abuse such as unauthorized transactions. Potentially exposed individuals are warned that the exposed information could be used for targeted phishing and impersonation. They are advised to report any attempts to the police or Korea’s Internet and Security Agency. It is also recommended to avoid installing unknown apps, entering information into suspicious forms, and sharing sensitive data or verification codes over calls or texts. A threat actor using the “Noiem” alias has claimed the attack and advertised the breach on a hacker forum on November 19, saying that they had KEPCO user data, supplier records, and bidding and contract documents. South Korea’s Personal Information Protection Commission separately confirmed that KEPCO received an email from a hacker claiming data theft on November 19. While these claims match the available evidence, attribution to Noiem remains unconfirmed. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Bell Canada says 'agentic' hacker stole enterprise customer data Hackers steal data of 1.6 million SBC Medical Group customers Transport for London breach exposes 265,000 Oyster card users' data Baker Tilly notifies clients of data breach at third-party provider Notion says Fireworks breach exposed customer AI chat transcripts Microsoft Entra Connect Health flaw exploited to steal tenant data Hackers use autonomous AI tool Cairn to find zero-day, take over server Bell Canada says 'agentic' hacker stole enterprise customer data Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Do you really know where your employees keep company passwords? Gain visibility with NordPass Five warning signs of ransomware before encryption or data theft, and how to act on them. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. The attack exposed details of more than 1.5 million individuals before the company blocked access from external IP addresses and suspended the affected services. KEPCO is South Korea’s main electric power company and a state-controlled, major operator of the country’s critical infrastructure. The organization detected the attack on November 20, when it confirmed unauthorized access to its KEPCO ON electricity billing platform and its electronic procurement system (SRM). “On Friday, November 20, Korea Electric Power Corporation (hereafter KEPCO), led by President Kim Dong-cheol, confirmed that some customer information held in its IT systems had been exposed,” the power company states . ON is an integrated customer platform that allows customers to view and pay electricity bills. SRM is the company’s procurement system for contracting services. According to the announcement, published on Sunday, the following was exposed: The company says the data breach resulted from “advanced technologies such as AI,” but it shared no specific details about the initial access method or the attack chain. KEPCO is notifying exposed individuals directly, has filed a report with the data protection authorities, and is coordinating with government and financial authorities to block abuse such as unauthorized transactions. Potentially exposed individuals are warned that the exposed information could be used for targeted phishing and impersonation. They are advised to report any attempts to the police or Korea’s Internet and Security Agency. It is also recommended to avoid installing unknown apps, entering information into suspicious forms, and sharing sensitive data or verification codes over calls or texts. A threat actor using the “Noiem” alias has claimed the attack and advertised the breach on a hacker forum on November 19, saying that they had KEPCO user data, supplier records, and bidding and contract documents. South Korea’s Personal Information Protection Commission separately confirmed that KEPCO received an email from a hacker claiming data theft on November 19. While these claims match the available evidence, attribution to Noiem remains unconfirmed. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Bell Canada says 'agentic' hacker stole enterprise customer data Hackers steal data of 1.6 million SBC Medical Group customers Transport for London breach exposes 265,000 Oyster card users' data Baker Tilly notifies clients of data breach at third-party provider Notion says Fireworks breach exposed customer AI chat transcripts Microsoft Entra Connect Health flaw exploited to steal tenant data FBI reportedly hacked again, this time targeting nationwide police database Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices Overdue a password health-check? Audit your Active Directory for free Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Five warning signs of ransomware before encryption or data theft, and how to act on them. Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Do you really know where your employees keep company passwords? Gain visibility with NordPass Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -1317,7 +1839,7 @@
     "category": "",
     "title": "OpenRouter drops AI providers over leaked prompts and secrets",
     "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
-    "article_text": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. The company also revoked Zero Data Retention (ZDR) eligibility for 125 endpoints as a precaution and notified all potentially affected customers. OpenRouter is an AI model broker that lets developers access AI models from different companies using a single API key. When an app sends a request, OpenRouter forwards it to a provider that runs the selected model and passes the answer back. Operational technology security company Dragos alerted OpenRouter after sending two million test prompts through the platform, each containing a unique tracking link or decoy credential, and detecting \"activity indicating that data from at least three AI providers was exposed.\" Dragos discovered that, in some cases, those credentials were leaked to outsiders and used in the wild, indicating that the test prompts had escaped. “We observed activity indicating that data from at least three AI providers was exposed. Our seeded test prompts were used in attempts to access our controlled test systems and canary AWS accounts,” Dragos says . OpenRouter says there was no breach on its own systems, making the leak point at the provider level and leading to the decision to remove the three leaking inference providers: Together AI, Phala, and Novita. Another provider, Atlas Cloud, said it would voluntarily withdraw its models from OpenRouter pending security testing, following a third-party security incident. The other three published separate announcements responding to Dragos’ findings and explaining how the leaks occurred. Together AI said an AI coding agent exposed a repository credential on GitHub, allowing an unauthorized party to download stored prompt samples from June and July involving MiniMax M3, GLM-5.2, and Kimi K2.6. Phala said an attacker compromised a server processing DeepSeek V4 Flash 0731 requests routed through OpenRouter between October 21 and 22, and possibly up to November 8, and obtained application credentials from affected virtual machines. Novita said a routing misconfiguration forwarded some MiniMax requests, including those sent through OpenRouter, to MiniMax’s official API between May 28 and November 11. All four providers are tightening security controls, strengthening their zero data retention or data deletion policies, and advising potentially impacted users to rotate any secrets that may have been exposed in the leaked requests. OpenRouter is also adapting Dragos’ tests for ongoing use to check whether AI providers forward or leak user requests/responses to third parties, and will require validation before restoring ZDR eligibility. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Hackers use autonomous AI tool Cairn to find zero-day, take over server Researchers hijack Hugging Face account for popular Kokoro AI model Barracuda links cloud breach to ARTEX AI-powered cyberattack Google warns that fully-automated AI attacks are coming soon Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs Microsoft Entra Connect Health flaw exploited to steal tenant data Hackers use autonomous AI tool Cairn to find zero-day, take over server Bell Canada says 'agentic' hacker stole enterprise customer data Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Five warning signs of ransomware before encryption or data theft, and how to act on them. Do you really know where your employees keep company passwords? Gain visibility with NordPass Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. The company also revoked Zero Data Retention (ZDR) eligibility for 125 endpoints as a precaution and notified all potentially affected customers. OpenRouter is an AI model broker that lets developers access AI models from different companies using a single API key. When an app sends a request, OpenRouter forwards it to a provider that runs the selected model and passes the answer back. Operational technology security company Dragos alerted OpenRouter after sending two million test prompts through the platform, each containing a unique tracking link or decoy credential, and detecting \"activity indicating that data from at least three AI providers was exposed.\" Dragos discovered that, in some cases, those credentials were leaked to outsiders and used in the wild, indicating that the test prompts had escaped. “We observed activity indicating that data from at least three AI providers was exposed. Our seeded test prompts were used in attempts to access our controlled test systems and canary AWS accounts,” Dragos says . OpenRouter says there was no breach on its own systems, making the leak point at the provider level and leading to the decision to remove the three leaking inference providers: Together AI, Phala, and Novita. Another provider, Atlas Cloud, said it would voluntarily withdraw its models from OpenRouter pending security testing, following a third-party security incident. The other three published separate announcements responding to Dragos’ findings and explaining how the leaks occurred. Together AI said an AI coding agent exposed a repository credential on GitHub, allowing an unauthorized party to download stored prompt samples from June and July involving MiniMax M3, GLM-5.2, and Kimi K2.6. Phala said an attacker compromised a server processing DeepSeek V4 Flash 0731 requests routed through OpenRouter between October 21 and 22, and possibly up to November 8, and obtained application credentials from affected virtual machines. Novita said a routing misconfiguration forwarded some MiniMax requests, including those sent through OpenRouter, to MiniMax’s official API between May 28 and November 11. All four providers are tightening security controls, strengthening their zero data retention or data deletion policies, and advising potentially impacted users to rotate any secrets that may have been exposed in the leaked requests. OpenRouter is also adapting Dragos’ tests for ongoing use to check whether AI providers forward or leak user requests/responses to third parties, and will require validation before restoring ZDR eligibility. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Hackers use autonomous AI tool Cairn to find zero-day, take over server Researchers hijack Hugging Face account for popular Kokoro AI model Barracuda links cloud breach to ARTEX AI-powered cyberattack Google warns that fully-automated AI attacks are coming soon Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs Microsoft Entra Connect Health flaw exploited to steal tenant data FBI reportedly hacked again, this time targeting nationwide police database Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices Overdue a password health-check? Audit your Active Directory for free Do you really know where your employees keep company passwords? Gain visibility with NordPass Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Five warning signs of ransomware before encryption or data theft, and how to act on them. Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -1375,7 +1897,7 @@
     "category": "",
     "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
     "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
-    "article_text": "LaLiga, Spain's top men's professional football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. According to the organization, the incident occurred between November 14 and 16, and the attacker extracted data from compromised systems. LaLiga organizes Spain’s top two men’s professional football divisions. The top league is one of the world’s most prominent football leagues, where clubs with a global audience, such as Real Madrid, FC Barcelona, and Atlético Madrid, play. On November 16, the organization’s security team identified the source of the unauthorized access and implemented measures to block the attack and stop the data extraction. “LALIGA was the target of a cyberattack on one of its technology platforms for fan services,” reads the announcement . “Between November 14 and 16, a cybercriminal gained unauthorized access to the platform and extracted personal data belonging to users registered for digital services offered by LALIGA and some clubs.” LaLiga underlined that the incident was confined to a specific platform and did not extend to other systems that support the running of the competitions. After implementing containment measures, LaLiga launched an investigation to determine the scope of the incident and introduced more thorough monitoring to detect future attempts to breach its systems. The football organizer also reported the incident to the Spanish Data Protection Agency (AEPD) and filed a complaint with the National Police’s Central Cybercrime Unit. Impacted clubs were also directly notified, and actions to inform impacted fans are being coordinated. At the time of writing, no ransomware group has claimed responsibility for the attack on LaLiga. BleepingComputer has contacted the organization to learn more about the attack and which clubs were impacted, but we have not received a response as of publication. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Data breach impacts 40 Irish credit unions in reported IT provider hack Uber notifies drivers of data breach affecting nearly 150,000 people Harvard University data breach exposed info of 851,000 accounts UK Legal Aid Agency: Hackers stole records dating back to 1978 Cleverbridge warns hackers stole credit card numbers, CVVs in data breach Microsoft Entra Connect Health flaw exploited to steal tenant data Hackers use autonomous AI tool Cairn to find zero-day, take over server Bell Canada says 'agentic' hacker stole enterprise customer data Five warning signs of ransomware before encryption or data theft, and how to act on them. Overdue a password health-check? Audit your Active Directory for free Do you really know where your employees keep company passwords? Gain visibility with NordPass Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "LaLiga, Spain's top men's professional football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. According to the organization, the incident occurred between November 14 and 16, and the attacker extracted data from compromised systems. LaLiga organizes Spain’s top two men’s professional football divisions. The top league is one of the world’s most prominent football leagues, where clubs with a global audience, such as Real Madrid, FC Barcelona, and Atlético Madrid, play. On November 16, the organization’s security team identified the source of the unauthorized access and implemented measures to block the attack and stop the data extraction. “LALIGA was the target of a cyberattack on one of its technology platforms for fan services,” reads the announcement . “Between November 14 and 16, a cybercriminal gained unauthorized access to the platform and extracted personal data belonging to users registered for digital services offered by LALIGA and some clubs.” LaLiga underlined that the incident was confined to a specific platform and did not extend to other systems that support the running of the competitions. After implementing containment measures, LaLiga launched an investigation to determine the scope of the incident and introduced more thorough monitoring to detect future attempts to breach its systems. The football organizer also reported the incident to the Spanish Data Protection Agency (AEPD) and filed a complaint with the National Police’s Central Cybercrime Unit. Impacted clubs were also directly notified, and actions to inform impacted fans are being coordinated. At the time of writing, no ransomware group has claimed responsibility for the attack on LaLiga. BleepingComputer has contacted the organization to learn more about the attack and which clubs were impacted, but we have not received a response as of publication. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Data breach impacts 40 Irish credit unions in reported IT provider hack Uber notifies drivers of data breach affecting nearly 150,000 people Harvard University data breach exposed info of 851,000 accounts UK Legal Aid Agency: Hackers stole records dating back to 1978 South Korea’s power giant KEPCO confirms data breach impacting 1.5 million Microsoft Entra Connect Health flaw exploited to steal tenant data FBI reportedly hacked again, this time targeting nationwide police database Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices Do you really know where your employees keep company passwords? Gain visibility with NordPass Overdue a password health-check? Audit your Active Directory for free Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Five warning signs of ransomware before encryption or data theft, and how to act on them. Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -1607,7 +2129,7 @@
     "category": "",
     "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
     "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-    "article_text": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. Parent company iQSTEL said that the intrusion was detected on October 22 and GlobeTopper responded by suspending its platform and starting an investigation. GlobeTopper is a business-to-business digital gift card distributor. Various retailers, fintech apps, and rewards platforms use its API. According to the platform’s website , it is used by more than 4,000 brands across 65 countries, including IKEA, Adidas, Spotify, Target, and Roblox. In a filing with the U.S. Securities and Exchange Commission (SEC), iQSTEL said that GlobeTopper detected more unauthorized activity the day after it identified the attack. In response, the company \"took the platform and all affected servers offline\" in the early hours of October 23 to investigate and fix the problem. The company deployed a completely rebuilt platform on AWS on October 31, while commercial operations were restored in stages, starting November 1. GlobeTopper says the attacker obtained certain client API credentials and integration keys, which have been revoked and replaced, and it has observed no unauthorized use of them yet. “During its investigation, the Company determined that the unauthorized party obtained API credentials and integration keys of certain GlobeTopper business customers,” iQSTEL says . “All affected credentials and integration keys have been revoked and rotated, and affected business customers have been issued new credentials subject to additional access restrictions.” The company further stated that an investigation is ongoing to determine whether other customer, personal, payment, or provider data was accessed or acquired. Regarding the digital gift cards the attackers redeemed, the company says it cannot block, recover, or reclaim them, and will incur the losses. iQSTEL said the incident hurt GlobeTopper’s fourth-quarter transaction volume and operating results, but as of the filing, it has not determined it to be material. BleepingComputer has emailed iQSTEL with additional questions regarding the incident, but the company declined to share further information. At the time of writing, no ransomware groups have listed iQSTEL or GlobeTopper as victims on their extortion portals. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Bullhorn takes staffing platform offline to contain cyberattack BADBOX botnet returns with record-breaking 40 billion daily ad requests FBI reportedly hacked again, this time targeting nationwide police database Five warning signs of ransomware breach before encryption or data theft Microsoft Entra Connect Health flaw exploited to steal tenant data Hackers use autonomous AI tool Cairn to find zero-day, take over server Bell Canada says 'agentic' hacker stole enterprise customer data Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Five warning signs of ransomware before encryption or data theft, and how to act on them. Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Overdue a password health-check? Audit your Active Directory for free Do you really know where your employees keep company passwords? Gain visibility with NordPass Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. Parent company iQSTEL said that the intrusion was detected on October 22 and GlobeTopper responded by suspending its platform and starting an investigation. GlobeTopper is a business-to-business digital gift card distributor. Various retailers, fintech apps, and rewards platforms use its API. According to the platform’s website , it is used by more than 4,000 brands across 65 countries, including IKEA, Adidas, Spotify, Target, and Roblox. In a filing with the U.S. Securities and Exchange Commission (SEC), iQSTEL said that GlobeTopper detected more unauthorized activity the day after it identified the attack. In response, the company \"took the platform and all affected servers offline\" in the early hours of October 23 to investigate and fix the problem. The company deployed a completely rebuilt platform on AWS on October 31, while commercial operations were restored in stages, starting November 1. GlobeTopper says the attacker obtained certain client API credentials and integration keys, which have been revoked and replaced, and it has observed no unauthorized use of them yet. “During its investigation, the Company determined that the unauthorized party obtained API credentials and integration keys of certain GlobeTopper business customers,” iQSTEL says . “All affected credentials and integration keys have been revoked and rotated, and affected business customers have been issued new credentials subject to additional access restrictions.” The company further stated that an investigation is ongoing to determine whether other customer, personal, payment, or provider data was accessed or acquired. Regarding the digital gift cards the attackers redeemed, the company says it cannot block, recover, or reclaim them, and will incur the losses. iQSTEL said the incident hurt GlobeTopper’s fourth-quarter transaction volume and operating results, but as of the filing, it has not determined it to be material. BleepingComputer has emailed iQSTEL with additional questions regarding the incident, but the company declined to share further information. At the time of writing, no ransomware groups have listed iQSTEL or GlobeTopper as victims on their extortion portals. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Bullhorn takes staffing platform offline to contain cyberattack BADBOX botnet returns with record-breaking 40 billion daily ad requests FBI reportedly hacked again, this time targeting nationwide police database Five warning signs of ransomware breach before encryption or data theft Microsoft Entra Connect Health flaw exploited to steal tenant data FBI reportedly hacked again, this time targeting nationwide police database Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices Five warning signs of ransomware before encryption or data theft, and how to act on them. Do you really know where your employees keep company passwords? Gain visibility with NordPass Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Overdue a password health-check? Audit your Active Directory for free Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -1892,7 +2414,7 @@
     "scope": "General",
     "category": "",
     "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
-    "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .",
+    "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .",
     "article_text": "",
     "quick_summary": [
       "The company has restored access to the affected services and continues to monitor the affected environments.",
@@ -2125,7 +2647,7 @@
     "category": "",
     "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
     "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-    "article_text": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. This is triggered when Windows automatically switches from the headphone (A2DP stereo) profile to the headset (hands-free, phone-call-like) profile when an app or game activates and uses the headset's microphone, because bandwidth is limited in two-way mode. After installing the preview builds released for the Beta and Experimental channels on Friday, Windows 11 Insiders with newer Bluetooth headsets can keep playing high-quality audio even after the OS switches between profiles. \"Bluetooth LE Audio devices can now play at full-range stereo fidelity while also using the device's microphone, ensuring you continue to hear great audio quality when in game chat, in a voice call, using voice typing, or using voice chat in Copilot Chat,\" said Windows Insider communications lead Stephen Lines. \"When using an LE Audio device with a PC that supports Super Wideband Stereo, choose the new 2 channels, 16 bit, 48000Hz option from Settings > System > Sound > Output > {Bluetooth device} > Output settings > Format when microphone is active.\" This new feature is available for all Bluetooth LE Audio devices that support 48kHz playback, such as headphones, earbuds, and speakers. ​Earlier this month, Microsoft also fixed USB audio issues that have plagued Windows users who installed security updates released since September. As it explained when it acknowledged this known issue days after the September 2026 Patch Tuesday, USB Audio Class 1.0 devices failed to start or produce audio on some systems after installing recent updates. Two years ago, Microsoft also blocked Windows 24H2 upgrades on systems with incompatible Intel Smart Sound Technology (SST) audio drivers due to blue screen of death (BSOD) issues and confirmed an issue that was causing game audio to go full volume when using USB DAC sound systems. In January 2025, Microsoft addressed a bug causing audio playback problems and Code 10 errors on Windows 11 24H2 systems with USB audio device drivers after installing the KB5050094 preview update. More recently, on Tuesday, Microsoft announced that it's testing a new feature that lets IT admins remotely lock stolen or lost enterprise Windows devices without wiping them. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Microsoft confirms Windows printing issues affecting Forcepoint users Microsoft confirms app installation, launch issues after hotpatch Microsoft pushes Windows emergency updates to fix activation failures Microsoft confirms Windows activation failures after November updates Microsoft says November security updates cause printing issues Microsoft Entra Connect Health flaw exploited to steal tenant data Hackers use autonomous AI tool Cairn to find zero-day, take over server Bell Canada says 'agentic' hacker stole enterprise customer data Five warning signs of ransomware before encryption or data theft, and how to act on them. Do you really know where your employees keep company passwords? Gain visibility with NordPass Overdue a password health-check? Audit your Active Directory for free Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. This is triggered when Windows automatically switches from the headphone (A2DP stereo) profile to the headset (hands-free, phone-call-like) profile when an app or game activates and uses the headset's microphone, because bandwidth is limited in two-way mode. After installing the preview builds released for the Beta and Experimental channels on Friday, Windows 11 Insiders with newer Bluetooth headsets can keep playing high-quality audio even after the OS switches between profiles. \"Bluetooth LE Audio devices can now play at full-range stereo fidelity while also using the device's microphone, ensuring you continue to hear great audio quality when in game chat, in a voice call, using voice typing, or using voice chat in Copilot Chat,\" said Windows Insider communications lead Stephen Lines. \"When using an LE Audio device with a PC that supports Super Wideband Stereo, choose the new 2 channels, 16 bit, 48000Hz option from Settings > System > Sound > Output > {Bluetooth device} > Output settings > Format when microphone is active.\" This new feature is available for all Bluetooth LE Audio devices that support 48kHz playback, such as headphones, earbuds, and speakers. ​Earlier this month, Microsoft also fixed USB audio issues that have plagued Windows users who installed security updates released since September. As it explained when it acknowledged this known issue days after the September 2026 Patch Tuesday, USB Audio Class 1.0 devices failed to start or produce audio on some systems after installing recent updates. Two years ago, Microsoft also blocked Windows 24H2 upgrades on systems with incompatible Intel Smart Sound Technology (SST) audio drivers due to blue screen of death (BSOD) issues and confirmed an issue that was causing game audio to go full volume when using USB DAC sound systems. In January 2025, Microsoft addressed a bug causing audio playback problems and Code 10 errors on Windows 11 24H2 systems with USB audio device drivers after installing the KB5050094 preview update. More recently, on Tuesday, Microsoft announced that it's testing a new feature that lets IT admins remotely lock stolen or lost enterprise Windows devices without wiping them. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Microsoft confirms Windows printing issues affecting Forcepoint users Microsoft confirms app installation, launch issues after hotpatch Microsoft pushes Windows emergency updates to fix activation failures Microsoft confirms Windows activation failures after November updates Microsoft says November security updates cause printing issues Microsoft Entra Connect Health flaw exploited to steal tenant data FBI reportedly hacked again, this time targeting nationwide police database Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices Five warning signs of ransomware before encryption or data theft, and how to act on them. Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Do you really know where your employees keep company passwords? Gain visibility with NordPass Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Overdue a password health-check? Audit your Active Directory for free Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -2420,7 +2942,7 @@
     "category": "",
     "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
     "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
-    "article_text": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. 45-year-old Carla Magaly Alcedo Mendoza of Lima, Peru, pleaded guilty to conspiracy to commit mail and wire fraud after being charged in an 18-count indictment following her March 2023 arrest and April 2025 extradition to the United States. According to court documents , Alcedo managed and operated Peruvian call centers linked to multiple large-scale fraud and extortion schemes between January 2013 and December 2018. The scammers first contacted Spanish-speaking Americans, claiming they qualified for free services or products. However, they later impersonated US government officials and lawyers and told the victims they were contractually obligated to pay large sums of money to receive them. Together with her accomplices, she defrauded and extorted thousands of Americans by falsely threatening them with court action, arrest, and immigration consequences in unsolicited phone calls targeting Spanish-speaking Americans. \"The scheme spanned several years and thousands of victims made payments to Alcedo. Collectively, the scheme was responsible for defrauding more than 30,000 Spanish-speaking residents of the United States out of $15 million,\" the Department of Justice said . \"These criminals preyed on hardworking Americans, using fear and intimidation to steal millions of dollars. They deliberately targeted Spanish-speaking communities, impersonating government officials and threatening innocent people with arrest and legal consequences,\" added Acting US Attorney Yara Lorenzo Klukas. Alcedo was the tenth defendant extradited from Peru and sentenced in this scheme, with ten other Peruvian call center owner-operators and four distribution center owner-operators involved in the scheme convicted so far. This follows a June 2026 warning from the US Federal Trade Commission (FTC) that Americans have lost $3.5 billion to impersonation scams in 2025, with reported losses nearly tripling since 2020 and approximately $920 million stolen by government impersonators. In April, the FBI also warned in its 2025 Internet Crime Report that US victims lost nearly $21 billion to cyber-enabled crimes throughout last year. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Chinese man extradited for role in $36 million cryptocurrency scam Hacker gets 8 years for stealing $3.3 million from taxpayers Vietnamese man charged in $16 million 'pig butchering' crypto scam Microsoft Teams to get AI-powered, context-aware phishing detection Microsoft Entra Connect Health flaw exploited to steal tenant data Hackers use autonomous AI tool Cairn to find zero-day, take over server Bell Canada says 'agentic' hacker stole enterprise customer data Overdue a password health-check? Audit your Active Directory for free Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Do you really know where your employees keep company passwords? Gain visibility with NordPass Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Five warning signs of ransomware before encryption or data theft, and how to act on them. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. 45-year-old Carla Magaly Alcedo Mendoza of Lima, Peru, pleaded guilty to conspiracy to commit mail and wire fraud after being charged in an 18-count indictment following her March 2023 arrest and April 2025 extradition to the United States. According to court documents , Alcedo managed and operated Peruvian call centers linked to multiple large-scale fraud and extortion schemes between January 2013 and December 2018. The scammers first contacted Spanish-speaking Americans, claiming they qualified for free services or products. However, they later impersonated US government officials and lawyers and told the victims they were contractually obligated to pay large sums of money to receive them. Together with her accomplices, she defrauded and extorted thousands of Americans by falsely threatening them with court action, arrest, and immigration consequences in unsolicited phone calls targeting Spanish-speaking Americans. \"The scheme spanned several years and thousands of victims made payments to Alcedo. Collectively, the scheme was responsible for defrauding more than 30,000 Spanish-speaking residents of the United States out of $15 million,\" the Department of Justice said . \"These criminals preyed on hardworking Americans, using fear and intimidation to steal millions of dollars. They deliberately targeted Spanish-speaking communities, impersonating government officials and threatening innocent people with arrest and legal consequences,\" added Acting US Attorney Yara Lorenzo Klukas. Alcedo was the tenth defendant extradited from Peru and sentenced in this scheme, with ten other Peruvian call center owner-operators and four distribution center owner-operators involved in the scheme convicted so far. This follows a June 2026 warning from the US Federal Trade Commission (FTC) that Americans have lost $3.5 billion to impersonation scams in 2025, with reported losses nearly tripling since 2020 and approximately $920 million stolen by government impersonators. In April, the FBI also warned in its 2025 Internet Crime Report that US victims lost nearly $21 billion to cyber-enabled crimes throughout last year. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Chinese man extradited for role in $36 million cryptocurrency scam Hacker gets 8 years for stealing $3.3 million from taxpayers Vietnamese man charged in $16 million 'pig butchering' crypto scam Microsoft Teams to get AI-powered, context-aware phishing detection Microsoft Entra Connect Health flaw exploited to steal tenant data FBI reportedly hacked again, this time targeting nationwide police database Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices Do you really know where your employees keep company passwords? Gain visibility with NordPass Overdue a password health-check? Audit your Active Directory for free Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Five warning signs of ransomware before encryption or data theft, and how to act on them. Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -2541,7 +3063,7 @@
     "category": "",
     "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
     "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of 10.0. The issue affects versions 0.9.1.0 and 0.9.1 Beta, and relates to an",
-    "article_text": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914 , carries a CVSS score of 9.3 out of 10.0. The issue affects versions 0.9.1.0 and 0.9.1 Beta, and relates to an insecure deserialization vulnerability in the Idunno.AntiCsrf.AntiCsrfModule HTTP module. At its core, the problem stems from the fact that the module deserializes untrusted CSRF form token data using an unkeyed .NET System.Web.UI.ObjectStateFormatter instance without cryptographic MAC or signature verification when handling incoming HTTP POST requests to ASP.NET WebForms (System.Web.UI.Page) endpoints. This behavior, in turn, can allow a remote attacker to achieve arbitrary remote code execution (RCE). Google's Mandiant division has given the vulnerability a \"High\" exploitability assessment, adding that exploitation hinges only on a single HTTP POST request with no prior authentication or valid CSRF token. LDB, Genwei Jiang, Dhanesh Kizhakkinan, Brian Bahtiarian, and Lucas Kossack of Google Cloud and Mandiant Incident Response have been credited with discovering the flaw earlier this month. Google's threat intelligence team did not disclose any further details related to the activity. The Hacker News has contacted Google, and we will update the story if we hear back. In the absence of an official patch, organizations still using the library are advised to discontinue its use and replace it with an actively supported anti-CSRF alternative such as follows - \"Audit all ASP.NET Web.config files and bin/ directories for references to Idunno.AntiCsrf or AntiCsrfModule, and review IIS logs for anomalous POST requests to .aspx endpoints returning HTTP 302 or HTTP 500 with elevated cs-bytes (where logged),\" Google said. \"Environments with evidence of exploitation should rotate all secrets stored in Web.config and applicationHost.config (including keys, encryption keys, and database credentials) and inspect webroots for unauthorized files.\" Discover why SHA pinning alone isn't enough and learn how to close hidden security gaps in your GitHub Actions pipelines. Learn what 6,000 real-world attacks reveal about MFA weaknesses and how to stop AI-driven phishing and account takeovers. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "article_text": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914 , carries a CVSS score of 9.3 out of 10.0. The issue affects versions 0.9.1.0 and 0.9.1 Beta, and relates to an insecure deserialization vulnerability in the Idunno.AntiCsrf.AntiCsrfModule HTTP module. At its core, the problem stems from the fact that the module deserializes untrusted CSRF form token data using an unkeyed .NET System.Web.UI.ObjectStateFormatter instance without cryptographic MAC or signature verification when handling incoming HTTP POST requests to ASP.NET WebForms (System.Web.UI.Page) endpoints. This behavior, in turn, can allow a remote attacker to achieve arbitrary remote code execution (RCE). Google's Mandiant division has given the vulnerability a \"High\" exploitability assessment, adding that exploitation hinges only on a single HTTP POST request with no prior authentication or valid CSRF token. LDB, Genwei Jiang, Dhanesh Kizhakkinan, Brian Bahtiarian, and Lucas Kossack of Google Cloud and Mandiant Incident Response have been credited with discovering the flaw earlier this month. Google's threat intelligence team did not disclose any further details related to the activity. When reached for comment, Google told The Hacker News that it does not have anything to share at this time. In the absence of an official patch, organizations still using the library are advised to discontinue its use and replace it with an actively supported anti-CSRF alternative such as follows - \"Audit all ASP.NET Web.config files and bin/ directories for references to Idunno.AntiCsrf or AntiCsrfModule, and review IIS logs for anomalous POST requests to .aspx endpoints returning HTTP 302 or HTTP 500 with elevated cs-bytes (where logged),\" Google said. \"Environments with evidence of exploitation should rotate all secrets stored in Web.config and applicationHost.config (including keys, encryption keys, and database credentials) and inspect webroots for unauthorized files.\" Discover why SHA pinning alone isn't enough and learn how to close hidden security gaps in your GitHub Actions pipelines. Learn what 6,000 real-world attacks reveal about MFA weaknesses and how to stop AI-driven phishing and account takeovers. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
     "quick_summary": [
       "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
@@ -2570,7 +3092,7 @@
     "category": "",
     "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
     "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
-    "article_text": "Microsoft confirmed that some Forcepoint users may experience printing issues after installing the November 2026 Windows 11 hotpatch. In a Friday service alert seen by BleepingComputer, Microsoft said this known issue affects only systems running Windows 11 24H2 and later. According to Microsoft, the printing problems stem from a compatibility issue between the KB5132043 Windows hotpatch update and the Forcepoint DLP Endpoint Agent endpoint data loss prevention solution. \"After installing the November 2026 Windows hotpatch update (the Originating KBs listed above), devices running Forcepoint DLP Endpoint Agent might experience printing issues,\" Microsoft said. \"Affected users might find that the print option is greyed out or encounter errors when selecting a printer. This issue occurs because the Print Spooler service fails to start.\" While a fix is not yet available, Forcepoint has shared a temporary workaround for its customers in this support document , which can be accessed after signing in to the Forcepoint support portal. Last week, Microsoft also warned that the KB5132043 hotpatch is causing installation and launch issues affecting Office and third-party applications on Windows 11 systems. These two known issues should not affect systems with the standard November 2026 Patch Tuesday security updates, only those that have installed the hotpatch updates pushed through Microsoft's Windows Autopatch , a cloud-based enterprise service designed to automate Windows and Microsoft 365 updates. However, as the company confirmed two weeks ago, the November 2026 Patch Tuesday security updates may also break printing for users trying to print documents with complex formatting on server (Windows Server 2016 or later) and client (Windows 10 or later) devices. Microsoft unveiled Windows Autopatch in April 2022, saying it would be available for free to customers with a Windows 10/11 Enterprise E3 license or greater starting in July 2022. Windows Autopatch was made available in public preview in early June 2022 and reached general availability in July 2022 . In March, it announced that it would turn on hotpatch security updates by default for all eligible Windows devices managed through Microsoft Intune and the Graph API on systems with the May 2026 Windows security updates installed. One month later, Microsoft fixed a Windows Autopatch bug that deployed driver updates restricted by administrative policies on some Autopatch-managed Windows devices belonging to customers across the European Union. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Microsoft confirms app installation, launch issues after hotpatch Windows 11 KB5132057 update released with 28 changes and fixes Microsoft says November security updates cause printing issues Microsoft testing fix for Windows 11 Bluetooth audio quality drops Microsoft now automatically installs Windows 11 26H2 on unmanaged devices Microsoft Entra Connect Health flaw exploited to steal tenant data Hackers use autonomous AI tool Cairn to find zero-day, take over server Bell Canada says 'agentic' hacker stole enterprise customer data Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Overdue a password health-check? Audit your Active Directory for free Five warning signs of ransomware before encryption or data theft, and how to act on them. Do you really know where your employees keep company passwords? Gain visibility with NordPass Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "Microsoft confirmed that some Forcepoint users may experience printing issues after installing the November 2026 Windows 11 hotpatch. In a Friday service alert seen by BleepingComputer, Microsoft said this known issue affects only systems running Windows 11 24H2 and later. According to Microsoft, the printing problems stem from a compatibility issue between the KB5132043 Windows hotpatch update and the Forcepoint DLP Endpoint Agent endpoint data loss prevention solution. \"After installing the November 2026 Windows hotpatch update (the Originating KBs listed above), devices running Forcepoint DLP Endpoint Agent might experience printing issues,\" Microsoft said. \"Affected users might find that the print option is greyed out or encounter errors when selecting a printer. This issue occurs because the Print Spooler service fails to start.\" While a fix is not yet available, Forcepoint has shared a temporary workaround for its customers in this support document , which can be accessed after signing in to the Forcepoint support portal. Last week, Microsoft also warned that the KB5132043 hotpatch is causing installation and launch issues affecting Office and third-party applications on Windows 11 systems. These two known issues should not affect systems with the standard November 2026 Patch Tuesday security updates, only those that have installed the hotpatch updates pushed through Microsoft's Windows Autopatch , a cloud-based enterprise service designed to automate Windows and Microsoft 365 updates. However, as the company confirmed two weeks ago, the November 2026 Patch Tuesday security updates may also break printing for users trying to print documents with complex formatting on server (Windows Server 2016 or later) and client (Windows 10 or later) devices. Microsoft unveiled Windows Autopatch in April 2022, saying it would be available for free to customers with a Windows 10/11 Enterprise E3 license or greater starting in July 2022. Windows Autopatch was made available in public preview in early June 2022 and reached general availability in July 2022 . In March, it announced that it would turn on hotpatch security updates by default for all eligible Windows devices managed through Microsoft Intune and the Graph API on systems with the May 2026 Windows security updates installed. One month later, Microsoft fixed a Windows Autopatch bug that deployed driver updates restricted by administrative policies on some Autopatch-managed Windows devices belonging to customers across the European Union. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Microsoft confirms app installation, launch issues after hotpatch Windows 11 KB5132057 update released with 28 changes and fixes Microsoft says November security updates cause printing issues Microsoft testing fix for Windows 11 Bluetooth audio quality drops Microsoft now automatically installs Windows 11 26H2 on unmanaged devices Windows 11 is the cause of new computer sales slump, no one wants it, it's not an ai bubble, it's an OS nightmare. Everyone wants the games and programs that run on windows but no one wants the windows spyware OS, Google needs to make a better chrome/linux os that can run every program ever written for Windows or Android.. Microsoft Entra Connect Health flaw exploited to steal tenant data FBI reportedly hacked again, this time targeting nationwide police database Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices Do you really know where your employees keep company passwords? Gain visibility with NordPass Overdue a password health-check? Audit your Active Directory for free Five warning signs of ransomware before encryption or data theft, and how to act on them. Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -2744,7 +3266,7 @@
     "category": "",
     "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
     "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-    "article_text": "​The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. Cisco Expressway Series devices are enterprise collaboration gateways (deployed as virtual machines or physical hardware appliances) that connect internal voice and video systems with outside networks and remote users via a secure connection. Tracked as CVE-2026-76466 , this security flaw stems from the use of hard-coded credentials and a failure to fully validate client certificates, enabling unauthenticated attackers to remotely execute arbitrary operating system commands as root on affected Cisco Expressway-C and Cisco Expressway-E devices configured in a cluster. While Cisco says that its Product Security Incident Response Team (PSIRT) is not aware of active exploitation in the wild or publicly available proof-of-concept exploits targeting this vulnerability, CISA tagged it as actively exploited on Friday. The cybersecurity agency also added it to its Known Exploited Vulnerabilities (KEV) Catalog on Tuesday and ordered US Federal Civilian Executive Branch (FCEB) agencies to secure their systems within three days, as mandated by Binding Operational Directive (BOD) 26-04. Although BOD 26-04 targets only federal agencies, CISA urged all network defenders, including private-sector security teams, to prioritize patching this flaw to block ongoing attacks that may target their networks. \"These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise,\" it warned. While CISA has yet to share details on these ongoing attacks, Russian cybersecurity company F6 said on Thursday that it spotted attackers using an unnamed AI assistant to successfully exploit CVE-2026-7646 and gain remote command execution with full root privileges on Internet-exposed Cisco Expressway devices. \"The attackers initially compromised two Cisco Expressway internet-facing devices. Through one of them, they gained access to two additional cluster nodes located on the organization’s internal network,\" F6 security researchers noted. \"After obtaining root access, the attackers began preparing tooling for further lateral movement across the infrastructure. They used custom Python scripts designed to scan the network, discover accessible SMB resources, interact with SQL Server and WinRM, and explore GitLab repositories in order to exfiltrate credentials and other sensitive information.\" Two weeks ago, CISA also flagged a high-severity Cisco BroadWorks vulnerability (CVE-2026-20320) as actively exploited in attacks and ordered federal agencies to patch their systems by November 24. According to threat intelligence firm Malbear Labs, a Chinese-speaking threat actor abused CVE-2026-20320 in autonomous AI attacks targeting a European telecommunications provider and 13 organizations that used its data centers and cloud infrastructure. CISA has added 103 Cisco vulnerabilities to its list of actively exploited flaws since November 2021, seven of which ransomware gangs have also used in the wild. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Cisco patches new Secure Email Gateway zero-day exploited in attacks Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers Apache warns of Roller RCE vulnerability exploited in attacks Check Point warns of zero-day flaw exploited for root access CISA flags Cisco BroadWorks flaw as actively exploited in attacks Microsoft Entra Connect Health flaw exploited to steal tenant data Hackers use autonomous AI tool Cairn to find zero-day, take over server Bell Canada says 'agentic' hacker stole enterprise customer data Do you really know where your employees keep company passwords? Gain visibility with NordPass Overdue a password health-check? Audit your Active Directory for free Five warning signs of ransomware before encryption or data theft, and how to act on them. Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Read our posting guidelinese to learn what content is prohibited.",
+    "article_text": "​The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. Cisco Expressway Series devices are enterprise collaboration gateways (deployed as virtual machines or physical hardware appliances) that connect internal voice and video systems with outside networks and remote users via a secure connection. Tracked as CVE-2026-76466 , this security flaw stems from the use of hard-coded credentials and a failure to fully validate client certificates, enabling unauthenticated attackers to remotely execute arbitrary operating system commands as root on affected Cisco Expressway-C and Cisco Expressway-E devices configured in a cluster. While Cisco says that its Product Security Incident Response Team (PSIRT) is not aware of active exploitation in the wild or publicly available proof-of-concept exploits targeting this vulnerability, CISA tagged it as actively exploited on Friday. The cybersecurity agency also added it to its Known Exploited Vulnerabilities (KEV) Catalog on Tuesday and ordered US Federal Civilian Executive Branch (FCEB) agencies to secure their systems within three days, as mandated by Binding Operational Directive (BOD) 26-04. Although BOD 26-04 targets only federal agencies, CISA urged all network defenders, including private-sector security teams, to prioritize patching this flaw to block ongoing attacks that may target their networks. \"These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise,\" it warned. While CISA has yet to share details on these ongoing attacks, Russian cybersecurity company F6 said on Thursday that it spotted attackers using an unnamed AI assistant to successfully exploit CVE-2026-7646 and gain remote command execution with full root privileges on Internet-exposed Cisco Expressway devices. \"The attackers initially compromised two Cisco Expressway internet-facing devices. Through one of them, they gained access to two additional cluster nodes located on the organization’s internal network,\" F6 security researchers noted. \"After obtaining root access, the attackers began preparing tooling for further lateral movement across the infrastructure. They used custom Python scripts designed to scan the network, discover accessible SMB resources, interact with SQL Server and WinRM, and explore GitLab repositories in order to exfiltrate credentials and other sensitive information.\" Two weeks ago, CISA also flagged a high-severity Cisco BroadWorks vulnerability (CVE-2026-20320) as actively exploited in attacks and ordered federal agencies to patch their systems by November 24. According to threat intelligence firm Malbear Labs, a Chinese-speaking threat actor abused CVE-2026-20320 in autonomous AI attacks targeting a European telecommunications provider and 13 organizations that used its data centers and cloud infrastructure. CISA has added 103 Cisco vulnerabilities to its list of actively exploited flaws since November 2021, seven of which ransomware gangs have also used in the wild. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Cisco patches new Secure Email Gateway zero-day exploited in attacks Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws Apache warns of Roller RCE vulnerability exploited in attacks Check Point warns of zero-day flaw exploited for root access Microsoft Entra Connect Health flaw exploited to steal tenant data FBI reportedly hacked again, this time targeting nationwide police database Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices Every AI agent needs a named owner; lead with agent identity. Book the Token Security demo. Overdue a password health-check? Audit your Active Directory for free Breaking CVEs, attacker AI, real tradecraft. Join Huntress experts live monthly. No pitches, just hacks. Do you really know where your employees keep company passwords? Gain visibility with NordPass Five warning signs of ransomware before encryption or data theft, and how to act on them. Read our posting guidelinese to learn what content is prohibited.",
     "quick_summary": [
       "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild.",
       "Risk: ransomware/extortion, credentials/infostealer risk, vulnerability/exploitation risk",
@@ -2765,31 +3287,31 @@
     ]
   },
   {
-    "id": "6cf901dc9ef196ef",
-    "date": "2026-11-23T02:00:04+00:00",
-    "source": "SANS ISC",
+    "id": "4e1b561ae9fba8f8",
+    "date": "2026-11-23T00:00:00+00:00",
+    "source": "Recorded Future Research",
     "quality": "High",
     "scope": "Research",
     "category": "",
-    "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
-    "summary": "",
+    "title": "What are threat intelligence feeds?",
+    "summary": "Threat intelligence feeds are continuous streams of data that provide up-to-the-minute details about cyber threats worldwide. Learn more!",
     "article_text": "",
     "quick_summary": [
-      "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
+      "Threat intelligence feeds are continuous streams of data that provide up-to-the-minute details about cyber threats worldwide.",
       "Risk: general cybersecurity update",
       "Action: read full article if the vendor/customer/environment is relevant."
     ],
-    "link": "https://isc.sans.edu/diary/rss/33548",
-    "target": "ISC Stormcast Monday November",
+    "link": "https://www.recordedfuture.com/blog/what-are-threat-intelligence-feeds",
+    "target": "Unknown",
     "type": "General Cybersecurity",
     "severity": "Low",
     "sources": [
-      "SANS ISC"
+      "Recorded Future Research"
     ],
     "links": [
       {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33548"
+        "source": "Recorded Future Research",
+        "url": "https://www.recordedfuture.com/blog/what-are-threat-intelligence-feeds"
       }
     ]
   },
@@ -4053,7 +4575,7 @@
     "category": "",
     "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-129448 (CVSS score: 9.8) - A deserialization of untrusted data vulnerability in",
-    "article_text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities ( KEV ), citing evidence of active exploitation. Earlier this week, the maintainers of Apache Roller acknowledged that the \"issue is being actively exploited\" but did not reveal how it was being weaponized or who is behind it. As of writing, there also appear to be no public reports documenting active exploitation of CVE-2025-42884. The addition of CVE-2026-76466 to the KEV catalog follows a report from F6 that the vulnerability was exploited to breach a Russian organization following the release of a proof-of-concept (PoC) exploit, enabling the attackers to move laterally across the network and access sensitive data. The activity has not been attributed to any threat actor. The exploitation of CVE-2026-123890, on the other hand, has been linked to a suspected China-nexus cyber espionage group tracked as Armory Castle (formerly UNC5221), which is said to have weaponized it in conjunction with another now-patched flaw in BeyondTrust Remote Support (CVE-2026-102764, CVSS score: 9.3) to deploy custom backdoors for persistent access and data theft. Federal Civilian Executive Branch (FCEB) agencies have been urged to patch all four vulnerabilities by November 23, 2026, pursuant to Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk. Onapsis, which discovered and reported CVE-2025-42884 last year, told The Hacker News it recently observed the flaw being exploited in the wild, prompting its addition to the CISA's KEV catalog on November 20, 2026. \"There are 2 interesting aspects of this vulnerability,\" Juan Pablo (JP) Perez-Etchegoyen, CTO of Onapsis, said. \"There is no publicly available exploit for this vulnerability, meaning that whoever is behind this active exploitation has very specialized knowledge and has developed the exploit to abuse this vulnerability.\" \"This is a CVSS 6.5 vulnerability, but it has the potential to perform RCE [remote code execution] through deserialization, which significantly increases its criticality.\" Onapsis has urged organizations to make sure that they have applied SAP Security Note 3660969, as the vulnerability can be exploited to run arbitrary commands on the server and lead to a full compromise. (The story was updated after publication on November 23, 2026, to include additional insights from Onapsis.) Discover why SHA pinning alone isn't enough and learn how to close hidden security gaps in your GitHub Actions pipelines. Learn what 6,000 real-world attacks reveal about MFA weaknesses and how to stop AI-driven phishing and account takeovers. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "article_text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities ( KEV ), citing evidence of active exploitation. Earlier this week, the maintainers of Apache Roller acknowledged that the \"issue is being actively exploited\" but did not reveal how it was being weaponized or who is behind it. As of writing, there also appear to be no public reports documenting active exploitation of CVE-2025-42884. The addition of CVE-2026-76466 to the KEV catalog follows a report from F6 that the vulnerability was exploited to breach a Russian organization following the release of a proof-of-concept (PoC) exploit, enabling the attackers to move laterally across the network and access sensitive data. The activity has not been attributed to any threat actor. The exploitation of CVE-2026-123890, on the other hand, has been linked to a suspected China-nexus cyber espionage group tracked as Armory Castle (formerly UNC5221), which is said to have weaponized it in conjunction with another now-patched flaw in BeyondTrust Remote Support (CVE-2026-102764, CVSS score: 9.3) to deploy custom backdoors for persistent access and data theft. Federal Civilian Executive Branch (FCEB) agencies have been urged to patch all four vulnerabilities by November 23, 2026, pursuant to Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk. Onapsis, which discovered and reported CVE-2025-42884 last year, told The Hacker News that it recently observed the flaw being exploited in the wild, prompting its addition to the CISA's KEV catalog on November 20, 2026. The activity is assessed to be more targeted than widespread in nature. \"There are 2 interesting aspects of this vulnerability,\" Juan Pablo (JP) Perez-Etchegoyen, CTO of Onapsis, said. \"There is no publicly available exploit for this vulnerability, meaning that whoever is behind this active exploitation has very specialized knowledge and has developed the exploit to abuse this vulnerability.\" \"This is a CVSS 6.5 vulnerability, but it has the potential to perform RCE [remote code execution] through deserialization, which significantly increases its criticality.\" Onapsis has urged organizations to make sure that they have applied SAP Security Note 3660969, as the vulnerability can be exploited to run arbitrary commands on the server and lead to a full compromise. (The story was updated after publication on November 23, 2026, to include additional insights from Onapsis.) Discover why SHA pinning alone isn't enough and learn how to close hidden security gaps in your GitHub Actions pipelines. Learn what 6,000 real-world attacks reveal about MFA weaknesses and how to stop AI-driven phishing and account takeovers. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
     "quick_summary": [
       "Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citin",
       "Risk: vulnerability/exploitation risk",
@@ -6238,259 +6760,6 @@
       {
         "source": "DeafNews",
         "url": "https://deafnews.it/en/news/cybersecurity/signdrop-the-zero-day-that-weaponizes-microsofts-clfs-mitigation-against-windows-defender"
-      }
-    ]
-  },
-  {
-    "id": "21e0c27fe1e6ded6",
-    "date": "2026-11-20T02:00:02+00:00",
-    "source": "SANS ISC",
-    "quality": "High",
-    "scope": "Research",
-    "category": "",
-    "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
-    "summary": "",
-    "article_text": "",
-    "quick_summary": [
-      "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://isc.sans.edu/diary/rss/33538",
-    "target": "ISC Stormcast Friday November",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SANS ISC"
-    ],
-    "links": [
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33538"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33536"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33528"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33524"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33520"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33516"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33512"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33510"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33504"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33500"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33494"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33490"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33486"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33484"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33480"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33472"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33468"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33464"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33462"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33456"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33438"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33436"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33432"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33428"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33424"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33418"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33416"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33412"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33408"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33404"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33402"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33398"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33390"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33386"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33384"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33378"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33374"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33370"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33364"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33356"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33354"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33350"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33342"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33346"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33362"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33338"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33334"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33330"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33328"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33322"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33316"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33310"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33308"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33304"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33302"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33446"
-      },
-      {
-        "source": "SANS ISC",
-        "url": "https://isc.sans.edu/diary/rss/33448"
       }
     ]
   },
@@ -26883,272 +27152,6 @@
       {
         "source": "The Hacker News",
         "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html"
-      }
-    ]
-  },
-  {
-    "id": "9f6e376a81afef1d",
-    "date": "2026-11-10T17:32:01+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Hackers Can Exploit SAP PROXYGATE and ICM2SHELL Flaws for Unauthorized Full System Access",
-    "summary": "SAP has released fixes for PROXYGATE and ICM2SHELL, critical security flaws that could let attackers take control of SAP systems without signing in. Disclosed during the November 10, 2026, Security Patch Day, the vulnerabilities carry maximum CVSS scores of 10.0 and affect core components used across business applications. Onapsis Research Labs discovered and reported both […] The post Hackers Can Exploit SAP PROXYGATE and ICM2SHELL Flaws for Unauthorized Full System Access appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "SAP has released fixes for PROXYGATE and ICM2SHELL, critical security flaws that could let attackers take control of SAP systems without signing in.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/sap-proxygate-and-icm2shell-flaws/",
-    "target": "Can Exploit SAP PROXYGATE",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/sap-proxygate-and-icm2shell-flaws/"
-      }
-    ]
-  },
-  {
-    "id": "e3dc9b7a9aa310da",
-    "date": "2026-11-10T17:21:27+00:00",
-    "source": "HackRead",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "AI-Powered Malware Analysis Uncovers Hidden Phishing Threats and Reduces SOC Workload",
-    "summary": "AI powered malware analysis helps teams reveal hidden phishing attacks, connect related threats and automate reports to reduce investigation workload.",
-    "article_text": "",
-    "quick_summary": [
-      "AI powered malware analysis helps teams reveal hidden phishing attacks, connect related threats and automate reports to reduce investigation workload.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://hackread.com/ai-powered-malware-analysis-phishing-threats-soc-workload/",
-    "target": "AI-Powered Malware Analysis Uncovers",
-    "type": "Malware",
-    "severity": "High",
-    "sources": [
-      "HackRead"
-    ],
-    "links": [
-      {
-        "source": "HackRead",
-        "url": "https://hackread.com/ai-powered-malware-analysis-phishing-threats-soc-workload/"
-      }
-    ]
-  },
-  {
-    "id": "4788cd4c6b8d104d",
-    "date": "2026-11-10T17:19:58+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Railway Reveals How Hackers Used AI Agents to Steal API Keys and Rack Up $740,000 in Charges",
-    "summary": "Railway has revealed how an attacker used AI agents, a build system flaw, and cloud access mistakes to steal customer secrets and generate an estimated $740,000 in unauthorized charges. Its November 10 report describes an attack that crossed several internal systems while engineers worked to close multiple entry points. The findings expand on the earlier […] The post Railway Reveals How Hackers Used AI Agents to Steal API Keys and Rack Up $740,000 in Charges appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Railway has revealed how an attacker used AI agents, a build system flaw, and cloud access mistakes to steal customer secrets and generate an estimated $740,000 in unauthorized charges.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/railway-details-data-breach/",
-    "target": "Railway Reveals Agents Steal",
-    "type": "General Cybersecurity",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/railway-details-data-breach/"
-      }
-    ]
-  },
-  {
-    "id": "f77845fa1ebe2ddf",
-    "date": "2026-11-10T16:54:37+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Notion Confirms AI Chat Transcripts Exposed in Fireworks AI Breach, Affecting Customer Workspaces",
-    "summary": "Notion has confirmed that a security incident at Fireworks AI exposed Notion AI chat transcripts linked to fewer than 1% of its customer workspaces. Insights, a feature that helps teams understand their AI usage, used the affected conversations. Notion said its own systems were not breached and no other Notion features were affected. The company […] The post Notion Confirms AI Chat Transcripts Exposed in Fireworks AI Breach, Affecting Customer Workspaces appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Notion has confirmed that a security incident at Fireworks AI exposed Notion AI chat transcripts linked to fewer than 1% of its customer workspaces.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/notion-confirms-data-breach/",
-    "target": "Notion Confirms Chat Transcripts",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/notion-confirms-data-breach/"
-      }
-    ]
-  },
-  {
-    "id": "a602d3fa59a6ff6a",
-    "date": "2026-11-10T16:45:00+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
-    "summary": "SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be doing with SBOM data once they have it. The post Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be ",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
-    "target": "Software Transparency Changing",
-    "type": "General Cybersecurity",
-    "severity": "Critical",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/"
-      }
-    ]
-  },
-  {
-    "id": "5ccbb1352e973893",
-    "date": "2026-11-10T16:43:58+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Ivanti Patches New Security Flaws Affecting Endpoint Manager, EPMM, Sentry, CSA, and Workspace Manager",
-    "summary": "Ivanti has released security updates for Endpoint Manager, Endpoint Manager Mobile, Sentry, Cloud Services Application, and User Workspace Manager. The November 2026 disclosures cover flaws that could allow remote code execution, changes to trusted certificates, data exposure, and service disruption. Two critical vulnerabilities in Endpoint Manager and CSA present the highest risks. Ivanti said it […] The post Ivanti Patches New Security Flaws Affecting Endpoint Manager, EPMM, Sentry, CSA, and Workspace Manager appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "Ivanti has released security updates for Endpoint Manager, Endpoint Manager Mobile, Sentry, Cloud Services Application, and User Workspace Manager.",
-      "Risk: general cybersecurity update",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://cybersecuritynews.com/ivanti-security-flaws/",
-    "target": "Ivanti Patches Affecting Endpoint",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/ivanti-security-flaws/"
-      }
-    ]
-  },
-  {
-    "id": "6300cc4e78ac7cf7",
-    "date": "2026-11-10T16:42:02+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code",
-    "summary": "Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees. The post Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
-    "target": "Google Widens Gemini Carbon",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/"
-      }
-    ]
-  },
-  {
-    "id": "a5141f6b307a166a",
-    "date": "2026-11-10T16:17:16+00:00",
-    "source": "BleepingComputer",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-    "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-    "article_text": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. Xen Orchestra is a web-based management platform developed by French software company Vates, used to manage XCP-ng virtualization environments, including virtual machines, hosts, and pools. According to a Vates security advisory , the flaw stems from how Xen Orchestra processes authentication tokens sent through REST API requests. Once authenticated, attackers can retrieve \"reusable login token IDs\" through the /rest/v0/users/me/authentication_tokens REST API endpoint, which can be used for further access. \"An adversary can bypass authentication and perform actions with 'Admin' privilege. Xen Orchestra compromise can lead to arbitrary code execution on managed pools and a full XCP-ng node takeover as root ,\" warns Vates . The company has released Xen Orchestra 6.9.1 (stable) and 6.10.0 (latest), including patched xo-server packages 5.211.2 and 5.213.1 to fix these security vulnerabilities. Administrators should install the update immediately, and if not possible, restrict Xen Orchestra access to dedicated management networks and block known malicious IP addresses. Security researchers Filip Magic and Christoffer Olsen of TDC NET Security discovered the vulnerability. Vates confirmed that the vulnerability is being actively exploited and shared the following indicators of compromise (IOCs) to help administrators identify attacks: Attacker's infrastructure: Connections to 91.211.251.112:8001 or ustar3rqxgnskzgnwkgpofgtvxevm6cx3lxdbwt4mndtveqyaohid.onion:3333 . Modified VM configurations: Virtual machines configured with the hvm_serial: file parameter. Unusual files: /etc/cron.d/zz-ustar , /etc/cron.d/zz-ustar2 , /.ustar5 , and /.ustar6 . Administrators can also run the following commands on XCP-ng hosts to check for unusual VM configurations, virtual machines configured to use a file for its serial port, and malicious files: The company also says these IOCs are only associated with this known attack campaign and may differ for other threat actors. Companies that believe they are compromised should rotate passwords and secrets used by their virtualization environments. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. Hackers now exploit critical Barracuda ESG flaws to gain root access CISA says max severity GitLab flaw now exploited in the wild BeyondTrust patches zero-day exploited in attacks since August Ivanti warns of Connect Secure zero-day exploited in attacks Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto N-able takes cloud platform offline after 30+ \"zero-days\" published Vanderbilt University hit in BYOD ransomware attack, data theft claimed Iris Ohyama data cloud breach exposes info of 7.7 million customers Download the AI Playbook to see how MSPs cut resolution times and protect client renewals. Monitor, analyze, and promptly mitigate risks across your external digital landscape with the CTM360. Join our Community Edition. Everything you need to build, deploy, and monitor AI agents across your GRC program. Overdue a password health-check? Audit your Active Directory for free Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-    "target": "Critical Xen Orchestra",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/"
-      }
-    ]
-  },
-  {
-    "id": "80484432d6218b88",
-    "date": "2026-11-10T16:08:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
-    "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-    "article_text": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. FireWorks provides a high-performance inference platform for developers who want to deploy and run open-source artificial intelligence models (such as Mistral, Meta's Llama, or Google's Gemma) without worrying about hardware bottlenecks and complex infrastructure tasks. The company notified law enforcement and customers of another security incident in early October after attackers accessed environment variables containing API keys and tokens stored as secrets for a limited number of accounts. \"The evidence indicates links to a cybercriminal threat actor group, which is financially motivated and aimed at selling tokens from unauthorized access to Large Language Models (LLMs) to illicit routing gateways, known as 'LLMJacking',\" Fireworks said at the time. After revoking compromised internal credentials, affected Fireworks API keys, and keys created by the attackers, Fireworks discovered another security incident on October 23. In the new breach, the threat actors accessed resource metadata (e.g., Fireworks resource identifiers, display names, descriptions, creation time), billing information (e.g., billing and shipping addresses, invoice and payment history, account balance, and credit usage), and incomplete model weights and datasets for some customers. However, the company said the attackers couldn't access customer payment card numbers because Fireworks doesn't store them. \"A third-party cloud provider that hosted Fireworks R&D machines experienced a security incident on October 23. On October 24, the unauthorized third party used it to reach Fireworks development machines and then run an unauthorized workload that led to additional customer data impact,\" Fireworks noted in a Monday advisory. \"We detected this activity on the same day, and followed our incident response processes to take immediate remediation measures and close known critical vulnerabilities. As of October 25, we have not detected further evidence of successful unauthorized access by the threat actor on the Fireworks platform customers use.\" Since the attack, Fireworks revoked and replaced credentials and service accounts, restricted unauthorized network pathways, isolated affected systems, and tightened access to data storage and analytics systems to block public or unauthorized access to stored data. The company is now working with Palo Alto Networks' Unit 42 incident response division to secure its systems against future attacks and further investigate the incident's full scope and impact. One week ago, researchers at Google's Threat Intelligence Group (GTIG) and Mandiant reported that large language model hijacking attacks (also known as LLMjacking) are driving record costs for compromised organizations , with cloud AI charges reaching as high as $1 million due to fraudulent calls using stolen API keys. Adaptive Security's AI agents analyze email intent, context, and behavior to uncover phishing, business email compromise, and invoice fraud. See what's getting through with a 14-day read-only scan of Microsoft 365 or Google Workspace, with no MX changes. WorkOS says attacker used ARTEX AI to breach internal sales app Automated AI agent used to breach cybersecurity nonprofit DIVD OpenAI hacked Australian Medicare govt site, probed data providers Binance denies data breach after alleged ShinyHunters claims Hackers pull off $133 million French bank heist via service provider Iris Ohyama data cloud breach exposes info of 7.7 million customers N-able takes cloud platform offline after 30+ \"zero-days\" published Overdue a password health-check? Audit your Active Directory for free Your carrier tracks you. We don’t. Switch to Cape, America’s Privacy-first Mobile Carrier. Everything you need to build, deploy, and monitor AI agents across your GRC program. Monitor, analyze, and promptly mitigate risks across your external digital landscape with the CTM360. Join our Community Edition. Alert volume shouldn’t be deciding your detection coverage. See where the gaps are and how to fund the fix. Your employees already connected AI to Gmail and Drive. Find out what it can read in the Workspace Risk Index. Read our posting guidelinese to learn what content is prohibited.",
-    "quick_summary": [
-      "Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
-    "target": "Fireworks",
-    "type": "Data Leak / Breach",
-    "severity": "Critical",
-    "sources": [
-      "The Record",
-      "BleepingComputer"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks"
-      },
-      {
-        "source": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/"
       }
     ]
   }
