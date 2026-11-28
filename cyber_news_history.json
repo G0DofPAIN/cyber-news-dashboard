@@ -1,65 +1,7 @@
 [
   {
-    "id": "2c109e55e2f5a7ad",
-    "date": "2026-11-28T01:58:35.864160+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "CVE CVE-2026-131914: Abandoned ASP.NET Library Since 2008 Exposes Unauthenticated RCE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-131914-abandoned-aspnet-library-since-2008-exposes-unauthenticated-rce",
-    "target": "CVE CVE-2026-131914",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-131914-abandoned-aspnet-library-since-2008-exposes-unauthenticated-rce"
-      }
-    ]
-  },
-  {
-    "id": "4ddfe1e790908737",
-    "date": "2026-11-28T01:58:35.864040+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "EXPLOIT Binary-parser: The Fix That Wasn't Enough — New Code Injection Scores CVSS 9.2",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/news/cybersecurity/binary-parser-the-fix-that-wasnt-enough-new-code-injection-scores-cvss-92",
-    "target": "EXPLOIT Binary-parser",
-    "type": "Vulnerability",
-    "severity": "Medium",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/binary-parser-the-fix-that-wasnt-enough-new-code-injection-scores-cvss-92"
-      }
-    ]
-  },
-  {
     "id": "30d0503dbe128784",
-    "date": "2026-11-28T01:58:35.863876+00:00",
+    "date": "2026-11-28T10:25:54.203845+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -88,7 +30,7 @@
   },
   {
     "id": "f7239e981062c1b3",
-    "date": "2026-11-28T01:58:35.863755+00:00",
+    "date": "2026-11-28T10:25:54.203744+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -117,7 +59,7 @@
   },
   {
     "id": "2dd0d8e8c3b178b4",
-    "date": "2026-11-28T01:58:35.863634+00:00",
+    "date": "2026-11-28T10:25:54.203642+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -146,7 +88,7 @@
   },
   {
     "id": "469d02f9e47b39f4",
-    "date": "2026-11-28T01:58:35.863484+00:00",
+    "date": "2026-11-28T10:25:54.203512+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -174,13 +116,13 @@
     ]
   },
   {
-    "id": "e88242c2fc56ff41",
-    "date": "2026-11-28T01:58:35.863383+00:00",
+    "id": "9b9a5bfd6dfceeda",
+    "date": "2026-11-28T10:25:54.203422+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "Ruby2Shell: One-Byte Overflow Opens RCE Risk for Exposed Ruby Servers VULN CRITICAL",
+    "title": "ZERO-DAY Cacti Zero-Day: RCE in Four HTTP Requests, No Patch Available",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
@@ -188,9 +130,9 @@
       "Risk: vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/vulnerabilities/ruby2shell-one-byte-overflow-opens-rce-risk-for-exposed-ruby-servers",
-    "target": "Ruby2Shell",
-    "type": "Data Leak / Breach",
+    "link": "https://deafnews.it/en/news/cybersecurity/cacti-zero-day-rce-in-four-http-requests-no-patch-available",
+    "target": "ZERO-DAY Cacti Zero-Day",
+    "type": "Vulnerability",
     "severity": "Critical",
     "sources": [
       "DeafNews"
@@ -198,42 +140,47 @@
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/vulnerabilities/ruby2shell-one-byte-overflow-opens-rce-risk-for-exposed-ruby-servers"
+        "url": "https://deafnews.it/en/news/cybersecurity/cacti-zero-day-rce-in-four-http-requests-no-patch-available"
       }
     ]
   },
   {
-    "id": "5742a9f6352e7189",
-    "date": "2026-11-28T01:58:35.863267+00:00",
+    "id": "b194bce3251a79fc",
+    "date": "2026-11-28T10:25:54.203326+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "GnuPG Patches CVE-2026-129975: Double Free in GPGME via Crafted OpenPGP Keys CYBERSEC CVE",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "title": "CRITICAL Juniper Session Smart Conductor: Active Exploitation Confirmed for Critical RCE",
+    "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek .",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
+      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
       "Action: check affected products, patch status, and exposed services."
     ],
-    "link": "https://deafnews.it/en/news/cybersecurity/gnupg-patches-cve-2026-129975-double-free-in-gpgme-via-crafted-openpgp-keys",
-    "target": "GnuPG Patches CVE-2026-129975",
+    "link": "https://deafnews.it/en/news/cybersecurity/juniper-session-smart-conductor-active-exploitation-confirmed-for-critical-rce",
+    "target": "CRITICAL Juniper Session Smart",
     "type": "Vulnerability",
-    "severity": "Medium",
+    "severity": "Critical",
     "sources": [
-      "DeafNews"
+      "DeafNews",
+      "SecurityWeek"
     ],
     "links": [
       {
         "source": "DeafNews",
-        "url": "https://deafnews.it/en/news/cybersecurity/gnupg-patches-cve-2026-129975-double-free-in-gpgme-via-crafted-openpgp-keys"
+        "url": "https://deafnews.it/en/news/cybersecurity/juniper-session-smart-conductor-active-exploitation-confirmed-for-critical-rce"
+      },
+      {
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/"
       }
     ]
   },
   {
     "id": "e8bf814f7bce036e",
-    "date": "2026-11-28T01:58:35.863147+00:00",
+    "date": "2026-11-28T10:25:54.203223+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -262,7 +209,7 @@
   },
   {
     "id": "970f0bc21ed1dbb1",
-    "date": "2026-11-28T01:58:35.863028+00:00",
+    "date": "2026-11-28T10:25:54.203111+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -291,7 +238,7 @@
   },
   {
     "id": "e8092023b9a79a0f",
-    "date": "2026-11-28T01:58:35.862889+00:00",
+    "date": "2026-11-28T10:25:54.203009+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -319,8 +266,37 @@
     ]
   },
   {
+    "id": "74128d77772c1096",
+    "date": "2026-11-28T10:25:54.202913+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "CVE-2026-131914: Abandoned ASP.NET Library Since 2008 Exposes Unauthenticated RCE CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/cve-2026-131914-abandoned-aspnet-library-since-2008-exposes-unauthenticated-rce",
+    "target": "CVE-2026-131914",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/cve-2026-131914-abandoned-aspnet-library-since-2008-exposes-unauthenticated-rce"
+      }
+    ]
+  },
+  {
     "id": "3869629ceb173a84",
-    "date": "2026-11-28T01:58:35.862649+00:00",
+    "date": "2026-11-28T10:25:54.202799+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -349,7 +325,7 @@
   },
   {
     "id": "6b917a7c5fe47864",
-    "date": "2026-11-28T01:58:35.862500+00:00",
+    "date": "2026-11-28T10:25:54.202672+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -378,7 +354,7 @@
   },
   {
     "id": "cfb2d78ec0159a8d",
-    "date": "2026-11-28T01:58:35.861532+00:00",
+    "date": "2026-11-28T10:25:54.201785+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
@@ -406,24 +382,24 @@
     ]
   },
   {
-    "id": "e098c5f1be2af621",
-    "date": "2026-11-28T01:58:35.861245+00:00",
+    "id": "db5ae4d0a95a1fa3",
+    "date": "2026-11-28T10:25:54.201325+00:00",
     "source": "DeafNews",
     "quality": "Medium",
     "scope": "Research",
     "category": "",
-    "title": "// 1 CVE · 1 EXPLOIT IN THE LAST 24H →",
+    "title": "// 1 CRITICAL · 1 ZERO-DAY · 2 CVE · 3 EXPLOIT IN THE LAST 24H →",
     "summary": "Discovered from DeafNews page. Open full article for more details.",
     "article_text": "",
     "quick_summary": [
       "Open full article for more details.",
       "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
+      "Action: check affected products, patch status, and exposed services."
     ],
     "link": "https://deafnews.it/en/threats",
-    "target": "CVE EXPLOIT LAST",
+    "target": "CRITICAL ZERO-DAY CVE",
     "type": "Vulnerability",
-    "severity": "Medium",
+    "severity": "Critical",
     "sources": [
       "DeafNews"
     ],
@@ -436,7 +412,7 @@
   },
   {
     "id": "a82f0e67f1833065",
-    "date": "2026-11-28T01:58:35.056760+00:00",
+    "date": "2026-11-28T10:25:52.933188+00:00",
     "source": "InfoStealers Weekly Reports",
     "quality": "High",
     "scope": "Weekly",
@@ -569,7 +545,7 @@
   },
   {
     "id": "35b1940877dd6f6d",
-    "date": "2026-11-28T01:58:34.218357+00:00",
+    "date": "2026-11-28T10:25:51.521548+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -598,7 +574,7 @@
   },
   {
     "id": "38c53a92787aa5c2",
-    "date": "2026-11-28T01:58:34.218220+00:00",
+    "date": "2026-11-28T10:25:51.521433+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -627,7 +603,7 @@
   },
   {
     "id": "9485af024e2857cd",
-    "date": "2026-11-28T01:58:34.218069+00:00",
+    "date": "2026-11-28T10:25:51.521303+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -656,7 +632,7 @@
   },
   {
     "id": "4b4b29eb21abe6d1",
-    "date": "2026-11-28T01:58:34.217904+00:00",
+    "date": "2026-11-28T10:25:51.521155+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -685,7 +661,7 @@
   },
   {
     "id": "c0fa04dcb2d3e1b2",
-    "date": "2026-11-28T01:58:34.217763+00:00",
+    "date": "2026-11-28T10:25:51.521034+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -714,7 +690,7 @@
   },
   {
     "id": "2d59d762f740dbb3",
-    "date": "2026-11-28T01:58:34.217615+00:00",
+    "date": "2026-11-28T10:25:51.520914+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -743,7 +719,7 @@
   },
   {
     "id": "2037d8cdbc47696a",
-    "date": "2026-11-28T01:58:34.217475+00:00",
+    "date": "2026-11-28T10:25:51.520795+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -772,7 +748,7 @@
   },
   {
     "id": "d1f26bcda2876085",
-    "date": "2026-11-28T01:58:34.217335+00:00",
+    "date": "2026-11-28T10:25:51.520673+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -801,7 +777,7 @@
   },
   {
     "id": "c231d5088fe5a1e4",
-    "date": "2026-11-28T01:58:34.217192+00:00",
+    "date": "2026-11-28T10:25:51.520537+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -830,7 +806,7 @@
   },
   {
     "id": "1893572912a43c63",
-    "date": "2026-11-28T01:58:34.217047+00:00",
+    "date": "2026-11-28T10:25:51.520416+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -859,7 +835,7 @@
   },
   {
     "id": "89923cc393c14bb3",
-    "date": "2026-11-28T01:58:34.216861+00:00",
+    "date": "2026-11-28T10:25:51.520284+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -888,7 +864,7 @@
   },
   {
     "id": "d77c417212b8164f",
-    "date": "2026-11-28T01:58:34.216670+00:00",
+    "date": "2026-11-28T10:25:51.520074+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -917,7 +893,7 @@
   },
   {
     "id": "d3a437ac70a8f436",
-    "date": "2026-11-28T01:58:34.216485+00:00",
+    "date": "2026-11-28T10:25:51.519916+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -946,7 +922,7 @@
   },
   {
     "id": "b617a41b84a9bf55",
-    "date": "2026-11-28T01:58:34.216331+00:00",
+    "date": "2026-11-28T10:25:51.519786+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -975,7 +951,7 @@
   },
   {
     "id": "70ae9c7264be097e",
-    "date": "2026-11-28T01:58:34.216173+00:00",
+    "date": "2026-11-28T10:25:51.519650+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1004,7 +980,7 @@
   },
   {
     "id": "09f4aad2c77d0b61",
-    "date": "2026-11-28T01:58:34.216026+00:00",
+    "date": "2026-11-28T10:25:51.519524+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1033,7 +1009,7 @@
   },
   {
     "id": "f97f7a4b0a62ae41",
-    "date": "2026-11-28T01:58:34.215775+00:00",
+    "date": "2026-11-28T10:25:51.519316+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1062,7 +1038,7 @@
   },
   {
     "id": "0e6100bf0c153dc5",
-    "date": "2026-11-28T01:58:34.215591+00:00",
+    "date": "2026-11-28T10:25:51.519050+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1091,7 +1067,7 @@
   },
   {
     "id": "ef71d982c56dadc4",
-    "date": "2026-11-28T01:58:34.215362+00:00",
+    "date": "2026-11-28T10:25:51.518861+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1120,7 +1096,7 @@
   },
   {
     "id": "34ab2d7653777bde",
-    "date": "2026-11-28T01:58:34.215189+00:00",
+    "date": "2026-11-28T10:25:51.518719+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1157,7 +1133,7 @@
   },
   {
     "id": "11c2a7b33dbb35ea",
-    "date": "2026-11-28T01:58:34.214248+00:00",
+    "date": "2026-11-28T10:25:51.517947+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1190,7 +1166,7 @@
   },
   {
     "id": "2be4493d75397621",
-    "date": "2026-11-28T01:58:34.213882+00:00",
+    "date": "2026-11-28T10:25:51.517658+00:00",
     "source": "CyberNews Security",
     "quality": "Medium",
     "scope": "General",
@@ -1214,6 +1190,238 @@
       {
         "source": "CyberNews Security",
         "url": "https://cybernews.com/personal-data-leak-check/"
+      }
+    ]
+  },
+  {
+    "id": "4fe9c0add016029a",
+    "date": "2026-11-28T10:09:43+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Critical Erlang/OTP Flaw Could Let Hackers Impersonate TLS Servers and Intercept Encrypted Traffic",
+    "summary": "A critical Erlang/OTP flaw, CVE-2026-124286 (CVSS 9.1), disclosed on November 24, 2026, allows attackers to impersonate trusted servers and intercept or modify TLS-protected traffic. The flaw affects TLS 1.2 clients, even those with server identity verification enabled, but does not impact TLS 1.3 connections. During the TLS handshake, clients use server certificates to verify the […] The post Critical Erlang/OTP Flaw Could Let Hackers Impersonate TLS Servers and Intercept Encrypted Traffic appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "A critical Erlang/OTP flaw, CVE-2026-124286 (CVSS 9.1), disclosed on November 24, 2026, allows attackers to impersonate trusted servers and intercept or modify TLS-protected traffic.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://cybersecuritynews.com/critical-erlang-otp-flaw/",
+    "target": "Critical ErlangOTP Could Let",
+    "type": "Vulnerability",
+    "severity": "Critical",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/critical-erlang-otp-flaw/"
+      }
+    ]
+  },
+  {
+    "id": "b8b41fb1095287c7",
+    "date": "2026-11-28T09:14:31+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Kenya eCitizen Data Breach – Hackers Reportedly Leak Identity Records of 32 Million Kenyans",
+    "summary": "Hackers have reportedly begun publishing identity records from Kenya’s eCitizen platform on the dark web. Nation’s review of the leaked eCitizen files found that the attackers had accessed data on 32,128,394 Kenyans. The figure reflects the reported scale of access. It does not mean every record has been published, and Kenyan authorities have not confirmed […] The post Kenya eCitizen Data Breach – Hackers Reportedly Leak Identity Records of 32 Million Kenyans appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Hackers have reportedly begun publishing identity records from Kenya’s eCitizen platform on the dark web.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/kenya-ecitizen-data-breach/",
+    "target": "Kenya Data Breach",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/kenya-ecitizen-data-breach/"
+      }
+    ]
+  },
+  {
+    "id": "4fda53e1b357cdc6",
+    "date": "2026-11-28T08:08:11+00:00",
+    "source": "The Hacker News",
+    "quality": "High",
+    "scope": "General",
+    "category": "",
+    "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+    "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in response to a number of posts on Reddit. \"Unfortunately, a small number of pCloud Pass user email",
+    "article_text": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in response to a number of posts on Reddit. \"Unfortunately, a small number of pCloud Pass user email addresses were exposed and login attempts were made. Our system sends a notification automatically to each of these addresses.\" pCloud emphasized that user data was not compromised in the attack, adding passwords, notes, and other information stored in pCloud Pass are encrypted and can only be accessed after providing a Master Password. It also said the incident was limited to pCloud Pass, and that pCloud Cloud Storage services are not affected. \"With the advancement of AI, vulnerabilities in the software that every online service relies upon (such as operating systems, programming languages, and libraries) are being discovered faster than ever - sometimes even before the developers themselves identify them and release a fix,\" the pCloud Team said. pCloud has also urged users to stay alert for phishing attacks that may trick recipients into entering their Master Password or recovery words by email, phone, or chat. The development comes after numerous Reddit users reported receiving email alerts about a new device signing in to their pCloud Pass, despite having two-factor authentication (2FA) enabled, along with an option to \"Open Settings\" and change their Master Password if the action was not from them. In all observed cases, a device named \"pd\" has been found to connect from the following two IP addresses belonging to pCloud's own infrastructure in Luxembourg - However, it's unclear if the sign-in \"attempts\" were successful and if the attackers managed to access or download the encrypted vaults. pCloud also has not disclosed how the attackers got in, when the intrusion occurred, and for how long they had access before it was detected. One Reddit user by the name \"antenore\" has also reported that the \"Open settings\" button in the email message \"goes through pass.pcloud.com/track, but the base64 redirect inside it decodes to https://passqa1.pcloud.com/?#/preferences. That looks like an internal QA environment, and it does not load (ERR_CONNECTION_ABORTED).\" The Hacker News has contacted pCloud for comment, and we will update the story if we hear back. This is the third security incident targeting password management software this month alone. At the start of November 2026, mSeven Software urged customers to change their passwords, reset 2FA, and remove their passkeys after detecting suspicious activity associated with its mSecure password management application. Although the company did not provide any details as to what systems were compromised, whether customer data was accessed, and how many users were impacted, customers have since shared responses reportedly sent by mSeven that indicate an unknown threat actor \"acquired an encrypted copy of a database containing information belonging to current and former users of the mSecure password management application.\" The email, however, stated that there is \"no evidence that the unauthorized actor has accessed the confidential information stored within the database in the mSecure Cloud. Please note, this issue only pertains to users that were synching with the mSecure Cloud.\" Customers have also expressed dissatisfaction over the company's lack of transparency and explanations about how the breach took place. \"Well it stinks that mSecure is completely silent here! Super unhelpful. I'm going on every website that has app reviews and giving mSecure the lowest rating. They're awful at handling this breach!,\" one user said. \"I feel like even if our data is still secure, I still do not like that [sic] lack of transparency and communication the company has provided,\" another user said. \"Not a good way to run any business, especially one where trust is involved with passwords and documents.\" On Wednesday, 1Password disclosed a security incident involving its backend systems after a threat actor compromised an employee's GitHub account and deployed malicious code to the company's backend services to steal some customer information. Although the access did not extend to customer password vaults or other secrets, 1Password has not revealed how the employee's account was compromised. It also pro",
+    "quick_summary": [
+      "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts.",
+      "Risk: credentials/infostealer risk",
+      "Action: review compromised credentials, MFA/session controls, and endpoint detections."
+    ],
+    "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+    "target": "Password Manager Hit Involving",
+    "type": "Data Leak / Breach",
+    "severity": "High",
+    "sources": [
+      "The Hacker News"
+    ],
+    "links": [
+      {
+        "source": "The Hacker News",
+        "url": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html"
+      }
+    ]
+  },
+  {
+    "id": "361b7f944cb270b3",
+    "date": "2026-11-28T04:48:49+00:00",
+    "source": "Cyber Security News",
+    "quality": "Medium",
+    "scope": "General",
+    "category": "",
+    "title": "Telegram Warns iPhone Users Are Being Hacked on a Massive Scale; Just Visiting a Website Could Be Enough",
+    "summary": "Telegram is sending security alerts to iPhone users running older versions of iOS, CEO Pavel Durov said on November 27. In a post on X, Durov said iPhone users were being hacked “on a massive scale” and warned that opening a website could be enough to break into a vulnerable device. The alert tells users […] The post Telegram Warns iPhone Users Are Being Hacked on a Massive Scale; Just Visiting a Website Could Be Enough appeared first on Cyber Security News .",
+    "article_text": "",
+    "quick_summary": [
+      "Telegram is sending security alerts to iPhone users running older versions of iOS, CEO Pavel Durov said on November 27.",
+      "Risk: general cybersecurity update",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://cybersecuritynews.com/iphone-users-are-being-hacked/",
+    "target": "Telegram Users Being Hacked",
+    "type": "General Cybersecurity",
+    "severity": "High",
+    "sources": [
+      "Cyber Security News"
+    ],
+    "links": [
+      {
+        "source": "Cyber Security News",
+        "url": "https://cybersecuritynews.com/iphone-users-are-being-hacked/"
+      }
+    ]
+  },
+  {
+    "id": "4ddfe1e790908737",
+    "date": "2026-11-28T01:58:35.864040+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "EXPLOIT Binary-parser: The Fix That Wasn't Enough — New Code Injection Scores CVSS 9.2",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/binary-parser-the-fix-that-wasnt-enough-new-code-injection-scores-cvss-92",
+    "target": "EXPLOIT Binary-parser",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/binary-parser-the-fix-that-wasnt-enough-new-code-injection-scores-cvss-92"
+      }
+    ]
+  },
+  {
+    "id": "e88242c2fc56ff41",
+    "date": "2026-11-28T01:58:35.863383+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "Ruby2Shell: One-Byte Overflow Opens RCE Risk for Exposed Ruby Servers VULN CRITICAL",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/vulnerabilities/ruby2shell-one-byte-overflow-opens-rce-risk-for-exposed-ruby-servers",
+    "target": "Ruby2Shell",
+    "type": "Data Leak / Breach",
+    "severity": "Critical",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/vulnerabilities/ruby2shell-one-byte-overflow-opens-rce-risk-for-exposed-ruby-servers"
+      }
+    ]
+  },
+  {
+    "id": "5742a9f6352e7189",
+    "date": "2026-11-28T01:58:35.863267+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "GnuPG Patches CVE-2026-129975: Double Free in GPGME via Crafted OpenPGP Keys CYBERSEC CVE",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: check affected products, patch status, and exposed services."
+    ],
+    "link": "https://deafnews.it/en/news/cybersecurity/gnupg-patches-cve-2026-129975-double-free-in-gpgme-via-crafted-openpgp-keys",
+    "target": "GnuPG Patches CVE-2026-129975",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/news/cybersecurity/gnupg-patches-cve-2026-129975-double-free-in-gpgme-via-crafted-openpgp-keys"
+      }
+    ]
+  },
+  {
+    "id": "e098c5f1be2af621",
+    "date": "2026-11-28T01:58:35.861245+00:00",
+    "source": "DeafNews",
+    "quality": "Medium",
+    "scope": "Research",
+    "category": "",
+    "title": "// 1 CVE · 1 EXPLOIT IN THE LAST 24H →",
+    "summary": "Discovered from DeafNews page. Open full article for more details.",
+    "article_text": "",
+    "quick_summary": [
+      "Open full article for more details.",
+      "Risk: vulnerability/exploitation risk",
+      "Action: read full article if the vendor/customer/environment is relevant."
+    ],
+    "link": "https://deafnews.it/en/threats",
+    "target": "CVE EXPLOIT LAST",
+    "type": "Vulnerability",
+    "severity": "Medium",
+    "sources": [
+      "DeafNews"
+    ],
+    "links": [
+      {
+        "source": "DeafNews",
+        "url": "https://deafnews.it/en/threats"
       }
     ]
   },
@@ -1342,7 +1550,7 @@
     "category": "",
     "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
     "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set, detailed by SOCRadar, has been codenamed WeaveLotus. The activity is assessed to have comprised five intrusions in Thailand",
-    "article_text": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set, detailed by SOCRadar, has been codenamed WeaveLotus . The activity is assessed to have comprised five intrusions in Thailand and the Philippines and reconnaissance efforts against Indonesian government organizations. \"Initial access was achieved primarily by exploiting web application vulnerabilities and default credentials in open-source software, including GeoServer, JasperReports, osTicket, and exposed Laravel debug mode configurations,\" SOCRadar said in an analysis published Thursday. \"The threat actor established persistent internal network access using reverse SSH tunnels and moved laterally into downstream networks and applications.\" The links to Vietnam are based on the presence of native Vietnamese-language code comments, operational activity aligning with UTC+07:00 working hours, regional strategic targeting, and custom scripting. The sustained campaign, codenamed RedOps, was observed between August and September 2026. The threat actor has also been observed conducting open-source intelligence (OSINT), setting up automated Bing search scripts that scraped news and documents on military agreements involving the Philippines, China, and the U.S., with a particular emphasis on the South China Sea, a region of strategic and geopolitical importance . Earlier this August, Hunt.io disclosed details of another cyber espionage operation undertaken by a suspected Chinese threat actor targeting a nuclear research organization and a marine engineering and shipbuilding company to steal sensitive documents after gaining access through known security vulnerabilities. \"Following the OSINT phase, the operators enumerated government, military, and legislative entities across the Philippines, Thailand, and Indonesia, compromising targets in Thailand and the Philippines across five confirmed intrusions,\" SOCRadar said. \"Activity against Indonesian targets did not progress beyond reconnaissance.\" \"The core objective of RedOps appears to be the exfiltration of internal records and documents from Southeast Asian governments in support of Vietnam's foreign policy and military intelligence priorities.\" \"WeaveLotus conducted broad reconnaissance against Indonesian government agencies [between August and September 2026],\" SOCRadar said. \"The operators began with passive reconnaissance, harvesting Certificate Transparency (CT) logs via CertSpotter and crt.sh, before progressing to active Nmap port scans, VPN service fingerprinting (targeting Palo Alto GlobalProtect, Ivanti Connect Secure / Pulse Secure, Cisco ASA, and Fortinet FortiGate), and IMAP/POP3 banner grabbing across more than 30 organizations.\" The RedOps campaign is notable for the fact that it has only singled out government, military, and legislative institutions in the Philippines, Thailand, and Indonesia, with no evidence that private-sector entities were targeted. This indicates that the activity is consistent with state-directed intelligence collection. \"The RedOps campaign illustrates how a suspected Vietnam-linked espionage operation leveraged exposed applications, weak authentication controls, and persistent network tunnels to conduct intelligence collection across Southeast Asian government and military environments,\" SOCRadar said. \"The recovered tooling and operational artifacts provide valuable insight into the actor's methods, while the available evidence supports tracking WeaveLotus as a distinct activity cluster without conclusively establishing state sponsorship.\" Discover why SHA pinning alone isn't enough and learn how to close hidden security gaps in your GitHub Actions pipelines. Learn what 6,000 real-world attacks reveal about MFA weaknesses and how to stop AI-driven phishing and account takeovers. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "article_text": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set, detailed by SOCRadar, has been codenamed WeaveLotus . The activity is assessed to have comprised five intrusions in Thailand and the Philippines and reconnaissance efforts against Indonesian government organizations. \"Initial access was achieved primarily by exploiting web application vulnerabilities and default credentials in open-source software, including GeoServer, JasperReports, osTicket, and exposed Laravel debug mode configurations,\" SOCRadar said in an analysis published Thursday. \"The threat actor established persistent internal network access using reverse SSH tunnels and moved laterally into downstream networks and applications.\" The links to Vietnam are based on the presence of native Vietnamese-language code comments, operational activity aligning with UTC+07:00 working hours, regional strategic targeting, and custom scripting. The sustained campaign, codenamed RedOps, was observed between August and September 2026. The threat actor has also been observed conducting open-source intelligence (OSINT), setting up automated Bing search scripts that scraped news and documents on military agreements involving the Philippines, China, and the U.S., with a particular emphasis on the South China Sea, a region of strategic and geopolitical importance . Earlier this August, Hunt.io disclosed details of another cyber espionage operation undertaken by a suspected Chinese threat actor targeting a nuclear research organization and a marine engineering and shipbuilding company in the Philippines to steal sensitive documents after gaining access through known security vulnerabilities. \"Following the OSINT phase, the operators enumerated government, military, and legislative entities across the Philippines, Thailand, and Indonesia, compromising targets in Thailand and the Philippines across five confirmed intrusions,\" SOCRadar said. \"Activity against Indonesian targets did not progress beyond reconnaissance.\" \"The core objective of RedOps appears to be the exfiltration of internal records and documents from Southeast Asian governments in support of Vietnam's foreign policy and military intelligence priorities.\" \"WeaveLotus conducted broad reconnaissance against Indonesian government agencies [between August and September 2026],\" SOCRadar said. \"The operators began with passive reconnaissance, harvesting Certificate Transparency (CT) logs via CertSpotter and crt.sh, before progressing to active Nmap port scans, VPN service fingerprinting (targeting Palo Alto GlobalProtect, Ivanti Connect Secure / Pulse Secure, Cisco ASA, and Fortinet FortiGate), and IMAP/POP3 banner grabbing across more than 30 organizations.\" The RedOps campaign is notable for the fact that it has only singled out government, military, and legislative institutions in the Philippines, Thailand, and Indonesia, with no evidence that private-sector entities were targeted. This indicates that the activity is consistent with state-directed intelligence collection. \"The RedOps campaign illustrates how a suspected Vietnam-linked espionage operation leveraged exposed applications, weak authentication controls, and persistent network tunnels to conduct intelligence collection across Southeast Asian government and military environments,\" SOCRadar said. \"The recovered tooling and operational artifacts provide valuable insight into the actor's methods, while the available evidence supports tracking WeaveLotus as a distinct activity cluster without conclusively establishing state sponsorship.\" Discover why SHA pinning alone isn't enough and learn how to close hidden security gaps in your GitHub Actions pipelines. Learn what 6,000 real-world attacks reveal about MFA weaknesses and how to stop AI-driven phishing and account takeovers. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
     "quick_summary": [
       "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military ag",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk, ISNET vendor relevance",
@@ -2901,35 +3109,6 @@
     ]
   },
   {
-    "id": "d25ecdca871f59c1",
-    "date": "2026-11-26T23:51:54.675807+00:00",
-    "source": "DeafNews",
-    "quality": "Medium",
-    "scope": "Research",
-    "category": "",
-    "title": "// 1 CRITICAL · 2 CVE · 1 EXPLOIT IN THE LAST 24H →",
-    "summary": "Discovered from DeafNews page. Open full article for more details.",
-    "article_text": "",
-    "quick_summary": [
-      "Open full article for more details.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://deafnews.it/en/threats",
-    "target": "CRITICAL CVE EXPLOIT",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "DeafNews"
-    ],
-    "links": [
-      {
-        "source": "DeafNews",
-        "url": "https://deafnews.it/en/threats"
-      }
-    ]
-  },
-  {
     "id": "53300a4b4dfcc08e",
     "date": "2026-11-26T21:06:22+00:00",
     "source": "BleepingComputer",
@@ -3449,35 +3628,6 @@
     ]
   },
   {
-    "id": "beffe57eae9cd1c6",
-    "date": "2026-11-26T13:04:06+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
-    "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root.",
-      "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
-    "target": "Critical Juniper Session Smart",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/"
-      }
-    ]
-  },
-  {
     "id": "c209c2bac80ee2ca",
     "date": "2026-11-26T12:56:59+00:00",
     "source": "Cyber Security News",
@@ -3892,7 +4042,7 @@
     "category": "",
     "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
     "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states",
-    "article_text": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states that could still be abused to facilitate site takeover even after the fix. CVE-2026-132165 \"recently fixed several vulnerabilities within the Drupal core installer,\" Drupal maintainers said . \"However, certain sites in unusual or incomplete install states remain vulnerable to site takeover following that advisory, including production sites.\" \"It is not apparent in the user interface if a site is in the affected vulnerable state, and sites that are already compromised may no longer be in the vulnerable state.\" Drupal acknowledged that the vulnerability is being exploited in the wild, but emphasized that site owners who have already secured the installer (\"install.php\") are not impacted. Specifically, any website that left its installer remotely accessible following the fix for CVE-2026-132165 may have been compromised. Drupal is urging site administrators to take the following actions - After updating to the latest supported versions, it's recommended to run \"update.php\" to fix existing production sites in this state and secure the Drupal installer on all new and existing sites. According to statistics shared by StepSecurity, there are about 55,800 internet-facing Drupal sites as of November 26, 2026, out of which 31,500 services are running branches that are vulnerable to CVE-2026-132165 and roughly 15,000 are on the end-of-life 8 and 9 branches. Discover why SHA pinning alone isn't enough and learn how to close hidden security gaps in your GitHub Actions pipelines. Learn what 6,000 real-world attacks reveal about MFA weaknesses and how to stop AI-driven phishing and account takeovers. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "article_text": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states that could still be abused to facilitate site takeover even after the fix. CVE-2026-132165 \"recently fixed several vulnerabilities within the Drupal core installer,\" Drupal maintainers said . \"However, certain sites in unusual or incomplete install states remain vulnerable to site takeover following that advisory, including production sites.\" \"It is not apparent in the user interface if a site is in the affected vulnerable state, and sites that are already compromised may no longer be in the vulnerable state.\" Drupal acknowledged that the vulnerability is being exploited in the wild, but emphasized that site owners who have already secured the installer (\"install.php\") are not impacted. Specifically, any website that left its installer remotely accessible following the fix for CVE-2026-132165 may have been compromised. Drupal is urging site administrators to take the following actions - After updating to the latest supported versions, it's recommended to run \"update.php\" to fix existing production sites in this state and secure the Drupal installer on all new and existing sites. According to statistics shared by StepSecurity, there are about 55,800 internet-facing Drupal sites as of November 26, 2026, out of which 31,500 services are running branches that are vulnerable to CVE-2026-132165 and roughly 15,000 are on the end-of-life 8 and 9 branches. The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on November 27, 2026, added CVE-2026-136716 to its Known Exploited Vulnerabilities ( KEV ) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by November 30, 2026. Discover why SHA pinning alone isn't enough and learn how to close hidden security gaps in your GitHub Actions pipelines. Learn what 6,000 real-world attacks reveal about MFA weaknesses and how to stop AI-driven phishing and account takeovers. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
     "quick_summary": [
       "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild.",
       "Risk: vulnerability/exploitation risk",
@@ -5447,7 +5597,7 @@
     "category": "",
     "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
     "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch",
-    "article_text": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr . The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - Advisories for both the flaws were published on November 24, 2026, in the following versions - \"Attackers sent error-based exploit probes to validate that the server is vulnerable by creating and invoking stored queries,\" the preemptive exposure management firm said in an X post today. Yordan Ganchev, principal threat intelligence specialist at watchTowr, said the vulnerabilities can allow attackers to bypass security restrictions, interact with internal services, retrieve stored secrets, forge authentication credentials, and deserialize and run code on affected systems. \"On November 25, we observed in-the-wild exploitation against our global honeypot network in the early morning hours leveraging CVE-2026-120705 and CVE-2026-129244,\" Ganchev said. \"Threat actors from multiple IP addresses were observed validating vulnerable systems on the internet by creating stored queries on GeoServer machines, checking whether they were created, and deleting them immediately afterward.\" Eye Security, which discovered and reported CVE-2026-120705, said the flaw can be combined with two other vulnerabilities in the same product to create an unauthenticated remote code execution chain - In a hypothetical attack chain, a bad actor can follow the steps below - According to the project maintainers, CVE-2026-129245 is also part of a five-step unauthenticated remote command execution chain that involves - \"An attacker who obtains an administrator password digest, through any file disclosure or a copy of the data directory, can log in as that administrator,\" GeoServer maintainers said. \"Changing the key in security/config.xml does not help when the same file disclosure also reveals the key.\" Jonah Burgess, a Senior Security Researcher at Rapid7, who goes by the online alias CryptoCat has been acknowledged for independently discovering and reporting the five-step unauthenticated remote command execution chain on August 2, 2026. \"Prefixing the Web Feature Service (WFS) name, as in x/WFS, slips past the admin-only rule for stored queries. GeoServer turns escaped text in a saved query into live xi:include elements, which leaks the files holding the remember-me key and the admin password digest,\" the researcher said . In light of active exploitation of two of the flaws, users are advised to update to GeoServer versions 2.27.7 , 2.28.6 , and 3.0.2 released over the past month as soon as possible. The development comes a little over three months after another critical flaw in GeoServer ( CVE-2026-76904 , CVSS score: 9.8) witnessed active exploitation efforts as a zero-day. \"Organizations running publicly exposed GeoServer instances should prioritize patching them as soon as possible,\" Ganchev said. \"Any exposed systems should be audited for signs of credentials leaking, unauthorized access and code execution on the host. Where patching is not immediately possible, restrict access to the host.\" (The story has been updated after publication to include more details of the flaws and emphasize that advisories for the issues were released on November 24, 2026. The patches were originally released in October and early November 2026.) Discover why SHA pinning alone isn't enough and learn how to close hidden security gaps in your GitHub Actions pipelines. Learn what 6,000 real-world attacks reveal about MFA weaknesses and how to stop AI-driven phishing and account takeovers. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
+    "article_text": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr . The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - Advisories for both the flaws were published on November 24, 2026, in the following versions - \"Attackers sent error-based exploit probes to validate that the server is vulnerable by creating and invoking stored queries,\" the preemptive exposure management firm said in an X post today. Yordan Ganchev, principal threat intelligence specialist at watchTowr, said the vulnerabilities can allow attackers to bypass security restrictions, interact with internal services, retrieve stored secrets, forge authentication credentials, and deserialize and run code on affected systems. \"On November 25, we observed in-the-wild exploitation against our global honeypot network in the early morning hours leveraging CVE-2026-120705 and CVE-2026-129244,\" Ganchev said. \"Threat actors from multiple IP addresses were observed validating vulnerable systems on the internet by creating stored queries on GeoServer machines, checking whether they were created, and deleting them immediately afterward.\" Eye Security, which discovered and reported CVE-2026-120705, said the flaw can be combined with two other vulnerabilities in the same product to create an unauthenticated remote code execution chain - In a hypothetical attack chain, a bad actor can follow the steps below - According to the project maintainers, CVE-2026-129245 is also part of a five-step unauthenticated remote command execution chain that involves - \"An attacker who obtains an administrator password digest, through any file disclosure or a copy of the data directory, can log in as that administrator,\" GeoServer maintainers said. \"Changing the key in security/config.xml does not help when the same file disclosure also reveals the key.\" Jonah Burgess, a Senior Security Researcher at Rapid7, who goes by the online alias CryptoCat has been acknowledged for independently discovering and reporting the five-step unauthenticated remote command execution chain on August 2, 2026. \"Prefixing the Web Feature Service (WFS) name, as in x/WFS, slips past the admin-only rule for stored queries. GeoServer turns escaped text in a saved query into live xi:include elements, which leaks the files holding the remember-me key and the admin password digest,\" the researcher said . In light of active exploitation of two of the flaws, users are advised to update to GeoServer versions 2.27.7 , 2.28.6 , and 3.0.2 released over the past month as soon as possible. The development comes a little over three months after another critical flaw in GeoServer ( CVE-2026-76904 , CVSS score: 9.8) witnessed active exploitation efforts as a zero-day. \"Organizations running publicly exposed GeoServer instances should prioritize patching them as soon as possible,\" Ganchev said. \"Any exposed systems should be audited for signs of credentials leaking, unauthorized access and code execution on the host. Where patching is not immediately possible, restrict access to the host.\" The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on November 27, 2026, confirmed active exploitation of CVE-2026-120705 and CVE-2026-129243 by placing both the flaws in the Known Exploited Vulnerabilities ( KEV ) catalog. Federal Civilian Executive Branch (FCEB) agencies are recommended to apply the updates by November 30, 2026. (The story has been updated after publication to include more details of the flaws and emphasize that advisories for the issues were released on November 24, 2026. The patches were originally released in October and early November 2026.) Discover why SHA pinning alone isn't enough and learn how to close hidden security gaps in your GitHub Actions pipelines. Learn what 6,000 real-world attacks reveal about MFA weaknesses and how to stop AI-driven phishing and account takeovers. Get the latest news, expert insights, exclusive resources, and strategies from industry leaders, all for free.",
     "quick_summary": [
       "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr.",
       "Risk: credentials/infostealer risk, vulnerability/exploitation risk",
@@ -26914,151 +27064,6 @@
       {
         "source": "SecurityWeek",
         "url": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/"
-      }
-    ]
-  },
-  {
-    "id": "fe25ef3827863db9",
-    "date": "2026-11-13T13:39:18+00:00",
-    "source": "Cyber Security News",
-    "quality": "Medium",
-    "scope": "General",
-    "category": "",
-    "title": "Massive Microsoft 365 Outage Impacts Exchange Online, Teams, SharePoint, Copilot, and Defender XDR Users",
-    "summary": "A major Microsoft 365 outage disrupted cloud service access on November 12 and continued into November 13, 2026, as Microsoft worked to restore failing infrastructure. Microsoft confirmed that connectivity problems could affect users in any region, expanding the scope beyond its initial investigation into Exchange Online mailbox access in the Americas. The reported impact spans […] The post Massive Microsoft 365 Outage Impacts Exchange Online, Teams, SharePoint, Copilot, and Defender XDR Users appeared first on Cyber Security News .",
-    "article_text": "",
-    "quick_summary": [
-      "A major Microsoft 365 outage disrupted cloud service access on November 12 and continued into November 13, 2026, as Microsoft worked to restore failing infrastructure.",
-      "Risk: ISNET vendor relevance",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://cybersecuritynews.com/massive-microsoft-365-outage/",
-    "target": "Massive Microsoft 365 Outage",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "Cyber Security News"
-    ],
-    "links": [
-      {
-        "source": "Cyber Security News",
-        "url": "https://cybersecuritynews.com/massive-microsoft-365-outage/"
-      }
-    ]
-  },
-  {
-    "id": "1920b01a5a3a0ec0",
-    "date": "2026-11-13T13:00:00+00:00",
-    "source": "Dark Reading",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
-    "summary": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
-    "article_text": "",
-    "quick_summary": [
-      "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
-    "target": "Attackers Binance Breach Targeted",
-    "type": "Data Leak / Breach",
-    "severity": "High",
-    "sources": [
-      "Dark Reading"
-    ],
-    "links": [
-      {
-        "source": "Dark Reading",
-        "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls"
-      }
-    ]
-  },
-  {
-    "id": "8dcf4ede7b142300",
-    "date": "2026-11-13T12:47:00+00:00",
-    "source": "The Record",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Record number of cyber incidents reported to UK privacy regulator",
-    "summary": "British organizations have reported a record number of cyber incidents to the country’s data protection regulator this year, as cybersecurity firms blame data extortion and artificial intelligence for a surge in attacks.",
-    "article_text": "",
-    "quick_summary": [
-      "British organizations have reported a record number of cyber incidents to the country’s data protection regulator this year, as cybersecurity firms blame data extortion and artificial intelligence for a surge in attacks.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator",
-    "target": "Record",
-    "type": "Ransomware",
-    "severity": "High",
-    "sources": [
-      "The Record"
-    ],
-    "links": [
-      {
-        "source": "The Record",
-        "url": "https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator"
-      }
-    ]
-  },
-  {
-    "id": "3f72108015ffe9f0",
-    "date": "2026-11-13T12:41:01+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "Apify Confirms Customer Data Accessed in Cyberattack",
-    "summary": "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data.",
-      "Risk: general cybersecurity update",
-      "Action: read full article if the vendor/customer/environment is relevant."
-    ],
-    "link": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
-    "target": "Apify Confirms Customer Data",
-    "type": "General Cybersecurity",
-    "severity": "Low",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/"
-      }
-    ]
-  },
-  {
-    "id": "dae95d4bd4e04f3b",
-    "date": "2026-11-13T12:20:28+00:00",
-    "source": "SecurityWeek",
-    "quality": "High",
-    "scope": "General",
-    "category": "",
-    "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
-    "summary": "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks appeared first on SecurityWeek .",
-    "article_text": "",
-    "quick_summary": [
-      "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets.",
-      "Risk: vulnerability/exploitation risk",
-      "Action: check affected products, patch status, and exposed services."
-    ],
-    "link": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
-    "target": "SilentAir Intercept Calls SMS",
-    "type": "Vulnerability",
-    "severity": "Critical",
-    "sources": [
-      "SecurityWeek"
-    ],
-    "links": [
-      {
-        "source": "SecurityWeek",
-        "url": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/"
       }
     ]
   }
